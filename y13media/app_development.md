@@ -4,11 +4,13 @@ App Development
 Development Process Overview
 ----------------------------
 
-* Three Pillars (1 Min)
-    * Quality
-    * Cost
-    * Time
-* Roles in an agile development team (5 min)
+* Overview
+    * Introduction
+        * Global Professional Background (role in team)
+        * How a professional app development team works
+            * 'Agile' Methodology
+            * Business Objectives (Solution providers)
+* Roles in an agile development team
     * Developer
     * Test Engineer
     * Sysadmins
@@ -19,53 +21,28 @@ Development Process Overview
     * User Experience (UX)
     * Analytics
     * (caution about any weak link in this chain)
-* Agile software development team practice (6 Min)
+* Agile software development team practice
     * Concept of a Sprint (2 Week Period)
-    * Tickets Lifecycle ([Jira](http://))
-        * Deliverable Feature
-            * Title from business/user perspective
-            * COS's (Conditions of success)
-        * Sizing (Fibonacci)
-        * Feature Review
-        * QA/Testing
-    * Sprint Planning
-    * Daily Standups
-    * Bug Triage
-        * Remove 'opinion'. The secret [formula](http://).
-    * Retrospective
-        * Sailboat: Rocks, Anchor, Wind
-* The lifecycle of app development (5 Min)
-    * Iterations, MVP, Sizing the backlog
-    * Feature Releasing
-    * Beta split user base releasing
-    * Monitoring/Analytics
-* The difference between Android and iOS (5 Min)
-    * Android
-        * 1000's devices/os combinations
-        * [Material Design](http://)
-            * Accent colour
-    * iOS
-        * App store approval
-        * Apple design
-            * No physical back button
-            * Bounce Scroll
-* Software tooling (5 Min)
-    * Device Simulators/Devices
-    * Continuous Integration Pipelines ([Jenkins](http://))
-        * Android Auto Upload - Release per sprint
-        * Automated Tests ([Appium](http://))
-    * App Configuration ([Herald](http://))
-        * Turning features on/off
-    * [Crashlytics](http://)
-    * [Firebase](http://)
-* Creative Process (3 Min)
-    * Hack days
-    * Higher ups
-        * Director of Digital
-        * Head of Product
-        * Ashley
-    * We are 'Solution Providers'
-* App Demo (10min)
+        * Tickets Lifecycle ([Jira](https://www.atlassian.com/software/jira))
+            * Deliverable Feature
+                * Title from business/user perspective
+                * COS's (Conditions of success)
+            * Sizing (Fibonacci)
+            * Feature Review
+            * QA/Testing
+            * Defenition of 'Done' (Bringing business value) (KEYWORD)
+        * Sprint Planning
+        * Daily Standups
+        * Bug Triage (KEYWORD)
+            * Remove 'opinion'. The secret [formula](http://)
+        * Retrospective (KEYWORD)
+            * Sailboat: Rocks, Anchor, Wind
+    * The lifecycle of app development
+        * Iterations, MVP, Sizing the backlog
+        * Feature Releasing
+        * Beta split user base releasing
+        * Monitoring/Analytics
+* Avocado - App Interaction
     * Business objectives
         * Live Radio
             * Localization
@@ -76,9 +53,59 @@ Development Process Overview
         * Adverts
         * Login (tracking)
         * Terms and Conditions
+* Software tooling
+    * Device Simulators/Devices
+    * Design Sharing ([Zeplin](https://zeplin.io/))
+    * Continuous Integration Pipelines ([Jenkins](https://jenkins.io/)) (KEYWORD)
+        * Automated Tests ([Appium](http://appium.io/))
+        * Android Auto Upload - Release per sprint
+    * App Configuration ([Herald](http://herald.musicradio.com/api/avocado/services/))
+        * Turning features on/off
+    * Crash Feedback ([Fabric](http://www.fabric.io/))
+    * Useage Feedback ([Firebase](https://firebase.google.com/))
+    * Push Notification ([Swrve](https://www.swrve.com/))
+* The difference between Android and iOS
+    * Android
+        * 1000's devices/os combinations
+        * [Material Design](https://material.io/)
+            * Accent colour
+    * iOS
+        * App store approval
+        * Apple design
+            * No physical back button
+            * Bounce Scroll
+* Guacamole
 
-Resorces
---------
-jira
-crashliytics
-Firebase
+Lesson Retrospective
+
+
+* Three Pillars
+    * Quality
+    * Cost
+    * Time
+* The bad (Reflection)
+    * Features Features Features
+        * Situation: The only thing that is valued/measured/rewarded is user features
+        * Problem: No time is spent on maintaining developer tooling
+        * Outcome: Rising cost of future features and higher daily running costs
+    * Automated Testing (a second class citizen)
+        * Situation: Time invested in automated testing is neglected to get tickets through faster
+        * Problem: Inconstant slow repetitive manual testing must now take places continuously. More bugs and live outages.
+        * Outcome: Quality of the product goes down
+    * 'Design Lead' Product
+        * Situation: Design make nice pictures. Business says 'We want the shiny pictures'
+        * Problem: The shiny thing is actually not workable as a user interface when the whole journey is considered
+        * Outcome: More time is spent implementing features that will not yield business value/objectives
+
+
+
+
+Exam Board - Course Code
+Current Objectives
+ - Global as a public facing brand
+  - Moods
+ - Listen Again Episodes/subscription
+
+UAL creative media
+
+13:00
