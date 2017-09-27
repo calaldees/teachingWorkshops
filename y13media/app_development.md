@@ -1,8 +1,8 @@
 App Development
 ===============
 
-Development Process Overview
-----------------------------
+Session 1 - Development Process Overview
+----------------------------------------
 
 * Overview
     * Introduction
@@ -30,18 +30,13 @@ Development Process Overview
             * Sizing (Fibonacci)
             * Feature Review
             * QA/Testing
-            * Defenition of 'Done' (Bringing business value) (KEYWORD)
+            * Defenition of 'Done' (Bringing business value)
         * Sprint Planning
         * Daily Standups
-        * Bug Triage (KEYWORD)
+        * Bug Triage
             * Remove 'opinion'. The secret [formula](http://)
-        * Retrospective (KEYWORD)
+        * Retrospective
             * Sailboat: Rocks, Anchor, Wind
-    * The lifecycle of app development
-        * Iterations, MVP, Sizing the backlog
-        * Feature Releasing
-        * Beta split user base releasing
-        * Monitoring/Analytics
 * Avocado - App Interaction
     * Business objectives
         * Live Radio
@@ -53,10 +48,40 @@ Development Process Overview
         * Adverts
         * Login (tracking)
         * Terms and Conditions
+* The difference between Android and iOS
+    * Android
+        * 1000's devices/os combinations
+        * [Material Design](https://material.io/)
+    * iOS
+        * App store approval
+        * Apple design
+            * No physical back button
+            * Bounce Scroll
+* Guacamole
+    * Current Objectives
+        * Global as a public facing brand
+        * Moods (that span brands)
+        * Listen Again Episodes/subscription
+            * Offline
+            * Notifications
+        * Login required (for analytics)
+
+Session 2 -
+-----------------------------------------------
+
+
+Futher Notes
+------------
+
+* The lifecycle of app development
+    * Iterations, MVP, Sizing the backlog
+    * Feature Releasing
+    * Beta split user base releasing
+    * Monitoring/Analytics
 * Software tooling
     * Device Simulators/Devices
     * Design Sharing ([Zeplin](https://zeplin.io/))
-    * Continuous Integration Pipelines ([Jenkins](https://jenkins.io/)) (KEYWORD)
+    * Continuous Integration Pipelines ([Jenkins](https://jenkins.io/))
         * Automated Tests ([Appium](http://appium.io/))
         * Android Auto Upload - Release per sprint
     * App Configuration ([Herald](http://herald.musicradio.com/api/avocado/services/))
@@ -64,21 +89,6 @@ Development Process Overview
     * Crash Feedback ([Fabric](http://www.fabric.io/))
     * Useage Feedback ([Firebase](https://firebase.google.com/))
     * Push Notification ([Swrve](https://www.swrve.com/))
-* The difference between Android and iOS
-    * Android
-        * 1000's devices/os combinations
-        * [Material Design](https://material.io/)
-            * Accent colour
-    * iOS
-        * App store approval
-        * Apple design
-            * No physical back button
-            * Bounce Scroll
-* Guacamole
-
-Lesson Retrospective
-
-
 * Three Pillars
     * Quality
     * Cost
@@ -96,16 +106,3 @@ Lesson Retrospective
         * Situation: Design make nice pictures. Business says 'We want the shiny pictures'
         * Problem: The shiny thing is actually not workable as a user interface when the whole journey is considered
         * Outcome: More time is spent implementing features that will not yield business value/objectives
-
-
-
-
-Exam Board - Course Code
-Current Objectives
- - Global as a public facing brand
-  - Moods
- - Listen Again Episodes/subscription
-
-UAL creative media
-
-13:00
