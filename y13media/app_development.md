@@ -54,7 +54,7 @@ Session 1 - Development Process Overview
         * [Material Design](https://material.io/)
     * iOS
         * App store approval
-        * Apple design
+        * [Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/)
             * No physical back button
             * Bounce Scroll
 * Guacamole
