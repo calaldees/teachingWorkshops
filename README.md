@@ -1,2 +1,6 @@
-# GlobalAcademyNotes
-Resorces for visits to the 'Global Academy'
+# teachingWorkshops
+Resources for teachingWorkshops
+
+All in `markdown`
+
+Everyone is encouraged to submit `pull request`s to improve these resources
