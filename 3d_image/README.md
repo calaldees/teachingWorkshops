@@ -1,10 +1,9 @@
 # 3D
 
-Concept = Different image for each eye
-Stereoscopic
+* Concept = Different image for each eye
+* Stereoscopic
 
 ## Implementations
-
 
 ### Side by side
 http://www.instructables.com/id/3D-Stereoscopic-Photography/
@@ -22,13 +21,16 @@ https://en.wikipedia.org/wiki/Anaglyph_3D
 ### Magic Eye
 http://www.magiceye.com/
 
-### Video Implementation
+### Video Implementation Types
 https://www.dpreview.com/articles/3797744816/3d-video-primer-part-1
 * Anaglyph
 * Polarisation
 * Active 'shutter'
 
 ### Google Cardboard
+
+VR with android mobile phone for £5
+
 https://vr.google.com/cardboard/
 
 ### Home VR
