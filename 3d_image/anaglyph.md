@@ -22,7 +22,16 @@ https://en.wikipedia.org/wiki/Anaglyph_3D
 
 ### Videos
 > NOTE: All videos use LOSSY `mpeg` codecs that loose colour information and creating `ghosting` of colour bleed to the other eye. This reduces the quality of the 3D effect for videos. Static `png` images are lossless and therefore unaffected by this problem.
-* [VIDEOS 3D ANAGLYPH red/cyan](https://www.youtube.com/channel/UCnPQrS4X51ieRtzMw9r5ggw/videos) channel
-* [NASA Space Station: Tour](https://www.youtube.com/watch?v=MQEkFppWaRI)
-* [3D Balls Demo](https://www.youtube.com/watch?v=wYQpwmggsRo)
-* [3D Video Test rig](https://www.youtube.com/watch?v=7pA6CvF4BEU)
+
+* Computer Rendered
+    * [VIDEOS 3D ANAGLYPH red/cyan](https://www.youtube.com/channel/UCnPQrS4X51ieRtzMw9r5ggw/videos) channel
+        * [Skyrim](https://www.youtube.com/watch?v=Bs9qqcR3x5g&t=295s)
+* Live
+    * [3D Video: Test footage](https://www.youtube.com/watch?v=7pA6CvF4BEU)
+    * [Butterfly's](https://www.youtube.com/watch?v=aJ9tsb2yqUc&t=54s)
+* Space
+    * [NASA Space Station: Tour](https://www.youtube.com/watch?v=MQEkFppWaRI)
+    * [NASA Mars](https://www.youtube.com/watch?v=RGpVNQfwyrE&t=818s)
+* Computer Generated
+    * [3D Balls Demo](https://www.youtube.com/watch?v=wYQpwmggsRo)
+    * [3D Fractal](https://www.youtube.com/watch?v=bklMh5NjewI)
