@@ -16,3 +16,12 @@ Everything here is a suggestion and example of what has worked in some specific 
 It is NOT the gospel of how to teach Computing.
 
 In teacher training you are assessed by your mentor who may have many years of experience and their own strategies for teaching. Don't piss in their pool.
+
+Always remember: We are training young people for a future we know nothing about.
+The world will change during your career
+
+We are aiming for
+* Autonomous learners
+* Confident in there abilities
+* Responsible citizens
+
