@@ -22,6 +22,5 @@ The world will change during your career
 
 We are aiming for
 * Autonomous learners
-* Confident in there abilities
+* Confident in their abilities
 * Responsible citizens
-
