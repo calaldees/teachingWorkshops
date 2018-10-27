@@ -57,7 +57,7 @@ fibonachi + golden ratio
 
 binry ascii pixel wav hex
 
-database
+database SQL
 
 http
 smtp
@@ -79,7 +79,8 @@ what do you want out of me? stories? challenging reflective questions? resorces?
 
 Bring things in
 Bring people in
-
+Use github for all student code/projects
+-discuss the implications
 
 google docs
 
