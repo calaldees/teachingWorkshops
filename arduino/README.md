@@ -99,7 +99,8 @@ Activity Ideas
 * Simple
     * Turn LED on
     * Play sound
-    * Read sensor to screen
+    * Read sensor to Serial Monitor
+    * Read multiple sensors to Serial Plotter
 * Medium
     * Play sound based on y axis
     * Turn on/off with switch
@@ -108,3 +109,10 @@ Activity Ideas
 * Advanced
     * Quickdraw game
     * Sound level meter
+
+
+```c++
+  Serial.print( CircuitPlayground.motionX() );
+  Serial.print(",");
+  Serial.println( CircuitPlayground.motionY() );
+```
