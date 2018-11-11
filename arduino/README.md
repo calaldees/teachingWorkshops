@@ -106,9 +106,14 @@ Activity Ideas
     * Turn on/off with switch
     * Cycle colours in loop
     * Clap and it beeps back
+    * Christmass songs
 * Advanced
     * Quickdraw game
     * Sound level meter
+    * Operation (game, crocodile clips)
+    * Rock paper scissors - light sensor
+    * Music color player
+    * Bop it
 
 
 ```c++

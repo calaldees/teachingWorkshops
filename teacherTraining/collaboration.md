@@ -3,8 +3,9 @@ Collaboration
 
 Objectives
 ----------
-* Consider ways to be a more collaborative teaching practitioner
+* Consider tools/techniques to be a more collaborative teaching practitioner
 * Consider ways to facilitate building professional collaboration skills in students
+
 
 Keywords
 --------
