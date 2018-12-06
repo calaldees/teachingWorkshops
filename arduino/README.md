@@ -31,6 +31,17 @@ Use a package manager
 
 or download [ArduinoIDE](https://www.arduino.cc/en/Main/Software) for your platform.
 
+#### Raspbery Pi 3
+
+```bash
+    #sudo apt-get install arduino  # Fails - v1.0.8 - does not have AdaFruit libs
+    # Enable UART
+    nano /boot/config.txt:
+      core_freq=250
+      enable_uart=1
+    # Download 'Linux ARM' manually (1.8.7+) - extract to permanent location - `sudo ./install.sh`
+```
+
 
 ### Setup Arduino IDE
 

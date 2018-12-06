@@ -1,0 +1,79 @@
+Development Environment
+=======================
+
+
+Package Managers
+----------------
+
+Never manually download an application from a website unless absolutely necessary.
+Always use a package manager.
+
+* [chocolatey](https://chocolatey.org/) (windows)
+* [brew](https://brew.sh/) (osx)
+* [apt-get](https://itsfoss.com/apt-get-linux-guide/) (linux/debian)
+
+
+Virtual Machines
+----------------
+
+1. Enable Virtualization in BIOS
+2. Install virtualization
+    * Use a package manager to install `virtualbox`
+        * windows
+            ```powershell
+            # win+x -> 'Windows Powershell (Admin)'
+            choco install virtualbox
+            ```
+        * osx
+            ```bash
+            # `cask` is for graphical applications
+            brew update
+            brew cask install virtualbox
+            ```
+        * linux
+            ```
+            sudo apt-get update
+            sudo apt-get install virtualbox
+            ```
+    * Alternative virtualization
+        * Hyper-V (Windows 10 Pro)
+            * Enable in 'Turn Windows Features On or Off'
+3. Boot an [ubuntu amd64 iso](https://www.ubuntu.com/download/desktop)
+
+
+Install Tools
+-------------
+
+
+### Raspberry PI
+
+Raspberryan has git, python3 + pygame installed by default
+
+```bash
+    sudo apt-get update && sudo apt-get upgrade -y
+    sudo apt-get install -y php gimp --fix-missing
+```
+
+
+### Ubuntu
+
+```bash
+    sudo apt-get update && sudo apt-get upgrade -y
+    sudo apt-get install -y git make curl python3-pip php gimp vscode
+    pip3 install pygame
+```
+
+
+### osx
+
+```bash
+    brew cask install google-chrome gimp vscode
+    brew install python3 git
+```
+
+
+### choco
+
+```powershell
+    choco install git gimp python3 vscode
+```
