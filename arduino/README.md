@@ -75,7 +75,7 @@ void setup() {
 }
 
 void loop() {
-  if (CircuitPlayground.leftButton()) {
+  if (CircuitPlayground.slideSwitch()) {
     running = !running;
     delay(1000);
   }
