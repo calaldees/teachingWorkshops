@@ -52,7 +52,7 @@ Courses
 * [OCR h046-h446](https://www.ocr.org.uk/qualifications/as-and-a-level/computer-science-h046-h446-from-2015/)
 
 Live by the spec.
-Give spec to students printed (4 to a page + Duplex)
+Give spec to students printed (4 to a page + Duplex) [pages 38-89]
 
 * [AQA/OCR Comparison](https://www.aqa.org.uk/resources/computer-science-and-it/as-and-a-level/computer-science-7516-7517/plan/aqa-or-ocr)
     * AQA is explicitly clear what is in the spec - practical exam is genuine application
@@ -107,6 +107,30 @@ Combine QP (question paper), MS (mark scheme) and WRE (Examiners report)
 TASK: Do question + Use Mark Scheme + Examiners report
 
 
+AS -> A2 Progression
+--------------------
+
+You WILL need to use multiple languages
+* OO section is Java
+* Functional programming
+* SQL
+* REST Server - API JSON/XML
+
+
+
+Keystage 5 - A-Level Computing - Part 2
+=======================================
+
+TASK: Tell me about A-Level Computing ...
+
+* Objective
+    * To understand practical assessment for for AQA AS examination
+    * Explore A2 Theory Topics with practical programming examples
+        * Object Oriented
+        * Functional Programming
+    * Consider taking Computing beyond the classroom
+
+
 Passed Papers (Practical)
 -------------------------
 
@@ -121,24 +145,33 @@ Pre Release -> Exam
 TASK: Monster - what could they ask? - Define training tasks for students - Fire up program (python?)
 
 
-AS -> A2 Progression
---------------------
-
-You WILL need to use multiple languages
-* OO section is Java
-* Functional programming
-* SQL
-* REST Server - API JSON/XML
-
-
 Beyond the Classroom
 --------------------
 
 * [British Informatics Olympiad](http://www.olympiad.org.uk/) is the national computing competition for schools and colleges.
     * [Die Tipping](http://www.olympiad.org.uk/papers/2010/bio/bio-10-exam.pdf)
     * [RGB puzzle](http://www.olympiad.org.uk/papers/2009/bio/bio09-exam.pdf)
-* [Hackathon](https://en.wikipedia.org/wiki/Hackathon)
-    * _good luck with the risk assessment_
+    * Important to highlight to students how far they have still to go
+* Guest Speakers
+    * Real life people with real life case studies!
+        * Bring your friends into school
+    * Computing Case Studies (link to spec + show spec is drop in the ocean)
+    * Career Guidance
+* Visits
+    * Always paired with spec! Prep students BEFOREHAND!
+    * Real business's
+        * Networks
+        * Techniques - agile? testing?
+* Groups/Events
+    * Local
+        * [Digibury](https://www.meetup.com/Digibury/)
+        * [BarCamp](https://en.wikipedia.org/wiki/BarCamp) - An _Un-Conference_
+            * BarCamp Canterbury
+                * [Twitter](https://twitter.com/barcampcant?lang=en)
+                * [Flickr](https://www.flickr.com/groups/barcampcant/pool/)
+    * London
+        * [Hackathon](https://en.wikipedia.org/wiki/Hackathon)
+            * _good luck with the risk assessment_
 
 
 CPD
@@ -147,14 +180,34 @@ CPD
 * Exam board meetings/training
     * Opportunity to network
     * Share good practice
+* Computing At School - Hubs
 
 
-Topics
-------
+Practical Techniques
+--------------------
 
-* Tools
+* Python
     * Debugging
-    * Doctests
+        * ```python
+            # at point of debugging
+            import pdb ; pdb.set_trace()
+        ```
+    * [Doctests](https://docs.python.org/2/library/doctest.html)
+        * Great for marking - [separate test file](http://pythontesting.net/framework/doctest/doctest-introduction/#separate_file)
+        * ```python
+            # At end of python file
+            import doctest; doctest.testmod()
+        ```
+        * ```bash
+            python -m doctest -v MY_FILE.py
+        ```
+
+
+A-Level Topic Notes
+-------------------
+
+Summary of interesting bits
+
 * Abstraction
     * Stack as array
 * Set Theory + Operators
@@ -166,16 +219,18 @@ Topics
 * Moral and social implications
     * Street view
     * Github streek
-* Protocols
-    * pop3
-    * smtp
-* subnet mask
+* Networking
+    * Protocols
+        * pop3
+        * smtp
+    * Subnet mask
+    * SSID
 * big data
 * Functional Programming
     * [haskell.org](https://www.haskell.org/)
         * [repl.it/haskell](https://repl.it/site/blog/haskell)
         * [realworldhaskell](http://book.realworldhaskell.org/)
-
+    * [Advantages of Functional Programming](https://alvinalexander.com/scala/fp-book/benefits-of-functional-programming)
 * OO
     * [Why `extends` is evil](https://www.javaworld.com/article/2073649/core-java/why-extends-is-evil.html)
         * [javlib/Utils/Types/Integer](https://github.com/calaldees/javalib/tree/master/lib/Utils/Utils/Types/Integer)
@@ -197,7 +252,7 @@ Topics
             * Build?
             * canProduce
         * Turret
-            * ?
+            * ? (This is why interfaces are king)
         * Direction
         * Unit
             * Move
@@ -219,3 +274,10 @@ Topics
 * [P vs NP](https://www.youtube.com/watch?v=YX40hbAHx3s)
     * Heuristic models
 * [Halting problem](https://www.youtube.com/watch?v=macM_MtS_w4)
+
+
+Plenary
+-------
+
+* Discuss possible concerns for teaching A-Level.
+* Identify action points
