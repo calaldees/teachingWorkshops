@@ -172,7 +172,9 @@ Topics
 * subnet mask
 * big data
 * Functional Programming
-    * [realworldhaskell](http://book.realworldhaskell.org/)
+    * [haskell.org](https://www.haskell.org/)
+        * [repl.it/haskell](https://repl.it/site/blog/haskell)
+        * [realworldhaskell](http://book.realworldhaskell.org/)
 
 * OO
     * [Why `extends` is evil](https://www.javaworld.com/article/2073649/core-java/why-extends-is-evil.html)
