@@ -174,6 +174,17 @@ Beyond the Classroom
             * _good luck with the risk assessment_
 
 
+Books and Resources
+------------------
+
+Buy multiple approved exam board books for reference.
+Recommend one book to students.
+
+* [PM Heathcoate](https://www.amazon.co.uk/OCR-AS-Level-Computer-Science/dp/1910523054/) _my preference_
+* [Bob Reaves](https://www.amazon.co.uk/AQA-level-Computer-Science-Reeves/dp/1471839516/)
+* [Kevin Bond](https://www.amazon.co.uk/Level-Computer-Science-AQA-Unit/dp/0992753619/) 3 books!? unknown
+
+
 CPD
 ---
 
