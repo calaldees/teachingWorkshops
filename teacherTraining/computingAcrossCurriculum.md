@@ -73,7 +73,7 @@ Example Lesson
 
 3d_image
 
-* Etemology
+* Etymology
     * Stereo-Scopic
         * Two - Optic
 * History
@@ -84,7 +84,7 @@ Example Lesson
     * RGB Pixels
     * Layer mode
     * Algorithums (for each pixel)
-* Phyosophy
+* Philosophy
     * How to we experience the world
 * Art - Create own abstract worlds
 
@@ -94,7 +94,7 @@ Ideas
 
 * Geography
     * Traceroute on map
-    * River Vally Simulation
+    * River Valley Simulation
     * [World Elevation Data](http://www.shadedrelief.com/natural3/pages/extra.html)
 * Physics
     * Simulation
@@ -113,12 +113,14 @@ Ideas
     * Animation
         * 2D
         * 3D
-* Langauges
+    * Algorithmic
+* Languages
     * English Ghrama
 * Socialogy
     * Surveys
 * Psycology
-    * Valve hire psycologists
+    * [Human Computer Interaction Psychology](https://www.amazon.co.uk/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=Handbook+of+Human-computer+Interaction)
+    * [Valve Jobs](https://www.valvesoftware.com/el/?job_cat=data-science)
     * Facebook
     * Google - AB Testing - Color of buttons
     * flash card
@@ -126,8 +128,14 @@ Ideas
     * CAD/CAM
 * Music
     * MIDI - Theory
+        * Arpegiation - color - taktile
 * MFL
     * [Language Letter Frequency](https://en.wikipedia.org/wiki/Letter_frequency)
+* Texstiles
+    * Embrydery (cad/cam)
+    * Services
+        * RebBubble
+        * [bagsoflove.co.uk](https://www.bagsoflove.co.uk/)
 
 * Simulation
     * [traffic-simulation.de](http://www.traffic-simulation.de)
@@ -149,13 +157,14 @@ Human DNA 6 Billion pairs
 
 
 https://regex101.com/
+```python
 import random
 import re
 random.seed(0)
 dna = ''.join(random.choice(('A', 'G', 'C', 'T')) for x in range(10000))
 re.search(r'AC[AG].GT.{8,10}AAA', dna)
 re.search(r'AC[AG].GT[AT]{5,6}AAA', dna)
-
+```
 
 [Conways game of life](http://www.conwaylife.com/)
 [Conway basic paterns](http://pi.math.cornell.edu/~lipa/mec/lesson6.html)
@@ -209,3 +218,14 @@ plotly.offline.plot(data, filename='basic-line')
 recursion - mini tree
 
 common factors
+
+
+Text analysis
+Download own Facebook data - alayise own facebook data - NLTK sentiment analysis
+
+
+Global - auto visuals hack
+
+
+[Numberplate recognition](https://medium.freecodecamp.org/how-i-replicated-an-86-million-project-in-57-lines-of-code-277031330ee9)
+
