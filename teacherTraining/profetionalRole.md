@@ -22,6 +22,8 @@ Teacher Standards
 * [New Zealand professional-responsibilities-for-teachers](https://education.nsw.gov.au/about-us/jobs-and-opportunities/school-careers/teachers/professional-responsibilities-for-teachers)
 * [Infographic](https://infograph.venngage.com/p/230898/roles-and-responsibilities-of-a-professional-teacher)
 
+* [Prevent UK](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/445977/3799_Revised_Prevent_Duty_Guidance__England_Wales_V2-Interactive.pdf) - [How do teachers engage with prevent](https://crestresearch.ac.uk/comment/lewis-teachers-engage-prevent/)
+* [Teacher Workload reform 2015](https://www.gov.uk/government/publications/reducing-teachers-workload/reducing-teachers-workload)
 
 Stories
 -------
@@ -141,7 +143,7 @@ I don't like the term _country_ - so I suggest a replacement of _community_
 
 There are plenty of roles that society needs.
 Why would you deliberately ignore what society needs to live your life in your own self indulgent bubble?
-Many students cite: Singer, Game Designer, Actor, Film Director, YouTuber, Steamer as desired occupations. Because that is the only world they know.
+Many students cite: Singer, Game Designer, Actor, Film Director, YouTuber, Steamer, Footballer as desired occupations. Because that is the only world they know.
 This narrow view is understandable; it's ultimately the failing of adults ability to convey the concept of society to young people.
 We need to stop indulging our young people. We risk creating a generation of self-obsessed, wingey, skill-less turnips.
 
