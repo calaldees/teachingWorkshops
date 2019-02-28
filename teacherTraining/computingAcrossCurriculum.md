@@ -229,3 +229,7 @@ Global - auto visuals hack
 
 [Numberplate recognition](https://medium.freecodecamp.org/how-i-replicated-an-86-million-project-in-57-lines-of-code-277031330ee9)
 
+
+
+[thispersondoesnotexist.com](https://thispersondoesnotexist.com/)
+[digg - thispersondoesnotexist-real](http://digg.com/2019/thispersondoesnotexist-real)
