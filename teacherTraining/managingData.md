@@ -39,17 +39,18 @@ Use of School Data
 Ofsted Reports & Performance Data
 ---------------------------------
 
-RAISEonline data comentary - [National College for School Leadership - Understanding and using data](https://www.nationalcollege.org.uk/sites/default/files/sites/default/files/level3udeip-resunderstandingdata.pdf) pg42+ for KS3->KS4
+RAISEonline data cometary - [National College for School Leadership - Understanding and using data](https://www.nationalcollege.org.uk/sites/default/files/sites/default/files/level3udeip-resunderstandingdata.pdf) pg42+ for KS3->KS4
 RAISEonline replaced by _Analyse School Performance_ in September 2017
 
-[Using Ofsted’s inspection data summary report](https://www.gov.uk/government/collections/using-ofsteds-inspection-dashboard) - Summary pg
+[Using Ofsted’s inspection data summary report](https://www.gov.uk/government/collections/using-ofsteds-inspection-dashboard) - Summary pg?
 
 [Ofstead - Inspections and performance of education providers](https://www.gov.uk/education/inspections-and-performance-of-education-providers)
 
-Activity: Find the Ofsted report for your school
-Activity: Compare your school with other local school
+* Activity: Find the Ofsted report for your school
+* Activity: Compare your school with other local school
 
-Kent _believes_ in choice. 50% of school are ghrama schools. When comparing schools against LEA average is futile. What do you think that does to statistics? Should not affect *Progress8*.
+* Kent _believes_ in choice. 50% of school are ghrama schools. When comparing schools against LEA average is futile. What do you think that does to statistics? Should not affect *Progress8*.
+* Schools can have a negative Progress8 and still be classed as _good_
 
 
 Schools Lie/Manipulate their data
@@ -84,7 +85,7 @@ Perception
     * `public`
     * `private`
 3. Enter Formula on `public` to reference `private`
-    * `={private!B1:1000}`
+    * `={private!A:G}`
 4. `public` -> Tools -> Protect Sheet -> 'Show warning when editing this range'
 5. File -> Publish to the web -> Publish content & settings -> `public` + Automatically republish
 6. [bit.ly](http://bit.ly) - Shorten the url

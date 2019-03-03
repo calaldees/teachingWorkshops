@@ -21,8 +21,20 @@ https://en.wikipedia.org/wiki/Anaglyph_3D
     * [History post 2D->3D conversion example](https://www.flickr.com/photos/50183486@N04/7025156057/in/pool-365182@N21/)
 
 ### Videos
-> NOTE: All videos use LOSSY `mpeg` codecs that loose colour information and creating `ghosting` of colour bleed to the other eye. This reduces the quality of the 3D effect for videos. Static `png` images are lossless and therefore unaffected by this problem.
 
+* Technolgy notes
+    * mpeg loss
+        * Traditional single layer videos use LOSSY `mpeg` codecs
+        * mpeg compression looses colour information when compressing video.
+        * This creates `ghosting` of colour bleeding over red/cyan pictures.
+        * This reduces the quality of the 3D effect for videos.
+    * lossless
+        * Static `png` images are lossless and therefore unaffected by this problem.
+        * YouTube has support for recording separate video channels for each eye and mixing the images in realtime.
+            * You can filter for videos that support this `3D`.
+            * [find-watch-youtube-3d-content](https://www.makeuseof.com/tag/find-watch-youtube-3d-content/)
+* Demo
+    * [3D video extreme 4K](https://www.youtube.com/watch?v=EDuvDyYKlDM)
 * Computer Rendered
     * [VIDEOS 3D ANAGLYPH red/cyan](https://www.youtube.com/channel/UCnPQrS4X51ieRtzMw9r5ggw/videos) channel
         * [Skyrim](https://www.youtube.com/watch?v=Bs9qqcR3x5g&t=295s)
