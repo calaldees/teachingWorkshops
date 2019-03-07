@@ -50,7 +50,7 @@ Existing Resources
     * Simple, accessible resources to help you deliver the primary computing curriculum brilliantly.
 * [101computing](https://www.101computing.net/)
     * Python, Scratch, Javascript projects and live web demonstrations
-
+* [BBC Bitesize](https://www.bbc.com/bitesize/subjects/z34k7ty)
 
 Computing Terminology (for all subjects)
 ----------------------------------------
@@ -157,6 +157,8 @@ Lesson Topic Ideas
 * Music
     * MIDI - Theory
         * Arpegiation - color - taktile
+    * [Sonic Pi](https://sonic-pi.net/)
+        * Example lessons and teacher resources
     * [Synthesizer Basics: Amplitude, Oscillators, Timbre](https://www.youtube.com/watch?v=c3udLCvoCC0)
     * [4k Synth Core](https://in4k.github.io/wiki/aulds-4k-synth#coding-your-own-sound-components)
 * MFL
