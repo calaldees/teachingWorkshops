@@ -6,7 +6,7 @@ Objectives
 
 * Understand the power of context based learning
     * Computing can relate to everything in our world and lives
-* Consider how we can support teaching colleges with our Computing skills
+* Consider how we can support our fellow teaching colleges with our Computing skills
 
 
 Ofsted and Computing
@@ -23,7 +23,8 @@ Ofsted and Computing
 > Computing has deeps links with mathematics, science and design and technology, and provides insight into both natural and artificial systems.
 
 * Ofsted say - Computing curriculum is good or better when
-    * Context relevant to pupils lives and reflect increasing use of computing in the world of inductry. Wider community to provide enrichment activities
+    * Context relevant to pupils lives and reflect increasing use of computing in the world of industry.
+    * Links with wider community to provide enrichment activities
     * Links with other subjects in school are productive in strengthening pupils leaning in computing
 
 
@@ -31,16 +32,16 @@ Responsibility's of Computing Teachers
 --------------------------------------
 
 * 3 strands
-    * computer science
-    * information technology
+    * Computer science
+    * Information technology
         * not a discrete subject - is supposed to be taught across the curriculum
-    * digital literacy
+    * Digital literacy
         * not a discrete subject - is supposed to be conveyed across the curriculum
 
 * As computing teachers we must support our schools with ICT and digital literacy
-    * Very few teachers have this skill-set or experience
-    * Other subjects/staff will need support from you to train them in all aspects of computers (ICT and Computing) for their class's
-    * We should consider this part of our role in schools
+    * Very few other teachers will have a background in Computing
+    * Other subjects/staff will need support from you to train them in some aspects of computers (ICT and Computing) for their class's
+    * We should be consider this _support_ part of our role in schools
 
 
 Existing Resources
@@ -52,8 +53,11 @@ Existing Resources
     * Python, Scratch, Javascript projects and live web demonstrations
 * [BBC Bitesize](https://www.bbc.com/bitesize/subjects/z34k7ty)
 
-Computing Terminology (for all subjects)
-----------------------------------------
+
+Computing Terminology
+---------------------
+
+These terms could be applied to all subjects
 
 * Logic
     * predicting analysing
@@ -103,12 +107,16 @@ Computing in other subject curriculum's
 Lesson Topic Ideas
 ------------------
 
+Activities to:
+* Examples of Computing in society
+* Give some simple _hands on_ to students
+
 * Geography
     * Traceroute on map
     * River Valley Simulation (spreadsheet example)
     * [World Elevation Data](http://www.shadedrelief.com/natural3/pages/extra.html)
-* History
     * [earthengine](https://earthengine.google.com/timelapse/) - historical satellite views (climate change?)
+* History
     * [Canterbury High Street](http://www.hillside.co.uk/tour/tour.html) - Homemade Canterbury High Street Streetview from 1990
     * [Colorized historical photos](https://www.google.com/search?client=firefox-b-d&q=colorise+histoical+photos)
         * [github.com/junyanz/interactive-deep-colorization](https://github.com/junyanz/interactive-deep-colorization)
@@ -118,21 +126,26 @@ Lesson Topic Ideas
         * TODO:
 * Physics
     * Simulation
+    * [River Editor: Water Simulation in Real-Time](https://80.lv/articles/river-editor-water-simulation-in-real-time/)
+    * [Can We Terraform the Sahara to Stop Climate Change?](https://www.youtube.com/watch?v=lfo8XHGFAIQ)
 * Maths
     * Matrix calculations for rotation and scaling (in real time?)
     * Statistics
         * Graphing _standard deviation_ from actual datasets?
     * Mechanics
-        * game forces
+        * Game forces (mass, force, acceleration, velocity)
+            * Bang?
     * [Mandelbrot Set](https://rosettacode.org/wiki/Mandelbrot_set)
         * Python
         * Scratch
 * Biology
+    * Conways game of life?
 * Chemistry
+    * ?
 * Business Studies
-    * simulated investments?
+    * Simulated investments?
 * Economics
-    * Simulation - Traffic
+    * Simulation?
 * Art
     * Animation
         * 2D
@@ -141,28 +154,34 @@ Lesson Topic Ideas
         * [recursive-tree-challenge](https://www.101computing.net/recursive-tree-challenge/)
     * [Demoscene](https://en.wikipedia.org/wiki/Demoscene)
 * Languages
-    * English Grama
+    * English Grammar
 * Sociology
     * Surveys
+        * Student data collection and analysis
+    * social patterns - statistics? datasets?
 * Psychology
     * [Human Computer Interaction Psychology](https://www.amazon.co.uk/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=Handbook+of+Human-computer+Interaction)
     * [Valve Jobs](https://www.valvesoftware.com/el/?job_cat=data-science)
     * Facebook
     * Google - AB Testing - Color of buttons
-    * flash card
+    * flash card app - make html5-offline app to display a fact and redisplay it at decending intevals 1 hour, 1 day, 3 days, 1 week
 * RE
-    * re - Turing test - what rights do they need?
+    * Turing test - rise of AI - what rights do they need?
 * DT
     * CAD/CAM
+        * eaxamples?
+    * 3d modeling -> 3d printing
+    * Create SVG with code? Badge/Ticket example?
+        * Mail merge - but with SVG's
 * Music
     * MIDI - Theory
-        * Arpegiation - color - taktile
+        * Arpegiation - color? image? - taktile
     * [Sonic Pi](https://sonic-pi.net/)
         * Example lessons and teacher resources
     * [Synthesizer Basics: Amplitude, Oscillators, Timbre](https://www.youtube.com/watch?v=c3udLCvoCC0)
     * [4k Synth Core](https://in4k.github.io/wiki/aulds-4k-synth#coding-your-own-sound-components)
 * MFL
-    * [Language Letter Frequency](https://en.wikipedia.org/wiki/Letter_frequency)
+    * [Language Letter Frequency](https://en.wikipedia.org/wiki/Letter_frequency) detector
     * Use application/operating-systems in different languages
 * Textiles
     * Embroidery (cad/cam)
@@ -184,9 +203,12 @@ Not directly related to an established school subject.
     * [Bruises — The Data We Don’t See](https://medium.com/@giorgialupi/bruises-the-data-we-dont-see-1fdec00d0036)
         * Artistic humanisation of data though charts and music through a child's illness and feelings
 * Simulation
-    * [traffic-simulation.de](http://www.traffic-simulation.de)
-    * [Traffic Junction Simulation Video](https://www.youtube.com/watch?v=yITr127KZtQ)
-    * [SkyLines Forum](https://forum.paradoxplaza.com/forum/index.php?threads/perpetual-traffic-jam.937466/)
+    * Traffic
+        * [traffic-simulation.de](http://www.traffic-simulation.de)
+        * [Traffic Junction Simulation Video](https://www.youtube.com/watch?v=yITr127KZtQ)
+        * [SkyLines Forum](https://forum.paradoxplaza.com/forum/index.php?threads/perpetual-traffic-jam.937466/)
+    * Economic
+        * ?
 
 
 Further Concepts
@@ -214,6 +236,8 @@ Further Concepts
 * Open vs Proprietary
     * Operating Systems
     * Map Data
+* Impact of Open Tooling
+    * [Numberplate recognition](https://medium.freecodecamp.org/how-i-replicated-an-86-million-project-in-57-lines-of-code-277031330ee9)
 
 
 API's and Datasets
@@ -231,20 +255,42 @@ Programming Projects
     * conway
     * cypher
     * earth flooding elevation
-    * language frequency
+    * language frequency analysis
 
-### Recursive Trees
+### Turtle Graphics
+
+[turtle](https://docs.python.org/3.3/library/turtle.html) python module documentation
 
 ```python
 import turtle
 t = turtle.Pen()
-t.forward(50)
-#todo
+t.forward(100)
 ```
 
-[turtle](https://docs.python.org/3.3/library/turtle.html) python module documentation
+* Draw a square
+* Draw a house
 
 You can have multiple pens
+
+#### Recursive Trees
+
+```python
+def draw_tree_recursive(t, size=100, branches=3, total_angle=120, depth=2):
+    if not depth:
+        return
+    start_pos = t.pos()
+    start_heading = t.heading()
+    for branch_number in range(branches):
+        t.setheading(
+            start_heading - (total_angle / 2)
+            +
+            (branch_number * total_angle / (branches-1))
+        )
+        t.forward(size)
+        draw_tree_recursive(t, size=size * 0.6, branches=branches, total_angle=total_angle * 0.8, depth=depth-1)
+        t.setpos(start_pos)
+        t.setheading(start_heading)
+```
 
 ### DNA
 
@@ -330,8 +376,6 @@ Download own Facebook data - alayise own facebook data - NLTK sentiment analysis
 
 GlobalRadio - auto visuals hack
 
-
-[Numberplate recognition](https://medium.freecodecamp.org/how-i-replicated-an-86-million-project-in-57-lines-of-code-277031330ee9)
 
 
 Paper plane - deomposition
