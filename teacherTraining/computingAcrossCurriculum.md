@@ -38,10 +38,24 @@ Responsibility's of Computing Teachers
     * Digital literacy
         * not a discrete subject - is supposed to be conveyed across the curriculum
 
-* As computing teachers we must support our schools with ICT and digital literacy
-    * Very few other teachers will have a background in Computing
-    * Other subjects/staff will need support from you to train them in some aspects of computers (ICT and Computing) for their class's
-    * We should be consider this _support_ part of our role in schools
+* As computing teachers we must support
+    * our schools with ICT and digital literacy
+        * Very few other teachers will have a background in Computing
+        * Other subjects/staff will need support from you to train them in some aspects of computers (ICT and Computing) for their class's
+        * We should be consider this _support_ part of our role in schools
+    * our subject with strong cross curricular
+        * Literacy
+            * [Ofsted Improving literacy in secondary schools: a shared responsibility](https://www.gov.uk/government/publications/improving-literacy-in-secondary-schools-a-shared-responsibility)
+                > Our world is dominated by the written word, both online and in print. This means we can only contribute and participate actively if we can read and write sufficiently well.
+
+                > where staff had included an objective for literacy in all the lessons, senior managers noted an improvement in outcomes across all subjects
+            * Use precise language
+                * Many young people cannot convey there ideas (verbally or written)
+                * If you can't describe/distil your ideas - you cannot think
+                * Subject vocabulary to describe complex problems efficiently
+            * [Secret Literacy: Making and Impact](https://www.amazon.co.uk/Secret-Literacy-Making-implicit-explicit/dp/1781351279/)
+        * Mathematics
+            * [Programmers-Introduction-Mathematics](https://www.amazon.co.uk/Programmers-Introduction-Mathematics-Dr-Jeremy/dp/1727125452/)
 
 
 Existing Resources
@@ -321,8 +335,16 @@ re.search(r'AC[AG].GT[AT]{5,6}AAA', dna)
 ### Graphs (& Data sets)
 
 * Data sets
+    * [data.gov.uk](https://data.gov.uk/)
     * [National Office of Statistics](https://www.ons.gov.uk/)
-    * [Met Office Weather Data](https://www.metoffice.gov.uk/climate/uk/data)
+    * Met Office (UK)
+        * [Historic Weather Data](https://www.metoffice.gov.uk/climate/uk/data)
+            * [sheffield](https://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/sheffielddata.txt) yearly
+        * [datapoint api](https://www.metoffice.gov.uk/datapoint)
+        * [Global Hourly](https://www.ncei.noaa.gov/data/global-hourly/)
+    * [National Centers for Environmental Information (US)](https://www.ncei.noaa.gov/)
+        * [global hourly](https://www.ncei.noaa.gov/data/global-hourly/)
+
 
 [Plotly](https://plot.ly/) [Simple Scatter Example](https://plot.ly/python/line-and-scatter/#simple-scatter-plot)
 ```python
