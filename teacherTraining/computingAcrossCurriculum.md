@@ -53,7 +53,7 @@ Responsibility's of Computing Teachers
                 * Many young people cannot convey there ideas (verbally or written)
                 * If you can't describe/distil your ideas - you cannot think
                 * Subject vocabulary to describe complex problems efficiently
-            * [Secret Literacy: Making and Impact](https://www.amazon.co.uk/Secret-Literacy-Making-implicit-explicit/dp/1781351279/)
+            * [The Secret of Literacy: Making the implicit, explicit](https://www.amazon.co.uk/Secret-Literacy-Making-implicit-explicit/dp/1781351279/)
         * Mathematics
             * [Programmers-Introduction-Mathematics](https://www.amazon.co.uk/Programmers-Introduction-Mathematics-Dr-Jeremy/dp/1727125452/)
 
@@ -90,14 +90,17 @@ These terms could be applied to all subjects
 Example Cross Curricular Lesson
 -------------------------------
 
-[3d_image](../3d_image/README.md) workshop
-[Google Slides](https://docs.google.com/presentation/d/1tJRI7dnJmk30Jojupjcb5qJA_mLJf4nK_g0Yc5V0xHs/edit?usp=sharing)
+* [3d_image](../3d_image/README.md) workshop
+    * [guide](../3d_image/anaglyph_gimp.md)
+* [Google Slides](https://docs.google.com/presentation/d/1tJRI7dnJmk30Jojupjcb5qJA_mLJf4nK_g0Yc5V0xHs/edit?usp=sharing)
+* [dino_images](http://calaldees.dreamhosters.com/pictures/lasar/)
 
 * Philosophy
     * How to we experience the world
 * Etymology
-    * Stereo-Scopic
-        * Two - Optic
+    * [Stereo-Scopic](https://www.google.com/search?client=firefox-b-d&q=define%3A+stereo#dobs=stereoscopic)
+        * `stereo` -> Greek: Solid
+        * `-scopic` ajective of nouns ending in `scope` -> denoting an instrument for observing, viewing, or examining. -> from modern Latin `-scopium`, from Greek `skopein` ‘look at’
 * History
     * 3D Photography
     * Real ViewMaster 50's Dover
@@ -126,7 +129,7 @@ Activities to:
 * Give some simple _hands on_ to students
 
 * Geography
-    * Traceroute on map
+    * [GeoTraceroute](https://geotraceroute.com/) on map
     * River Valley Simulation (spreadsheet example)
     * [World Elevation Data](http://www.shadedrelief.com/natural3/pages/extra.html)
     * [earthengine](https://earthengine.google.com/timelapse/) - historical satellite views (climate change?)
@@ -140,6 +143,8 @@ Activities to:
         * TODO:
 * Physics
     * Simulation
+        * Engines
+            * [Matter.js](http://brm.io/matter-js/)
     * [River Editor: Water Simulation in Real-Time](https://80.lv/articles/river-editor-water-simulation-in-real-time/)
     * [Can We Terraform the Sahara to Stop Climate Change?](https://www.youtube.com/watch?v=lfo8XHGFAIQ)
 * Maths
@@ -148,24 +153,29 @@ Activities to:
         * Graphing _standard deviation_ from actual datasets?
     * Mechanics
         * Game forces (mass, force, acceleration, velocity)
-            * Bang?
+            * [Gorillas](https://www.youtube.com/watch?v=UDc3ZEKl-Wc)
     * [Mandelbrot Set](https://rosettacode.org/wiki/Mandelbrot_set)
         * Python
         * Scratch
 * Biology
     * Conways game of life?
+    * [Bacteria Simulation](https://www.youtube.com/watch?v=5UMZVmLt0Bw)
 * Chemistry
     * ?
 * Business Studies
-    * Simulated investments?
+    * [investopedia.com](https://www.investopedia.com/simulator/) - Simulated investments
 * Economics
-    * Simulation?
+    * [rolesia.com](https://www.rolesia.com/) - Country Economics Simulator
 * Art
     * Animation
         * 2D
+            * [pencil2d](https://www.pencil2d.org/)
         * 3D
+            * [Blender](https://www.blender.org/)
+                * [Tutorial: 3D Animation With Python and Blender](https://www.youtube.com/watch?v=ssHiWpVuxTk)
     * [Algorithmic Art](https://en.wikipedia.org/wiki/Algorithmic_art)
         * [recursive-tree-challenge](https://www.101computing.net/recursive-tree-challenge/)
+        * [London Community](https://www.meetup.com/Algorithmic-Art/)
     * [Demoscene](https://en.wikipedia.org/wiki/Demoscene)
 * Languages
     * English Grammar
@@ -185,7 +195,7 @@ Activities to:
     * CAD/CAM
         * eaxamples?
     * 3d modeling -> 3d printing
-    * Create SVG with code? Badge/Ticket example?
+    * Create [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics#Example) with code? Badge/Ticket example?
         * Mail merge - but with SVG's
 * Music
     * MIDI - Theory
@@ -371,6 +381,38 @@ import plotly
 plotly.offline.plot(data, filename='basic-line')
 ```
 
+### Midi in Chrome
+
+```html
+<html>
+<head>
+    <title>webMidi</title>
+</head>
+
+<body>
+    <h1>webMidi</h1>
+    <script type="module">
+        function onMidiMessage(midiDevice, msg) {
+            console.debug(midiDevice.name, msg);
+            // Code goes here
+        };
+
+        function bindMidiDevices(midiAccess) {
+            for (let midiDevice of midiAccess.inputs.values()) {
+                midiDevice.onmidimessage = (msg) => onMidiMessage(midiDevice, msg);
+            }
+        };
+        function initMidi(bindMidiDevices) {
+            if (!window.navigator.requestMIDIAccess) {console.warn("No browser MIDI support"); return;}
+            window.navigator.requestMIDIAccess({sysex: false})
+                .then(bindMidiDevices, () => console.warn('MIDI Access Failed'));
+        };
+        initMidi(bindMidiDevices);
+    </script>
+</body>
+```
+
+
 Computing Education in the Media
 ---------------------------------
 
@@ -404,8 +446,8 @@ Paper plane - deomposition
 
 science classification - binary tree
 
-Blender - scripted 3d animation project
-Algorithmic art - recusion
+
+
 Music demos - [elevated by Rgba & TBC | 4k intro](https://www.youtube.com/watch?v=jB0vBmiTr6o) - [Perlin noise](https://en.wikipedia.org/wiki/Perlin_noise)
 
 Rasbery Pie weather station - tweet the weather

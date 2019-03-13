@@ -3,7 +3,7 @@ How to create red/cyan 3D images with GIMP
 
 ## Setup
 * Download example ‘left’ and ‘right’ images to your computer's ‘Documents’ folder
-    * http://calaldees.dreamhosters.com/lasar/
+    * http://calaldees.dreamhosters.com/pictures/lasar/
 * Open GIMP
     * Window -> Single-Window Mode
     * File -> Open as Layers
