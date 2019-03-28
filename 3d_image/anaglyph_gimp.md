@@ -31,9 +31,6 @@ How to create red/cyan 3D images with GIMP
 
 ## References
 
-### Flickr Anaglyphic 3D Group
-https://www.flickr.com/groups/365182@N21/
-
-### How to make 3D images with GIMP
-http://strakul.blogspot.co.uk/2012/03/how-to-make-3d-images-with-gimp.html
-
+* [Flickr Anaglyphic 3D Group](https://www.flickr.com/groups/365182@N21/)
+* [How to make 3D images with GIMP](http://strakul.blogspot.co.uk/2012/03/how-to-make-3d-images-with-gimp.html)
+* [Gimp Layer Modes](https://docs.gimp.org/en/gimp-concepts-layer-modes.html#layer-mode-multiply)

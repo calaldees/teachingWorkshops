@@ -133,6 +133,7 @@ Activities to:
     * River Valley Simulation (spreadsheet example)
     * [World Elevation Data](http://www.shadedrelief.com/natural3/pages/extra.html)
     * [earthengine](https://earthengine.google.com/timelapse/) - historical satellite views (climate change?)
+    * [submarinecablemap](https://www.submarinecablemap.com/)
 * History
     * [Canterbury High Street](http://www.hillside.co.uk/tour/tour.html) - Homemade Canterbury High Street Streetview from 1990
     * [Colorized historical photos](https://www.google.com/search?client=firefox-b-d&q=colorise+histoical+photos)
@@ -141,6 +142,7 @@ Activities to:
             * Now AI tools allow anyone to do this
     * History of Computing Timeline
         * TODO:
+        * [BBC - Computer Literacy Project 1980-1989](https://computer-literacy-project.pilots.bbcconnectedstudio.co.uk/)
 * Physics
     * Simulation
         * Engines
@@ -177,6 +179,7 @@ Activities to:
         * [recursive-tree-challenge](https://www.101computing.net/recursive-tree-challenge/)
         * [London Community](https://www.meetup.com/Algorithmic-Art/)
     * [Demoscene](https://en.wikipedia.org/wiki/Demoscene)
+            * [flashtro-morton-strikes-back](http://flashtro.com/flashtro-morton-strikes-back/)
 * Languages
     * English Grammar
 * Sociology
@@ -257,6 +260,9 @@ Further Concepts
         * [Fans use Machine Learning to HD Remaster Final Fantasy VII](https://www.youtube.com/watch?v=BJEzSnDlaAY)
             * [Final Fantasy 7 Background Upscale](https://www.vg247.com/2019/01/09/final-fantasy-7-hd-remaster-remake-upscale/)
         * [iSize](https://www.isize.co/)
+        * Deepfakes
+            * [It’s Getting Harder to Spot a Deep Fake Video](https://www.youtube.com/watch?v=gLoI9hAX9dw)
+            * [Deepfakes - Real Consequences](https://www.youtube.com/watch?v=dMF2i3A9Lzw)
 * Open vs Proprietary
     * Operating Systems
     * Map Data
@@ -319,8 +325,8 @@ def draw_tree_recursive(t, size=100, branches=3, total_angle=120, depth=2):
 ### DNA
 
 Human DNA 6 Billion pairs
-4 bytes per pair (A-G,C-T)
-6000000000000 * 4 / 1024 / 1024 / 1024 / 1024 = 21 Terrabyes?
+1 byte = 4 pairs (A-G,C-T) (2 bits per item. 4 items in 1 byte)
+6 * pow(10,12)  / 4 / pow(2, 14) = 1 Terrabyes?
 
 [regex101.com](https://regex101.com/)
 ```python
@@ -455,7 +461,44 @@ Graph drawing - pandas python - met office weaterh data
 kinect + scratch
 phse - no goverment cencorship - free speech
 
-History of comuting timeline
 
 
 promotes spiritual, moal, cultural, mental and physical development of putpis
+
+
+
+force directed graph - chenestry
+https://github.com/vasturiano/force-graph
+
+sin wave to sound card
+overtones in matlab
+
+911 attack - graph theory - psyclogy - law
+rumor in scools - class of 30? possible activity?
+
+
+genetic algorithums - evolution - parable of the polygons - racial hatred
+https://rednuht.org/genetic_cars_2/
+Creatures
+https://www.youtube.com/watch?v=31dsH2Fs1IQ
+
+MarIO
+https://www.youtube.com/watch?v=qv6UVOQ0F44
+
+disenter - comments - even when comments not available
+
+carykh
+
+captcha training - for ai
+
+kineckt - 3d vr points? - tween? particals?
+
+asking the right questions of the data
+risk?
+
+https://www.thiswaifudoesnotexist.net/
+
+Bop it smash https://www.amazon.co.uk/Hasbro-Game-Intense-Electronic-Friends/dp/B00871UICY/
+
+Proof Of Concept or Get the Fuck out
+http://pociigtfo.com/
