@@ -305,6 +305,9 @@ You can have multiple pens
 #### Recursive Trees
 
 ```python
+import turtle
+t = turtle.Pen()
+
 def draw_tree_recursive(t, size=100, branches=3, total_angle=120, depth=2):
     if not depth:
         return
@@ -320,13 +323,15 @@ def draw_tree_recursive(t, size=100, branches=3, total_angle=120, depth=2):
         draw_tree_recursive(t, size=size * 0.6, branches=branches, total_angle=total_angle * 0.8, depth=depth-1)
         t.setpos(start_pos)
         t.setheading(start_heading)
+
+draw_tree_recursive()
 ```
 
 ### DNA
 
 Human DNA 6 Billion pairs
 1 byte = 4 pairs (A-G,C-T) (2 bits per item. 4 items in 1 byte)
-6 * pow(10,12)  / 4 / pow(2, 14) = 1 Terrabyes?
+6 * pow(10,12) / 4 / pow(2, 14) = 1 Terrabyes?
 
 [regex101.com](https://regex101.com/)
 ```python
@@ -357,9 +362,17 @@ re.search(r'AC[AG].GT[AT]{5,6}AAA', dna)
         * [Historic Weather Data](https://www.metoffice.gov.uk/climate/uk/data)
             * [sheffield](https://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/sheffielddata.txt) yearly
         * [datapoint api](https://www.metoffice.gov.uk/datapoint)
-        * [Global Hourly](https://www.ncei.noaa.gov/data/global-hourly/)
     * [National Centers for Environmental Information (US)](https://www.ncei.noaa.gov/)
         * [global hourly](https://www.ncei.noaa.gov/data/global-hourly/)
+
+
+```python
+import csv
+with open('./01001099999.csv', encoding='utf-8') as csvfile:
+    cr = csv.DictReader(csvfile, delimiter=',', quotechar='"')
+    for row in cr:
+        print(row)
+```
 
 
 [Plotly](https://plot.ly/) [Simple Scatter Example](https://plot.ly/python/line-and-scatter/#simple-scatter-plot)
