@@ -46,7 +46,7 @@ The process of taking chunks from data from one memory location and copying it t
 Part 2 - 3D Graphics as pixels
 ------------------------------
 
-# Wireframe 3D - Drawing of lines
+### Wireframe 3D - Drawing of lines
 
 [Bresenham's line algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm)
 
@@ -56,7 +56,7 @@ Examples
 * [Red Alarm Review](http://www.nintendolife.com/reviews/2009/04/red_alarm_retro)
 * [Elite](https://youtu.be/1ZT6ItqZ2xc) BBC
 
-# Filled Polygons
+### Filled Polygons
 
 [Polygon Filling Algorithm](https://www.tutorialspoint.com/computer_graphics/polygon_filling_algorithm.htm)
 
@@ -66,7 +66,7 @@ Examples
 
 Draw triangles in the correct order
 
-# Textured Mapping
+### Textured Mapping
 
 * [Software Texture Mapping](https://youtu.be/RyYEGdGwnFs)
 * [Quake 1 - Different renderers](https://www.youtube.com/watch?v=6STlawZarcU)
