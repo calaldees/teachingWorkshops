@@ -515,3 +515,23 @@ Bop it smash https://www.amazon.co.uk/Hasbro-Game-Intense-Electronic-Friends/dp/
 
 Proof Of Concept or Get the Fuck out
 http://pociigtfo.com/
+
+Create a webpage with a world map and use absolute positioning to embed videos from https://www.skylinewebcams.com 
+Virtual Box - install DOS and use it to demonstrate the evolution of Operating Systems over the years. 
+
+English- Botnik
+
+Virtual Penpals in other countries for language development
+Vocabulary spreadsheet
+
+Smart Rockets - http://www.blprnt.com/smartrockets/
+
+Bookmark-let to login
+
+https://informationisbeautiful.net/
+https://twitter.com/keatonpatti/status/1039889888961880064?lang=en
+
+Powers of 10 - 1977
+https://www.youtube.com/watch?v=0fKBhvDjuy0
+
+tim hunkin - southwold under the peir - novalty automation
