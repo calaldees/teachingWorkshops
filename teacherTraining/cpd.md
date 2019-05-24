@@ -16,12 +16,12 @@ Background
 
 Education secretary said
 
-> We will have 400 mater teachers to deliver the new Computing Curriculum
+> We will have 400 master teachers to deliver the new Computing Curriculum
 
 > Deregulate QTS (Qualified Teacher Status) to let schools employ experts
 
 * [Curse of the expert](https://www.theconfidentteacher.com/2013/10/michael-gove-wrong-qualified-teacher-status/)
-    * Experts in subject areas dose not make them good teachers
+    * Experts in subject areas does not make them good teachers
 * [400 Master Teachers](https://schoolsweek.co.uk/3m-on-and-where-are-all-the-master-teachers/)
     * £3m on and where are all the master teachers?
 
@@ -142,7 +142,11 @@ Only deliverable by trained facilitators
 ### [NCCE Courses](https://teachcomputing.org/courses)
 Where is Kent?
 
+[Newsletter summary](http://email.stem.org.uk/q/14478Apz3au45S7LrtbVx/wv)
+
+
 ### [The Computer Science Accelerator Programme](https://teachcomputing.org/accelerator)
+
 * Local CPD
     * No need to travel far, we have a network of partners who deliver CPD locally to you
 * Generous bursaries
