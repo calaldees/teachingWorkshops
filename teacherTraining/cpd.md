@@ -29,7 +29,7 @@ Education secretary said
 Master Teachers
 ---------------
 
-* No time
+* No allocated time to share practice
 * No incentive for schools to donate teacher time
 * Experience varied
 * No measure of impact
@@ -90,10 +90,10 @@ Impact Evaluation
 -----------------
 
 In business we _measure_.
-Business define success critera/targets and then work backwards.
+Business define success criteria/targets and then work backwards.
 How do we know it has impact? - The measuring is key.
 
-Describe: Agile Development and sizing
+Describe: _Agile Development_ and _Ticket Sizing_
 
 
 Impact -> Justification -> Plan -> Deliver -> Evaluate
@@ -108,7 +108,7 @@ Thomas Guskeys five levels for evaluating CPD
     * (Start here and work backwards) 'Backwards by design'
 * Group input on impact
 
-Senior leaders don't understand computing
+Senior leaders don't understand Computing
 Context on how to apply this to classroom
 
 Constant Evaluation of Impact - Forms
@@ -154,4 +154,4 @@ Where is Kent?
 * Free online CPD
     * You don't have to take all of your time out of the classroom, you can learn wherever and whenever suits you with our structured online courses
 * Diagnostic tool and certification
-    * Use our helpful tools to identify the areas of subject knowledge where you may need support and record your achievements to be professionally recognised
+    * Use our helpful tools to identify the areas of subject knowledge where you may need support and record your achievements to be professionally recognized
