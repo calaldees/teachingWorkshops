@@ -263,6 +263,7 @@ Further Concepts
         * Deepfakes
             * [It’s Getting Harder to Spot a Deep Fake Video](https://www.youtube.com/watch?v=gLoI9hAX9dw)
             * [Deepfakes - Real Consequences](https://www.youtube.com/watch?v=dMF2i3A9Lzw)
+            * [Not Jordan Peterson](https://www.reddit.com/r/MachineLearning/comments/cqqzov/p_not_jordan_peterson_speech_synthesis_using/)
 * Open vs Proprietary
     * Operating Systems
     * Map Data
