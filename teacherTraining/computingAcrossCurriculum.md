@@ -203,6 +203,7 @@ Activities to:
 * Music
     * MIDI - Theory
         * Arpegiation - color? image? - taktile
+    * [Ableton LearningMusicInteractive](https://learningmusic.ableton.com/)
     * [Sonic Pi](https://sonic-pi.net/)
         * Example lessons and teacher resources
     * [Synthesizer Basics: Amplitude, Oscillators, Timbre](https://www.youtube.com/watch?v=c3udLCvoCC0)
