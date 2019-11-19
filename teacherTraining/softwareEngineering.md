@@ -27,6 +27,7 @@
 * Code review
 * Pair programming
 
+[why-peer-learn](https://blog.hyperlog.club/why-peer-learn/)
 
 ## Events
 

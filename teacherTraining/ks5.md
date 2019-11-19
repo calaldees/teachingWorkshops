@@ -164,9 +164,8 @@ Beyond the Classroom
         * Techniques - agile? testing?
 * Groups/Events
     * Local
-        * [Digibury](https://www.meetup.com/Digibury/)
         * [BarCamp](https://en.wikipedia.org/wiki/BarCamp) - An _Un-Conference_
-            * BarCamp Canterbury
+            * [BarCamp Canterbury](https://barcampcanterbury.com)
                 * [Twitter](https://twitter.com/barcampcant?lang=en)
                 * [Flickr](https://www.flickr.com/groups/barcampcant/pool/)
     * London

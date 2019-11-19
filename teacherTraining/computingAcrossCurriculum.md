@@ -159,6 +159,7 @@ Activities to:
     * [Mandelbrot Set](https://rosettacode.org/wiki/Mandelbrot_set)
         * Python
         * Scratch
+    * [Which answer in this list is the correct answer to this question?](https://math.stackexchange.com/questions/2217248/which-answer-in-this-list-is-the-correct-answer-to-this-question) Logic
 * Biology
     * Conways game of life?
     * [Bacteria Simulation](https://www.youtube.com/watch?v=5UMZVmLt0Bw)
@@ -208,6 +209,8 @@ Activities to:
         * Example lessons and teacher resources
     * [Synthesizer Basics: Amplitude, Oscillators, Timbre](https://www.youtube.com/watch?v=c3udLCvoCC0)
     * [4k Synth Core](https://in4k.github.io/wiki/aulds-4k-synth#coding-your-own-sound-components)
+    * [playing-with-midi-in-javascript](https://medium.com/swinginc/playing-with-midi-in-javascript-b6999f2913c3)
+        * Complete MIDI synth in a browser from scratch
 * MFL
     * [Language Letter Frequency](https://en.wikipedia.org/wiki/Letter_frequency) detector
     * Use application/operating-systems in different languages
@@ -230,11 +233,13 @@ Not directly related to an established school subject.
     * [xkcd Visualisations](http://www.vislives.com/2011/10/xkcd-visualizations.html)
     * [Bruises — The Data We Don’t See](https://medium.com/@giorgialupi/bruises-the-data-we-dont-see-1fdec00d0036)
         * Artistic humanisation of data though charts and music through a child's illness and feelings
+    * [Why scientists need to be better at data visualization](https://www.knowablemagazine.org/article/mind/2019/science-data-visualization)
 * Simulation
     * Traffic
         * [traffic-simulation.de](http://www.traffic-simulation.de)
         * [Traffic Junction Simulation Video](https://www.youtube.com/watch?v=yITr127KZtQ)
         * [SkyLines Forum](https://forum.paradoxplaza.com/forum/index.php?threads/perpetual-traffic-jam.937466/)
+        * [trafficvis.com](https://trafficvis.com)
     * Economic
         * ?
 
