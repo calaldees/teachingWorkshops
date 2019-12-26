@@ -235,7 +235,10 @@ Not directly related to an established school subject.
         * Artistic humanisation of data though charts and music through a child's illness and feelings
     * [Why scientists need to be better at data visualization](https://www.knowablemagazine.org/article/mind/2019/science-data-visualization)
 * Simulation
+    * Climate
+        * [climateinteractive](https://en-roads.climateinteractive.org/scenario.html)
     * Traffic
+        * [A/B Street](https://github.com/dabreegster/abstreet)
         * [traffic-simulation.de](http://www.traffic-simulation.de)
         * [Traffic Junction Simulation Video](https://www.youtube.com/watch?v=yITr127KZtQ)
         * [SkyLines Forum](https://forum.paradoxplaza.com/forum/index.php?threads/perpetual-traffic-jam.937466/)
