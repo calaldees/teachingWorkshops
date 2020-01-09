@@ -181,6 +181,7 @@ Activities to:
         * [London Community](https://www.meetup.com/Algorithmic-Art/)
     * [Demoscene](https://en.wikipedia.org/wiki/Demoscene)
             * [flashtro-morton-strikes-back](http://flashtro.com/flashtro-morton-strikes-back/)
+    * [Pixel Art](http://www.dinofarmgames.com/a-pixel-artist-renounces-pixel-art/)
 * Languages
     * English Grammar
 * Sociology

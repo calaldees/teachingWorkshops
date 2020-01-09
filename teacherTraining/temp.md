@@ -2,13 +2,6 @@ tell me about digital literact ...
 
 
 
-Digital Literacy
-
-access to information is not a problem anymore - how to find and use it IS
-
-Enlish curriculum dosnt mention the internet, source, digtial or media
-
-
 
 
 

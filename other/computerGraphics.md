@@ -53,7 +53,7 @@ Part 2 - 3D Graphics as pixels
 Examples
 * [BattleZone](https://www.youtube.com/watch?v=e5_MXGkLvpI) PC
 * [Red Alarm](https://www.google.com/search?q=red+alarm+virtual+boy)
-* [Red Alarm Review](http://www.nintendolife.com/reviews/2009/04/red_alarm_retro)
+    * [Red Alarm Review](http://www.nintendolife.com/reviews/2009/04/red_alarm_retro)
 * [Elite](https://youtu.be/1ZT6ItqZ2xc) BBC
 
 ### Filled Polygons
@@ -66,12 +66,12 @@ Examples
 
 Draw triangles in the correct order
 
+The processes of taking triangle geometry and drawing it as pixels is called `rasterisation`
+
 ### Textured Mapping
 
 * [Software Texture Mapping](https://youtu.be/RyYEGdGwnFs)
 * [Quake 1 - Different renderers](https://www.youtube.com/watch?v=6STlawZarcU)
-
-The processes of taking triangle geometry and drawing it as pixels is called `rasterisation`
 
 Quake 1 engine was sold/licensed to game developers.
 
@@ -86,3 +86,11 @@ Modern game programmers use graphics library's and hardware.
 
 Mobile chipsets - 200 Million triangles per second - source [imagination graphics benchmark guide](https://www.imgtec.com/blog/consumer-guide-to-graphics-benchmarks/)
 
+
+Further Reading
+---------------
+
+* [fabiensanglard.neta](fabiensanglard.neta) - Game code teardowns
+    * [Another World](http://fabiensanglard.net/another_world_polygons/index.html)
+* [VoxelSpace](https://github.com/s-macke/VoxelSpace)
+* [CGA 1024 Colors](https://int10h.org/blog/2015/04/cga-in-1024-colors-new-mode-illustrated/)

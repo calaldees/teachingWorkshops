@@ -39,6 +39,9 @@ Use of School Data
 Ofsted Reports & Performance Data
 ---------------------------------
 
+Lessons observations have been proven to be an opinionation unreliable way to inspect schools.
+Ofstead now focuses of looking at the schools data and evidence of _real learning_
+
 RAISEonline data cometary - [National College for School Leadership - Understanding and using data](https://www.nationalcollege.org.uk/sites/default/files/sites/default/files/level3udeip-resunderstandingdata.pdf) pg42+ for KS3->KS4
 RAISEonline replaced by _Analyse School Performance_ in September 2017
 
