@@ -3,6 +3,11 @@ Digital Literacy
 
 'Digital Literacy' is a term for the competence/skill we expect with everyday use of a computer.
 
+> Those capabilities that mean an individual is fit for living, learning and working in a digital society.
+> Digital literacy is about being able to make use of technologies to participate in and contribute to the modern social, cultural, philosophical, and economic life.
+British Computer Society 2016
+
+Activity: What can you expect someone with Digital Literacy to be able to do?
 
 ## What can you expect someone with Digital Literacy to be able to do?
 * Where are your files: Cloud? Local Disk? USB?
@@ -74,6 +79,8 @@ Imagine the world you would live in if you were not digitally literate?
 Digital Literacy is the power to understanding and influence the modern world
 
 # ICT
+
+The Digital Competence Framework for Citizens (DigiComp) introduced by the european commission in 2013
 
 Largest working age study in the world 215,942 participants (5000 from each country)
 [The Distribution of Users’ Computer Skills: Worse Than You Think](https://www.nngroup.com/articles/computer-skill-levels/)

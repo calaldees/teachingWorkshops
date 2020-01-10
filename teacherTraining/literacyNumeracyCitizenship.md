@@ -29,8 +29,11 @@ Literacy
 
 What is the tipping point from _'just using words that scientists use'_ and _'talking like a scientist'_?
 
-* An average 14-year-old has a vocabulary of 800 words
+* Age 7 - top 25% have vocabulary of 7,100 words - bottom 25% 3,000 (parents?)
+* Age 16 - 1 in 12 students has a working vocabulary of 800 words
 * An average graduate has a vocabulary of 20,000 words
+
+Matthew effect
 
 #### Activity: Imagine
 1min silence. Close your eyes. Imagine you lived in this world but were not literate. What things would it impair you doing?
@@ -39,6 +42,28 @@ Literacy is not a skill
 It's the power to interact and understand the world
 
 ### The _Language_ of Computer Science
+
+> Some words have specific meaning in the computer science community, but a slightly or sometimes completely different meaning in everyday discourse (e.g. nouns like code, memory, address, folder, loop, bug, value, or verb to save, to code, to retrieve, to submit)
+
+Computer Science Education (2019)
+
+> Metaphores: The data is transfered -> I will move the file to another folder
+> Computer is a living being: it fell asleep and woke up
+> Always be explicit - these are metaphors
+
+Meta-Discourse
+1. Clarify meaning in other non-cs contexts
+2. Speculation about possible meanings (what it could or could not be)
+3. Develop CS related meaning
+
+Busch 1998
+
+> I wrote a code
+Professional developer interviewing for a position last week
+
+> Unless we want to dumb down the curriculum to the point at which it's completely valueless, its impossible to penetrate the meaning of academic subjects using everyday language
+
+David Didau
 
 Examples of subject specific language:
 * General concepts
@@ -222,6 +247,9 @@ What implications will this have for you teaching Computing?
     * [Marcus J Ball](https://www.marcusjball.com/) suggests that if politicians are allowed to lie to us then democracy dies
         * If a CEO lies to their shareholders, they go to prison for fraud. If a politicians lies to a country, thats fair game
 
+[Kurzgesagt](https://www.youtube.com/user/Kurzgesagt/videos)
+
+### Story: A-Level class teacher complaint
 
 ### Computing related
 
@@ -237,11 +265,21 @@ What implications will this have for you teaching Computing?
         * [blocked.org.uk](https://www.blocked.org.uk/)
             * ISPs can block/filter site access
                 * Small business owner - singing teacher - website blocked as 'drugs' and did not know
+    * [plaintextoffenders](http://plaintextoffenders.com/)
     * [Stand up to police spying](https://www.libertyhumanrights.org.uk/our-campaigns/stand-police-spying)
         * [Predictive Policing Report](https://www.libertyhumanrights.org.uk/sites/default/files/LIB%2011%20Predictive%20Policing%20Report%20WEB.pdf)
     * [The Great Hack](https://www.youtube.com/watch?v=iX8GxLP1FHo)
         * If it's free you are the product
     * [Apple Vs FBI](https://www.computerworld.com/article/3038269/apple-vs-the-fbi-the-legal-arguments-explained.html)
+    * [Humans need not Apply](https://www.youtube.com/watch?v=Kxvf9VKcri8)
+* Hacking
+    * Who knows how a system or people can be exploited by hacking?
+    * Who knows how to protect a system or people from being exploited by hacking?
+    * Security consultancy is a highly valued and lucrative carrer, but you must do it properly
+    * My Stories
+        * Liaising with school technicians - they will do it anyway
+        * Message board example hack
+        * SMTP open port - mail from the future
 * Volunteer
     * Concept - Help old people to use computers
 
