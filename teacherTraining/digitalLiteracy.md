@@ -5,6 +5,7 @@ Digital Literacy
 
 > Those capabilities that mean an individual is fit for living, learning and working in a digital society.
 > Digital literacy is about being able to make use of technologies to participate in and contribute to the modern social, cultural, philosophical, and economic life.
+
 British Computer Society 2016
 
 Activity: What can you expect someone with Digital Literacy to be able to do?
@@ -19,6 +20,7 @@ Activity: What can you expect someone with Digital Literacy to be able to do?
     * Password manager
 * Plain text passwords [Plain Text Offenders](http://plaintextoffenders.com/)
 * Differentiate between phishing and spam (your responsibility to report)
+    * https://www.gov.uk/report-suspicious-emails-websites-phishing
 * Electoral role (edited register)
 * Cookies (What they are and why they are used)
 * Domain/typo squatting
