@@ -73,7 +73,7 @@ Examples of subject specific language:
 * Computing
     * Data Volumetrics, Permiations
     * Assignment, selection, iteration, set, dictionary, array, call stack depth, stack, queue, cache invalidation, proxy
-    * Time Complexity, Parallelisation, Race hazard, Overload mathematical operators
+    * Time Complexity, Parallelisation, Race hazard, Overload mathematical operators, Order of precedence
 * Mathematics
     * Set comparison, Exponentially
 * Biology
