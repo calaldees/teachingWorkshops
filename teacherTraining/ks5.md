@@ -38,7 +38,7 @@ History of the A-Level
     * AS used to be really easy (because could not rely on previous learning)
     * A2 Practical project (30% of A2 -> 15% of A-Level) - was utterly ridiculous difficulty - the jump was too great
 * 2008-ish
-    * Introduced Nationwide Practical Exam in multiple languages for AS
+    * Introduced nationwide _practical exam_ in _multiple languages_ (AS only)
 * 2016 - Spring clean
     * 29% AS - 71% A2
     * AS and A2 Practical Exam
@@ -116,13 +116,14 @@ Combine QP (question paper), MS (mark scheme) and WRE (Examiners report)
         * [theallpapers.com/papers](http://www.theallpapers.com/papers/AQA/ALevels/Computing%20(2510)/) Are still relevant
         * Know [what's changed](https://www.aqa.org.uk/resources/computer-science-and-it/as-and-a-level/computer-science-7516-7517/plan/summary-of-changes-knowledge)
 
-TASK: Do question + Use Mark Scheme + Examiners report
+TASK: Do a question + Use Mark Scheme + Examiners report
 
 * Suggested classroom use
-    * Just say `75162 Paper2 Jun-2016 Q6` or `75162 Paper1 Jun-2016 Q5`
-        * They can find it themselves (teach them to setup bookmarks, should take them 60 seconds)
+    * Just say `AQA 2016 Jun Paper2 Q6`
+        * Students can find it themselves (teach them to setup bookmarks, download, should take them 60 seconds)
+            * Don't rename the files (the exam board named them that way for a reason)
     * Use them as starters/plenary
-        * You can set the same question multiple times, (interleaving)
+        * You can set the same question multiple times over the year, (interleaving)
             * Helps reinforce learning
             * If it's a previous topic - spacing and interleaving topics is proven to be an effective leaning technique
     * Use them as homework (to then accelerate a starter?)
@@ -161,7 +162,9 @@ Passed Papers (Practical)
 AQA Paper 1 - Practical
 Pre Release -> Exam
 
-* AQA Paper 1 Specimen
+* AQA Paper 1
+    * Warmup question `AQA 2016 Jun Paper1 Q5` (use the language_cheat_sheet)
+    * Specimen - PreRelease Task
     * [AQA Assessment resources](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517/assessment-resources)
         * [Paper 1: Specimen preliminary material](https://filestore.aqa.org.uk/resources/computing/AQA-75161-SPM.PDF)
         * [Paper 1 - Specimen skeleton programs (A-level): Text files](http://filestore.aqa.org.uk/resources/computing/AQA-75161-SSP.ZIP)
@@ -174,19 +177,16 @@ AQA Module Weight
 
 Always be clear about the weight of each module. Check the spec.
 
-### AS == 29% of A-Level grade
-
-* 14% Paper 1 - Practical Assessment
-* 14% Paper 2 - Theory
-
-### A2 == 71% of A-Level grade
-
-* 28% Paper 1 - Practical Assessment
-* 28% Paper 2 - Theory
-* 15% Non-exam assessment - Project/Investigation
-    * Any topic - Individual to student
-    * 8% Technical solution
-    * 7% Documentation
+* AS == 29% of A-Level grade
+    * 14% Paper 1 - Practical Assessment
+    * 14% Paper 2 - Theory
+* A2 == 71% of A-Level grade
+    * 28% Paper 1 - Practical Assessment
+    * 28% Paper 2 - Theory
+    * 15% Non-exam assessment - Project/Investigation
+        * Any topic - Individual to student
+        * 8% Technical solution
+        * 7% Documentation
 
 
 Beyond the Classroom
