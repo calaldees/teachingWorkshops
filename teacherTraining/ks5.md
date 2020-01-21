@@ -65,7 +65,7 @@ Give spec to students printed (4 to a page + Duplex) [pages 38-89]
 Course Layout
 -------------
 
-* For a Novice Teacher
+* For a Novice Teacher - Exam boards provide support
     * Entire years guidance is provided (teaching with stabilisers on the bike)
     * AQA [teaching-resources](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517/teaching-resources)
         * [scheme-of-work-week-by-week](https://www.aqa.org.uk/resources/computer-science-and-it/as-and-a-level/computer-science-7516-7517/teach/scheme-of-work-week-by-week)
@@ -166,11 +166,15 @@ Pre Release -> Exam
     * Warmup question `AQA 2016 Jun Paper1 Q5` (use the language_cheat_sheet)
     * Specimen - PreRelease Task
     * [AQA Assessment resources](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517/assessment-resources)
-        * [Paper 1: Specimen preliminary material](https://filestore.aqa.org.uk/resources/computing/AQA-75161-SPM.PDF)
-        * [Paper 1 - Specimen skeleton programs (A-level): Text files](http://filestore.aqa.org.uk/resources/computing/AQA-75161-SSP.ZIP)
+        * [Paper 1: Specimen preliminary material](http://filestore.aqa.org.uk/resources/computing/AQA-75171-SPM.PDF)
+        * [Paper 1 - Specimen skeleton programs (A-level): Text files](http://filestore.aqa.org.uk/resources/computing/AQA-75171-SSP.ZIP)
 
 TASK: Monster task - what could they ask? - Define training tasks for students - Fire up program (python?)
 
+The quality of the code written by the exam-board is awful - however!
+* The exam-board need to keep the same structure/principles across multiple languages so the questions can be consistent
+* The code quality of the code that professional programers work with throughout their career is often of poor quality
+    * Good programmers can work-with/understand/improve bad code
 
 AQA Module Weight
 -----------------
