@@ -19,6 +19,7 @@ What you need is the right professional approach.
 The students need to know you that you can read/learn/grow.
 If you pretend to know it all, you will fall
 
+
 Time
 ----
 
@@ -30,16 +31,16 @@ A single A-Level year-group is 25% of your fulltime timetable.
 History of the A-Level
 ----------------------
 
-* Pre 2000 - Overlap between ICT and Computing
+* Pre 2000 - Overlap between ICT and Computing as a single subject
 * 2000-ish
     * AS/A-Level structure was solidified
     * 50% AS - 50% A2
     * AS used to be really easy (because could not rely on previous learning)
-    * A2 Practical project (30% of A2 -> 15% of A-Level) - was utterly ridiculous - the jump was too great
+    * A2 Practical project (30% of A2 -> 15% of A-Level) - was utterly ridiculous difficulty - the jump was too great
 * 2008-ish
     * Introduced Nationwide Practical Exam in multiple languages for AS
 * 2016 - Spring clean
-    * 30% AS - 70% A2
+    * 29% AS - 71% A2
     * AS and A2 Practical Exam
     * A2 Project dramatically reduced/simplified/practical
 
@@ -48,21 +49,23 @@ Courses
 -------
 
 * [AQA Computer Science 7516-7517](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517)
-    * [spec](http://filestore.aqa.org.uk/resources/computing/specifications/AQA-7516-7517-SP-2015.PDF)
+    * [spec-2015](http://filestore.aqa.org.uk/resources/computing/specifications/AQA-7516-7517-SP-2015.PDF)
 * [OCR h046-h446](https://www.ocr.org.uk/qualifications/as-and-a-level/computer-science-h046-h446-from-2015/)
+    * AS[spec-2019](https://www.ocr.org.uk/Images/170845-specification-accredited-as-level-gce-computer-science-h046.pdf)
+    * A2[spec-2019](https://www.ocr.org.uk/Images/170844-specification-accredited-a-level-gce-computer-science-h446.pdf)
 
 Live by the spec.
 Give spec to students printed (4 to a page + Duplex) [pages 38-89]
 
 * [AQA/OCR Comparison](https://www.aqa.org.uk/resources/computer-science-and-it/as-and-a-level/computer-science-7516-7517/plan/aqa-or-ocr)
     * AQA is explicitly clear what is in the spec - practical exam is genuine application
-    * OCR Coursework mostly writeup, Theory is vague, little practical, difficult to engage students, resorces locked behind login
+    * OCR Coursework mostly writeup, Theory is vague, little practical, difficult to engage students, resources locked behind login
 
 
 Course Layout
 -------------
 
-* Beginner Teacher
+* For a Novice Teacher
     * Entire years guidance is provided (teaching with stabilisers on the bike)
     * AQA [teaching-resources](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517/teaching-resources)
         * [scheme-of-work-week-by-week](https://www.aqa.org.uk/resources/computer-science-and-it/as-and-a-level/computer-science-7516-7517/teach/scheme-of-work-week-by-week)
@@ -70,19 +73,22 @@ Course Layout
     * OCR [planning-and-teaching](https://www.ocr.org.uk/qualifications/as-and-a-level/computer-science-h046-h446-from-2015/planning-and-teaching/)
         * [co-teaching](https://www.ocr.org.uk/Images/176356-co-teaching-guide.pdf)
         * [sample-curriculum](https://www.ocr.org.uk/Images/170246-sample-curriculum-planning-guide.pdf)
-* Experienced Teacher
+* For Experienced Teacher
     * Project Time
-        * Give all practical activities at beginning of year
+        * Give all practical activities at beginning of year (more below)
         * Have project work time (allow them to tackle tasks in any order and self direct)
         * Homework becomes more project time
-        * Use this to consult 1-2-1 with each student + monitor + record keep + facilitate pairing (pyramid of support)
+            * They CANNOT develop enough skill with only classroom time
+        * Use this to consult 1-2-1 with each student + monitor + record keep + facilitate pairing (pyramid of support) + coach
         * Spec bingo (with dates)
     * Bring class together for structured theory
         * Spec bingo! (with dates)
+        * Exam question the shit out of them
+            * Teach them how to use the spec, passed-papers, examiners report (more below)
 
 
-Practical Activities
---------------------
+AS Practical Activities
+-----------------------
 
 Wherever possible use practical to teach theory
 Have tasks setup at beginning of year and given to students. These could just be a sentence for an entire project.
@@ -90,32 +96,50 @@ Have tasks setup at beginning of year and given to students. These could just be
 * Examples of programming exercises
     * https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
     * https://www.ocr.org.uk/Images/400714-algorithm-challenge-booklet-teachers-guide.docx
-    * [unit1-projects](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/docs/unit1-projects.odt) old example
+    * unit1-projects [md](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/docs/unit1-projects.md)[odt](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/docs/unit1-projects.odt)-old-example-for-layout
 
-TASK: Look at spec - define a practical list of activities - by spec point
+TASK: Look at theory spec - define a practical activity for a spec point
 
 
 Passed Papers (Theory)
 ----------------------
 
+> Teach a student how to _fish/learn_ and they will _feed/teach_ themselves for the rest of their life
+
 Combine QP (question paper), MS (mark scheme) and WRE (Examiners report)
+* [OCR H046-H446](https://www.ocr.org.uk/qualifications/as-and-a-level/computer-science-h046-h446-from-2015/assessment/)
 * [AQA 7516-7517](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517/assessment-resources)
-* Old [AQA 2510](http://www.theallpapers.com/papers/AQA/ALevels/Computing%20(2510)/)
-    * Are still relevant
-    * Know [what's changed](https://www.aqa.org.uk/resources/computer-science-and-it/as-and-a-level/computer-science-7516-7517/plan/summary-of-changes-knowledge)
+    * [Spec-2015](http://filestore.aqa.org.uk/resources/computing/specifications/AQA-7516-7517-SP-2015.PDF)
+* Old
+    * AQA-5511-6511 [Spec-2008](https://www.scribd.com/document/94761/AQA-5511-6511-W-SP-08) 2003-2008?
+    * AQA 2510 [Spec-2014](http://smartfile.s3.amazonaws.com/ac0a4ac2fc14b45086e9c5af7511da39/uploads/2017/06/AQA-2510-W-SP-14.pdf) 2008-2015?
+        * [theallpapers.com/papers](http://www.theallpapers.com/papers/AQA/ALevels/Computing%20(2510)/) Are still relevant
+        * Know [what's changed](https://www.aqa.org.uk/resources/computer-science-and-it/as-and-a-level/computer-science-7516-7517/plan/summary-of-changes-knowledge)
 
 TASK: Do question + Use Mark Scheme + Examiners report
+
+* Suggested classroom use
+    * Just say `75162 Paper2 Jun-2016 Q6` or `75162 Paper1 Jun-2016 Q5`
+        * They can find it themselves (teach them to setup bookmarks, should take them 60 seconds)
+    * Use them as starters/plenary
+        * You can set the same question multiple times, (interleaving)
+            * Helps reinforce learning
+            * If it's a previous topic - spacing and interleaving topics is proven to be an effective leaning technique
+    * Use them as homework (to then accelerate a starter?)
+    * Every lesson should have one
+        * Repeat the QP->MS->ER again and again and again
 
 
 AS -> A2 Progression
 --------------------
 
-You WILL need to use multiple languages
-* OO section is Java
-* Functional programming
+You *will* need to use multiple languages
+* ObjectOrientation (describes Java)
+* Functional programming (Haskell)
+
 * SQL
 * REST Server - API JSON/XML
-
+    * Example Task: Generate RSS-feed and json from twitter
 
 
 Keystage 5 - A-Level Computing - Part 2
@@ -138,11 +162,31 @@ AQA Paper 1 - Practical
 Pre Release -> Exam
 
 * AQA Paper 1 Specimen
-    * https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517/assessment-resources
-    * https://filestore.aqa.org.uk/resources/computing/AQA-75161-SPM.PDF
-    * http://filestore.aqa.org.uk/resources/computing/AQA-75161-SSP.ZIP
+    * [AQA Assessment resources](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517/assessment-resources)
+        * [Paper 1: Specimen preliminary material](https://filestore.aqa.org.uk/resources/computing/AQA-75161-SPM.PDF)
+        * [Paper 1 - Specimen skeleton programs (A-level): Text files](http://filestore.aqa.org.uk/resources/computing/AQA-75161-SSP.ZIP)
 
-TASK: Monster - what could they ask? - Define training tasks for students - Fire up program (python?)
+TASK: Monster task - what could they ask? - Define training tasks for students - Fire up program (python?)
+
+
+AQA Module Weight
+-----------------
+
+Always be clear about the weight of each module. Check the spec.
+
+### AS == 29% of A-Level grade
+
+* 14% Paper 1 - Practical Assessment
+* 14% Paper 2 - Theory
+
+### A2 == 71% of A-Level grade
+
+* 28% Paper 1 - Practical Assessment
+* 28% Paper 2 - Theory
+* 15% Non-exam assessment - Project/Investigation
+    * Any topic - Individual to student
+    * 8% Technical solution
+    * 7% Documentation
 
 
 Beyond the Classroom
@@ -153,12 +197,13 @@ Beyond the Classroom
     * [RGB puzzle](http://www.olympiad.org.uk/papers/2009/bio/bio09-exam.pdf)
     * Important to highlight to students how far they have still to go
 * Guest Speakers
+    * Always paired with spec! Help the students prepare questions/goals BEFOREHAND!
     * Real life people with real life case studies!
         * Bring your friends into school
-    * Computing Case Studies (link to spec + show spec is drop in the ocean)
+    * Computing Case Studies (paired with spec + show spec is drop in the ocean)
     * Career Guidance
 * Visits
-    * Always paired with spec! Prep students BEFOREHAND!
+    * Always paired with spec! Help the students prepare questions/goals BEFOREHAND!
     * Real business's
         * Networks
         * Techniques - agile? testing?
@@ -176,7 +221,7 @@ Beyond the Classroom
 Books and Resources
 ------------------
 
-Buy multiple approved exam board books for reference.
+Buy multiple _approved_ by the exam board books for reference.
 Recommend one book to students.
 
 * [PM Heathcoate](https://www.amazon.co.uk/OCR-AS-Level-Computer-Science/dp/1910523054/) _my preference_
@@ -224,61 +269,33 @@ Summary of interesting bits
 * Regex
 * Encryption
     * WPA2
-* Macine instruction set
-    * interupts
+* Machine instruction set
+    * interrupts
 * Moral and social implications
     * Street view
-    * Github streek
+    * [Hanna Fry](https://www.youtube.com/watch?v=Rzhpf1Ai7Z4) Explanation of AI on society
+    * [Github streak](https://github.com/isaacs/github/issues/627) was removed for mental health of developers
+        * [backlash](https://github.com/dear-github/dear-github/issues/163)
 * Networking
     * Protocols
         * pop3
-        * smtp
+        * smtp (do in terminal - if you can find an open one)
+        * http (do in terminal)
     * Subnet mask
+        * [the-slash-after-an-ip-address-cidr-notation](https://networkengineering.stackexchange.com/questions/3697/the-slash-after-an-ip-address-cidr-notation)
+        * https://www.aelius.com/njh/subnet_sheet.html
+        * Class A, B, C
     * SSID
-* big data
+* Big data
+    * [AWS what-is-a-data-lake](https://aws.amazon.com/big-data/datalakes-and-analytics/what-is-a-data-lake/)
 * Functional Programming
     * [haskell.org](https://www.haskell.org/)
-        * [repl.it/haskell](https://repl.it/site/blog/haskell)
+        * [repl.it/haskell](https://repl.it/site/blog/haskell) Live browser haskell
         * [realworldhaskell](http://book.realworldhaskell.org/)
     * [Advantages of Functional Programming](https://alvinalexander.com/scala/fp-book/benefits-of-functional-programming)
 * OO
     * [Why `extends` is evil](https://www.javaworld.com/article/2073649/core-java/why-extends-is-evil.html)
         * [javlib/Utils/Types/Integer](https://github.com/calaldees/javalib/tree/master/lib/Utils/Utils/Types/Integer)
-    * RTS - Create an OO structure for ...
-        * C&C
-            * [C&C in browser](https://www.adityaravishankar.com/projects/games/command-and-conquer/)
-            * [C&C video example](https://www.youtube.com/watch?v=uqTqBoEkyAA&feature=youtu.be&t=180)
-        * GameObject
-            * Potition
-            * Health
-            * Size
-            * Armour
-            * GetFrame
-            * Cost
-            * visibleDistance
-        * Structure
-            * EnergyRequired
-        * Factory
-            * Build?
-            * canProduce
-        * Turret
-            * ? (This is why interfaces are king)
-        * Direction
-        * Unit
-            * Move
-            * Direction
-            * Speed
-            * Turn rate
-        * OffensiveUnit
-            * dameageType
-            * rateOfFire
-            * range
-        * Infantry
-        * Tank
-            * Turret Direction
-        * Carryer
-            * ?
-        * AirialUnit
 * Comparing Algorithm time complexity
     * RTS - line of sight shoot - can shoot
 * [P vs NP](https://www.youtube.com/watch?v=YX40hbAHx3s)
@@ -289,5 +306,5 @@ Summary of interesting bits
 Plenary
 -------
 
-* Discuss possible concerns for teaching A-Level.
+* Discuss possible concerns for teaching A-Level
 * Identify action points

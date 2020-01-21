@@ -96,6 +96,7 @@ Perception
 7. Distribute link to students and parents
 
 [IMPORTRANGE](https://support.google.com/docs/answer/3093340?hl=en) interlink sheets.
+[FLOOKUP](https://news.ycombinator.com/item?id=22083533) - possible useful addon
 
 Activity: [Teacher Workbook Example](https://docs.google.com/spreadsheets/d/1LRn7KCvpGXhnYlRnEZeU19xQ4Zo39xjn5KBjWH-_x0E/edit?usp=sharing)
 
