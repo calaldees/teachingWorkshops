@@ -13,11 +13,17 @@ Your Subject Knowledge
 
 You wont be able to get 100% on an A-Level paper. I can't
 A-Level is the first year of a degree (All university's teach it all again)
-Reassurance: Your Computing skills ARE sufficient for 95% of all your professional interactions.
+Reassurance: Your Computing skills ARE sufficient for 90% of all your professional interactions.
 You CAN do this job.
 What you need is the right professional approach.
 The students need to know you that you can read/learn/grow.
-If you pretend to know it all, you will fall
+If you pretend to know it all, you will fall.
+
+Discussion:
+Teachers are not expected/required to sit the GCSE's and A-Level exams each year along with their students.
+Would this be important requirement? would this ongoing feedback be valuable?
+Why is a teacher taking exams not common ongoing practice?
+On an application for teacher training, why is passing the GCSE in May/June-Session not a requirement?
 
 
 Time
@@ -25,7 +31,7 @@ Time
 
 A-Levels take 360 guided learning hours per subject over the duration of the course (normally two years)
 4 to 5 Hours a week contact?
-A single A-Level year-group is 25% of your fulltime timetable.
+A single A-Level year-group is 25% of a teachers full-time timetable.
 
 
 History of the A-Level
@@ -34,15 +40,16 @@ History of the A-Level
 * Pre 2000 - Overlap between ICT and Computing as a single subject
 * 2000-ish
     * AS/A-Level structure was solidified
+        * ICT (aka Office Studies) was split into a separate subject
     * 50% AS - 50% A2
     * AS used to be really easy (because could not rely on previous learning)
     * A2 Practical project (30% of A2 -> 15% of A-Level) - was utterly ridiculous difficulty - the jump was too great
 * 2008-ish
-    * Introduced nationwide _practical exam_ in _multiple languages_ (AS only)
+    * Nationwide AS _practical exam_ supporting _multiple languages_ (AQA)
 * 2016 - Spring clean
     * 29% AS - 71% A2
-    * AS and A2 Practical Exam
-    * A2 Project dramatically reduced/simplified/practical
+    * AS *and* A2 Practical Exam (AQA)
+    * A2 Project dramatically reduced/simplified practical (14% of A-Level)
 
 
 Courses
@@ -59,7 +66,7 @@ Give spec to students printed (4 to a page + Duplex) [pages 38-89]
 
 * [AQA/OCR Comparison](https://www.aqa.org.uk/resources/computer-science-and-it/as-and-a-level/computer-science-7516-7517/plan/aqa-or-ocr)
     * AQA is explicitly clear what is in the spec - practical exam is genuine application
-    * OCR Coursework mostly writeup, Theory is vague, little practical, difficult to engage students, resources locked behind login
+    * OCR Coursework mostly writeup, Spec theory is vague, little practical, difficult to engage students, resources locked behind login (inaccessible to students)
 
 
 Course Layout
@@ -80,7 +87,6 @@ Course Layout
         * Homework becomes more project time
             * They CANNOT develop enough skill with only classroom time
         * Use this to consult 1-2-1 with each student + monitor + record keep + facilitate pairing (pyramid of support) + coach
-        * Spec bingo (with dates)
     * Bring class together for structured theory
         * Spec bingo! (with dates)
         * Exam question the shit out of them
@@ -252,7 +258,7 @@ Practical Techniques
             import pdb ; pdb.set_trace()
         ```
     * [Doctests](https://docs.python.org/2/library/doctest.html)
-        * Great for marking - [separate test file](http://pythontesting.net/framework/doctest/doctest-introduction/#separate_file)
+        * Great for marking - [separate test file](https://docs.python.org/3.9/library/doctest.html#simple-usage-checking-examples-in-a-text-file)
         * ```python
             # At end of python file
             import doctest; doctest.testmod()
