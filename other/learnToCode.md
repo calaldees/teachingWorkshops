@@ -9,3 +9,6 @@ My approach
 
 
 https://sar3.ch/en/blog/kinder-programmieren-erfahrungen
+
+
+https://learnxinyminutes.com/

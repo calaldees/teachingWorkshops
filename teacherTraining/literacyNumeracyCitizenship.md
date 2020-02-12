@@ -70,6 +70,7 @@ Examples of subject specific language:
     * Analysis, Evaluation, Decomposition
     * Mental model
     * Cognitive Bias, Cognitive load
+    * "What was the composition of the team"
 * Computing
     * Data Volumetrics, Permiations
     * Assignment, selection, iteration, set, dictionary, array, call stack depth, stack, queue, cache invalidation, proxy

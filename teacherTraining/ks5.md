@@ -125,7 +125,7 @@ Combine QP (question paper), MS (mark scheme) and WRE (Examiners report)
 TASK: Do a question + Use Mark Scheme + Examiners report
 
 * Suggested classroom use
-    * Just say `AQA 2016 Jun Paper2 Q6`
+    * Just say `AQA 2016 AS Jun Paper2 Q6`
         * Students can find it themselves (teach them to setup bookmarks, download, should take them 60 seconds)
             * Don't rename the files (the exam board named them that way for a reason)
     * Use them as starters/plenary

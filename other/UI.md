@@ -14,3 +14,7 @@ Bluring the lines
 Ad's and content indistinguishable?
 (link to psycology.md?)
 https://twitter.com/craigmod/status/1219644556003565568
+
+
+Play at speed
+ADOM

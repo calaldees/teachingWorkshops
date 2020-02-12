@@ -4,3 +4,14 @@ https://www.theglobeandmail.com/drive/technology/article-what-kind-of-data-is-my
 
 Privacy over ad's?
 https://duckduckgo.com/traffic
+
+
+https://www.schneier.com/essays/archives/2020/01/were_banning_facial_.html
+https://in.bgu.ac.il/en/pages/news/Chameleon-Attack.aspx
+
+
+https://blog.mozilla.org/firefox/online-advertising-strategies/
+
+https://github.com/w3ctag/design-reviews/issues/467#issuecomment-581944600
+
+https://www.seattletimes.com/business/technology/special-sunglasses-license-plate-dresses-juggalo-face-paint-how-to-be-anonymous-in-the-age-of-surveillance/

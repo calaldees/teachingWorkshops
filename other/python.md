@@ -1,7 +1,13 @@
 https://book.pythontips.com/en/latest/index.html
 
 
+https://black.readthedocs.io/
 [Google StyleGuide](https://google.github.io/styleguide/pyguide.html)
+[pep8](https://www.python.org/dev/peps/pep-0008/)
+
+[Google DocString Guide](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)
+[sphinx docstring format](https://thomas-cokelaer.info/tutorials/sphinx/docstring_python.html#template.MainClass1.function1)
+
 
 See lanaguageEdgeCases
 https://github.com/satwikkansal/wtfpython
@@ -45,7 +51,9 @@ for i in (1,2,3):
 else:
     
 
-
-
-
 ```
+
+
+from itertools import chain, cycle, permutations
+from functools partial, lru_cache, reduce, wraps
+from collections import defaultdict, namedtuple, ChainMap, deque

@@ -288,6 +288,8 @@ Using real data is inspiring
 
 TODO: list interesting api's and freely available datasets
 
+https://blog.google/products/search/discovering-millions-datasets-web/
+
 
 Programming Projects
 --------------------
@@ -377,6 +379,8 @@ re.search(r'AC[AG].GT[AT]{5,6}AAA', dna)
     * [National Centers for Environmental Information (US)](https://www.ncei.noaa.gov/)
         * [global hourly](https://www.ncei.noaa.gov/data/global-hourly/)
 
+[GeoJSON Tools](https://geoman.io/)
+
 
 ```python
 import csv
@@ -456,8 +460,12 @@ Data Examples
 * Realtime [Lightening Maps](https://www.lightningmaps.org/)
 * [OpenStreetMap](https://www.openstreetmap.org) Javascript Editor - [ID](https://wiki.openstreetmap.org/wiki/ID)
 
+[observablehq](https://observablehq.com/) js live data manipulation and visulisation
 
+playing with data - https://www.software-artist.com/joy-of-coding-observable/
 
+https://datasetsearch.research.google.com/
+https://github.com/awesomedata/awesome-public-datasets
 
 Unsorted notes
 --------------
