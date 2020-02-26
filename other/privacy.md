@@ -15,3 +15,7 @@ https://blog.mozilla.org/firefox/online-advertising-strategies/
 https://github.com/w3ctag/design-reviews/issues/467#issuecomment-581944600
 
 https://www.seattletimes.com/business/technology/special-sunglasses-license-plate-dresses-juggalo-face-paint-how-to-be-anonymous-in-the-age-of-surveillance/
+
+
+Encyription?
+https://latacora.micro.blog/2020/02/19/stop-using-encrypted.html

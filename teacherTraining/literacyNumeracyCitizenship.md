@@ -65,7 +65,18 @@ Professional developer interviewing for a position last week
 
 David Didau
 
+(Original StarTrek episode 'Mirror,Mirror' http://www.chakoteya.net/StarTrek/39.htm where parallel evil enterprise. The few proper crew on the evil enterprise blended in by acting like assholes. The evil crew on the good enterprise were immediately put in the brig.
+KIRK: What I don't understand is how were you able to identify our counterparts so quickly?
+SPOCK: It was far easier for you as civilised men to behave like barbarians, than it was for them as barbarians to behave like civilised men.
+Without the language you can't mimic the use of the language
+)
+
 Examples of subject specific language:
+* General langauge
+    * I'll try -> I'll attempt
+    * we'll talk -> we'll deliberate
+    * he dosnt like me -> there is a failure of trust in this relationship
+    * I can't do this -> I'm struggling with these concepts
 * General concepts
     * Analysis, Evaluation, Decomposition
     * Mental model
@@ -74,7 +85,7 @@ Examples of subject specific language:
 * Computing
     * Data Volumetrics, Permiations
     * Assignment, selection, iteration, set, dictionary, array, call stack depth, stack, queue, cache invalidation, proxy
-    * Time Complexity, Parallelisation, Race hazard, Overload mathematical operators, Order of precedence
+    * Time Complexity, Parallelisation, Race hazard, Overload mathematical operators, Order of precedence, Wall Time
 * Mathematics
     * Set comparison, Exponentially
 * Biology

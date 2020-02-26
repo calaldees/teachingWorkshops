@@ -40,8 +40,8 @@ Computer displays are all broken into describe chunks called `pixels`
 
 The process of taking chunks from data from one memory location and copying it to another is called `blit-ing` [bit block transfer](https://en.wikipedia.org/wiki/Bit_blit).
 
-[MicroMages NES Game - 8x8 Sprite explanation](https://youtu.be/ZWQ0591PAxM?t=162)
-
+* [MicroMages NES Game - 8x8 Sprite explanation](https://youtu.be/ZWQ0591PAxM?t=162)
+* [computer-vision-basics-in-microsoft-excel](https://github.com/amzn/computer-vision-basics-in-microsoft-excel)
 
 Part 2 - 3D Graphics as pixels
 ------------------------------
@@ -94,3 +94,4 @@ Further Reading
     * [Another World](http://fabiensanglard.net/another_world_polygons/index.html)
 * [VoxelSpace](https://github.com/s-macke/VoxelSpace)
 * [CGA 1024 Colors](https://int10h.org/blog/2015/04/cga-in-1024-colors-new-mode-illustrated/)
+* [haiku_icons](http://blog.leahhanson.us/post/recursecenter2016/haiku_icons.html)

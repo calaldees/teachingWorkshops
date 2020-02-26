@@ -18,3 +18,37 @@ https://twitter.com/craigmod/status/1219644556003565568
 
 Play at speed
 ADOM
+
+
+
+Graphic Design
+--------------
+
+https://uxdesign.cc/7-principles-of-icon-design-e7187539e4a2
+TODO: look at uxdesign site further ...
+
+UX
+--
+
+https://blurha.sh/
+
+
+Game Interfaces
+---------------
+
+http://www.atlasoftheuniverse.com/12lys.html
+Tie-Fighter - radar
+
+CLI
+---
+common paradimes
+flags, positional params, named params, pipes?
+
+
+investigate!
+https://github.com/ivanreese/visual-programming-codex
+
+
+libs
+
+https://tailwindui.com/

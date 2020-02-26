@@ -143,6 +143,7 @@ Activities to:
     * History of Computing Timeline
         * TODO:
         * [BBC - Computer Literacy Project 1980-1989](https://computer-literacy-project.pilots.bbcconnectedstudio.co.uk/)
+            * [explore](https://computer-literacy-project.pilots.bbcconnectedstudio.co.uk/explore)
 * Physics
     * Simulation
         * Engines
@@ -163,6 +164,8 @@ Activities to:
 * Biology
     * Conways game of life?
     * [Bacteria Simulation](https://www.youtube.com/watch?v=5UMZVmLt0Bw)
+    * [BioInfomatics](http://rosalind.info/)
+        * + See my DNA-regex activity
 * Chemistry
     * ?
 * Business Studies
@@ -344,7 +347,7 @@ draw_tree_recursive()
 
 Human DNA 6 Billion pairs
 1 byte = 4 pairs (A-G,C-T) (2 bits per item. 4 items in 1 byte)
-6 * pow(10,12) / 4 / pow(2, 14) = 1 Terrabyes?
+6 * pow(10,12) / 4 / pow(2, 14) = 1 Terrabyte?
 
 [regex101.com](https://regex101.com/)
 ```python

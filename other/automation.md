@@ -1,3 +1,6 @@
+Automation
+==========
+
 Assembly Concept
 
 Sudoku solver
@@ -20,3 +23,7 @@ you could use it for incedible personal gain, maximise output, control infomatio
 or you could use it to empower people, grow comunitys and share the expanded capabilities with humanity
 The choice is yours, but only if you know how to use the tool
 Otherwise ... you don't get a choice, you'll be solving meaningless sodokus forever
+
+
+
+https://news.ycombinator.com/item?id=22345150

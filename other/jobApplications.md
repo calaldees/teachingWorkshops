@@ -1,0 +1,1 @@
+https://www.jarednelsen.dev/posts/The-horrifically-dystopian-world-of-software-engineering-interviews
