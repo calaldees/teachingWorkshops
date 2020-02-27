@@ -156,20 +156,30 @@ Is scratch programing realistic?
 
 The Year 6 projects listed here are something that I wish GCSE students could do.
 
+All tasks are project based (computing is a taught as part of an integrated curriculum.
 
 ### Book: Primary in action (Yasemin Allsop and Ben Sedman)
 
 Every Chapter by a different specialist
 Good chapter on assessment
 
+#### Examples of primary computing activities
 
-Examples of computer use in primary
------------------------------------
+* Plastercine - stop motion
+* Voiceover video footage
+* QRCode treasure hunt
 
-* plastercine - stop motion
-* voiceover
-co-learniung
-QRCode hunt
+#### My comments/observations
+
+* Each chapter has a clear focus
+  * Written by a specialist
+* The tasks are challenging, but realistic
+* Teachers need
+  * time to
+    * fully understand the tools/components/software/hardware
+  * reasonable money for resources
+
+All tasks are project based (computing is a taught as part of an integrated curriculum.
 
 
 Hardware
@@ -207,12 +217,6 @@ Software
   * [thingiverse](https://www.thingiverse.com/)
 
 
-Other
------
-
-historically highlight female computing icons
-
-
 CAS Primary Guidance
 --------------------
 
@@ -221,9 +225,16 @@ CAS Primary Guidance
 * Using a pupil-centred approach
   * Modular projects for pupils to choose from
   * Use an enquiry-based approach at the beginning of each half-termly unit:
-* Recommends [OpenBadges.org](https://www.openbadges.org) by Mozilla
-  * Concept is suitable for _formal_ and _informal_
-  * [issuing](https://www.openbadges.org/get-started/issuing-badges/)
+* Recommends
+  * [OpenBadges.org](https://www.openbadges.org) by Mozilla
+    * Concept is suitable for _formal_ and _informal_
+    * [issuing](https://www.openbadges.org/get-started/issuing-badges/)
+  * Historically highlighting female computing icons
+
+### Resources
+* https://www.barefootcomputing.org/
+
+Activity: Sign yo ass's up!!
 
 
 Blogs/Wikis
@@ -250,8 +261,8 @@ Assessment
   * problem -> how you solved it
 
 
-eSafty
-------
+eSafety
+-------
 
 Visited every year as part of the curriculum.
 
@@ -260,17 +271,17 @@ Visited every year as part of the curriculum.
     * I go to this school
   * Something my friends know
     * I like cheese
-    * I went swiming last weekend
+    * I went swimming last weekend
   * Something me or my family know
     * I had a nightmare about monkeys
-* Year 1/2/3 told about stranger danger
-* Year 4/5/6 told about online ettiquet
+* Year 1/2/3 told about stranger danger (not the darker side of communicating online)
+* Year 4/5/6 told about online etiquette/dangers
 
 Possible primary activity:
 * Teach loads up a chat window on the projector
 * As a class they have a text based conversation with a 'child in other school'
   * Has an avatar of something popular with the kids
-  * Posts silly funnys gifs
+  * Posts silly funny gifs
   * Names characters from a TV show and which ones they like
 * At the end of the conversation a teacher/support-assistant from another room enters and reveals they were pretending to be a child from another school all along.
 * Discuss what this means
@@ -287,20 +298,60 @@ print cards from PDF
 (Could even be a good secondary school programing activity)
 
 
+Primary to Secondary Transition
+-------------------------------
+
+The transition of primary/secondary is jarring and difficult.
+* The anonymity
+* The style of work
+* The student/teacher relationship
+It's often observed that pupil performance dips when entering secondary school.
+
+* [Ofsted: Key Stage 3: the wasted years?](https://www.gov.uk/government/publications/key-stage-3-the-wasted-years) 2015
+  * the quality of teaching and the rate of pupils’ progress and achievement were not good enough.
+  * Key Stage 3 is not a high priority for many secondary school leaders in timetabling, assessment and monitoring of pupils’ progress.
+    * As a result, some Key Stage 3 classes were split between more than one teacher or were taught by non-specialists.
+  * Leaders prioritise the pastoral over the academic needs of pupils during transition from primary school.
+  * Many secondary schools do not build sufficiently on pupils’ prior learning
+  * Careers education, information, advice and guidance (CEIAG) in Key Stage 3 is not good enough
+  * too manysecondaryschools did not work effectively with partner primary schools to understand pupils’ prior learning and ensure that they built on this during Key Stage 3.
+
+* [What Makes a SuccessfulTransition from Primary toSecondary School? - Research Report DCSF-RR019](https://dera.ioe.ac.uk/8618/1/DCSF-RR019.pdf)
+* [National Foundation for Educational Research - Transition from Primary to Secondary School: Current Arrangements and Good Practice in Wales](https://www.nfer.ac.uk/media/2243/wtn01.pdf)
+
+
+### Integrated Curriculum
+
+> An integrated curriculum allows children to pursue learning in a holistic way, without the restrictions often imposed by subject boundaries.
+
+Nebraska USA
+
+* [Integrated Curriculum in the Primary Program](https://www.education.ne.gov/wp-content/uploads/2017/07/IC.pdf)
+
+### CBIC - Competency Based Integrated Curriculum
+
+Integrated curriculum - a case study in secondary.
+
+Activity: Given the benefits in primary. Do you think this would work in secondary?
+
+
+* Sandwich Technology School in 2008/201x tried this.
+  * Over half of contact time in CBIC group
+  * Total unmitigated failure
+    * Pupil disengagement
+      * They came here exited to be taught be specialists and they were treated like baby's. It was worse than primary school.
+    * weaker teachers that couldn't teach the higher levels were given groups
+    * Class's were huge 60 person classrooms with 2 teachers
+      * Utterly impossible to concentrate
+      * So much noise
+
+
 Innovative KS3 Lessons
 ----------------------
 
-* Captin Callaghans treasure hunt
+* Captain Callaghans treasure hunt
 * Barcode project
-* River vally
-
-
-Resources
----------
-
-https://www.barefootcomputing.org/
-
-
+* River valley
 
 
 Conclusions
@@ -315,19 +366,9 @@ Conclusions
 
 # --------------------
 
-resistance to change - security in routineen - change percived as bad bad bad
-
-
-handover contact
-5 stage behaviour bed blue talk to parents
-  talk to parents - have access to computer - 3min per dat conversation
-
 maths teacher 3 times a foughtnight liase from secondary to primay
 Bridge the gap
 
 Specifically computing could be huge advantage
 Year 6 connect - time that noone has
 own free periods with ajoined primary school
-
-
-
