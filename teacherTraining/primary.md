@@ -166,46 +166,51 @@ Good chapter on assessment
 Examples of computer use in primary
 -----------------------------------
 
-Wikis
------
-wikis
-
-
-  * plastercine - stop motion
+* plastercine - stop motion
 * voiceover
-
-
-
-digital storytelling
-
 co-learniung
-esafty
-
 QRCode hunt
+
 
 Hardware
 --------
 
-Massive money making industry. Companies created and going bust regularly. Technology obsolete regularly.
+Massive money making industry.
+Companies created and going bust regularly.
+Technology obsolete regularly.
+BETT is full of this stuff
 
 * [easi-scope](https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=EASi-SCOPE&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=easi+scope)
 * [Bee-Bot](https://www.youtube.com/watch?v=52ZuenJlFyE)
 * [Vu+](https://store.data-harvest.co.uk/vu) Datalogger
 
 
-[Python turtle graphics](https://docs.python.org/3/library/turtle.html)
-[Scratch](https://scratch.mit.edu/) [pen function](https://en.scratch-wiki.info/wiki/Pen_Art_Examples) (Draw a house)
- - square
- - triangle
- - hexagon
-scratchJr ipads (story)
+Software
+--------
 
-[TinkerCAD](https://www.tinkercad.com/)
-* anchor
-[thingiverse](https://www.thingiverse.com/)
+* Turtle
+  * Instructions to
+    * square
+      * a house
+    * triangle
+    * hexagon
+  * Systems
+    * BBC Micro - Logo
+    * [Python turtle graphics](https://docs.python.org/3/library/turtle.html)
+    * [Scratch](https://scratch.mit.edu/) [pen function](https://en.scratch-wiki.info/wiki/Pen_Art_Examples) (Draw a house)
+* Digital storytelling
+  * [scratchJr](https://www.scratchjr.org/) ipads
+* CAD/CAM
+  * [TinkerCAD](https://www.tinkercad.com/)
+    * Shapes built from other shapes
+      * Project to draw an _anchor_
+  * [thingiverse](https://www.thingiverse.com/)
 
 
-*
+Other
+-----
+
+historically highlight female computing icons
 
 
 CAS Primary Guidance
@@ -216,49 +221,78 @@ CAS Primary Guidance
 * Using a pupil-centred approach
   * Modular projects for pupils to choose from
   * Use an enquiry-based approach at the beginning of each half-termly unit:
-* [OpenBadges.org](https://www.openbadges.org) Mozilla
+* Recommends [OpenBadges.org](https://www.openbadges.org) by Mozilla
+  * Concept is suitable for _formal_ and _informal_
   * [issuing](https://www.openbadges.org/get-started/issuing-badges/)
 
 
+Blogs/Wikis
+-----------
+
+All pupils are encouraged to publish something online that is publicly visible as part of a school project.
+
+Publicly visible gives something tangible for friends and family.
+
+* [WikiSpaces](https://www.teachhub.com/technology-classroom-alternatives-wikispaces)
+  * Class recipe wiki
+  * Clear rules (never surname, never identifiable details)
+* Blog
 
 
-badges
-I can
-vocab box
-problem -> how you solved it
+Assessment
+----------
 
-[WikiSpaces](https://www.teachhub.com/technology-classroom-alternatives-wikispaces)
-class recipe wiki
-rules (never surname, never identifyable details)
-blog
-publicly visible
-
-
-histoticly highlight female computing icons
+* Page of A4 with template for term
+  * badges the teacher has given
+  * I can
+    * mini description of task they did in a lesson
+  * vocab box
+  * problem -> how you solved it
 
 
-https://www.openbadges.org/
-
-esafty
+eSafty
 ------
 
-teacher in another classroom - whole class disscussion online
+Visited every year as part of the curriculum.
+
+* Year 1: Starts of with categorizing information
+  * Something most people know
+    * I go to this school
+  * Something my friends know
+    * I like cheese
+    * I went swiming last weekend
+  * Something me or my family know
+    * I had a nightmare about monkeys
+* Year 1/2/3 told about stranger danger
+* Year 4/5/6 told about online ettiquet
+
+Possible primary activity:
+* Teach loads up a chat window on the projector
+* As a class they have a text based conversation with a 'child in other school'
+  * Has an avatar of something popular with the kids
+  * Posts silly funnys gifs
+  * Names characters from a TV show and which ones they like
+* At the end of the conversation a teacher/support-assistant from another room enters and reveals they were pretending to be a child from another school all along.
+* Discuss what this means
+
 
 Unplugged
 ---------
 
-robot
+Many primary school activities talk about 'giving instructions to a person' to perform a dexterous task (such as 'Make Tea') and help pupils decompose and frame instructions. This happens in secondary schools.
 
-[CodyRoby](http://www.codeweek.it/codyroby/) [video](http://youtu.be/D5hQ9UTDQ6s)
-[Race](https://www.youtube.com/watch?v=izpB0Cvl0tk)
-utub
-pdf print
+[CodyRoby](http://www.codeweek.it/codyroby/) [video](http://youtu.be/D5hQ9UTDQ6s) [Race](https://www.youtube.com/watch?v=izpB0Cvl0tk)
+print cards from PDF
+
+(Could even be a good secondary school programing activity)
+
 
 Innovative KS3 Lessons
 ----------------------
 
-treasure hunt
-barcode project
+* Captin Callaghans treasure hunt
+* Barcode project
+* River vally
 
 
 Resources
@@ -266,7 +300,7 @@ Resources
 
 https://www.barefootcomputing.org/
 
-https://www.scratchjr.org/
+
 
 
 Conclusions
