@@ -17,25 +17,37 @@ National Curriculum
 -------------------
 
 * Historicity
+  * ICT
   * The curriculum used detailed _levels_
   * Teachers were expected to
     * assess sublevels, progression, marking, evidence
   * This was too heavy, too prescribed
+  * [the state of the nation - CAS Community 2009](https://community.computingatschool.org.uk/files/6714/original.pdf)
+    * Only 4700 students nationally enrolled on A-Level Computing
 * Now
   * It's a couple of bullet points on 1 page of A4
 
 * Statutory guidance [National curriculum in England: computing programmes of study](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study)
   * The statutory programmes of study and attainment targets for computing at key stages 1 to 4.
-  * [stem.org.uk Computing in the National Curriculum: a Guide for Primary Teachers](https://www.stem.org.uk/elibrary/resource/34863)
-  * [Computing: interview with Mark Dorling](http://youtu.be/NwXjGMpWprI)
+
+Activity: Read the requirements for KS1 and KS2 - Comments?
+
+* [Insight into the primary computing curriculum - Learn Live at BETT 2014](https://youtu.be/qtig8kwTTPQ) - Miles Berry
+  * [eSafty online satutary requirement KS1](https://youtu.be/qtig8kwTTPQ?t=1525)
+  * [Understand networks and internet](https://youtu.be/qtig8kwTTPQ?t=2144)
 
 
 Ofsted Inspections
 ------------------
 
-* To my knowlege; no school has failed an ofstead inspection because of poor Computing.
+* To my knowledge; no school has failed an Ofsted inspection because of poor Computing.
   * Until a school fails with this criteria, the focus will always be on English/Maths
 * [iCompute-and-Ofsted](https://www.icompute-uk.com/Downloads/iCompute-and-Ofsted.pdf) - Questions Ofsted will ask primary practitioners
+
+Activity: What's in an Ofsted report?
+* https://reports.ofsted.gov.uk/
+* Find a feeder primary of your placement school
+* Search for the term 'computing' or 'ict'. Can you find it mentioned in the report?
 
 
 Case Study: Average unnamed primary school
@@ -113,6 +125,11 @@ Discuss: Could facial recondition be used to speedup login? Good or bad idea and
   * "Don't shake the screen"
   * Throw mouse at screen
 
+This school was reported 'Good' by Ofsted.
+Computing does not get mentioned in the inspection report.
+
+Discussion: (This is not a fair or representational study of all primary schools). From your observations and knowledge, what do you think is the state of Computing in primary education?
+
 
 Structured time?
 ----------------
@@ -122,6 +139,26 @@ Structured time?
 In the context of primary education ...
 
 Discussion: With such rigorous goals for the whole of the education system. Is there any benefit in letting young people explore computers. They don't use keyboards and mice at home. Just let them use paint. Click on a few bits. Just have time on one.
+
+
+CAS Primary Guidance
+--------------------
+
+[CAS Primary Computing](https://www.computingatschool.org.uk/data/uploads/CASPrimaryComputing.pdf)
+
+* Using a pupil-centred approach
+  * Modular projects for pupils to choose from
+  * Use an enquiry-based approach at the beginning of each half-termly unit:
+* Recommends
+  * [OpenBadges.org](https://www.openbadges.org) by Mozilla
+    * Concept is suitable for _formal_ and _informal_
+    * [issuing](https://www.openbadges.org/get-started/issuing-badges/)
+  * Historically highlighting female computing icons
+
+### Resources
+* https://www.barefootcomputing.org/
+
+Activity: Sign yo ass's up!!
 
 
 Teacher Resource Case Studies
@@ -207,6 +244,11 @@ Software
   * Systems
     * BBC Micro - Logo
     * [Python turtle graphics](https://docs.python.org/3/library/turtle.html)
+      * ```python
+        import turtle
+        t = turtle.Pen()
+        t.forward(100)
+        ```
     * [Scratch](https://scratch.mit.edu/) [pen function](https://en.scratch-wiki.info/wiki/Pen_Art_Examples) (Draw a house)
 * Digital storytelling
   * [scratchJr](https://www.scratchjr.org/) ipads
@@ -214,27 +256,9 @@ Software
   * [TinkerCAD](https://www.tinkercad.com/)
     * Shapes built from other shapes
       * Project to draw an _anchor_
+    * (Side note; secondary activity) [openscad.net](openscad.net)
+      * union, intersection
   * [thingiverse](https://www.thingiverse.com/)
-
-
-CAS Primary Guidance
---------------------
-
-[CAS Primary Computing](https://www.computingatschool.org.uk/data/uploads/CASPrimaryComputing.pdf)
-
-* Using a pupil-centred approach
-  * Modular projects for pupils to choose from
-  * Use an enquiry-based approach at the beginning of each half-termly unit:
-* Recommends
-  * [OpenBadges.org](https://www.openbadges.org) by Mozilla
-    * Concept is suitable for _formal_ and _informal_
-    * [issuing](https://www.openbadges.org/get-started/issuing-badges/)
-  * Historically highlighting female computing icons
-
-### Resources
-* https://www.barefootcomputing.org/
-
-Activity: Sign yo ass's up!!
 
 
 Blogs/Wikis
@@ -248,6 +272,7 @@ Publicly visible gives something tangible for friends and family.
   * Class recipe wiki
   * Clear rules (never surname, never identifiable details)
 * Blog
+* [Create spoof pages](https://youtu.be/qtig8kwTTPQ?t=2435) (see eSafety below)
 
 
 Assessment
@@ -291,6 +316,7 @@ Unplugged
 ---------
 
 Many primary school activities talk about 'giving instructions to a person' to perform a dexterous task (such as 'Make Tea') and help pupils decompose and frame instructions. This happens in secondary schools.
+[Sandwich Maker 2001](https://youtu.be/qtig8kwTTPQ?t=891)
 
 [CodyRoby](http://www.codeweek.it/codyroby/) [video](http://youtu.be/D5hQ9UTDQ6s) [Race](https://www.youtube.com/watch?v=izpB0Cvl0tk)
 print cards from PDF
@@ -354,6 +380,14 @@ Innovative KS3 Lessons
 * River valley
 
 
+What now?
+---------
+
+Discuss:
+* Now we know about primary schools.
+* What is this going to change about your secondary teaching?
+
+
 Conclusions
 -----------
 
@@ -363,12 +397,4 @@ Conclusions
 * Because primary schools have more contact time with a class, they can craft more cross curricular and integrated project based work
   * Secondary teaching feels anonymous and fragmented in comparison
 
-
-# --------------------
-
-maths teacher 3 times a foughtnight liase from secondary to primay
-Bridge the gap
-
-Specifically computing could be huge advantage
-Year 6 connect - time that noone has
-own free periods with ajoined primary school
+CPD: Set a target of having one day in primary in the summer term each year. Talk the the primary teachers. Network. Understand.
