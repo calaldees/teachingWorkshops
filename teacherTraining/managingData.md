@@ -39,15 +39,15 @@ Use of School Data
 Ofsted Reports & Performance Data
 ---------------------------------
 
-Lessons observations have been proven to be an opinionation unreliable way to inspect schools.
-Ofstead now focuses of looking at the schools data and evidence of _real learning_
+Lessons observations have been proven to be an opinionated unreliable way to inspect schools.
+Ofsted now focuses of looking at the schools data and evidence of _real learning_
 
 RAISEonline data cometary - [National College for School Leadership - Understanding and using data](https://www.nationalcollege.org.uk/sites/default/files/sites/default/files/level3udeip-resunderstandingdata.pdf) pg42+ for KS3->KS4
 RAISEonline replaced by _Analyse School Performance_ in September 2017
 
 [Using Ofsted’s inspection data summary report](https://www.gov.uk/government/collections/using-ofsteds-inspection-dashboard) - Summary pg?
 
-[Ofstead - Inspections and performance of education providers](https://www.gov.uk/education/inspections-and-performance-of-education-providers)
+[Ofsted - Inspections and performance of education providers](https://www.gov.uk/education/inspections-and-performance-of-education-providers)
 
 * Activity: Find the Ofsted report for your school
 * Activity: Compare your school with other local school
@@ -56,11 +56,16 @@ RAISEonline replaced by _Analyse School Performance_ in September 2017
 * Schools can have a negative Progress8 and still be classed as _good_
 
 
-Schools Lie/Manipulate their data
----------------------------------
+Organisations
+-------------
 
-Management of a school can twist results. In some cases asking teachers to report different levels to parents.
-Story: Dale - Raise their grade
+* [Centre for Education and Monitoring](https://www.cem.org/)
+    * > CEM is one of the largest and longest established providers of formative assessments for children of all ages, from early years to post 16. CEM’s methods are research-based, evidence driven and market-tested, built on a foundation of non-commercial academic practice.
+    * [video](https://www.cem.org/about-us)
+    * [YELLIS](https://www.cem.org/yellis)
+        * > Yellis gives us a benchmark as to see how our students compare with others of the same age nationally.
+* [Fisher Family Trust](https://fft.org.uk/fft/target-setting/)
+    * > FFT is a non-profit organisation established in 2001 as part of the Fischer Family Trust. We are focussed on providing accurate and insightful information to schools which enables pupils to achieve their full potential and schools to improve.
 
 
 Special Purpose Software
@@ -68,9 +73,70 @@ Special Purpose Software
 
 Some schools employ 3rd party software to help with data management.
 
-[Alps](https://alps.education/how-alps-works/)
+* [Alps](https://alps.education/how-alps-works/)
 
 Personal Experience: Most of these systems are flawed at the data capture level. Teacher time and data capture methods are always of secondary importance compared to the graphs that senior leaders can get. Sadly the data is only use ONCE it's captured.
+
+
+Is data effective?
+------------------
+
+> Data can be tortured sufficiently will to confess to anything
+
+Story: Gender gap - school focus (David Daidu)
+
+[Teacher Effects on Student Achievement and Height: A Cautionary Tale](https://www.nber.org/papers/w26480)
+
+> many states and school districts have adopted value-added measures as indicators of teacher job performance. In this paper, we conduct a new test of the validity of value-added models.
+
+Leadership of a school can twist results. In some cases asking teachers to report different levels to parents.
+Story: Dale - Raise their grade
+
+
+Your schools
+------------
+
+Task: Ask students to come prepared to talk about the system in use in their school, then they can question each other and compare different methods (encourage critical engagement).
+
+
+Flightpath
+----------
+
+You don't get a say in a students predicted grade. That is set in stone at KS2.
+
+* [AndAllThat.co.uk](https://AndAllThat.co.uk/) - [Alex Ford](@apf102) - History Teacher
+    * [Flightpaths](http://www.andallthat.co.uk/blog/creating-flight-paths-to-replace-levels-year-7-11-the-impact-of-the-new-gcse-grade-descriptors)
+    * [Setting us free - ppt](https://onedrive.live.com/embed?cid=DAA916CB8AB52178&resid=DAA916CB8AB52178%2149526&authkey=AKMNJnkRHgYi9C0&em=2)
+
+* A ‘flightpath’ is basically an indication of whether a particular pupil is on schedule to achieve a particular grade.
+* In order to monitor progress the student would typically take regular tests (or complete agreed tasks) which are assessed against agreed criteria.
+* Towards the end of a GCSE course these would be GCSE past papers, marked against board mark schemes.
+* The outcome of these tests would be a mark.
+* This could then be plotted on a graph
+    * typically mark on the Y axis and term on the X axis.
+    * A trend line can then be followed to the end of the programme and a predicted grade established.
+* Ideally the pupil’s marks should follow the trend line through the following terms and the pupil achieves their potential, but we all know that progress is never smooth.
+* Some schools have a flight path graph in the front of pupil folders with the pupil plotting their own marks on it.
+    * Looks impressive, but I’m not convinced it actually means anything at all!
+
+
+Is the data helping?
+--------------------
+
+* There is a feeling in some schools that all of this monitoring is more about holding teachers to account (and informing performance management decisions) than it is about promoting pupil progress.
+* Students may want to use some of this data in their pupil progress bundles, even if they decide not to it is important that they understand their school system and make the most of what it offers.
+
+They could also compare their school systems with the WRG recommendations at:
+
+[Commission on Assessment Without Levels: final report](https://www.gov.uk/government/publications/commission-on-assessment-without-levels-final-report) September 2015
+
+> there is no intrinsic value in recording formative assessment; what matters is that it is acted on
+
+
+Workload Reform
+---------------
+
+[Eliminating unnecessary workload associated with data management - Report of the Independent Teacher Workload Review Group](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/511258/Eliminating-unnecessary-workload-associated-with-data-management.pdf) March 2016
 
 
 General Purpose Software - Publishing Class Tracking/Progress
@@ -79,6 +145,7 @@ General Purpose Software - Publishing Class Tracking/Progress
 Perception
 * Data in your head cannot be quantified or shared
 * Data formally on a computer carries more weight than hand written notes
+    * (A-Level student complaint parent/teacher meeting)
 * Transparency is vital (It's only useful/real if people can see it)
 
 ### Google Docs Public/Private View
@@ -108,3 +175,5 @@ Todo
 ----
 
 https://analytics.ofqual.gov.uk/
+
+

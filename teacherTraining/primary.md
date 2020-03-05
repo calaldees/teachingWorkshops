@@ -379,6 +379,8 @@ Innovative KS3 Lessons
 * Barcode project
 * River valley
 
+* Paper plane boomerang
+  * reverse engineering
 
 What now?
 ---------

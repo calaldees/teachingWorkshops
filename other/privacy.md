@@ -19,3 +19,7 @@ https://www.seattletimes.com/business/technology/special-sunglasses-license-plat
 
 Encyription?
 https://latacora.micro.blog/2020/02/19/stop-using-encrypted.html
+
+
+-- cencorship
+https://www.bbc.co.uk/news/world-asia-china-51732042
