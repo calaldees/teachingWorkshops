@@ -1,4 +1,5 @@
 [location-tracking-cell-phone](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html)
+https://www.nbcnews.com/news/us-news/google-tracked-his-bike-ride-past-burglarized-home-made-him-n1151761
 
 https://www.theglobeandmail.com/drive/technology/article-what-kind-of-data-is-my-new-car-collecting-about-me-nearly-everything/
 
@@ -23,3 +24,6 @@ https://latacora.micro.blog/2020/02/19/stop-using-encrypted.html
 
 -- cencorship
 https://www.bbc.co.uk/news/world-asia-china-51732042
+
+
+https://www.the-tls.co.uk/articles/the-opt-out-illusion/

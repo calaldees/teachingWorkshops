@@ -6,6 +6,8 @@ Objective:
 * Consider how whole schools and departments use data
 * Understand a range of practical tools for tracking class progress
 
+* Data is part of your job
+    * Should not encompass your whole job
 
 Use of School Data
 ------------------
@@ -162,18 +164,35 @@ Perception
     * Signup (free) will allow you to manually name your short links
 7. Distribute link to students and parents
 
-[IMPORTRANGE](https://support.google.com/docs/answer/3093340?hl=en) interlink sheets.
-[FLOOKUP](https://news.ycombinator.com/item?id=22083533) - possible useful addon
+* [IMPORTRANGE](https://support.google.com/docs/answer/3093340?hl=en) interlink sheets.
+* [SPARKLINE](todo)
+* [FLOOKUP](https://news.ycombinator.com/item?id=22083533) - possible useful addon
 
 Activity: [Teacher Workbook Example](https://docs.google.com/spreadsheets/d/1LRn7KCvpGXhnYlRnEZeU19xQ4Zo39xjn5KBjWH-_x0E/edit?usp=sharing)
 
 Can't currently be done with [Excel Online](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_excel-mso_other-mso_o365b/office-365-excel-workbook-share-only-one-worksheet/16fdf6b5-4876-4e0f-9b07-629a3c2ef00e?auth=1)
 
-
+Google Sheet: Grade Book Template (compare aginst average of class)
 
 Todo
 ----
 
 https://analytics.ofqual.gov.uk/
 
+Data teacher meme
 
+Hard data is what - Quantative
+Soft data is why - Qualative
+SIMS
+Pupil Premium - stigma - wider
+Behaviour logs - incomplete?
+Flightpaths damaging - pregedise? moral?
+Exit cards - from lesson - still kids (do they know shit?)
+Data
+* something you have to do
+* something you use for action
+Google forms
+
+Seating plan - by ability - data?
+hard infomation to high achivers - simpler imformation to weaker students
+SIMS behaviour alerts
