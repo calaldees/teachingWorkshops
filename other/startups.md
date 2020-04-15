@@ -1,0 +1,1 @@
+http://paulgraham.com/startupmistakes.html

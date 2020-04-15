@@ -9,7 +9,7 @@ alt + up/down (move line)
 ctrl + l (select line)
 
 MultiCursor Editing
-alt + click
+alt + click (add cursor)
 ctrl + alt + up/down
 ctrl + shift + L   or  crtl + f2 (multicursor rename)
 esc (back to single)

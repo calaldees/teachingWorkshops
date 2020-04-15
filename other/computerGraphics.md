@@ -95,3 +95,5 @@ Further Reading
 * [VoxelSpace](https://github.com/s-macke/VoxelSpace)
 * [CGA 1024 Colors](https://int10h.org/blog/2015/04/cga-in-1024-colors-new-mode-illustrated/)
 * [haiku_icons](http://blog.leahhanson.us/post/recursecenter2016/haiku_icons.html)
+* [History of Computer graphics](https://www.youtube.com/watch?v=QyjyWUrHsFc)
+* [How Prince of Persia Defeated Apple II's Memory Limitations | War Stories | Ars Technica](https://www.youtube.com/watch?v=sw0VfmXKq54)

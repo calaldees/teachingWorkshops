@@ -4,6 +4,8 @@ Differnt rights holders in differnt countries
 youtube? what country?
 
 Youtube Auto-strike
+[Law video discussing track similaritys - autostriked](https://www.law.nyu.edu/centers/engelberg/news/2020-03-04-youtube-takedown)
+
 
 iTunes Bruce Willis pass on library
 

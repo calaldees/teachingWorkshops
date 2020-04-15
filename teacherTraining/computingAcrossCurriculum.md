@@ -12,20 +12,32 @@ Objectives
 Ofsted and Computing
 ---------------------
 
-* [Ofsted inspection](https://onefourseven.org.uk/blog/ofsted-on-computing/)
+[Education inspection framework](https://www.gov.uk/government/collections/education-inspection-framework?#guidance-for-education-providers)
+
+[David Drown HMI](https://www.slideshare.net/Ofstednews/inspection-computing-and-e-safety-in-schools)
+
+* Teaching in computing is good or better when:
+    * it is rooted in the development of pupils’ understanding of important concepts and progression within the lesson and over time; it enables pupils to make connections between individual topics and to see the ‘big picture’
+    * teachers use a very wide range of innovative and imaginative resources and teaching strategies to stimulate pupils’ active participation in their learning and secure good or better progress across all aspects of the subject.
+* The computing curriculum is good or better when:
+    * the contexts in which computing is taught are relevant to pupils’ lives and reflect the increasing use of computing in the world of industry
+    * excellent links are forged with other agencies and the wider community to provide a wide range of enrichment activities to promote pupils’ learning and engagement with the subject
+    * links with other subjects in the school are productive in strengthening pupils’ learning in computing
+* Leadership of computing is good or better when
+    * there are effective strategies to delegate subject responsibilities where appropriate and to share good practice
+    * computing has a very high profile in the life of the school
+* Finally ...
+    * E-safety is now considered in the inspection of all education remits including the early years sector, further education and skills, and initial teacher education.
+
+
+* [Ofsted Computing Inspection Criteria](https://onefourseven.org.uk/blog/ofsted-on-computing-update/)
 * [Ofsted Assessing Computing](https://www.softegg.co.uk/blog/ofsted-inspecting-the-computing-curriculum)
-* [Ofsted inspections: myths](https://www.gov.uk/government/publications/school-inspection-handbook-from-september-2015/ofsted-inspections-mythbusting)
 * [Computing Across the Curriculum](https://www.youtube.com/watch?v=-JBgaR8sNcE) - [Myles Berry](http://milesberry.net/about-3) - CAS TV - June 2016
 * [Computing in the curriculum: Challenges and strategies from a teacher's perspective](https://link.springer.com/article/10.1007/s10639-016-9482-0) - Sue Sentance - April 2016 - King’s College London UK
 
 > A high-quality computing eduction equips pupils to use computational thinking and creativity to understand and change the world
 
 > Computing has deeps links with mathematics, science and design and technology, and provides insight into both natural and artificial systems.
-
-* Ofsted say - Computing curriculum is good or better when
-    * Context relevant to pupils lives and reflect increasing use of computing in the world of industry.
-    * Links with wider community to provide enrichment activities
-    * Links with other subjects in school are productive in strengthening pupils leaning in computing
 
 
 Responsibility's of Computing Teachers
@@ -42,7 +54,7 @@ Responsibility's of Computing Teachers
     * our schools with ICT and digital literacy
         * Very few other teachers will have a background in Computing
         * Other subjects/staff will need support from you to train them in some aspects of computers (ICT and Computing) for their class's
-        * We should be consider this _support_ part of our role in schools
+        * We should consider this _support_ part of our role in schools
     * our subject with strong cross curricular
         * Literacy
             * [Ofsted Improving literacy in secondary schools: a shared responsibility](https://www.gov.uk/government/publications/improving-literacy-in-secondary-schools-a-shared-responsibility)
@@ -62,7 +74,7 @@ Existing Resources
 ------------------
 
 * [Barefoot](https://www.barefootcomputing.org/)
-    * Simple, accessible resources to help you deliver the primary computing curriculum brilliantly.
+    * Simple, accessible resources to help you deliver the primary computing curriculum brilliantly
 * [101computing](https://www.101computing.net/)
     * Python, Scratch, Javascript projects and live web demonstrations
 * [BBC Bitesize](https://www.bbc.com/bitesize/subjects/z34k7ty)
@@ -71,10 +83,10 @@ Existing Resources
 Computing Terminology
 ---------------------
 
-These terms could be applied to all subjects
+These terms could be applied to _all_ subjects
 
 * Logic
-    * predicting analysing
+    * predicting analyzing
 * Algorithms
     * making steps & rules
 * Decomposition
@@ -119,6 +131,8 @@ Computing in other subject curriculum's
 ---------------------------------------
 
 * [Primary English Example](https://www.somerset.org.uk/sites/edtech/Primary%20Computing/Computing%20across%20curriculum/English%20and%20computing.pdf)
+    * > Decomposition is used to analyse sentence construction including the recognition of a clause, conjunctions, adverbs and prepositions.
+        * See `grammar.py` example below
 
 
 Lesson Topic Ideas
@@ -137,15 +151,21 @@ Activities to:
 * History
     * [Canterbury High Street](http://www.hillside.co.uk/tour/tour.html) - Homemade Canterbury High Street Streetview from 1990
     * [Colorized historical photos](https://www.google.com/search?client=firefox-b-d&q=colorise+histoical+photos)
+        * [How to Colorize a Black and White Photo in Photoshop](https://youtu.be/C2Srw245R7U)
+        * [GIMP Tutorial: Restore Color to Black and White Photo](https://youtu.be/YFDdS9iRfPE)
         * [github.com/junyanz/interactive-deep-colorization](https://github.com/junyanz/interactive-deep-colorization)
             * Used to be the work of skilled image editing professionals
             * Now AI tools allow anyone to do this
     * History of Computing Timeline
         * TODO:
-        * [BBC - Computer Literacy Project 1980-1989](https://computer-literacy-project.pilots.bbcconnectedstudio.co.uk/)
+        * [BBC - Computer Literacy Project 1980-1989](https://clp.bbcrewind.co.uk/)
             * [explore](https://computer-literacy-project.pilots.bbcconnectedstudio.co.uk/explore)
+            * Languages
+                * [20 most significant programming languages in history](https://anarc.at/blog/2020-02-02-most-significant-programming-languages-history/)
+                * [10 Most(ly dead) Influential Programming Languages](https://hillelwayne.com/post/influential-dead-languages/)
 * Physics
     * Simulation
+        * https://landgreen.github.io/physics/index.html
         * Engines
             * [Matter.js](http://brm.io/matter-js/)
     * [River Editor: Water Simulation in Real-Time](https://80.lv/articles/river-editor-water-simulation-in-real-time/)
@@ -165,11 +185,16 @@ Activities to:
     * Conways game of life?
     * [Bacteria Simulation](https://www.youtube.com/watch?v=5UMZVmLt0Bw)
     * [BioInfomatics](http://rosalind.info/)
-        * + See my DNA-regex activity
+        + See my DNA-regex activity
+    * Genetic algorithums
+        * [genetic_cars_2](https://rednuht.org/genetic_cars_2/)
+        * [Creatures racing](https://www.youtube.com/watch?v=31dsH2Fs1IQ)
 * Chemistry
     * ?
 * Business Studies
     * [investopedia.com](https://www.investopedia.com/simulator/) - Simulated investments
+    * [MarketWatch: Educational Resources](https://www.marketwatch.com/game)
+    * [LondonStockExchange Simulator](https://www.londonstockexchange.com/global/portfolio/portfolio-and-trading-simulator.htm)
 * Economics
     * [rolesia.com](https://www.rolesia.com/) - Country Economics Simulator
 * Art
@@ -183,10 +208,23 @@ Activities to:
         * [recursive-tree-challenge](https://www.101computing.net/recursive-tree-challenge/)
         * [London Community](https://www.meetup.com/Algorithmic-Art/)
     * [Demoscene](https://en.wikipedia.org/wiki/Demoscene)
+            * [Breakthrough of Digital Culture: Finland accepts the Demoscene on its national UNESCO list of intangible cultural heritage of humanity](http://demoscene-the-art-of-coding.net/2020/04/15/breakthrough-finland-accepts-demoscene-on-their-national-list-of-intangible-cultural-heritage-of-humanity/)
             * [flashtro-morton-strikes-back](http://flashtro.com/flashtro-morton-strikes-back/)
+            * [elevated by Rgba & TBC | 4k intro](https://www.youtube.com/watch?v=jB0vBmiTr6o)
+                * [Perlin noise](https://en.wikipedia.org/wiki/Perlin_noise)
+            * ["Memories" - 256 byte MSDOS intro](https://youtu.be/Imquk_3oFf4)
+                * Smaller then a single tweet (each character/letter is a byte)
     * [Pixel Art](http://www.dinofarmgames.com/a-pixel-artist-renounces-pixel-art/)
+        * [#pixelart](https://twitter.com/search?q=%23pixelart)
+    * [Turn Photos Into Logos with GIMP](https://youtu.be/Yce2ZvGeanY)
 * Languages
     * English Grammar
+        * [grammar.py](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/data/grammar.py)
+    * Phonetic Name Generator
+        * [Generating Names Phonetically](https://www.flipcode.com/archives/Generating_Names_Phonetically.shtml)
+    * [Botnik](https://botnik.org/)
+        * https://botnik.org/content/harry-potter.html
+    * [1,000 hours of Trump rallies](https://twitter.com/keatonpatti/status/1039889888961880064?lang=en)
 * Sociology
     * Surveys
         * Student data collection and analysis
@@ -196,7 +234,8 @@ Activities to:
     * [Valve Jobs](https://www.valvesoftware.com/el/?job_cat=data-science)
     * Facebook
     * Google - AB Testing - Color of buttons
-    * flash card app - make html5-offline app to display a fact and redisplay it at decending intevals 1 hour, 1 day, 3 days, 1 week
+    * flash card app - make html5-offline app to display a fact and redisplay it at descending intervals 1 hour, 1 day, 3 days, 1 week
+    * [SuperMemo](https://www.supermemo.com/en) - Spaced repetition
 * RE
     * Turing test - rise of AI - what rights do they need?
 * DT
@@ -208,6 +247,8 @@ Activities to:
 * Music
     * MIDI - Theory
         * Arpegiation - color? image? - taktile
+    * tune in code
+    * 440hz
     * [Ableton LearningMusicInteractive](https://learningmusic.ableton.com/)
     * [Sonic Pi](https://sonic-pi.net/)
         * Example lessons and teacher resources
@@ -217,6 +258,7 @@ Activities to:
         * Complete MIDI synth in a browser from scratch
 * MFL
     * [Language Letter Frequency](https://en.wikipedia.org/wiki/Letter_frequency) detector
+        * [langauge_frequeny.py](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/data/langauge_frequeny.py)
     * Use application/operating-systems in different languages
 * Textiles
     * Embroidery (cad/cam)
@@ -233,6 +275,7 @@ Discipline's
 Not directly related to an established school subject.
 
 * [Data Visualisation](https://en.wikipedia.org/wiki/Data_visualization)
+    * [Information Is Beautiful](https://informationisbeautiful.net/)
     * [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
     * [xkcd Visualisations](http://www.vislives.com/2011/10/xkcd-visualizations.html)
     * [Bruises — The Data We Don’t See](https://medium.com/@giorgialupi/bruises-the-data-we-dont-see-1fdec00d0036)
@@ -268,12 +311,14 @@ Further Concepts
         * [digg - thispersondoesnotexist-real](http://digg.com/2019/thispersondoesnotexist-real)
         * Imagine this creating content for games
         * If AI can do this what else can it do?
+        * [thiswaifudoesnotexist.net](https://www.thiswaifudoesnotexist.net/) - Generated anime characters with plot
     * AI Enhancement
         * [Colorizing and Restoring Old Images with Deep Learning](https://blog.floydhub.com/colorizing-and-restoring-old-images-with-deep-learning/)
         * [Fans use Machine Learning to HD Remaster Final Fantasy VII](https://www.youtube.com/watch?v=BJEzSnDlaAY)
             * [Final Fantasy 7 Background Upscale](https://www.vg247.com/2019/01/09/final-fantasy-7-hd-remaster-remake-upscale/)
         * [iSize](https://www.isize.co/)
         * Deepfakes
+            * [Everybody can make deepfakes now](https://www.youtube.com/watch?v=mUfJOQKdtAk)
             * [It’s Getting Harder to Spot a Deep Fake Video](https://www.youtube.com/watch?v=gLoI9hAX9dw)
             * [Deepfakes - Real Consequences](https://www.youtube.com/watch?v=dMF2i3A9Lzw)
             * [Not Jordan Peterson](https://www.reddit.com/r/MachineLearning/comments/cqqzov/p_not_jordan_peterson_speech_synthesis_using/)
@@ -293,6 +338,16 @@ TODO: list interesting api's and freely available datasets
 
 https://blog.google/products/search/discovering-millions-datasets-web/
 
+https://digital.nmla.metoffice.gov.uk/
+Documents
+
+
+https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Rainfall/date/England_SE_and_Central_S.txt
+
+https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/courts-sentencing-and-tribunals/prosecutions-and-convictions/latest
+
+https://data.cambridgeshireinsight.org.uk/dataset/mill-road-project-traffic-sensor-data/resource/67873c4e-2d50-4d31-b2a0-68f1df7f081e
+
 
 Programming Projects
 --------------------
@@ -302,6 +357,7 @@ Programming Projects
     * cypher
     * earth flooding elevation
     * language frequency analysis
+    * english grammar
 
 ### Turtle Graphics
 
@@ -345,9 +401,13 @@ draw_tree_recursive()
 
 ### DNA
 
-Human DNA 6 Billion pairs
+Human DNA 3 Billion pairs
 1 byte = 4 pairs (A-G,C-T) (2 bits per item. 4 items in 1 byte)
-6 * pow(10,12) / 4 / pow(2, 14) = 1 Terrabyte?
+
+* https://medium.com/precision-medicine/how-big-is-the-human-genome-e90caa3409b0
+    * 700MB (perfect world)
+    * 200GB (off the sequencer)
+    * 125MB (variant of a reference genome)
 
 [regex101.com](https://regex101.com/)
 ```python
@@ -368,10 +428,14 @@ re.search(r'AC[AG].GT[AT]{5,6}AAA', dna)
     * [Example](https://pmav.eu/stuff/javascript-game-of-life-v3.1.1/)
     * [Example 2](https://www.samcodes.co.uk/project/game-of-life/)
 
+* [python txt+pygame + conway wiki RLE](https://github.com/calaldees/TeachProgramming/tree/master/teachprogramming/static/projects/data/other/)
+
 
 ### Graphs (& Data sets)
 
 * Data sets
+    * [Google Dataset Search](https://datasetsearch.research.google.com/)
+    * [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
     * [data.gov.uk](https://data.gov.uk/)
     * [National Office of Statistics](https://www.ons.gov.uk/)
     * Met Office (UK)
@@ -381,9 +445,13 @@ re.search(r'AC[AG].GT[AT]{5,6}AAA', dna)
         * [datapoint api](https://www.metoffice.gov.uk/datapoint)
     * [National Centers for Environmental Information (US)](https://www.ncei.noaa.gov/)
         * [global hourly](https://www.ncei.noaa.gov/data/global-hourly/)
+    * Maps
+        * [OpenStreetMap](https://www.openstreetmap.org) Javascript Editor - [ID](https://wiki.openstreetmap.org/wiki/ID)
+            * [GeoJSON Tools](https://geoman.io/)
+    * Live Realtime [Lightening Maps](https://www.lightningmaps.org/)
 
-[GeoJSON Tools](https://geoman.io/)
 
+#### Reading data from CSV
 
 ```python
 import csv
@@ -393,6 +461,7 @@ with open('./01001099999.csv', encoding='utf-8') as csvfile:
         print(row)
 ```
 
+#### Plotly
 
 [Plotly](https://plot.ly/) [Simple Scatter Example](https://plot.ly/python/line-and-scatter/#simple-scatter-plot)
 ```python
@@ -418,6 +487,15 @@ data = [trace]
 import plotly
 plotly.offline.plot(data, filename='basic-line')
 ```
+
+
+#### Observable
+
+browser/js live data manipulation and visualization
+
+* [observablehq](https://observablehq.com/)
+    * [The Joy of Coding: Observable](https://www.software-artist.com/joy-of-coding-observable/)
+
 
 ### Midi in Chrome
 
@@ -460,15 +538,6 @@ Computing Education in the Media
 Data Examples
 -------------
 
-* Realtime [Lightening Maps](https://www.lightningmaps.org/)
-* [OpenStreetMap](https://www.openstreetmap.org) Javascript Editor - [ID](https://wiki.openstreetmap.org/wiki/ID)
-
-[observablehq](https://observablehq.com/) js live data manipulation and visulisation
-
-playing with data - https://www.software-artist.com/joy-of-coding-observable/
-
-https://datasetsearch.research.google.com/
-https://github.com/awesomedata/awesome-public-datasets
 
 Unsorted notes
 --------------
@@ -490,7 +559,7 @@ science classification - binary tree
 
 
 
-Music demos - [elevated by Rgba & TBC | 4k intro](https://www.youtube.com/watch?v=jB0vBmiTr6o) - [Perlin noise](https://en.wikipedia.org/wiki/Perlin_noise)
+
 
 Rasbery Pie weather station - tweet the weather
 Graph drawing - pandas python - met office weaterh data
@@ -513,13 +582,8 @@ overtones in matlab
 rumor in scools - class of 30? possible activity?
 
 
-genetic algorithums - evolution - parable of the polygons - racial hatred
-https://rednuht.org/genetic_cars_2/
-Creatures
-https://www.youtube.com/watch?v=31dsH2Fs1IQ
 
-MarIO
-https://www.youtube.com/watch?v=qv6UVOQ0F44
+[MarIO](https://www.youtube.com/watch?v=qv6UVOQ0F44)
 
 disenter - comments - even when comments not available
 
@@ -532,7 +596,6 @@ kineckt - 3d vr points? - tween? particals?
 asking the right questions of the data
 risk?
 
-https://www.thiswaifudoesnotexist.net/
 
 Bop it smash https://www.amazon.co.uk/Hasbro-Game-Intense-Electronic-Friends/dp/B00871UICY/
 
@@ -551,8 +614,8 @@ Smart Rockets - http://www.blprnt.com/smartrockets/
 
 Bookmark-let to login
 
-https://informationisbeautiful.net/
-https://twitter.com/keatonpatti/status/1039889888961880064?lang=en
+
+
 
 Powers of 10 - 1977
 https://www.youtube.com/watch?v=0fKBhvDjuy0

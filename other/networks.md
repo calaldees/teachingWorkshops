@@ -18,9 +18,11 @@ Tools
 nmap
 dig
 traceroute
-https://github.com/imsnif/bandwhich
+[bandwhich - Terminal bandwidth utilization tool](https://github.com/imsnif/bandwhich)
 
 
 
 
 [Human speech may have a universal transmission rate: 39 bits per second](https://www.sciencemag.org/news/2019/09/human-speech-may-have-universal-transmission-rate-39-bits-second)
+
+

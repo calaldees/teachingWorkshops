@@ -37,7 +37,10 @@ There are plugins for Markdown to render
 * Mathematical symbols
 * UML
 * Musical notation (abc)
-
+* MindMaps (to svg and live web)
+    * https://markmap.js.org/
+* Video ??
+    * [VideoPuppet](https://www.videopuppet.com/docs/script/)
 
 Technologies
 ------------
@@ -49,3 +52,8 @@ Below are some examples of possible tech
 * [RMarkdown](https://rmarkdown.rstudio.com/) - [Introduction Video](https://player.vimeo.com/video/178485416) 1min
 * [Basic Github Syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)*
 * [stackedit.io](https://stackedit.io/) - Online editor to sync with GoogleDrive and GitHub
+
+
+* [qownnotes](https://www.qownnotes.org/) Plain-text file markdown note taking with Nextcloud integration
+[Ask HN: What do you use to keep track of bookmarks/notes/snippets?](https://news.ycombinator.com/item?id=22778123)
+(other alternative? https://histre.com/)
