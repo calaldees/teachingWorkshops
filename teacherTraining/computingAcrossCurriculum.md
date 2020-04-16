@@ -69,6 +69,13 @@ Responsibility's of Computing Teachers
         * Mathematics
             * [Programmers-Introduction-Mathematics](https://www.amazon.co.uk/Programmers-Introduction-Mathematics-Dr-Jeremy/dp/1727125452/)
 
+* Your role
+    * You *ARE* the evangelist/ambassador for Computing in your school. For staff and students alike
+    * Your enthusiasm and knowledge should permeate the air and infect the people around you
+    * You need to convey how Computing changes us and our world
+
+The rest of this session will prompt you into thinking about computing in a wider context with examples. Prepare for a datablast!
+
 
 Existing Resources
 ------------------
@@ -138,9 +145,9 @@ Computing in other subject curriculum's
 Lesson Topic Ideas
 ------------------
 
-Activities to:
 * Examples of Computing in society
-* Give some simple _hands on_ to students
+* Give _hands on_ to students where possible
+* Look at the specs for other subjects - suggest an activity
 
 * Geography
     * [GeoTraceroute](https://geotraceroute.com/) on map
@@ -148,6 +155,7 @@ Activities to:
     * [World Elevation Data](http://www.shadedrelief.com/natural3/pages/extra.html)
     * [earthengine](https://earthengine.google.com/timelapse/) - historical satellite views (climate change?)
     * [submarinecablemap](https://www.submarinecablemap.com/)
+    * Create a webpage with a world map and use absolute positioning to embed videos from [skylinewebcams](https://www.skylinewebcams.com)
 * History
     * [Canterbury High Street](http://www.hillside.co.uk/tour/tour.html) - Homemade Canterbury High Street Streetview from 1990
     * [Colorized historical photos](https://www.google.com/search?client=firefox-b-d&q=colorise+histoical+photos)
@@ -232,10 +240,10 @@ Activities to:
 * Psychology
     * [Human Computer Interaction Psychology](https://www.amazon.co.uk/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=Handbook+of+Human-computer+Interaction)
     * [Valve Jobs](https://www.valvesoftware.com/el/?job_cat=data-science)
-    * Facebook
-    * Google - AB Testing - Color of buttons
+    * [The Secret Psychology of Facebook: Why We Like, Share, Comment and Keep Coming Back](https://buffer.com/resources/psychology-of-facebook)
+    * [The Button Color A/B Test: Red Beats Green](https://blog.hubspot.com/blog/tabid/6307/bid/20566/the-button-color-a-b-test-red-beats-green.aspx)
     * flash card app - make html5-offline app to display a fact and redisplay it at descending intervals 1 hour, 1 day, 3 days, 1 week
-    * [SuperMemo](https://www.supermemo.com/en) - Spaced repetition
+        * [SuperMemo](https://www.supermemo.com/en) - Spaced repetition
 * RE
     * Turing test - rise of AI - what rights do they need?
 * DT
@@ -243,12 +251,22 @@ Activities to:
         * eaxamples?
     * 3d modeling -> 3d printing
     * Create [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics#Example) with code? Badge/Ticket example?
-        * Mail merge - but with SVG's
+        * Edit and SVG as a text file - Like mail-merge, but with SVG's + regex)
+            1. Load [Inkscape](https://inkscape.org/)
+            2. Draw a square and some text (with different colours)
+            3. Save as SVG
+            4. Load up SVG in a text editor
+            5. Edit the SVG text + colours
+            6. Explore doing this replacement in code (badges with custom names + popout tokens)
+            7. Print SVG in laser-cutter/embroidery machine
+    * Build input/output devices
+        * [Custom Arcade controls + spinner](https://photos.app.goo.gl/mVCFGQTsrsSrVztz9) = keyboard + mouse
+        * [Adafruit Circuit Playground](https://www.adafruit.com/product/3000) - mouse/keyboard input
 * Music
     * MIDI - Theory
         * Arpegiation - color? image? - taktile
     * tune in code
-    * 440hz
+        * 440hz
     * [Ableton LearningMusicInteractive](https://learningmusic.ableton.com/)
     * [Sonic Pi](https://sonic-pi.net/)
         * Example lessons and teacher resources
@@ -256,17 +274,66 @@ Activities to:
     * [4k Synth Core](https://in4k.github.io/wiki/aulds-4k-synth#coding-your-own-sound-components)
     * [playing-with-midi-in-javascript](https://medium.com/swinginc/playing-with-midi-in-javascript-b6999f2913c3)
         * Complete MIDI synth in a browser from scratch
+    * Midi input
+        * [Korg nanokontrol2](https://www.korg.com/uk/products/computergear/nanokontrol2/)
+        * ```python
+            #pip3 install mido python-rtmidi
+            import mido
+            with mido.open_input() as inport:
+                for msg in inport:
+                    print(msg)
+            ```
+        * [webMidiLog](https://github.com/superLimitBreak/webMidiTools/blob/master/webMidiLog.html) (see more code below)
 * MFL
     * [Language Letter Frequency](https://en.wikipedia.org/wiki/Letter_frequency) detector
         * [langauge_frequeny.py](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/data/langauge_frequeny.py)
     * Use application/operating-systems in different languages
 * Textiles
-    * Embroidery (cad/cam)
+    * Embroidery (cad/cam printers)
+        * [A Beginner's Guide to SVGs and machine embroidery applique cutters](https://youtu.be/LBbx-MSjdjU)
+        * [Brother Innovis F440 Embroidery Machine](https://www.amazon.co.uk/Brother-Innovis-F440-Embroidery-Machine-White/dp/B01LX9PS2K/)
+            * [Example embroidery printer](https://youtu.be/JmPhVKymMEA?t=79)
     * Printing Services
         * [RebBubble](https://www.redbubble.com/)
         * [bagsoflove.co.uk](https://www.bagsoflove.co.uk/)
+* Drama (stage tech)
+    * DMX Stage Lighting
+        * [DMX Stage Lighting with Scenes](https://youtu.be/aS2rbXN4ML4) - _Scenes_ is not brilliant software, but the video describes DMX for beginners fairly well.
+        * [DMX King](https://dmxking.com/artnetsacn/edmx1-pro) drive DMX lights with ethernet UDP packets
+        * [MIDI USB Controler](https://www.gear4music.com/Recording-and-Computers/SubZero-MiniControl-MIDI-Controller/P6D)
+    * Mosquito netting and projectors
+        * [Ghost Screen Hologram Mapping Show MICE TECHNIC](https://youtu.be/Ulrv8GywZIU?t=25)
+        * [no-see-um mosqueto netting](https://www.profabrics.co.uk/products/insect-midge-net-fine?variant=6809889027)
+        * [superLimitBreak tech demo 2015](https://syncthing.superlimitbreak.uk/performances/2015-09-18%20Gulbenkian/SuperLimitBreak%20-%20Tech%20Demo%20v3-n8oAIaFTjco.mp4) - My armature band with my home build lights and projection software
 
-Look at the specs for other subjects - suggest an activity
+Datasets
+--------
+
+Using real data is inspiring
+
+* Data sets
+    * [Google Dataset Search](https://datasetsearch.research.google.com/)
+    * [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
+    * [data.gov.uk](https://data.gov.uk/)
+    * [National Office of Statistics](https://www.ons.gov.uk/)
+    * [UK Data Service](https://www.ukdataservice.ac.uk/) international social science datasets
+    * [University of Bath Library: Finding Data](https://library.bath.ac.uk/research-data/finding-data/home) links
+    * Met Office (UK)
+        * [Digital Library and Archive](https://digital.nmla.metoffice.gov.uk/)
+        * [Historic Weather Data](https://www.metoffice.gov.uk/climate/uk/data)
+            * [sheffield](https://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/sheffielddata.txt) yearly
+            * [Example global temp visulisation](https://twitter.com/anttilip/status/1217529718938820610)
+        * [datapoint api](https://www.metoffice.gov.uk/datapoint)
+    * [National Centers for Environmental Information (US)](https://www.ncei.noaa.gov/)
+        * [global hourly](https://www.ncei.noaa.gov/data/global-hourly/)
+    * Maps
+        * [OpenStreetMap](https://www.openstreetmap.org) Javascript Editor - [ID](https://wiki.openstreetmap.org/wiki/ID)
+            * [GeoJSON Tools](https://geoman.io/)
+    * Live Realtime [Lightening Maps](https://www.lightningmaps.org/)
+
+https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Rainfall/date/England_SE_and_Central_S.txt
+https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/courts-sentencing-and-tribunals/prosecutions-and-convictions/latest
+https://data.cambridgeshireinsight.org.uk/dataset/mill-road-project-traffic-sensor-data/resource/67873c4e-2d50-4d31-b2a0-68f1df7f081e
 
 
 Discipline's
@@ -292,6 +359,10 @@ Not directly related to an established school subject.
         * [trafficvis.com](https://trafficvis.com)
     * Economic
         * ?
+    * Tamagchi Singularity
+        * Reverse engineer Tamagochi -> VM -> Millions of Tamagochis -> Supervised/Fed/happy
+        * [Building the Tamagotchi Singularity ](http://spritesmods.com/?art=tamasingularity)
+        * [Building The Infinite Matrix Of Tamagotchis](https://hackaday.com/2015/11/24/building-the-infinite-matrix-of-tamagotchis/)
 
 
 Further Concepts
@@ -328,25 +399,6 @@ Further Concepts
 * Impact of Open Tooling
     * [Numberplate recognition](https://medium.freecodecamp.org/how-i-replicated-an-86-million-project-in-57-lines-of-code-277031330ee9)
 
-
-API's and Datasets
-------------------
-
-Using real data is inspiring
-
-TODO: list interesting api's and freely available datasets
-
-https://blog.google/products/search/discovering-millions-datasets-web/
-
-https://digital.nmla.metoffice.gov.uk/
-Documents
-
-
-https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Rainfall/date/England_SE_and_Central_S.txt
-
-https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/courts-sentencing-and-tribunals/prosecutions-and-convictions/latest
-
-https://data.cambridgeshireinsight.org.uk/dataset/mill-road-project-traffic-sensor-data/resource/67873c4e-2d50-4d31-b2a0-68f1df7f081e
 
 
 Programming Projects
@@ -423,6 +475,7 @@ re.search(r'AC[AG].GT[AT]{5,6}AAA', dna)
 
 * [Conway's game of life](http://www.conwaylife.com/)
 * [Conway basic patterns](http://pi.math.cornell.edu/~lipa/mec/lesson6.html)
+* [Build a working game of Tetris in Conway's Game of Life](https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life)
 * Web Based Examples
     * [Simple](https://playgameoflife.com/)
     * [Example](https://pmav.eu/stuff/javascript-game-of-life-v3.1.1/)
@@ -433,23 +486,7 @@ re.search(r'AC[AG].GT[AT]{5,6}AAA', dna)
 
 ### Graphs (& Data sets)
 
-* Data sets
-    * [Google Dataset Search](https://datasetsearch.research.google.com/)
-    * [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
-    * [data.gov.uk](https://data.gov.uk/)
-    * [National Office of Statistics](https://www.ons.gov.uk/)
-    * Met Office (UK)
-        * [Historic Weather Data](https://www.metoffice.gov.uk/climate/uk/data)
-            * [sheffield](https://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/sheffielddata.txt) yearly
-            * [Example global temp visulisation](https://twitter.com/anttilip/status/1217529718938820610)
-        * [datapoint api](https://www.metoffice.gov.uk/datapoint)
-    * [National Centers for Environmental Information (US)](https://www.ncei.noaa.gov/)
-        * [global hourly](https://www.ncei.noaa.gov/data/global-hourly/)
-    * Maps
-        * [OpenStreetMap](https://www.openstreetmap.org) Javascript Editor - [ID](https://wiki.openstreetmap.org/wiki/ID)
-            * [GeoJSON Tools](https://geoman.io/)
-    * Live Realtime [Lightening Maps](https://www.lightningmaps.org/)
-
+See datasets section above
 
 #### Reading data from CSV
 
@@ -487,6 +524,8 @@ data = [trace]
 import plotly
 plotly.offline.plot(data, filename='basic-line')
 ```
+
+[Falcon](https://github.com/plotly/falcon) Plotly can work directly from SQL DB's
 
 
 #### Observable
@@ -602,7 +641,7 @@ Bop it smash https://www.amazon.co.uk/Hasbro-Game-Intense-Electronic-Friends/dp/
 Proof Of Concept or Get the Fuck out
 http://pociigtfo.com/
 
-Create a webpage with a world map and use absolute positioning to embed videos from https://www.skylinewebcams.com 
+
 Virtual Box - install DOS and use it to demonstrate the evolution of Operating Systems over the years. 
 
 English- Botnik
@@ -621,3 +660,4 @@ Powers of 10 - 1977
 https://www.youtube.com/watch?v=0fKBhvDjuy0
 
 tim hunkin - southwold under the peir - novalty automation
+[MicroBreak](https://youtu.be/nieXCqpxjC4?t=329)

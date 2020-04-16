@@ -31,4 +31,7 @@ https://www.howtographql.com/basics/1-graphql-is-the-better-rest/
 https://blog.logrocket.com/5-reasons-you-shouldnt-be-using-graphql-61c7846e7ed3/
 
 * [GraphQLize](https://www.graphqlize.org/) - A JVM library for developing GraphQL API instantly from Postgres and MySQL databases
+* [Hasura](https://hasura.io/)
+
 * [GraphQL Tooling, Today & Tomorrow](https://www.youtube.com/watch?v=JilN_PvQOqs)
+
