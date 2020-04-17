@@ -35,3 +35,4 @@ https://blog.logrocket.com/5-reasons-you-shouldnt-be-using-graphql-61c7846e7ed3/
 
 * [GraphQL Tooling, Today & Tomorrow](https://www.youtube.com/watch?v=JilN_PvQOqs)
 
+* [SQL is a better API language than GraphQL. Convince me otherwise!](https://twitter.com/simonw/status/1250803209871847426)

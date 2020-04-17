@@ -158,6 +158,9 @@ Lesson Topic Ideas
     * Create a webpage with a world map and use absolute positioning to embed videos from [skylinewebcams](https://www.skylinewebcams.com)
 * History
     * [Canterbury High Street](http://www.hillside.co.uk/tour/tour.html) - Homemade Canterbury High Street Streetview from 1990
+        * Activity for class to create school tour
+            * Code to navigate (arrow keys?)
+            * How do they name files?
     * [Colorized historical photos](https://www.google.com/search?client=firefox-b-d&q=colorise+histoical+photos)
         * [How to Colorize a Black and White Photo in Photoshop](https://youtu.be/C2Srw245R7U)
         * [GIMP Tutorial: Restore Color to Black and White Photo](https://youtu.be/YFDdS9iRfPE)
@@ -284,6 +287,11 @@ Lesson Topic Ideas
                     print(msg)
             ```
         * [webMidiLog](https://github.com/superLimitBreak/webMidiTools/blob/master/webMidiLog.html) (see more code below)
+        * Activity: From raw midi data - print note and octave - A#2
+            * [note_to_text](https://github.com/calaldees/libs/blob/bf4a1371510cc32c2c8b1f8a177edb8cce0f16fd/python3/calaldees/music.py#L27) example
+    * Markdown ABC Notation
+        * [Example](https://music.meta.stackexchange.com/questions/2507/how-could-abc-notation-be-embedded-in-our-posts-markdown)
+        * [Tutorial](http://www.lesession.co.uk/abc/abc_notation.htm)
 * MFL
     * [Language Letter Frequency](https://en.wikipedia.org/wiki/Letter_frequency) detector
         * [langauge_frequeny.py](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/data/langauge_frequeny.py)
