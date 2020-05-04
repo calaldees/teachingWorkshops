@@ -1,0 +1,1 @@
+[ES2015+ cheatsheet](https://devhints.io/es6)

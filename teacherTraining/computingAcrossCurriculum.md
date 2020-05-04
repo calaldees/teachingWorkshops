@@ -212,6 +212,7 @@ Lesson Topic Ideas
     * Animation
         * 2D
             * [pencil2d](https://www.pencil2d.org/)
+            * [Made It For Fun](https://madeitfor.fun/) A stupid website for animating images on top of videos
         * 3D
             * [Blender](https://www.blender.org/)
                 * [Tutorial: 3D Animation With Python and Blender](https://www.youtube.com/watch?v=ssHiWpVuxTk)
@@ -320,8 +321,10 @@ Datasets
 Using real data is inspiring
 
 * Data sets
+    * [Kaggle](https://www.kaggle.com/) Jupiter notebook with datasets live on the web
     * [Google Dataset Search](https://datasetsearch.research.google.com/)
     * [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
+    * [free-datasets-for-projects](https://www.dataquest.io/blog/free-datasets-for-projects/)
     * [data.gov.uk](https://data.gov.uk/)
     * [National Office of Statistics](https://www.ons.gov.uk/)
     * [UK Data Service](https://www.ukdataservice.ac.uk/) international social science datasets
@@ -400,6 +403,7 @@ Further Concepts
             * [Everybody can make deepfakes now](https://www.youtube.com/watch?v=mUfJOQKdtAk)
             * [It’s Getting Harder to Spot a Deep Fake Video](https://www.youtube.com/watch?v=gLoI9hAX9dw)
             * [Deepfakes - Real Consequences](https://www.youtube.com/watch?v=dMF2i3A9Lzw)
+            * [deepfakes-on-live-video-calls](https://www.inputmag.com/tech/open-source-program-will-let-you-run-deepfakes-on-live-video-calls)
             * [Not Jordan Peterson](https://www.reddit.com/r/MachineLearning/comments/cqqzov/p_not_jordan_peterson_speech_synthesis_using/)
 * Open vs Proprietary
     * Operating Systems
@@ -488,6 +492,8 @@ re.search(r'AC[AG].GT[AT]{5,6}AAA', dna)
     * [Simple](https://playgameoflife.com/)
     * [Example](https://pmav.eu/stuff/javascript-game-of-life-v3.1.1/)
     * [Example 2](https://www.samcodes.co.uk/project/game-of-life/)
+* x86 Assembler
+    * [MSDOS 32bytes](https://www.pouet.net/prod.php?which=85485)
 
 * [python txt+pygame + conway wiki RLE](https://github.com/calaldees/TeachProgramming/tree/master/teachprogramming/static/projects/data/other/)
 
@@ -629,8 +635,6 @@ overtones in matlab
 rumor in scools - class of 30? possible activity?
 
 
-
-[MarIO](https://www.youtube.com/watch?v=qv6UVOQ0F44)
 
 disenter - comments - even when comments not available
 

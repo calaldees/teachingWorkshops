@@ -7,6 +7,7 @@ Copied from computingAcrossCurriculum.md
             * [Perlin noise](https://en.wikipedia.org/wiki/Perlin_noise)
         * ["Memories" - 256 byte MSDOS intro](https://youtu.be/Imquk_3oFf4)
             * Smaller then a single tweet (each character/letter is a byte)
+            * [](http://www.sizecoding.org/wiki/Memories)
 
 
 https://www.flipcode.com/archives/articles.shtml

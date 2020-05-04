@@ -22,6 +22,12 @@ REST
 ----
 https://jsonplaceholder.typicode.com/
 
+From OpenAPI3.0 spec
+http://editor.swagger.io/
+* https://fastapi.tiangolo.com/
+    * https://typer.tiangolo.com/
+
+
 GraphQL
 -------
 https://github.com/thoughtbot/guides/tree/master/graphql
@@ -36,3 +42,5 @@ https://blog.logrocket.com/5-reasons-you-shouldnt-be-using-graphql-61c7846e7ed3/
 * [GraphQL Tooling, Today & Tomorrow](https://www.youtube.com/watch?v=JilN_PvQOqs)
 
 * [SQL is a better API language than GraphQL. Convince me otherwise!](https://twitter.com/simonw/status/1250803209871847426)
+
+* [Graphene](https://graphene-python.org/) python GraphQL

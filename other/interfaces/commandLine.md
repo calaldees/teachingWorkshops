@@ -20,3 +20,6 @@ https://github.com/thewhitetulip/awk-anti-textbook
 wildcards
 
 [Makefile.md](Makefile)
+
+
+[Editly](https://github.com/mifi/editly) Slick, declarative command line video editing
