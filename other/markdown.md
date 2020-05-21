@@ -57,3 +57,13 @@ Below are some examples of possible tech
 * [qownnotes](https://www.qownnotes.org/) Plain-text file markdown note taking with Nextcloud integration
 [Ask HN: What do you use to keep track of bookmarks/notes/snippets?](https://news.ycombinator.com/item?id=22778123)
 (other alternative? https://histre.com/)
+
+
+Other Plain text notation
+-------------------------
+
+[Create beautiful diagrams just by typing mathematical notation in plain text](https://github.com/penrose/penrose)
+
+[extension integrates Draw.io into VS Code](https://github.com/hediet/vscode-drawio)
+
+[Diagram as Code](https://diagrams.mingrammer.com/) Diagrams lets you draw the cloud system architecture in Python code.

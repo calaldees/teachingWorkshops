@@ -15,3 +15,12 @@ UnitTests
 ### DocTests
 
 
+TDD
+(expanding string calculator requirements example)
+https://osherove.com/tdd-kata-1/
+
+
+
+https://axiom.ai/ - AI based browser testing
+
+

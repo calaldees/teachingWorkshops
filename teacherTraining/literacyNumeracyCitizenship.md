@@ -35,6 +35,8 @@ What is the tipping point from _'just using words that scientists use'_ and _'ta
 
 Matthew effect
 
+[Why does writing matter in remote work?](http://www.timcasasola.com/blog/writing)
+
 #### Activity: Imagine
 1min silence. Close your eyes. Imagine you lived in this world but were not literate. What things would it impair you doing?
 

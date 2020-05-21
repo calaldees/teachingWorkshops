@@ -216,6 +216,10 @@ Lesson Topic Ideas
         * 3D
             * [Blender](https://www.blender.org/)
                 * [Tutorial: 3D Animation With Python and Blender](https://www.youtube.com/watch?v=ssHiWpVuxTk)
+        * Rigging SVG and face tracking
+            * https://github.com/yemount/pose-animator/
+    * Preservation
+        * [the-night-watch online scan](https://www.rijksmuseum.nl/en/most-detailed-ever-photograph-of-the-night-watch-goes-online)
     * [Algorithmic Art](https://en.wikipedia.org/wiki/Algorithmic_art)
         * [recursive-tree-challenge](https://www.101computing.net/recursive-tree-challenge/)
         * [London Community](https://www.meetup.com/Algorithmic-Art/)
@@ -345,6 +349,8 @@ Using real data is inspiring
 https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Rainfall/date/England_SE_and_Central_S.txt
 https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/courts-sentencing-and-tribunals/prosecutions-and-convictions/latest
 https://data.cambridgeshireinsight.org.uk/dataset/mill-road-project-traffic-sensor-data/resource/67873c4e-2d50-4d31-b2a0-68f1df7f081e
+
+* [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
 
 Discipline's

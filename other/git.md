@@ -5,6 +5,8 @@ branch
 merge
 rebase
 
+git stash
+git stash pop
 
 rerere
 Squash a feature

@@ -27,3 +27,5 @@ https://www.bbc.co.uk/news/world-asia-china-51732042
 
 
 https://www.the-tls.co.uk/articles/the-opt-out-illusion/
+
+https://citizenlab.ca/2020/05/we-chat-they-watch/

@@ -23,3 +23,6 @@ wildcards
 
 
 [Editly](https://github.com/mifi/editly) Slick, declarative command line video editing
+
+
+https://github.com/openautocomplete/openautocomplete
