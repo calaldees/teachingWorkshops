@@ -1,4 +1,5 @@
 https://schema.org/docs/full.html
 
 
-jsonschema
+https://jsonpath.com/
+https://json-schema.org/

@@ -25,6 +25,7 @@ Teacher Standards
 * [Prevent UK](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/445977/3799_Revised_Prevent_Duty_Guidance__England_Wales_V2-Interactive.pdf) - [How do teachers engage with prevent](https://crestresearch.ac.uk/comment/lewis-teachers-engage-prevent/)
 * [Teacher Workload reform 2015](https://www.gov.uk/government/publications/reducing-teachers-workload/reducing-teachers-workload)
 
+
 Stories
 -------
 
@@ -44,8 +45,10 @@ There will be drug trading in your school
 * Dog Collar -
 
 
-Spotting Abuse
---------------
+Safegarding
+-----------
+
+### Spotting Abuse
 
 Our current Secondary Education system means it's difficult to get a holistic picture of a students overall experience.
 
@@ -65,6 +68,13 @@ You are not supposed to talk about personal circumstances.
 If they talk to you, before they divulge any personal information you must be very clear that you will talk to other staff if you think it is necessary.
 You are never to be confided in and keep secrets. You must be transparent and unified with senior staff.
 This is to protect yourself.
+
+### Sociaial issues and role models
+
+* [Keep It Real Online](https://www.keepitrealonline.govt.nz/)
+    * [Keep It Real Online - Pornography](https://www.bestadsontv.com/ad/116227/Keep-It-Real-Onilne-Keep-It-Real-Online-Pornography)
+
+* https://twitter.com/WingdingNZ/status/1272074014387625987
 
 
 Workplace Etiquette

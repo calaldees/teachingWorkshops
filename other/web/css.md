@@ -8,3 +8,6 @@ https://codingthesmartway.com/tailwind-css-for-absolute-beginners/
 MonsterBoy title project?
 
 Windows 98 UI [98.css](https://jdan.github.io/98.css/)
+
+
+Async CSS and Font Swap - [The Fastest Google Fonts](https://csswizardry.com/2020/05/the-fastest-google-fonts/)

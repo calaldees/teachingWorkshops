@@ -58,6 +58,15 @@ Below are some examples of possible tech
 [Ask HN: What do you use to keep track of bookmarks/notes/snippets?](https://news.ycombinator.com/item?id=22778123)
 (other alternative? https://histre.com/)
 
+https://rbitr.github.io/ChartS.css/
+
+
+[Stop Taking Regular Notes; Use a Zettelkasten Instead](https://eugeneyan.com/2020/04/05/note-taking-zettelkasten/)
+[Zettelkasten note-taking in 10 minutes](https://blog.viktomas.com/posts/slip-box/)
+[Obsidian](https://obsidian.md/) is a powerful knowledge base that works on top of a local folder of plain text Markdown files.
+[zettlr](https://www.zettlr.com/)
+https://github.com/zadam/trilium
+
 
 Other Plain text notation
 -------------------------
@@ -66,4 +75,6 @@ Other Plain text notation
 
 [extension integrates Draw.io into VS Code](https://github.com/hediet/vscode-drawio)
 
-[Diagram as Code](https://diagrams.mingrammer.com/) Diagrams lets you draw the cloud system architecture in Python code.
+* [Diagram as Code](https://diagrams.mingrammer.com/) Diagrams lets you draw the cloud system architecture in Python code.
+* [WebGraphViz](http://www.webgraphviz.com/)
+    * [create diagrams with code using graphviz](https://ncona.com/2020/06/create-diagrams-with-code-using-graphviz/)

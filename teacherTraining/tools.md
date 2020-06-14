@@ -77,3 +77,12 @@ Raspberryan has git, python3 + pygame installed by default
 ```powershell
     choco install git gimp python3 vscode
 ```
+
+
+Package managers for code/dependencys
+-------------------------------------
+
+pip
+npm
+
+[Deno is a Browser for Code](https://kitsonkelly.com/posts/deno-is-a-browser-for-code/) - Why central package managers are problematic

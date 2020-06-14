@@ -8,6 +8,10 @@ Objectives
     * Computing can relate to everything in our world and lives
 * Consider how we can support our fellow teaching colleges with our Computing skills
 
+ITT Core Framework
+8.3
+> Teachers can make valuable contributions to the wider life of the school in a broad range of ways, including by supporting and developing effective professional relationships with colleagues
+
 
 Ofsted and Computing
 ---------------------
@@ -233,6 +237,8 @@ Lesson Topic Ideas
     * [Pixel Art](http://www.dinofarmgames.com/a-pixel-artist-renounces-pixel-art/)
         * [#pixelart](https://twitter.com/search?q=%23pixelart)
     * [Turn Photos Into Logos with GIMP](https://youtu.be/Yce2ZvGeanY)
+    * Color Theory
+        * [How To Avoid Equidistant HSV Colors](https://www.vis4.net/blog/2011/12/avoid-equidistant-hsv-colors/)
 * Languages
     * English Grammar
         * [grammar.py](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/data/grammar.py)
@@ -258,6 +264,7 @@ Lesson Topic Ideas
     * CAD/CAM
         * eaxamples?
     * 3d modeling -> 3d printing
+    * https://woodgears.ca/
     * Create [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics#Example) with code? Badge/Ticket example?
         * Edit and SVG as a text file - Like mail-merge, but with SVG's + regex)
             1. Load [Inkscape](https://inkscape.org/)
@@ -601,6 +608,8 @@ Data Examples
 Unsorted notes
 --------------
 
+[VIBE: Video Inference for Human Body Pose and Shape Estimation](https://github.com/mkocabas/VIBE)
+
 common factors
 
 
@@ -672,6 +681,7 @@ Smart Rockets - http://www.blprnt.com/smartrockets/
 Bookmark-let to login
 
 
+[radio.garden](http://radio.garden) Globe of radio masts
 
 
 Powers of 10 - 1977
@@ -679,3 +689,10 @@ https://www.youtube.com/watch?v=0fKBhvDjuy0
 
 tim hunkin - southwold under the peir - novalty automation
 [MicroBreak](https://youtu.be/nieXCqpxjC4?t=329)
+
+
+[The Art of Code - Dylan Beattie](https://youtu.be/6avJHaC3C2U)
+
+[Copernicus Sentinel-5P Tropospheric Nitrogen Dioxide](https://maps.s5p-pal.com/) - global pollution on map
+
+[European Space Agency Images](http://www.esa.int/ESA_Multimedia/Images)

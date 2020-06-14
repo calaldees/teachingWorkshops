@@ -97,3 +97,4 @@ Further Reading
 * [haiku_icons](http://blog.leahhanson.us/post/recursecenter2016/haiku_icons.html)
 * [History of Computer graphics](https://www.youtube.com/watch?v=QyjyWUrHsFc)
 * [How Prince of Persia Defeated Apple II's Memory Limitations | War Stories | Ars Technica](https://www.youtube.com/watch?v=sw0VfmXKq54)
+* [Ray Tracing In Notepad.exe At 30 FPS](http://kylehalladay.com/blog/2020/05/20/Rendering-With-Notepad.html)

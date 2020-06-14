@@ -1,3 +1,5 @@
+[VPL: Visual Programming Language](https://en.wikipedia.org/wiki/Visual_programming_language)
+
 [What makes a good teacher: opinions from around the world](https://www.unicef.org/teachers/teacher/teacher.htm)
 
 
@@ -55,7 +57,14 @@ data correction
 
 fibonachi + golden ratio
 
-binry ascii pixel wav hex
+binry
+ascii 
+pixel 
+wav (audio)
+hex
+
+[StawWars ASCII](https://asciinema.org/a/8)
+https://github.com/bejd/clad-ascii
 
 database SQL
 
@@ -63,11 +72,15 @@ http
 smtp
 ftp
 
+* [Linux Kernel Map](https://makelinux.github.io/kernel/map/)
+* [Roche Biochemical Pathways](http://biochemical-pathways.com/#/map/1)
+    * [](https://www.roche.com/sustainability/philanthropy/science_education/pathways.htm)
+Cognitive Bias poster
 
 
+[graphical graph plotting in terminal](https://github.com/Evizero/UnicodePlots.jl)
 
-
-
+[font based on my handwriting](https://sachachua.com/blog/2020/06/pythonfontforgeorg-i-made-a-font-based-on-my-handwriting/)
 
 Reflection - describe - brorden - alnalyse
 
@@ -96,3 +109,30 @@ https://treenotation.org/designer/
 
 No PyGame - Interesting rational
 https://opensource.com/article/18/4/easy-2d-game-creation-python-and-arcade
+
+[SEND code of practice: 0 to 25 years](https://www.gov.uk/government/publications/send-code-of-practice-0-to-25)
+
+[Released jailed hacker comments about how society moved in 10 years](https://forklog.media/after-10-years-in-tech-isolation-im-now-outsider-to-things-i-once-had-mastered/)
+
+
+[Metacognition](https://en.wikipedia.org/wiki/Metacognition) thinking about thinking
+[Getting started with Metacognition](https://cambridge-community.org.uk/professional-development/gswmeta/index.html)
+
+
+[Tacit Knowledge](https://en.wikipedia.org/wiki/Tacit_knowledge)
+
+[Why Tacit Knowledge is More Important Than Deliberate Practice](https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/)
+* Tacit knowlge example - riding bike
+* hunch - feels right, creative problem solving
+* We don't get better by 10,000 hours - we get better by osmosis, feedback, mentoring
+
+[Knowlge Illusion: People think they know more than they do - draw a bike](http://www.gianlucagimini.it/prototypes/velocipedia.html)
+
+
+[Hidden Curriculum](https://en.wikipedia.org/wiki/Hidden_curriculum)
+
+
+
+https://en.wikipedia.org/wiki/TempleOS
+
+[Building a Neurodiverse High-tech Workforce](https://www.researchgate.net/profile/Eleanor_Loiacono/publication/329458841_Building_a_Neurodiverse_High-tech_Workforce/links/5c671ab092851c1c9de45108/Building-a-Neurodiverse-High-tech-Workforce.pdf)

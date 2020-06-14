@@ -360,7 +360,6 @@ Integrated curriculum - a case study in secondary.
 
 Activity: Given the benefits in primary. Do you think this would work in secondary?
 
-
 * Sandwich Technology School in 2008/201x tried this.
   * Over half of contact time in CBIC group
   * Total unmitigated failure
@@ -370,6 +369,14 @@ Activity: Given the benefits in primary. Do you think this would work in seconda
     * Class's were huge 60 person classrooms with 2 teachers
       * Utterly impossible to concentrate
       * So much noise
+
+[Constructivism is not a pedagogy](https://learningspy.co.uk/literacy/constructivism-is-not-a-pedagogy/)
+> Unstructured and minimally-guided instructional situations certainly do not appear to be very successful and can strongly contribute to:
+>
+> (1) a lower probability of an effective learning process for – in particular – vulnerable students,
+> 
+> (2) a less important role for the instructor, which can potentially damage the profession, and
+> (3)  the widening of the so-called achievement gap, because students with more prior knowledge have more opportunities than students with less prior knowledge (Christodoulou, 2014).
 
 
 Innovative KS3 Lessons

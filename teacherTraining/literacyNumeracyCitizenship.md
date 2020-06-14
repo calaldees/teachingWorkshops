@@ -13,6 +13,14 @@ My background:
 * Yet in spite of that I am a successful working professional. Considered by peers exceptionally literate, informed and well read.
 
 
+Objectives
+----------
+ITT Core Framework
+3.9
+> To access the curriculum, early literacy provides fundamental knowledge; reading comprises two elements: word reading and language comprehension; systematic synthetic phonics is the most effective approach for teaching pupils to decode
+3.10
+> Every teacher can improve pupils’ literacy, including by explicitly teaching reading, writing and oral language skills specific to individual disciplines
+
 Literacy
 --------
 
@@ -79,6 +87,8 @@ Examples of subject specific language:
     * we'll talk -> we'll deliberate
     * he dosnt like me -> there is a failure of trust in this relationship
     * I can't do this -> I'm struggling with these concepts
+* Vocabulary
+    * Modus Operadi
 * General concepts
     * Analysis, Evaluation, Decomposition
     * Mental model

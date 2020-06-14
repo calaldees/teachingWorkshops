@@ -35,6 +35,21 @@ what is the difference between list & tuple -> mutability
     #aa=[1,2,3];bb=aa;aa=[4,5,6];print(aa,bb)
 
 
+https://imranontech.com/2007/01/24/using-fizzbuzz-to-find-developers-who-grok-coding/
+https://www.youtube.com/watch?v=QPZ0pIK_wsc
+FizzBuzz
+
+```python
+for i in range(100):
+    r = ''
+    if i % 3 == 0:
+        r += 'fizz'
+    if i % 5 == 0:
+        r += 'buzz'
+    if not r:
+        r = i
+    print(r)
+```
 
 
 ```python
@@ -56,3 +71,11 @@ else:
 from itertools import chain, cycle, permutations
 from functools partial, lru_cache, reduce, wraps
 from collections import defaultdict, namedtuple, ChainMap, deque
+
+
+* [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
+    * pyenv
+    * poetry
+    * click
+
+[Overview of python dependency management tools](https://modelpredict.com/python-dependency-management-tools)

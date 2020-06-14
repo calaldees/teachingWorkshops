@@ -5,6 +5,7 @@ Copied from computingAcrossCurriculum.md
         * [flashtro-morton-strikes-back](http://flashtro.com/flashtro-morton-strikes-back/)
         * [elevated by Rgba & TBC | 4k intro](https://www.youtube.com/watch?v=jB0vBmiTr6o)
             * [Perlin noise](https://en.wikipedia.org/wiki/Perlin_noise)
+        * [The vanishing of Ashlar by NuSan (PC 4k intro)](https://youtu.be/lAvug7LKiIE)
         * ["Memories" - 256 byte MSDOS intro](https://youtu.be/Imquk_3oFf4)
             * Smaller then a single tweet (each character/letter is a byte)
             * [](http://www.sizecoding.org/wiki/Memories)

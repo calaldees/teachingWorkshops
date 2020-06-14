@@ -10,6 +10,14 @@ Differences
 * Much less contact time
 * Do their objectives align with yours
 
+ITT Core Framework
+8.1
+> Effective professional development is likely to be sustained over time, involve expert support or coaching and opportunities for collaboration.
+8.2
+> Reflective practice, supported by feedback from and observation of experienced colleagues, professional debate, and learning from educational research, is also likely to support improvement
+8.7
+> Engaging in high-quality professional development can help teachers improve
+
 
 Background
 ----------

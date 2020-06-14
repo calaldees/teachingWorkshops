@@ -172,6 +172,11 @@ Ofstead want
     * Target setting is a formalised for of feedback - specific and challenging
     * Short term and long term goals are required to make progress
 
+ITT Core Framework
+6.1
+> Effective assessment is critical to teaching because it provides teachers with information about pupils’ understanding and needs
+6.2
+> Good assessment helps teachers avoid being over-influenced by potentially misleadingfactors, such as how busy pupils appear.
 
 ### Formative
 
@@ -184,6 +189,16 @@ Ruth Butler 1987
 * mark and comment
 
 [AfL Tools](https://www.slideshare.net/caldiesschool/tl-assessment-for-learning-tools)
+
+https://mikegershon.com/resources/
+
+ITT Core Framework
+6.4
+> pupils must be able to act on feedback for it to have an effect
+6.5
+> High-quality feedback can be written or verbal; it is likely to be accurate and clear, encourage further effort, and provide specific guidance on how to improve
+6.6
+> Over time, feedback should support pupils to monitor and regulate their own learning.
 
 
 #### Assessment Criteria -> Peer/Self Assessment

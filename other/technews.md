@@ -1,1 +1,4 @@
-https://news.ycombinator.com/rss
+
+
+* [HackerNews](https://news.ycombinator.com/)
+
