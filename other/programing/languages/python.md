@@ -79,3 +79,10 @@ from collections import defaultdict, namedtuple, ChainMap, deque
     * click
 
 [Overview of python dependency management tools](https://modelpredict.com/python-dependency-management-tools)
+
+* [Practical Python Course](https://github.com/dabeaz-course/practical-python) Creative commons course
+
+Advanced Modules
+----------------
+
+* [Trailtlets](https://github.com/ipython/traitlets) for config

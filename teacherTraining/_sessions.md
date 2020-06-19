@@ -32,28 +32,28 @@ Induction to programme materials, structure and professional engagement
 
 * Introductions
 * What is Computer Science?
-    * 3 strands Computing/ICT/DigitalLiteracy
+    * 3 strands Computing, ICT, DigitalLiteracy
 * What are the expectations/misconceptions teaching Computer Science?
 * Explore the blacklash and confusion about computer science in education and wider society
     * The rise of STEM
     * Perceptions of gender and ethnicity in Computing
 * Aims and purposes of our teaching and learning
-    * Introduce concepts of Digital Literacy and Digital Citizenship
     * meta-pedagogy (not _tips for teaching_)
-* Tacit knowledge transfer - Riding Bike, Learning to read
+    * Tacit knowledge transfer - e.g Riding Bike, Learning to read
 * Preparing students for a future we are unsure of
+* The burden of learning to teach. Support and expectations.
 
 
 ### Ind 2 (PGCE) (Pre-Planned)
 
-What do we know about the process of becoming a teacher? What is a professional? What if I don’t agree?
-Resilience
-Reflective practice (Tripp>Kolb>Gibbs), learning from reflection
-Teacher Standards
-Assessment and Grading points
-Where and when to access support
-Building relationships and collaborating with others
-Review Bb, terminologies, paperwork
+* What do we know about the process of becoming a teacher? What is a professional? What if I don’t agree?
+* Resilience
+* Reflective practice (Tripp>Kolb>Gibbs), learning from reflection
+* Teacher Standards & ITT Core Framework
+* Assessment and Grading points
+* Where and when to access support
+* Building relationships and collaborating with others
+* Review Bb, terminologies, paperwork
 
 
 What is a teacher?
@@ -77,12 +77,12 @@ Beginning to identify values and ideals, core knowledge and essential characteri
 
 ### Ind 3 (PGCE) (Pre-Planned)
 
-Who am I?
-How do my ideological/values/beliefs shape my perception of what a teacher is?
-Teacher identity
-How do my life experiences shape my engagement with teaching and with being a learner in a professional context? (Epistemology and ontology, conscious and unconscious bias)
-What is criticality, educational ‘wisdom’ and the different types of teacher knowledge?
-Mental health and wellbeing
+* Who am I?
+* How do my ideological/values/beliefs shape my perception of what a teacher is?
+* Teacher identity
+* How do my life experiences shape my engagement with teaching and with being a learner in a professional context? (Epistemology and ontology, conscious and unconscious bias)
+* What is criticality, educational ‘wisdom’ and the different types of teacher knowledge?
+* Mental health and wellbeing
 
 
 What is education?
@@ -100,11 +100,12 @@ What is education?
     * Comparison of curriculums; policy and practice panel debate
 * PM
     * What is a curriculum/subject curriculum?
-    * National Curriculum and recent policy
+    * Computing National Curriculum and recent policy
+        * Exploring Ofsted requirements and Education inspection framework
     * What is Computer Science education?
         * identifying conceptions of SK and PCK and own development
     * Key influential subject documents, reports and research; current and over time
-    * How has subject changed/influenced over the years? (in school and society)
+    * How has the subject of Computing has changed in education over the years (in school and society)
     * Task: School research. Preparation for SP4
 
 ### SP4 (PGCE/SD)
@@ -146,7 +147,7 @@ Developing an understanding of how children learn and the different interpretati
         * retrieve information from memory, and spacing practice
         * Interleaving
             * concrete and abstract examples
-    * Task: Prepare for Microteaching SP7
+    * Task: PGCE Prepare for Microteaching SP7
 
 
 ### SP6 (PGCE/SD)
@@ -187,8 +188,8 @@ Developing an understanding of how children learn and the different interpretati
 * Questioning
     * Asking not telling
     * Pupil lead learning/enquiry? Constructivism?
-* Metacognition and cognitive load
-* Collaboration in Computing
+* Meta-cognition and cognitive load
+* Collaboration techniques in Computing
     * version-control
 
 
@@ -232,7 +233,7 @@ Understanding inclusion and the key strategies that create and hinder an inclusi
 ### SP11 (PGCE/SD)
 * Understanding primary education in Computing
     * Utilise strategies for primary teaching as a vehicle/inspiration to engage with a secondary pupils
-* Computing unplugged
+* Computing unplugged - Computing concepts without a computer
 
 
 How do you plan and assess for learning?
@@ -267,6 +268,7 @@ Structuring learning that is informed and supported by assessment
 * PM
     * Managing Data
         * Considering computing tools for transparency
+        * Record-keeping for professional accountability
 
 
 ### SP15 (PGCE/SD)
@@ -291,8 +293,11 @@ Learning Objectives
 ### SP16 (PGCE/SD)
 * Hidden/Inviable Curriculum
 * ‘Broad and balanced’ curriculum, not teaching to the test/exam;
-* Revisit pair programming, code review - metaskills
+* Ofsted criteria for schools
+    * revisiting the Education inspection framework in context of wider curriculum
+* Careers Guidance in the area of computing
 * Revisit literacy, numeracy, digital-literacy in Computing
+* Revisit pair programming, code review - metaskills
 
 
 ### SP17 (PGCE/SD)
@@ -317,12 +322,14 @@ Developing classroom practice to become an autonomous practitioner who has an im
 
 ### SP18 (PGCE/SD)
 * Computing across the curriculum and your school
-* Your professional role: Supporting colleagues with Computing
 * Risk taking, creativity and innovative/novel uses of computing
+* Your professional role: Supporting colleagues in your institution with Computing
+
 
 ### SP19 (PGCE/SD)
 * AM
     * Effective CPD (Continued Professional Development)
+        * Measuring impact
         * Sharing good practice
         * Networking with other Computing practitioners
 
@@ -333,8 +340,8 @@ What is my impact?
 Evaluating impact on pupil learning, progress and development of professional identity
 
 Learning Objectives
-•	Articulate ambitions for self and learners through reflection of personal journey and progress to date
-•	Identify next steps and plan for NQT year
+* Articulate ambitions for self and learners through reflection of personal journey and progress to date
+* Identify next steps and plan for NQT year
 
 ### SP19 (PGCE/SD)
 * PM

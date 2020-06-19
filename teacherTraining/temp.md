@@ -136,3 +136,15 @@ https://opensource.com/article/18/4/easy-2d-game-creation-python-and-arcade
 https://en.wikipedia.org/wiki/TempleOS
 
 [Building a Neurodiverse High-tech Workforce](https://www.researchgate.net/profile/Eleanor_Loiacono/publication/329458841_Building_a_Neurodiverse_High-tech_Workforce/links/5c671ab092851c1c9de45108/Building-a-Neurodiverse-High-tech-Workforce.pdf)
+
+
+
+
+---
+
+A teacher brought balloons to school and asked the children to blow them all up and then each write their names on their balloon. They tossed all the balloons into the hall while the teacher mixed them from one end to the other. The teacher then gave them 5 minutes to find the balloon with their name on it. The children ran around, looking frantically but as the time ran out - nobody had found their own balloon…
+Then the teacher told them to take the balloon closest to them and give it to the person who’s name was on it. In less than 2 minutes everyone had their own balloon.
+Finally the teacher said, “Balloons are like happiness. No one will find it looking for theirs only. Instead if everyone cares about each others they will find theirs as quickly as possible.” 🎈
+Lets Be Hope Carriers
+*Cannot take the credit, saw it, loved it, sharing it!*
+

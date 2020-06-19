@@ -78,3 +78,11 @@ Other Plain text notation
 * [Diagram as Code](https://diagrams.mingrammer.com/) Diagrams lets you draw the cloud system architecture in Python code.
 * [WebGraphViz](http://www.webgraphviz.com/)
     * [create diagrams with code using graphviz](https://ncona.com/2020/06/create-diagrams-with-code-using-graphviz/)
+* [Mermaid](https://mermaid-js.github.io/mermaid/) - Generation of diagrams and flowcharts from text in a similar manner as markdown.
+    * [](https://mermaid-js.github.io/mermaid-live-editor/)
+
+Unsorted
+--------
+
+https://github.com/Jam3/math-as-code
+https://www.getoutline.com/

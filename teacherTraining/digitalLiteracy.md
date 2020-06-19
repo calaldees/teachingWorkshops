@@ -73,6 +73,8 @@ Regardless of subject, the skill is how to locate and use information.
 
 This is agnostic of Computing?
 
+[Trust of sources of Corona information](https://www.bbc.co.uk/news/technology-53050959)
+
 
 ## Why is Digital Literacy important?
 

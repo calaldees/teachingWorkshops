@@ -10,3 +10,5 @@ https://fontsinuse.com/uses/28760/neon-genesis-evangelion
 https://github.com/spacerace/romfont
 
 [Helvetica: feature-length documentary](https://www.hustwit.com/helvetica)
+
+[Time to upgrade your monitor](https://tonsky.me/blog/monitors/) - Font Rasterisation on modern OS's

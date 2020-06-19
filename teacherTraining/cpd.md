@@ -34,15 +34,15 @@ Education secretary said
     * £3m on and where are all the master teachers?
 
 
-Master Teachers
----------------
+Master Computing Teachers
+-------------------------
 
 * No allocated time to share practice
 * No incentive for schools to donate teacher time
 * Experience varied
 * No measure of impact
 
-The master teacher program was failed/abandoned
+The master computing teacher program was failed/abandoned
 
 
 Effective CPD
@@ -89,7 +89,7 @@ Per investigation/instruction
 
 Programming is hard -> not accurate model -> computer is magic (hope)
 
-Comprehention oriented not creation oriented
+Comprehension oriented not creation oriented
 
 Activity: Code Jenga
 
@@ -101,7 +101,7 @@ In business we _measure_.
 Business define success criteria/targets and then work backwards.
 How do we know it has impact? - The measuring is key.
 
-Describe: _Agile Development_ and _Ticket Sizing_
+Describe: _Agile Development_, _Ticket Sizing_, _Retrospectives_
 
 
 Impact -> Justification -> Plan -> Deliver -> Evaluate
@@ -163,3 +163,29 @@ Where is Kent?
     * You don't have to take all of your time out of the classroom, you can learn wherever and whenever suits you with our structured online courses
 * Diagnostic tool and certification
     * Use our helpful tools to identify the areas of subject knowledge where you may need support and record your achievements to be professionally recognized
+
+
+NQT
+---
+
+Same teacher standards
+Support you are entitled too
+
+
+1 day
+-----
+Importance of networking throughout your career
+1 day in primary
+1 workshop for staff
+1 external speaker
+1 3 session after school cool thing
+cas hub
+examboard meeting
+
+
+Evaluation
+----------
+
+Task: Write an open letter to candidates on their first day next year (30min)
+
+Formal Exit Survey

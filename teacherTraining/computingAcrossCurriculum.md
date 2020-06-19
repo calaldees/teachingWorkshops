@@ -239,6 +239,9 @@ Lesson Topic Ideas
     * [Turn Photos Into Logos with GIMP](https://youtu.be/Yce2ZvGeanY)
     * Color Theory
         * [How To Avoid Equidistant HSV Colors](https://www.vis4.net/blog/2011/12/avoid-equidistant-hsv-colors/)
+    * Algorithums.md
+        * watercolor maps
+        * other visulisations? data visulisation?
 * Languages
     * English Grammar
         * [grammar.py](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/data/grammar.py)
@@ -682,6 +685,7 @@ Bookmark-let to login
 
 
 [radio.garden](http://radio.garden) Globe of radio masts
+[Driver and Listen](https://driveandlisten.herokuapp.com/)
 
 
 Powers of 10 - 1977
