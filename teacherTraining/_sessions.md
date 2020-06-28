@@ -32,14 +32,14 @@ Induction to programme materials, structure and professional engagement
 
 * Introductions
 * What is Computer Science?
-    * 3 strands Computing, ICT, DigitalLiteracy
+    * 3 strands Computing, ICT, Digital Literacy
 * What are the expectations/misconceptions teaching Computer Science?
-* Explore the blacklash and confusion about computer science in education and wider society
+* Explore the backlash and confusion about computer science in education and wider society
     * The rise of STEM
     * Perceptions of gender and ethnicity in Computing
 * Aims and purposes of our teaching and learning
     * meta-pedagogy (not _tips for teaching_)
-    * Tacit knowledge transfer - e.g Riding Bike, Learning to read
+    * Tacit knowledge transfer - e.g. Riding Bike, Learning to read
 * Preparing students for a future we are unsure of
 * The burden of learning to teach. Support and expectations.
 
@@ -191,6 +191,7 @@ Developing an understanding of how children learn and the different interpretati
 * Meta-cognition and cognitive load
 * Collaboration techniques in Computing
     * version-control
+* eLearning environments and tools
 
 
 What does ‘inclusion’ really mean?
@@ -212,23 +213,29 @@ Understanding inclusion and the key strategies that create and hinder an inclusi
     * How do we meet the needs of all learners?
 * PM
     * Provision for students with SEND in Computing
-        * Strategies to aid individual students with different specific needs; EAL (English as additional lanaguge, AMA (Academically more able), dyspraxia, dyslexia, dyscalculia, ASD (Autistic spectrum disorder), BSED (Emotional behavioral social, difficulties), ODD (Oppositional Defiant Disorder), ADHD (Attention deficit hyperactivity disorder), Hearing impairment, Visual impairment.
+        * Strategies to aid individual students with different specific needs; EAL (English as additional lanaguge, dyspraxia, dyslexia, dyscalculia, ASD (Autistic spectrum disorder), BSED (Emotional behavioral social, difficulties), ODD (Oppositional Defiant Disorder), ADHD (Attention deficit hyperactivity disorder), Hearing impairment, Visual impairment.
         * Planning for TA's
+    * AMA (Academically more able)
     * Differentiation: _inclusion_ vs _adaptation_ in Computing
     * Use of data to aid planning of inclusion
         * What might this mean in the context of Computing
 
 ### SP10 (PGCE/SD)
-* Planning for inclusion - key strategies in Computing
-* Discussion: Segregation to improve inclusion?
-* Integrating inclusively
-    * Understand pupils’ differences
-    * Less effective if _artificially_ creating distinct tasks
-    * Pupils do not have distinct and identifiable learning styles
-* Responsive targeted support
-* Paired and group activities
-    * to work together effectively pupils need guidance, support and practice
-    * care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation
+* AM
+    * Planning for inclusion - key strategies in Computing
+    * Discussion: Segregation to improve inclusion?
+    * Integrating inclusively
+        * Understand pupils’ differences
+        * Less effective if _artificially_ creating distinct tasks
+        * Pupils do not have distinct and identifiable learning styles
+    * Responsive targeted support
+    * Paired and group activities
+        * to work together effectively pupils need guidance, support and practice
+        * care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation
+* PM
+    * Technologies for teaching Computing
+        * Microbits, Arduino, Raspberry Pi, Linux and Machine Virtualisation
+    * Access to computing tools (the class divide and resourcing)
 
 ### SP11 (PGCE/SD)
 * Understanding primary education in Computing

@@ -242,6 +242,7 @@ Lesson Topic Ideas
     * Algorithums.md
         * watercolor maps
         * other visulisations? data visulisation?
+    * [generative artistry](https://generativeartistry.com/)
 * Languages
     * English Grammar
         * [grammar.py](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/data/grammar.py)
@@ -354,7 +355,11 @@ Using real data is inspiring
     * Maps
         * [OpenStreetMap](https://www.openstreetmap.org) Javascript Editor - [ID](https://wiki.openstreetmap.org/wiki/ID)
             * [GeoJSON Tools](https://geoman.io/)
-    * Live Realtime [Lightening Maps](https://www.lightningmaps.org/)
+            * [Mapillary](https://www.mapillary.com/) Images to maps
+        * Live Realtime
+            * [Lightening Maps](https://www.lightningmaps.org/)
+            * [Windy.com](https://www.windy.com/)
+
 
 https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Rainfall/date/England_SE_and_Central_S.txt
 https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/courts-sentencing-and-tribunals/prosecutions-and-convictions/latest
@@ -376,6 +381,8 @@ Not directly related to an established school subject.
         * Artistic humanisation of data though charts and music through a child's illness and feelings
     * [Why scientists need to be better at data visualization](https://www.knowablemagazine.org/article/mind/2019/science-data-visualization)
 * Simulation
+    * [HASH.ai](https://hash.ai/) free online platform for assembling models of the world
+        * Solving Problems Traditional Data Science Can’t with Agent based simulations
     * Climate
         * [climateinteractive](https://en-roads.climateinteractive.org/scenario.html)
     * Traffic
@@ -700,3 +707,6 @@ tim hunkin - southwold under the peir - novalty automation
 [Copernicus Sentinel-5P Tropospheric Nitrogen Dioxide](https://maps.s5p-pal.com/) - global pollution on map
 
 [European Space Agency Images](http://www.esa.int/ESA_Multimedia/Images)
+
+
+[Super Class Blogging: wakelet + genially](https://blog.wakelet.com/2020/06/23/wakelet-genially/)

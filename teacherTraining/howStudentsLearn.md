@@ -12,5 +12,19 @@
         * > it is generally accepted that the transmission of our cumulative culture to future generations is what makes man as a species
 
 
+[Video Games are the Future of Education](https://nabeelqu.co/education) (by some dude who is not in education)
 
+
+is secondary education worth it?
+
+Future we know nothing about
+[When landlines were considered dangerous - BBC Ideas](https://www.bbc.co.uk/ideas/videos/when-landlines-were-considered-dangerous/p08dwnnz)
+
+[Rotten STEM: How Technology Corrupts Education](https://americanaffairsjournal.org/2019/08/rotten-stem-how-technology-corrupts-education/) By Jared Woodard
+
+
+https://curiousmindmagazine.com/goodbye-subjects-finland-taking-revolution-education-step/
+https://learningspy.co.uk/literacy/constructivism-is-not-a-pedagogy/
+
+https://nabeelqu.co/education
 

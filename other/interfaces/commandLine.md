@@ -7,6 +7,7 @@ automation - dont copy and paste manually.
 
 
 bash
+https://explainshell.com/
 
 pipe write
 cat

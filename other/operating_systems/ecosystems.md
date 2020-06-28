@@ -60,3 +60,4 @@ More
 ====
 
 * [Apple, ARM, Intel](https://stratechery.com/2020/apple-arm-and-intel/)
+* [Power Outage](https://tedium.co/2020/06/16/apple-powerpc-intel-transition-history/) Apple’s transition from PowerPC to Intel CPUs

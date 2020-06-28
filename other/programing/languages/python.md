@@ -82,6 +82,8 @@ from collections import defaultdict, namedtuple, ChainMap, deque
 
 * [Practical Python Course](https://github.com/dabeaz-course/practical-python) Creative commons course
 
+https://github.com/SigmaQuan/Better-Python-59-Ways
+
 Advanced Modules
 ----------------
 

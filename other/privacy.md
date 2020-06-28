@@ -29,3 +29,11 @@ https://www.bbc.co.uk/news/world-asia-china-51732042
 https://www.the-tls.co.uk/articles/the-opt-out-illusion/
 
 https://citizenlab.ca/2020/05/we-chat-they-watch/
+
+
+
+Ethics
+------
+(link to computingAcrossCurriculum)
+https://macwright.org/2020/06/21/ethics-in-geo.html
+

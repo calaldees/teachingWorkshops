@@ -12,3 +12,6 @@ Copied from computingAcrossCurriculum.md
 
 
 https://www.flipcode.com/archives/articles.shtml
+
+Other computer art
+https://random-roads--edwardcunningh2.repl.co/
