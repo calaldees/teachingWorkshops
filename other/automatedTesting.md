@@ -1,3 +1,9 @@
+Automated Testing
+=================
+
+happy path and nasty path
+
+As limited scope as possible with test data
 
 Frontend Tests
 --------------

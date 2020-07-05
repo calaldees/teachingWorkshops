@@ -1,16 +1,16 @@
 This Session
 ============
 
-* Socialize
+* Socialize Hello
 * NQT Year
-    * Q&A with real NQT's
-    * Q&A with Polly
+    * Q&A with real NQT's (11:00)
+    * Q&A with Polly (13:30)
 * CPD
     * How does your learning continue?
-* Evaluation and Reflection
+* Evaluation and Reflection - How far you have come
 
 Overall: Improving as a teacher throughout your career
-
+Why: Because we don't know everything and the world changes
 
 ## ITT Core Framework
 > 8.1
@@ -26,29 +26,32 @@ Overall: Improving as a teacher throughout your career
 NQT Year
 ========
 
-The DfE has setup nation standards for your support and progress in your NQT year.
+The DfE has setup national standards for your support and progress in your NQT year.
 
-TASK: [Early Career Framework](https://www.gov.uk/government/publications/early-career-framework) (2019)
+TASK: [DfE Early Career Framework](https://www.gov.uk/government/publications/early-career-framework) (2019)
 
 > all trainees an entitlement of three year support in to their NQT
 
 Same teacher standards
 Support you are entitled too
 
-The _bike stabilizers_ are off. You've got your drivers licence. Now the learning can begin.
-
 Observations - Key feature of NQT year - Two way street!
 They know you're new. Don't feel worried.
 
+The _bike stabilizers_ are off. You've got your drivers licence. Now the learning can begin.
+
+TASK: List of questions (min 3)? Want to ask NQT? Until 9:50
+
+My NQT Year -
 
 Action Today
 ------------
 
-We are going to do something *NOW* to improve our teaching in the future. Let's lay som foundations.
+We are going to do something *NOW* to improve our teaching in the future. Let's lay some foundations.
 
 * Write a blog article
     * Set a target to write one article in your NQT year and have it publicly visible
-    * TASK: Investigate blog platform - sign up
+    * TASK: Investigate blog platform - sign up 10:34
         * [Medium](https://medium.com/creators)
         * [WIX](https://www.wix.com/start/blog)
         * [Ghost](https://ghost.org/)
@@ -65,7 +68,7 @@ We are going to do something *NOW* to improve our teaching in the future. Let's 
     * TASK: Can you find a link to a book or author
     * TASK: Add one book to your _Amazon Wishlist_ or equivalent
         * [Effective Teaching: Evidence and Practice](https://www.amazon.co.uk/Effective-Teaching-Evidence-Daniel-Muijs/dp/1473944430/)
-        * [Visible Learning and the Science of How We Learn ](https://www.amazon.co.uk/Visible-Learning-Science-How-Learn/dp/0415704995/)
+        * [Visible Learning and the Science of How We Learn](https://www.amazon.co.uk/Visible-Learning-Science-How-Learn/dp/0415704995/)
         * [What If Everything You Knew About Education Was Wrong?](https://www.amazon.co.uk/Everything-About-Education-Wrong-Paperback/dp/1785831577/)
         * [Computer Science Education: Perspectives on Teaching and Learning](https://www.amazon.co.uk/Computer-Science-Education-Perspectives-Teaching-ebook/dp/B079M95MM9/)
 * Ongoing Networking (Research TeachMeet)
@@ -110,10 +113,10 @@ You need to be proactive in seeking this out.
     * 1 blog post a week?
 * Pair (regularly with colleagues/mentor)
     * (Pair Programming - sounds like madness, it's enlightening!)
-    * Pair planning (15min)
+    * Pair planning (15min a week)
         * Pay attention to the learning that you are planning for pupils and the formative assessment you can use to evaluate the learning.
         * It’s helpful to be able to try out this lesson and then get together to reflect and discuss how it went.
-    * Pair marking (15min)
+    * Pair marking (15min a week)
         * Particularly more experienced ones!
         * Mark some work together and identify what it tells you about student learning
         * You can then discuss the most appropriate teaching strategies for the subsequent lessons
@@ -136,7 +139,7 @@ You will play a major part in driving the culture forward - you are part of forg
 
 Evaluation
 ==========
-
+14:42
 TASK: Write a heartfelt opening-statement/advice to be read to PGCE/SD candidates on their first day next year (15min)
 
 TASK: If time could be changed - what would be different about your training year? What could Christ Church do differently? (Say it how it is! I want to improve the course next year) (15min)
@@ -195,7 +198,7 @@ Effective CPD
 -------------
 
 * You're a full time teacher. You're exhausted. Your time is full: making and planning, personal family commitments.
-* Task 1: Describe 3 areas you would like CPD to personally address/support you
+* Task 1: Describe 1 area you would like CPD to personally address/support you
 * Task 2: What would your dream CPD session look like? What would it look like?
 * Task 3: Can you give 2 examples of what does poor CPD looks like? (From your worldly experience; not necessarily applied to teaching)
 
@@ -214,25 +217,25 @@ Story: Theatre troupe. Shakespeare - dark day before the bridge
 
 ### [DfE Standard for teachers’ professional development](https://www.gov.uk/government/publications/standard-for-teachers-professional-development) (2016)
 
-1. Professional development should have a focus on improving and evaluating pupil outcomes
+1. Professional development should have a *focus on improving and evaluating pupil outcomes*
     * Make sure they are clear about the intended outcomes of activities
     * Continually apply formative assessment to monitor progression and impact
     * Choose complementary activities aligned to a clear overall objective for their practice, pupils and school
-2. Professional development should be underpinned by robust evidence and expertise
+2. Professional development should be *underpinned by robust evidence* and expertise
     * Seek to understand how and why practices work and how to implement them successfully in different contexts
     * Actively seek formative feedback on practice and support the evaluation of impact on their practice, pupil outcomes and wider school improvement
     * Expect to improve pedagogical knowledge AND subject knowledge, or specialist knowledge (e.g. for special educational needs)
-3. Professional development should include collaboration and expert challenge
+3. Professional development should *include collaboration* and expert challenge
     * Seek expert support and challenge
     * Seek activities that allow adaptation of approaches for the classroom through practice
     * Implement practices with peers and focus discussion on the impact on pupils
-4. Professional development programmes should be sustained over time
+4. Professional development programmes should be *sustained* over time
     * Seek programmes that typically last at least two terms and which provide a sustained rhythm of ongoing support.
     * Translate ideas into relevant practice and knowledge for specific classes and pupils, making time for ongoing practice and review.
 
 And all this is underpinned by, and requires that:
 
-5. Professional development must be prioritised by school leadership
+5. Professional development must be *prioritised by school leadership*
     * Take responsibility for their own professional development.
     * Engage openly in discussion about the impact of teaching practice with peers and leaders supporting a culture of trust, respect and scholarship.
     * Fully commit to effective professional development practices and challenge poor or ineffective ones
@@ -244,7 +247,7 @@ Organisations
 * [Teacher Development Trust](http://tdtrust.org/)
     * > Teacher Development Trust is an independent charity seeking to transform professional learning in schools
 * [TeachComputing.org](https://teachcomputing.org/) (previously Nation Center for Computing Education NCCE)
-* [Center for Education & Monitoring (CEM](https://www.cem.org/)
+* [Center for Education & Monitoring (CEM)](https://www.cem.org/)
 * [Measuring Effective Teaching (MET) Project (US)](http://www.metproject.org/reports.html)
     * benefits of using multiple measures of effectiveness
     * test score gains, student ratings and classroom observation
@@ -264,7 +267,7 @@ Organisations
     * there are three main ways schools can better the standard of teaching:
         1. labour market strategies to attract and retain good teachers;
         2. incentives and performance management to reward good practice (or punish bad);
-        3. and helping existing teachers improve.
+        3. and helping existing teachers improve
 * > They must win over teachers who are often suspicious when asked or required to attend development sessions.
     > (“I must be here because people question my work.”)
 * > Plus there’s the plain fact that we continue to have limited insight into what works — either in the classroom or in the training sessions
@@ -296,8 +299,13 @@ Organisations
 
 Task
 ----
-
-TASK: Imagine your can run one session for the PGCE/SD students next year. You have 1 session to have an impact on their teaching. How would you ensure this session has impact and actually makes meaningful change in their teaching? What would be in this session? What would it look like?
+14:00 ....
+TASK: Related to your current domain ...
+* Imagine your can run one session for the PGCE/SD students next year.
+* You have 1 session to have an impact on their teaching.
+* How would you ensure this session has impact and actually makes meaningful change in their teaching?
+* What would be in this session?
+* What would it look like?
 
 
 [Leverage observations](https://improvingteaching.co.uk/2014/12/15/archimedean-leadership-2-what-are-leverage-observations-or-how-would-yo-yo-ma-feed-back/)

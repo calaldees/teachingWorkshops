@@ -2,6 +2,10 @@
 Discoverability
     * See 98.css [css](./css.md)
 
+[Web Desktops](https://simone.computer/#/webdesktops)
+windows 93
+EmuOS
+
 [computer-skill-levels - worse then you think](https://www.nngroup.com/articles/computer-skill-levels/)
 
 [hacker news discussion](https://news.ycombinator.com/item?id=21037674)
@@ -18,6 +22,17 @@ Ad's and content indistinguishable?
 (link to psycology.md?)
 https://twitter.com/craigmod/status/1219644556003565568
 
+Perceived performance
+
+Carousels are a terrible pattern
+    nobody knows how to use them
+    The're reading and it moves
+    They are are just to resolve busines fights about what's at the top
+    this solves Business problem not the users problem
+
+Be predictable - keep to conventions - comfortable
+
+Accessibility is not optional
 
 Play at speed
 ADOM

@@ -1,7 +1,7 @@
 https://book.pythontips.com/en/latest/index.html
 
 
-https://black.readthedocs.io/
+[black](https://black.readthedocs.io/)
 [Google StyleGuide](https://google.github.io/styleguide/pyguide.html)
 [pep8](https://www.python.org/dev/peps/pep-0008/)
 
@@ -67,11 +67,11 @@ else:
 
 ```
 
-
+```python
 from itertools import chain, cycle, permutations
 from functools partial, lru_cache, reduce, wraps
 from collections import defaultdict, namedtuple, ChainMap, deque
-
+```
 
 * [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
     * pyenv

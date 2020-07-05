@@ -1,5 +1,21 @@
 https://www.prisma.io/blog/comparison-of-database-models-1iz9u29nwn37
 
+Just use memory?
+
+Redis?
+200ms loss
+Mongo(ohno)db
+My(els)SQL -> MariaDB
+Elastic Search (stemming -> plurals)
+File system
+S3?
+
+Relication (cascade)
+
+Test your backups
+
+
+in browser
 
 
 Activity Idea
@@ -20,3 +36,5 @@ PostgreSQL
 
 
 [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
+
+
