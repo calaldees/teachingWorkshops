@@ -1,17 +1,15 @@
 
-
-```
+```python
 print('Hello World')
-// yeah! comments and shit!
+# yeah! comments and shit!
 ```
 
-```
-func my_life_story() {
+```python
+def my_life_story():
     print('I was born on the moon')
     print('I like eating pizza')
     print('by the age of 12 I was 3 meaters tall')
     print('One day I will visit the sea')
-}
 
 my_life_story()
 print('Hello World')
@@ -20,8 +18,8 @@ my_life_story()
 
 (dynamic langauges - pyhton, php, javascript - just params)
 (static langauges - c, java, vb - need to know type in advance)
-```
-func my_life_story(name) {
+```python
+def my_life_story(name):
     print('my name is')
     print(name)
     print('I was born on the moon')
@@ -30,22 +28,29 @@ func my_life_story(name) {
     print('One day I will visit the sea')
     print('so thats my story - from')
     print(name)
-}
 
 my_life_story('Bobbin')
 ```
 
-
+paper
+```python
+x = 3
+y = 1
+z = x + y
+print(z)
 ```
+
+
+```python
 answer = 12
 print(answer)
 ```
 
 
-```
-func add(a,b) {
+```python
+def add(a,b):
     return a + b
-}
+
 
 answer = add(5, 5)
 print(answer)
@@ -60,13 +65,13 @@ print(answer)
 
 implement multiply
 
-```
-multiply(a,b) {
+```python
+def multiply(a,b):
     ???
-}
-```
 
 ```
+
+```python
 print('give me two number to multiply together')
 a = input('enter first item')
 print('you gave me')
@@ -79,21 +84,19 @@ print(answer)
 ```
 
 (oh no! it string concatinates)
-```
+```python
 a = int(a)
 ```
 
 Modify to Add 3 numbers together
 
 
-```
+```python
 operation = input('what operation do you want to perform (+ or *)')
-if (operation == '+') {
+if (operation == '+'):
     answer = add(a,b)
-}
-if (operation == '*') {
+if (operation == '*'):
     answer = multiply(a,b)
-}
 ```
 
 implement subtract
@@ -102,7 +105,7 @@ try with divide - it breaks
 try with pow - it breaks
 answer = 'unknown'  or 0 in static lanaguage
 
-```
+```c
 if () {}
 else if () {}
 else {}
@@ -111,32 +114,37 @@ else {}
 try with '3.756'
 
 a = float()
+bool?
 
 ---
 
+comments
 output (print)
 input (keyboard)
 
 function/subroutine/method
-function defenition
+function definition
 functions can have a sequence of instructions
-function paramater (optional) [may need type]
+function parameter (optional) [may need type]
 function return (optional)
 
 variable declaration [may need type]
-varibale assignment
+variable assignment
+
+Mathematical operator
+
 datatypes string, int, float
 convert between datatypes
 
 if statement
 
-nested if, nested iteration
+
 
 ---
 
 Set programming project:
     login
-    12h/24h converter
+    image size calculator
 session2: Do session again with staic/dynamic language
 
 

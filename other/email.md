@@ -13,3 +13,5 @@ encryption
 
 spam - reporting
 phishing - reporting
+    drills - sending fake phishing emails to employees regulaly and enhanching training.
+    % of staff that reported the fake phishing emails

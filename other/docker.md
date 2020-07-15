@@ -25,3 +25,7 @@ apt-get clean
 https://www.fromlatest.io/#/
 
 https://medium.com/sciforce/strategies-of-docker-images-optimization-2ca9cc5719b6
+
+Sharing build cache
+https://medium.com/titansoft-engineering/docker-build-cache-sharing-on-multi-hosts-with-buildkit-and-buildx-eb8f7005918e
+https://github.com/moby/buildkit

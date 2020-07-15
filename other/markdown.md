@@ -2,6 +2,7 @@ http://www.lesession.co.uk/abc/abc_notation.htm
 https://stackedit.io/
 
 
+[Markdown CheatSheet](https://devhints.io/markdown)
 
 Presentation software has been refereed to as _slideware jail_.
 

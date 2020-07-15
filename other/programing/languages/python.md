@@ -1,3 +1,29 @@
+python3
+=======
+
+The confusing brackets
+* []
+    * create lists pre-populated
+    * list comprhensions (loops)
+    * selecting (slicing)
+    * selecting from dicts!
+* ()
+    * create tuples pre-populated
+        * ('',) single element!
+        * or (''), !
+    * generators!
+    * Logical grouping
+        * multiline
+* {}
+    * create dicts
+    * dict comprehensions
+    * sets !
+        * not interoperable with dicts?
+    * set comprehentions !
+* <>
+    * no used?
+
+
 https://book.pythontips.com/en/latest/index.html
 
 
@@ -34,7 +60,7 @@ what is the difference between list & tuple -> mutability
 ```
     #aa=[1,2,3];bb=aa;aa=[4,5,6];print(aa,bb)
 
-
+[see interviewquetions.md]
 https://imranontech.com/2007/01/24/using-fizzbuzz-to-find-developers-who-grok-coding/
 https://www.youtube.com/watch?v=QPZ0pIK_wsc
 FizzBuzz
@@ -88,3 +114,7 @@ Advanced Modules
 ----------------
 
 * [Trailtlets](https://github.com/ipython/traitlets) for config
+
+
+
+* [brython](https://brython.info/) - Python3 in the browser instead of javascript

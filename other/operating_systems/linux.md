@@ -8,6 +8,33 @@ Raspberry pi
 -------------
 
 
+```bash
+curl -sSL https://get.docker.com | sh
+sudo usermod -aG docker pi
+
+sudo apt-get remove -y \
+    python-configparser \
+
+sudo apt-get install -y \
+    libffi-dev \
+    libssl-dev \
+    python3 python3-pip \
+    firefox-esr \
+    gimp \
+    p7zip \
+    dosbox \
+    chocolate-doom \
+    exfat-fuse exfat-utils \
+    sshfs \
+
+sudo pip3 -v install \
+    docker-compose
+
+. <( wget -O - https://code.headmelted.com/installers/apt.sh )
+
+ssh-keygen -t rsa
+```
+
 
 * [Raspberry Pi SD Card Speed Test](https://www.raspberrypi.org/blog/sd-card-speed-test/)
 [card advice](https://ototo.fm/best-sd-card-for-raspberry-pi-3/)
