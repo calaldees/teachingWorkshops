@@ -8,8 +8,8 @@
 
 * [Laurie Voss — "Stuff everybody knows except for you" at App Academy](https://www.youtube.com/watch?v=E6k_lfg7aUE) 01:34:32 talk
     * Dunning Kruger
-        * Bottom 25% cant idtentify what good is
-        * Top 75% think they are average
+        * Bottom 25% cant identify what good is
+        * Top 25% think they are average
         * If your worried about how much you don't know - you're not in the bottom 25%
     * Automate everything
         * bash scripts
@@ -20,4 +20,9 @@
     * Much of your job is communication
     * You don't always need an app
     * Perceived performance
-    
+
+
+* [How to Write Technical Posts (so people will read them)](https://reasonablypolymorphic.com/blog/writing-technical-posts/)
+
+TODO: read interesting
+https://succesfeelosophy.wordpress.com/disadvantage-gap-how-to-close-it/

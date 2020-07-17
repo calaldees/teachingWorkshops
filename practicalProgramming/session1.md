@@ -143,9 +143,18 @@ if statement
 ---
 
 Set programming project:
-    login
-    image size calculator
+    Filesize calculator
+    Mark the spec
+    Start login task
 session2: Do session again with staic/dynamic language
 
 
 Show recursive call to `my_life_story()`
+Show keywords cane be used - variables cannot start with number
+```
+if = 3
+return = 4
+1 = 3
+bob1 = 3
+1bob = 3
+```

@@ -86,3 +86,6 @@ Karakara - free - austraila adds new features
 SuperLimitBreak tech stack - free + documented - even is someone copies us - they wont have the ideas
 
 Fab** - testers should not look at code
+
+
+[How to Write Technical Posts (so people will read them)](https://reasonablypolymorphic.com/blog/writing-technical-posts/)

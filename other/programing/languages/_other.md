@@ -16,3 +16,6 @@ Formal Specification
 
 
 [Beginners Guide to Abstraction](https://jesseduffield.com/beginners-guide-to-abstraction/)
+
+
+[Logo Turtle exercises on the web](https://shelly.dev/)
