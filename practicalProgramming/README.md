@@ -23,8 +23,9 @@ Course Structure
     * Foundation skills
 * Later sessions will become much more two way
 
-Every session will be _ridiculously_ hard. (If it's easy then you are not growing)
+Every session will be _ridiculously_ hard: The edge of what you are capable of. (If it's easy then you are not growing).
 95% of the time you are interacting with programs they will be in a broken state.
+
 
 Setup
 -----

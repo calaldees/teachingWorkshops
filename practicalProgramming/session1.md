@@ -1,14 +1,15 @@
 
 ```python
 print('Hello World')
-# yeah! comments and shit!
+# Comments! take notes with these!
+print('Hello World again')
 ```
 
 ```python
 def my_life_story():
     print('I was born on the moon')
     print('I like eating pizza')
-    print('by the age of 12 I was 3 meaters tall')
+    print('by the age of 12 I was 3 meters tall')
     print('One day I will visit the sea')
 
 my_life_story()
@@ -30,6 +31,7 @@ def my_life_story(name):
     print(name)
 
 my_life_story('Bobbin')
+my_life_story('Nobody')
 ```
 
 paper
@@ -51,15 +53,14 @@ print(answer)
 def add(a,b):
     return a + b
 
-
-answer = add(5, 5)
+answer = add(5, 10)
 print(answer)
 ```
 
 ```
-a = 5
-b = 2
-answer = add(a, b)
+x = 3
+y = 1
+answer = add(x, y)
 print(answer)
 ```
 
