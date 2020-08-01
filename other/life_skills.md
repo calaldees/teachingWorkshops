@@ -27,3 +27,4 @@ https://billwadge.wordpress.com/2020/02/06/the-secret-of-academic-success-or-fun
 Economics?
 ----------
 https://thehustle.co/the-economics-of-all-you-can-eat-buffets/
+[Universal Basic Income is Capitalism 2.0](https://timjrobinson.com/universal-basic-income-is-capitalism-2-0/) A beautifully understandable article about demand-constrained capitalism

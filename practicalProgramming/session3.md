@@ -1,3 +1,6 @@
+show java - highlight
+Spec bingo
+
 arrays
 
 ```python
@@ -179,6 +182,9 @@ file read
 file write
 split/join strings
 
+--
+
+Projects
 
 --
 

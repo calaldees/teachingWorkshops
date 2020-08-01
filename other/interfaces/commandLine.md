@@ -1,6 +1,7 @@
 Commandline Training
 ====================
 
+CLI
 
 Terminal
 --------
@@ -62,6 +63,7 @@ wildcards
 
 
 [Editly](https://github.com/mifi/editly) Slick, declarative command line video editing
+[Satellite imagery from command line](https://github.com/plant99/felicette)
 
 
 https://github.com/openautocomplete/openautocomplete

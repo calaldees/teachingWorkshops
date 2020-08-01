@@ -1,4 +1,4 @@
-package practicalProgramming;
+//package practicalProgramming;
 
 import java.util.Scanner;
 

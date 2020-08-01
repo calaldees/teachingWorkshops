@@ -239,6 +239,7 @@ Lesson Topic Ideas
     * [Turn Photos Into Logos with GIMP](https://youtu.be/Yce2ZvGeanY)
     * Color Theory
         * [How To Avoid Equidistant HSV Colors](https://www.vis4.net/blog/2011/12/avoid-equidistant-hsv-colors/)
+        * [7 sets Venn Diagram](http://moebio.com/research/sevensets/) - 128 color combinations from mixing 7 colors
     * Algorithums.md
         * watercolor maps
         * other visulisations? data visulisation?

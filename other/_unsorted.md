@@ -26,3 +26,5 @@
 
 TODO: read interesting
 https://succesfeelosophy.wordpress.com/disadvantage-gap-how-to-close-it/
+
+[Systems design for advanced beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)

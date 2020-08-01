@@ -150,4 +150,7 @@ wireshark - dmx
 (more)
 ------
 
-[When do detentions work?](https://improvingteaching.co.uk/2020/03/01/when-do-detentions-work/)
+* [When do detentions work?](https://improvingteaching.co.uk/2020/03/01/when-do-detentions-work/)
+* [How Inuit Parents Teach Kids To Control Their Anger](https://www.npr.org/sections/goatsandsoda/2019/03/13/685533353/a-playful-way-to-teach-kids-to-control-their-anger)
+    * Role model (calm)
+    * Stories with lots of questions (play)

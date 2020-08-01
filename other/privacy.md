@@ -1,3 +1,6 @@
+Privacy
+=======
+
 [location-tracking-cell-phone](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html)
 https://www.nbcnews.com/news/us-news/google-tracked-his-bike-ride-past-burglarized-home-made-him-n1151761
 
@@ -20,6 +23,7 @@ https://www.seattletimes.com/business/technology/special-sunglasses-license-plat
 
 [I know what torrents your download](https://iknowwhatyoudownload.com/en/peer/)
 
+[Headphones are collecting too much personal data](https://www.soundguys.com/headphones-are-collecting-too-much-personal-data-21524/) - Headphones collect menstruation data?!
 
 Encyription?
 https://latacora.micro.blog/2020/02/19/stop-using-encrypted.html

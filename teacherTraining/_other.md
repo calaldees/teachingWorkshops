@@ -8,3 +8,11 @@ Essential
 Emotionalal
 Functional
 Super-model
+
+
+* [Why Do People Stay Poor?](http://sticerd.lse.ac.uk/dps/eopp/eopp67.pdf)
+    * Povety trap
+    * Large one off payments help escape trap
+
+
+* [Study finds learning music won’t make children smart](https://www.thenational.ae/arts-culture/music/put-down-the-banjo-timmy-study-finds-learning-music-won-t-make-children-smart-1.1055974)

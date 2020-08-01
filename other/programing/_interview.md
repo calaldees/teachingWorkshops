@@ -1,7 +1,7 @@
 Interview Questions
 ===================
 
-* [FizzBuzz](https://imranontech.com/2007/01/24/using-fizzbuzz-to-find-developers-who-grok-coding/)
+* [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz#Programming_interviews) [_](https://imranontech.com/2007/01/24/using-fizzbuzz-to-find-developers-who-grok-coding/)
     * > Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
     * In under 5min (Pro) - in under 10min (A Grade)
     * [Tom Scott commentary and solution](https://www.youtube.com/watch?v=QPZ0pIK_wsc)
