@@ -1,7 +1,11 @@
 Computing: Welcome Meeting
 ==========================
 
-An introduction to the PGCE 7-14, PGCE Secondary and School Direct programmes in Computing 2020 - 2021
+An introduction to the
+  PGCE 7-14,
+  PGCE Secondary and
+  School Direct programmes
+in Computing 2020 - 2021
 
 Subject Tutor for Computing for Secondary ITE, Canterbury Christ Church University
 Allan Callaghan - allan.callaghan@canterbury.ac.uk
