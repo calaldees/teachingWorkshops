@@ -79,6 +79,8 @@ No Teacher is an island - You wont make this journey alone
 * School Mentor
 * Peers
     * 'social coordinators' Organise a WhatAspp group/Facebook page?
+    * Pre-course [Padlet](https://cccu.padlet.org/allancallaghan/sz340htxrake670t)
+        * Some of the other groups have setup a Padlet
 
 You wont have a frame of reference for what 'normal' looks like.
 You wont know what support you are entitled to, or what support you might me lacking.
