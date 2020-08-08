@@ -1,3 +1,7 @@
+Integrated Development Environment (IDE)
+========================================
+
+
 vscode
 https://code.visualstudio.com/docs/getstarted/tips-and-tricks
 
@@ -34,6 +38,9 @@ shift + alt + F12  (find all reference - current file)
 ### characters
 
 Show whitespace - tabs and spaces
-Three types of quotes
-three types of brackets
+Three types of quotes `'" (watch out for unicode fudgeery)
+Four types of brackets <{[(
 Unicode
+
+
+[The best parts of Visual Studio Code are proprietary](https://underjord.io/the-best-parts-of-visual-studio-code-are-proprietary.html) - LiveShare

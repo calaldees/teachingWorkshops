@@ -36,7 +36,6 @@ Who
 * Who am I?
 * Who are you?
     * Introductions
-    * School Direct - Email a Short Bio
 
 
 Subject Pedagogy Sessions

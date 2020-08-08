@@ -28,3 +28,5 @@ TODO: read interesting
 https://succesfeelosophy.wordpress.com/disadvantage-gap-how-to-close-it/
 
 [Systems design for advanced beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
+
+[Hard Subtitles on the Fly from plain text](https://011.video/2020/08/03/burn-video-subtitles-on-the-fly-from-a-plain-text-file/)

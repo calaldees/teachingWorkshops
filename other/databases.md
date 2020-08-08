@@ -17,6 +17,7 @@ Test your backups
 
 in browser
 
+* [drawsql.app](https://drawsql.app/templates) ER diagrams of open source projects
 
 Activity Idea
 -------------
@@ -28,10 +29,9 @@ Mark SQL compitence (no cheating)
 PostgreSQL
 ----------
 
-[Why you (probably) don't need PostGIS](https://blog.rebased.pl/2020/04/07/why-you-probably-dont-need-postgis)
+* [PostgreSQL beginner guide](https://knowledgepill.it/posts/postgresql-basics-guide/) - connecting, remote access, psql CLI and troubleshooting connection
+* [Why you (probably) don't need PostGIS](https://blog.rebased.pl/2020/04/07/why-you-probably-dont-need-postgis)
 
-
-[drawsql.app](https://drawsql.app/templates) ER diagrams of open source projects
 
 
 

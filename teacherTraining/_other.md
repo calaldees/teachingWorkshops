@@ -18,3 +18,4 @@ Super-model
 * [Study finds learning music won’t make children smart](https://www.thenational.ae/arts-culture/music/put-down-the-banjo-timmy-study-finds-learning-music-won-t-make-children-smart-1.1055974)
 
 
+* [The Hacker Way: How I taught my nephew to program](https://stopa.io/post/246)
