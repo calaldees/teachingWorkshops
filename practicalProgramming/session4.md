@@ -7,12 +7,15 @@ Highlight for me:
 * Comparison operator
 * Iteration
 * Variable declaration
+* Use of an Array Index
+* Parameter passing
 
 
-Standard Library
-----------------
+Language Documentation
+----------------------
 
-_The_ source of truth. Everything else is second hand information.
+_The_ source of truth.
+Everything else is second hand information.
 
 Built in Functions
 Built in Types

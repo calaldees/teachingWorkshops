@@ -196,6 +196,8 @@ Lesson Topic Ideas
         * Python
         * Scratch
     * [Which answer in this list is the correct answer to this question?](https://math.stackexchange.com/questions/2217248/which-answer-in-this-list-is-the-correct-answer-to-this-question) Logic
+    * [Paper Plotter](https://felixboiii.github.io/paper-plotter/)
+        * Can young people write code to do this themselves?
 * Biology
     * Conways game of life?
     * [Bacteria Simulation](https://www.youtube.com/watch?v=5UMZVmLt0Bw)
@@ -360,6 +362,7 @@ Using real data is inspiring
         * Live Realtime
             * [Lightening Maps](https://www.lightningmaps.org/)
             * [Windy.com](https://www.windy.com/)
+            * [Rain-dar](https://meteoradar.co.uk/realtime-rainradar)
 
 
 https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Rainfall/date/England_SE_and_Central_S.txt

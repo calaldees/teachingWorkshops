@@ -510,3 +510,13 @@ Activity: Code Jenga
     * A network of support
 * Relevant to learners (your needs are different from other teachers)
     * differentiation -> personalized
+
+
+https://www.youtube.com/watch?v=J25d9aC1GZA
+Comments
+Jay S
+> I had the misfortune to have to sit through a 2 day lecture of his, insisted upon by my employer.
+One thing I have learned during my 17 years in education is avoid Death by Power Point, and that is exactly what this guy did. I lost count of the amount of slides we went through. The college I work at sat 120 of us in front of him.  Never in my career have I seen someone actually nod off during a training lecture, but a guy at a table nearby did exactly that.
+> He lost people's attention within 30 minutes.
+> I've no doubt this man is highly intelligent and well respected but his presentation methods that day were awful. If I had done what he done in front of Estyn inspectors I'd have got my department sanctioned and I'd have been in front of HR.
+

@@ -9,27 +9,31 @@ Raspberry pi
 
 
 ```bash
-curl -sSL https://get.docker.com | sh
-sudo usermod -aG docker pi
-
 sudo apt-get remove -y \
     python-configparser \
 
 sudo apt-get install -y \
     libffi-dev \
     libssl-dev \
-    python3 python3-pip \
+    python3 \
+    python3-pip \
     firefox-esr \
     gimp \
     p7zip \
-    dosbox \
-    chocolate-doom \
     exfat-fuse exfat-utils \
     sshfs \
+    dosbox \
+    chocolate-doom \
+    mame \
 
+    #webbrowser (need to upgrade for recent chomium)
+
+curl -sSL https://get.docker.com | sh
+sudo usermod -aG docker pi
 sudo pip3 -v install \
     docker-compose
 
+# vscode
 . <( wget -O - https://code.headmelted.com/installers/apt.sh )
 
 ssh-keygen -t rsa
@@ -47,8 +51,8 @@ external hd
     * [HDMI Screen](https://www.amazon.co.uk/dp/B016UPDUBO/) £65
     * [Logitec Keyboard](https://www.amazon.co.uk/Logitech-Business-Keyboard-Windows-Linux/dp/B003ZY9Z40/) £9
     * [Logitex Mouse](https://www.amazon.co.uk/Logitech-Optical-Ambidextrous-Mouse-Windows/dp/B00AZKNPZC) £5
-* Pi 4 B+ (£54 or £74)
-    * [Pi 4](https://thepihut.com/collections/raspberry-pi/products/raspberry-pi-4-model-b) £34 £54
+* Pi 4 B+
+    * [Pi 4](https://thepihut.com/collections/raspberry-pi/products/raspberry-pi-4-model-b) (£34 2GB £54 4GB or £74 8GB)
     * [Power](https://thepihut.com/collections/raspberry-pi-power-supplies/products/raspberry-pi-psu-uk) £8
     * [Heatsink Case](https://thepihut.com/collections/raspberry-pi-cases/products/aluminium-armour-heatsink-case-for-raspberry-pi-4) £12
 * Pi Zero W (£31)

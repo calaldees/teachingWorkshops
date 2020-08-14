@@ -10,11 +10,9 @@ Interupt handlers
 computers
 ---------
 
-IBM PC
-
-
+IBM PC - 8086
 http://www.righto.com/2020/06/die-shrink-how-intel-scaled-down-8086.html
-
+http://www.righto.com/2020/08/latches-inside-reverse-engineering.html
 
 
 retro consoles

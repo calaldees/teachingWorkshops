@@ -19,3 +19,7 @@ Super-model
 
 
 * [The Hacker Way: How I taught my nephew to program](https://stopa.io/post/246)
+
+* [Science Must Fall](https://www.youtube.com/watch?v=C9SiRNibD14) - madness
+
+* [Young children would rather explore than get rewards](https://news.osu.edu/young-children-would-rather-explore-than-get-rewards/)

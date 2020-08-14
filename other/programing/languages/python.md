@@ -1,10 +1,12 @@
 python3
 =======
 
+[Learn Python for Data Science](https://github.com/blobcity/python-for-data-science) - Basics of python in juyter notebooks
+
 The confusing brackets
 * []
     * create lists pre-populated
-    * list comprhensions (loops)
+    * list comprehensions (loops)
     * selecting (slicing)
     * selecting from dicts!
 * ()
@@ -19,7 +21,7 @@ The confusing brackets
     * dict comprehensions
     * sets !
         * not interoperable with dicts?
-    * set comprehentions !
+    * set comprehensions !
 * <>
     * no used?
 
