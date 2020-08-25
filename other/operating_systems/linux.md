@@ -23,8 +23,8 @@ sudo apt-get install -y \
     exfat-fuse exfat-utils \
     sshfs \
     dosbox \
-    chocolate-doom \
     mame \
+    chocolate-doom \
 
     #webbrowser (need to upgrade for recent chomium)
 
@@ -35,6 +35,9 @@ sudo pip3 -v install \
 
 # vscode
 . <( wget -O - https://code.headmelted.com/installers/apt.sh )
+
+# screen tearing fix - https://www.youtube.com/watch?v=RRyj1tzvfOg
+sudo rm /etc/xdg/autostart/xcompmgr.desktop
 
 ssh-keygen -t rsa
 ```

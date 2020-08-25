@@ -105,3 +105,6 @@ Session4
 * linter
 
 * tests first!
+
+
+[#1 Thing to Learn to Become a Self-Taught Programmer](https://youtu.be/sYjEzOIa5JI?t=83) - Your knowlege of the syntax wont get you the job. The ability to produce a desired outcome will.

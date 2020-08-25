@@ -171,6 +171,7 @@ Lesson Topic Ideas
         * [github.com/junyanz/interactive-deep-colorization](https://github.com/junyanz/interactive-deep-colorization)
             * Used to be the work of skilled image editing professionals
             * Now AI tools allow anyone to do this
+        * [[4k, 60 fps] A Trip Through New York City in 1911](https://www.youtube.com/watch?v=hZ1OgQL9_Cw)
     * History of Computing Timeline
         * TODO:
         * [BBC - Computer Literacy Project 1980-1989](https://clp.bbcrewind.co.uk/)

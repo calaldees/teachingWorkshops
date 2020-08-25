@@ -135,9 +135,15 @@ Rough grading
 * Resilience
     * Demonstrates an ability to manage and adapt to stressful situations (e.g. change)
     * Can provide examples of times when workload and numerous tasks have been managed concurrently
-    *Listens to advice and takes responsibility for own actions
+    * Listens to advice and takes responsibility for own actions
 * Safeguarding
     * Is able to demonstrate a commitment to keeping children safe and the capacity to develop the skills and knowledge to do this
     * Can demonstrate how to keep themselves safe
 
+Tracking Spreadsheet has different criteria:
+* Subject Knowledge, Enthusiasm, Development
+* Child Centred Approach
+* Resilience, dedication, sense of purpose
+* Creative and critical thinking
+* Reflective in response to feedback
 
