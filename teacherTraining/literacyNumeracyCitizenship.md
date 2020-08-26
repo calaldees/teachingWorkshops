@@ -41,9 +41,10 @@ What is the tipping point from _'just using words that scientists use'_ and _'ta
 * Age 16 - 1 in 12 students has a working vocabulary of 800 words
 * An average graduate has a vocabulary of 20,000 words
 
-Matthew effect
+* [Matthew principle/effect](https://en.wikipedia.org/wiki/Matthew_effect) - accumulated advantage (e.g. rich get richer)
+* [Why does writing matter in remote work?](http://www.timcasasola.com/blog/writing)
+* [How to write in plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html)
 
-[Why does writing matter in remote work?](http://www.timcasasola.com/blog/writing)
 
 #### Activity: Imagine
 1min silence. Close your eyes. Imagine you lived in this world but were not literate. What things would it impair you doing?

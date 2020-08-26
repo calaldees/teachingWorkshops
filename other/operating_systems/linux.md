@@ -9,6 +9,10 @@ Raspberry pi
 
 
 ```bash
+sudo apt-get update &&\
+sudo apt-get upgrade -y &&\
+sudo apt-get dist-upgrade -y
+
 sudo apt-get remove -y \
     python-configparser \
 
@@ -17,6 +21,7 @@ sudo apt-get install -y \
     libssl-dev \
     python3 \
     python3-pip \
+    webbrowser \
     firefox-esr \
     gimp \
     p7zip \
@@ -36,8 +41,10 @@ sudo pip3 -v install \
 # vscode
 . <( wget -O - https://code.headmelted.com/installers/apt.sh )
 
-# screen tearing fix - https://www.youtube.com/watch?v=RRyj1tzvfOg
-sudo rm /etc/xdg/autostart/xcompmgr.desktop
+# screen tearing fix - https://www.youtube.com/watch?v=6xiRUyOF7fM
+sudo mv /etc/xdg/autostart/xcompmgr.desktop /etc/xdg/autostart/xcompmgr.desktop.backup
+
+#sudo raspi-config
 
 ssh-keygen -t rsa
 ```
