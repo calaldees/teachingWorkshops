@@ -9,6 +9,7 @@ Orientation to programme requirements, culture and expectations
 
 
 ### Ind 1 (PGCE/SD)
+Thursday 10th September
 
 * ‘Professional purpose’ or ‘Vision’; why are you here?
 * Expectations of engagement and conduct
@@ -29,6 +30,7 @@ Induction to programme materials, structure and professional engagement
     * Understand the route through training and education that is prepared for them, and their role in that training and education
 
 ### SP1 (PGCE/SD)
+Friday 11th September (Campus)
 
 * Introductions
 * What is Computer Science?
@@ -43,8 +45,11 @@ Induction to programme materials, structure and professional engagement
 * Preparing students for a future we are unsure of
 * The burden of learning to teach. Support and expectations.
 
+Set async work for SP3
+
 
 ### Ind 2 (PGCE) (Pre-Planned)
+Monday 14th September (Online)
 
 * What do we know about the process of becoming a teacher? What is a professional? What if I don’t agree?
 * Resilience
@@ -66,6 +71,7 @@ Beginning to identify values and ideals, core knowledge and essential characteri
     * Development of subject; Subject Knowledge and Pedagogical Content Knowledge
 
 ### SP2 (PGCE)
+Tuesday 15th September (Campus)
 
 * What is a Computer Science teacher?
 * What is Computer Science specific pedagogy?
@@ -76,6 +82,7 @@ Beginning to identify values and ideals, core knowledge and essential characteri
 * Set SP assignment
 
 ### Ind 3 (PGCE) (Pre-Planned)
+Thursday 17th September (Online)
 
 * Who am I?
 * How do my ideological/values/beliefs shape my perception of what a teacher is?
@@ -94,6 +101,8 @@ What is education?
     * Understand the key factors that frame and contextualise education in the region
 
 ### SP3 (PGCE/SD)
+Friday 18th September (Online)
+
 * AM (Pre-Planned)
     * CTP introduction
     * What is education in my setting?
@@ -108,7 +117,11 @@ What is education?
     * How has the subject of Computing has changed in education over the years (in school and society)
     * Task: School research. Preparation for SP4
 
+Thursday 24th September - Replacement for Placement
+
 ### SP4 (PGCE/SD)
+Friday 25th September (Campus)
+
 * What, and how, has teaching and learning of subject been affected in this area/my placement school?
 * What are current subject practices?
 * What are the skills of reasoning and problem solving in Computer Science and how are computing departments addressing these?
@@ -130,6 +143,8 @@ Developing an understanding of how children learn and the different interpretati
 
 
 ### SP5 (PGCE/SD)
+Friday 2nd October (Online)
+
 * AM (Pre-Planned)
     * How does learning happen?
     * Theory, research, science, psychology, constructivism, motivation
@@ -151,6 +166,8 @@ Developing an understanding of how children learn and the different interpretati
 
 
 ### SP6 (PGCE/SD)
+Friday 9th October (Online)
+
 * AM (Pre-Planned)
     * Behaviour for Learning and behaviour management;
     * Child and adolescent behaviour
@@ -172,6 +189,8 @@ Developing an understanding of how children learn and the different interpretati
         * reinforcing routines, including through positive reinforcement
 
 ### SP7 (PGCE)
+Friday 16th October (Campus)
+
 * AM
     * Microteaching Presentations
     * Effective pedagogical and theoretical approaches to Computing
@@ -185,6 +204,8 @@ Developing an understanding of how children learn and the different interpretati
         * How can principles of Computing be used in other subjects
 
 ### SP8 (PGCE/SD)
+Friday 23rd October (Campus)
+
 * Questioning
     * Asking not telling
     * Pupil lead learning/enquiry? Constructivism?
@@ -193,6 +214,7 @@ Developing an understanding of how children learn and the different interpretati
     * version-control
 * eLearning environments and tools
 
+Monday 26th October - Academic Development Week
 
 What does ‘inclusion’ really mean?
 ----------------------------------
@@ -205,6 +227,8 @@ Understanding inclusion and the key strategies that create and hinder an inclusi
     * Plan for inclusive learning; responding to and meeting the needs of all learners
 
 ### SP9 (PGCE/SD)
+Friday 6th November (Online)
+
 * AM (Pre-Planned)
     * Supporting learning - What is inclusion?
     * What is differentiation?
@@ -220,7 +244,12 @@ Understanding inclusion and the key strategies that create and hinder an inclusi
     * Use of data to aid planning of inclusion
         * What might this mean in the context of Computing
 
+9th November SEN week
+16th November - Developing Teaching Phase (School Placement)
+
 ### SP10 (PGCE/SD)
+Friday 27th November (Campus)
+
 * AM
     * Planning for inclusion - key strategies in Computing
     * Discussion: Segregation to improve inclusion?
@@ -238,6 +267,8 @@ Understanding inclusion and the key strategies that create and hinder an inclusi
     * Access to computing tools (the class divide and resourcing)
 
 ### SP11 (PGCE/SD)
+Friday 4th December (Campus)
+
 * Understanding primary education in Computing
     * Utilise strategies for primary teaching as a vehicle/inspiration to engage with a secondary pupils
 * Computing unplugged - Computing concepts without a computer
@@ -254,6 +285,8 @@ Structuring learning that is informed and supported by assessment
     * Secure learning and progress for all learners
 
 ### SP12 (PGCE/SD)
+Friday 11th December (Online)
+
 * AM (Pre-Planned)
     * AfL AofL and AofL used formatively
     * Data and evaluation of learning; Being busy v learning

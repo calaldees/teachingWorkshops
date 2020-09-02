@@ -10,8 +10,17 @@ Raspberry pi
 
 ```bash
 sudo apt-get update &&\
-sudo apt-get upgrade -y &&\
-sudo apt-get dist-upgrade -y
+sudo apt-get full-upgrade -y
+#sudo apt-get dist-upgrade -y
+sudo rpi-update
+
+# https://www.tomshardware.com/uk/how-to/boot-raspberry-pi-4-usb
+sudo nano /etc/default/rpi-eeprom-update
+#FIRMWARE_RELEASE_STATUS value from "critical" to "stable."
+sudo rpi-eeprom-update -d -a
+vcgencmd bootloader_version
+
+
 
 sudo apt-get remove -y \
     python-configparser \

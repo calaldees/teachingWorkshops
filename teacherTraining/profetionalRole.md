@@ -162,3 +162,6 @@ Get revenue for it.
 Get satisfaction from it.
 Use the extra financial capability to fund what you want to do. Be it travelling, starting a family, facilitating your own creative projects or adventures.
 If they don't get a career and contribute back to society they are going to have problems.
+
+
+See [Conversations with Young People] for more - Stop giving them advice about a future you know nothing about

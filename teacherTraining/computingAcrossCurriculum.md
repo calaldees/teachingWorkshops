@@ -385,6 +385,8 @@ Not directly related to an established school subject.
     * [Bruises — The Data We Don’t See](https://medium.com/@giorgialupi/bruises-the-data-we-dont-see-1fdec00d0036)
         * Artistic humanisation of data though charts and music through a child's illness and feelings
     * [Why scientists need to be better at data visualization](https://www.knowablemagazine.org/article/mind/2019/science-data-visualization)
+    * [Unusual maps](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0002yI)
+        * Not directly Computing; but huge variety of interesting visualisations
 * Simulation
     * [HASH.ai](https://hash.ai/) free online platform for assembling models of the world
         * Solving Problems Traditional Data Science Can’t with Agent based simulations
@@ -514,6 +516,7 @@ re.search(r'AC[AG].GT[AT]{5,6}AAA', dna)
 ### Conways Game of Life
 
 * [Conway's game of life](http://www.conwaylife.com/)
+* [The Recursive Universe](http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/)
 * [Conway basic patterns](http://pi.math.cornell.edu/~lipa/mec/lesson6.html)
 * [Build a working game of Tetris in Conway's Game of Life](https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life)
 * Web Based Examples

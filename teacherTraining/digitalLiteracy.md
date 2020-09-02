@@ -59,9 +59,10 @@ Activity: What can you expect someone with Digital Literacy to be able to do?
 
 ### Evaluating sources of information
 
-Most of the education about digital literacy focus on information analysis
+Most of the education about digital literacy focus on information analysis.
 
 The English curriculum doesn't mention the internet, source, digital or media.
+'Assessing the quality of an information source' is now been moved into the realm of the Computing curriculum.
 
 Access to information is not a problem anymore - how to find and use it IS.
 Regardless of subject, the skill is how to locate and use information.
@@ -69,7 +70,11 @@ Regardless of subject, the skill is how to locate and use information.
 * [evaluating-internet-content](https://www.library.georgetown.edu/tutorials/research-guides/evaluating-internet-content)
 * [CRAAP Test](https://ucsd.libguides.com/preuss/webeval)
 * [Why we need a new approach to teaching digital literacy](https://journals.sagepub.com/doi/abs/10.1177/0031721718762419?journalCode=pdka)
-> the main approach has been to provide students with checklists they can use to assess the credibility of individual websites. However, the checklist approach is outdated. It would be far better to teach young people to follow the lead of professional fact-checkers: When confronted by a new and unfamiliar website, they begin by looking elsewhere on the web, searching for any information that might shed light on who created the site in question and for what purpose.
+> the main approach has been to provide students with checklists they can use to assess the credibility of individual websites. 
+> However, the checklist approach is outdated. 
+> It would be far better to teach young people to follow the lead of professional fact-checkers: When confronted by a new and unfamiliar website, they begin by looking elsewhere on the web, searching for any information that might shed light on who created the site in question and for what purpose.
+
+[Google, the Stupidity Amplifier](http://www.gregegan.net/ESSAYS/GOOGLE/Google.html): Greg Egan is an Australian science fiction writer
 
 This is agnostic of Computing?
 

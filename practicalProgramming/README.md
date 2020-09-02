@@ -100,11 +100,38 @@ Session4
 * dictionarys/maps/associative arrays
 * data structures
 
-* Version control
 * debugger
 * linter
 
 * tests first!
+
+Session 5
+---------
+
+* Version control
+* Collaboration (live Share)
+
+Session 6
+---------
+
+You drive
+
+Session 7
+---------
+
+Copter (in JS)
+(finished base) + suggested level and parallax
+
+
+Session 8
+---------
+
+You drive
+
+Spec bingo
+Prepare progress assessment
+I will inspect your entire GitHub repo to date and offer feedback on progress
+Submitting a project - whats required
 
 
 [#1 Thing to Learn to Become a Self-Taught Programmer](https://youtu.be/sYjEzOIa5JI?t=83) - Your knowlege of the syntax wont get you the job. The ability to produce a desired outcome will.

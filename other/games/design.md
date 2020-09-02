@@ -7,3 +7,5 @@ flappy birds
 
 
 [Thief vs. AAA Gaming](https://www.youtube.com/watch?v=jPqwDGXxLhU&feature=emb_logo) Warning - motion sickness
+
+[Game Design Curriculum](https://www.riotgames.com/en/urf-academy/curriculum-guide) Riot Games
