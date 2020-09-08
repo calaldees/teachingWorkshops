@@ -1,13 +1,19 @@
 
 PGCE/SD Advice
+==============
+
+Below are comments made by students at the end of their PGCE
 
 
+July 2020
+---------
 
 Take one week at a time otherwise you'll feel overwhelmed. Try to do the academic reading for 1h at the weekend, 
 so regular activity will make it substantial after a few months! The rhythm and amount of work will feel like a slow start 
 but will seriously increase by November! You will get better... you're also learning like your students! 
 If you feel that you can't cope, talk to your mentor at school or your tutor at uni, they're here to help you!
 There's always a solution...
+
 
 The uni needs to change the order of the assignments, the research assignment was introduced in November but due in April.
 The subject assignment was introduced at the same time, in December but due in February.
@@ -33,25 +39,26 @@ Being able to be empathic might be your strongest asset as a teacher.
 
 
 Opening statement to PGCE Students
-	It’s not about your knowledge, it’s about ensuring that students gain the knowledge and love of the subject.
-	Learn the techniques for controlling a class – students aren’t adults. Ensure you provide a good/safe environment for students to learn.
-	Try and build a good relationship with your mentor and the department you’re working with.
-	Even experienced teachers make mistakes so don’t be too hard on yourself.
-	Good software development is about re-use – so use existing resources as a base, don’t create them from scratch.
-	Don’t leave it to the last minute to collate evidence for your bundles. 
+* It’s not about your knowledge, it’s about ensuring that students gain the knowledge and love of the subject.
+* Learn the techniques for controlling a class – students aren’t adults. Ensure you provide a good/safe environment for students to learn.
+* Try and build a good relationship with your mentor and the department you’re working with.
+* Even experienced teachers make mistakes so don’t be too hard on yourself.
+* Good software development is about re-use – so use existing resources as a base, don’t create them from scratch.
+* Don’t leave it to the last minute to collate evidence for your bundles. 
+
 
 What could Christ Church do differently?
 Subject Computer Science Teaching Element
-	More focus on what good looks like?
-o	Lesson planning
-o	Lesson & SKE content
-o	Lesson objectives
-o	Lesson delivery
-	More focus on behaviour management?
-	More focus on which computer science pedagogy works? 
-o	Show examples of these and explain why?
-	Impression – seemed to be a lack of science behind what we were being shown in some of the lectures.
-Assignments
-	Again, no clear examples of what distinction, merit or good looks like.
-	Some of the directions were nebulous.
-	Some of the material in the epistemic lectures seemed woolly. 
+* More focus on what good looks like?
+    * Lesson planning
+    * Lesson & SKE content
+    * Lesson objectives
+    * Lesson delivery
+* More focus on behaviour management?
+* More focus on which computer science pedagogy works? 
+    * Show examples of these and explain why?
+* Impression – seemed to be a lack of science behind what we were being shown in some of the lectures.
+* Assignments
+    * Again, no clear examples of what distinction, merit or good looks like.
+    * Some of the directions were nebulous.
+    * Some of the material in the epistemic lectures seemed woolly. 

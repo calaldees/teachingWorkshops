@@ -1,11 +1,24 @@
 Jornals
 -------
 
-[Computational Thinking Educational Policy Initiatives (CTEPI) Across the Globe](https://link.springer.com/article/10.1007/s11528-019-00384-4)
+* [Computational Thinking Educational Policy Initiatives (CTEPI) Across the Globe](https://link.springer.com/article/10.1007/s11528-019-00384-4)
+* [Measuring Success in Education: The Role of Effort on the Test Itself](https://www.aeaweb.org/articles?id=10.1257/aeri.20180633) Comparison of Shanghi and US Math tests with effort
+
+Blog
+----
+
+* [COVID-19 Learning Loss: What We Know and How to Move Forward](https://blogs.edweek.org/edweek/rick_hess_straight_up/2020/08/covid-19_learning_loss_what_we_know_and_how_to_move_forward.html)  Dylan Wiliam
+    * > The most important single factor influencing learning is what the learner already knows. Ascertain this and teach [...] accordingly
+    * David Ausubel over 50 years ago
+
+
+Business practice: Use GitHub/GitLab Permalinks 
+[Why I Link to WayBackMachine Instead of Original Site](https://hawaiigentech.com/post/commentary/why-i-link-to-waybackmachine-instead/)
 
 
 Session Notes
 -------------
+
 
 
 
@@ -48,6 +61,11 @@ The other subjects will be looking at us as beakons of good technology practice
 
 * I am in infalable - I may give you incorrect or out of date information
 
+
+
+* DfE [Keeping children safe in education](https://www.gov.uk/government/publications/keeping-children-safe-in-education--2)
+    * Training is your placement schools responsibility (as each instutution will operate differently)
+    * This course provides suplemental information
 
 
 

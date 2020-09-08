@@ -30,7 +30,7 @@ Induction to programme materials, structure and professional engagement
     * Understand the route through training and education that is prepared for them, and their role in that training and education
 
 ### SP1 (PGCE/SD)
-Friday 11th September (Campus)
+Friday 11th September (Campus) - Week 2 - Lg14(IT)
 
 * Introductions
 * What is Computer Science?
@@ -71,7 +71,7 @@ Beginning to identify values and ideals, core knowledge and essential characteri
     * Development of subject; Subject Knowledge and Pedagogical Content Knowledge
 
 ### SP2 (PGCE)
-Tuesday 15th September (Campus)
+Tuesday 15th September (Campus) - Week 3a - ???
 
 * What is a Computer Science teacher?
 * What is Computer Science specific pedagogy?
@@ -101,7 +101,7 @@ What is education?
     * Understand the key factors that frame and contextualise education in the region
 
 ### SP3 (PGCE/SD)
-Friday 18th September (Online)
+Friday 18th September (Online) - Week 3b
 
 * AM (Pre-Planned)
     * CTP introduction
@@ -120,7 +120,7 @@ Friday 18th September (Online)
 Thursday 24th September - Replacement for Placement
 
 ### SP4 (PGCE/SD)
-Friday 25th September (Campus)
+Friday 25th September (Campus) - Week 4 - Lg14(IT)
 
 * What, and how, has teaching and learning of subject been affected in this area/my placement school?
 * What are current subject practices?
@@ -143,7 +143,7 @@ Developing an understanding of how children learn and the different interpretati
 
 
 ### SP5 (PGCE/SD)
-Friday 2nd October (Online)
+Friday 2nd October (Online) - Week 5
 
 * AM (Pre-Planned)
     * How does learning happen?
@@ -166,7 +166,7 @@ Friday 2nd October (Online)
 
 
 ### SP6 (PGCE/SD)
-Friday 9th October (Online)
+Friday 9th October (Online) - Week 6
 
 * AM (Pre-Planned)
     * Behaviour for Learning and behaviour management;
@@ -189,7 +189,7 @@ Friday 9th October (Online)
         * reinforcing routines, including through positive reinforcement
 
 ### SP7 (PGCE)
-Friday 16th October (Campus)
+Friday 16th October (Campus) - Week 7 - ??
 
 * AM
     * Microteaching Presentations
@@ -204,7 +204,7 @@ Friday 16th October (Campus)
         * How can principles of Computing be used in other subjects
 
 ### SP8 (PGCE/SD)
-Friday 23rd October (Campus)
+Friday 23rd October (Campus) - Week 8 - Lg14(IT)
 
 * Questioning
     * Asking not telling
@@ -227,7 +227,7 @@ Understanding inclusion and the key strategies that create and hinder an inclusi
     * Plan for inclusive learning; responding to and meeting the needs of all learners
 
 ### SP9 (PGCE/SD)
-Friday 6th November (Online)
+Friday 6th November (Online) - Week 10
 
 * AM (Pre-Planned)
     * Supporting learning - What is inclusion?
@@ -248,7 +248,7 @@ Friday 6th November (Online)
 16th November - Developing Teaching Phase (School Placement)
 
 ### SP10 (PGCE/SD)
-Friday 27th November (Campus)
+Friday 27th November (Campus) - Week 13 - Lg14(IT)
 
 * AM
     * Planning for inclusion - key strategies in Computing
@@ -267,7 +267,7 @@ Friday 27th November (Campus)
     * Access to computing tools (the class divide and resourcing)
 
 ### SP11 (PGCE/SD)
-Friday 4th December (Campus)
+Friday 4th December (Campus) - Week 14 - Lg14(IT)
 
 * Understanding primary education in Computing
     * Utilise strategies for primary teaching as a vehicle/inspiration to engage with a secondary pupils
@@ -285,7 +285,7 @@ Structuring learning that is informed and supported by assessment
     * Secure learning and progress for all learners
 
 ### SP12 (PGCE/SD)
-Friday 11th December (Online)
+Friday 11th December (Online) - Week 15
 
 * AM (Pre-Planned)
     * AfL AofL and AofL used formatively

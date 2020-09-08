@@ -9,12 +9,13 @@ Raspberry pi
 
 
 ```bash
-sudo apt-get update &&\
+sudo apt-get update
 sudo apt-get full-upgrade -y
 #sudo apt-get dist-upgrade -y
 sudo rpi-update
 
 # https://www.tomshardware.com/uk/how-to/boot-raspberry-pi-4-usb
+# TODO make this modify file with sed?
 sudo nano /etc/default/rpi-eeprom-update
 #FIRMWARE_RELEASE_STATUS value from "critical" to "stable."
 sudo rpi-eeprom-update -d -a
@@ -44,8 +45,7 @@ sudo apt-get install -y \
 
 curl -sSL https://get.docker.com | sh
 sudo usermod -aG docker pi
-sudo pip3 -v install \
-    docker-compose
+sudo pip3 -v install docker-compose
 
 # vscode
 . <( wget -O - https://code.headmelted.com/installers/apt.sh )
@@ -60,8 +60,10 @@ ssh-keygen -t rsa
 
 
 * [Raspberry Pi SD Card Speed Test](https://www.raspberrypi.org/blog/sd-card-speed-test/)
-[card advice](https://ototo.fm/best-sd-card-for-raspberry-pi-3/)
-    * Example (at time) [Class 10 16GB £3.26](https://www.amazon.co.uk/dp/B07YGZHSJS/?coliid=I2SMDR17QGNW6P)
+* [card advice](https://ototo.fm/best-sd-card-for-raspberry-pi-3/)
+    * Example (at time) [Class 10 16GB £3.26](https://www.amazon.co.uk/dp/B07YGZHSJS/)
+* [USB3 Boot](https://www.tomshardware.com/uk/how-to/boot-raspberry-pi-4-usb) Firmware update June2020
+    * [USB3 Storage](https://www.amazon.co.uk/gp/product/B07FD8H2KD/) £15
 
 external hd
 
@@ -70,10 +72,11 @@ external hd
     * [HDMI Screen](https://www.amazon.co.uk/dp/B016UPDUBO/) £65
     * [Logitec Keyboard](https://www.amazon.co.uk/Logitech-Business-Keyboard-Windows-Linux/dp/B003ZY9Z40/) £9
     * [Logitex Mouse](https://www.amazon.co.uk/Logitech-Optical-Ambidextrous-Mouse-Windows/dp/B00AZKNPZC) £5
-* Pi 4 B+
+* Pi 4 B+ (£89)
     * [Pi 4](https://thepihut.com/collections/raspberry-pi/products/raspberry-pi-4-model-b) (£34 2GB £54 4GB or £74 8GB)
     * [Power](https://thepihut.com/collections/raspberry-pi-power-supplies/products/raspberry-pi-psu-uk) £8
     * [Heatsink Case](https://thepihut.com/collections/raspberry-pi-cases/products/aluminium-armour-heatsink-case-for-raspberry-pi-4) £12
+    * [USB3 Storage 64GB](https://www.amazon.co.uk/gp/product/B07FD8H2KD/) £15
 * Pi Zero W (£31)
     * [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/) £10
     * [Pi Zero Clear Case + adaptors](https://www.amazon.co.uk/GeeekPi-Raspberry-Starter-Heatsink-Screwdriver/dp/B07MGFRHHR/) £7

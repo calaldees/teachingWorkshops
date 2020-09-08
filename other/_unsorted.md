@@ -34,3 +34,10 @@ https://succesfeelosophy.wordpress.com/disadvantage-gap-how-to-close-it/
 
 [How long does a freezer stay frozen when the power goes out](https://woodgears.ca/heating/freezer.html) - Raspberry PI to measure freezer temperature (scientific method)
 [The periodic table, colour coded by the likely origin of each element](https://twitter.com/olivertlord/status/1292562140776271872)
+
+
+
+
+Probably some good stuff in here
+Top Ranked Hackernews Articles
+https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis

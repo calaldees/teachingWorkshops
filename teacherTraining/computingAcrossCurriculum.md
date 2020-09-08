@@ -215,6 +215,7 @@ Lesson Topic Ideas
     * [LondonStockExchange Simulator](https://www.londonstockexchange.com/global/portfolio/portfolio-and-trading-simulator.htm)
 * Economics
     * [rolesia.com](https://www.rolesia.com/) - Country Economics Simulator
+    * [visualcapitalist.com](https://www.visualcapitalist.com/) Visualisae our economy
 * Art
     * Animation
         * 2D
@@ -247,6 +248,7 @@ Lesson Topic Ideas
         * watercolor maps
         * other visulisations? data visulisation?
     * [generative artistry](https://generativeartistry.com/)
+    * The field of Data Visualisation (TODO: crosslink)
 * Languages
     * English Grammar
         * [grammar.py](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/data/grammar.py)
@@ -268,6 +270,14 @@ Lesson Topic Ideas
         * [SuperMemo](https://www.supermemo.com/en) - Spaced repetition
 * RE
     * Turing test - rise of AI - what rights do they need?
+* PE
+    * Fitness Personal traininer data
+        * TODO
+    * Visual coach - technique slow mo frames
+        * TODO - example
+    * Simulation + Probablisic model of tennis player technique based on data
+        * [Controllable Video Sprites that Behave and Appear like Professional Tennis Players](https://cs.stanford.edu/~haotianz/research/vid2player/)
+            * Shadow + cropped sprite correction
 * DT
     * CAD/CAM
         * eaxamples?
@@ -290,7 +300,9 @@ Lesson Topic Ideas
         * Arpegiation - color? image? - taktile
     * tune in code
         * 440hz
-    * [Ableton LearningMusicInteractive](https://learningmusic.ableton.com/)
+    * Ableton
+        * [Learning Music](https://learningmusic.ableton.com/)
+        * [Learning Synths](https://learningsynths.ableton.com/)
     * [Sonic Pi](https://sonic-pi.net/)
         * Example lessons and teacher resources
     * [Synthesizer Basics: Amplitude, Oscillators, Timbre](https://www.youtube.com/watch?v=c3udLCvoCC0)
@@ -377,11 +389,13 @@ Discipline's
 ------------
 
 Not directly related to an established school subject.
+(Where does visuisation go? It's like 'where does Geology exist in STEM?')
 
 * [Data Visualisation](https://en.wikipedia.org/wiki/Data_visualization)
     * [Information Is Beautiful](https://informationisbeautiful.net/)
     * [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
     * [xkcd Visualisations](http://www.vislives.com/2011/10/xkcd-visualizations.html)
+    * [visualcapitalist.com](https://www.visualcapitalist.com/)
     * [Bruises — The Data We Don’t See](https://medium.com/@giorgialupi/bruises-the-data-we-dont-see-1fdec00d0036)
         * Artistic humanisation of data though charts and music through a child's illness and feelings
     * [Why scientists need to be better at data visualization](https://www.knowablemagazine.org/article/mind/2019/science-data-visualization)

@@ -132,6 +132,13 @@ Spec bingo
 Prepare progress assessment
 I will inspect your entire GitHub repo to date and offer feedback on progress
 Submitting a project - whats required
+Doctest with pytest
+```python
+def add(a, b):
+    """
+    """
+    return 0
+```
 
 
 [#1 Thing to Learn to Become a Self-Taught Programmer](https://youtu.be/sYjEzOIa5JI?t=83) - Your knowlege of the syntax wont get you the job. The ability to produce a desired outcome will.
