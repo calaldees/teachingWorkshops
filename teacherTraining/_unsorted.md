@@ -37,23 +37,12 @@ Blended Learning
     * Why should we do it?
     * Feels unconfortable at first
 
-* Every session has progress and evidence
-    * You come away with actions
-    * Reflections are recorded
-    * Educator has evidence of progress
-        * Record comments on each students input every session
-        * Monitor Engagement
-        * Every interaction with me is assessed
-            * Let's disect this
-            * Asking soemthing - not a problem - 
-                I will be considering - why are they asking this?
-        * Justify choices - last year lockdown - asked to predict on trajectory
 
 * Async
     * Class wiki?
     * Forums
 
-The other subjects will be looking at us as beakons of good technology practice
+
 
 * Record sessions
     * Daunting - no editing
