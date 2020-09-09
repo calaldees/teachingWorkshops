@@ -203,7 +203,11 @@ General Information and Pre Reading
 * General Information
     * [Canterbury Christ Church University](http://www/canterbury.ac.uk)
         * [Canterbury Christ Church: Support Services](https://www.canterbury.ac.uk/students/current-students/support-services/support-services.aspx)
-    * [Computing at School](https://www.computingatschool.org.uk/)
+* Groups
+    * [Computing at School](https://www.computingatschool.org.uk/) UK
+    * [Computer Science Teachers Association](https://www.csteachers.org/) US
+    * [British Computer Society](https://www.bcs.org/policy-and-influence/education/)
+    * [TeachComputing](https://teachcomputing.org/) (Previously NCCE)
 * Understanding education in the UK
     * [Understanding the UK education system](https://www.schoolswork.co.uk/media/files/Undestanding_the_UK_education_system.pdf) Types of schools
     * [EDUCATION SYSTEM IN THE UK](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/219167/v01-2012ukes.pdf)
@@ -226,6 +230,7 @@ General Information and Pre Reading
         * Good A-Level reference
     * [Craig and Dave](https://craigndave.org/)
     * [BBC BiteSize](https://www.bbc.co.uk/bitesize/subjects/z34k7ty)
+    * [Microbit](https://microbit.org/)
 * Online Courses
     * [OpenLearn](https://www.open.edu/openlearn/free-courses/full-catalogue) OpenUniversity free courses
     * [The Open University: How to Learn Online: Getting Started](https://www.futurelearn.com/courses/online-learning)

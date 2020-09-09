@@ -58,7 +58,7 @@ Monday 14th September (Online)
 * Assessment and Grading points
 * Where and when to access support
 * Building relationships and collaborating with others
-* Review Bb, terminologies, paperwork
+* Review Blackboard, terminologies, paperwork
 
 
 What is a teacher?

@@ -101,6 +101,9 @@ It is tracked.
     *  "Hi, thanks for your email. I will take some time to digest you points and respond towards the end of the week"
 
 
+
+
+
 What is the process if you are going to be late?
 
 
@@ -115,12 +118,24 @@ Is it the _organisations_ fault or _your_ fault?
 [Bianca Williams: Sprinter says 'I've never had to experience anything like this'](https://www.bbc.co.uk/sport/athletics/53305712)
 > Officers from the Directorate of Professional Standards have reviewed both footage from social media, and the body-worn video of the officers, and are satisfied that there is no concern around the officers' conduct.
 
+Personal guide
+Poletics and Religion should not be discussed at school
+These will likely alienate people
+
+> Normal people communicate to align, nerds communicate to peer review
+Josha Bach
+
+Mobile phones
+Put your phones away and/or turn them off
+
 
 Rules
 -----
 
 Why do rules exist?
 
+
+Code of conduct
 
 Storys from my first role as an NQT
 
@@ -136,3 +151,4 @@ Summary
 * Have knowledge of your role/organisation
 * _Actively_ Perform your expected _role_
 
+exercise discretionary judgement

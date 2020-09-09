@@ -14,6 +14,7 @@ Blog
 
 Business practice: Use GitHub/GitLab Permalinks 
 [Why I Link to WayBackMachine Instead of Original Site](https://hawaiigentech.com/post/commentary/why-i-link-to-waybackmachine-instead/)
+[Archiving URLs](https://www.gwern.net/Archiving-URLs) Scripts for local and internet archive upload + link rot detection
 
 
 Session Notes
