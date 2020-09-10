@@ -117,6 +117,12 @@ Friday 18th September (Online) - Week 3b
     * How has the subject of Computing has changed in education over the years (in school and society)
     * Task: School research. Preparation for SP4
 
+Placement foobared
+Add
+ Digital Literacy
+ Literacy
+ Citizenship
+
 Thursday 24th September - Replacement for Placement
 
 ### SP4 (PGCE/SD)

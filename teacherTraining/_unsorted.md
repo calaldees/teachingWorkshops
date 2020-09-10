@@ -4,6 +4,14 @@ Jornals
 * [Computational Thinking Educational Policy Initiatives (CTEPI) Across the Globe](https://link.springer.com/article/10.1007/s11528-019-00384-4)
 * [Measuring Success in Education: The Role of Effort on the Test Itself](https://www.aeaweb.org/articles?id=10.1257/aeri.20180633) Comparison of Shanghi and US Math tests with effort
 
+Use of technology report and recomendations
+https://educationendowmentfoundation.org.uk/public/files/Publications/Behaviour/EEF_Improving_behaviour_in_schools_Report.pdf
+https://educationendowmentfoundation.org.uk/public/files/Publications/digitalTech/EEF_Digital_Technology_Guidance_Report.pdf
+
+> Normal people communicate to align, nerds communicate to peer review
+Josha Bach
+
+
 Blog
 ----
 

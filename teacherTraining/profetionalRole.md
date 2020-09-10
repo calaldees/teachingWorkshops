@@ -89,6 +89,8 @@ Your have some element of control over your teams emotional state.
 
 > Let's all choose to be the leaders we wish we had
 
+<sub>Simon Sinek</sub>
+
 [Start With Why](https://startwithwhy.com/) - [Simon Sinek](https://en.wikipedia.org/wiki/Simon_Sinek)
 
 [Extreme Ownership](https://www.amazon.co.uk/Extreme-Ownership-Jocko-Willink/dp/1250067057) [Jocko Willink](https://en.wikipedia.org/wiki/Jocko_Willink)

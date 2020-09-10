@@ -1,0 +1,2 @@
+* [Education Endowment Foundation - METACOGNITION AND SELF-REGULATED LEARNING: Summary of recommendations](https://educationendowmentfoundation.org.uk/public/files/Publications/Metacognition/Summary_of_recommendations_poster.pdf)
+    * [full text](https://educationendowmentfoundation.org.uk/public/files/Publications/Metacognition/EEF_Metacognition_and_self-regulated_learning.pdf)

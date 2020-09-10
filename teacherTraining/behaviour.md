@@ -154,3 +154,9 @@ wireshark - dmx
 * [How Inuit Parents Teach Kids To Control Their Anger](https://www.npr.org/sections/goatsandsoda/2019/03/13/685533353/a-playful-way-to-teach-kids-to-control-their-anger)
     * Role model (calm)
     * Stories with lots of questions (play)
+
+
+# TODO Read these reports
+
+https://educationendowmentfoundation.org.uk/public/files/Publications/Behaviour/EEF_Improving_behaviour_in_schools_Report.pdf
+https://educationendowmentfoundation.org.uk/public/files/Publications/Behaviour/EEF_Improving_behaviour_in_schools_Summary.pdf
