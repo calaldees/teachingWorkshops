@@ -254,7 +254,7 @@ Online
     * Plickers
 * Student Record themselfs
     * Snaggit (paid)
-        * YouTube unlsited
+        * YouTube unlisted
         * Onedrive, GoogleDrive, Dropbox
     * [Screencast-O-Matic](https://screencast-o-matic.com/)
     * [screencastify](https://www.screencastify.com/)

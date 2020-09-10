@@ -12,6 +12,17 @@ https://educationendowmentfoundation.org.uk/public/files/Publications/digitalTec
 Josha Bach
 
 
+Reading
+-------
+
+•	Dewdney, A.K (2004): The Turing Machine Omnibus
+•	Bennedsen, J., Caspeersen, M. and Kölling, M. (2008). Reflections on the teaching of programming. Springer.
+•	Guzdial, M. (2015). Learner-Centered Design of Computing Education: Research on Computing for Everyone
+•	Papert, S. (1980) Mindstorms: Children, computers, and powerful ideas. New York NY: Basic Books.
+•	Jones, M. (2015) Developing a Computer Science in England: Exploring Approaches in the USA (WCMT: https://tinyurl.com/jsvu45g)
+
+
+
 Blog
 ----
 

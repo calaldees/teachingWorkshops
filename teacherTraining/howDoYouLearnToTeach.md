@@ -3,10 +3,10 @@ Session 1 - How do you learn to teach
 
 Induction to programme materials, structure and professional engagement
 
-* AM
-    * Christ Church resources, paperwork, course overview, support
-* PM
-    * General exploration of Computer Science Educaiton
+
+* Christ Church: course overview, resources, paperwork, support
+* Reflection, tooling and ways of working this year
+* High level overview of Computing and perceptions
 
 
 Introductions
@@ -14,28 +14,35 @@ Introductions
 
 ### Who am I?
 
-My position
-Practical battle experience
-Weaker on cutting edge research and theory
+My background
+* 7 years teaching ICT and Computing in secondary schools - Practical battle experience
+* 10 years as a senior developer in central London across a range of domains
+* My weakness is _cutting edge research_ and _teaching theory_
+    * I will be working towards this throughout the year
 
-My own ideas for how to teach computing
-* multiple languages at once
-* unittests
-* pair programming (talking about code and collaborating)
-* version control
-* Freedom/project based (unsuitable for lower school)
+I have my own ideas about how to teach computing
+* Multiple languages at once
+* Freedom (self direct-ish)/project based
+* Unit tests
+* Pair programming (talking about code and collaborating)
+* Version control
+But this course is not about my _opinions_ about my preferred teaching methods, 
+it is about critically developing your own subject pedagogy knowledge.
 
 ### Who are you?
 
 TASK: 120 second summary
 * Rough background (education, work)
-* PGCE, 7-14 or SchoolDirect
+* Course: PGCE, 7-14 or SchoolDirect?
 
-Side-note: Computing students and mindset compared to other subject practicitions that could feel trapped
+<sub>side-note: Computing teachers mindsets - compared to other subject practitioners - feel trapped</sub>
+
+The burden of learning to teach - the _expert beginner_
+Primary->Secondary->Uni->Carear1Employment1->Carear2Employment2->Retraining->Carear2Employment1
 
 ### Mini survey
 
-Thumb-up-o-meter
+Visual Thumb-up-o-meter
 * Multiple programming languages (to an autonomous level)
 * Version control
 * Linux
@@ -49,13 +56,20 @@ I could not identify with it.
 It was some words that babaled about _making a difference_. It was unstructured idealist nonsense.
 I could not believe how much the year had changed me.
 
+This year will change you.
+
+This is a wonderful example of
+> When you learn something, you are perminatly changed.
+
+<sub>David Didau</sub>
+
 
 The Course
 ----------
 
 > Understand the route through training and education that is prepared for them, and their role in that training and education
 
-From the [CCCU Computer Science Curriculm Guidance]()
+From the [CCCU Computer Science Curriculm Guidance](https://learn.canterbury.ac.uk/bbcswebdav/pid-2664627-dt-content-rid-3988355_1/xid-3988355_1)
 
 > All sessions are designed to develop your pedagogy and have been devised by your University tutors in consultation with mentors from partnership schools that includes input from previous student teachers. 
 > Sessions, underpinned by research and theory, will explore a wide range of teaching and learning strategies and resources and identify and make use of a variety of best practice ideologies.
@@ -64,17 +78,18 @@ The purpose of this course is to challenge you and challenge your thinking
 
 ### Aims and purposes of our teaching and learning
 
-* meta-pedagogy (not _tips for teaching_, not pre-prepared-lessons)
+* Meta-pedagogy (not _tips for teaching_, not pre-prepared-lessons)
 * Tacit knowledge transfer - e.g. Riding Bike, Learning to read
     * Can you write down the steps to ride a bike?
 * 10,000 hours
     * How long have you spent driving? Why are you not a world class driver?
-    * Reflection/Feedback
+    * You're operating without reflection/feedback mechanisms
 
 TASK: How would you teach someone to ride a bike?
 120 seconds - Write down - the phases/notes
 Describe verbally to group
 
+Venn diagram of
 * Subject Knowledge
 * Pedagogical Knowledge
 * Context Knowledge
@@ -202,7 +217,7 @@ Resources
 * [BlackBoard](https://learn.canterbury.ac.uk/)
 * [Teacher Standards](https://www.gov.uk/government/publications/teachers-standards)
 * [Initial teacher training (ITT): core content framework](https://www.gov.uk/government/publications/initial-teacher-training-itt-core-content-framework)
-* Curriculum Handbook
+* [Curriculum Handbook](https://learn.canterbury.ac.uk/bbcswebdav/pid-2664627-dt-content-rid-3988355_1/courses/E20MTETT4SPD/Computer%20Science%20Curriculum%20Guidance.pdf)
     * Structure of course + mentor
 * Core templates
     * Lesson Observation
@@ -218,14 +233,99 @@ Resources
     * email i-zone@canterbury.ac.uk
 
 
+Reflective practice
+-------------------
 
-Tools
------
+(Model possible process)
 
-Use the right tools
-do not suffer dataloss
-There will be little excuse for you as Computing professionals
+* Actions (leaver)
+    * Immediate actions
+    * Future points (How will you come back to these?)
+        * Behaviours? Cumulative?
+* Measure impact (how will you know it has had an effect)
+    * Cross-reference your actions
 
+You need a note taking system.
+You're note taking system should be online and transparent. I need to be able to assess (some of) this.
+
+* Every subject session has progress, evidence and actions
+    * You record
+        * Action points
+        * Reflections
+    * Educator records
+        * Comments on each students input every session
+        * Monitor Engagement
+        * Every interaction with me is assessed
+            * Asking something - not a problem - 
+                I will be considering - why are they asking this?
+        * I have to justify your progress at any time
+            * E.g last year when lockdown happened - educators asked to predict on trajectory
+
+How we will reflect? Tooling
+----------------------------
+
+The other subjects will be looking at us technologists as beacons of good technology practice
+
+* Screen Capture
+    * [Snaggit](https://www.techsmith.com/screen-capture.html) (paid)
+        * YouTube unlisted
+        * Onedrive, GoogleDrive, Dropbox
+    * [Screencast-O-Matic](https://screencast-o-matic.com/)
+    * [screencastify](https://www.screencastify.com/)
+        * Web based screen recorder
+            * Download or post to YouTube
+
+* [Markdown](../other/markdown.md)
+    * It has semantic meaning
+    * It can be version controlled
+    * It can be converted as slides, html, pdf
+
+* Possible Workflows
+    * Text file and public DropBox folder
+    * Google Sites
+        * Invite others to collaborate in realtime
+    * BlackBoard Wiki/Blog
+    * GitHub + Markdown
+        * [github.com/ComputingTeachers](https://github.com/ComputingTeachers)
+            * Do you want full admin rights?
+
+TASKS:
+* Understand MarkDown
+    * Create a file with 
+        * 3 Levels of headings
+        * Bullets/numbered lists
+        * Links
+        * Images
+* Trial Screen Capture solutions
+    * Be comfortable with recording and sharing 60 second
+        * Segments of screens
+        * Vlog entries
+* Get a YouTube Account
+    * Create + Upload an unlisted video and share it with the group
+* Construct a workflow to share your action points and reflections with the group
+    * Actions points should have dates and expected results
+    * This needs to be a cumulative record-keeping solution for the year
+
+Feel free to skip tasks if you have mastered them. I will expect you to be able to perform these skills from this point onwards.
+
+Next session we will be consolidating how we reflect and collaborate online.
+
+
+### My Example Workflows
+* My notebook method
+* Plain textfile synced
+* MarkDown (teaching knowlege-base - unfinished)
+
+
+### Notes about tooling
+
+* Do not suffer dataloss.
+    * Use the right tools.
+    * There will be little excuse for you as Computing professionals to loose data.
+    * Dropbox, OneDrive, GoogleDrive, Google Docs, Microsoft Office 365
+
+* Use Styles
+    * If I ever see anyone changing the size of a font freehand in a document or slideshow, I will loose my ****!
 
 ### Recording Sessions
 
@@ -234,54 +334,10 @@ There will be little excuse for you as Computing professionals
         * This is hard to access/find/seek information
         * It discourages some people to participate because it will be set in stone
     * I will record segments of sessions
-
-
-
-
-Reflective practice
--------------------
-
-* Actions (leaver)
-    * Immediate actions
-    * Future points (How will you come back to these?)
-* Measure impact (how will you know it has had an effect)
-
-
-
-* Every session has progress and evidence
-    * You come away with actions
-    * Reflections are recorded
-    * Educator has evidence of progress
-        * Record comments on each students input every session
-        * Monitor Engagement
-        * Every interaction with me is assessed
-            * Let's disect this
-            * Asking soemthing - not a problem - 
-                I will be considering - why are they asking this?
-        * Justify choices - last year lockdown - asked to predict on trajectory
-
-
-
-* Driving car 10,000 hours
-
-* How we will reflect
-    * Tools
-
-
-
-My notebook method
-textfile?
-
-The other subjects will be looking at us as beakons of good technology practice
-
-Git - Resources
-Create 60second video - upload to youtube
-Google Sites
-Group document
-
-
-
-
+    * The _YouTube_ effect
+        * We are all exposed to exceptionally high quality online videos
+        * Pro video equipment, lighting, editing, scripting, info-graphics
+    * In reality - it is hard to extract meaningful information from a video
 
 
 Professionalism and conduct
@@ -295,83 +351,105 @@ Professionalism and conduct
 
 <sub>Anon</sub>
 
+See my Session on [_firstProfetionalRole.md](./_firstProfetionalRole.md)
 
 ### Recommendations
 
 * Be punctual
 * Do not discuss politics or religion with school colleagues
 * Be 100% yourself, but watch your terminology/language
-* Be mindfull of ongoing negativity
+* Be mindful of ongoing negativity
     * when relaying problems - suggest solutions
     * identify/call-out good progress
 
 ### My Role as course tutor (the reality)
 * Line manager-esk?
 * Every interaction is an assessment
-* Records
+* I will keep records
+    * Engagement
+    * Language/demeanour
+    * Punctuality
+    * Contributions
 
 Some of you may have had a drink in a pub with your line manager at the end of the week. You can be friends. But they are still your line manager. They have the power to invoke disciplinary procedures and formally report progress.
 
 As a result of my role, you need to construct your interactions with me deliberately.
 
-### My Stories
-* "Can I call them _monkeys_?"
-    * You would have to be supremely confident
-* "No you muppet"
-* "Dude"
-* 6th form letter to head
-
+You need to construct the interactions with your mentors deliberately
 
 ### Communication
 
-Complaints in the past that communication has been fragmented, late or mistimed
-Lots of moving parts
-Tutor, School Mentor, Uni Admin, Uni Program Directors, Students, School Admin, PGCE-topup Tutor
-I am not on the same email lists as you (This is being discussed/rectified)
-Do note panic.
-Comunicate concerns clearly
-You will not be penalised unduely or unfairly
-
-
+* Complaints in the past that communication has been fragmented, late or mistimed
+* Lots of moving parts
+    * Tutor, School Mentor, Uni Admin, Uni Program Directors, Students, School Admin, PGCE-topup Tutor
+* I am not on the same email lists as you (This is being discussed/rectified)
+* If the communication is less then ideal ...
+    * Do not panic
+    * Communicate concerns clearly
+    * You will not be penalised unduely or unfairly
 
 
 Emotional Health 
 ----------------
 
-(teminology; not mental health)
+(terminology; not mental health)
 
 Peers important support
 Informal whatssapp group
 Without me
 
-Cared about
-1 to 1 on Friday morning
-Culture - how are you - 
+You want to know that someone cares about you and your progress
 
-Express concern in a profetiional problem solving context
+Friday morning (on online days) - 1 to 1 catchup sessions
 
-I'm Authority
-Line Manager
-Guide
-Mentor
+Express concern in a professional problem solving context
 
+TASK: Setup an informal communications channel 
+* separate from the uni systems
+* It is important that I am not part of this external group
+* ideas: whatsapp? discord? You decide/discuss the technology
 
-Informal whatsapp? discord? group
-away from me and the university
-
-* The burden of learning to teach. Support and expectations.
-Chnage carrear - expert beginer
-
-
+NOW: Group email with all members of the group
 
 
 Computer Science
 ----------------
 
-* What is Computer Science?
-    * 3 strands Computing, ICT, Digital Literacy
-* What are the expectations/misconceptions teaching Computer Science?
-* Explore the backlash and confusion about computer science in education and wider society
-    * The rise of STEM
-    * Perceptions of gender and ethnicity in Computing
+### What is Computer Science?
+
+3 strands: Computing, Information Communication Technology, [Digital Literacy](./digitalLiteracy.md)
+
+TASK: 
+* What's the difference between Computing and ICT?
+* Why have we switched focus from ICT to Computing?
+
+### What are the expectations/misconceptions teaching Computer Science?
+
+* "Young people are so good. All that clicking around so fast"
+* I'm not going to be a software developer this is pointless
+
+* Actually work with data
+* as
+
+More
+* Perceptions of gender and ethnicity in Computing
+
+### Explore the backlash and confusion about computer science in education and wider society
+
+TASK: Background reading
+
+Why our subject has friction with society
+
+Computing in the curriculum has been criticized for not being relevant for all students.
+* [Coding the curriculum: new computer science GCSE fails to make the grade](https://theconversation.com/coding-the-curriculum-new-computer-science-gcse-fails-to-make-the-grade-79780) 2017
+* [Backlash against computing curriculum misses the point](https://theconversation.com/backlash-against-computing-curriculum-misses-the-point-22380) 2014
+* [Rotten STEM: How Technology Corrupts Education](https://americanaffairsjournal.org/2019/08/rotten-stem-how-technology-corrupts-education/)
+* [Internet use reduces study skills in university students](https://www.sciencedaily.com/releases/2020/01/200117085321.htm)
+
+
+
+Closing remarks
+===============
+
 * Preparing students for a future we are unsure of
+
