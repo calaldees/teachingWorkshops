@@ -40,6 +40,15 @@ Thumb-up-o-meter
 * Version control
 * Linux
 
+### Lighthouse statement
+
+You've made a lighthouse statement about _who you are_ and _why you want to teach_.
+I made a lighthouse statement at the start of my teacher training PGCE.
+I read it back at the end of my PGCE year.
+I could not identify with it.
+It was some words that babaled about _making a difference_. It was unstructured idealist nonsense.
+I could not believe how much the year had changed me.
+
 
 The Course
 ----------

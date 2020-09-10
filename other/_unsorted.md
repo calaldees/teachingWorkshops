@@ -36,8 +36,10 @@ https://succesfeelosophy.wordpress.com/disadvantage-gap-how-to-close-it/
 [The periodic table, colour coded by the likely origin of each element](https://twitter.com/olivertlord/status/1292562140776271872)
 
 
+[Introduction to Computational Thinking](https://mitmath.github.io/18S191/Fall20/)
 
 
 Probably some good stuff in here
 Top Ranked Hackernews Articles
 https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis
+

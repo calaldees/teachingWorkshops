@@ -156,6 +156,13 @@ Research what they stand for.
 ### Rules
 
 TASK: Why do rules/process/systems exist?
+Answers in the chat
+
+
+* Consistency
+    * Across a large geographic area
+* The presence of a rule (hopefully) creates a better outcome (than no rule)
+* As an individual you may not be aware of all possible situations and their knock-on effects.
 
 
 Formal Communication
@@ -173,6 +180,7 @@ Email - It becomes real/tangible/trackable
 
 Tips:
 * Learn how to use _cc_ and _bcc_ effectively
+* Use 'reply' and 'replyall' effectively
 * You need to be able to cope with significant volumes of email with limited time
     * Setup email filter rules to automatically sort incoming email into folders
 
@@ -197,3 +205,6 @@ Summary
 
 The formal defenition of a profetional is someone that can 
 > exercise discretionary judgement
+
+
+https://github.com/calaldees/teachingWorkshops/blob/master/teacherTraining/_firstProfetionalRole.md
