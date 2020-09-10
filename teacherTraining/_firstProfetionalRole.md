@@ -95,9 +95,15 @@ Summary
 ### Plain English
 
 *Everyone* should read this.
-It will take time to master
+It will take time to master.
 
 * [How to write in plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html)
+    * Keep your sentences short
+    * Use 'you' and 'we'
+    * Use words that are appropriate for the reader
+    * Don't be afraid to give instructions
+    * Avoid nominalisations
+    * Use lists where appropriate
     * Prefer active verbs
         * This matter will be considered by us shortly. (Passive)
         * We will consider this matter shortly. (Active)
@@ -124,17 +130,19 @@ There are established
 [Bianca Williams: Sprinter says 'I've never had to experience anything like this'](https://www.bbc.co.uk/sport/athletics/53305712)
 > Officers from the Directorate of Professional Standards have reviewed both footage from social media, and the body-worn video of the officers, and are satisfied that there is no concern around the officers' conduct.
 
+When you tackle _issues_, you should consider if issue is with the _process_ or the issue is with the _individual_.
+
 ### Business Comms/Handbooks/Training
 
 You will have induction packs/training.
 As a member of staff you are expected to know all of it.
 Ignorance is not an excuse.
 
-Many organisations have 
-* online e-learning 
-    * You have to tick a box to say I've read this. This means if you break this, it is your fault 
+Many organisations have online e-learning. 
+You have to tick a box to say I've read this. 
 
 Is it the _organisations_ fault or _your_ fault?
+
 If you've ticked the box - then you should know - It's your fault.
 
 ### Summary of national process's for schools
@@ -143,6 +151,9 @@ If you've ticked the box - then you should know - It's your fault.
     * [Printed](https://bristoluniversitypress.co.uk/handbook-for-educational-professionals-the-bristol-guide-202021) £6.50
     * [Amazon Kindle](https://www.amazon.co.uk/Handbook-Education-Professionals-2020-21-ebook/dp/B08DYGBCHR/) £5
 
+* When/how is appropriate to search a student?
+* Is the school responsible for bullying outside the school premises?
+
 ### Problems with business process?
 
 If you feel the business process has treated you unfairly and you need further advice. This is what a union is for. Join one!
@@ -150,7 +161,7 @@ If you feel the business process has treated you unfairly and you need further a
 * [Teacher Unions](https://en.wikipedia.org/wiki/Teachers%27_trade_unions_in_the_United_Kingdom)
 
 After this talk read up on what the unions stand for.
-Some unions belive that _striking_ is too aggressive and considers _chalk-downs_.
+Some unions believe that _striking_ is too aggressive and considers _chalk-downs_.
 Research what they stand for.
 
 ### Rules
@@ -175,8 +186,9 @@ Email is a _formal_ means of communication.
 * It is evidence.
 * It is tracked.
 
-Verbally - things get lost/forgotten/don't-exist
-Email - It becomes real/tangible/trackable
+Why is email so important?
+* Verbally - things get lost/forgotten/don't-exist
+* Email - It becomes real/tangible/trackable
 
 Tips:
 * Learn how to use _cc_ and _bcc_ effectively
@@ -203,7 +215,7 @@ Summary
 * Have knowledge of your role/organisation
 * _Actively_ Perform your expected _role_
 
-The formal defenition of a profetional is someone that can 
+The defined trait of a professional is someone that can 
 > exercise discretionary judgement
 
 
