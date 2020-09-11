@@ -17,6 +17,7 @@ Introductions
 My background
 * 7 years teaching ICT and Computing in secondary schools - Practical battle experience
 * 10 years as a senior developer in central London across a range of domains
+* 2 years (part-time) supporting CCCU Computing subject sessions
 * My weakness is _cutting edge research_ and _teaching theory_
     * I will be working towards this throughout the year
 
@@ -308,7 +309,14 @@ TASKS:
 
 Feel free to skip tasks if you have mastered them. I will expect you to be able to perform these skills from this point onwards.
 
-Next session we will be consolidating how we reflect and collaborate online.
+TASK: For SP3
+Create a screen capture video that is less than 2min, demoing your reflection workflow
+Requirements:
+* Active/Current actions/tasks + Archived actions/tasks
+* Class/Tutor must have access to some of your actions/reflections/resources
+* This must be linked from the course blackboard wiki
+
+Next session we will be consolidating as a group how we reflect and collaborate online.
 
 
 ### My Example Workflows
@@ -451,5 +459,8 @@ Computing in the curriculum has been criticized for not being relevant for all s
 Closing remarks
 ===============
 
+TASK: Read [last years students comments](./_advice_from_past_students.md) these are wholesale unedited
+
 * Preparing students for a future we are unsure of
 
+* Prepare for Giles
