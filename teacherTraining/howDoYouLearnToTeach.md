@@ -335,6 +335,16 @@ Next session we will be consolidating as a group how we reflect and collaborate 
 * Use Styles
     * If I ever see anyone changing the size of a font freehand in a document or slideshow, I will loose my ****!
 
+### Online Sessions
+
+Choice
+* Blackboard
+    * Breakout feature + polls
+* MSTeams
+    * Better adaptive streaming
+
+Both can be recorded
+
 ### Recording Sessions
 
 * ReCap
@@ -385,7 +395,7 @@ As a result of my role, you need to construct your interactions with me delibera
 
 You need to construct the interactions with your mentors deliberately
 
-### Communication
+### University Communication
 
 * Complaints in the past that communication has been fragmented, late or mistimed
 * Lots of moving parts
@@ -463,4 +473,7 @@ TASK: Read [last years students comments](./_advice_from_past_students.md) these
 
 * Preparing students for a future we are unsure of
 
-* Prepare for Giles
+* Prepare questions for Giles
+
+TASK: SD email me your tutors name, email, school. I would like to email them a hello
+
