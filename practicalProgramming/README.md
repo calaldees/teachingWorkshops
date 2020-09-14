@@ -134,11 +134,36 @@ I will inspect your entire GitHub repo to date and offer feedback on progress
 Submitting a project - whats required
 Doctest with pytest
 ```python
+ # pytest test.py --doctest-modules --pdb
+
 def add(a, b):
     """
+    My function to add stuff
+
+    >>> add(1, 1)
+    2
+    >>> add(2, 2)
+    4
+    >>> add(-1, 5)
+    100
     """
-    return 0
+    return a + b
+
+
+answer = add(10, 2)
+print(answer)
+
 ```
 
+
+Session 9
+---------
+
+
+
+
+
+
+---
 
 [#1 Thing to Learn to Become a Self-Taught Programmer](https://youtu.be/sYjEzOIa5JI?t=83) - Your knowlege of the syntax wont get you the job. The ability to produce a desired outcome will.

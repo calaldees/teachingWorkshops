@@ -160,6 +160,7 @@ Lesson Topic Ideas
     * [earthengine](https://earthengine.google.com/timelapse/) - historical satellite views (climate change?)
     * [submarinecablemap](https://www.submarinecablemap.com/)
     * Create a webpage with a world map and use absolute positioning to embed videos from [skylinewebcams](https://www.skylinewebcams.com)
+    * [ancient-earth 3D globe](https://dinosaurpictures.org/ancient-earth)
 * History
     * [Canterbury High Street](http://www.hillside.co.uk/tour/tour.html) - Homemade Canterbury High Street Streetview from 1990
         * Activity for class to create school tour
@@ -377,6 +378,7 @@ Using real data is inspiring
             * [Windy.com](https://www.windy.com/)
             * [Rain-dar](https://meteoradar.co.uk/realtime-rainradar)
 
+[Senate Stock Watcher](https://senatestockwatcher.com/) US Senators invest in socks. Before CoVid 19 many senators sold stocks in travel/touisum and invested in medical supplies while telling the US population 'not to worry'. Senetors report their stocks with paper written notes. It takes multiple weeks to process them and they can be incorrect/misinterpreted as handwriting can be hard to read.
 
 https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Rainfall/date/England_SE_and_Central_S.txt
 https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/courts-sentencing-and-tribunals/prosecutions-and-convictions/latest
