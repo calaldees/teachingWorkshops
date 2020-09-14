@@ -88,7 +88,7 @@ Thursday 17th September (Online)
 * How do my ideological/values/beliefs shape my perception of what a teacher is?
 * Teacher identity
 * How do my life experiences shape my engagement with teaching and with being a learner in a professional context? (Epistemology and ontology, conscious and unconscious bias)
-* What is criticality, educational ‘wisdom’ and the different types of teacher knowledge?
+* What is criticality, educational 'wisdom' and the different types of teacher knowledge?
 * Mental health and wellbeing
 
 

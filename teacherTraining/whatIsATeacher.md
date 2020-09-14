@@ -1,52 +1,128 @@
 Session 2 - What is a Teacher
 =============================
 
+* What is this subject?
+    * What is a computer science teacher?
+    * What is Computer Science specific pedagogy?
+* (Bonus) Peek into induction topics
+* Assignments
+    * Subject Knowledge Audit Tracker
+    * Subject Pedagogy Assignment
+* (Bonus) Education Inspection Framework
 
-* Learning Objectives
-    * Understand and explore past experiences that bias, impact and influence values and beliefs regarding effective teaching (ethno-autobiography, epistemology and ontology)
-    * Introduce key essential successful subject teacher characteristics and a range of pedagogical approaches
-    * Development of subject; Subject Knowledge and Pedagogical Content Knowledge
 
-* What is a Computer Science teacher?
-* What is Computer Science specific pedagogy?
-* Differences between _subject knowledge_ and 
-* Recent influences in Computing teaching
-    * Demands of modern-society and modern-computing compared with classical-computing
-* SKA and development
-* Set SP assignment
+What is a Computer Science teacher?
+-----------------------------------
+
+TASK 1: What is the difference between _Computing_ and _Computer Science_
+
+TASK 2:
+* What are the students expectations?
+* What are societies expectations?
+* What are your expectations of you (as a Computer Science teacher)?
+
+https://cccu.padlet.org/allancallaghan/jqu3zev2hohi3mm8
+
+
+### My thoughts
+
+* Teacher identity
+    * your belief changes the curriculum
+        * Mathematical (logic)
+        * Scientific (experimentation)
+        * engineering (outcome/construction)
+        * Ways of thinking/mindsets
+* Computing and society (human/computer hybrid society)
+
+* Intersection of many intellectual traditions
+    * Difficult history
+        * Maths? (Logic, Set Theory) Statistics? Science? Theory of Computation?
+    * Computer scientists late to the party in many areas
+
+
+### Average Computing knowledge and skills
+
+We need to tackle this misconception between what the average person thinks of Computing and what the academic discipline is.
+
+Society bundles Computer Science, ICT, Digital Literacy into the same pot.
+
+[The Distribution of Users’ Computer Skills: Worse Than You Think](https://www.nngroup.com/articles/computer-skill-levels/)
+
+* Some year 7's have never used a keyboard
+    * Logging on is a lesson (tears/frustration)
+
+
+### Recent influences in Computing teaching
+
+Demands of modern-society.
+Modern-computing compared with classical-computing.
+
+TASK: What do we mean 
+* Classical-computing?
+* Modern-computing?
+
+Traditional mathematical components of computing - theoretical underpinning
+* Logic, NAND gates, binary number representation, algorithm design, algorithm complexity, processor architecture
+
+The modern reality and use of computers as seen by society is very different. These feel like secondary order effects of computing
+* Single board computers, Voice UI, AI/Behaviour/DataScience, BioInfomatics
 
 
 What is Computer Science specific pedagogy?
 -------------------------------------------
 
-TASK: How might teaching computing be different from other subjects?
-
 _subject pedagogy_ is the _how do we teach computing_
 
-Recent influences in Computing teaching
----------------------------------------
+TASK: How might teaching Computer Science be different from teaching other subjects?
 
-Demands of modern-society.
-Modern-computing compared with classical-computing.
+### Stuff
 
-We need to tackle this misconception between what the average person thinks of computing and what the academic discipline is.
+* Threshold concepts and Liminal Space
+* Transfer of knowledge across contexts dose not happen automatically
+* We are less familiar with early experiences that may lead to computing skills
 
-TASK: What do we mean 
-* classical-computing?
-* modern-computing?
+### Computational thinking
+Systems Thinking
 
-Traditional mathematical components of computing - theoretical underpinning
-* binary number representation, algorithm design, algorithm complexity, NAND gates, processor architecture
+* Computational Thinking
+    * logical thinking
+    * algorithms
+    * patters (recondition)
+    * abstraction (generalisation)
+    * evaluation
+    * automation
+* Computational Practices
+    * Problem decomposition
+    * Creating computing artifacts
+    * Testing/debugging
+    * Iterative refinement
+    * Collaboration & creativity
 
-The modern reality and use of computers as seen by society is very different. These feel like secondary order effects of computing
-* Single board computers, Voice UI, AI/Behaviour/DataScience, BioInfomatics
+### Mindset
+* Growth mindset
+* Encouraged to find new strategies
+* Importance of making good use of high quality feedback
 
-Remember society bundles Computing, ICT, Digital Literacy into the same pot.
+
+### Programming
+Cant build instructions, because they don't know the building blocks
+* use + modify + create
+
+Block (visual) -> text
+
+Text is actually hard to visual identify relationships
+
+### Misconceptions
+* THEN implies sequence
+* Natural language dose not have looping (exit case), passing parameters
 
 
 
-Terminology
------------
+
+Induction Snippets
+------------------
+
+### Terminology
 
 * [Ontology](https://en.wikipedia.org/wiki/Ontology_(information_science))
     * > formal naming and definition of the categories, properties and relations between the concepts
@@ -59,8 +135,7 @@ Terminology
     * > autoethnographers are themselves the primary participant/subject of the research
 
 
-Cognitive Bias
---------------
+### Cognitive Bias
 
 > "The first principle is that you must not fool yourself – and you are the easiest person to fool." - Richard Feynman
 
@@ -79,18 +154,10 @@ TASK 2: Compare your list to these lists
 
 Action point: I recommend you refer/remind yourself of these bias's regularly.
 
+Subject Knowledge Audit
+-----------------------
 
-Ofsted Inspection Criteria
---------------------------
-
-* [Education inspection framework](https://www.gov.uk/government/collections/education-inspection-framework) EIF
-    * [Inspecting schools: guide for maintained and academy schools ](https://www.gov.uk/guidance/inspecting-schools-guide-for-maintained-and-academy-schools)
-    * [Research_for_EIF_framework](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/813228/Research_for_EIF_framework_100619__16_.pdf) 2019
-
-
-Previously the hot topic was _Pupil Impact_. It was all about impact, impact, impact, impact, impact!
-
-The new hot topic is apparently _Research led_.
+On BlackBoard
 
 
 Subject Pedagogy (SP) Assignment
@@ -107,7 +174,7 @@ This is a PREVIEW. There may be minor changes. (To my knowledge there are no maj
 Due February 2021?
 
 1. 2000 Word Essay
-2. Poster
+2. Poster (2000 Word Equivalent)
     * [Introduction to Effective Poster Presentations](https://www.youtube.com/watch?v=j4qUjUeRJy4&feature=share&list=PLQYPRVJgjEZZd9EAqwml53ziYOqIdQpJ3)
     * [Quick Tips](https://projects.ncsu.edu/project/posters/documents/QuickReferenceV4.pdf)
     * [Designing Communications for a Poster Fair](http://www.personal.psu.edu/drs18/postershow/)
@@ -153,8 +220,6 @@ You will be given a marking grid
 * [CCCU Library Search](https://ulms.ent.sirsidynix.net.uk/client/en_GB/CCCU)
     * Example search [Computing Education](https://ulms.ent.sirsidynix.net.uk/client/en_GB/CCCU/search/results?qu=computing+education&te=&ir=Both) - 58699 Results Found 
         * "Identifying embodied metaphors for computing education" (show example of access the journal)
-* [University of Kent Library Search](https://librarysearch.kent.ac.uk/client/en_GB/kent/)
-    * You can cross borrow books from our partner providers
 
 ### [TurnItIn](https://www.turnitin.com/regions/uk)
 
@@ -165,7 +230,11 @@ You will be given a marking grid
 * Draft Submissions - [Blackboard](https://learn.canterbury.ac.uk/webapps/turn-plgnhndl-BBLEARN/links/submit.jsp?course_id=_14776_1&content_id=_2610289_1&tii_assign_id=11890420&orig_id=_2378039_1)
 * [Similarity Report](https://learn.canterbury.ac.uk/bbcswebdav/pid-822284-dt-content-rid-1590521_1/orgs/OCCLTE2014TELSUPPORT/Turnitin%20Guidance/Students/Turnitin%20-%20Similarity%20Reports%20-%20Accessing%20and%20Interpreting%20your%20Similarity%20Report.pdf) example
 
-### "Resource"?
+### What is a "Resource"?
+
+See examples from previous years.
+
+Some Computer Science ideas
 
 * [plickers](https://get.plickers.com/)
     * [video](https://www.youtube.com/watch?v=dMAX2EQnUXE)
@@ -175,6 +244,21 @@ You will be given a marking grid
 * [CodyRoby](http://www.codeweek.it/codyroby/) 
     * [video](http://youtu.be/D5hQ9UTDQ6s) print cards from PDF
     * [Race](https://www.youtube.com/watch?v=izpB0Cvl0tk)
+* [Github Education](https://education.github.com/)
+    * [Introducing autograding for GitHub Classroom and the GitHub Teacher Toolbox](https://github.blog/2020-03-12-github-teacher-toolbox-and-classroom-with-autograding/)
+
+
+Ofsted Inspection Criteria
+--------------------------
+
+* [Education inspection framework](https://www.gov.uk/government/collections/education-inspection-framework) EIF
+    * [Inspecting schools: guide for maintained and academy schools ](https://www.gov.uk/guidance/inspecting-schools-guide-for-maintained-and-academy-schools)
+    * [Research_for_EIF_framework](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/813228/Research_for_EIF_framework_100619__16_.pdf) 2019
+
+
+Previously the hot topic was _Pupil Impact_. It was all about impact, impact, impact, impact, impact!
+
+The new hot topic is apparently _Research_.
 
 
 Final note
@@ -183,10 +267,5 @@ Final note
 [Low Tech - Visualiser](https://mothership.sg/2020/09/cd-zoom-hack-camera-teacher/)
 
 
-
-
----
-
-Kolb (1984) Experiential Learning Cycle
-Gibbs (1988) Reflective Cycle
-Brookfield (1995) Four Lenses Model of Reflection
+* Action points?
+* Reflection?
