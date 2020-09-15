@@ -1,6 +1,8 @@
 Session 2 - What is a Teacher
 =============================
 
+PGCE Only - Academic Edition!
+
 * What is this subject?
     * What is a computer science teacher?
     * What is Computer Science specific pedagogy?
@@ -75,6 +77,8 @@ _subject pedagogy_ is the _how do we teach computing_
 
 TASK: How might teaching Computer Science be different from teaching other subjects?
 
+(Refer to Constructivism on Friday)
+
 ### Stuff
 
 * Threshold concepts and Liminal Space
@@ -83,6 +87,9 @@ TASK: How might teaching Computer Science be different from teaching other subje
 
 ### Computational thinking
 Systems Thinking
+Autonomous Organisations
+Business Process
+(hybrid society)
 
 * Computational Thinking
     * logical thinking
@@ -122,10 +129,15 @@ Text is actually hard to visual identify relationships
 Induction Snippets
 ------------------
 
+Spaced repetition: These are such important concepts I want to touch on them, even though you will cover them later in induction.
+
 ### Terminology
 
 * [Ontology](https://en.wikipedia.org/wiki/Ontology_(information_science))
     * > formal naming and definition of the categories, properties and relations between the concepts
+    * Ontological argument
+        * Should number base's (base 2, binary) be in Mathematics rather than Computer Science?
+        * Platypus? Mammal that lays eggs
 * [Epistemology](https://en.wikipedia.org/wiki/Epistemology)
     * The theory/nature of knowledge
         * arrived at independent of experience (e.g. through logic - rationalist, intuition - non-rational)
