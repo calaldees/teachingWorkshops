@@ -218,5 +218,6 @@ Summary
 The defined trait of a professional is someone that can 
 > exercise discretionary judgement
 
+---
 
-https://github.com/calaldees/teachingWorkshops/blob/master/teacherTraining/_firstProfetionalRole.md
+> A strong sense of teacher _professional identity_ is linked to the retention of teachers within the profession <sub>Jim Zimmer - Dean, Facalty of Teaching and Learning</sub>

@@ -1,51 +1,105 @@
-Session 3 - What is education
+Session 3 - What is Education
 =============================
 
 
-* Beginning to understand the curriculum, educational diversity and the factors that frame and influence both
-* Learning Objectives
-    * Understand the NC and its role in teaching and learning
-    * Explore key documents including reports and research that have influenced and shaped education
-    * Understand the key factors that frame and contextualise education in the region
-
-### SP3 (PGCE/SD)
-Friday 18th September (Online) - Week 3b
-
-* AM (Pre-Planned)
-    * CTP introduction
-    * What is education in my setting?
-    * Comparison of curriculums; policy and practice panel debate
-* PM
+* Part 1
+    * How has the subject of Computing has changed in education over the years (in school and society)
     * What is a curriculum/subject curriculum?
     * Computing National Curriculum and recent policy
         * Exploring Ofsted requirements and Education inspection framework
+* Part 2
+    * Guest Speaker - Talking about his education experience in a public boarding school
+* Part 3
     * What is Computer Science education?
         * identifying conceptions of SK and PCK and own development
     * Key influential subject documents, reports and research; current and over time
-    * How has the subject of Computing has changed in education over the years (in school and society)
-    * Task: School research. Preparation for SP4
 
 
+History of Computing education in the UK
+----------------------------------------
 
-Types of school
-* [UK School Types](https://www.careerteachers.co.uk/blog/uk-school-types)
-* [Independent school system in a nutshell](https://www.goodschoolsguide.co.uk/choosing-a-school/independent-schools/uk-independent-schools-explained)
+* [Shut down or restart? The way forward for computing in UK schools](https://royalsociety.org/~/media/education/computing-in-schools/2012-01-12-summary.pdf) 2012 Recommended reforms
+* [School ICT to be replaced by computer science programme](https://www.bbc.co.uk/news/education-16493929) 2012 'Slaves to the interface'
+* [Bricklayers to Architects](https://learn.canterbury.ac.uk/bbcswebdav/pid-2641359-dt-content-rid-3959448_1/courses/E20MTETT4SPD/Bricklayers%20to%20Architects%20-%20Jones.pdf) Page 7/8
+    *   > We have many individuals who are able to use applications
+        > to varying degrees of proficiency (bricklayers) but do we
+        > have enough people capable of building the applications and
+        > hardware for the next generation of users (architects)? From the
+        > UK government’s perspective, we do not produce a sufficient
+        > number of programmers and hardware engineers. 
+    *   > The future looks to be interesting. Already there are
+        > rumblings that there are woefully small numbers of suitable
+        > graduates entering CS teacher training. Even if the number were
+        > to rise substantially, it would take some years for expertise to be
+        > built and suggested syllabi to embed
 
 
-The National Curriculum
------------------------
+What is a curriculum/subject curriculum?
+----------------------------------------
+
+The entire ethos/goals of a course of education.
 
 * [The National Curriculum: subjects](https://www.gov.uk/national-curriculum/key-stage-3-and-4)
     * Computing is a Foundation subject
     * Academies/Public/Private/Independent don't need to teach computing
 * [National Curriculum: computing programmes of study](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study)
+    * The opening line ... is majestic!
+    * > A high-quality computing education equips pupils to use computational thinking and creativity to understand and change the world.
+
+TASK: The National Curriculum is a page of A4? How would you report a grade to your school and to parents?
+Discussion
+
+
+(Many people have spent 100's of hours deliberating over mechanisms to do this. I'm asking you, as beginners to do this in 10min. It's a deliberately overwhelming task to get you to understand the magnitude of the problem)
+
+### National Curriculum Assessment
+
+More on assessment in a later session
+
+"How do you report grades/progress in KS3" - however you like - it's the wild west!
+
+Some just use GCSE grades for KS3. This is not what GCSE grades were designed for - there is some missing overlap KS3/KS4
+
+* [Computing At School: Progression Pathways KS3](https://www.computingatschool.org.uk/data/quick_start_secondary/progression_path.pdf)
+* [Computing At School: Progression Pathways maps to strands of the National Curriculum Programme of Study](https://community.computingatschool.org.uk/files/5095/original.pdf)
+* [Possible KS3 Level Descriptors for Computing National Curriculum](https://community.computingatschool.org.uk/resources/5/single) 2013
+* [Phillips High School: Assessing Pupils’ Progress in Computing at Key Stage 3: Assessment Criteria: Computing](https://www.philipshigh.co.uk/?page_id=2859)
+* [computerscienceuk: Assessing Computer Science](https://computerscienceuk.com/assessing-computer-science/) 2015
+    * [Flightpath/Routepath model](https://computerscienceuk.com/life-without-levels/)
+    * [KS3 Curriculum Maps](https://computerscienceuk.com/ks3-curriculum-maps/) per year and assessment
+
+### School inspection criteria for Computing
+
+Copy paste from
+[computingAcrossCurriculum.md](./computingAcrossCurriculum.md) #Ofsted and Computing (how link to heading?)
+
+From Ofsted Education Inspection Framework
+
+* Teaching in computing is good or better when:
+    * it is rooted in the development of pupils’ understanding of important concepts and progression within the lesson and over time; it enables pupils to make connections between individual topics and to see the ‘big picture’
+    * teachers use a very wide range of innovative and imaginative resources and teaching strategies to stimulate pupils’ active participation in their learning and secure good or better progress across all aspects of the subject.
+* The computing curriculum is good or better when:
+    * the contexts in which computing is taught are relevant to pupils’ lives and reflect the increasing use of computing in the world of industry
+    * excellent links are forged with other agencies and the wider community to provide a wide range of enrichment activities to promote pupils’ learning and engagement with the subject
+    * links with other subjects in the school are productive in strengthening pupils’ learning in computing
+* Leadership of computing is good or better when
+    * there are effective strategies to delegate subject responsibilities where appropriate and to share good practice
+    * computing has a very high profile in the life of the school
+* Finally ...
+    * E-safety is now considered in the inspection of all education remits including the early years sector, further education and skills, and initial teacher education.
+
 
 
 Science Vs Engineering
 ----------------------
 
-* [Computing Science or Engineering? Language](https://learn.canterbury.ac.uk/bbcswebdav/pid-2641367-dt-content-rid-3959384_1/courses/E20MTETT4SPD/Is%20Computer%20Science%20a%20Science%20-%20Denning.pdf) Denning
+* [Computing Science or Engineering? Language](https://learn.canterbury.ac.uk/bbcswebdav/pid-2641367-dt-content-rid-3959384_1/courses/E20MTETT4SPD/Is%20Computer%20Science%20a%20Science%20-%20Denning.pdf) Interview with Denning 2007
+    * Because computers are man-made and not natural. We can't study them like a science. People in other fields think we are just programmers. We've be unsuccessful in communicating the breath and depth of our discipline
 * [Knowing versus Doing: Academic and Vocational Education for Informatics in the UK](https://learn.canterbury.ac.uk/bbcswebdav/pid-2641378-dt-content-rid-3959390_1/courses/E20MTETT4SPD/Knowing%20verses%20doing%20-%20Cowling.pdf) Cowling
+    * vocational  (ie  concerned  with  developing  skills),
+    * academic  (ie  concerned  with  developing knowledge) 
+    * What if what we do needs both? These have converged.
+    * > neither kind of course (academic or vocational) can be characterised simply in terms of equipping students with knowledge or skills.
 
 
 Friction with Society
@@ -60,25 +114,36 @@ Computing in the curriculum has been criticized for not being relevant for all s
 * [Rotten STEM: How Technology Corrupts Education](https://americanaffairsjournal.org/2019/08/rotten-stem-how-technology-corrupts-education/) 2019 By Jared Woodard
 * [Internet use reduces study skills in university students](https://www.sciencedaily.com/releases/2020/01/200117085321.htm)
 
+This was the pre-reading.
+
+TASK: How do your personal beliefs as a _Teacher of Computing_ intersect with the opinions displayed in these articles?
+
+Show me your retention and note-taking skills.
+I will make notes on the quality of your contributions.
+
 
 Preparing students for a future we are unsure of
 ------------------------------------------------
+
+Our technology/society is changing fast
 
 * [When landlines were considered dangerous - BBC Ideas](https://www.bbc.co.uk/ideas/videos/when-landlines-were-considered-dangerous/p08dwnnz)
 * > Low level coding jobs will be the first to go. Sysadmin, network architect, computer support. <sub>Rotten STEM</sub>
 
 
-Access to information
----------------------
+Computing Teacher: your role in a wider context
+-----------------------------------------------
 
-We dreamed of a future where everyone had access to information. It would liberate the working class's.
+TASK: Visit the LASAR Site ... thoughts? comments?
+Can Science and Religion be taught together?
 
-We now have access ubiquitous to high quality information: YouTube, Learn-to-code resources, Wikipedia
-
-Is the average person smarter, better informed, more skilled?
-The problem is not _access to information_.
-
-Is secondary education worth it? A child's cognitive ability improves with age. Is that to do with education? or physical growth?
+* [LASAR (Learning about Science and Religion](https://www.canterbury.ac.uk/education/our-work/research-enterprise/learning-about-science-and-religion/learning-about-science-and-religion.aspx)
+    * AI research - before we can have _artificial interference_ we need to define intelligence
+    * [Joscha Bach: Artificial Consciousness and the Nature of Reality | Lex Fridman Podcast #101](https://www.youtube.com/watch?v=P-2P3MSZrBM)
+        * 00:26:00, 01:56:00 The turing test - is a recursive test - it's a question for us to define ourselves
+        * 01:14:00 The observation of _spirit as an operating system for an autonomous robot_ - plants - humans
+        * 02:30:00 Study of _religion as software_ - rules/structure that lead to better outcomes
+* Fundamental British Values (mentioned last week)
 
 
 Constructivism
@@ -107,48 +172,97 @@ Constructivism
     * > up until 2019 there is still no evidence that the teacher who takes a step back and puts the control of learning in the hands of the student is more effective and efficient than the teacher who provides explicit instruction
     * > it is generally accepted that the transmission of our cumulative culture to future generations is what makes man as a species
 
+* [I would never send my kids to school](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school) Piotr Wozniak 2017
+    * A grizzled academic that has decided
+      > I no longer care about publishing in peer review journals
+    * > Education is based on wrong principles and a wrong design
+    * > Kids are not adults in miniature
+    * Children should never feel stressed or asked to do anything they do not want
 
-History of Computing education in the UK
-----------------------------------------
+### My Case study CBIC
 
-* [Shut down or restart? The way forward for computing in UK schools](https://royalsociety.org/~/media/education/computing-in-schools/2012-01-12-summary.pdf) 2012 Recommended reforms
-* [School ICT to be replaced by computer science programme](https://www.bbc.co.uk/news/education-16493929) 2012 'Slaves to the interface'
-* [Bricklayers to Architects](https://learn.canterbury.ac.uk/bbcswebdav/pid-2641359-dt-content-rid-3959448_1/courses/E20MTETT4SPD/Bricklayers%20to%20Architects%20-%20Jones.pdf) Page 7/8
-    *   > We have many individuals who are able to use applications
-        > to varying degrees of proficiency (bricklayers) but do we
-        > have enough people capable of building the applications and
-        > hardware for the next generation of users (architects)? From the
-        > UK government’s perspective, we do not produce a sufficient
-        > number of programmers and hardware engineers. 
-    *   > The future looks to be interesting. Already there are
-        > rumblings that there are woefully small numbers of suitable
-        > graduates entering CS teacher training. Even if the number were
-        > to rise substantially, it would take some years for expertise to be
-        > built and suggested syllabi to embed
+* CBIC (my case study) - Competency Based Integrated Curriculum
+* [Teaching and learning in a competence-based curriculum: the case of four secondary schools in England](https://www.tandfonline.com/doi/abs/10.1080/09585176.2012.731008?src=recsys&journalCode=rcjo20) Byrne 2013
+    * Loss of subject base identity
+        * lack of confidence made practitioners less creative
+    * Non expert teaching
+    * lack of student autonomy - behaviour
 
 
+The attitude of the Teacher
+---------------------------
 
-[Video Games are the Future of Education](https://nabeelqu.co/education) (by some dude who is not in education)
+* [The role of beliefs in teacher agency](https://www.tandfonline.com/doi/full/10.1080/13540602.2015.1044325)
+    * > The comparative lack of a clear vision about what education is for seems to seriously limit the possibilities for action to develop a good education
+
+
+Closing thoughts
+----------------
+
+### Access to information
+
+
+We dreamed of a future where everyone had access to information. It would liberate the working class's.
+
+We now have access ubiquitous to high quality information: YouTube, Learn-to-code resources, Wikipedia.
+
+Is the average person smarter, better informed, more skilled?
+The problem is not _access to information_.
+
+### What is Education?
+
+
 
 
 Guest Speaker
 -------------
 
-Giles.
-Remotely joining from Spain.
-Educated at Eton. 
-Computing professional (BSc in Computer Science). 
-Runs a european shipping and logistics company.
-Will describe what his secondary education was like.
+* What is Education?
+* What is Computing Education?
 
-1. 15min: Describing education at Eton.
+* Giles.
+* Remotely joining from Spain
+* Educated at Eton. A VERY different education environment
+* Computing professional (BSc in Computer Science)
+* Runs a european shipping and logistics company
+* Will describe what his secondary education was like
+
+1. 15min: Describing education at A private boarding school.
     * The average day
     * The subjects
     * The support outside of lessons
     * The attitude of your peers
-2. 5min: You answering the question in your own words "What do you
-think education is for"
-3. 5min: You describing as a computing professional "What should be
-taught to young people about Computing"
+2. 5min: "What do you think education is for"
+3. 5min: "What should be taught to young people about Computing"
 4. 20min: Taking questions from the students teachers
 
+
+Tasks
+-----
+
+* How has this session changed you?
+    * Action points? Impact? Reflections? What are you going to do now!?
+* You've got plenty of reading inspired by this session.
+* Task for SP4: School research. Preparation for SP4 (POSTPONED)
+
+Replacement for Placement .. if you think you're not going to be busy ...
+A wakeup call ... _GiT GuD!_
+[AQA A-Level Computing](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517) [assessment resources](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517/assessment-resources)
+
+
+
+
+---
+
+Unused
+======
+
+Tools
+-----
+* [Kaltura](https://learn.canterbury.ac.uk/webapps/osv-kaltura-BBLEARN/jsp/myMediaLTI.jsp)
+* [PebblePad](https://v3.pebblepad.co.uk/) [In a nutshell (video)](https://v3.pebblepad.co.uk/spa/#/learningCentre?type=start)
+
+
+Types of school
+* [UK School Types](https://www.careerteachers.co.uk/blog/uk-school-types)
+* [Independent school system in a nutshell](https://www.goodschoolsguide.co.uk/choosing-a-school/independent-schools/uk-independent-schools-explained)

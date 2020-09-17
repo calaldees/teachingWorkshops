@@ -477,3 +477,26 @@ TASK: Read [last years students comments](./_advice_from_past_students.md) these
 
 TASK: SD email me your tutors name, email, school. I would like to email them a hello
 
+
+
+---
+
+[Are We Preparing or Training Teachers? Developing Professional Judgment in and Beyond Teacher Preparation Programs](https://journals.sagepub.com/doi/10.1177/0022487117702584) [padlet](https://padlet-uploads.storage.googleapis.com/620776567/c1f78b95d4d4ba6b8911b4ea271a0184/Are_we_preparing_or_training_teachers.pdf) Scales 2018
+
+> “Pedagogy does not often survive contact with the classroom” (Lynch, 2013, p. xv). 
+> Lynch suggests learning to teach must be a combination of views about teaching that candidates bring to programs along with experience. 
+> Lynch calls this the Tuesday morning question: 
+> What will teachers do after they have had the experience of Monday? 
+> He asserts that 
+> learning from experience is possible through theories of pedagogy, 
+> but pedagogy without experience is meaningless
+
+> How can programs prepare candidates for complex teaching situations that may not match coursework exactly? 
+> Learning to teach literacy is not simply learning content, skills, and strategies, 
+> but a way to think about teaching as a flexible, adaptive process 
+> that takes into account district requirements, school culture, teacher expertise, curricular demands, and students’ needs.
+> Teachers need to make professional judgments during teaching, 
+> and perhaps even become subversive in adaptations, depending on their teaching contexts.
+>
+> This begins in coursework where teacher educators should help candidates understand when, where, and how to be advocates for a different stance. 
+> Indeed, we are not advocates of replicating program instructors or a “Clone Army” (McCallum & Lucas, 2002) of teachers who compliantly do as they are told.

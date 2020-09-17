@@ -15,12 +15,48 @@ zoom
 bullets
     tab
     shift + tab
-browser
-    ctrl + t
 tabs
     ctrl + pgup
     ctrl + pgdwn
-    ctrl + w
+    ctrl + w - close-tab
+
 browser
-    ctrl + l
-    ctrl + k
+    ctrl + t - new tab
+    ctrl + l - select urlbar
+    ctrl + k - search
+
+terminal
+    split pane
+    select pane
+    zoom pane
+
+ide (see ide.md)
+    find (in files)
+    multi cursor editing
+    quick open file
+    goto definition
+    go back
+    ctrl + . - spelling 
+    formatter
+
+
+item2
+cmd + d, cmd + shift + d
+cmd + alt + arrowkey
+cmd + enter
+cmd + w
+
+Windows Terminal
+(set exit==always)
+ctrl + shit + w
+alt + shift + d
+alt + arrowkey
+        "defaults":
+        {
+            "fontSize": 10,
+            "closeOnExit": "always"
+        },
+    "keybindings":
+    [
+        { "command": "togglePaneZoom", "keys": "ctrl+shift+enter"}
+    ]

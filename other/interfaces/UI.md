@@ -6,7 +6,7 @@ Discoverability
 windows 93
 EmuOS
 
-[computer-skill-levels - worse then you think](https://www.nngroup.com/articles/computer-skill-levels/)
+[The Distribution of Users’ Computer Skills: Worse Than You Think](https://www.nngroup.com/articles/computer-skill-levels/)
 
 [hacker news discussion](https://news.ycombinator.com/item?id=21037674)
 
@@ -71,3 +71,10 @@ https://github.com/ivanreese/visual-programming-codex
 libs
 
 https://tailwindui.com/
+
+
+Voice
+-----
+
+[mycroft.ai](https://mycroft.ai/) The open and private voice assistant
+https://mycroft-ai.gitbook.io/docs/using-mycroft-ai/get-mycroft/linux

@@ -23,3 +23,26 @@ Super-model
 * [Science Must Fall](https://www.youtube.com/watch?v=C9SiRNibD14) - madness
 
 * [Young children would rather explore than get rewards](https://news.osu.edu/young-children-would-rather-explore-than-get-rewards/)
+
+
+* [Video Games are the Future of Education](https://nabeelqu.co/education)
+    * By some guy in the internet who is not in education
+    * Cites a couple of tweets
+    * Cites a couple of web articles by some web articles
+    * References no existing education practice other than personal memories of school
+
+
+* [The role of beliefs in teacher agency](https://www.tandfonline.com/doi/full/10.1080/13540602.2015.1044325)
+    * Teach agency - should teachers have freedom or should they be directed
+        * beliefs about children and young people; 
+        * beliefs about teaching;
+        * beliefs about the purposes of education
+    * ?
+        * routine (acquired patterns of action), 
+        * or on purpose (motivating ‘forces’), 
+        * or on judgement (the engagement with the situation in the here-and-now).
+    * chordal triad of agency (Emirbayer and Mische 1998)
+        * influences from the past, (iterational) (habbit)
+        * orientations towards the future (projective) (imagination)
+        * and engagement with the present. (practical–evaluative) (judgement)
+    * > The comparative lack of a clear vision about what education is for seems to seriously limit the possibilities for action to develop a good education

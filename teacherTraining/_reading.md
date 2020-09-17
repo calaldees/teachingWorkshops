@@ -1,7 +1,14 @@
 [PGCE secondary booklist](https://community.computingatschool.org.uk/resources/1787/single)
 
-General Teaching
-----------------
+Research
+--------
+
+Journals
+* [Teachers and Teaching: theory and practice](https://www.tandfonline.com/toc/ctat20/current) - International Study Association on Teachers and Teaching (ISATT)
+* [CAS: Research in Computer Science Education](https://community.computingatschool.org.uk/resources/46/single)
+    * List of UK research
+
+
 
 Computing Specific
 ------------------

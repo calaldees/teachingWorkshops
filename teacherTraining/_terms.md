@@ -1,4 +1,5 @@
-
+[Critical Reading](https://www2.le.ac.uk/offices/ld/all-resources/writing/writing-resources/critical-reading)
+[Critical Writing](https://www2.le.ac.uk/offices/ld/all-resources/writing/writing-resources/critical-writing)
 
 [Scrimmage](https://improvingteaching.co.uk/2016/08/14/practice-based-teacher-training-a-framework-for-design-and-facilitation/) e.g. microteaching is not practice
 
@@ -20,3 +21,7 @@ Flipped Classroom - Students study individually at home then come prepared to gr
 Individual Rotation - Teacher time is scheduled to give each student intervention
 Station Rotation - Students rotate on schedule around stations (online, group, hands-on, teacher)
 Lab Rotation - 
+
+
+[Self-efficacy](https://en.wikipedia.org/wiki/Self-efficacy)
+>  the beliefs a person holds regarding their power to affect situations

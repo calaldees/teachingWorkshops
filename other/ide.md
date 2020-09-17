@@ -5,10 +5,14 @@ Integrated Development Environment (IDE)
 vscode
 https://code.visualstudio.com/docs/getstarted/tips-and-tricks
 
+### hotkeys
 
-ctrl + click (goto)
+ctrl + click (goto)  (TODO: key?)
+history
+crtl + -
+crtl + shift + -
 
-alt + up/down (move line)
+alt + up/down (move lines)
 
 ctrl + l (select line)
 
@@ -21,14 +25,13 @@ esc (back to single)
 cmd + p - quick open
 
 crtl + f
-crtl + alt + f
 crtl + shift + f
 
-shift + alt + drag
+crtl + alt + f - formatter
 
-history
-crtl + -
-crtl + shift + -
+shift + alt + drag - block drag
+
+
 
 
 shift + alt + F12  (find all reference - current file)
