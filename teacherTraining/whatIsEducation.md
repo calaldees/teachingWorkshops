@@ -2,14 +2,16 @@ Session 3 - What is Education
 =============================
 
 
-* Part 1
+* Part 1 (30min)
     * How has the subject of Computing has changed in education over the years (in school and society)
     * What is a curriculum/subject curriculum?
     * Computing National Curriculum and recent policy
         * Exploring Ofsted requirements and Education inspection framework
-* Part 2
+* Part 2 (30min)
+    * Friction with Society - Group Discussion
+* Part 3 (45min)
     * Guest Speaker - Talking about his education experience in a public boarding school
-* Part 3
+* Part 4 (60min)
     * What is Computer Science education?
         * identifying conceptions of SK and PCK and own development
     * Key influential subject documents, reports and research; current and over time
