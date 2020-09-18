@@ -271,8 +271,8 @@ Tools
 TASK: Can anyone share a 60 second video of their workflow now? 
 Link in the chat for us to watch?
 
-* Blackboard Wiki
-* Blackboard Blog
+* [Blackboard Wiki](https://learn.canterbury.ac.uk/webapps/Bb-wiki-BBLEARN/wikiView?course_id=_14776_1&wiki_id=_16147_1&on_error_uri=%2Fwebapps%2Fblackboard%2Fcontent%2FlistContentEditable.jsp%3Fcontent_id%3D_2641259_1%26course_id%3D_14776_1&content_id=_2664670_1)
+* [Blackboard Blog](https://learn.canterbury.ac.uk/webapps/blogs-journals/execute/blogTopicList?course_id=_14776_1&content_id=_2664671_1&blog_id=_23666_1&action=contentList&mode=cpview)
 * [Kaltura](https://learn.canterbury.ac.uk/webapps/osv-kaltura-BBLEARN/jsp/myMediaLTI.jsp)
 * [PebblePad](https://v3.pebblepad.co.uk/) [In a nutshell (video)](https://v3.pebblepad.co.uk/spa/#/learningCentre?type=start)
 
