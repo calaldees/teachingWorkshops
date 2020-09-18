@@ -1,6 +1,11 @@
 Session 3 - What is Education
 =============================
 
+* Objectives
+    * What was education
+    * What is education?
+    * What is education for?
+    * What is Computing education?
 
 * Part 1 (30min)
     * How has the subject of Computing has changed in education over the years (in school and society)
@@ -23,17 +28,16 @@ History of Computing education in the UK
 * [Shut down or restart? The way forward for computing in UK schools](https://royalsociety.org/~/media/education/computing-in-schools/2012-01-12-summary.pdf) 2012 Recommended reforms
 * [School ICT to be replaced by computer science programme](https://www.bbc.co.uk/news/education-16493929) 2012 'Slaves to the interface'
 * [Bricklayers to Architects](https://learn.canterbury.ac.uk/bbcswebdav/pid-2641359-dt-content-rid-3959448_1/courses/E20MTETT4SPD/Bricklayers%20to%20Architects%20-%20Jones.pdf) Page 7/8
-    *   > We have many individuals who are able to use applications
-        > to varying degrees of proficiency (bricklayers) but do we
-        > have enough people capable of building the applications and
-        > hardware for the next generation of users (architects)? From the
-        > UK government’s perspective, we do not produce a sufficient
-        > number of programmers and hardware engineers. 
-    *   > The future looks to be interesting. Already there are
-        > rumblings that there are woefully small numbers of suitable
-        > graduates entering CS teacher training. Even if the number were
-        > to rise substantially, it would take some years for expertise to be
-        > built and suggested syllabi to embed
+    *   > We have many individuals who are able to use applications to varying degrees of proficiency (bricklayers) 
+        > but do we have enough people capable of building the applications and hardware for the next generation of users (architects)? 
+        > From the UK government’s perspective, we do not produce a sufficient number of programmers and hardware engineers. 
+    *   > The future looks to be interesting. 
+        > Already there are rumblings that there are woefully small numbers of suitable graduates entering CS teacher training.
+        > Even if the number were to rise substantially, 
+        > it would take some years for expertise to be built and suggested syllabi to embed
+
+* Most Computing teachers have not come from a Computing background. They have come from other subjects.
+* All _ICT teachers_ in the country were told "You now teach Computing"
 
 
 What is a curriculum/subject curriculum?
@@ -91,7 +95,6 @@ From Ofsted Education Inspection Framework
     * E-safety is now considered in the inspection of all education remits including the early years sector, further education and skills, and initial teacher education.
 
 
-
 Science Vs Engineering
 ----------------------
 
@@ -118,10 +121,14 @@ Computing in the curriculum has been criticized for not being relevant for all s
 
 This was the pre-reading.
 
-TASK: How do your personal beliefs as a _Teacher of Computing_ intersect with the opinions displayed in these articles?
-
-Show me your retention and note-taking skills.
-I will make notes on the quality of your contributions.
+TASK: Discuss
+1. What are the points raised in these articles?
+2. How do your personal beliefs as a _Teacher of Computing_ intersect with the opinions displayed in these articles?
+* As a group you must self balance - I want you facilitate equal contributions from everyone
+* The outcome of this discussion will help inform how I plan future sessions
+    * The task will be recorded
+    * I will make notes on the quality of your contributions
+    * Show me your note-taking skills, your retention and your higher order skills
 
 
 Preparing students for a future we are unsure of
@@ -247,6 +254,20 @@ Tasks
 * You've got plenty of reading inspired by this session.
 * Task for SP4: School research. Preparation for SP4 (POSTPONED)
 
+
+Tools
+-----
+
+1. You need to be able to share content with the class
+2. I need to be able to see your reflections
+3. I would like to see an example of your capturing a 60 second video and sharing it with the group
+
+* Blackboard Wiki
+* Blackboard Blog
+* [Kaltura](https://learn.canterbury.ac.uk/webapps/osv-kaltura-BBLEARN/jsp/myMediaLTI.jsp)
+* [PebblePad](https://v3.pebblepad.co.uk/) [In a nutshell (video)](https://v3.pebblepad.co.uk/spa/#/learningCentre?type=start)
+
+
 Replacement for Placement .. if you think you're not going to be busy ...
 A wakeup call ... _GiT GuD!_
 [AQA A-Level Computing](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517) [assessment resources](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517/assessment-resources)
@@ -259,10 +280,7 @@ A wakeup call ... _GiT GuD!_
 Unused
 ======
 
-Tools
------
-* [Kaltura](https://learn.canterbury.ac.uk/webapps/osv-kaltura-BBLEARN/jsp/myMediaLTI.jsp)
-* [PebblePad](https://v3.pebblepad.co.uk/) [In a nutshell (video)](https://v3.pebblepad.co.uk/spa/#/learningCentre?type=start)
+
 
 
 Types of school
