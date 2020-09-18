@@ -262,6 +262,9 @@ Tools
 2. I need to be able to see your reflections
 3. I would like to see an example of your capturing a 60 second video and sharing it with the group
 
+TASK: Can anyone share a 60 second video of their workflow now? 
+Link in the chat for us to watch?
+
 * Blackboard Wiki
 * Blackboard Blog
 * [Kaltura](https://learn.canterbury.ac.uk/webapps/osv-kaltura-BBLEARN/jsp/myMediaLTI.jsp)
