@@ -204,9 +204,12 @@ The attitude of the Teacher
 * [The role of beliefs in teacher agency](https://www.tandfonline.com/doi/full/10.1080/13540602.2015.1044325)
     * > The comparative lack of a clear vision about what education is for seems to seriously limit the possibilities for action to develop a good education
 
-TASK: From todays session. Reflect on "clear vision about what education is".
+TASK: From todays session. 
+1. Reflect on "clear vision about what education is"
+2. Articulate how this will impact your teaching (actions/next-steps)
 5min thinking/preparing.
-Round-robin the group.
+Round-robin the group. 
+
 
 Closing thoughts
 ----------------
