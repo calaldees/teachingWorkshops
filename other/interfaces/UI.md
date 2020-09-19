@@ -76,5 +76,19 @@ https://tailwindui.com/
 Voice
 -----
 
-[mycroft.ai](https://mycroft.ai/) The open and private voice assistant
-https://mycroft-ai.gitbook.io/docs/using-mycroft-ai/get-mycroft/linux
+### [rhasspy](https://github.com/rhasspy/rhasspy#rhasspy-voice-assistant)
+* [docs](https://rhasspy.readthedocs.io/)
+* [Overview of Rhasspy 2.5](https://www.youtube.com/watch?v=IsAlz76PXJQ)
+
+```bash
+    docker run \
+        -p 12101:12101 \
+        --name rhasspy \
+        --restart unless-stopped \
+        -v "$HOME/.config/rhasspy/profiles:/profiles" \
+        -v "/etc/localtime:/etc/localtime:ro" \
+        --device /dev/snd:/dev/snd \
+        rhasspy/rhasspy \
+        --user-profiles /profiles \
+        --profile en
+```
