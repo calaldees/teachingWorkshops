@@ -32,7 +32,7 @@ Super-model
     * References no existing education practice other than personal memories of school
 
 
-* [The role of beliefs in teacher agency](https://www.tandfonline.com/doi/full/10.1080/13540602.2015.1044325)
+* [The role of beliefs in teacher agency](https://www.tandfonline.com/doi/full/10.1080/13540602.2015.1044325) Biesta 2015
     * Teach agency - should teachers have freedom or should they be directed
         * beliefs about children and young people; 
         * beliefs about teaching;
@@ -46,3 +46,11 @@ Super-model
         * orientations towards the future (projective) (imagination)
         * and engagement with the present. (practical–evaluative) (judgement)
     * > The comparative lack of a clear vision about what education is for seems to seriously limit the possibilities for action to develop a good education
+
+
+* [The Social Dilemma](https://www.thesocialdilemma.com/) - Documentary about technology (Sundance films festival 2020)
+    * The technology that connets us also
+        * Divides us
+        * Monetises us
+        * Manipulates us
+

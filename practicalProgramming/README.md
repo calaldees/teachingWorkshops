@@ -162,6 +162,15 @@ Session 9
 
 
 
+Session 10
+----------
+
+
+Self directed talk about
+AND, OR, NOT, NAND, XOR
+Stacks, Queues (theory)
+
+Pair progressming of humanise
 
 
 ---

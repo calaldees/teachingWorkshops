@@ -7,7 +7,10 @@ Journals
 * [Teachers and Teaching: theory and practice](https://www.tandfonline.com/toc/ctat20/current) - International Study Association on Teachers and Teaching (ISATT)
 * [CAS: Research in Computer Science Education](https://community.computingatschool.org.uk/resources/46/single)
     * List of UK research
+* [Impact: Journal of the chartered college of teaching](https://impact.chartered.college/)
 
+[How learning tasks can fail](https://twitter.com/dylanwiliam/status/1307305389956923392/photo/1) Dylan Wiliam - tweet/slide
+[Just because they’re engaged, it doesn’t mean they’re learning](https://impact.chartered.college/article/just-because-theyre-engaged-doesnt-mean-learning/) Carl Hendrick and Jim Heal - September 2020
 
 
 Computing Specific
