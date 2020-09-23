@@ -247,20 +247,20 @@ Reflective practice
     * Cross-reference your actions
 
 You need a note taking system.
-You're note taking system should be online and transparent. I need to be able to assess (some of) this.
+Your note taking system should be online and transparent.
 
 * Every subject session has progress, evidence and actions
     * You record
         * Action points
         * Reflections
-    * Educator records
-        * Comments on each students input every session
+    * My records
+        * Comments on each student for each session
         * Monitor Engagement
-        * Every interaction with me is assessed
-            * Asking something - not a problem - 
-                I will be considering - why are they asking this?
-        * I have to justify your progress at any time
-            * E.g last year when lockdown happened - educators asked to predict on trajectory
+            * If I was asked 'How is StudentX engaging with the subject sessions'. I could respond by pointing them at your action points and reflections for each session.
+        * I could be asked to justify your progress
+            * e.g last year when lockdown happened - educators asked to predict on trajectory
+            * I will be part of a panel of professionals that could be asked about your progress
+
 
 How we will reflect? Tooling
 ----------------------------
@@ -304,8 +304,8 @@ TASKS:
 * Get a YouTube Account
     * Create + Upload an unlisted video and share it with the group
 * Construct a workflow to share your action points and reflections with the group
-    * Actions points should have dates and expected results
-    * This needs to be a cumulative record-keeping solution for the year
+    * Actions points should have dates
+    * This should to be a cumulative record-keeping solution for the year
 
 Feel free to skip tasks if you have mastered them. I will expect you to be able to perform these skills from this point onwards.
 
@@ -422,7 +422,7 @@ Friday morning (on online days) - 1 to 1 catchup sessions
 
 Express concern in a professional problem solving context
 
-TASK: Setup an informal communications channel 
+TASK: Setup an informal communications channel
 * separate from the uni systems
 * It is important that I am not part of this external group
 * ideas: whatsapp? discord? You decide/discuss the technology
@@ -483,19 +483,19 @@ TASK: SD email me your tutors name, email, school. I would like to email them a 
 
 [Are We Preparing or Training Teachers? Developing Professional Judgment in and Beyond Teacher Preparation Programs](https://journals.sagepub.com/doi/10.1177/0022487117702584) [padlet](https://padlet-uploads.storage.googleapis.com/620776567/c1f78b95d4d4ba6b8911b4ea271a0184/Are_we_preparing_or_training_teachers.pdf) Scales 2018
 
-> “Pedagogy does not often survive contact with the classroom” (Lynch, 2013, p. xv). 
-> Lynch suggests learning to teach must be a combination of views about teaching that candidates bring to programs along with experience. 
-> Lynch calls this the Tuesday morning question: 
-> What will teachers do after they have had the experience of Monday? 
-> He asserts that 
-> learning from experience is possible through theories of pedagogy, 
+> "Pedagogy does not often survive contact with the classroom" (Lynch, 2013, p. xv).
+> Lynch suggests learning to teach must be a combination of views about teaching that candidates bring to programs along with experience.
+> Lynch calls this the Tuesday morning question:
+> What will teachers do after they have had the experience of Monday?
+> He asserts that
+> learning from experience is possible through theories of pedagogy,
 > but pedagogy without experience is meaningless
 
 > How can programs prepare candidates for complex teaching situations that may not match coursework exactly? 
 > Learning to teach literacy is not simply learning content, skills, and strategies, 
 > but a way to think about teaching as a flexible, adaptive process 
 > that takes into account district requirements, school culture, teacher expertise, curricular demands, and students’ needs.
-> Teachers need to make professional judgments during teaching, 
+> Teachers need to make professional judgements during teaching, 
 > and perhaps even become subversive in adaptations, depending on their teaching contexts.
 >
 > This begins in coursework where teacher educators should help candidates understand when, where, and how to be advocates for a different stance. 
