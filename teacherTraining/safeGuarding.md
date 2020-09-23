@@ -19,3 +19,6 @@ https://www.thinkuknow.co.uk/
 * Digital Dirt
     * [Orange Digital Dirt](https://www.youtube.com/watch?v=JJfw3xt4emY)
 
+
+
+[Education for a Connected World – 2020 editionA framework to equip children and young people for digital life](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/896323/UKCIS_Education_for_a_Connected_World_.pdf) UK Council forInternet Safety

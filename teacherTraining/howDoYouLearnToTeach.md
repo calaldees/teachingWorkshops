@@ -481,7 +481,7 @@ TASK: SD email me your tutors name, email, school. I would like to email them a 
 
 ---
 
-[Are We Preparing or Training Teachers? Developing Professional Judgment in and Beyond Teacher Preparation Programs](https://journals.sagepub.com/doi/10.1177/0022487117702584) [padlet](https://padlet-uploads.storage.googleapis.com/620776567/c1f78b95d4d4ba6b8911b4ea271a0184/Are_we_preparing_or_training_teachers.pdf) Scales 2018
+[Are We Preparing or Training Teachers? Developing Professional Judgement in and Beyond Teacher Preparation Programs](https://journals.sagepub.com/doi/10.1177/0022487117702584) [padlet](https://padlet-uploads.storage.googleapis.com/620776567/c1f78b95d4d4ba6b8911b4ea271a0184/Are_we_preparing_or_training_teachers.pdf) Scales 2018
 
 > "Pedagogy does not often survive contact with the classroom" (Lynch, 2013, p. xv).
 > Lynch suggests learning to teach must be a combination of views about teaching that candidates bring to programs along with experience.

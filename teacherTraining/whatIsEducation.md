@@ -291,6 +291,71 @@ Session 4: What is Education (Part 2)
 > but pedagogy without experience is meaningless
 [Are We Preparing or Training Teachers? Developing Professional Judgement in and Beyond Teacher Preparation Programs](https://journals.sagepub.com/doi/10.1177/0022487117702584) [padlet](https://padlet-uploads.storage.googleapis.com/620776567/c1f78b95d4d4ba6b8911b4ea271a0184/Are_we_preparing_or_training_teachers.pdf) Scales 2018
 
+* Recap of some bits
+* School Direct Experience share - Teaching in school
+* Subject knowlege audit
+
+* Knowlege organisers
+
+
+[Computing in the curriculum: Challenges and strategies from a teacher’s perspective](https://link.springer.com/article/10.1007/s10639-016-9482-0) 2016 Sue Sentance and Andrew Csizmadia
+
+
+[complete lesson observation form example](https://community.computingatschool.org.uk/files/8251/original.pdf)
+
+
+* [Compute-IT](https://www.hoddereducation.co.uk/compute-it) - Computing for Key Stage 3
+    * Endorsed by Computing at School
+    * 3 book series
+    * Additional teaching resources online
+    * Example Lessons
+        * [Compute-IT 1: Unit 3 Lesson 1](http://my.dynamic-learning.co.uk/ViewLesson.aspx?i=DC06DC60-5268-417B-98AF-E81CE0E4B5D7&l=2556958&u=e27bc3ac-2aa5-4aa7-8601-b58991e957e9&vle=true)
+        * [Compute-IT 1: Unit 3 Lesson 2](http://my.dynamic-learning.co.uk/ViewLesson.aspx?i=DC06DC60-5268-417B-98AF-E81CE0E4B5D7&l=2556964&u=e27bc3ac-2aa5-4aa7-8601-b58991e957e9&vle=true)
+        * [Compute-IT 1: Unit 3 Lesson 3](http://my.dynamic-learning.co.uk/ViewLesson.aspx?i=DC06DC60-5268-417B-98AF-E81CE0E4B5D7&l=2556999&u=e27bc3ac-2aa5-4aa7-8601-b58991e957e9&vle=true)
+    * [CPD Video Lessons](https://www.youtube.com/watch?v=A0rxQnxEdiI&list=PL_8st1egDh7av261LnYKAe1guRlM1M9eB&index=3)
+
+### [Scratch](https://scratch.mit.edu/)
+
+![Scratch Pattern](./images/scratch_algorithm_art.png)
+
+### Python [Turtle](https://docs.python.org/3/library/turtle.html) Graphics
+
+```python
+import turtle
+t = turtle.Pen()
+t.forward(100)
+```
+
+* Draw a square
+* Draw a house
+
+
+[Top 12 Ways to Bring the Real World into Your Classroom](https://www.teachhub.com/classroom-activities/2010/05/top-12-ways-to-bring-the-real-world-into-your-classroom/)
+[Connecting Science Class to the Real-World](https://www.3plearning.com/blog/connecting-science-class-real-world/)
+
+
+KS3 topics/ideas
+----------------
+
+[Computing in the national curriculumA guide for secondary teachers](https://www.computingatschool.org.uk/data/uploads/cas_secondary.pdf)
+[Computing at School: Resources List](https://community.computingatschool.org.uk/resources/list)
+
+Knowledge Organisers
+--------------------
+* [Organising knowledge: The purpose and pedagogy of knowledge organisers](https://impact.chartered.college/article/organising-knowledge-purpose-pedagogy-knowledge-organisers/) MARK MILLER September 2018 [pdf](https://learn.canterbury.ac.uk/bbcswebdav/pid-2681383-dt-content-rid-4010508_1/xid-4010508_1)
+* [Improved Results & Workload with Knowledge Organisers](https://blog.teamsatchel.com/case-study-improving-results-and-reducing-workloads-with-knowledge-organisers-and-quizzes)
+* [Are knowledge organisers flawed](https://learningspy.co.uk/psychology/are-knowledge-organisers-flawed/)
+* Examples of computing knowledge organisers
+    * [Google: computing+knowlege+organiser+ks3](https://www.google.com/search?q=computing+knowlege+organiser+ks3)
+        * [george-eliot](http://www.george-eliot.warwickshire.sch.uk/knowledge-organisers)
+        * [bba.bristol](https://www.bba.bristol.sch.uk/_site/data/files/users/11/AB2F1DC3B231DC6A1648DED0BEE19BA0.pdf)
+        * [tes (selling resources)](https://www.tes.com/teaching-resource/ks3-computing-knowledge-organisers-bundle-12002170) paid
+        * [Giles Academy](http://www.gilesacademy.co.uk/computing-knowledge-organiser/)
+        * [abrahamdarbycomputing](https://abrahamdarbycomputing.wordpress.com/yr7-cs-knowledge-organisers/)
+
+> A knowledge organiser (KO) sets out the important, useful and powerful knowledge on a topic on a single page (Kirby, 2015). With the content demands of new courses, and schools adopting a knowledge-based curriculum, these are becoming increasingly popular in schools
+
+
 Recap of some bits
 ------------------
 
