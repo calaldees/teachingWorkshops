@@ -282,6 +282,54 @@ A wakeup call ... _GiT GuD!_
 [AQA A-Level Computing](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517) [assessment resources](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517/assessment-resources)
 
 
+---
+
+Session 4: What is Education (Part 2)
+=====================================
+
+> learning from experience is possible through theories of pedagogy,
+> but pedagogy without experience is meaningless
+[Are We Preparing or Training Teachers? Developing Professional Judgement in and Beyond Teacher Preparation Programs](https://journals.sagepub.com/doi/10.1177/0022487117702584) [padlet](https://padlet-uploads.storage.googleapis.com/620776567/c1f78b95d4d4ba6b8911b4ea271a0184/Are_we_preparing_or_training_teachers.pdf) Scales 2018
+
+Recap of some bits
+------------------
+
+It's become clear from talking to some of you. There are some misconceptions. I will clarify some of these points.
+
+### Computer Science Curriculum Guidance - Document
+
+This document contains
+* Session Overview (for the entire year)
+    * Subject sessions at uni + dates + content
+    * Discussions with Mentor + dates + content
+* Descriptions of reflective models
+* Proformas (these are on the general Blackboard)
+    * Lessons plans
+    * Lesson observations
+
+
+Email sent to all
+PGCE/SD Computer Science - First week information - Tue 08/09/2020 18:40 - [Computer Science Curriculum Guidance.pdf](https://learn.canterbury.ac.uk/bbcswebdav/pid-2664627-dt-content-rid-3988355_1/xid-3988355_1)
+
+* [Secondary Student Teachers' Blackboard](https://learn.canterbury.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_2635847_1&course_id=_15049_1&mode=reset)
+    * [Welcome Main Padlet](https://learn.canterbury.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_2635847_1&course_id=_15049_1&mode=reset)
+        * [All Key Paperwork](https://cccu.padlet.org/sharron_mackenzie1/nsp03wkvd1u5zx0z)
+            * Lesson Planning Form
+            * Lesson Observation Form
+            * Lesson Evaluation Form
+            * Weekley Mentor Meeting Sheet
+    * [Find your pathway](https://learn.canterbury.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_2646081_1&course_id=_15049_1&mode=reset)
+        * [PGCE](https://cccu.padlet.org/sharron_mackenzie1/vbi7l6nrkl8cvb0d)
+            * [PGCE Secondary Programme Handbook](https://learn.canterbury.ac.uk/bbcswebdav/pid-2663980-dt-content-rid-3988115_1/xid-3988115_1)
+            * [PGCE 7-14 Student Programme Handbook](https://learn.canterbury.ac.uk/bbcswebdav/pid-2664422-dt-content-rid-3993940_1/xid-3993940_1)
+        * [School Direct](https://cccu.padlet.org/sharron_mackenzie1/p1a4z1962tc7k08i)
+* [Subject Pedagogy (MTETT4SPD) E20MTETT4SPD - Computer Science](https://learn.canterbury.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_2641259_1&course_id=_14776_1)
+    * [Curriculum Guidance 2020/2021for Secondary Students and School Mentors](https://learn.canterbury.ac.uk/bbcswebdav/pid-2664627-dt-content-rid-3988355_1/xid-3988355_1)
+
+
+
+PGCE: Subject Pedagogy Assignment has been finalised
+
 
 
 ---

@@ -76,7 +76,7 @@ Blended Learning
 
 * Profetionalisum
 
-* I am in infalable - I may give you incorrect or out of date information
+* I am not infalable - I may give you incorrect or out of date information
 
 
 
@@ -97,11 +97,6 @@ Blended Learning
 
 
 
-#### Literacy and presentation
-* [How to write in plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html)
-* [HemingwayApp: Web based plain english assistant](http://www.hemingwayapp.com/)
-* [17 tips for great copywriting](https://marketingexamples.com/copywriting/tips)
-* When presenting remove redendent words. "So", "Basically", "Just" (Se my blog post on presenting)
 
 
 
@@ -231,7 +226,11 @@ https://opensource.com/article/18/4/easy-2d-game-creation-python-and-arcade
 
 
 
-https://en.wikipedia.org/wiki/TempleOS
+* [TempleOS](https://en.wikipedia.org/wiki/TempleOS)
+    * [TempleOS | Down the Rabbit Hole](https://www.youtube.com/watch?v=UCgoxQCf5Jg)
+    * One man created a 64bit OS with his own compiler, drivers, everything! An incredible feat!
+    * Mental Health - Schizophrenia
+
 
 [Building a Neurodiverse High-tech Workforce](https://www.researchgate.net/profile/Eleanor_Loiacono/publication/329458841_Building_a_Neurodiverse_High-tech_Workforce/links/5c671ab092851c1c9de45108/Building-a-Neurodiverse-High-tech-Workforce.pdf)
 
@@ -246,3 +245,20 @@ Finally the teacher said, “Balloons are like happiness. No one will find it lo
 Lets Be Hope Carriers
 *Cannot take the credit, saw it, loved it, sharing it!*
 
+
+Accessibility
+-------------
+
+Semanic meaning
+Users about to select their own font/colors
+Printable version
+Anovid animations
+Captions on videos
+http://plainenglish.co.uk/
+
+
+File -> Info -> Check for Issues -> Check Accessibility
+
+---
+
+[Learning on Screen - The British Universities and Colleges Film and Video Council](https://learningonscreen.ac.uk/) - Box of Broadcasts
