@@ -189,7 +189,7 @@ Using the resources below, identify topics related to programming in the ks3/ks4
     * Postit note with a number on every screen
         * Ask class to sort the number by only passing the postit to either of the people next to them
             * Bubblesort
-    * Ceycer cypher wheel
+    * Caesar cypher wheel
     * Stack of chairs
         * You have to take the one from the top
         * You can only put one on the top

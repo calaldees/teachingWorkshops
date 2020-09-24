@@ -471,20 +471,82 @@ Programming Projects
     * language frequency analysis
     * english grammar
 
-### Turtle Graphics
+### Python Turtle Graphics
+
+TODO: This needs to be moved
 
 [turtle](https://docs.python.org/3.3/library/turtle.html) python module documentation
 
 ```python
-import turtle
+import turtle  # https://docs.python.org/3.3/library/turtle.html
 t = turtle.Pen()
-t.forward(100)
+
+t.fd(100)
+
+t.goto(50,50)
+t.penup()
+t.goto(-200,200)
+t.pendown()
+t.fd(100)
+
+def square(size):
+    t.fd(size)
+    t.lt(90)
+    t.fd(size)
+    t.lt(90)
+    t.fd(size)
+    t.lt(90)
+    t.fd(size)
+    t.lt(90)
+def square(size):
+    for i in range(4):
+        t.fd(size)
+        t.lt(90)
+# triangle?, pentagon?
+
+for i in range(36):
+    square(100)
+    t.lt(10)
+
+def closed_shape(size, num_sides):
+    for i in range(num_sides):
+        t.fd(size)
+        t.lt(360/num_sides)
+
+def filled_shape(size, num_sides, color):
+    t.fillcolor(color)
+    t.begin_fill()
+    closed_shape(size, num_sides)
+    t.end_fill()
+
+def circle_test():
+    t.circle(120, 180)
+    t.begin_fill()
+    t.circle(120, 180)
+    t.end_fill()
+
+t.speed(0)
+breakpoint()  # If using <python3.7: import pdb ; pdb.set_trace()
+
 ```
 
-* Draw a square
-* Draw a house
+* Draw a 
+    * Training
+        * square
+        * n sided shape
+        * filled n sided shape
+        * circle (360 sided shape?)
+    * Decomposition of geomentirc artwork
+        * [Theo van Doesburg](https://www.google.com/search?q=Theo+van+Doesburg&tbm=isch) (artist using geometric squares and lines)
+        * [Simple Celtic artwork](https://www.google.com/search?q=simple+celtic+artwork&tbm=isch) (circles)
+        * [Simple Islamic artwork](https://www.google.com/search?q=simple+islamic+artwork&tbm=isch) (repeating geometric patterns/colors)
+    * Tasks
+        * house
+        * tree (filled circles or triangles)
+        * snowman
 
-You can have multiple pens
+Vector graphics formats
+
 
 #### Recursive Trees
 

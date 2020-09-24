@@ -311,10 +311,10 @@ Feel free to skip tasks if you have mastered them. I will expect you to be able 
 
 TASK: For SP3
 Create a screen capture video that is less than 2min, demoing your reflection workflow
-Requirements:
+Reflection workflow requirements:
 * Active/Current actions/tasks + Archived actions/tasks
-* Class/Tutor must have access to some of your actions/reflections/resources
-* This must be linked from the course blackboard wiki
+* Group have access to some of your actions/reflections/resources
+* Linked from the course blackboard wiki
 
 Next session we will be consolidating as a group how we reflect and collaborate online.
 
