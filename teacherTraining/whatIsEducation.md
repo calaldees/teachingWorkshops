@@ -474,7 +474,7 @@ Reminder:
 * KS3 == Year 7 to Year 9 (Level 0 to 1)
 * KS4 == Year 10 and Year 11 (Level 1 to 2)
 
-Pre-Task: Read the KS3 Computing National Curriculum
+Pre-Task: Read the [KS3 Computing National Curriculum](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study#key-stage-3)
 
 TASK 1: 30min Find, Read, Analyse a number of KS3 Computing Schemes of work. Some examples are given below
 Questions: 
