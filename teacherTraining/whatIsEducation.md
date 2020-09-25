@@ -475,6 +475,7 @@ Reminder:
 * KS4 == Year 10 and Year 11 (Level 1 to 2)
 
 Pre-Task: Read the KS3 Computing National Curriculum
+
 TASK 1: 30min Find, Read, Analyse a number of KS3 Computing Schemes of work. Some examples are given below
 Questions: 
 1. How do the topics map to the National Curriculum?
@@ -486,18 +487,19 @@ Questions:
 
 TASK 2: 30min Discuss your findings with group, paste links in chat, share screens, talk about what you've found
 
-* [Google: ks3 computing scheme of work](https://www.google.com/search?q=ks3+computing+scheme+of+work)
-* TES Teaching Resources (free low res preview are readable - login required for download)
-    * [WHHS_ICT](https://www.tes.com/teaching-resource/key-stage-3-computing-scheme-of-work-11304686)
-    * [BrianUK](https://www.tes.com/teaching-resource/key-stage-3-ks3-computing-scheme-of-work-6181029)
-    * [gdown3](https://www.tes.com/teaching-resource/complete-ks3-sow-for-computer-science-11345328)
 * [interactiveclassroom.net](https://www.interactiveclassroom.net/?page_id=163)
 * [CAS - community contribution](https://community.computingatschool.org.uk/files/5130/original.pdf)
 * [KS3 Computing and GCSE Computer Science](https://www.advanced-ict.info/theory/NC/index.html)
     * > buying, or using, someone else's scheme of work makes teachers less effective because they spend less time thinking about the curriculum as a whole, and that teachers and departments that create their own curriculum or scheme of work have more "impact".
     * [KS3 Computing Scheme of Work - Year 1](https://www.advanced-ict.info/theory/NC/scheme_1.html)
-    * [KS3 Computing Scheme of Work - Year 1](https://www.advanced-ict.info/theory/NC/scheme_2.html)
+    * [KS3 Computing Scheme of Work - Year 2](https://www.advanced-ict.info/theory/NC/scheme_2.html)
     * [The representation of data links the whole of Computing](https://www.tes.com/blog/representation-data-links-whole-computing)
+* TES Teaching Resources (free low res preview are readable - login required for download)
+    * [WHHS_ICT](https://www.tes.com/teaching-resource/key-stage-3-computing-scheme-of-work-11304686)
+    * [BrianUK](https://www.tes.com/teaching-resource/key-stage-3-ks3-computing-scheme-of-work-6181029)
+    * [gdown3](https://www.tes.com/teaching-resource/complete-ks3-sow-for-computer-science-11345328)
+* [Google: ks3 computing scheme of work](https://www.google.com/search?q=ks3+computing+scheme+of+work)
+    * There is a wealth of resources out there! Go and explore!
 
 
 ### Scheme of work - example
