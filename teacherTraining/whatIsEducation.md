@@ -683,11 +683,16 @@ Teacher Standards
 
 
 
-Recommended Reading
--------------------
+Reading for this session
+------------------------
 
-* [Computing in the national curriculum - A guide for secondary teachers](https://www.computingatschool.org.uk/data/uploads/cas_secondary.pdf)
+To complement this session please read the following items:
+
+* [CAS - Computing in the national curriculum - A guide for secondary teachers](https://www.computingatschool.org.uk/data/uploads/cas_secondary.pdf)
+    * Skim this document - It's the CAS overview of delivering Computing
 * [Computing in the curriculum: Challenges and strategies from a teacher’s perspective](https://link.springer.com/article/10.1007/s10639-016-9482-0) 2016 Sue Sentance and Andrew Csizmadia
+    * (Quick note about - research sample methods and codification)
+    * (This is a superb item of research. Please read in detail)
     * Asked 300 active Computing teachers how they recommend teaching the subject
     * five key themes
         * unplugged type activities
