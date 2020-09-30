@@ -1,20 +1,24 @@
 Session 1
 =========
 
+
+Introduction
+------------
+
+Introduction to MCOMD1INC.pptx
+
 allan.callaghan@canterbury.ac.uk
+About me
 
 Blackboard Module Handbook
 
 https://visualstudio.microsoft.com/downloads/
-
 [Live Share](https://visualstudio.microsoft.com/services/live-share/)
-
 ![Visual Studio 2019 Installation](../practicalProgramming/images/visualstudio-install.gif)
+
 
 Lecture
 -------
-
-Introduction to MCOMD1INC.pptx 
 
 Introduction to C#-Week1_2019.pptx
 
@@ -36,13 +40,19 @@ Men In Black 2 "This is how I fight"
 Workshop
 --------
 
+5 Tasks
 
 
 Tutorial
 --------
 
+Display Screen Equipment
+
 https://www.hse.gov.uk/msd/dse/
 
 
-Good Layout
-Refactoring
+Extras
+------
+
+Code Formatter
+Refactoring tools - renaming
