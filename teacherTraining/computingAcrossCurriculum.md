@@ -476,7 +476,7 @@ Programming Projects
 TODO: This needs to be moved
 
 * [turtle](https://docs.python.org/3.3/library/turtle.html) python module documentation
-    * [](https://repl.it/languages/python_turtle)
+    * [repl.it/languages/python_turtle](https://repl.it/languages/python_turtle)
         * [example](https://repl.it/@arthyha/Python-Turtle-Example#main.py)
 
 

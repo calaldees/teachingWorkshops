@@ -311,6 +311,8 @@ learning
 
 ---
 
+Computing in the curriculum: Challenges and strategies from a teacher’s perspective
+-----------------------------------------------------------------------------------
 
 * [Computing in the curriculum: Challenges and strategies from a teacher’s perspective](https://link.springer.com/article/10.1007/s10639-016-9482-0) 2016 Sue Sentance and Andrew Csizmadia
     * (This is a superb item of research. Please read in detail)
@@ -321,13 +323,10 @@ learning
         * What _challenges_ do teachers report that they face?
             * What difficulties, if any, have you experienced teaching programming?
             * What difficulties, if any, have you experienced teaching other aspects of Computing?
-    * five key themes
-        * unplugged type activities
-        * contextualisation of tasks
-        * collaborative learning
-        * developing computational thinking
-        * scaffolding programming tasks
-* challenges 
+
+### Challenges
+
+* challenges
     * teacher - Finger and Houguet (2009)
         * extrinsic
             * Lack of resources
@@ -341,7 +340,7 @@ learning
             * Subject knowledge
             * Differentiation (skills in)
             * Approaches to teaching topics (pedagogy) 
-            * extent to which the tweacher holds ownership of the curriculum
+            * extent to which the teacher holds ownership of the curriculum
     * students
         * extrinsic
             * Time to practise
@@ -352,40 +351,21 @@ learning
             * Resilience
             * Problem-solving skills
             * Engagement 
-* resilience
 
+> 6% of teachers in the survey reported to have _no problems_ with respect to teaching Computing
 
-Reading and tracing code
-
-> Lister (2011) describes that novices need to be able to trace code with more than 50% accuracy before they can begin to confidently write programs of their own
-
-> (Black et al. 2013). The key aspects that they identified were the importance to teachers of making Computing fun and relevant.
-
-computational thinking can be explicitly taught as part of the new curriculum (Csizmadia et al. 2015).
-
- 
-
-Challenges
-
-6 %, teachers reported to have no problems with respect to teaching Computing.
-
-Subject knowledge 	97
-Differentiation 	59
-Lack of time 	53 
-
-
-
-* Teachers’ own subject knowledge
+* Teachers’ own subject knowledge (1st)
+* Differentiation to meet different levels of ability (2nd)
+    * Primary school and personal interest
+    * > The gap between those that engage and achieve very quickly grows at an alarming rate
 * Students lack of understanding of content
     * > Students do not realise nature of subject before they start and sometimes find it very challenging
         * > Often the subject is viewed as ICT and most students do not know the difference. For many it comes as a shock that there is a lot of problem solving as opposed to ICT
     * > students lack a basic understanding and can want to progress to work on projects beyond their ability
     * > students tend to try to learn ‘rules’ and then cannot apply the theory to their practical work
+    * > Getting across the concept of a variable and why / how variables are used is always a challenge
 * Technical problems in school
     *  > lack of support and understanding from their managers of the complexities of teaching Computing and unwillingness on the part of technical staff to contemplate installing software that they consider could compromise the integrity and security of the school’s computer network.
-* Differentiation to meet different levels of ability
-    * Primary school and personal interest
-    * > The gap between those that engage and achieve very quickly grows at an alarming rate
 * Students willingness or ability to problem solve
     * > finding ways to encourage pupils to logically think through their problems, rather than ask for assistance at the first sign of difficulty
     * A student can know a _FOR Loop_ and _IF Statement_ but cant combine them
@@ -396,77 +376,56 @@ Lack of time 	53
     * Weaker pupils struggle with the relevance of binary
 
 
-
-> Getting across the concept of a variable and why / how variables are used is always a challenge
-
 > Bridging the gap from graphical programming (Scratch etc.) to text-based programming is a challenge
 
 
-
-
-Stratergies
-
-
-
-
-
-* Learning away from the computer (unplugged-style)
-* Collaborative working
-* Computational thinking
-* Contextualisation of learning
-* Scaffolding programming tasks
+### Strategies
 
 * Unplugged/practical (active learning) activities 
     * Unplugged strategies
     * Hands-on experiences
+    * > Ben-Ari (1998) advised teachers: “Do not run to the computer”
 * Collaborative work
     * Team coding/pair programming
     * Peer mentoring
     * Collaboration
 * Computational thinking
+    * > computational thinking can be explicitly taught as part of the new curriculum (Csizmadia et al. 2015).
     * Break down/decomposition
     * Problem solving
     * Algorithms
 * Scaffolding programming tasks
     * Scaffolding
     * Code manipulation
+    * > Lister (2011) describes that novices need to be able to trace code with more than 50% accuracy before they can begin to confidently write programs of their own
 * Contextualisation
+    * > (Black et al. 2013). The key aspects that they identified were the importance to teachers of making Computing fun and relevant.
     * Relate to real world activities
     * Using examples
     * Learn through examples
     * Contextualisation
 
-> Ben-Ari (1998) advised teachers: “Do not run to the computer”
-
-
-
-* Exploration (open-ended tasks)
-* solving problems (self-directed project)
 
 * Investigate
     * What does this code do?
     * Trace, Modify, observe
+* Exploration (open-ended tasks)
+* solving problems (self-directed project)
+* strategies that build resilience in learners 
+    * > Students tend to understand the process better if they work through wrong answers, rather than being given program code each time”
+      > “Letting them have a go and allowing them to get it wrong
+      > ...
+      > The students must code for themselves without too much intervention from the teacher in terms of theory
+    * > I am finding it hard not to just show how to solve a programming problem, and instead teach pupils to think for themselves.”
+    * [Men in Black 2: That's how I fight (clip)](https://www.youtube.com/watch?v=5NY_8ulSutc) An analogy of what coding is like. Always on the back foot, then it works! 95% getting your ass kicked
 
-*  strategies that build resilience in learners 
-> Students tend to understand the process better if they work through wrong answers, rather than being given program code each time”
-> “Letting them have a go and allowing them to get it wrong
-> ...
-> The students must code for themselves without too much intervention from the teacher in terms of theory
-
-> I am finding it hard not to just show how to solve a programming problem, and instead teach pupils to think for themselves.”
-
-[Men in Black 2: That's how I fight (clip)](https://www.youtube.com/watch?v=5NY_8ulSutc)
 
 
 ---
 
-[https://www.cccblog.org/2020/09/25/applying-mathematics-and-computer-science-to-everyday-life-anecdotes-from-donald-knuth-and-robert-tarjan/?utm_source=feedblitz&utm_medium=FeedBlitzRss&utm_campaign=cccblog](Applying Mathematics and Computer Science to Everyday Life – Anecdotes from Donald Knuth and Robert Tarjan)
+[Applying Mathematics and Computer Science to Everyday Life – Anecdotes from Donald Knuth and Robert Tarjan](https://www.cccblog.org/2020/09/25/applying-mathematics-and-computer-science-to-everyday-life-anecdotes-from-donald-knuth-and-robert-tarjan/?utm_source=feedblitz&utm_medium=FeedBlitzRss&utm_campaign=cccblog)
 
 
 
 
 
-* [https://repl.it/](repl.it)
-    * [repl.it / talk / learn - tutorials](https://repl.it/talk/learn)
-        * [Falling Ball Game](https://repl.it/talk/learn/Make-your-first-Pygame/11773)
-        * [Text 2D Map](https://repl.it/talk/learn/2D-console-games-tutorial/33813)

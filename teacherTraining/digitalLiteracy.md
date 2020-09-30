@@ -52,6 +52,7 @@ Activity: What can you expect someone with Digital Literacy to be able to do?
         * There should never be an excuse for loosing work (it's 2020)
 * What is a keylogger
 * Duplex printing
+* Copying a URL (remove the tracking query string)
 
 
 [South West Grid For Learning - Digital Literacy](https://digital-literacy.org.uk/curriculum-overview.aspx/#yr7)

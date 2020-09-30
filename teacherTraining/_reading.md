@@ -12,6 +12,7 @@ Journals
 [How learning tasks can fail](https://twitter.com/dylanwiliam/status/1307305389956923392/photo/1) Dylan Wiliam - tweet/slide
 [Just because they’re engaged, it doesn’t mean they’re learning](https://impact.chartered.college/article/just-because-theyre-engaged-doesnt-mean-learning/) Carl Hendrick and Jim Heal - September 2020
 
+[Learning Scientists](https://www.learningscientists.org/blog) Authors of 
 
 Computing Specific
 ------------------

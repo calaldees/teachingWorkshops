@@ -619,18 +619,6 @@ print(names.pop(random.randrange(len(names))))
 
 
 
-Discovery Based Learning
-------------------------
-
-* [Discovery learning](https://en.wikipedia.org/wiki/Discovery_learning#Assisted_vs._unassisted_discovery)
-    * > is a technique of inquiry-based learning and is considered a constructivist based approach to education. It is also referred to as problem-based learning, experiential learning and 21st century learning
-    * > A critical success factor to discovery learning is that it must be teacher assisted
-    * > Research shows that cognitive demands required for discovery in young children may hinder learning as they have limited amounts of existing knowledge to integrate additional informatio
-    * > Beginning learners do not have the necessary skills to integrate the new information with information they have learned in the past
-
-DISCUSS: What does this mean for KS3 and KS4
-
-
 Teacher Standards
 -----------------
 
