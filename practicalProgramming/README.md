@@ -27,41 +27,6 @@ Every session will be _ridiculously_ hard: The edge of what you are capable of. 
 95% of the time you are interacting with programs they will be in a broken state.
 
 
-Setup
------
-
-Windows
-```
-    choco install vscode python3 java ojdkbuild visualstudio2019community
-```
-OSX
-```
-    brew install vscode python3 ?java?
-```
-Linux (Ubuntu example)
-```bash
-    apt-get update && apt-get install -y python3 vscode ?java?
-```
-
-* Install language(s)
-* IDE (Integrated Development Environment)
-    * Line numbers
-    * Show white space
-    * Syntax highlighting (colors)
-* Terminal
-    * Use a good terminal (the default ones are awful)
-    * Avoid using integrated IDE terminal
-        * (want to build metal ethos that a terminal it NOT just related to coding)
-
-* Position your windows so you can see terminal and code on screen at once (50% 50% vertical)
-* Play "Don't touch the mouse" - (unplug it?)
-    * Compile and run cycle
-        * Ctrl + S
-        * Alt + Tab
-        * Up -> Enter
-            * `python filename.py`
-            * `javac *.java && java -cp ../ $(basename "$PWD").Session1`
-
 
 Session1
 --------
@@ -173,6 +138,19 @@ Stacks, Queues (theory)
 Pair progressming of humanise
 
 
----
+Session 11
+----------
 
-[#1 Thing to Learn to Become a Self-Taught Programmer](https://youtu.be/sYjEzOIa5JI?t=83) - Your knowlege of the syntax wont get you the job. The ability to produce a desired outcome will.
+(not recorded)
+
+Turtle graphics
+square, triange, pentagon, circle
+Algorithmic art
+
+
+
+Session 12
+----------
+
+VB Visual programming?
+

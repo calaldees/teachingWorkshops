@@ -475,11 +475,17 @@ Programming Projects
 
 TODO: This needs to be moved
 
-[turtle](https://docs.python.org/3.3/library/turtle.html) python module documentation
+* [turtle](https://docs.python.org/3.3/library/turtle.html) python module documentation
+    * [](https://repl.it/languages/python_turtle)
+        * [example](https://repl.it/@arthyha/Python-Turtle-Example#main.py)
+
 
 ```python
 import turtle  # https://docs.python.org/3.3/library/turtle.html
 t = turtle.Pen()
+
+#t.speed(0)
+#turtle.tracer(False) 
 
 t.fd(100)
 
@@ -525,7 +531,6 @@ def circle_test():
     t.circle(120, 180)
     t.end_fill()
 
-t.speed(0)
 breakpoint()  # If using <python3.7: import pdb ; pdb.set_trace()
 
 ```

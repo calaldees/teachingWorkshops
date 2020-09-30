@@ -500,3 +500,11 @@ TASK: SD email me your tutors name, email, school. I would like to email them a 
 >
 > This begins in coursework where teacher educators should help candidates understand when, where, and how to be advocates for a different stance. 
 > Indeed, we are not advocates of replicating program instructors or a “Clone Army” (McCallum & Lucas, 2002) of teachers who compliantly do as they are told.
+
+
+
+---
+
+TODO
+
+[Teacher professional learning and development](https://www.iaoed.org/downloads/EdPractices_18.pdf) Helen Timperley - INTERNATIONAL ACADEMY OF EDUCATION

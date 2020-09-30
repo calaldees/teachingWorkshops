@@ -155,48 +155,6 @@ Can Science and Religion be taught together?
 * Fundamental British Values (mentioned last week)
 
 
-Constructivism
---------------
-
-> Constructivism is a view of learning based on the belief that knowledge isn't a thing that can be simply given by the teacher at the front of the room to students in their desks. 
-> Rather, knowledge is constructed by learners through an active, mental process of development; 
-> learners are the builders and creators of meaning and knowledge
-
-
-> Each time one prematurely teaches a child something he could have discovered for himself, that child is kept from inventing it and consequently from understanding it completely. <sub>(Klahr & Nigam, 2004)</sub>
-
-* [Contructivist Teaching and Learning](https://saskschoolboards.ca/wp-content/uploads/97-07.htm)
-    * At the core of the constructivist classroom, we often find project-based, problem-based or experience-based learning approaches
-        * Pupil centered learning
-        * project based learning
-        * Competency based integrated curriculum (CBIC)
-        * Steiner Schools
-            * [Steiner Waldorf Schools Fellowship](https://www.steinerwaldorf.org/)
-    * [Finland Will Become The First Country In The World To Get Rid Of All School Subjects](https://curiousmindmagazine.com/goodbye-subjects-finland-taking-revolution-education-step/)
-        * [Phenomena(l) (based) Education](http://www.phenomenaleducation.info/change-with-digital.html)
-
-* [Constructivism is not a pedagogy](https://learningspy.co.uk/literacy/constructivism-is-not-a-pedagogy/) David Daidu
-    * > (Piaget) opinion was that offering education to children who are not yet ready for it was pointless. 
-      > But that doesn’t equate to not offering them anything at all
-    * > up until 2019 there is still no evidence that the teacher who takes a step back and puts the control of learning in the hands of the student is more effective and efficient than the teacher who provides explicit instruction
-    * > it is generally accepted that the transmission of our cumulative culture to future generations is what makes man as a species
-
-* [I would never send my kids to school](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school) Piotr Wozniak 2017
-    * A grizzled academic that has decided
-      > I no longer care about publishing in peer review journals
-    * > Education is based on wrong principles and a wrong design
-    * > Kids are not adults in miniature
-    * Children should never feel stressed or asked to do anything they do not want
-
-### My Case study CBIC
-
-* CBIC (my case study) - Competency Based Integrated Curriculum
-* [Teaching and learning in a competence-based curriculum: the case of four secondary schools in England](https://www.tandfonline.com/doi/abs/10.1080/09585176.2012.731008?src=recsys&journalCode=rcjo20) Byrne 2013
-    * Loss of subject base identity
-        * lack of confidence made practitioners less creative
-    * Non expert teaching
-    * lack of student autonomy - behaviour
-
 
 The attitude of the Teacher
 ---------------------------
@@ -733,4 +691,3 @@ Types of school
 * [Independent school system in a nutshell](https://www.goodschoolsguide.co.uk/choosing-a-school/independent-schools/uk-independent-schools-explained)
 
 
-> Lister (2011) describes that novices need to be able to trace code with more than 50% accuracy before they can begin to confidently write programs of their own

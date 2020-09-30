@@ -24,3 +24,6 @@ https://www.thinkuknow.co.uk/
 [Education for a Connected World – 2020 edition - A framework to equip children and young people for digital life](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/896323/UKCIS_Education_for_a_Connected_World_.pdf) UK Council forInternet Safety
 
 [Molly Russell social media material 'too difficult to look at'](https://www.bbc.co.uk/news/uk-england-london-54307976) - UK Teenage suiside linked to online content Sep 2020
+
+[Knowing pupil slang isn’t just educational – it can save lives](https://www.tes.com/magazine/article/knowing-pupil-slang-isnt-just-educational-it-can-save-lives) - If teachers can keep on top of students’ slang, it gives them an advantage in identifying any possible safeguarding issue
+

@@ -210,6 +210,8 @@ Citizenship
 Spiritual, Moral, Social and Cultural (SMSC)
 Fundamental British Values (FBV)
 
+[TES: Teach that 'no platforming' is 'harmful', schools told](https://www.tes.com/news/teach-no-platforming-harmful-schools-told) - Government RSE guidance also says teachers should explain 'harm' caused by 'cancel culture' and the importance of freedom of speech
+
 ### Activity: Research
 
 Visit the following site (5min)

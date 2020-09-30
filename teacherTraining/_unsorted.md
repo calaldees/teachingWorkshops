@@ -203,7 +203,7 @@ https://treenotation.org/designer/
 No PyGame - Interesting rational
 https://opensource.com/article/18/4/easy-2d-game-creation-python-and-arcade
 
-[SEND code of practice: 0 to 25 years](https://www.gov.uk/government/publications/send-code-of-practice-0-to-25)
+
 
 [Released jailed hacker comments about how society moved in 10 years](https://forklog.media/after-10-years-in-tech-isolation-im-now-outsider-to-things-i-once-had-mastered/)
 
@@ -265,3 +265,208 @@ File -> Info -> Check for Issues -> Check Accessibility
 
 
 [Students, Computers and Learning ](https://www.oecd-ilibrary.org/education/students-computers-and-learning_9789264239555-en) 2015 - International study of computer use by young people
+
+
+
+
+---
+
+
+* [International Academy of Education - Educational practice series](https://www.iaoed.org/index.php/ed-practices-series)
+
+https://www.iaoed.org/downloads/edu-practices_24_eng.pdf emotion
+https://www.iaoed.org/downloads/edu-practices_25_eng.pdf nurtuting creativity
+
+https://www.iaoed.org/downloads/edu-practices_26_eng.pdf
+Understanding
+and facilitating
+the development
+of intellect
+
+https://www.iaoed.org/downloads/prac03e.pdf
+Effective
+educational
+practices
+
+https://www.iaoed.org/downloads/prac07e.pdf
+How
+children
+learn
+ Stella Vosniadou
+
+ https://www.iaoed.org/downloads/prac08e.pdf Preventing
+behaviour
+problems:
+what works
+
+https://www.iaoed.org/downloads/prac10e.pdf motivation
+
+
+https://www.iaoed.org/downloads/prac11e.pdf
+Academic
+and
+socialemotional
+learning
+
+
+---
+
+
+* [Computing in the curriculum: Challenges and strategies from a teacher’s perspective](https://link.springer.com/article/10.1007/s10639-016-9482-0) 2016 Sue Sentance and Andrew Csizmadia
+    * (This is a superb item of research. Please read in detail)
+    * Asked 300 active Computing teachers how they recommend teaching the subject
+        * What _pedagogical strategies_ do teachers report work well for teaching computer science in school?
+            * What good techniques/strategies have you found for helping students to understand programming?
+            * Please describe any good techniques/strategies you use for helping students to understand other aspects of Computing?
+        * What _challenges_ do teachers report that they face?
+            * What difficulties, if any, have you experienced teaching programming?
+            * What difficulties, if any, have you experienced teaching other aspects of Computing?
+    * five key themes
+        * unplugged type activities
+        * contextualisation of tasks
+        * collaborative learning
+        * developing computational thinking
+        * scaffolding programming tasks
+* challenges 
+    * teacher - Finger and Houguet (2009)
+        * extrinsic
+            * Lack of resources
+            * practicality of implementation
+            * Lack of time
+            * varying methods of student assessment
+            * lack of history and tradition with technology education
+            * Lack of support
+            * Technical problems 
+        * intrinsic
+            * Subject knowledge
+            * Differentiation (skills in)
+            * Approaches to teaching topics (pedagogy) 
+            * extent to which the tweacher holds ownership of the curriculum
+    * students
+        * extrinsic
+            * Time to practise
+            * School and others’ expectations 
+        * intrinsic
+            * Mathematical aptitude
+            * Literacy skills
+            * Resilience
+            * Problem-solving skills
+            * Engagement 
+* resilience
+
+
+Reading and tracing code
+
+> Lister (2011) describes that novices need to be able to trace code with more than 50% accuracy before they can begin to confidently write programs of their own
+
+> (Black et al. 2013). The key aspects that they identified were the importance to teachers of making Computing fun and relevant.
+
+computational thinking can be explicitly taught as part of the new curriculum (Csizmadia et al. 2015).
+
+ 
+
+Challenges
+
+6 %, teachers reported to have no problems with respect to teaching Computing.
+
+Subject knowledge 	97
+Differentiation 	59
+Lack of time 	53 
+
+
+
+* Teachers’ own subject knowledge
+* Students lack of understanding of content
+    * > Students do not realise nature of subject before they start and sometimes find it very challenging
+        * > Often the subject is viewed as ICT and most students do not know the difference. For many it comes as a shock that there is a lot of problem solving as opposed to ICT
+    * > students lack a basic understanding and can want to progress to work on projects beyond their ability
+    * > students tend to try to learn ‘rules’ and then cannot apply the theory to their practical work
+* Technical problems in school
+    *  > lack of support and understanding from their managers of the complexities of teaching Computing and unwillingness on the part of technical staff to contemplate installing software that they consider could compromise the integrity and security of the school’s computer network.
+* Differentiation to meet different levels of ability
+    * Primary school and personal interest
+    * > The gap between those that engage and achieve very quickly grows at an alarming rate
+* Students willingness or ability to problem solve
+    * > finding ways to encourage pupils to logically think through their problems, rather than ask for assistance at the first sign of difficulty
+    * A student can know a _FOR Loop_ and _IF Statement_ but cant combine them
+    * > Students giving up easily. Not wanting to check their code. Finding it too difficult and not being prepared to “find out for themselves”. Students are too spoon fed in ICT, and other subjects,
+    * > If there is a problem, they want the teacher to correct it for them... they do not have to get it correct first time, but they do need the skills to be able to correct it and see why there was a mistake in the first place
+* Dry
+    * > some of the theory is quite dry so finding ways to make it interesting to students is a challenge
+    * Weaker pupils struggle with the relevance of binary
+
+
+
+> Getting across the concept of a variable and why / how variables are used is always a challenge
+
+> Bridging the gap from graphical programming (Scratch etc.) to text-based programming is a challenge
+
+
+
+
+Stratergies
+
+
+
+
+
+* Learning away from the computer (unplugged-style)
+* Collaborative working
+* Computational thinking
+* Contextualisation of learning
+* Scaffolding programming tasks
+
+* Unplugged/practical (active learning) activities 
+    * Unplugged strategies
+    * Hands-on experiences
+* Collaborative work
+    * Team coding/pair programming
+    * Peer mentoring
+    * Collaboration
+* Computational thinking
+    * Break down/decomposition
+    * Problem solving
+    * Algorithms
+* Scaffolding programming tasks
+    * Scaffolding
+    * Code manipulation
+* Contextualisation
+    * Relate to real world activities
+    * Using examples
+    * Learn through examples
+    * Contextualisation
+
+> Ben-Ari (1998) advised teachers: “Do not run to the computer”
+
+
+
+* Exploration (open-ended tasks)
+* solving problems (self-directed project)
+
+* Investigate
+    * What does this code do?
+    * Trace, Modify, observe
+
+*  strategies that build resilience in learners 
+> Students tend to understand the process better if they work through wrong answers, rather than being given program code each time”
+> “Letting them have a go and allowing them to get it wrong
+> ...
+> The students must code for themselves without too much intervention from the teacher in terms of theory
+
+> I am finding it hard not to just show how to solve a programming problem, and instead teach pupils to think for themselves.”
+
+[Men in Black 2: That's how I fight (clip)](https://www.youtube.com/watch?v=5NY_8ulSutc)
+
+
+---
+
+[https://www.cccblog.org/2020/09/25/applying-mathematics-and-computer-science-to-everyday-life-anecdotes-from-donald-knuth-and-robert-tarjan/?utm_source=feedblitz&utm_medium=FeedBlitzRss&utm_campaign=cccblog](Applying Mathematics and Computer Science to Everyday Life – Anecdotes from Donald Knuth and Robert Tarjan)
+
+
+
+
+
+* [https://repl.it/](repl.it)
+    * [repl.it / talk / learn - tutorials](https://repl.it/talk/learn)
+        * [Falling Ball Game](https://repl.it/talk/learn/Make-your-first-Pygame/11773)
+        * [Text 2D Map](https://repl.it/talk/learn/2D-console-games-tutorial/33813)

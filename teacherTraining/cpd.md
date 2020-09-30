@@ -124,6 +124,9 @@ You need to be proactive in seeking this out.
     * Improving pupils outcomes is not just _in lesson_ teaching strategies
         * How to reduce marking and improve quality of feedback
 
+Instructional Coaching - [Top-down observation and feedback models are flawed. Time for change](https://teacherhead.com/2020/01/25/top-down-observation-and-feedback-models-are-flawed-time-for-change/) @teacherhead
+
+
 ### Extra notes (some of my thoughts)
 
 Mostly; Teachers have enough subject knowledge. It's the other skills they need to develop.
