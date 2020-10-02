@@ -342,7 +342,9 @@ Closing Thoughts
 * Train students to check their own knowledge and train them to check each others knowledge
 * Idea: Ask students to 'Describe a concept with a picture/diagram/visual'. great retrieval practice
 
-
+Feedback:
+* You are now on your way to become professional educations.
+* Given the material I have just introduced you to, how could this online 3 hours could have been constructed to cement these concepts in more detail? More active learning? how? was it appropriate to introduce you to these topics and allow you to explore them?
 
 ---
 
