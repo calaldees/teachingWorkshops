@@ -30,6 +30,18 @@ Housekeeping
     * Please complete if you have not already filled this in
 
 
+Upcomming Task
+--------------
+
+* Friday 16th October
+* PGCE Only 
+* [Microteaching](https://en.wikipedia.org/wiki/Microteaching)
+* You are to plan and deliver 20 min computing lesson to the group as if we were KS3 or KS4 students
+* The lesson can be any topic of computing in KS3 or KS4
+* We will present in a Blackboard Collaborate session
+* We will then discuss/comment on the lesson (10min)
+
+
 Pre-Reading
 -----------
 
@@ -91,7 +103,7 @@ TASK: From our reading - Discuss
 
 ### How will this affect planning our computing lessons?
 
-* Test/Quiz == Retrieval == better learning
+* Test/Quiz == Retrieval/Recall == better learning
 * Test/Quiz regularly
 * Test/Quiz past topics
 * Test, Test, Test, Assess, Assess, Assess, Quiz, Quiz, Quiz - use that to plan
@@ -297,6 +309,27 @@ Knowledge Organisers
 TASK: What does this mean for your planning?
 
 
+Generative Learning
+-------------------
+
+Merlin C Wittrock
+> People tend to generate ... meanings that are consistent with prior knowledge
+
+* Learning should be an active process
+    1. Summarising
+    2. Mapping
+    3. Drawing
+    4. Imagining
+    5. Self-testing
+    6. Self-explaining
+    7. Teaching
+    8. Enacting
+* [Eight Ways to Promote Generative Learning](https://bootcampmilitaryfitnessinstitute.com/wp-content/uploads/2016/01/eight-ways-to-promote-generative-learning-fiorella-mayer-2015.pdf) fiorella-mayer-2015
+* [Generative Learning - Poster - Oliver Caviglioli](https://static1.squarespace.com/static/58e151c946c3c418501c2f88/t/5b6d89984ae23782be1d22ac/1533905305675/Generative+Learning+poster.pdf)
+
+TASK: What does this mean for your planning?
+
+
 ---
 
 Closing Thoughts
@@ -311,22 +344,14 @@ Closing Thoughts
 
 
 
-Setup Microteach
+---
 
-[Pupil Progress Bundles](https://learn.canterbury.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_2635853_1&course_id=_15049_1&mode=reset)
-
+[Pupil Progress Bundles](https://learn.canterbury.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_2635853_1&course_id=_15049_1&mode=reset) Early Guidance
 
 
 ---
 
 
-
-
-Generative Learning
--------------------
-
-* [Eight Ways to Promote Generative Learning](https://bootcampmilitaryfitnessinstitute.com/wp-content/uploads/2016/01/eight-ways-to-promote-generative-learning-fiorella-mayer-2015.pdf) fiorella-mayer-2015
-* [Generative Learning](https://static1.squarespace.com/static/58e151c946c3c418501c2f88/t/5b6d89984ae23782be1d22ac/1533905305675/Generative+Learning+poster.pdf)
 
 
 Constructivism
@@ -412,3 +437,4 @@ DISCUSS: What does this mean for KS3 and KS4
 https://www.5minutelessonplan.co.uk/
 
 
+* [Learning theories Poster](http://blog.richardmillwood.net/2013/05/10/learning-theory/) Big names in learning theory and their ideas
