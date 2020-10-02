@@ -41,6 +41,8 @@ Upcomming Task
 * We will present in a Blackboard Collaborate session
 * We will then discuss/comment on the lesson (10min)
 
+Theories from this session could give you ideas about how to structure this task.
+
 
 Pre-Reading
 -----------
@@ -121,6 +123,9 @@ What does this mean for your computing planning?
 We will use breakout rooms of 2/3 for you to quickly discuss what actions you will take when planning a lesson.
 
 
+Have the [Computing National Curriculum](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study#key-stage-3) to hand
+
+
 Old Theories 
 ------------
 
@@ -139,7 +144,6 @@ TASK:
 1. Watch the first 2min of the video - 
 2. Read the first few pages of YouTube comments in this video
 3. Discuss - Quick Thoughts
-4. What does this mean for your planning?
 
 
 Dual Coding
@@ -312,6 +316,12 @@ TASK: What does this mean for your planning?
 Generative Learning
 -------------------
 
+Fiorella & Mayer 2015
+
+> ... look at the process from the other side of the desk. Generative learning considers the learning experience from the point of view not of the teacher, but of the learner. It asks what should they do with instruction ... to trely make sense of it and lean in a way that allows them to apply it to new situations in the future
+
+--- generative learning in action - forward - Fiorella 2020
+
 Merlin C Wittrock
 > People tend to generate ... meanings that are consistent with prior knowledge
 
@@ -358,6 +368,8 @@ Feedback:
 
 Constructivism
 --------------
+
+Learning is viewed as something that happens in the mind of each learner.
 
 > Constructivism is a view of learning based on the belief that knowledge isn't a thing that can be simply given by the teacher at the front of the room to students in their desks. 
 > Rather, knowledge is constructed by learners through an active, mental process of development; 
