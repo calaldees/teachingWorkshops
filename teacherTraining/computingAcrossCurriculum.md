@@ -153,6 +153,12 @@ Lesson Topic Ideas
 * Give _hands on_ to students where possible
 * Look at the specs for other subjects - suggest an activity
 
+
+* [role of arts in improving health and wellbeing](https://www.gov.uk/government/publications/evidence-summary-for-policy-the-role-of-arts-in-improving-health-and-wellbeing)
+    * [@dylanwiliam tweet](https://twitter.com/dylanwiliam/status/1312737300380618752)
+        * social cohesion
+
+
 * Geography
     * [GeoTraceroute](https://geotraceroute.com/) on map
     * River Valley Simulation (spreadsheet example)

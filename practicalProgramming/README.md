@@ -152,5 +152,5 @@ Algorithmic art
 Session 12
 ----------
 
-VB Visual programming?
+VB Visual forms introduction
 

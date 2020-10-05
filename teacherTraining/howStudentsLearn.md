@@ -363,6 +363,14 @@ Feedback:
 
 ---
 
+Theory of Disuse
+----------------
+
+* [Robert Bjork - The New Theory of Disuse](https://www.youtube.com/watch?list=PLUXYyzGKlK0qhZcsH_bCTWeh37rU5gdTI&v=Hv6Vye1JCjo) YouTube Playlist Interview
+    * [original paper](https://www.researchgate.net/publication/281322665_A_new_theory_of_disuse_and_an_old_theory_of_stimulus_fluctuation) 1992
+    * When something is forgotten it is not lost. It is still stored. What needs to be exercised is retrieval.
+    * Disassociate learning from performance
+    * Input less, output more (more generative learning)
 
 
 

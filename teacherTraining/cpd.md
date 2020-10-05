@@ -523,3 +523,21 @@ One thing I have learned during my 17 years in education is avoid Death by Power
 > He lost people's attention within 30 minutes.
 > I've no doubt this man is highly intelligent and well respected but his presentation methods that day were awful. If I had done what he done in front of Estyn inspectors I'd have got my department sanctioned and I'd have been in front of HR.
 
+
+
+[Building subject-specific CPD opportunities](https://impact.chartered.college/article/building-subject-specific-cpd-opportunities/) - Laura GatwardSeptember 2020
+* Ideas for building subject-specific CPD:
+    * Keep in contact with previous colleagues
+    * Join your subject association (including their social media channels)
+    * Contact your local university/college outreach department
+    * Read about (and listen to/watch!) your subject
+    * Work with other local departments
+    * Use the evidence to highlight the importance of this with your leadership team.
+
+
+* [Leading teacher collaboration in subject-specific pedagogy](https://impact.chartered.college/article/leading-teacher-collaboration-subject-specific-pedagogy/)
+    * > investing in teacher learning has an effect size of 0.84 on student achievement (Robinson, 2011)
+    * > subject leaders focus their teams on a single lesson to be taught the following week
+    * > Teachers then write a model answer for the end-of-unit assessment task
+      > ...
+      > Having been through the steps needed to produce the model answers themselves, teachers are able to give clear and detailed explanations and anticipate where misconceptions arise (Rosenshine, 2010; Coe et al., 2014).
