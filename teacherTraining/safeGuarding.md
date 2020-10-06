@@ -15,6 +15,8 @@ https://www.thinkuknow.co.uk/
 
 * Cyberbullying
     * [Let's Fight It Together](https://www.youtube.com/watch?v=dubA2vhIlrg) - Childnet international - Joe's story
+    * [Sali Hughes: I met the woman who trolled me online](https://www.bbc.co.uk/news/uk-54421632) An adults story. This is a wider societal issue.
+        * Impassioned 9min instagram post about the trolls and their effects
 
 * Digital Dirt
     * [Orange Digital Dirt](https://www.youtube.com/watch?v=JJfw3xt4emY)
