@@ -1,27 +1,31 @@
 Behaviour
 =========
 
+PM Session
 
-    * How can we aid _Behaviour for Learning_ through our planning and teaching in Computing?
-    * Barriers to learning Computing
-        * Technical (reliable?, responsive?)
-        * Mental/Emotional (99% of the time software is broken)
-    * Verbal and non-verbal communication for behaviour
-    * The physical space of a Computer room
-    * Laws relating to computer use and how this can be incorporated into classroom practice
-    * Teacher as a role model
-        * self-regulate one’s emotions affects pupils’ ability to learn, success in school and future lives
-    * Pupils worldview and motivation
-        * Intrinsic factors (related to their identity and values)
-        * Considering 'Meaningful success' from pupils perspective
-        * pupils believe that their feelings will be considered and understood
-    * Predictable and secure environment
-        * reinforcing routines, including through positive reinforcement
+* How can we aid _Behaviour for Learning_ through our planning and teaching in Computing?
+* Barriers to learning Computing
+    * Mental/Emotional (99% of the time software is broken)
+* Verbal and non-verbal communication for behaviour
+* The physical space of a Computer room
+* Laws relating to computer use and how this can be incorporated into classroom practice
+* Teacher as a role model
+    * self-regulate one’s emotions affects pupils’ ability to learn, success in school and future lives
+* Pupils worldview and motivation
+    * pupils believe that their feelings will be considered and understood
+* Predictable and secure environment
+    * reinforcing routines, including through positive reinforcement
+
+Differed to later
+* Barriers to learning Computing
+    * Technical (reliable?, responsive?)
+* Pupils worldview and motivation
+    * Intrinsic factors (related to their identity and values)
+    * Considering 'Meaningful success' from pupils perspective
 
 
 Pre-Reading
 ------------
-
 
 * Reading (30min)
     * [Getting the simple things right: Charlie Taylor's behaviour checklists](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/571640/Getting_the_simple_things_right_Charlie_Taylor_s_behaviour_checklists.pdf)
@@ -44,60 +48,62 @@ Session Overview
 ----------------
 
 * 1 Hour: Theory
-* 30min: My real case study examples
+* 30min: My real case-study examples/stories
 * 1 Hour: Discussion Consolidation
 
-The first skill student teachers develop is behaviour management.
+Intro
+-----
 
-Recurring dream - students out of control - every night - never dreamed again (maybe once every 6 months I can remember fragments?)
+* The first skill student teachers develop is behaviour management.
+    * Without this fundamental, the house of cards cannot be built because learning cannot happen.
+
+* My early teaching career
+    * Recurring dream - students out of control - almost every night until the end of my NQT year - never dreamed again (maybe once every 6 months I can remember fragments?)
 
 
-Proactive not reactive
-Tip of the iceberge anonolgy - bits you dont see
+* Tip of the iceberg analogy - bits you don't see
+* Behaviour management is 90% pro-active and not re-active
 
-
-
-
-* [DfE Behaviour and discipline in schools](https://www.gov.uk/government/publications/behaviour-and-discipline-in-schools)  January 2016
+* [DfE Behaviour and discipline in schools](https://www.gov.uk/government/publications/behaviour-and-discipline-in-schools) January 2016
     * Teachers have a power to impose detention outside school hours
     * Teachers can confiscate pupils’ property
     * Parental consent is not required for detentions
 
-Is the curriculum accessible?
-If child feeled thretened they will not be able to alyse/judge properly
+* The biggest influence over behaviour is the lesson content
+    * Is the curriculum accessible to the learner?
+    * Is this lesson worth behaving in?
+* Is the environment safe? 
+    * If child feels threatened they will not be able to analyse/judge properly
+    * You could be perceived as the _threat_
 
-Tod and Elis 2017
-* Relationship with Self
-* Relationship with Others
-* Relationship with the Curriculum
+* Relationship needs: Tod and Elis 2017
+    * Relationship with Self
+    * Relationship with Others
+    * Relationship with the Curriculum
 
-# Benefits of good behaviour
+### Benefits of good behaviour
 
 * Stress lower (for everyone)
-* Better use of time
 * Higher attainment
+* Better use of time
 
-# Bad behaviour
+### Bad behaviour
 
-* Late
-* Missing Equipment
-* Distracting Other Students
-* Interrupting teacher
-* Attention Seeking (taking time from teacher unnecessarily)
+TASK: What was on your pre-reading list of _bad behaviours_?
 
-What is this behaviour
-What does this mean
-What strategy should I use
+* Examples
+    * Late
+    * Missing Equipment
+    * Distracting Other Students
+    * Interrupting teacher
+    * Attention Seeking (taking time from teacher unnecessarily)
 
-Teach Behaviour (like literacy strategy)
-* Objective, "build collaboration skills by"
-    * Resourcefulness, Resilience, Perseverance
-    * Ignoring distractions
-    * Sharing equipment
-    * Listen to others
-    * Mindful of other time and emotional state (Empathy)
+* What is this behaviour?
+* What does this mean?
 
-Is this lesson worth behaving in?
+### Examples of good behaviour
+
+TASK: What was on your pre-reading list of _good behaviours_?
 
 * Self (Engagement) [Emotional]
     * Confidence
@@ -116,30 +122,23 @@ Is this lesson worth behaving in?
     * Wait to speak
     * Does not annoy others, keeps on task
 
+### Explicitly teach _Behaviour_
 
-* Teaching learning behaviours will reduce the need to manage misbehaviour
-* Teachers should encourage pupils to be self-reflective of their own behaviours
-EEF 2019 
+* Objective, "build collaboration skills by"
+    * Resourcefulness, Resilience, Perseverance
+    * Ignoring distractions
+    * Sharing equipment
+    * Listen to others
+    * Mindful of other time and emotional state (Empathy)
 
+* > Teaching learning behaviours will reduce the need to manage misbehaviour
+* > Teachers should encourage pupils to be self-reflective of their own behaviours
+* Education Endowment Foundation - [Improving Behaviour in Schools](https://educationendowmentfoundation.org.uk/tools/guidance-reports/improving-behaviour-in-schools/) (2019)
+    * [Full Guidance Report](https://educationendowmentfoundation.org.uk/public/files/Publications/Behaviour/EEF_Improving_behaviour_in_schools_Report.pdf)
+    * [Summary of Recommendations Poster](https://educationendowmentfoundation.org.uk/public/files/Publications/Behaviour/EEF_Improving_behaviour_in_schools_Summary.pdf)
 
-
-
-
-
-
-
-Consistency and Policy
-----------------------
-
-Dont let your colleges down
-
-School leaders should ensure the school behaviour policy is clear and consistently applied
-
-
-Support
--------
-
-High behaviour needs
+People talk about _The Hidden Curriculum_. 
+What are you unconsciously teaching young people with your attitude and the culture you are creating?
 
 
 
@@ -148,21 +147,21 @@ Positive re-enforcement
 
 Like the sides of a water-slide - you need both rewards and sanctions as tools.
 
-The difference between
+What is the difference between
 * Positive correction
 * Positive reinforcement
 
 ### Culture
 
 I sometimes joke that teachers have the role of a _Cult Leader_.
+You are the leader of a cult.
+Kind of an odd analogy, but an idea for a mindset. You create the rules, values, indoctrinate.
 
-You are the leader of a cult
-Kind of an odd analogy, but an idea for a mindset. You create the rules, values, indoctrinate
 * Unconsciously, we try to fit in, to conform. We often try to behave normally (for that culture)
 * Normative messages
 * Routines
 
-### Intrusive?
+### As a teacher - are you intrusive?
 
 * Public vs Private praise
     * Some children would be character assassinated if they had rapport with a teacher. Be mindful.
@@ -170,14 +169,14 @@ Kind of an odd analogy, but an idea for a mindset. You create the rules, values,
     * (smile, thumbs up, nod)
     * pause, eye contact, shake head
     * gesture (4 legs on the floor)
-* How Intrusive is your intervention
+* How Intrusive is your intervention?
 
 ### Praise
 
 If you just focus on the negative/sanctions, that is only half of the story.
 
 * Rewards should be consistent (just like sanctions should be consistent)
-    * If the disruptive child sits still for 10min. That is not an opportunity for praise, that is expected.
+    * If the disruptive child sits still for 10min. That is not an opportunity for praise, It is expected behaviour.
 * Leaders should identify % of sanctions vs rewards. Teachers should be consistent across the school.
 * Hollow praise should be avoided
     * Praise should be specific given with reasons
@@ -195,12 +194,12 @@ The psychology of owning the physical space.
 * Calm (not shouting)
 * Enter calmly and orderly
     * Send some out if needed
-* Routeen to start starter task
+* Routine to start starter task
     * Start On board? 
     * Starter on paper?
-    * Logon + Load up IDE?
+    * Log-on + Load up IDE?
 * Do not be afraid to repeat whole class procedures if the class don't settle
-    * If the class get too unfocused and you can't get their focus back - take the whole class outside to lineup again
+    * If the class get too unfocused and you can't get their focus back - take the whole class outside to line up again
 
 In the event that the class are already in the classroom (+settled) when you arrive. Assert dominance over the space
 * If the lights are off turn them on (or off)
@@ -210,8 +209,6 @@ In the event that the class are already in the classroom (+settled) when you arr
 
 ### Tips
 
-* Doorway visibility trick
-    * (have sanctioned student out of sight)
 * Keyboards up, Screens off
     * Humans are like moths to a light-bulb - they CANNOT not use them
     * Get RAZOR good at detecting a single mouse/keyboard click and stop immediately
@@ -231,8 +228,6 @@ In the event that the class are already in the classroom (+settled) when you arr
 Sanctions (Negative enforcement)
 --------------------------------
 
-Snactions part 22
-
 ### Good sanctions are
 
 * clear (unambiguous)
@@ -248,29 +243,9 @@ Practical application
 * Ignore secondary behaviours (but follow it up)
     * e.g. huffing and sighing, slamming a door, rolling of eyes, repeating/delaying with questions
 
-
-### Detention
-
-Should be productive and have a purpose.
-
-[Ms McInerney’s “Book of Consequences” Detention System](https://lauramcinerney.com/ms-mcinerneys-book-of-consequences-detention-system/)
-> They WILL happen - mean what you say
-> the initial question on the sheet asked pupils to write why they were in detention. I reckon about 60% of kids said something different to the reason why I had put them on detention. Sometimes they even admitted things I hadn’t seen
-> students lied a lot less about what had happened because their words were being put down on paper. 
-> I always make pupils sign their papers and agree to what their future solution will be. Being able to get out those papers if there is ever another detention is VERY helpful for parent’s evening
-
-Concept?
-* Once they understand the reason they are there and have a resolution
-* Make them fun - build rapport - show them something amazing about computing
-    * The punishment is that you're directing their time.
-
-Question: Should a detention ever be fun? Why? Why Not?
-
-
 ### Identifying Behaviour Incentives
 
-
-* Always look for the _incentive_ for behaviour.
+* Always look for the _incentive_ for behaviour
     * What is the incentive to behave, what is the incentive not to behave?
 * They adhere to their social _role_/_status_
 
@@ -289,6 +264,32 @@ Question: Should a detention ever be fun? Why? Why Not?
     * It's not deliberate _evil_ it's just lack of social skills and socialisation
     * You can impact this!
 
+TASK: of the behaviours you identified in your pre-reading. Which ones could be _calculated_ and which ones could be _habitual_?
+Do any stand out?
+
+### Detention
+
+Should be productive and have a purpose.
+
+[Ms McInerney’s “Book of Consequences” Detention System](https://lauramcinerney.com/ms-mcinerneys-book-of-consequences-detention-system/)
+> They WILL happen - mean what you say
+> the initial question on the sheet asked pupils to write why they were in detention. I reckon about 60% of kids said something different to the reason why I had put them on detention. Sometimes they even admitted things I hadn’t seen
+> students lied a lot less about what had happened because their words were being put down on paper. 
+> I always make pupils sign their papers and agree to what their future solution will be. Being able to get out those papers if there is ever another detention is VERY helpful for parent’s evening
+
+Concept?
+* Once they understand the reason they are there and have a resolution
+* Make them fun - build rapport - show them something amazing about computing
+    * The punishment is that you're directing their time.
+
+TASK: Question: Should a detention ever be fun? Why? Why Not?
+
+#### Students feel
+
+* Teachers are evil (they all self centred. none of them understand or care about me)
+* I'm not academic (even if I try it's pointless)
+* This is a waste of my time (it's not relevant to me)
+* School is shit (there is nothing good here other than my friends)
 
 ### Resolutions - Discussions with students
 
@@ -297,14 +298,9 @@ Question: Should a detention ever be fun? Why? Why Not?
 * Separate Person from Behaviour
     * I want you in my classroom, but that behaviour should stay outside
 
+* Doorway visibility trick
+    * (have sanctioned student out of sight)
 
-#### Students feel
-* Teachers are evil (they all self centred. none of them understand or care about me)
-* I'm not academic (even if I try it's pointless)
-* This is a waste of my time (it's not relevant to me)
-* School is shit (there is nothing good here other than my friends)
-
-#### The conversation
 * Tone of conversation 
     * It's not an attack. It's a adult to adult conversation
     * (subtext: you are reassuring them they are safe)
@@ -316,6 +312,26 @@ Question: Should a detention ever be fun? Why? Why Not?
 
 Bruce Perry 3R's - Adults help to regulate behavioural thinking in adolescents
 
+* [How Inuit Parents Teach Kids To Control Their Anger](https://www.npr.org/sections/goatsandsoda/2019/03/13/685533353/a-playful-way-to-teach-kids-to-control-their-anger)
+    * Role model (calm)
+    * Stories with lots of questions (play)
+
+### Support (SEN + Behavioural specialists)
+
+Sometimes you just work with young people that are 
+* deeply disturbed
+* aggressive
+* disruptive
+* lack empathy
+* lack respect
+* come from troubled homes
+* Don't appear to learn change or grow
+
+This is not your fault. You should perform your role as normal. Use the school scansion system.
+There will be specialist SEN and Behavioural specialists in your school.
+See support/advice when needed.
+
+Story: My Year 11 Friday P5 group. What my line manager said.
 
 
 Strategies
@@ -329,15 +345,16 @@ Strategies
     * Will result in lack of respect
     * This is not the same as stern discontent or frustration
 
-
 ### Emotional conveyance as a tool
+
 Elaboration on emotion and anger - Sometimes children cannot identify with the severity if the wide _pallet of emotion_ is not used.
 I've tried to explain to groups of children. Sometimes they just don't understand. My words alone lack impact.
 I have to perform the pantomime of emotion to convey the message to the target audience.
 I'm not angry at them. I don't hate them. They are normal children. But I have to pretend to escalate my emotional state to communicate the intention effectively.
 
-
 ### Computing Specific disruptions
+
+TASK: ready your list of computing-specific behaviours
 
 * Bolt the computers down
 * Broken computers are _clearly_ marked.
@@ -373,23 +390,46 @@ My stories from teaching
 * The plum to the back of the head - and the outcome
 * Ice cream at the side of the bus
 * Gifts (hiding game)
-* The weird kid
+* The Weird Kid
+* The Hacker Kid
 * Year 11 P5 Friday - Remove the class
 * Image manipulation lesson - monster - detention - revoked
 * My teacher deleted my work - He hates me
 * Hypothetical - Teeth are flying - advice? walk away
 
 
-Computer misuse
+Computer Misuse
 ---------------
 
-Interfere with the running of somebody else's program
-Access - 1 Year
-Access with further intend 5 years + unlimited fine
-Access + Change 10 Years + unlimited fine
+Quote the act when discussing behaviour.
 
-Washing machine - turn off
-Look at their messages
+[Computer Misuse Act 1990](https://www.legislation.gov.uk/ukpga/1990/18/contents)
+* Interfere with the running of somebody else's program
+* Access 
+    * 1 Year
+* Access with further intent 
+    * 5 years + unlimited fine
+* Access + Change 
+    * 10 Years + unlimited fine
+
+* Washing machine - turn off
+* Turn another students machine off
+* Look at their messages
+
+
+Closing Thoughts
+----------------
+
+Summary
+* [Get in front of their behaviour](https://www.olicav.com/s/2-Get-In-Front-Of-Their-Behaviour.pdf) Tom Bennet - Oliver Caviglioli Poster
+
+
+
+
+
+Unsorted
+========
+
 
 Tools
 nmap - my virtual machines or network diagnostic (network admins)
@@ -397,34 +437,29 @@ wireshark - dmx
 
 [DPA 2018](http://www.legislation.gov.uk/ukpga/2018/12/pdfs/ukpga_20180012_en.pdf)
 
-(more)
-------
+
 
 * [When do detentions work?](https://improvingteaching.co.uk/2020/03/01/when-do-detentions-work/) Harry Fetcher-wood - March 2020
     * Prioritise immediacy over intensity
     * Ensure sanctions stick (they happen)
     * Make detentions productive
     * Say why and what next
-* [How Inuit Parents Teach Kids To Control Their Anger](https://www.npr.org/sections/goatsandsoda/2019/03/13/685533353/a-playful-way-to-teach-kids-to-control-their-anger)
-    * Role model (calm)
-    * Stories with lots of questions (play)
-
-Perceptions from an experienced teacher
----------------------------------------
-
-Seen it all before. The same patterns repeating over and over and over.
-You see a student chimping about and you just get board. You will have to go through hours of re-enforcement, hours of the same conversations that you've had year after year. Sometimes it will have an impact sometimes it wont. After a year of hard graft, all the progress is lost as you get another untrained army of chimps.
 
 
+### Perceptions from an experienced teacher
 
-# TODO Read these reports
+I've seen the behaviour patters before. 
+The same patterns repeating over and over and over.
+I have all the tools. But they take time/effort/mental-energy to use.
+
+You see a student chimping about and you just get board. 
+You will have to go through hours of re-enforcement, hours of the same conversations that you've had year after year.
+Sometimes it will have an impact sometimes it wont. 
+After a year of hard graft, all the progress is lost (the summer reset) as you get another army of untrained chimps.
 
 
-* Education Endowment Foundation - [Improving Behaviour in Schools](https://educationendowmentfoundation.org.uk/tools/guidance-reports/improving-behaviour-in-schools/)
-    * [Full Guidance Report](https://educationendowmentfoundation.org.uk/public/files/Publications/Behaviour/EEF_Improving_behaviour_in_schools_Report.pdf)
-    * [Summary of Recommendations Poster](https://educationendowmentfoundation.org.uk/public/files/Publications/Behaviour/EEF_Improving_behaviour_in_schools_Summary.pdf)
 
-* [Get in front of their behaviour](https://www.olicav.com/s/2-Get-In-Front-Of-Their-Behaviour.pdf) Tom Bennet - Oliver Caviglioli Poster
+
 
 
 * [Scaffolding by novice and expert teachers: The difference](https://impact.chartered.college/article/scaffolding-by-novice-expert-teachers-difference/)
@@ -448,3 +483,15 @@ You are a role model
     * Lesson entry (practice - do it again)
 
 Tom Bennet - Behaviour advisor to UK
+
+
+Consistency and Policy
+----------------------
+Dont let your colleges down
+School leaders should ensure the school behaviour policy is clear and consistently applied
+
+
+Support
+-------
+
+High behaviour needs
