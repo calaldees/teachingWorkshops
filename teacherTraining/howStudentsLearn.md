@@ -460,3 +460,5 @@ https://www.5minutelessonplan.co.uk/
 
 
 * [Learning theories Poster](http://blog.richardmillwood.net/2013/05/10/learning-theory/) Big names in learning theory and their ideas
+
+* [We Learn Faster When We Aren’t Told What Choices to Make](https://www.scientificamerican.com/article/we-learn-faster-when-we-arent-told-what-choices-to-make/)

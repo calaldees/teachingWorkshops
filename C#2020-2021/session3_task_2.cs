@@ -18,3 +18,12 @@ public class Task
         Console.WriteLine(v);
     }
 }
+
+/*
+e = double.PositiveInfinity;
+e = double.NegativeInfinity;
+e = double.Epsilon; //smallest +ve integer > 0
+e = double.MaxValue; //big number
+e = double.MinValue; //little
+e = double.NaN; //not a number (e.g.0/0)
+*/
