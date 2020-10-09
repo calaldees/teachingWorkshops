@@ -44,6 +44,18 @@ UPCOMING TASK: In groups of 3. You will be given a session-task to list one of y
 This will be towards the end of the session. The session content will augment your possible responses.
 
 
+Upcoming Task
+-------------
+
+* Friday 16th October
+* PGCE Only 
+* [Microteaching](https://en.wikipedia.org/wiki/Microteaching)
+* You are to plan and deliver 20 min computing lesson to the group as if we were KS3 or KS4 students
+* The lesson can be any topic of computing in KS3 or KS4
+* We will present in a Blackboard Collaborate session
+* We will then discuss/comment on the lesson (10min)
+
+
 Session Overview
 ----------------
 
@@ -435,7 +447,7 @@ My stories from teaching
 Task
 ----
 
-TASK: 
+TASK:
 Using content/ideas from this session.
 In groups of 3. 
 * List one of your misbehaviours
