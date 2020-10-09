@@ -129,6 +129,8 @@ There are established
 
 [Bianca Williams: Sprinter says 'I've never had to experience anything like this'](https://www.bbc.co.uk/sport/athletics/53305712)
 > Officers from the Directorate of Professional Standards have reviewed both footage from social media, and the body-worn video of the officers, and are satisfied that there is no concern around the officers' conduct.
+(But that did'nt stick
+[Bianca Williams stop-and-search: Met PCs face probe](https://www.bbc.co.uk/news/uk-england-london-54466254))
 
 When you tackle _issues_, you should consider if issue is with the _process_ or the issue is with the _individual_.
 

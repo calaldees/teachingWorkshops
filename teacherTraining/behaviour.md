@@ -47,9 +47,14 @@ This will be towards the end of the session. The session content will augment yo
 Session Overview
 ----------------
 
-* 1 Hour: Theory
-* 30min: My real case-study examples/stories
-* 1 Hour: Discussion Consolidation
+* 1.5 Hour: Theory
+    * Positive reinforcement
+    * Sanctions
+    * Strategies
+        * Computing specific
+* 45min: My real case-study examples/stories
+* 45min: Discussion Consolidation
+
 
 Intro
 -----
@@ -139,7 +144,6 @@ TASK: What was on your pre-reading list of _good behaviours_?
 
 People talk about _The Hidden Curriculum_. 
 What are you unconsciously teaching young people with your attitude and the culture you are creating?
-
 
 
 Positive re-enforcement
@@ -271,11 +275,17 @@ Do any stand out?
 
 Should be productive and have a purpose.
 
-[Ms McInerney’s “Book of Consequences” Detention System](https://lauramcinerney.com/ms-mcinerneys-book-of-consequences-detention-system/)
-> They WILL happen - mean what you say
-> the initial question on the sheet asked pupils to write why they were in detention. I reckon about 60% of kids said something different to the reason why I had put them on detention. Sometimes they even admitted things I hadn’t seen
-> students lied a lot less about what had happened because their words were being put down on paper. 
-> I always make pupils sign their papers and agree to what their future solution will be. Being able to get out those papers if there is ever another detention is VERY helpful for parent’s evening
+* [When do detentions work?](https://improvingteaching.co.uk/2020/03/01/when-do-detentions-work/) Harry Fetcher-wood - March 2020
+    * Prioritise immediacy over intensity
+    * Ensure sanctions stick (they happen)
+    * Make detentions productive
+    * Say why and what next
+
+* [Ms McInerney’s “Book of Consequences” Detention System](https://lauramcinerney.com/ms-mcinerneys-book-of-consequences-detention-system/)
+    * > They WILL happen - mean what you say
+    * > the initial question on the sheet asked pupils to write why they were in detention. I reckon about 60% of kids said something different to the reason why I had put them on detention. Sometimes they even admitted things I hadn’t seen
+    * > students lied a lot less about what had happened because their words were being put down on paper. 
+    * > I always make pupils sign their papers and agree to what their future solution will be. Being able to get out those papers if there is ever another detention is VERY helpful for parent’s evening
 
 Concept?
 * Once they understand the reason they are there and have a resolution
@@ -297,9 +307,6 @@ TASK: Question: Should a detention ever be fun? Why? Why Not?
     * The number 1 factor for success/happiness == socialisation. This is more important than ANY subject knowledge/skill
 * Separate Person from Behaviour
     * I want you in my classroom, but that behaviour should stay outside
-
-* Doorway visibility trick
-    * (have sanctioned student out of sight)
 
 * Tone of conversation 
     * It's not an attack. It's a adult to adult conversation
@@ -352,6 +359,11 @@ I've tried to explain to groups of children. Sometimes they just don't understan
 I have to perform the pantomime of emotion to convey the message to the target audience.
 I'm not angry at them. I don't hate them. They are normal children. But I have to pretend to escalate my emotional state to communicate the intention effectively.
 
+### general
+
+* Doorway visibility trick
+    * (have sanctioned student out of sight)
+
 ### Computing Specific disruptions
 
 TASK: ready your list of computing-specific behaviours
@@ -373,29 +385,12 @@ TASK: ready your list of computing-specific behaviours
 * TVBeGone
 * Computer Misuse (interrupting another program)
 * Use of facility's for other subjects (Your room could become disrupted/damaged/used)
+* _Insert_ Mode (insert key - tears)
 * [Accessibility Shortcuts](https://www.rit.edu/ntid/deafplus/windows-accessibility-shortcuts) and [StickyKeys](https://www.businessinsider.com/how-to-turn-off-sticky-keys-windows-10) - Know how to identify them
     * This can disrupt lesson by a confused student
         * Beeps on every keypress
         * Invert screen
         * Change language
-
-
-Stories
--------
-
-My stories from teaching
-
-* The Angry kid (stomping in)
-* The class that would not settle (fire extinguish)
-* The plum to the back of the head - and the outcome
-* Ice cream at the side of the bus
-* Gifts (hiding game)
-* The Weird Kid
-* The Hacker Kid
-* Year 11 P5 Friday - Remove the class
-* Image manipulation lesson - monster - detention - revoked
-* My teacher deleted my work - He hates me
-* Hypothetical - Teeth are flying - advice? walk away
 
 
 Computer Misuse
@@ -417,11 +412,52 @@ Quote the act when discussing behaviour.
 * Look at their messages
 
 
+Stories
+-------
+
+My stories from teaching
+
+* The Angry kid (stomping in)
+* The class that would not settle (fire extinguish)
+* The plum to the back of the head - and the outcome
+* Ice cream at the side of the bus
+* Gifts (hiding game)
+* The Weird Kid
+* The Hacker Kid - technicians
+* Year 11 P5 Friday - Remove the class
+* Image manipulation lesson - monster - detention - revoked
+* My teacher deleted my work - He hates me
+* Hypothetical - Teeth are flying - advice? walk away
+* Football slap from the year 11's
+* 6th form justice? This one giving you trouble sir?
+
+
+Task
+----
+
+TASK: 
+Using content/ideas from this session.
+In groups of 3. 
+* List one of your misbehaviours
+* Invite other members of the group to suggest courses of action
+* Discuss
+    * The underlying origin of what that behaviour might occur
+    * Reactive Strategies? Pro-active strategies?
+    * Short term action, Long term action
+    * Involving Others?
+        * Head of department? Form tutor? Parent? Head of year/House? Other Subject teachers? Other students? SENco?
+    * Culture? Calculated/Habitual actions? Secondary behaviours?
+    * Real young people have a complex background/experiences. They will not behave in 1 dimensional ways
+
+
+
 Closing Thoughts
 ----------------
 
 Summary
 * [Get in front of their behaviour](https://www.olicav.com/s/2-Get-In-Front-Of-Their-Behaviour.pdf) Tom Bennet - Oliver Caviglioli Poster
+
+Next week (PGCE only) Microteaching presentations
 
 
 
@@ -439,11 +475,6 @@ wireshark - dmx
 
 
 
-* [When do detentions work?](https://improvingteaching.co.uk/2020/03/01/when-do-detentions-work/) Harry Fetcher-wood - March 2020
-    * Prioritise immediacy over intensity
-    * Ensure sanctions stick (they happen)
-    * Make detentions productive
-    * Say why and what next
 
 
 ### Perceptions from an experienced teacher
