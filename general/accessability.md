@@ -17,3 +17,8 @@ Videos captioned by September 2020
 Audio and video content needs to be made accessible
 
 Appliyes to content created by external suppliers (your responsibilty)
+
+
+https://github.com/thomasjockin/lexend
+https://www.lexend.com/
+
