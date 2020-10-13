@@ -89,3 +89,8 @@ Fab** - testers should not look at code
 
 
 [How to Write Technical Posts (so people will read them)](https://reasonablypolymorphic.com/blog/writing-technical-posts/)
+
+
+[repl.it](https://repl.it/)
+[whiteboard.fi](https://whiteboard.fi/)
+See [tools](./_tools.md) for more

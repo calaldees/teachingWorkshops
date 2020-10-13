@@ -386,6 +386,7 @@ Using real data is inspiring
             * [Lightening Maps](https://www.lightningmaps.org/)
             * [Windy.com](https://www.windy.com/)
             * [Rain-dar](https://meteoradar.co.uk/realtime-rainradar)
+        * [Electricity Map of the World](https://www.electricitymap.org/) - Ranked by carbon intensity of electricity consumed (gCO₂eq/kWh)
 
 [Senate Stock Watcher](https://senatestockwatcher.com/) US Senators invest in socks. Before CoVid 19 many senators sold stocks in travel/touisum and invested in medical supplies while telling the US population 'not to worry'. Senetors report their stocks with paper written notes. It takes multiple weeks to process them and they can be incorrect/misinterpreted as handwriting can be hard to read.
 

@@ -311,6 +311,7 @@ Summary of interesting bits
     * RTS - line of sight shoot - can shoot
 * [P vs NP](https://www.youtube.com/watch?v=YX40hbAHx3s)
     * Heuristic models
+    * [traveling-salesperson-record](https://www.quantamagazine.org/computer-scientists-break-traveling-salesperson-record-20201008/)
 * [Halting problem](https://www.youtube.com/watch?v=macM_MtS_w4)
 
 

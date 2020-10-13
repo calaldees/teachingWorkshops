@@ -4,3 +4,5 @@
     * [How to get promoted](https://defmacro.substack.com/p/how-to-get-promoted) - realistic observation about how business's work
 * [Afua Hirsch: 'Don't sell off history with slave links - use it to educate'](https://www.bbc.co.uk/news/entertainment-arts-54418909)
 
+
+* [Model paper Boeing 777](https://www.lucaiaconistewart.com/model-777)
