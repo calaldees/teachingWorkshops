@@ -94,3 +94,6 @@ Fab** - testers should not look at code
 [repl.it](https://repl.it/)
 [whiteboard.fi](https://whiteboard.fi/)
 See [tools](./_tools.md) for more
+
+
+https://www.khanacademy.org/khan-for-educators/resources/teacher-essentials/teaching-computing/a/pair-programming-in-the-classroom?modal=1

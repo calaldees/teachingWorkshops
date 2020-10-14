@@ -9,8 +9,12 @@ Resources for PGCE/SchoolDirect Secondary Computing.
 * That you include a range of viewpoints on the pedagogy, and pedagogies that might be contentious (I have bought myself a copy of ‘Teach like a champion’)
     * If we promote a narrow menu of pedagogies we make ourselves redundant to some and possibly set ourselves up to be redundant to our schools as well
 
-https://www.gov.uk/government/publications/teachers-standards
-https://www.gov.uk/government/publications/initial-teacher-training-itt-core-content-framework
+* ITT (DfE) == ITE (Ofstead)
+* [Teacher Standards](https://www.gov.uk/government/publications/teachers-standards)
+* [Initial teacher training (ITT): core content framework](https://www.gov.uk/government/publications/initial-teacher-training-itt-core-content-framework)
+* [Initial teacher education (ITE) inspection framework and handbook](https://www.gov.uk/government/publications/initial-teacher-education-ite-inspection-framework-and-handbook)
+* [Ofsted annual report](https://www.gov.uk/government/collections/ofsted-annual-reports)
+
 
 Disclaimer
 ----------

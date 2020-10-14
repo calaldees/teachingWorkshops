@@ -426,6 +426,178 @@ Computing in the curriculum: Challenges and strategies from a teacher’s perspe
 [Applying Mathematics and Computer Science to Everyday Life – Anecdotes from Donald Knuth and Robert Tarjan](https://www.cccblog.org/2020/09/25/applying-mathematics-and-computer-science-to-everyday-life-anecdotes-from-donald-knuth-and-robert-tarjan/?utm_source=feedblitz&utm_medium=FeedBlitzRss&utm_campaign=cccblog)
 
 
+---
+
+[Flexible Autonomy: How online resources and live tutorials have been used successfully to develop and enhance subject knowledge in trainee teachers](https://impact.chartered.college/article/flexible-autonomy-how-online-resources-live-tutorials-used-successfully-develop-enhance-subject-knowledge-trainee-teachers/)
 
 
+* social constructivism - Vygotsky’s (1980) zone of proximal development
+    * this approach can lack rigour, as students are free to learn what they can and the teacher stands to the side as facilitator
+* Connectivisum - (Downes, 2012)
+    * Virtual collaborative spaces where knowlege
+    * generate there own connections
+    * recognises the unpredictability of the learning process
+    * does not provide an adequate space in which learning is confirmed, challenged and enhanced
+* The emergentist model (Osberg and Biesta, 2008) 
+    * responsibility on the educator to maintain a space of emergence in which they assume the role of provocateur
+
+ ‘the sustained and intentional process of checking the accuracy and validity of our teaching assumptions’ (Brookfield, 2017, p. 3).
+
+online and non linear
+
+* students select and study whichever sessions meet their needs, in any order
+* 50 individual on-demand sessions
+    * four brief lectures (usually less than 10 minutes each)
+    * recommended readings and resources
+    * end-of-session task
+    * self-assessment grid.
+Students cannot engage in debate when interacting with asynchronous materials, so the design team attempted to internalise this debate.
+Monthly induction
+
+---
+
+[Adaptations to a face-to-face initial teacher education course‘forced’online due to the COVID-19 pandemic]() - Benjamin Luke Moorhouse - Journal of Education for Teaching
+
+* We are doing this
+    * Breakout rooms
+    * Async tasks
+    * students responses are shorter and they prefer text
+
+---
+
+
+The Canterbury Partnership Teacher
+
+The Canterbury Partnership is committed to the development of outstanding teachers who have a transformative impact on learners’ lives. We work together to ensure that the teachers we educate bring about progress in learning which transforms learners’ knowledge, skills and understanding and their opportunities in life. 
+
+•	The Canterbury Partnership Teacher is a reflective practitioner who applies creative and critical approaches to professional practice and academic learning, and who uses an extensive repertoire of knowledge, skills and understanding to make learning transformative. 
+
+•	The Canterbury Partnership Teacher takes responsibility for his or her own professional development and demonstrates this through a sustained drive to excellence in professional practice and academic learning through initial training and beyond. 
+
+•	The Canterbury Partnership Teacher benefits from and contributes to outstanding research informed teaching and experiences learning environments where the challenge and support needed to achieve outstanding outcomes for learners are constantly sustained.  
+
+•	The Canterbury Partnership Teacher’s practice is informed by a demanding professional and academic curriculum enriched by international and global perspectives and an understanding of and commitment to our collective stewardship of the natural world. 
+
+•	The Canterbury Partnership Teacher is a champion of equality, diversity and inclusion. He or she is a resilient, resourceful professional, driven by a personal and collaborative quest to make a difference to the life of every learner.
+
+This definition is underpinned by the values emanating from Canterbury Christ Church University’s Church of England foundation, especially the belief in our responsibility to find and develop the God-given potential in all learners. The University works with partners whose values enable them to make a shared enthusiastic commitment to the development of teachers who have a transformative effect on learners’ lives.
+
+
+----
+
+Formative assessment of subject sessions
+
+What we want to assess?
+Engagement? Action points?
+Padlets collective - Survey every session
+Blue Sky journals - (see mentors meeting progress)
+Weekley reflection sheet - R4P
+
+Are sessions helping development as a teacher
+
+Menti meter?
+
+
+---
+
+* [a breif history of learning theorys](https://www.youtube.com/watch?v=fgnd4rj2pT8)
+    * 1950's
+        * Behaviourisum - rote learning
+            * Desired behaviour rewarded
+            * undesired bhaviour punished
+    * 1960's
+        * Cognitivisum - mental action or process of learning
+    * 1970's
+        * Constructivisum
+            * Building our own understanding (requires effort)
+            * Knowledge is constructed and not transmitted
+    * 1980's
+        * Socio Constructivisum (Piaget)
+            * Piage rejection _passive assimilation_
+            * compare with other
+            * Contextualisations and social interactions
+            * Increased Motivation
+            * Deep learning
+            * Independent thoughts
+
+* [Course Design: constructive alignment](https://www.youtube.com/watch?v=c5hpRX5ZeIc)
+    * Constructive alignment (all the below should be aligned)
+        * Intended learning outcomes 
+            * (Bigs and Tang) statements from students perspective
+            * Action verbs - design, plan, analyse
+        * Teaching/Learning Activities
+        * Assessment Feedback Tasks
+
+* [Bloom's Taxonomy: Why, How, & Top Examples](https://www.youtube.com/watch?v=OOy3m02uEaE&feature=emb_logo)
+    * Create
+        * Generate, Plan, Produce
+    * Evaluate
+        * Critique, Judge
+    * Analyze
+        * Break down, Calculate, Model, Subdivide, Infer
+    * Apply
+        Apply, Choose, Modify, Discover, Diagram, Show
+    * Understand
+        * Explain, Summarize, Infer, Paraphrase, Discuss
+    * Remember
+        Memorize, Describe, Order, Name, Arrange
+
+* [Ray Land on Threshold Concepts](https://www.youtube.com/watch?v=kiNQAWFzULE&feature=emb_logo)
+    * Gifted students still get stuck on aspects of their learning
+    * Lenses are useful tools, but- focus/highlight an area and blur/background others
+    * Inform curriculum design
+        * Change the mode (field trip, lab, paper, theory)
+
+### OPAR framework
+The most important thing to remember is: what do you want students to have learnt by the end of the session and how will you know to what extent they have learnt it?
+* Orient
+    * What’s the topic?
+    * Why does this topic matter (to students/field/world)?
+    * What do students already know about the subject?
+    * How can you relate today’s topic to what students already know?
+    * (5-10 minute chunk – ideally interactive/stimulating)
+* Present
+    * What are the core concepts/skills that you need to demonstrate or explain to students? 
+    * How can you most effectively communicate these?
+    * (5-10 min chunks)
+* Apply
+    * What can you feasibly get students to do during teaching time to let them practice the skill or applying the concepts/knowledge?
+    * (In a 50 minute session, aim for 20+ mins of activities and remember to time allow for activity feedback/presentation)
+* Review
+    * How do you know that the students have learnt what you wanted them to have learnt?
+    * (E.g. quiz, demonstration, presentation, poster-presentation, student generated summary, visiting working groups and listening-in)
+    * Have you linked that back to the session aims?
+    * In an hour long session you’d aim to spend the last 10 min on this
+
+### Active Learning
+
+* [Active Learning](http://geoffpetty.com/for-teachers/active-learning/) - Geoff Petty
+    * set activities that require students to make their own meanings of the concepts
+    * Same and different
+        * one they are familiar with, and one they are presently studying
+    * Graphic organisers
+        * self-assess their own diagram using a model diagram provided by you
+    * Decisions-Decisions
+        * given a set of cards to match, group, rank, or sequence
+            * order of importance, then sort them by who benefits, customer, business, supplier, or investor
+            reject your 'spurious' cards
+    * Feedback
+        * self assessment and peer assessment
+    * Hypothesis testing
+        * a statement that is partly true, but partly false "The more advertising the better"
+* Activities
+    * [Formative Teaching Methods](http://geoffpetty.com/wp-content/uploads/2012/12/FormativeTeachingMethods2.doc)
+        * active methods that provide the learner and the teacher with feedback
+
+Groundrules for self and peer assessment
+students must enter into the methods with the right spirit
+Try to agree the following with your students
+We will learn best if we all agree that
+
+
+Questions for another group - simple, medium, advanced
+
+---
+
+A Handbook for Teaching and Learning in Higher Education, fourth edition. Abingdon: Routledge. eBook publication date: 2015
 

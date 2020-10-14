@@ -12,3 +12,6 @@ https://www.khanacademy.org/computing
 
 
 [CAS - Computational Thinking - A guide for teachers](https://community.computingatschool.org.uk/files/8550/original.pdf)
+
+
+[MIT Open Courseware](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience)
