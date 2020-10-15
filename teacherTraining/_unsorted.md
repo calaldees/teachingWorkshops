@@ -502,25 +502,28 @@ Menti meter?
 
 * [a breif history of learning theorys](https://www.youtube.com/watch?v=fgnd4rj2pT8)
     * 1950's
-        * Behaviourisum - rote learning
+        * Behaviourism (Pavlov and Skinner 195x?) - rote learning
             * Desired behaviour rewarded
-            * undesired bhaviour punished
+            * undesired behaviour punished
     * 1960's
-        * Cognitivisum - mental action or process of learning
+        * Cognitivisum (Neisser 1967) - mental action or process of learning - brain is a computer
+            * Revision for exams
     * 1970's
-        * Constructivisum
+        * Constructivism (Bruner and Piaget)
             * Building our own understanding (requires effort)
             * Knowledge is constructed and not transmitted
     * 1980's
-        * Socio Constructivisum (Piaget)
-            * Piage rejection _passive assimilation_
+        * Socio Constructivism (Vytgostky 1978)
+            * Piaget rejection _passive assimilation_
             * compare with other
             * Contextualisations and social interactions
             * Increased Motivation
             * Deep learning
             * Independent thoughts
+    * 1990's ?? Experiential Learning (Kolb)
+        * Kolb Cycle - reflect -> practice -> reflect -> practice
 
-* [Course Design: constructive alignment](https://www.youtube.com/watch?v=c5hpRX5ZeIc)
+* [Course Design: constructive alignment](https://www.youtube.com/watch?v=c5hpRX5ZeIc) (Biggs 1999)
     * Constructive alignment (all the below should be aligned)
         * Intended learning outcomes 
             * (Bigs and Tang) statements from students perspective
@@ -528,7 +531,7 @@ Menti meter?
         * Teaching/Learning Activities
         * Assessment Feedback Tasks
 
-* [Bloom's Taxonomy: Why, How, & Top Examples](https://www.youtube.com/watch?v=OOy3m02uEaE&feature=emb_logo)
+* [Bloom's Taxonomy: Why, How, & Top Examples](https://www.youtube.com/watch?v=OOy3m02uEaE&feature=emb_logo) (Revised Krathwohl 2001)
     * Create
         * Generate, Plan, Produce
     * Evaluate
@@ -547,6 +550,14 @@ Menti meter?
     * Lenses are useful tools, but- focus/highlight an area and blur/background others
     * Inform curriculum design
         * Change the mode (field trip, lab, paper, theory)
+    * Threshold concepts are (not in video)
+        * Transformative
+        * Irreversible
+        * Integrative - expose previous hidden interrelatedness
+        * Troublesome
+
+Fixed/Growth Mindset (Dweeck 2006)
+
 
 ### OPAR framework
 The most important thing to remember is: what do you want students to have learnt by the end of the session and how will you know to what extent they have learnt it?
@@ -597,7 +608,121 @@ We will learn best if we all agree that
 
 Questions for another group - simple, medium, advanced
 
+
+
 ---
 
 A Handbook for Teaching and Learning in Higher Education, fourth edition. Abingdon: Routledge. eBook publication date: 2015
 
+Chapter 5 - Student Learning
+
+HE Higher education not mass leccutre
+Blame students as poor learners
+
+Life skills, graducate attributes
+
+Students learn by - doing
+Teaching is hard
+Graduates should be able to - reflect
+Main challenge - too much ephemeral practical content
+
+lense of 'not empty' - what do they have already and build on it
+
+surface approach - just the test
+deep approach - wholistic
+
+constructivly aligned curriculum
+differneceiated learning + encourage experiemntal creativity
+protect against burnout
+
+Students kind of default to _surface_
+persuade them to swich mode to _deep_
+
+Biggs and Tang 2009 - SOLO taxonomy
+Pre structureal: misses the point
+* unistructural: part of knowlege
+* Multistructural: many facts, but not structured
+* Relational: makes sense of key facts
+* extended abstract: coherant whole
+(verbs to define)
+
+socio constructivisum
+
+
+zone of proximal development (ZPD) - what learning is posisible in the environment - scaffold
+communities of practice - learning communities
+Legitimate periferal particippation - novice members of the comunit are given oppertunityes to be compitent participants (Lave and Wenger 1991)
+ - thing pracgtice of excusion might be embedded
+
+ 
+
+
+Kolb cycle
+* Reflective observation (divergent)
+* abstract conceptulisation (assimilation)
+* Active exerpimentation (convergent)
+* concreat experience (accomodator)
+
+Myers Biggs inventory - bollox?
+
+
+IQ is not correlated with bias
+
+
+--
+
+PGCAP Success
+
+Ongoing practice
+Reflection ongoing
+Schedule a build-up of evidence throughout the term - schedule
+09:56
+Model the behaviours we expect from our students
+09:56
+Schedule reading tasks
+09:57
+Always more stuff to do than there is time to do it. Understand urgent tasks are not always the most important
+09:57
+Make time!
+09:58
+Plan to get observed sooner rather than later
+09:58
+Solicit advice from peers
+09:59
+Engage with peers in an active way
+10:00
+Safe space - mindful that we should all be comfortable in making mistakes
+
+---
+
+Kahoot - Rank annoys me (speed of answer shit) - music annoys me - I'm disadvantages by reading speed - Use Anoniumus name fro avoid highscore crap
+'Shiny interactive tool'ed out
+
+Anonnimous feedback - how?
+
+
+
+---
+
+
+Give the facts - pracice the task
+Core psycology menonics
+Sometimes just have to lecture
+Done the reading - have to comment
+
+Just given reading - they dont have the skills to digest it
+
+---
+
+Designate a note-taker
+
+
+Debate?
+Solo
+How a theory or concpet ment a log to you and changed you
+
+
+Done the reading - but don't have the skills to actually have got anything from it
+
+
+* [Classroom Response Systems](https://www.canterbury.ac.uk/learning-and-teaching-enhancement/learning-platform-suite/classroom-response-systems.aspx)

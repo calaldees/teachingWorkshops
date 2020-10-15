@@ -27,7 +27,7 @@
 * Code review
 * Pair programming
 
-[why-peer-learn](https://blog.hyperlog.club/why-peer-learn/)
+[The Advantages of Peer Learning](https://web.archive.org/web/20191115133445/https://blog.hyperlog.club/why-peer-learn/)
 
 ## Events
 
