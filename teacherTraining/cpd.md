@@ -541,3 +541,36 @@ One thing I have learned during my 17 years in education is avoid Death by Power
     * > Teachers then write a model answer for the end-of-unit assessment task
       > ...
       > Having been through the steps needed to produce the model answers themselves, teachers are able to give clear and detailed explanations and anticipate where misconceptions arise (Rosenshine, 2010; Coe et al., 2014).
+
+
+Unsorted
+========
+
+Sharing resources
+-----------------
+
+You help 30 young people?
+What about 100? 1000?
+All on the same team, all with the same objective and paid from the same pot. Share your resources!
+(the sinister side) perception
+
+* Publish (nobody knows you exist)
+    * Internally
+        * Your department / school
+    * Externally
+        * webserver
+        * public dropbox / google drive
+        * school website
+    * Blog? Observations about the profession? Commentary?
+    * Visit another school to share practice- get day off timetable!
+* Grow/Evolve Resources (the world now knows you exist - what's in it for you)
+    * Encourage contributions from
+        * From Teachers
+        * Students!!!!
+        * The wider world
+    * How?
+        * Feedback/Comments
+        * Google docs?
+            * comments only
+        * Version control (git)
+            * [github.com/ComputingTeachers](https://github.com/ComputingTeachers)

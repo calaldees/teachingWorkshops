@@ -396,6 +396,9 @@ https://data.cambridgeshireinsight.org.uk/dataset/mill-road-project-traffic-sens
 
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
+Data formats
+[Indoor Mapping Data Format](https://register.apple.com/resources/imdf/)
+
 
 Discipline's
 ------------
