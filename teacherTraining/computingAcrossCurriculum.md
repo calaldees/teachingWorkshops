@@ -181,6 +181,8 @@ Lesson Topic Ideas
         * Restorations
             * [[4k, 60 fps] A Trip Through New York City in 1911](https://www.youtube.com/watch?v=hZ1OgQL9_Cw)
             * [[60 fps] Laborers in Victorian England, 1901](https://www.youtube.com/watch?v=5HbElEqm1TQ)
+    * Visualisations
+        * (not really an activity, but cool!) [How bridges built in middle ages](https://twitter.com/KiwiEV/status/1316493212605911040)
     * History of Computing Timeline
         * TODO:
         * [BBC - Computer Literacy Project 1980-1989](https://clp.bbcrewind.co.uk/)
@@ -387,6 +389,7 @@ Using real data is inspiring
             * [Windy.com](https://www.windy.com/)
             * [Rain-dar](https://meteoradar.co.uk/realtime-rainradar)
         * [Electricity Map of the World](https://www.electricitymap.org/) - Ranked by carbon intensity of electricity consumed (gCO₂eq/kWh)
+        * [SlowWays](https://slowways.uk/) - footpaths between cities
 
 [Senate Stock Watcher](https://senatestockwatcher.com/) US Senators invest in socks. Before CoVid 19 many senators sold stocks in travel/touisum and invested in medical supplies while telling the US population 'not to worry'. Senetors report their stocks with paper written notes. It takes multiple weeks to process them and they can be incorrect/misinterpreted as handwriting can be hard to read.
 

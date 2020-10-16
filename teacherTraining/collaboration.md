@@ -10,17 +10,23 @@ Objectives
 Version Control (30 min)
 ===============
 
-* Task
-    * Code Review [Example GitHub Pull Request](https://github.com/calaldees/codeReviewExample/pull/1)
-    * 10min
 
-Demo of (15min)
+Demo of (20min)
+* Create new repo
+* clone repo
+* create sub file
 * branch
+    * create 2 branches
 * commit (history)
     * git tree
     * [GitHub/network](https://github.com/calaldees/KaraKara/network)
 * Conflict resolution
 
+
+
+* Task
+    * Code Review [Example GitHub Pull Request](https://github.com/calaldees/codeReviewExample/pull/1)
+    * 10min
 
 
 Teacher Collaboration (15 min)
