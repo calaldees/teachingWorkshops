@@ -23,7 +23,7 @@ Direction was deliberately light to facilitate
 Spirit of the exercise
 ----------------------
 
-* An open exploitative experiment
+* An open explorative experiment
     * We are not looking for polished lessons or skills
     * This may be the first time any of you have delivered a lesson
     * It is a REALLY scary experience
