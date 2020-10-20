@@ -20,7 +20,15 @@ Programming challenges
 https://www.codewars.com/
 
 
-●Barefoot Computing http://www.barefootcas.org.uk●●Computing at School http://www.computingatschool.org.uk●●CS4FN http://www.cs4fn.org/●●CS Insidehttp://csi.dcs.gla.ac.uk/●●CSTA Computational Task Force http://www.csta.acm.org/Curriculum/sub/CompThinking.html●●CS Unplugged http://csunplugged.org/●●Digital Schoolhouse http://www.digitalschoolhouse.org.uk●●Teaching London Computing http://www.teachinglondoncomputing.org
+Barefoot Computing http://www.barefootcas.org.uk
+Computing at School http://www.computingatschool.org.uk
+CS4FN http://www.cs4fn.org/
+CS Insidehttp://csi.dcs.gla.ac.uk/
+CSTA Computational Task Force http://www.csta.acm.org/Curriculum/sub/CompThinking.html●●
+CS Unplugged http://csunplugged.org/
+https://classic.csunplugged.org/
+Digital Schoolhouse http://www.digitalschoolhouse.org.uk
+Teaching London Computing http://www.teachinglondoncomputing.org
 
 
 [CAS - Computational Thinking - A guide for teachers](https://community.computingatschool.org.uk/files/8550/original.pdf)
@@ -36,3 +44,7 @@ https://www.codewars.com/
 General
 * [Teacher Training Videos](https://www.teachertrainingvideos.com/) Rustle Stannard
     * Videos for educating teachers to use technology in their lessons
+
+
+Starters
+[The Starter Activity Generator](https://www.tes.com/teaching-resource/the-starter-activity-generator-6336796)

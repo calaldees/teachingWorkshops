@@ -205,9 +205,8 @@ Friday 16th October (Campus) - Week 7 - ??
     * Modes of behaviour in Computing (modeling behaviour)
         * Pair programming
         * Code review
-    * Context transfer
-        * Pupils are likely to struggle to transfer what has been learnt in one discipline to a new or unfamiliar context
-        * How can principles of Computing be used in other subjects
+    * Collaboration techniques in Computing
+        * version-control
 
 ### SP8 (PGCE/SD)
 Friday 23rd October (Campus) - Week 8 - Lg14(IT)
@@ -215,10 +214,9 @@ Friday 23rd October (Campus) - Week 8 - Lg14(IT)
 * Questioning
     * Asking not telling
     * Pupil lead learning/enquiry? Constructivism?
-* Meta-cognition and cognitive load
-* Collaboration techniques in Computing
-    * version-control
+* Meta-cognition
 * eLearning environments and tools
+
 
 Monday 26th October - Academic Development Week
 

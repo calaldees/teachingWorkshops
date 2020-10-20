@@ -568,6 +568,17 @@ breakpoint()  # If using <python3.7: import pdb ; pdb.set_trace()
 
 Vector graphics formats
 
+### Generate graphs of equasions
+
+Give a framework to put pixels on screen
+Draw x and y axis
+take function and draw line
+x+2
+x*2
+x*0.5
+Log
+x^2 - 2
+X^3
 
 #### Recursive Trees
 
