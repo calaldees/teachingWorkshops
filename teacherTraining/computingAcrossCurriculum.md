@@ -190,6 +190,8 @@ Lesson Topic Ideas
             * Languages
                 * [20 most significant programming languages in history](https://anarc.at/blog/2020-02-02-most-significant-programming-languages-history/)
                 * [10 Most(ly dead) Influential Programming Languages](https://hillelwayne.com/post/influential-dead-languages/)
+* Film (this is more _context_ than curriculum. Just here as a placeholder ...)
+    * [Python For Feature Film](https://www.gfx.dev/python-for-feature-film)
 * Physics
     * Simulation
         * https://landgreen.github.io/physics/index.html
@@ -614,19 +616,10 @@ re.search(r'AC[AG].GT[AT]{5,6}AAA', dna)
 
 ### Conways Game of Life
 
+Emergent behaviour from simple rules
+
 * [Conway's game of life](http://www.conwaylife.com/)
-* [The Recursive Universe](http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/)
-* [Conway basic patterns](http://pi.math.cornell.edu/~lipa/mec/lesson6.html)
-* [Build a working game of Tetris in Conway's Game of Life](https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life)
-* Web Based Examples
-    * [Simple](https://playgameoflife.com/)
-    * [Example](https://pmav.eu/stuff/javascript-game-of-life-v3.1.1/)
-    * [Example 2](https://www.samcodes.co.uk/project/game-of-life/)
-* x86 Assembler
-    * [MSDOS 32bytes](https://www.pouet.net/prod.php?which=85485)
-
-* [python txt+pygame + conway wiki RLE](https://github.com/calaldees/TeachProgramming/tree/master/teachprogramming/static/projects/data/other/)
-
+(Search conway in this set of markdown documents for more)
 
 ### Graphs (& Data sets)
 

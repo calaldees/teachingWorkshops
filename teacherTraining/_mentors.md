@@ -50,3 +50,152 @@ When they hit a low patch - go back through the older weekley meetings to show p
 observe other subjects
 
 You are a pivotal character in their career
+
+
+Mentor Email Templates
+----------------------
+
+Subject: Christ Church - Subject Tutor - Introductions
+
+My name is Allan Callaghan.
+I am xxx Subject Tutor at Canterbury Christ Church University. I support xx with Friday Subject Pedagogy sessions.
+It's good to be in touch with you.
+
+I hope be in touch with you over the few weeks to arrange a 'remote visit' to help support you and xxx.
+It would be good to have a meeting around November-ish.
+
+You may have these details already, but to cover all the base's
+
+There is a Christ Church mentor website with additional resources for mentors:
+http://ccccumentors.org.uk/
+(password to follow in a separate email)
+
+I also attach the "Curriculum Guidance 2020/2021 for Secondary Students and School Mentors: COMPUTER SCIENCE" document as an outline of the course.
+This document details what I'm covering in our Friday sessions to link to some focus points for some mentor meetings.
+
+My work mobile number is +44 7xxxxxxxxxxx
+
+Feel free to contact me to discuss anything if needed.
+I'm looking forward to working with you.
+
+
+Allan Callaghan
+Subject Tutor for PGCE/SD Computing
+
+
+Mentor Visit Email Template
+---------------------------
+
+Subject: Placement visit for School Direct Computing
+
+Dear Colleagues,
+
+Thank you for hosting our Computing student on their training placement on the School Direct programme.
+I hope that despite all the complexities presented by the start to this academic year, things have settled down for you and you feel you have established a positive working relationship with your student.
+
+My purpose in writing now is to inform you that I wish to set up my first (virtual) placement visit at a mutually convenient time in the next few weeks.
+Just to give you the background to this, each student is allocated two visits over the course of the year, as well as a slot in the summer for the final assessment.
+As you can imagine in the current circumstances, these visits will take place online until further notice and I would like to suggest that we use Microsoft Teams for this purpose. 
+(Microsoft Teams can be accessed through any web browser as a guest).
+As I have a number of upcoming PGCE visits, it would be most convenient if I could complete this first set of visits by mid November.
+
+I want to emphasise that the role is my visit is purely to be supportive of you in your role as mentor to ensure that the student has the best possible training experience this year.
+As you may be aware from communications with the University, the focus of the placement visit is now very much on using this time to work directly with the Subject Mentor, rather than working with the student directly.
+
+-- Visit breakdown --
+
+The visit itself should last around two hours.
+
+I would like to spend the first 30 minutes of this time meeting with you as the Subject Mentor to explore the approaches that you have taken in mentoring your student thus far. 
+To facilitate this discussion, I would like to draw your attention to the extract of the "Partnership Evaluation Framework" document attached.
+This lists the areas that are key to successful mentoring and will act as a focus for our discussions.
+
+What we do in the second hour will depend upon the model of visit that you chose. 
+For this I draw your attention to "Subject Mentor - Tutor visits and support F&M model 2020-21.pdf" attached. 
+This document describes the five stages of student teacher development as suggested by Maynard & Furlong (1995) and links these to possible development activities to support their training. 
+In planning for the visit, I would therefore ask that you consider the stage of development at which you feel your student teacher currently sits (likely to be 1, 2 or 3) and which of the linked activities (on pages 5-11) would be the most appropriate to meet the training needs of both of you as mentor as well of those of the student teacher at this point in time.
+The development activity that we undertake during my visit will therefore depend on where we feel that the student is at this stage in their professional journey.
+I would suggest that the student joins us for this part of the visit.
+
+I can then spend the final 30 minutes of the time allocation in discussion with the student.
+
+It might also be appropriate for the Professional Mentor to join the conversation at some point during the visit, but this is not mandatory.
+
+-- Dates --
+
+I have listed below the dates when I am currently available to make this virtual visit.
+The dates and times I currently have free are:
+
+Monday 2nd November - at any time
+Tuesday 3rd November - at any time
+Wednesday 4th November - at any time
+
+Monday 9th November - at any time
+Tuesday 10th November - at any time
+Wednesday 11th November - 9am to 12pm
+Friday 13th November - at any time
+
+Monday 16th November - at any time
+Tuesday 17th November - at any time
+
+In the light of the information above, I would be grateful if you would reply to me to indicate the following:
+ - when, from the list above, might be a good time hold this virtual visit (we ideally need a 2 hour slot)
+ - where you think your student might currently sit on the five stages of development as described by Maynard & Furlong
+ - an indication of how you might like to make best use of the joint activity with the student with reference to those suggestions in visit-support pdf.
+
+Given that I have sent this information out to all mentors in this first tranche of visits at the same time, I will "take bookings" (so to speak) on a first come, first served basis, so it would be prudent to respond to me at your earliest convenience to reserve a slot.
+
+--
+
+I look forward to coming into school and working with you in due course.
+
+Kind regards,
+
+
+Mentor Visits
+=============
+
+Agenda
+------
+
+* 30min - Subject Tutor and Mentor
+   * Discussion of approaches taken to mentoring thus far
+* 1 Hour - Subject Tutor, Student and Mentor
+   * a joint mentoring activity led by Student - this could be 
+      * part of a weekly meeting; 
+      * a collaborative planning activity;
+      * a focussed coaching conversation around any development theme;
+      * or any other activity taken from the document I sent you in my initial email
+   * Please do let me know in advance what your focus will be
+* 30min - Subject Tutor and Student
+   * further conversation about the year ahead
+
+Check-list
+----------
+
+Checklist for autumn term visit in Computing 2020
+
+Note that much of this should arise naturally from the initial conversation with the mentor.
+However, it should also cover the agenda points listed below.
+
+## In conversation with the curriculum mentor
+* Explain the rationale for the visit being mentor facing (training visit and QA)
+* Previous experience of mentoring and the extent to which the mentor has been trained
+* The timetable that they have devised for the student (check it provides coverage of both KS3 and KS4 and ascertain if access to KS5 is at all possible).
+* Explore the mentor’s knowledge of the Curriculum 2020; how are they implementing it? Are they aware of the 10 key questions?
+* The timing & regularity of the mentor meeting and the approaches taken/meeting content
+* The use being made of the weekly record of mentor sheet and how the weekly targets are being arrived at. Possible QA of examples if available.
+* Mentor engagement with the Subject Knowledge Tracker (using it to help set weekly target linked to Subject Knowledge)
+* QA of any lesson observations forms that have been completed to date. Explore "lesson packs"
+* Engagement with workload reform; the fact that student teachers are no longer expected to develop their own lesson plans from scratch; are resources/lesson plans being shared so the student can adapt them for their own teaching?
+* Explain that the grading system is changing; no grading against the Standards; just the need to meet them holistically by the end of the programme; way stage checks will be in place
+* Engagement with the mentor element of the PEF – have they undertaken any self-assessment?
+* Any action points that arise from the above
+
+## In conversation with the student
+* How confident are they that progress is being made?
+* The extent to which they feel they have been able to implement pedagogical approaches from SP sessions and what they feel has been their impact on pupils’ progress?
+* Number of observation that they have undertaken of other colleagues both in the department and across other subjects. How many lesson packs to date?
+* The use that has been made of the focused lesson observation forms
+* Progress with targets against the Subject Knowledge Tracker
+* Involvement in the wider life of the school

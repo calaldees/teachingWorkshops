@@ -149,6 +149,7 @@ Can Science and Religion be taught together?
 * [LASAR (Learning about Science and Religion](https://www.canterbury.ac.uk/education/our-work/research-enterprise/learning-about-science-and-religion/learning-about-science-and-religion.aspx)
     * [Introducing epistemic insight into a PGCE course](https://www.epistemicinsight.com/introducing-epistemic-insight-into-a-pgce-course/)
         * Linking subject to _bigger questions_
+    * [National Institute for Christian Education Research](https://blogs.canterbury.ac.uk/nicer/)
     * AI research - before we can have _artificial interference_ we need to define intelligence
     * [Joscha Bach: Artificial Consciousness and the Nature of Reality | Lex Fridman Podcast #101](https://www.youtube.com/watch?v=P-2P3MSZrBM)
         * 00:26:00, 01:56:00 The turing test - is a recursive test - it's a question for us to define ourselves

@@ -158,3 +158,22 @@ VB Visual forms introduction
 Session 13
 ----------
 
+Dry run algorithum - bubbletsort
+
+
+Session 14
+----------
+
+Talk though cypher code algorithum + workshop to create it
+
+
+Session 15
+----------
+
+
+Upcomming
+---------
+
+Land height image processing
+Dry run more algortihums
+Calculator
