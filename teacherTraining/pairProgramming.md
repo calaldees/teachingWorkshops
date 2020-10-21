@@ -1,6 +1,11 @@
 Pair Programming (1 Hour)
 -------------------------
 
+ITT CCF 4.9
+> Paired and group activities can increase pupil success, but to work together effectively pupils need guidance, support and practice
+ITT CCF 4.10
+> How pupils are grouped is also important; care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation.
+
 * [khanacademy.org - Pair programming in the classroom](https://www.khanacademy.org/khan-for-educators/resources/teacher-essentials/teaching-computing/a/pair-programming-in-the-classroom?modal=1)
     * [Pair Programming-in-a-Box: The Power of Collaborative Learning](https://www.ncwit.org/resources/pair-programming-box-power-collaborative-learning) - National Center for Women in IT
 * [repl.it](https://repl.it/)

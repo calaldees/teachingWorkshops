@@ -221,6 +221,8 @@ How will you do this?
 * [Socrative](https://www.socrative.com/) - see the promo video
     * [Socrative 2018: Quick and Complete Introduction for Teachers #Socrative](https://www.youtube.com/watch?v=VyycybD8KNw)
     * > See Socrative from the teacher and student point of view and then watch as this teacher builds a Socrative Quiz
+* [iClicker](https://www.iclicker.com/)
+* [MentiMeter]()
 * [Plickers](https://get.plickers.com/)
     * Students answer with A4 paper - Paper is unique ID (like QR) - each rotation is A,B,C,D - Teacher collects answers with mobile phone camera
 
@@ -318,7 +320,7 @@ Generative Learning
 
 Fiorella & Mayer 2015
 
-> ... look at the process from the other side of the desk. Generative learning considers the learning experience from the point of view not of the teacher, but of the learner. It asks what should they do with instruction ... to trely make sense of it and lean in a way that allows them to apply it to new situations in the future
+> ... look at the process from the other side of the desk. Generative learning considers the learning experience from the point of view not of the teacher, but of the learner. It asks what should they do with instruction ... to really make sense of it and lean in a way that allows them to apply it to new situations in the future
 
 --- generative learning in action - forward - Fiorella 2020
 
@@ -374,68 +376,6 @@ Theory of Disuse
 
 
 
-Constructivism
---------------
-
-Learning is viewed as something that happens in the mind of each learner.
-
-> Constructivism is a view of learning based on the belief that knowledge isn't a thing that can be simply given by the teacher at the front of the room to students in their desks. 
-> Rather, knowledge is constructed by learners through an active, mental process of development; 
-> learners are the builders and creators of meaning and knowledge
-
-> Each time one prematurely teaches a child something he could have discovered for himself, that child is kept from inventing it and consequently from understanding it completely. <sub>(Klahr & Nigam, 2004)</sub>
-
-Constructivist theory, based on the work of Dewey (1938); Piaget (1950) and Bruner (1996) suggests that learning is a cumulative and active process during which the student constructs knowledge and meaning for themselves as they learn, connecting with, and explaining new knowledge in terms of, what they already know
-
-Working with tangible real world objects is a central tenet of Papert’s constructionism (Papert and Harel 1991)
-
-
-* [Constructivist Teaching and Learning](https://saskschoolboards.ca/wp-content/uploads/97-07.htm)
-    * At the core of the constructivist classroom, we often find project-based, problem-based or experience-based learning approaches
-        * Pupil centred learning
-        * project based learning
-        * Competency based integrated curriculum (CBIC)
-        * Steiner Schools
-            * [Steiner Waldorf Schools Fellowship](https://www.steinerwaldorf.org/)
-    * [Finland Will Become The First Country In The World To Get Rid Of All School Subjects](https://curiousmindmagazine.com/goodbye-subjects-finland-taking-revolution-education-step/)
-        * [Phenomena(l) (based) Education](http://www.phenomenaleducation.info/change-with-digital.html)
-
-* [Constructivism is not a pedagogy](https://learningspy.co.uk/literacy/constructivism-is-not-a-pedagogy/) David Daidu
-    * > (Piaget) opinion was that offering education to children who are not yet ready for it was pointless. 
-      > But that doesn’t equate to not offering them anything at all.
-    * > up until 2019 there is still no evidence that the teacher who takes a step back and puts the control of learning in the hands of the student is more effective and efficient than the teacher who provides explicit instruction
-    * > it is generally accepted that the transmission of our cumulative culture to future generations is what makes man as a species
-
-* [I would never send my kids to school](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school) Piotr Wozniak 2017
-    * A grizzled ex-academic that has distanced himself from all formal establishments
-      > I no longer care about publishing in peer review journals
-    * > Education is based on wrong principles and a wrong design
-    * > Kids are not adults in miniature
-    * Children should never feel stressed or asked to do anything they do not want
-
-### My Case study CBIC
-
-* CBIC (my case study) - Competency Based Integrated Curriculum
-* [Teaching and learning in a competence-based curriculum: the case of four secondary schools in England](https://www.tandfonline.com/doi/abs/10.1080/09585176.2012.731008?src=recsys&journalCode=rcjo20) Byrne 2013
-    * Loss of subject base identity
-        * lack of confidence made practitioners less creative
-    * Non expert teaching
-    * lack of student autonomy - behaviour
-
-
-Discovery Based Learning
-------------------------
-
-* [Discovery learning](https://en.wikipedia.org/wiki/Discovery_learning#Assisted_vs._unassisted_discovery)
-    * > is a technique of inquiry-based learning and is considered a constructivist based approach to education. 
-      > It is also referred to as problem-based learning, experiential learning and 21st century learning
-    * > A critical success factor to discovery learning is that it must be teacher assisted
-    * > Research shows that cognitive demands required for discovery in young children may hinder learning as they have limited amounts of existing knowledge to integrate additional information
-    * > Beginning learners do not have the necessary skills to integrate the new information with information they have learned in the past
-    * > pure unassisted discovery should be eliminated due to the lack of evidence that it improves learning outcomes
-    * > The teachers’ role in discovery learning is therefore critical to the success of learning outcomes.
-
-DISCUSS: What does this mean for KS3 and KS4
 
 
 
