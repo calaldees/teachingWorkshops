@@ -172,6 +172,11 @@ TASK: Sync 15min
 
 Some of my references for diagnostic/hinge questions
 
+* Reminder
+    * [Classroom Response Systems](https://www.canterbury.ac.uk/learning-and-teaching-enhancement/learning-platform-suite/classroom-response-systems.aspx)
+    * Menti, padlet, kahoot,
+
+
 * [Diagnostic Questions](https://diagnosticquestions.com/) - Computing 'Question Bank'
     * [DiagnosticQuestionsFAQ.pdf](https://diagnosticquestions.com/Uploads/DiagnosticQuestionsFAQ.pdf)
     * [Education Endowment Foundation - Sponsorship](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/diagnostic-questions/) - evaluation report will be published in Spring 2021
@@ -219,6 +224,8 @@ Some of my references for diagnostic/hinge questions
 
 Metacognition
 -------------
+
+self efficacy
 
 ITT CCF 4.5
 > Explicitly teaching pupils metacognitive strategies linked to subject knowledge, including how to plan, monitor and evaluate, supports independence and academic success
@@ -364,6 +371,13 @@ Computer Science Specific Pedagogy
 
 In pairs - take a contract and build a task
 
+
+
+|        | Remember  | Understand      | Analyse          | Evaluation |
+|--------|-----------|-----------------|------------------|------------|
+| Create |           | Design, Apply   | Model            | Refactor   |
+| Apply  | Implement | Adapt, Translate | Debug           |            |
+| Know   | Recognise | Trace           | Present, Analyse | Relate     |
 
 
 

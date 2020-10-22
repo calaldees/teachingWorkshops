@@ -256,16 +256,16 @@ Session 2
         * Educate whole person
         * Integrated approach to employability
         * Build Learning communities
-        * Felible responsive learning environments
-        * Students as parteners in learning
-        * Supporting succeess for all students
-        * Curriculm design for transfomation
-            * A quest for knowlege
+        * Flexible responsive learning environments
+        * Students as partners in learning
+        * Supporting success for all students
+        * Curriculum design for transformation
+            * A quest for knowledge
             * Deep questions
-            * Informed by researh
+            * Informed by research
         * international and global citizenship
-        * Outstanding, leaning, teaching, asessment practice
-            * Uni shoudl recodnise and reward
+        * Outstanding, leaning, teaching, assessment practice
+            * Uni should recognise and reward
 * [QAA](https://www.qaa.ac.uk/) THE UK'S QUALITY BODY FOR HIGHER EDUCATION
     * [Subject Benchmark Statement: Education Studies](https://www.qaa.ac.uk/docs/qaa/subject-benchmark-statements/subject-benchmark-statement-education-studies.pdf?sfvrsn=3ae2cb81_5)
     * [Teacher Standards](https://www.gov.uk/government/publications/teachers-standards)
@@ -274,7 +274,7 @@ Session 2
 * Equality Act 2010
     * 116 separate pieces of anti-discrimination laws 
     * Fostering good relations between people who share a protected characteristic and those who do not'.
-    * Acessibility (legal duty)
+    * Accessibility (legal duty)
     * anticipatory adjustments
         * e.g. step free access
     * reasonable adjustments
@@ -282,18 +282,18 @@ Session 2
         * [Student disability service](https://cccu.canterbury.ac.uk/student-support-health-and-wellbeing/disability-advice.aspx) if more questions
 * Disabled Students' Allowances (DSAs)
     * non-repayable grants
-    * expensive - supoort for individual students
+    * expensive - support for individual students
     * Pyramid of
         * DSA's (top - small)
         * Reasonable Adjustments (medium)
         * Inclusive teaching and learning environment (big - bottom)
 * Different models of disability
-    * Disablism (sterotypes of diabled people)
-    * Medical model -> person needs to change/adapt -> ancious, wheelchair, lazy
+    * Disablism (stereotypes of disabled people)
+    * Medical model -> person needs to change/adapt -> anxious, wheelchair, lazy
         * > Underlying the medical model is the belief that the difficulties associated with a disability should be borne wholly by the disabled person, 
           > and that the disabled person should make an extra effort (perhaps in time, effort, money, etc.) to ensure they do not inconvenience anyone else. 
           > They must change and adapt to fit the circumstances and their environment such as attending university.
-    * Social model of disability -> person needs support -> low-income, negatice attitudes, badly designed buildings
+    * Social model of disability -> person needs support -> low-income, negative attitudes, badly designed buildings
     * > your responsibility to ensure that your learning and teaching activities and materials are accessible.
 
 ### What is a university
@@ -359,14 +359,30 @@ Teaching is highly political - Ideology will influence curriculum design (1999 T
 Students (now paying a lot) and investors
 
 
+
 ### Biggs SOLO Taxonomy (bit misplaced?)
 5. Pre-structural
-    * Verbs: missis point
+    * Verbs: misses point
 4. Uni-Structural
-    * Verbs: idntify, do simple procedure
+    * Verbs: identify, do simple procedure
 3. Multi-structural
-    * Verbs: enumerate, describe, list, comnine, do algorithums
+    * Verbs: enumerate, describe, list, combine, do algorithms
 2. Relational
     * Verbs: compare, contract, explain, causes, analyse, relate
 1. Extended Abstract
-    * Verbs: theorise, generatem hypothesize, reflect
+    * Verbs: theorise, generate hypothesize, reflect
+
+
+Session 2
+---------
+
+School approach - set the tasks
+ self effacacy
+
+### Barriers 
+* fear
+* self confidence, self esteem
+* time
+* prior education
+* mature students (out of water?)
+* Prior knowlege (expected?)

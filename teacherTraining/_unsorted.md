@@ -469,6 +469,8 @@ Monthly induction
 The Canterbury Partnership Teacher
 ----------------------------------
 
+Old document [Grading Students against Teachers’ Standards](https://shepwayts.co.uk/wp-content/uploads/2016/11/Grading-Students-against-Teachers-Standards-FULL-version-July-2016.pdf) 2016
+
 The Canterbury Partnership is committed to the development of outstanding teachers who have a transformative impact on learners’ lives. 
 We work together to ensure that the teachers we educate bring about progress in learning which transforms learners’ knowledge, skills and understanding and their opportunities in life. 
 The Canterbury Partnership Teacher:
