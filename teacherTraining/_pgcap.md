@@ -35,19 +35,6 @@ Session 1
         * Teaching/Learning Activities
         * Assessment Feedback Tasks
 
-* [Bloom's Taxonomy: Why, How, & Top Examples](https://www.youtube.com/watch?v=OOy3m02uEaE&feature=emb_logo) (Revised Krathwohl 2001)
-    * Create
-        * Generate, Plan, Produce
-    * Evaluate
-        * Critique, Judge
-    * Analyze
-        * Break down, Calculate, Model, Subdivide, Infer
-    * Apply
-        Apply, Choose, Modify, Discover, Diagram, Show
-    * Understand
-        * Explain, Summarize, Infer, Paraphrase, Discuss
-    * Remember
-        Memorize, Describe, Order, Name, Arrange
 
 * [Ray Land on Threshold Concepts](https://www.youtube.com/watch?v=kiNQAWFzULE&feature=emb_logo)
     * Gifted students still get stuck on aspects of their learning
@@ -275,9 +262,9 @@ Session 2
     * 116 separate pieces of anti-discrimination laws 
     * Fostering good relations between people who share a protected characteristic and those who do not'.
     * Accessibility (legal duty)
-    * anticipatory adjustments
+    * Anticipatory adjustments
         * e.g. step free access
-    * reasonable adjustments
+    * Reasonable adjustments
         * e.g. printing handouts in an extra large font, extra time
         * [Student disability service](https://cccu.canterbury.ac.uk/student-support-health-and-wellbeing/disability-advice.aspx) if more questions
 * Disabled Students' Allowances (DSAs)
@@ -360,17 +347,6 @@ Students (now paying a lot) and investors
 
 
 
-### Biggs SOLO Taxonomy (bit misplaced?)
-5. Pre-structural
-    * Verbs: misses point
-4. Uni-Structural
-    * Verbs: identify, do simple procedure
-3. Multi-structural
-    * Verbs: enumerate, describe, list, combine, do algorithms
-2. Relational
-    * Verbs: compare, contract, explain, causes, analyse, relate
-1. Extended Abstract
-    * Verbs: theorise, generate hypothesize, reflect
 
 
 Session 2
@@ -385,4 +361,73 @@ School approach - set the tasks
 * time
 * prior education
 * mature students (out of water?)
-* Prior knowlege (expected?)
+* Prior knowlege (expected?) review
+* IT knowlege (for old and young) and teachers - we are all aweful
+
+Cool quote:
+"Uni is like paying Gym fees - you've got to show up"
+
+### Support
+* Well-being advisor
+* Disability service
+* Chaplaincy
+* Peer mentoring
+* Meditation services
+* Students union advice
+
+powerpoint has live subttling - live - presentation mode then TAB 'captioning/subtitling'
+
+already
+ respect individual learners
+ promote partcipation (equality of oppertunity)
+what now
+
+I have a ADHD student. They have requested more breaks in sessions.
+I have an older student that has alienated themselves for peer support network (they were kicked from WhatsApp group due to condescending/offensive comments) . Integrating them into group discussions is now much harder and I cant use pair work as most students in the group are on edge when working 1-to-1 with them.
+To make progress I'm always using groups of 3+
+
+
+Read reflections and show you care about the student
+
+Support the student - look at wellbeing - identify the root causese. _Identifying_ is the majority of the battle
+
+
+
+Professional Standards Framework
+--------------------------------
+
+[The UK Professional Standards Framework for teaching and supporting learning in higher education](https://www.advance-he.ac.uk/knowledge-hub/uk-professional-standards-framework-ukpsf)
+
+* Areas of Activity
+    * A1
+        * Design and plan learning activities and/or programmes of study
+    * A2
+        * Teach and/or support learning
+    * A3
+        * Assess and give feedback to learners
+    * A4
+        * Develop effective learning environments and approaches to student support and guidance
+    * A5
+        * Engage in continuing professional development in subjects/disciplines and their pedagogy, incorporating research, scholarship and the evaluation of professional practice
+* Core Knowledge
+    * K1
+        * The subject material
+    * K2
+        * Appropriate methods for teaching, learning and assessing in the subject area and at the level of the   academic programme
+    * K3
+        * How students learn, both generally and within their subject/disciplinary area(s)
+    * K4
+        * The use and value of appropriate learning technologies
+    * K5
+        * Methods for evaluating the effectiveness of teaching
+    * K6
+        * The implications of quality assurance and quality enhancement for academic and professional practice with a particular focus on teaching
+* Professional Values
+    * V1
+        * Respect individual learners and diverse learning communities 
+    * V2
+        * Promote participation in higher education and equality of opportunity for learners
+    * V3
+        * Use evidence-informed approaches and the outcomes from research, scholarship and continuing professional development 
+    * V4
+        * Acknowledge the wider context in which higher education operates  recognising the implications for professional practice

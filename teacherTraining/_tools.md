@@ -4,7 +4,7 @@ Teaching Tools
 * [Plickers](https://get.plickers.com/)
 * [GitHub Classroom](https://classroom.github.com/)
 
-* [Codecademy](https://www.codecademy.com/)
+* [Code-cademy](https://www.codecademy.com/)
 
 * Browser Based
     * [hypothes.is](https://web.hypothes.is/) - Annotate the web, with anyone, anywhere
@@ -27,3 +27,8 @@ Teaching Tools
 * [microbit2](https://tech.microbit.org/latest-revision/announcement/)
     * gesture reconition
     * voice recognition?
+
+
+
+* [Classroom Response Systems](https://www.canterbury.ac.uk/learning-and-teaching-enhancement/learning-platform-suite/classroom-response-systems.aspx)
+    * Menti, padlet, kahoot,
