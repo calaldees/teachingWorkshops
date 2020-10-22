@@ -532,6 +532,9 @@ Things I try to avoid:
 
 TASK: Now we have explored the skills and the context. Refer back to the Compute-IT teaching resource examples
 
+### Examples
+* [Locked-in syndrome](https://teachinglondoncomputing.files.wordpress.com/2014/01/activity-lockedin.pdf) activity disabled people communicating with blinking
+
 
 Metaphors
 ---------

@@ -9,10 +9,11 @@ Questioning
 * eLearning environments and tools
 
 
+Exemplar for subject assignment
 
 
-Constructivism (2 Hours)
---------------
+Constructivism, discovery, collaboration (2 Hours)
+--------------------------------------------------
 
 ITT CCF 4.5
 > Questioning is an essential tool for teachers; questions can be used for many purposes, including to check pupils’ prior knowledge, assess understanding and break down problems.
@@ -25,13 +26,13 @@ Break: 10 min
 
 TASK: Activity Concept (30 min) Async
 With this knowledge we are to:
-* Construct a concepts for a Computing based lesson activities that could be considered constructivist/discovery based
+* Construct a concepts for a Computing based lesson activities that could be considered constructivist/discovery/collaborative based
 * What would we need to prepare in advance?
     * resources? Scaffolds?
 * How would you define a task/goal?
 * How assessment would you use for the task?
 
-Collect your lesson idea/concept/notes/description/bullet-points/paragraph in a shared document (GoogleDoc? HackMD doc? BlackBoard Wiki? Other?)
+Collect your lesson idea/concept/notes/description/bullet-points/paragraph in a shared document (Padlet? GoogleDoc? HackMD doc? BlackBoard Wiki? Other?)
 
 TASK: (30 min) Sync
 You will each describe your idea to the group
@@ -102,6 +103,15 @@ Working with tangible real world objects is a central tenet of Papert’s constr
     * > Beginning learners do not have the necessary skills to integrate the new information with information they have learned in the past.
     * > Pure unassisted discovery should be eliminated due to the lack of evidence that it improves learning outcomes.
     * > The teachers’ role in discovery learning is therefore critical to the success of learning outcomes.
+
+### Collaborative Learning
+
+* EEF [Collaborative Learning](https://educationendowmentfoundation.org.uk/evidence-summaries/teaching-learning-toolkit/collaborative-learning/)
+    * > A collaborative (or cooperative) learning approach involves pupils working together on activities or learning tasks in a group small enough for everyone to participate on a collective task that has been clearly assigned.
+    * > Pupils need support and practice to work together; it does not happen automatically.
+    * > Tasks need to be designed carefully so that working together is effective and efficient, otherwise some pupils will try to work on their own.
+    * > overemphasis on competition can cause learners to focus on winning rather than succeeding in their learning.
+
 
 ### Consider the phrase 'Asking not telling'
 
@@ -258,6 +268,10 @@ You can tell your students all of these things, but would it be more powerful if
 We should set time aside to explicitly teach/name/model metacognitive skills
 
 ### Notes of my reading (just for reference)
+
+TODO
+* [The metacognitive approach to computereducation: making explicit the learning journey](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.831.3756&rep=rep1&type=pdf) 2007 Phelps
+
 * (poor article - low sample size) [Metacognitive Strategies in Teaching and Learning Computer Programming](https://www.researchgate.net/publication/334452623_Metacognitive_Strategies_in_Teaching_and_Learning_Computer_Programming)
     * > there is a correlation between the metacognitive awareness level of an individual and their academ-ic achievement
     * > Novices are also  identified  as  having  metacognitive  deficiencies  regardless  of their  age.  In  addition,  they  fail  to  reflect  on  what  they have learned
@@ -266,28 +280,113 @@ We should set time aside to explicitly teach/name/model metacognitive skills
     * > Metacognitive strategies on the other hand help the student assess whether the goal has been met. In other words a student can use cognitive strategies, as guided by the metacognitive knowledge, till the goal is met
 
 
+Computer Science Specific Pedagogy
+----------------------------------
+### PRIMM
+
+* [Quick Read: Using PRIMM to structure programming lessons](https://blog.teachcomputing.org/using-primm-to-structure-programming-lessons/)
 
 
-Generative Learning
--------------------
+### Fuller
 
-Fiorella & Mayer 2015
+* [Developing a computer science-specific learning taxonomy](https://dl.acm.org/doi/10.1145/1345375.1345438) (Fuller 2007) - Bloom's taxonomy and SOLO dont match computer science
 
-> ... look at the process from the other side of the desk. Generative learning considers the learning experience from the point of view not of the teacher, but of the learner. It asks what should they do with instruction ... to really make sense of it and lean in a way that allows them to apply it to new situations in the future
 
---- generative learning in action - forward - Fiorella 2020
+|        | Remember | Understand | Analyse | Evaluation |
+|--------|----------|------------|---------|------------|
+| Create |  blank   |            |         |            |
+| Apply  |          |            |         |   blank    |
+| Know   |          |            |         |            |
 
-Merlin C Wittrock
-> People tend to generate ... meanings that are consistent with prior knowledge
+(Adapted from NCCE Outstanding Programming Pedagogies course)
 
-* Learning should be an active process
-    1. Summarising
-    2. Mapping
-    3. Drawing
-    4. Imagining
-    5. Self-testing
-    6. Self-explaining
-    7. Teaching
-    8. Enacting
-* [Eight Ways to Promote Generative Learning](https://bootcampmilitaryfitnessinstitute.com/wp-content/uploads/2016/01/eight-ways-to-promote-generative-learning-fiorella-mayer-2015.pdf) fiorella-mayer-2015
-* [Generative Learning - Poster - Oliver Caviglioli](https://static1.squarespace.com/static/58e151c946c3c418501c2f88/t/5b6d89984ae23782be1d22ac/1533905305675/Generative+Learning+poster.pdf)
+* Recognise
+    * Base knowledge and vocabulary for the domain
+        * Provide as much information you can about the construct being studied.  
+        * This provides opportunities for students to make extended use of constructs knowing how they will develop and become more complex.  
+        * Misconceptions can be covered and common problems that are experienced so that students can build resilience, knowing that mistakes and problems they encounter are not uncommon.
+* Present
+    * Explain a solution to others
+        * Display code which extends their current knowledge of a given programming construct.
+        * Students are to explain the code to a peer within a given constraint such as number of words, sentences or within a given time.
+        * This aids their skills in explain errors that they might come across to teachers and peers, providing a greater focus on the key area for amendment.
+        * This skill provides opportunities for students to read code, explore different styles of coding and reinforce their understanding of a construct.
+* Relate
+    * Understand solution in context of others
+        * Students can be directed to different solutions to the same problem, sharing which approach might be best in terms of amount of code, time to develop, complexity and efficiency.  
+        * They can take a given solution and adapt it to meet the needs of a next context, further developing their generalisation skills.
+* Refactor
+    * Redesign a solution for optimisation
+        * A new concept, one which will significantly stretch student’s knowledge can be demonstrated or shown so that the next level of understanding can begin with more advanced uses of programming constructs.
+        * Often there will be a focus on the effectiveness or efficiency of a solution by considering such alternative techniques.
+* Model
+    * Illustrate or implement an abstraction of a problem
+        * A concept can be provided either in written or diagrammatic form.
+        * This enforces the need for students to consider what constructs can be combined to produce algorithms capable of solving the given concept in a manner that is computable.
+        * Students benefit from seeing how real life concepts and models can be realised by applying the correct logic in order to develop effective and efficient solutions.
+* Implement
+    * Put a completed design into code 
+        * Provide partially completed or abstracted designs or provide a written or bulleted summary to be translated into code.
+        * This provides a challenge where students can feel supported from the ‘Know’ elements by constructing suitable algorithms with clear success criteria or requirements.
+        * This provides students with the opportunity to focus on logic and syntax and develop independence by leaning on their debugging and logic skills.
+* Design
+    * Devise a solution structure
+        * Provide a scenario for students to abstract and produce a design.
+        * This could be in the form of a flowchart, pseudo code.
+        * This enables students to create mental models, ask good questions in order to devise designs which are efficient and map effectively to programming constructs in the form of algorithms.
+* Trace
+    * Desk-check a solution
+        * Code can be provided with given inputs and students need to predict the output or vice-versa.
+        * This provides opportunities for students to read code, get best practice in terms of structure and to build confidence by understanding or predicting logic without the need to be able to write the construct syntactically.
+        * This supports their ability to read different styles of coding among their peers and make better plans before implementation.
+* Apply
+    * Use a solution as a component in a problem
+        * Offer a sub-section of code or part of a design for students to devise a solution by applying the construct accordingly.
+        * This provides opportunities for students to build larger programs and exploring the depth of constructs in order to develop more complex and modular solutions.
+* Debug
+    * Both detect and correct flaws in design 
+        * Provide opportunities for students to find errors in code or provide two examples and ask which example is free of code errors.
+        * Students can also be asked to find one or more logical and syntax errors.
+        * This develops their skills in reading code and building their independence so that the can spot and debug their own programs.
+        * Students could also sabotage working code in order for their peers to unpick errors and return to working order.
+* Adapt
+    * Modify a solution for other domains
+        * Students can also be provided with a solution for a given domain and adjust the code in order for the logic to remain the same but for the needs of a new scenario to be met.
+        * This develops pupils understanding of how programming constructs can be applied to a range of domains and also enables them to identify the strengths of specific constructs through the exploration of examples that pose similar problems.
+* Translate
+    * Convert from block, text, flowchart, pseudo code and vice-versa
+        * Provide examples of designs in pseudo and flowchart form with tasks for students to implement the designs in code and vice-versa.
+        * This develops student’s ability to translate different designs and apply and combine programming constructs in line with logical thought.
+* Analyse
+    * probe the time complexity of a solution
+        * Code snippets or algorithms can be given or displayed to students, giving them the opportunity to share their understanding and thoroughly investigate components of a construct or algorithm, decomposing parts.
+        * From this, students make greater associations between different constructs and how they can combine effectively to create algorithms.
+
+In pairs - take a contract and build a task
+
+
+
+
+Psudocode
+AQA
+https://filestore.aqa.org.uk/resources/computing/AQA-8520-TG-PC.PDF
+https://filestore.aqa.org.uk/resources/computing/AQA-8525-TG-PC.PDF
+OCR
+https://www.ocr.org.uk/images/202654-pseudocode-guide.pdf
+
+Scratch -> python
+
+Convert from block, text, flowchart, pseudo code and vice-versa
+
+https://hackmd.io/c/codimd-documentation/%2F%40codimd%2Fextra-supported-syntax#Flow-Chart
+
+https://flowchart.js.org/
+https://mermaid-js.github.io/mermaid-live-editor/
+
+
+Starters and Plenerys
+---------------------
+
+https://computingstarters.wordpress.com/
+
+

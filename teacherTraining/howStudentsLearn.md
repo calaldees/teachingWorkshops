@@ -265,6 +265,8 @@ Attention is a finite resource and can be depleted quickly.
 
 Help sheets or Knowledge Organisers can help reduce cognitive load
 
+* Pedagogy Quick Reads [cognitive load in computing](https://raspberrypi-education.s3-eu-west-1.amazonaws.com/Quick+Reads/Pedagogy+Quick+Read+1+-+Cognitive+Load+Theory.pdf)
+
 TASK: What does this mean for your planning?
 
 
