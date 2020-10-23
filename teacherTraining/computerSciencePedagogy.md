@@ -25,13 +25,16 @@ Total 2 hours
 Part 1
 ------
 
+Two groups research and present
+
 TASK: 
 * Split the group into two breakout groups
-* Read (20 min)
+* Read (30 min)
     * Assign one to read PRIMM
-    * Assign another to read Concept Maps
-* Present (20 min)
-    * Ask two random members of each group to as a pair screen share and verbalise/recall their summary (10 min per group)
+    * Assign another to read Meta-cognition
+* Present (30 min?)
+    * Ask each group to screen share and verbalise/recall their summary (10 min per group)
+        * One member could screen share - the others chip in points/thoughts - it would be good if all members could have a insight or contribution
 
 
 PRIMM (Sue Sentence 2019)
@@ -55,13 +58,11 @@ TASK: Read PRIMM quick read.
 * Always provide a base program that runs
 * Build on top of it incrementally
 
+Meta-Cognition
+--------------
 
-Concept Maps
-------------
-
-* NCCE [Quick Read: Using concept maps to capture, communicate, construct, and assess knowledge](https://blog.teachcomputing.org/using-concept-maps-to-capture-communicate-construct-and-assess-knowledge/)
-    * [Examples](https://raspberrypi-education.s3-eu-west-1.amazonaws.com/Quick+Reads/National+Centre+for+Computing+Education+concept+map+examples.pdf)
-
+* EEF [Metacognition and Self-regulated Learning](https://educationendowmentfoundation.org.uk/tools/guidance-reports/metacognition-and-self-regulated-learning/)
+    * [METACOGNITION AND SELF-REGULATED LEARNING - Summary of recommendations](https://educationendowmentfoundation.org.uk/public/files/Publications/Metacognition/Summary_of_recommendations_poster.pdf)
 
 
 Fuller Verb Model
@@ -231,6 +232,14 @@ Unsorted
 
 
 
+
+
+
+Concept Maps
+------------
+
+* NCCE [Quick Read: Using concept maps to capture, communicate, construct, and assess knowledge](https://blog.teachcomputing.org/using-concept-maps-to-capture-communicate-construct-and-assess-knowledge/)
+    * [Examples](https://raspberrypi-education.s3-eu-west-1.amazonaws.com/Quick+Reads/National+Centre+for+Computing+Education+concept+map+examples.pdf)
 
 
 
