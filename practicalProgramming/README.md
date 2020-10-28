@@ -169,11 +169,13 @@ Talk though cypher code algorithum + workshop to create it
 
 Session 15
 ----------
+Land height image processing
 
 
 Upcomming
 ---------
 
-Land height image processing
 Dry run more algortihums
 Calculator
+Message board
+

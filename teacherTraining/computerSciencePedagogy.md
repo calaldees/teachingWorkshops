@@ -63,7 +63,7 @@ Meta-Cognition
 
 * EEF [Metacognition and Self-regulated Learning](https://educationendowmentfoundation.org.uk/tools/guidance-reports/metacognition-and-self-regulated-learning/)
     * [METACOGNITION AND SELF-REGULATED LEARNING - Summary of recommendations](https://educationendowmentfoundation.org.uk/public/files/Publications/Metacognition/Summary_of_recommendations_poster.pdf)
-
+        * [more of my notes](./metaCognition.md)
 
 Fuller Verb Model
 -----------------

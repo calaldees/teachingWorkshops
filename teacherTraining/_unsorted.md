@@ -503,3 +503,14 @@ Menti meter?
 ---
 
 
+[The Covid-19 pandemic and its effects on teacher education in England: how teacher educators moved practicum learning online](https://learn.canterbury.ac.uk/bbcswebdav/pid-2701323-dt-content-rid-4030693_1/courses/E20PTTPGSECGEN/Kidd%20and%20Murray%202020%20The%20Covid%2019%20pandemic%20and%20its%20effects%20on%20teacher%20education%20in%20England%20how%20teacher%20educators%20moved%20practicum%20learning%20online.pdf)
+
+[Teachers Gaze (what they look/focus on provides important info to learners)](https://www.teachertoolkit.co.uk/2020/10/18/teacher-gaze/)
+
+
+[Categorizing Variants of Goodhart’s Law](https://arxiv.org/pdf/1803.04585.pdf)
+
+https://impact.chartered.college/article/maximising-impact-defining-purpose-formative-assessment/
+https://impact.chartered.college/article/cognitive-load-theory-in-practice/
+https://impact.chartered.college/article/scaffolding-by-novice-expert-teachers-difference/
+https://impact.chartered.college/article/how-retrieval-practice-embedded-classrooms-10-principles-cpd-leadership/

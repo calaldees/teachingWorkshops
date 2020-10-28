@@ -67,3 +67,10 @@ Session 2
 https://en.wikipedia.org/wiki/Order_of_operations#Programming_languages
 
 Slide 27
+
+
+
+```bash
+# sudo apt-get install mono-mcs -y
+function csharp { mcs "$1" && clear && mono "${1%.*}.exe" && rm "${1%.*}.exe"; }
+```

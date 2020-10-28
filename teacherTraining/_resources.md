@@ -34,6 +34,11 @@ Teaching Resources
 * [CyberGames](https://cybergamesuk.com/) Cyber Security Challenge NCA (National Crime Agency) 
     * [Network Topologies](https://cybergamesuk.com/topologies)
 
+
+https://brilliant.org/courses/computer-science-essentials/
+https://brilliant.org/courses/programming-python/#chapter-introduction-28
+
+
 Pedagogy
 --------
 * [teachcomputing.org - Pedagogy Quick Reads](https://blog.teachcomputing.org/tag/quickread/)
