@@ -1,6 +1,8 @@
 Questioning
 ===========
 
+* [Organizing Instruction and Study to Improve Student Learning](https://ies.ed.gov/ncee/wwc/PracticeGuide/1)
+    * Look at the strength of evidence for questions
 
 Diagnostic/Hinge Questions (2.5 hours)
 --------------------------
