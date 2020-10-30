@@ -171,10 +171,15 @@ Session 15
 ----------
 Land height image processing
 
+Sesion 16
+---------
+???
+
 
 Upcomming
 ---------
 
+If -> Data
 Dry run more algortihums
 Calculator
 Message board

@@ -411,18 +411,9 @@ Discipline's
 ------------
 
 Not directly related to an established school subject.
-(Where does visuisation go? It's like 'where does Geology exist in STEM?')
 
-* [Data Visualisation](https://en.wikipedia.org/wiki/Data_visualization)
-    * [Information Is Beautiful](https://informationisbeautiful.net/)
-    * [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
-    * [xkcd Visualisations](http://www.vislives.com/2011/10/xkcd-visualizations.html)
-    * [visualcapitalist.com](https://www.visualcapitalist.com/)
-    * [Bruises — The Data We Don’t See](https://medium.com/@giorgialupi/bruises-the-data-we-dont-see-1fdec00d0036)
-        * Artistic humanisation of data though charts and music through a child's illness and feelings
-    * [Why scientists need to be better at data visualization](https://www.knowablemagazine.org/article/mind/2019/science-data-visualization)
-    * [Unusual maps](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0002yI)
-        * Not directly Computing; but huge variety of interesting visualisations
+* [[DataVisulisation]]
+    * (Where does visuisation go? It's like 'where does Geology exist in STEM?')
 * Simulation
     * [HASH.ai](https://hash.ai/) free online platform for assembling models of the world
         * Solving Problems Traditional Data Science Can’t with Agent based simulations
@@ -774,7 +765,10 @@ rumor in scools - class of 30? possible activity?
 
 
 
-disenter - comments - even when comments not available
+* Freedom of speach?
+    * [dissenter](https://dissenter.com/) - comments - even when comments not available
+        * [New plugin allows the far-right to ‘graffiti’ any website](https://www.cjr.org/analysis/dissenter-plugin.php)
+
 
 carykh
 
@@ -822,4 +816,4 @@ tim hunkin - southwold under the peir - novalty automation
 [European Space Agency Images](http://www.esa.int/ESA_Multimedia/Images)
 
 
-[Super Class Blogging: wakelet + genially](https://blog.wakelet.com/2020/06/23/wakelet-genially/)
+
