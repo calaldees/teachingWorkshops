@@ -262,6 +262,8 @@ Lesson Topic Ideas
         * other visulisations? data visulisation?
     * [generative artistry](https://generativeartistry.com/)
     * The field of Data Visualisation (TODO: crosslink)
+    * Aesthetic art to evoke emotion and imagery
+        * [rekall.me](https://rekall.me/)
 * Languages
     * English Grammar
         * [grammar.py](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/data/grammar.py)

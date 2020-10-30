@@ -274,6 +274,7 @@ What implications will this have for you teaching Computing?
         * If a CEO lies to their shareholders, they go to prison for fraud. If a politicians lies to a country, thats fair game
     * [Is the EU Democratic? Does Your Vote Matter?](https://www.youtube.com/watch?v=h4Uu5eyN6VU)
         * Anuimation by [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt/videos). A Wonderful resource for education animations
+    * [Manipulative political discourse undermines voters](https://electionemails2020.org/assets/manipulative-political-emails-working-paper.pdf)
 
 ### Story: A-Level class teacher complaint
 Class write a letter

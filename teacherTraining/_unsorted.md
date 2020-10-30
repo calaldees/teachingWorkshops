@@ -156,8 +156,7 @@ pixel
 wav (audio)
 hex
 
-[StawWars ASCII](https://asciinema.org/a/8)
-https://github.com/bejd/clad-ascii
+
 
 database SQL
 
