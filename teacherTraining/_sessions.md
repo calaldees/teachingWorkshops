@@ -241,7 +241,17 @@ Friday 6th November (Online) - Week 10
     * How do we meet the needs of all learners?
 * PM
     * Provision for students with SEND in Computing
-        * Strategies to aid individual students with different specific needs; EAL (English as additional lanaguge, dyspraxia, dyslexia, dyscalculia, ASD (Autistic spectrum disorder), BSED (Emotional behavioral social, difficulties), ODD (Oppositional Defiant Disorder), ADHD (Attention deficit hyperactivity disorder), Hearing impairment, Visual impairment.
+        * Strategies to aid individual students with different specific needs;
+            * EAL (English as additional language)
+            * Dyspraxia
+            * Dyslexia
+            * Dyscalculia
+            * ASD (Autistic spectrum disorder)
+            * BSED (Emotional behavioural social, difficulties)
+            * ODD (Oppositional Defiant Disorder)
+            * ADHD (Attention deficit hyperactivity disorder)
+            * Hearing impairment
+            * Visual impairment
         * Planning for TA's
     * AMA (Academically more able)
     * Differentiation: _inclusion_ vs _adaptation_ in Computing

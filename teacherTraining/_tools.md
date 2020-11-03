@@ -18,7 +18,7 @@ Teaching Tools
 
 
 * [microbit.org](https://microbit.org/)
-    * [MakeCode](https://makecode.microbit.org/) Online Editor
+    * [MakeCode](https://makecode.microbit.org/) Online Editor + Courses + Lessons
     * [Digital Technologies Hub](https://www.digitaltechnologieshub.edu.au/teachers/lesson-ideas#/) Australia - Lesson Plans
         * https://www.digitaltechnologieshub.edu.au/teachers/lesson-ideas/morse-code-network
     * [BBC microbit Lessons for Micro Python](http://physicalcomputing.co.uk/2017/01/11/bbc-microbit-lessons/)

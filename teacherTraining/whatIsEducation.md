@@ -25,6 +25,9 @@ Session 3 - What is Education
 History of Computing education in the UK
 ----------------------------------------
 
+* [Restart: The Resurgence of Computer Science in UK Schools](https://core.ac.uk/download/pdf/79655562.pdf) Brown 2014
+    * > Computer science in UK schools has gone from almost extinct to mandatory in thespace of a five year period
+    * > TheA-LevelqualificationofferedtherenowoverlapssubstantiallywiththenewGCSEqualification(whichprecedesit),and numbers taking the A-Level are still in decline.
 * [Shut down or restart? The way forward for computing in UK schools](https://royalsociety.org/~/media/education/computing-in-schools/2012-01-12-summary.pdf) 2012 Recommended reforms
 * [School ICT to be replaced by computer science programme](https://www.bbc.co.uk/news/education-16493929) 2012 'Slaves to the interface'
 * [Bricklayers to Architects](https://learn.canterbury.ac.uk/bbcswebdav/pid-2641359-dt-content-rid-3959448_1/courses/E20MTETT4SPD/Bricklayers%20to%20Architects%20-%20Jones.pdf) Page 7/8

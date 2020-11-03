@@ -39,6 +39,12 @@ https://brilliant.org/courses/computer-science-essentials/
 https://brilliant.org/courses/programming-python/#chapter-introduction-28
 
 
+
+2http://www.codeclub.org.uk/13http://www.cs4fn.org/14http://www.raspberrypi.org/15http://raspberryjam.org.uk/16http://www.technocamps.com/17https://youngrewiredstate.org/18http://www.yousrc.com/19http://www.ocr.org.uk/qualifications/by-subject/computing/raspberry-pi/20http://csunplugged.org/21http://www.codeavengers.com/22http://coderdojo.com/23http://www.csprinciples.org/24http://www.codecademy.com/25http://www.bootstrapworld.org/26http://gacomputes.cc.gatech.edu/27http://www.exploringcs.org/
+
+
+* [logic.ly/demo](https://logic.ly/demo) full adder and rippel counter in browser
+
 Pedagogy
 --------
 * [teachcomputing.org - Pedagogy Quick Reads](https://blog.teachcomputing.org/tag/quickread/)
