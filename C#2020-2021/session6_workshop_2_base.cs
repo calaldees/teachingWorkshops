@@ -41,7 +41,6 @@ namespace ZooCalcMonthTimeV1
             int numChildren = 0;
             int numSeniors = 0;
             int totalTicketNumbers = 0;
-
             int totalSalePrice = 0;  // salePrice
 
             Console.Write("Enter number of Adults: ");
