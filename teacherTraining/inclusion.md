@@ -13,6 +13,10 @@ Pre-Reading
 * [Cognitive Abilities Test (CAT) Guidance: TEACHER GUIDANCE](https://www.gl-assessment.co.uk/media/352577/29759-cat4-uk-combined-v10.pdf)
     * Read the _What is CAT4?_ pg7 to pg16
     * Read _What CAT4 tells you_ pg112 to pg 118
+    * Make notes on
+        * What are the different buckets of questions?
+        * What are the buckets for?
+        * What is a good CAT score? what is a weak CAT score?
 * Compare prepared to consider how we can adapt our Computing teaching to be inclusive to all learners.
     * Consider ITT CCF 5.4. 
         * > Adaptive teaching is less likely to be valuable if it causes the teacher to artificially create distinct tasks for different groups of pupils or to set lower expectations for particular pupils.
@@ -48,6 +52,8 @@ Differentiation
     * Differentiation: _inclusion_ vs _adaptation_ in Computing
     * Use of data to aid planning of inclusion
         * What might this mean in the context of Computing
+
+What are your Gaps
 
 
 * [SEND code of practice: 0 to 25 years](https://www.gov.uk/government/publications/send-code-of-practice-0-to-25)
@@ -139,6 +145,7 @@ Differentiation
         * Conducting these discussions effectively involves a considerable amount of skill. As with other aspects of good teaching for pupils with SEN, schools should ensure that teaching staff are supported to manage these conversations as part of professional development.
 
 
+[EEF: Special Educational Needs in Mainstream Schools](https://educationendowmentfoundation.org.uk/tools/guidance-reports/special-educational-needs-disabilities/)
 
 
 All the special schools have been closed
@@ -185,9 +192,32 @@ Can't sit down - Yes they can .. they can play videogames for 3 hours + .. they 
 
 Story
 Year 9 Trip
-Flying pig
-Matrix jump
-Chris washing up
+ Flying pig
+ Matrix jump
+ Chris washing up
+
+Girl - click where we are - just tell me
+Elliot summer camp - rap - respect
+
+Vertical Tutoring
+* [Peer tutoring](https://educationendowmentfoundation.org.uk/evidence-summaries/teaching-learning-toolkit/peer-tutoring/)
+    * cross-age tutoring, in which an older learner takes the tutoring role and is paired with a younger tutee or tutees;
+Kain and rewards trip
+
+
+Shara
+* > with every classroom having three children who have come into contact with a social worker
+* > The EEF’s new guidance on how to spend it rightly emphasises recruiting, retaining and developing great teachers
+* > Pupil Premium must not become a cause of unnecessary work for teachers
+[New measures to support disadvantaged children in schools](https://www.gov.uk/government/news/new-measures-to-support-disadvantaged-children-in-schools)
+
+Mental heath of teenages
+Suicide - self harm
+
+
+Covid - poorest most affected
+
+
 
 Dylan willam: no grade - there is only personal progress
 
@@ -197,7 +227,20 @@ My PE Teacher - run times - small, slow, poor cordination (throw/catch) - handwr
 Lazy unable
 Mindset
 
+Digital povety
+inlcusion remotely
+Raspberry Pi - £150
+Cheapest machine?
+Internet?
+* [eBay removing listed for Raspberry Pi](https://twitter.com/lbhq/status/1323482627681198080) because they COULD be used as a computer
 
+
+Puil premium - extra money
+
+TA - What are they their for
+Single child or whole class
+Acknologe them - give them guidence (30 seconds)
+[Making Best Use of Teaching Assistants](https://educationendowmentfoundation.org.uk/tools/guidance-reports/making-best-use-of-teaching-assistants/)
 
 
 
@@ -289,3 +332,32 @@ ExpectedAttainment8 KS2Score-> Lookup
 [Progress8](https://www.youtube.com/watch?v=2qeQxQ06TXw) Explanation
 
 
+
+
+[EEF: Using Digital Technology to Improve Learning](https://educationendowmentfoundation.org.uk/tools/guidance-reports/using-digital-technology-to-improve-learning/)
+
+* [EEF: Pupil Premium Guide](https://educationendowmentfoundation.org.uk/evidence-summaries/pupil-premium-guide/)
+1. Teaching
+    * Professional development
+    * Recruitment and retention
+    * Support for early career teachers
+2. Targeted academic support
+    * Structured interventions
+    * Small group tuition
+    * One-to-one support
+3. Wider strategies 
+    * Behaviour approaches
+    * Breakfast clubs
+    * Increasing attendance
+
+> Weekly individual coaching sessions help to support teachers and subject-specific CPD improves the quality of our pedagogical content knowledge
+
+* wellbeing
+    * weekly 1:1 counselling sessions, Occupational Therapy-based interventions
+* communication 
+    * (e.g. transport for parents to attend annual reviews, support for pupils to access a range of offsite trips and experiences); 
+* achievement (e.g. individual and small group tuition, personalised homework support and online learning packages) 
+* independence (e.g. weekly work experience opportunities for individuals)
+
+
+[Poverty & deprivation statistics: What are the local/devolved administration/UK needs?](https://www.youtube.com/watch?v=ghAsIk4-AiU&feature=youtu.be)

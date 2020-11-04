@@ -6,3 +6,5 @@
 
 
 * [Model paper Boeing 777](https://www.lucaiaconistewart.com/model-777)
+
+* [How to (seriously) read a scientific paper](https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper) - Advice
