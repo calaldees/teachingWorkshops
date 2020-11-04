@@ -6,7 +6,6 @@ namespace ZooCalcMonthTimeV1
     {
         static void Main(string[] args)
         {
-            int totalPrice = 0;
 
             // Input - Month and Time ------------------------------------------
 
@@ -43,7 +42,7 @@ namespace ZooCalcMonthTimeV1
             int numSeniors = 0;
             int totalTicketNumbers = 0;
 
-            int rawPrice = 0;  // salePrice
+            int totalSalePrice = 0;  // salePrice
 
             Console.Write("Enter number of Adults: ");
             numAdults = int.Parse(Console.ReadLine());
@@ -61,28 +60,31 @@ namespace ZooCalcMonthTimeV1
             {
                 //Sell group ticket
                 Console.WriteLine("Selling group ticket at £" + groupPrice.ToString () + " per person");
-                totalPrice = groupPrice * totalTicketNumbers;
+                totalSalePrice = groupPrice * totalTicketNumbers;
             }
             else
             {
-                rawPrice = adultPrice * numAdults + childPrice * numChildren + seniorPrice * numSeniors;
-                if (rawPrice > passPrice)
+                totalSalePrice = 
+                    adultPrice * numAdults + 
+                    childPrice * numChildren + 
+                    seniorPrice * numSeniors;
+
+                if (totalSalePrice > passPrice)
                 {
                     //Sell pass ticket
                     Console.WriteLine("Selling Pass Ticket for £" + passPrice .ToString ());
-                    totalPrice = passPrice;
+                    totalSalePrice = passPrice;
                 }
                 else
                 {
                     Console.WriteLine("Selling Individual Tickets");
-                    totalPrice = rawPrice;
                 }
             }
 
             // Output - Ticket Sale --------------------------------------------
 
-            Console.Write("Total Cost = ");
-            Console.WriteLine(totalPrice);
+            Console.Write("Total Sale Price = ");
+            Console.WriteLine(totalSalePrice);
 
             // Output - Total Sales for the day --------------------------------
 
