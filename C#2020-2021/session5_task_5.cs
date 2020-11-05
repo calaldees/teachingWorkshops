@@ -32,11 +32,11 @@ public class Task
             // ---
 
             Console.Write("Adult: ");
-            int num_adult = Convert.ToInt32(Console.ReadLine());
+            int num_adult = int.Parse(Console.ReadLine());
             Console.Write("Child (under 16): ");
-            int num_child = Convert.ToInt32(Console.ReadLine());
+            int num_child = int.Parse(Console.ReadLine());
             Console.Write("Senior (over 65): ");
-            int num_senior = Convert.ToInt32(Console.ReadLine());
+            int num_senior = int.Parse(Console.ReadLine());
 
             int num_tickets = num_adult + num_child + num_senior;
             int this_sale;

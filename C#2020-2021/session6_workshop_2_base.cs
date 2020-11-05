@@ -40,8 +40,6 @@ namespace ZooCalcMonthTimeV1
             int numAdults = 0;
             int numChildren = 0;
             int numSeniors = 0;
-            int totalTicketNumbers = 0;
-            int totalSalePrice = 0;  // salePrice
 
             Console.Write("Enter number of Adults: ");
             numAdults = int.Parse(Console.ReadLine());
@@ -54,6 +52,9 @@ namespace ZooCalcMonthTimeV1
 
             // Process - Ticket Sale -------------------------------------------
 
+            int totalTicketNumbers = 0;
+            int totalSalePrice = 0;
+
             totalTicketNumbers = numAdults + numChildren + numSeniors;
             if (totalTicketNumbers >= 5)
             {
@@ -64,9 +65,9 @@ namespace ZooCalcMonthTimeV1
             else
             {
                 totalSalePrice = 
-                    adultPrice * numAdults + 
-                    childPrice * numChildren + 
-                    seniorPrice * numSeniors;
+                    (adultPrice * numAdults) + 
+                    (childPrice * numChildren) + 
+                    (seniorPrice * numSeniors);
 
                 if (totalSalePrice > passPrice)
                 {
