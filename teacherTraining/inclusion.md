@@ -1,6 +1,29 @@
 Inclusion
 =========
 
+Course Session Plan
+-------------------
+
+* Provision for students with SEND in Computing
+    * Strategies to aid individual students with different specific needs;
+        * EAL (English as additional language)
+        * Dyspraxia
+        * Dyslexia
+        * Dyscalculia
+        * ASD (Autistic spectrum disorder)
+        * BSED (Emotional behavioural social, difficulties)
+            * Anxiety
+        * ODD (Oppositional Defiant Disorder)
+        * ADHD (Attention deficit hyperactivity disorder)
+        * Hearing impairment
+        * Visual impairment
+    * Planning for TA's
+* AMA (Academically more able)
+* Differentiation: _inclusion_ vs _adaptation_ in Computing
+* Use of data to aid planning of inclusion
+    * What might this mean in the context of Computing
+
+
 Pre-Reading
 -----------
 
@@ -21,40 +44,417 @@ Pre-Reading
     * Consider ITT CCF 5.4. 
         * > Adaptive teaching is less likely to be valuable if it causes the teacher to artificially create distinct tasks for different groups of pupils or to set lower expectations for particular pupils.
 
+ITT CCF
+-------
 
-Adaptive Teaching (Standard 5–‘Adapt teaching’)
-Learn That
-1. Pupils are likely to learn at different rates and to require different levels and types of support from teachers to succeed.
-3. Adapting teaching in a responsive way, including by providing targeted support to pupils who are struggling, is likely to increase pupil success.
-4. Adaptive teaching is less likely to be valuable if it causes the teacher to artificially create distinct tasks for different groups of pupils or to set lower expectations for particular pupils.
-7. Pupils with special educational needs or disabilities are likely to require additional or adapted support; working closely with colleagues, families and pupils to understand barriers and identify effective strategies is essential.
-Learn How to
-Identifying pupils who need new content further broken down.
+* Adaptive Teaching (Standard 5–‘Adapt teaching’)
+    * Learn That
+        1. Pupils are likely to learn at different rates and to require different levels and types of support from teachers to succeed
+        3. Adapting teaching in a responsive way, including by providing targeted support to pupils who are struggling, is likely to increase pupil success
+        4. Adaptive teaching is less likely to be valuable if it causes the teacher to artificially create distinct tasks for different groups of pupils or to set lower expectations for particular pupils
+        7. Pupils with special educational needs or disabilities are likely to require additional or adapted support; working closely with colleagues, families and pupils to understand barriers and identify effective strategies is essential
+    * Learn How to
+        * Identifying pupils who need new content further broken down.
+* Professional Behaviours (Standard 8–‘Fulfil wider professional responsibilities’)
+    4. Building effective relationships with parents, carers and families can improve pupils’ motivation, behaviour and academic success
+    5. Teaching assistants (TAs) can support pupils more effectively when they are prepared for lessons by teachers, and when TAs supplement rather than replace support from teachers.
+    6. SENCOs, pastoral leaders, careers advisors and other specialist colleagues also have valuable expertise and can ensure that appropriate support is in place for pupils
 
 
-Differentiation
+SEND code of practice
+---------------------
 
-    * Provision for students with SEND in Computing
-        * Strategies to aid individual students with different specific needs;
-            * EAL (English as additional language)
-            * Dyspraxia
-            * Dyslexia
-            * Dyscalculia
-            * ASD (Autistic spectrum disorder)
-            * BSED (Emotional behavioural social, difficulties)
-                * Axiety
-            * ODD (Oppositional Defiant Disorder)
-            * ADHD (Attention deficit hyperactivity disorder)
-            * Hearing impairment
-            * Visual impairment
-        * Planning for TA's
-    * AMA (Academically more able)
-    * Differentiation: _inclusion_ vs _adaptation_ in Computing
-    * Use of data to aid planning of inclusion
-        * What might this mean in the context of Computing
+* [SEND code of practice: 0 to 25 years](https://www.gov.uk/government/publications/send-code-of-practice-0-to-25)
 
-What are your Gaps
+TASK 1: (15min)
+* What are your responsibilities as a subject teacher?
+    * Google Doc
+* A list of skills/training-needs you think you need to develop (You will use this list when your mentor meetings)
 
+TASK 2: (15min)
+PartA:
+* What are the 4 broad areas of need - can you identify any traits/names to these areas?
+PartB (15min - could be extended ...)
+* What could we do in a Computing classroom to facilitate each of these possible traits/areas of need?
+    * Would love to hear your personal experiences and contributions
+
+Some of my closing remarks
+* Many of the special schools have been closed - a wider spectrum of students are expected to attant mainstream education.
+* Every teacher is a teacher of SEN and disabilities - we do not delegate to other teachers - we ARE the support
+* We are an inclusive society
+
+
+Inclusive Society?
+------------------
+
+Discussion:
+You have read that as teachers we are duty-bound to include all students of all possible ability's, backgrounds, races, genders, disabilities, ethnicity's, etc.
+We are an inclusive society.
+
+TASK: (15min)
+With that in mind ... carefully discuss as a group the role of
+* Single sex schools
+* Grammar schools
+* Special schools (do you as a teacher have the skills/training to support all of the required needs?)
+
+
+EEF: Special Educational Needs in Mainstream Schools
+----------------------------------------------------
+
+* [EEF: Special Educational Needs in Mainstream Schools](https://educationendowmentfoundation.org.uk/tools/guidance-reports/special-educational-needs-disabilities/)
+    * Create a positive and supportive environment for all pupils without exception
+        * Build trust in you/teacher - we really want the best for them and there is no judgement
+    * Build an ongoing, holistic understanding of your pupils and their needs
+        * Assessment should be regular and purposeful rather than a one-off event, 
+        * seek input from parents/carers as well as the pupil themselves ...
+    * Ensure all pupils have access to high quality teaching
+        * flexible grouping;
+        * cognitive and metacognitive strategies;
+        * explicit instruction;
+        * using technology
+    * Complement high quality teaching with carefully selected small-group and one-to-one interventions
+    * Work effectively with teaching assistants
+
+Case Study: (slightly close to home) C# Undergrads
+Same course - personalised support
+
+
+Accessibility
+-------------
+
+As teachers we will create digital content and put this on VLE's (Virtual Learning Environments).
+We need to adhere to government requirements
+
+TASK: Skim read (10min) - As a group - relay anything that we as teachers need to consider about out content?
+* [Understanding Web Content Accessibility Guidelines - WCAG 2.1](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag)
+
+* Paragraphs and dense text
+    * I struggle with lots of words
+    * Young people struggle with lots of words
+    * Use less words
+        * I break writing up into bullet-points
+* [How to write in plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html)
+    * [HemingwayApp: Web based plain english assistant](http://www.hemingwayapp.com/)
+        * When presenting remove redundant words. "So", "Basically", "Just" (See my blog post on presenting)
+
+TASK: Copy/Paste some text you have written (maybe one of your reflections?) into hemingwayapp.com
+
+
+Inclusion Concept: Vertical Tutoring?
+-------------------------------------
+
+* Experiments have been done in schools to break traditional year groups.
+* Form time includes small community's of students from all years.
+* Research shows that facilitating peer mentoring creates improvements
+    * [Peer tutoring](https://educationendowmentfoundation.org.uk/evidence-summaries/teaching-learning-toolkit/peer-tutoring/)
+        * cross-age tutoring, in which an older learner takes the tutoring role and is paired with a younger tutee or tutees;
+
+Story: SEN Inclusion case study
+I worked in a school where we vertical tutored
+* Special year 9 student and rewards trip problems with parents
+
+Lesson Planning
+---------------
+
+* Every lesson I relay to students on the board
+    * All - of you will
+    * Most - of you should
+    * Some - of you could
+    * (How will you as a teacher know this? you should make a note of % for each of these categories - maybe even some names)
+* Reality
+    * Plan for 10% absence from every session
+    * Explicitly describe in your lesson plan 'What you will do for students that missed last session' (even name them in your plan?)
+* Plan for TA
+
+### Differentiation
+
+* [Computing in the curriculum: Challenges and strategies from a teacher’s perspective](https://link.springer.com/article/10.1007/s10639-016-9482-0) 2016 Sue Sentance and Andrew Csizmadia
+    * > The gap between those that engage and achieve very quickly grows at an alarming rate
+    * 2nd biggest teacher concern for teaching Computing - Differentiation - to meet different levels of ability
+        * 1st was own subject knowlege
+
+The gap between students can become huge very quickly ...
+
+* ITT CCF 5.4. 
+    * > Adaptive teaching is less likely to be valuable if it causes the teacher to artificially create distinct tasks for different groups of pupils or to set lower expectations for particular pupils.
+
+
+### Metrics (to assist your planning)
+
+* Free School Meals - FSM
+* Care
+* EAL (English as an additional language)
+* SATs
+* CATs
+
+#### SAT
+
+* [Understanding SATs results](https://www.theschoolrun.com/understanding-sats-results) Heading: KS2 SATs scores explained
+* [SATs Scores Explained For KS2 and KS1 Parents: Everything You Need To Know About Your Child’s SATs Results](https://thirdspacelearning.com/blog/sats-scores-explained-ks2-ks1/) June 2020
+    * B - too low to access material
+    * 80 lowest - Not met expected standard
+    * 100 AS - Expected Standard
+    * 120 Max
+
+#### CAT by GL Assessment (in more detail)
+
+Pre-Reading
+* [Cognitive Abilities Test (CAT) Guidance: TEACHER GUIDANCE](https://www.gl-assessment.co.uk/media/352577/29759-cat4-uk-combined-v10.pdf)
+    * Read the _What is CAT4?_ pg7 to pg16
+    * Read _What CAT4 tells you_ pg112 to pg 118
+    * Make notes on
+        * What are the different buckets of questions?
+        * What are the buckets for?
+        * What is a good CAT score? what is a weak CAT score?
+
+TASK: You tell me ...
+
+* Not government, provided by one commercial company GL Assessment. Not mandated.
+* 1 hour?
+* Buckets
+    * Verbal
+    * Non-Verbal
+    * Quanitatitive
+    * Spatial
+* Similar concept and distribution to IQ
+* [ParentKind - What are CATs](https://www.parentkind.org.uk/Parents/What-are-CATs) arguments for an against
+    * SATS Teach to the test - CATS are assess underlying potential
+    * Children are overtested
+* [Understanding The Cognitive Ability Test (CAT4) and doing something about it!](https://www.wagollteaching.com/blog/understanding-the-cognitive-ability-test-cat4-and-doing-something-about-it#/)
+    * Verbal Deficient children - Don't talk but are smart and often not identified
+    * Masked Children - Talk proficiently but lack deeper understanding
+    * Compare quantitative and spacial scores - visual (flowcharts)
+* [Cognitive Abilities Test (CAT) Guidance: TEACHER GUIDANCE](https://www.gl-assessment.co.uk/media/352577/29759-cat4-uk-combined-v10.pdf)
+* [Cognitive Abilities Test Fourth Edition (CAT4)](https://www.youtube.com/watch?v=IGVpN7jEROc)
+* [COGNITIVE ABILITIES TEST AND GCSEINDICATORS](https://www.gl-assessment.co.uk/sites/gl/files/images/Files/GCSE_Technical_Information.pdf)
+
+
+* [Is it truly illegal for the US Armed Forces to hire someone whose IQ is less than 83?](https://law.stackexchange.com/a/37493)
+    * > law prohibits people with an IQ score of 83 or less from serving in the U.S. military
+    * > For comparison's sake, an IQ score of 70 is normally considered developmentally disabled (a.k.a. mentally retarded).
+    * > The minimum IQ score for entry into the military by current regulations of about 92 would be within the "normal" range of 90-110 that includes about half of the general population.
+    * > 30th percentile is an IQ score of 92 
+      > an IQ score of 83 is the 14th percentile.
+    * ![IQ Distribution](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/IQ_distribution.svg/260px-IQ_distribution.svg.png)
+
+
+TASK: Question: How can this help you plan? What actions-points/notes could you make?
+
+
+Teacher Assistants
+------------------
+
+* ITT CCF
+    * Professional Behaviours (Standard 8–‘Fulfil wider professional responsibilities’)
+        * Learn that ...
+            * > Teaching assistants (TAs) can support pupils more effectively when they are prepared for lessons by teachers, and when TAs supplement rather than replace support from teachers
+        * Learn how to ...
+            * > Discussing with mentor and expert colleagues how to share   the intended lesson outcomes with teaching assistants ahead of lessons
+            * > Receiving clear, consistent and effective mentoring in how to ensure that support provided by teaching assistants in lessons is additional to,  rather than a replacement for, support from the teacher
+            * > Preparing teaching assistants for lessons under supervision of expert colleagues
+
+
+* Know Your TA - What are they their for?
+    * Single child or whole class
+* Acknowledge them - give them guidance (before hand? at beginning of lesson?)
+
+(This is a huge topic. I want to introduce you too it. 10min is not enough time to digest this)
+TASK: (10min) Look at the EEF Teaching Assistant guidance - skimh it, know it exists - start thinking about 
+* [Making Best Use of Teaching Assistants](https://educationendowmentfoundation.org.uk/tools/guidance-reports/making-best-use-of-teaching-assistants/)
+
+
+Disadvantaged Students
+----------------------
+
+TASK: What is [Pupil-Premium](https://www.gov.uk/government/publications/pupil-premium/pupil-premium)? (10min)
+You tell me
+
+* [New measures to support disadvantaged children in schools](https://www.gov.uk/government/news/new-measures-to-support-disadvantaged-children-in-schools)
+    * > with every classroom having three children who have come into contact with a social worker
+    * > The EEF’s new guidance on how to spend it rightly emphasises recruiting, retaining and developing great teachers
+    * > Pupil Premium must not become a cause of unnecessary work for teachers
+* [EEF: Pupil Premium Guide](https://educationendowmentfoundation.org.uk/evidence-summaries/pupil-premium-guide/)
+    1. Teaching
+        * Professional development
+        * Recruitment and retention
+        * Support for early career teachers
+            * > Weekly individual coaching sessions help to support teachers and subject-specific CPD improves the quality of our pedagogical content knowledge
+    2. Targeted academic support
+        * Structured interventions
+        * Small group tuition
+        * One-to-one support
+    3. Wider strategies 
+        * Behaviour approaches
+        * Breakfast clubs
+        * Increasing attendance
+    * (Some Quotes)
+        * wellbeing
+            * weekly 1:1 counselling sessions, Occupational Therapy-based interventions
+        * communication 
+            * (e.g. transport for parents to attend annual reviews, support for pupils to access a range of offsite trips and experiences); 
+        * achievement (e.g. individual and small group tuition, personalised homework support and online learning packages) 
+        * independence (e.g. weekly work experience opportunities for individuals)
+
+
+### Metrics of disadvantage?
+
+* Free school meals - important metric!
+* Attendance? 
+    * moving home? devoice?
+* Social Services? foster?
+* Number of excursions/interventions?
+    * Detentions?
+
+#### (Optional) - Digging deeper
+
+* [Poverty & deprivation statistics: What are the local/devolved administration/UK needs?](https://www.youtube.com/watch?v=ghAsIk4-AiU) Royal Statistics Society (1 hour video)
+
+### Digital poverty
+
+The poorest low ability children will be hardest hit by Covid.
+How do we consider _inclusion_ for remote teaching?
+
+Task: (10min) What is the cheapest possible general purpose computer you could recommend to a student?
+Ideas + Links on the Google Doc
+
+Even if they have a machine - what about internet connectivity?
+
+* points of mine
+    * [eBay removing listed for Raspberry Pi](https://twitter.com/lbhq/status/1323482627681198080) because they COULD be used as a computer
+    * Raspberry Pi - £150?
+
+
+Behaviour and SEN
+-----------------
+
+Don't justify behaviour based on SEN label - we should be using SEN label to assist us plan
+
+Self assessment - metacognition
+Plan with the child an approach
+ my motivation
+ self awareness
+ empthy
+ social skills
+ managing my learning
+
+
+Models of Disability
+--------------------
+
+[Introduction to the Social and Medical Models of Disability](https://www.ombudsman.org.uk/sites/default/files/FDN-218144_Introduction_to_the_Social_and_Medical_Models_of_Disability.pdf)
+
+* Disablism == stereotypes of disabled people
+* Medical model -> person needs to change/adapt -> anxious, wheelchair, lazy
+    * > Underlying the medical model is the belief that the difficulties associated with a disability should be borne wholly by the disabled person, 
+        > and that the disabled person should make an extra effort (perhaps in time, effort, money, etc.) to ensure they do not inconvenience anyone else. 
+        > They must change and adapt to fit the circumstances and their environment such as attending university.
+* Social model of disability -> person needs support -> low-income, negative attitudes, badly designed buildings
+* > your responsibility to ensure that your learning and teaching activities and materials are accessible.
+
+
+Computing Inclusion Further Reading
+-----------------------------------
+
+* [CAS: Inclusion](https://www.computingatschool.org.uk/custom_pages/415-inclusion)
+* Microsoft [Guide to Inclusive Computer Science Education: How educators can encourage and engage all students in computer science](https://www.ncwit.org/resources/guide-inclusive-computer-science-education-how-educators-can-encourage-and-engage-all)
+* [SEND Computing](http://sendcomputing.info/)
+* [Computing ITT & CPD](https://sites.google.com/site/primaryictitt/home/sen)
+
+
+Concluding Task
+---------------
+
+* What are your Gaps?
+* Create a list of action points for areas of personal development
+    * Take this list with you to your new placement school
+
+
+Unsorted
+========
+
+Daughter autism (18 when finally diagnosed) (under diagnosed in girls, they mask the traditional male symptoms) had never been invited to a birthday party
+
+
+Webinar notes - supporting learners with SEND
+-------------
+
+* Webinar: How to support all learners Part 1: SEND
+* A presentation on supporting learners with SEND by Vijita Patel
+* Author: Vijita Patel, Joe Treacy
+* Date: Oct 13, 2020
+
+* 9 million children in eduction
+    * SEN 1.4 million
+    * Support plan 0.3 million
+    * Special school 0.13 million
+
+
+* Design of secondary school fragmented
+* Space and time to have dialogue with other subject teachers about a student - talk to them - not just SENCO
+
+
+
+If it works for SEN pupils, it works for everybody
+
+One size does not fit all
+
+Sit down - take your headphones out
+Can't sit down - Yes they can .. they can play videogames for 3 hours + .. they can watch films ... they can ride in cars
+
+Story
+Year 9 Trip
+ Flying pig
+ Matrix jump
+ Chris washing up
+
+Girl - click where we are - just tell me
+Elliot summer camp - rap - respect
+
+
+
+
+
+Case Study
+Sarah
+
+Mental heath of teenages
+Suicide - self harm
+
+
+Covid - poorest most affected
+
+
+
+
+
+My PE Teacher - run times - small, slow, poor cordination (throw/catch) - handwriting illegable/unmarkable , spelling non existent
+
+
+
+Most children do not fit into neatley into a category
+I take them as a guide, but focus on children as individuals
+
+* [What Can the US Learn From France When it Comes to ADHD?](https://www.parent.com/what-can-the-us-learn-from-france-when-it-comes-to-adhd/)
+    * France 0.5%
+    * US 10% to 15%
+
+
+
+
+Dylan Willam: Pupils should not shown their grade - there is only personal progress
+https://www.youtube.com/watch?v=J25d9aC1GZA
+David Andrews
+> This experiment highlights the problems inherent in running mixed-ability classes, and makes it clear that any techniques used to increase access to participation for the students on either side of the class average (in terms of ability) will only ever be compromises.
+
+
+
+[EEF: Using Digital Technology to Improve Learning](https://educationendowmentfoundation.org.uk/tools/guidance-reports/using-digital-technology-to-improve-learning/)
+
+
+
+
+Appendix
+========
 
 * [SEND code of practice: 0 to 25 years](https://www.gov.uk/government/publications/send-code-of-practice-0-to-25)
     * 1.24
@@ -101,25 +501,23 @@ What are your Gaps
         * Some learning difficulties and disabilities occur across the range of cognitive ability and, left unaddressed may lead to frustration, which may manifest itself as disaffection, emotional or behavioural difficulties.
     * 6.24
         * Identifying and assessing SEN for children or young people whose first language is not English requires particular care
-
-
-* Communication / Interaction (6.28, 6.29)
-    * Speech Language
-    * Autism
-    * Aspergers
-* Cognition (6.30, 6.31)
-    * Learning difficulties
-    * Specific learning difficulties
-        * Dyslexic, Dispracsic
-* Social / Emotional (6.32, 6.33)
-    * ADHD
-    * Attachment Disorder
-    * Self Harm
-* Sensory / Physical (6.34, 6.35)
-    * Visual
-    * Hearing
-    * Physical
-
+    * (6.28 -> 6.35) 4 areas of need
+        * Communication / Interaction (6.28, 6.29)
+            * Speech Language
+            * Autism
+            * Aspergers
+        * Cognition (6.30, 6.31)
+            * Learning difficulties
+            * Specific learning difficulties
+                * Dyslexic, Dispracsic
+        * Social / Emotional (6.32, 6.33)
+            * ADHD
+            * Attachment Disorder
+            * Self Harm
+        * Sensory / Physical (6.34, 6.35)
+            * Visual
+            * Hearing
+            * Physical
     * 6.37
         * High quality teaching, differentiated for individual pupils, is the first step in responding to pupils who have or may have SEN.
         * Additional intervention and support cannot compensate for a lack of good quality teaching. 
@@ -143,221 +541,3 @@ What are your Gaps
         * These discussions can build confidence in the actions being taken by the school, but they can also strengthen the impact of SEN support by increasing parental engagement in the approaches and teaching strategies that are being used
     * 6.68
         * Conducting these discussions effectively involves a considerable amount of skill. As with other aspects of good teaching for pupils with SEN, schools should ensure that teaching staff are supported to manage these conversations as part of professional development.
-
-
-[EEF: Special Educational Needs in Mainstream Schools](https://educationendowmentfoundation.org.uk/tools/guidance-reports/special-educational-needs-disabilities/)
-
-
-All the special schools have been closed
-Every teacher is a teacher of SEN and disabilities - we do not deligate to other teachers - we are
-We are an inclusive socity
-
-Single sex schools are the antithesis of inclusion
-ghramar schools are the antithesis of inclusion
-
-Daughter autisum (18)  (under diagnosed in girls, they mask the symptoms) had never been invited to a bithday party
-
-Design of secondary school fragmented
-Space and time to have dialog with other subect teachers about a student - talk to them - not just SENCO
-
-Build trust in you - we really want the best for them and there is no judgement
-
-Free school meals - importatn metric
-Attendence? moving home? devorce?
-Social Services? foster?
-Detentions?
-
-Plane for 10% abcence from every session
-
-Don't jsutify behaviour based on SEN label - we should be using SEN label to assisist us plan
-
-Self assessment - metacognition
-Plan with the child an approach
- my motivation
- self awareness
- empthy
- social skills
- managing my learning
-
-All
-Most
-Some
-
-If it works for SEN pupils, it works for everybody
-
-One size does not fit all
-
-Sit down - take your headphones out
-Can't sit down - Yes they can .. they can play videogames for 3 hours + .. they can watch films ... they can ride in cars
-
-Story
-Year 9 Trip
- Flying pig
- Matrix jump
- Chris washing up
-
-Girl - click where we are - just tell me
-Elliot summer camp - rap - respect
-
-Vertical Tutoring
-* [Peer tutoring](https://educationendowmentfoundation.org.uk/evidence-summaries/teaching-learning-toolkit/peer-tutoring/)
-    * cross-age tutoring, in which an older learner takes the tutoring role and is paired with a younger tutee or tutees;
-Kain and rewards trip
-
-
-Shara
-* > with every classroom having three children who have come into contact with a social worker
-* > The EEF’s new guidance on how to spend it rightly emphasises recruiting, retaining and developing great teachers
-* > Pupil Premium must not become a cause of unnecessary work for teachers
-[New measures to support disadvantaged children in schools](https://www.gov.uk/government/news/new-measures-to-support-disadvantaged-children-in-schools)
-
-Mental heath of teenages
-Suicide - self harm
-
-
-Covid - poorest most affected
-
-
-
-Dylan willam: no grade - there is only personal progress
-
-My PE Teacher - run times - small, slow, poor cordination (throw/catch) - handwriting illegable/unmarkable , spelling non existent
-
-##Modern attitude/ethod
-Lazy unable
-Mindset
-
-Digital povety
-inlcusion remotely
-Raspberry Pi - £150
-Cheapest machine?
-Internet?
-* [eBay removing listed for Raspberry Pi](https://twitter.com/lbhq/status/1323482627681198080) because they COULD be used as a computer
-
-
-Puil premium - extra money
-
-TA - What are they their for
-Single child or whole class
-Acknologe them - give them guidence (30 seconds)
-[Making Best Use of Teaching Assistants](https://educationendowmentfoundation.org.uk/tools/guidance-reports/making-best-use-of-teaching-assistants/)
-
-
-
-Most children do not fit into neatley into a category
-I take them as a guide, but focus on children as individuals
-
-* [What Can the US Learn From France When it Comes to ADHD?](https://www.parent.com/what-can-the-us-learn-from-france-when-it-comes-to-adhd/)
-    * France 0.5%
-    * US 10% to 15%
-
-
-
-
-
-https://www.youtube.com/watch?v=J25d9aC1GZA
-David Andrews
-> This experiment highlights the problems  inherent in running mixed-ability classes, and makes it clear that any techniques used to increase access to participation for the students on either side of the class average (in terms of ability) will only ever be compromises.
-
-
-Closed the special schools
-
-9 million children in eduation
-% SEN 1.4 million
-% Support plan 0.3 million
-% Soecil aschool 0.13 million
-
-
-
-
-[CAS: Inclusion](https://www.computingatschool.org.uk/custom_pages/415-inclusion)
-[SEND Computing](http://sendcomputing.info/)
-[Computing ITT & CPD](https://sites.google.com/site/primaryictitt/home/sen)
-
-
-
-[Guide to Inclusive Computer Science Education: How educators can encourage and engage all students in computer science](https://www.ncwit.org/resources/guide-inclusive-computer-science-education-how-educators-can-encourage-and-engage-all)
-
-
-* [Computing in the curriculum: Challenges and strategies from a teacher’s perspective](https://link.springer.com/article/10.1007/s10639-016-9482-0) 2016 Sue Sentance and Andrew Csizmadia
-    * > The gap between those that engage and achieve very quickly grows at an alarming rate
-
-
-CAT by GL Assessment
-* 1 hour?
-* Verbal
-* Non-Verbal
-* Quanitatitive
-* Spatial
-* Not government, provided by one commercial company GL Assessment. Not mandated.
-* [ParentKind - What are CATs](https://www.parentkind.org.uk/Parents/What-are-CATs) arguments for an against
-    * SATS Teach to the test - CATS are assess underlying potential
-    * Children are overtested
-* [Understanding The Cognitive Ability Test (CAT4) and doing something about it!](https://www.wagollteaching.com/blog/understanding-the-cognitive-ability-test-cat4-and-doing-something-about-it#/)
-    * Vebal Deficent children - Dont talk but are smart
-    * Masked Children - Talk proficently but lack deeper understanding
-    * Compare quantative and spacial scores - visual (flowcharts)
-* [Cognitive Abilities Test (CAT) Guidance: TEACHER GUIDANCE](https://www.gl-assessment.co.uk/media/352577/29759-cat4-uk-combined-v10.pdf)
-* [Cognitive Abilities Test Fourth Edition (CAT4)](https://www.youtube.com/watch?v=IGVpN7jEROc)
-* [COGNITIVE ABILITIES TEST AND GCSEINDICATORS](https://www.gl-assessment.co.uk/sites/gl/files/images/Files/GCSE_Technical_Information.pdf)
-
-* [Is it truly illegal for the US Armed Forces to hire someone whose IQ is less than 83?](https://law.stackexchange.com/a/37493)
-    * > law prohibits people with an IQ score of 83 or less from serving in the U.S. military
-    * > For comparison's sake, an IQ score of 70 is normally considered developmentally disabled (a.k.a. mentally retarded).
-    * > The minimum IQ score for entry into the military by current regulations of about 92 would be within the "normal" range of 90-110 that includes about half of the general population.
-    * > 30th percentile is an IQ score of 92 
-      > an IQ score of 83 is the 14th percentile.
-    * ![IQ Distribution](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/IQ_distribution.svg/260px-IQ_distribution.svg.png)
-
-[Understanding SATs results](https://www.theschoolrun.com/understanding-sats-results) Heading: KS2 SATs scores explained
-* NC Levels 3 to 5
-* B - too low to access material
-* 80 lowest - Not met expected standard
-* 100 AS - Expected Standard
-* 120 Max
-
-[Secondary accountability measures (including Progress 8 and Attainment 8)](https://www.gov.uk/government/publications/progress-8-school-performance-measure)
-Progress 8
-Attainment 8
-Grade point score
-* Maths (2 multiplyer)
-* English (Highest of Language or Literiture) (*2 multiplyer)
-* EBACC: Best 3 subjects from (Science, Computer Science, Geography, History, MFL)
-* Other: (vocational, lower-english, Art, DT, Drama, PE)
-
-2*Maths + 2*English + 3 EBACC + 3 Other = 10 buckets = 8 subjects
-ExpectedAttainment8 KS2Score-> Lookup
-(Attainment8 - ExpectedAttatinment8) / 10buckets = Progress 8
-
-[Progress8](https://www.youtube.com/watch?v=2qeQxQ06TXw) Explanation
-
-
-
-
-[EEF: Using Digital Technology to Improve Learning](https://educationendowmentfoundation.org.uk/tools/guidance-reports/using-digital-technology-to-improve-learning/)
-
-* [EEF: Pupil Premium Guide](https://educationendowmentfoundation.org.uk/evidence-summaries/pupil-premium-guide/)
-1. Teaching
-    * Professional development
-    * Recruitment and retention
-    * Support for early career teachers
-2. Targeted academic support
-    * Structured interventions
-    * Small group tuition
-    * One-to-one support
-3. Wider strategies 
-    * Behaviour approaches
-    * Breakfast clubs
-    * Increasing attendance
-
-> Weekly individual coaching sessions help to support teachers and subject-specific CPD improves the quality of our pedagogical content knowledge
-
-* wellbeing
-    * weekly 1:1 counselling sessions, Occupational Therapy-based interventions
-* communication 
-    * (e.g. transport for parents to attend annual reviews, support for pupils to access a range of offsite trips and experiences); 
-* achievement (e.g. individual and small group tuition, personalised homework support and online learning packages) 
-* independence (e.g. weekly work experience opportunities for individuals)
-
-
-[Poverty & deprivation statistics: What are the local/devolved administration/UK needs?](https://www.youtube.com/watch?v=ghAsIk4-AiU&feature=youtu.be)

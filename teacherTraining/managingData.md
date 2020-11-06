@@ -58,6 +58,24 @@ RAISEonline replaced by _Analyse School Performance_ in September 2017
 * Schools can have a negative Progress8 and still be classed as _good_
 
 
+### Attainment8 Progress8
+[Secondary accountability measures (including Progress 8 and Attainment 8)](https://www.gov.uk/government/publications/progress-8-school-performance-measure)
+Progress 8
+Attainment 8
+Grade point score
+* Maths (2 multiplyer)
+* English (Highest of Language or Literiture) (*2 multiplyer)
+* EBACC: Best 3 subjects from (Science, Computer Science, Geography, History, MFL)
+* Other: (vocational, lower-english, Art, DT, Drama, PE)
+
+2*Maths + 2*English + 3 EBACC + 3 Other = 10 buckets = 8 subjects
+ExpectedAttainment8 KS2Score-> Lookup
+(Attainment8 - ExpectedAttatinment8) / 10buckets = Progress 8
+
+[Progress8](https://www.youtube.com/watch?v=2qeQxQ06TXw) Explanation
+
+
+
 Organisations
 -------------
 
