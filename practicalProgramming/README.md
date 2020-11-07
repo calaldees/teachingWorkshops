@@ -173,7 +173,12 @@ Land height image processing
 
 Sesion 16
 ---------
-???
+Dry run number bases
+
+Session 17
+----------
+PHP message board (did not have summary - just built it and installed php)
+(need to tweak 2 lines to remove errors on odt)
 
 
 Upcomming
