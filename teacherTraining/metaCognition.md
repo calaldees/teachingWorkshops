@@ -85,3 +85,7 @@ TODO
     * > Several studies demonstrated  that  cooperative  learning  involves  metacognitive thoughts 
 * (not conclusive) [Evaluating effectiveness of active learning in computer science using metacognition](https://ieeexplore.ieee.org/document/7044226) 2015 mani et al
     * > Metacognitive strategies on the other hand help the student assess whether the goal has been met. In other words a student can use cognitive strategies, as guided by the metacognitive knowledge, till the goal is met
+
+
+[Metacognition](https://en.wikipedia.org/wiki/Metacognition) thinking about thinking
+[Getting started with Metacognition](https://cambridge-community.org.uk/professional-development/gswmeta/index.html)

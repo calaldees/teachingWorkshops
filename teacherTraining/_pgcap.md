@@ -396,38 +396,190 @@ Support the student - look at wellbeing - identify the root causese. _Identifyin
 Professional Standards Framework
 --------------------------------
 
-[The UK Professional Standards Framework for teaching and supporting learning in higher education](https://www.advance-he.ac.uk/knowledge-hub/uk-professional-standards-framework-ukpsf)
+[The UK Professional Standards Framework for teaching and supporting learning in higher education](https://www.advance-he.ac.uk/knowledge-hub/uk-professional-standards-framework-ukpsf) [pdf](https://s3.eu-west-2.amazonaws.com/assets.creode.advancehe-document-manager/documents/advance-he/UK%20Professional%20Standards%20Framework_1570613241.pdf)
 
-* Areas of Activity
-    * A1
-        * Design and plan learning activities and/or programmes of study
-    * A2
-        * Teach and/or support learning
-    * A3
-        * Assess and give feedback to learners
-    * A4
-        * Develop effective learning environments and approaches to student support and guidance
-    * A5
-        * Engage in continuing professional development in subjects/disciplines and their pedagogy, incorporating research, scholarship and the evaluation of professional practice
-* Core Knowledge
-    * K1
-        * The subject material
-    * K2
-        * Appropriate methods for teaching, learning and assessing in the subject area and at the level of the   academic programme
-    * K3
-        * How students learn, both generally and within their subject/disciplinary area(s)
-    * K4
-        * The use and value of appropriate learning technologies
-    * K5
-        * Methods for evaluating the effectiveness of teaching
-    * K6
-        * The implications of quality assurance and quality enhancement for academic and professional practice with a particular focus on teaching
-* Professional Values
-    * V1
-        * Respect individual learners and diverse learning communities 
-    * V2
-        * Promote participation in higher education and equality of opportunity for learners
-    * V3
-        * Use evidence-informed approaches and the outcomes from research, scholarship and continuing professional development 
-    * V4
-        * Acknowledge the wider context in which higher education operates  recognising the implications for professional practice
+* Dimensions of Framework
+    * Areas of Activity
+        * A1
+            * Design and plan learning activities and/or programmes of study
+        * A2
+            * Teach and/or support learning
+        * A3
+            * Assess and give feedback to learners
+        * A4
+            * Develop effective learning environments and approaches to student support and guidance
+        * A5
+            * Engage in continuing professional development in subjects/disciplines and their pedagogy, incorporating research, scholarship and the evaluation of professional practice
+    * Core Knowledge
+        * K1
+            * The subject material
+        * K2
+            * Appropriate methods for teaching, learning and assessing in the subject area and at the level of the   academic programme
+        * K3
+            * How students learn, both generally and within their subject/disciplinary area(s)
+        * K4
+            * The use and value of appropriate learning technologies
+        * K5
+            * Methods for evaluating the effectiveness of teaching
+        * K6
+            * The implications of quality assurance and quality enhancement for academic and professional practice with a particular focus on teaching
+    * Professional Values
+        * V1
+            * Respect individual learners and diverse learning communities 
+        * V2
+            * Promote participation in higher education and equality of opportunity for learners
+        * V3
+            * Use evidence-informed approaches and the outcomes from research, scholarship and continuing professional development 
+        * V4
+            * Acknowledge the wider context in which higher education operates  recognising the implications for professional practice
+* Level Descriptors
+    * D1 - Associate Fellow
+        1. Successful engagement with at least two of the five Areas of Activity
+        2. Successful engagement in appropriate teaching and practices related to these Areas of Activity
+        3. Appropriate Core Knowledge and understanding of at least K1 and K2
+        4. A commitment to appropriateProfessional Values in facilitating others’ learning
+        5. Relevant professional practices, subject and pedagogic research and/or scholarship within the above activities
+        6. Successful engagement, where appropriate, in professional development activity related to teaching, learning and assessment responsibilities
+    * D2 - Fellow
+    * D3 - Senior Fellow
+    * D4 - Principle Fellow
+
+
+
+Session 3
+---------
+
+
+Plan microteach - Blackboard
+
+Pre-reading
+
+[A handbook of reflective and experiential learning: theory and practice](https://www.vlebooks.com/Vleweb/Product/Index/60234) Moon, Jennifer A. 2004
+
+### Reflection, reflection, reflection (Dye)
+
+[Developing reflective practice: a guide for beginning teachers](http://www.vlebooks.com/Vleweb/Product/Index/155556) McGregor, Debra 2011
+
+Chapter 13 by Vanessa Dye 'Reflection, reflection, reflection, I'm thinking all the time, why do I need a theory or model of reflection?', pp. 217-234 in  Developing Reflective Practice,  (2011), ed. Deborah McGregor & Lesley Cartwright. 
+
+* "So how is 'reflection' different from the thinking I do anyway?"
+* When we look in a mirror, we may be prompted to take some action to improve what we see, especially first thing in the morning.
+* The process of becoming a reflective practitioner cannot be prescribed (Larrivee 2000)
+* "reflecting, reflecting, reflecting I think all the time, don't I? What is it with this reflection thing that makes it so important?" (Ottensen 2007)
+* We do not learn from experience. We learn from reflecting on experience. (Dewey 1933)
+* Reflection 
+    * has _direction_
+    * Reflection combines practice and theory
+        * A reflective practitioner will develop your own theories and models of teaching
+* Journal
+    * Keeping a journal helps to review experiences in a more formal way than just thinking about something. Writing about an experience may promote you to think more carefully, as explaining it and committing it to paper for someone else to understand means you have to revisit key events and think more deeply about them.
+* SOS Model - Self, Others, Situation
+* separate personal self from your professional self
+* writing free from the police officer of your mind - need to be aware of the need for professional language. Your diary entries should be written for someone who can give you constructive and developmental support in building your skills
+    * "Reflective practice seems to perpetuate the current policy climate in education, which is dominated by systems of surveillance. Though the process I have opened up my professions and to some extent personal identity to the scrutiny of not only peers but also tutors. In my experience this reduces the liberating element of reflection and replaces it with performance anxiety."
+* (Tripp 1993) Critical Incidents in Teaching: Developing Professional Judgement
+    * Something that made you stop and think
+    * Relevant
+        * Not necessarily serious or dangerous
+        * Possibly something that happens _frequently_
+    * e.g.
+        * Two students repeatedly chatting/laughing in a lecture
+        * Majority of students hadn't prepared for a session
+        * Student explains to you why they haven't been able to engage with a learning resource you'd provided
+        * You see a recording of yourself delivering a presentation and realise they you talk really quickly when you're nervous
+* gain insight into bigger picture. This is when reflection overlaps with critical thinking (mezirow 1998, McGuinness 2005; McGregor 2007)
+
+
+#### Models 
+* (Bond 1985) Model - 3 pieces of paper - Experience, Reflection, Learning
+* (Kolb 1984) Model [Experiential learning: experience as the source of learning and development](http://www.vlebooks.com/Vleweb/Product/Index/836843) Kolb, David A. 2014
+    * ```mermaid
+        flowchart TD
+            ce[Concrete Experience]
+            ro[Reflective Observation]
+            ac[Abstract Conceptualization]
+            ae[Active Experimentation]
+            ce --> ro --> ac --> ae --> ce
+      ```
+    * Concrete Experience == What happened?
+    * Abstract Conceptualisation == Personal meaning of what happened?
+    * Active Experimentation == Action points
+* (Borton 1970) 
+    * ```mermaid
+        flowchart LR
+        what[What]
+        soWhat[So What]
+        nowWhat[Now What]
+        what --> soWhat --> nowWhat --> what
+      ```
+* (Schon 1983) - [The reflective Practitioner: how professionals think in action](https://www.vlebooks.com/Vleweb/Product/Index/2013395) Schoen, Donald A. 2017
+    * (Practical live events like teaching, medical incident, police)
+    * Reflection _in_ action (at the time the event is happening)
+        * The experience itself
+        * Deciding how to act at the time
+    * Reflection _on_ action (after the event)
+        * Thinking how to do things differently
+        * New information gained (theory perspective? practical perspective?)
+* (Gibbs 1988) reflective cycle - "Learning by Doing: a guide to teaching and learning methods"
+    * Considering the emotional response
+    * ```mermaid
+        flowchart TD
+            description(Description: What happened?)
+            feelings(Feelings: What were you thinking and feeling?)
+            evaluation(Evaluation: What was good about the situation?)
+            analysis(Analysis: What sense can you make of the situation?)
+            conclusion(Conclusion: What else could you have done?)
+            action_plan(Action Plan: If the situation arose again what would you do?)
+            description --> feelings --> evaluation --> analysis --> conclusion --> action_plan --> description
+      ```
+* Brookfiled 1995 - Four lenses model - [Becoming a Critically Reflective Teacher](http://www.vlebooks.com/Vleweb/Product/Index/908576) Brookfield 2017
+    * Self (Our autobiographic as learners)
+    * Students (our students eye's)
+    * Peers (Our colleagues experiences)
+    * Scholarship (Theoretical literature)
+* Other models
+    * Key points of reflection and action (Petty 2009)
+    * subheadings to unpack the reflective process (Arygris 1982; Gibbs 1998, Jasper 2003)
+    * Metaphores to explore experiences (Alsup 2006)
+
+[Reflective practice for teaching in lifelong learning](https://www.vlebooks.com/Vleweb/Product/Index/155586) Rushton 2012
+
+#### Summary
+
+Powerful reflection contains
+* What (concise description)
+* Why the incident mattered (So What)
+* Other viewpoints (interpritation, feedback)
+* Other approaches (theory, colleagues)
+* Bias
+* Awareness of reflective process (limitations)
+* Actions / Future Changes
+* Summary
+
+
+### The Park (Example reflections)
+
+#### Example 1
+Not really a reflection. More of an account of the events. 
+Mentioned 'upset' but did not dissect why.
+Not focus on topic. Multiple thoughts ideas and memories that are irrelevant to the incident.
+
+#### Example 2
+Focused on the event with a description of the setting (how/why she was their).
+Some identification of why the others had not acted.
+Gave own personal reasons for not acting.
+Manifestations of guilt but no direction of action.
+
+#### Example 3
+Sharp/breif desciption of what happened.
+Much more focus on own feelings + asking why actions had/had-not been taken.
+What could have been done differnety
+Questions personal identity 'I do not usually do wrong'
+Further areas of life - linking to other related past experiences
+
+#### Example 4
+Breakdown of own throught process's
+Own rational. why there was doubt, dressed? play acting?
+Reconsile 'good person' with actions - am not always a good person
+Consider possible bias's
+Admit attitude nearly resulted in death

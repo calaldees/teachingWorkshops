@@ -81,8 +81,8 @@ Blended Learning
 
 
 * DfE [Keeping children safe in education](https://www.gov.uk/government/publications/keeping-children-safe-in-education--2)
-    * Training is your placement schools responsibility (as each instutution will operate differently)
-    * This course provides suplemental information
+    * Training is your placement schools responsibility (as each institution will operate differently)
+    * This course provides supplemental information
 
 
 
@@ -164,15 +164,15 @@ http
 smtp
 ftp
 
-* [Linux Kernel Map](https://makelinux.github.io/kernel/map/)
+
 * [Roche Biochemical Pathways](http://biochemical-pathways.com/#/map/1)
-    * [](https://www.roche.com/sustainability/philanthropy/science_education/pathways.htm)
-Cognitive Bias poster
+    * [Mapping the paths of life](https://www.roche.com/sustainability/philanthropy/science_education/pathways.htm) - Biochemical Pathways provide an overview of the chemical reactions of cells in various species and organs
+
 
 
 [graphical graph plotting in terminal](https://github.com/Evizero/UnicodePlots.jl)
 
-[font based on my handwriting](https://sachachua.com/blog/2020/06/pythonfontforgeorg-i-made-a-font-based-on-my-handwriting/)
+
 
 Reflection - describe - brorden - alnalyse
 
@@ -199,36 +199,30 @@ fandom - make memes, videos, mods, skins
 
 https://treenotation.org/designer/
 
-No PyGame - Interesting rational
-https://opensource.com/article/18/4/easy-2d-game-creation-python-and-arcade
+
 
 
 
 [Released jailed hacker comments about how society moved in 10 years](https://forklog.media/after-10-years-in-tech-isolation-im-now-outsider-to-things-i-once-had-mastered/)
 
 
-[Metacognition](https://en.wikipedia.org/wiki/Metacognition) thinking about thinking
-[Getting started with Metacognition](https://cambridge-community.org.uk/professional-development/gswmeta/index.html)
 
 
-[Tacit Knowledge](https://en.wikipedia.org/wiki/Tacit_knowledge)
+* [Tacit Knowledge](https://en.wikipedia.org/wiki/Tacit_knowledge)
+    * Tacit knowledge example - riding bike
+    * hunch - feels right, creative problem solving
+    * We don't get better by 10,000 hours - we get better by osmosis, feedback, mentoring
+    * [Why Tacit Knowledge is More Important Than Deliberate Practice](https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/)
+* [Knowledge Illusion: People think they know more than they do - draw a bike](http://www.gianlucagimini.it/prototypes/velocipedia.html)
 
-[Why Tacit Knowledge is More Important Than Deliberate Practice](https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/)
-* Tacit knowlge example - riding bike
-* hunch - feels right, creative problem solving
-* We don't get better by 10,000 hours - we get better by osmosis, feedback, mentoring
 
-[Knowlge Illusion: People think they know more than they do - draw a bike](http://www.gianlucagimini.it/prototypes/velocipedia.html)
 
 
 [Hidden Curriculum](https://en.wikipedia.org/wiki/Hidden_curriculum)
 
 
 
-* [TempleOS](https://en.wikipedia.org/wiki/TempleOS)
-    * [TempleOS | Down the Rabbit Hole](https://www.youtube.com/watch?v=UCgoxQCf5Jg)
-    * One man created a 64bit OS with his own compiler, drivers, everything! An incredible feat!
-    * Mental Health - Schizophrenia
+
 
 
 [Building a Neurodiverse High-tech Workforce](https://www.researchgate.net/profile/Eleanor_Loiacono/publication/329458841_Building_a_Neurodiverse_High-tech_Workforce/links/5c671ab092851c1c9de45108/Building-a-Neurodiverse-High-tech-Workforce.pdf)
@@ -245,18 +239,6 @@ Lets Be Hope Carriers
 *Cannot take the credit, saw it, loved it, sharing it!*
 
 
-Accessibility
--------------
-
-Semanic meaning
-Users about to select their own font/colors
-Printable version
-Anovid animations
-Captions on videos
-http://plainenglish.co.uk/
-
-
-File -> Info -> Check for Issues -> Check Accessibility
 
 ---
 
@@ -272,40 +254,15 @@ File -> Info -> Check for Issues -> Check Accessibility
 
 
 * [International Academy of Education - Educational practice series](https://www.iaoed.org/index.php/ed-practices-series)
+    * [Emotion](https://www.iaoed.org/downloads/edu-practices_24_eng.pdf)
+    * [Nurturing creativity](https://www.iaoed.org/downloads/edu-practices_25_eng.pdf)
+    * [Understanding and facilitating the development of intellect](https://www.iaoed.org/downloads/edu-practices_26_eng.pdf)
+    * [Effective educational practices](https://www.iaoed.org/downloads/prac03e.pdf)
+    * [How children learn](https://www.iaoed.org/downloads/prac07e.pdf) Stella Vosniadou
+    * [Preventing behaviour problems: what works](https://www.iaoed.org/downloads/prac08e.pdf)
+    * [Motivation](https://www.iaoed.org/downloads/prac10e.pdf)
+    * [Academic and social emotional learning](https://www.iaoed.org/downloads/prac11e.pdf)
 
-https://www.iaoed.org/downloads/edu-practices_24_eng.pdf emotion
-https://www.iaoed.org/downloads/edu-practices_25_eng.pdf nurtuting creativity
-
-https://www.iaoed.org/downloads/edu-practices_26_eng.pdf
-Understanding
-and facilitating
-the development
-of intellect
-
-https://www.iaoed.org/downloads/prac03e.pdf
-Effective
-educational
-practices
-
-https://www.iaoed.org/downloads/prac07e.pdf
-How
-children
-learn
- Stella Vosniadou
-
- https://www.iaoed.org/downloads/prac08e.pdf Preventing
-behaviour
-problems:
-what works
-
-https://www.iaoed.org/downloads/prac10e.pdf motivation
-
-
-https://www.iaoed.org/downloads/prac11e.pdf
-Academic
-and
-socialemotional
-learning
 
 
 ---

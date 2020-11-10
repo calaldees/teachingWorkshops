@@ -1,6 +1,17 @@
 Accessibility
 =============
 
+Semanic meaning
+Users about to select their own font/colors
+Printable version
+Avoid animations
+Captions on videos
+http://plainenglish.co.uk/
+
+
+File -> Info -> Check for Issues -> Check Accessibility
+
+
 
 See how to write in [plain english](./writing.md)
 
@@ -22,6 +33,6 @@ Appliyes to content created by external suppliers (your responsibilty)
 Fonts
 -----
 
-https://github.com/thomasjockin/lexend
-https://www.lexend.com/
+* [Lexend](https://www.lexend.com/)
+    * [github](https://github.com/ThomasJockin/lexend)
 

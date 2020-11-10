@@ -178,24 +178,96 @@ Checklist for autumn term visit in Computing 2020
 Note that much of this should arise naturally from the initial conversation with the mentor.
 However, it should also cover the agenda points listed below.
 
+Maynard and Furlong Level
+Know what we are covering in uni weeks
+Is mentoring collaborative (2way)
+Is mentor ok - is student ok
+
 ## In conversation with the curriculum mentor
-* Explain the rationale for the visit being mentor facing (training visit and QA)
+* Hi - Who are you background? Who am I?
 * Previous experience of mentoring and the extent to which the mentor has been trained
+* Explain the rationale for the visit being mentor facing (training visit and QA)
+   * Enhance the work you (as mentor) are already doing
+   * What lies at the heart of mentoring? (coach - two way - they come to right answer themselves)
 * The timetable that they have devised for the student (check it provides coverage of both KS3 and KS4 and ascertain if access to KS5 is at all possible).
-* Explore the mentor’s knowledge of the Curriculum 2020; how are they implementing it? Are they aware of the 10 key questions?
+   * When is the weekly mentor meeting?
+   * are they observing other subjects? (ongoing?)
+* Explore the mentor’s knowledge of the Curriculum 2020;
+   * What do mentor meetings look like? targets together? specific nature of targets (e.g. calm students down)?
+   * Weekly sheet?
+   * How are they implementing it?
+   * Are they aware of the 10 key questions?
 * The timing & regularity of the mentor meeting and the approaches taken/meeting content
-* The use being made of the weekly record of mentor sheet and how the weekly targets are being arrived at. Possible QA of examples if available.
-* Mentor engagement with the Subject Knowledge Tracker (using it to help set weekly target linked to Subject Knowledge)
-* QA of any lesson observations forms that have been completed to date. Explore "lesson packs"
+* The use being made of the weekly record of mentor sheet and how the weekly targets are being arrived at. 
+   * Possible QA of examples if available.
+* Mentor engagement with the Subject Knowledge Tracker 
+   * (using it to help set weekly target linked to Subject Knowledge Tracker)
 * Engagement with workload reform; the fact that student teachers are no longer expected to develop their own lesson plans from scratch; are resources/lesson plans being shared so the student can adapt them for their own teaching?
+* QA of any lesson observations forms that have been completed to date. Explore "lesson packs" (20 for year, scaled graduated)
+   * Plan (student)
+   * Observation (mentor)
+   * Evaluation (student?)
 * Explain that the grading system is changing; no grading against the Standards; just the need to meet them holistically by the end of the programme; way stage checks will be in place
-* Engagement with the mentor element of the PEF – have they undertaken any self-assessment?
+* Where is the student on Maynard and Furlong?
+   * What are the students strengths? Next steps for development?
+   * On track? or Not on track? (support for student)
 * Any action points that arise from the above
+   * Any questions?
+   * How can I help?
+
+* Mentor Report? (Investigate) Before christmass
+* ?
+   * (Engagement with the mentor element of the PEF – have they undertaken any self-assessment?)
+
+* 2nd meeting? Date? March? April?
+
+
+## Mentor meeting observation
+* differentiation?
+   * differnet responses? peer?
+* assessment?
+* Timing? starter? pleaneray? (student timekeeper?)
+
+differentiation - who the stuents you consider and why?
+targets?
+Who can you push in this group? next step? - What are you going to do for these more able pupils?
+'single them out' or 'publicly' could be problematic - how subtely do this?
+Who is struggling? next step? what might a scaffold like for that task? highlight relevant words rather than whole text
+Developing stratergies together?
+Extra challange stratergies?
+motivation? confidence? ability? (if they are not confident, does it mean they are not able?)
+
+Zoom out - now what does that mean/imply for planning overall?
+Target for the student? this week? Target for the student last week?
+
+Feedback to mentor and student - congratulate them
+
+
+Starter:
+spot the errors in the code?
+
+
+Mentor weekly record sheet (FIND IT)
 
 ## In conversation with the student
+* Was that a normal mentor meeting?
+
 * How confident are they that progress is being made?
 * The extent to which they feel they have been able to implement pedagogical approaches from SP sessions and what they feel has been their impact on pupils’ progress?
-* Number of observation that they have undertaken of other colleagues both in the department and across other subjects. How many lesson packs to date?
+* Number of observation 
+   * that they have undertaken of other colleagues both in the department 
+   * and across other subjects. (3 others before christmas's?)
+   * How many lesson packs to date?
 * The use that has been made of the focused lesson observation forms
 * Progress with targets against the Subject Knowledge Tracker
-* Involvement in the wider life of the school
+   * September you didnt know - what do you think now?
+   * How would you teach 'it'?
+* Involvement in the wider life of the school (standard 8)
+   * Interview questions - "What else are you going to bring to our school"
+   * Duties? Form Group? Clubs? Displays?
+* What can I do for you?
+
+
+Not perfect - GOOD ENOUGH!
+
+Send followup email

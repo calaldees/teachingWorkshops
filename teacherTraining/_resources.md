@@ -33,7 +33,15 @@ Teaching Resources
 
 * [CyberGames](https://cybergamesuk.com/) Cyber Security Challenge NCA (National Crime Agency) 
     * [Network Topologies](https://cybergamesuk.com/topologies)
-
+* [The Coding Train](https://thecodingtrain.com/)
+    * Coding Challenges, AI, Algorithmic Art, ServerSide
+    * [Youtube channel](https://www.youtube.com/c/TheCodingTrain/about) YouTube video channel
+        * [Searching in PI](https://www.youtube.com/watch?v=MEdpRYyjz_0) - JS client / server project
+* [The Odin Project](https://www.theodinproject.com/)
+    * Your Career in Web Development Starts Here
+    * Our full stack curriculum is free and supported by a passionate open source community
+    * This is the website we wish we had when we were learning on our own
+    * We scour the internet looking for only the best resources to supplement your learning and present them in a logical order
 
 https://brilliant.org/courses/computer-science-essentials/
 https://brilliant.org/courses/programming-python/#chapter-introduction-28

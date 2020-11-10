@@ -321,6 +321,7 @@ Lesson Topic Ideas
     * [Sonic Pi](https://sonic-pi.net/)
         * Example lessons and teacher resources
     * [Synthesizer Basics: Amplitude, Oscillators, Timbre](https://www.youtube.com/watch?v=c3udLCvoCC0)
+    * [Digital sound processing tutorial for the braindead!](http://yehar.com/blog/?p=121)
     * [4k Synth Core](https://in4k.github.io/wiki/aulds-4k-synth#coding-your-own-sound-components)
     * [playing-with-midi-in-javascript](https://medium.com/swinginc/playing-with-midi-in-javascript-b6999f2913c3)
         * Complete MIDI synth in a browser from scratch
@@ -419,6 +420,9 @@ Not directly related to an established school subject.
         * Solving Problems Traditional Data Science Can’t with Agent based simulations
     * Climate
         * [climateinteractive](https://en-roads.climateinteractive.org/scenario.html)
+        * [Joseph Cook](https://news.microsoft.com/en-gb/2018/12/11/uk-scientist-handed-microsoft-grant-to-launch-unique-study-into-how-climate-change-is-affecting-the-arctic/) (from Margate) Predictive model on how glaciers melt from drones (not satellites)
+    * Fluid
+        * [WebGL-Fluid-Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
     * Traffic
         * [A/B Street](https://github.com/dabreegster/abstreet)
         * [traffic-simulation.de](http://www.traffic-simulation.de)

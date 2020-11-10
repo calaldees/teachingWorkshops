@@ -299,14 +299,9 @@ Summary of interesting bits
 * Big data
     * [AWS what-is-a-data-lake](https://aws.amazon.com/big-data/datalakes-and-analytics/what-is-a-data-lake/)
 * Functional Programming
-    * [haskell.org](https://www.haskell.org/)
-        * [repl.it/haskell](https://repl.it/site/blog/haskell) Live browser haskell
-        * [realworldhaskell](http://book.realworldhaskell.org/)
-    * [Advantages of Functional Programming](https://alvinalexander.com/scala/fp-book/benefits-of-functional-programming)
-    * [Conversations with a six-year-old on functional programming](https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/)
+    * (moved links to [[Functional Programming]] ./computing/programming/?)
 * OO
-    * [Why `extends` is evil](https://www.javaworld.com/article/2073649/core-java/why-extends-is-evil.html)
-        * [javlib/Utils/Types/Integer](https://github.com/calaldees/javalib/tree/master/lib/Utils/Utils/Types/Integer)
+    * (moved links to [[Object Orientation]] ./computing/programming/?)
 * Comparing Algorithm time complexity
     * RTS - line of sight shoot - can shoot
 * [P vs NP](https://www.youtube.com/watch?v=YX40hbAHx3s)
