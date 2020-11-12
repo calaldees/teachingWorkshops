@@ -1,8 +1,8 @@
 using System;
 public class Task {
     public static void Main(string[] args) {new Task();}
-
     Task() {
+
         int totalHours;
         int payRate = 0;
         int deductions;
@@ -259,4 +259,5 @@ public class Task {
             return input;
         }
     }
+
 }
