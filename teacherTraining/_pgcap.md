@@ -494,19 +494,19 @@ Chapter 13 by Vanessa Dye 'Reflection, reflection, reflection, I'm thinking all 
 * (Bond 1985) Model - 3 pieces of paper - Experience, Reflection, Learning
 * (Kolb 1984) Model [Experiential learning: experience as the source of learning and development](http://www.vlebooks.com/Vleweb/Product/Index/836843) Kolb, David A. 2014
     * ```mermaid
-        flowchart TD
-            ce[Concrete Experience]
-            ro[Reflective Observation]
-            ac[Abstract Conceptualization]
-            ae[Active Experimentation]
-            ce --> ro --> ac --> ae --> ce
+      graph TD
+        ce[Concrete Experience]
+        ro[Reflective Observation]
+        ac[Abstract Conceptualization]
+        ae[Active Experimentation]
+        ce --> ro --> ac --> ae --> ce
       ```
     * Concrete Experience == What happened?
     * Abstract Conceptualisation == Personal meaning of what happened?
     * Active Experimentation == Action points
 * (Borton 1970) 
     * ```mermaid
-        flowchart LR
+      graph LR
         what[What]
         soWhat[So What]
         nowWhat[Now What]
@@ -523,7 +523,7 @@ Chapter 13 by Vanessa Dye 'Reflection, reflection, reflection, I'm thinking all 
 * (Gibbs 1988) reflective cycle - "Learning by Doing: a guide to teaching and learning methods"
     * Considering the emotional response
     * ```mermaid
-        flowchart TD
+        graph TD
             description(Description: What happened?)
             feelings(Feelings: What were you thinking and feeling?)
             evaluation(Evaluation: What was good about the situation?)
