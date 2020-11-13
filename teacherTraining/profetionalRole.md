@@ -69,7 +69,7 @@ If they talk to you, before they divulge any personal information you must be ve
 You are never to be confided in and keep secrets. You must be transparent and unified with senior staff.
 This is to protect yourself.
 
-### Sociaial issues and role models
+### Social issues and role models
 
 * [Keep It Real Online](https://www.keepitrealonline.govt.nz/)
     * [Keep It Real Online - Pornography](https://www.bestadsontv.com/ad/116227/Keep-It-Real-Onilne-Keep-It-Real-Online-Pornography)
@@ -167,3 +167,8 @@ If they don't get a career and contribute back to society they are going to have
 
 
 See [Conversations with Young People] for more - Stop giving them advice about a future you know nothing about
+
+* [Job Interest Not a Big Predictor of Job Satisfaction ](https://uh.edu/news-events/stories/2020/november-2020/11112020-kevin-hoff-interest-job-satisfaction.php)
+    * > To be satisfied with a job, you don’t have to worry too much about finding a perfect fit for your interests because we know other things matter, too. As long as it’s something you don’t hate doing, you may find yourself very satisfied if you have a good supervisor, like your coworkers, and are treated fairly by your organization.
+    * > Being interested in your work seems more important for job performance and the downstream consequences of performing well, like raises or promotions
+    * > In popular career guidance literature, it is widely assumed that interest fit is important for job satisfaction. Our results show that people who are more interested in their jobs tend to be slightly more satisfied, but interest assessments are more useful for guiding people towards jobs in which they will perform better and make more money

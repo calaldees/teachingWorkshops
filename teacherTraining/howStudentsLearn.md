@@ -368,6 +368,25 @@ Feedback:
 
 ---
 
+
+Growth Mindset
+--------------
+
+* [A national experiment reveals where a growth mindset improves achievement](https://www.nature.com/articles/s41586-019-1466-y)
+    * [Harry FletcherWood](https://twitter.com/HFletcherWood/status/1326212067917959168)
+        * I have been very sceptical about growth mindset over the last few years, but a new study has substantially changed my mind
+        * In research-design terms, this was bulletproof: pre-registered, randomly-assigned, teachers didn't know which students got the growth mindset intervention and analysis team didn't know the hypothesis or which group was which.
+        * Students did 2 x 25-minute online activities about growth mindset: just telling them that we can get smarter (not telling them to practice).  These were conveyed using various powerful techniques (like stories from role models).
+        * The impact: a) it changed students’ opinions about whether they could learn, b) lower-attaining students gained higher grades, c) students were more likely to choose more challenging maths courses the following year.
+        * The intervention had less effect if the school was already effective (most students did well there), and if peer norms about achievement were negative.
+        * I can't fault the study. Worth noting that this was designed by a stellar team - but it's scalable and powerful: 0.1 SD increase in GPA for an hour's intervention. So I'm having to update: growth mindset is more promising than I'd thought
+* Growth Mindset does not work
+    * [The one variable that makes growth mindset interventions work](https://russellwarne.com/2020/01/03/the-one-variable-that-makes-growth-mindset-interventions-work/) Russell T. Warne 2020
+        * > Then I discovered the one characteristic that the studies that support mindset theory share and that all the studies that contradict the theory lack: Carol Dweck. Dweck is a coauthor on all three studies that show that teaching a growth mindset can improve students’ school performance. She is also not a coauthor on all of the studies that cast serious doubt on mindset theory.
+    * [Debate Arises over Teaching “Growth Mindsets” to Motivate Students](https://www.scientificamerican.com/article/debate-arises-over-teaching-growth-mindsets-to-motivate-students/)
+
+* [In the Know: Debunking 35 Myths about Human Intelligence](https://www.amazon.co.uk/Know-Debunking-Myths-about-Intelligence/dp/1108717810/) Russell T Warne 2020
+
 Theory of Disuse
 ----------------
 

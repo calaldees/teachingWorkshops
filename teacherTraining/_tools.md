@@ -16,19 +16,7 @@ Teaching Tools
             * [Falling Ball Game](https://repl.it/talk/learn/Make-your-first-Pygame/11773)
             * [Text 2D Map](https://repl.it/talk/learn/2D-console-games-tutorial/33813)
 
-
-* [microbit.org](https://microbit.org/)
-    * [MakeCode](https://makecode.microbit.org/) Online Editor + Courses + Lessons
-    * [Digital Technologies Hub](https://www.digitaltechnologieshub.edu.au/teachers/lesson-ideas#/) Australia - Lesson Plans
-        * https://www.digitaltechnologieshub.edu.au/teachers/lesson-ideas/morse-code-network
-    * [BBC microbit Lessons for Micro Python](http://physicalcomputing.co.uk/2017/01/11/bbc-microbit-lessons/)
-    * [BBC micro:bit MicroPython documentation](https://microbit-micropython.readthedocs.io/en/latest/index.html)
-    * [nominetresearch Lessons](https://microbit.nominetresearch.uk/)
-    * [mytechnotalent/Python-For-Kids](https://github.com/mytechnotalent/Python-For-Kids) A comprehensive Python Development tutorial FOR KIDS utilizing a micro:bit Development Board going step-by-step into the world of Python for Microcontrollers.
-* [microbit2](https://tech.microbit.org/latest-revision/announcement/)
-    * gesture reconition
-    * voice recognition?
-
+* [microbit](../microbit/)
 
 
 * [Classroom Response Systems](https://www.canterbury.ac.uk/learning-and-teaching-enhancement/learning-platform-suite/classroom-response-systems.aspx)
