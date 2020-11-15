@@ -1,5 +1,5 @@
-Practical Programing
-====================
+Practical Programming
+=====================
 
 _Computer Science_ vs/different_from _Software Engineering_
 _Training in gym_ vs _Running the marathon_
@@ -181,11 +181,17 @@ PHP message board (did not have summary - just built it and installed php)
 (need to tweak 2 lines to remove errors on odt)
 
 
+Session 18
+----------
+Summerise PHP
+Web tech talk
+
+
 Upcomming
 ---------
 
 If -> Data
 Dry run more algortihums
 Calculator
-Message board
+Chat system
 

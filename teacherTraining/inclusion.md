@@ -375,6 +375,14 @@ Unsorted
 Daughter autism (18 when finally diagnosed) (under diagnosed in girls, they mask the traditional male symptoms) had never been invited to a birthday party
 
 
+ama
+---
+
+Academically More able
+
+[13-Year-Old, Nicholas Sharkey, Creates a RISC-V Core](https://riscv.org/blog/2020/11/13-year-old-nicholas-sharkey-creates-a-risc-v-core/)
+
+
 Webinar notes - supporting learners with SEND
 -------------
 
@@ -451,6 +459,10 @@ David Andrews
 [EEF: Using Digital Technology to Improve Learning](https://educationendowmentfoundation.org.uk/tools/guidance-reports/using-digital-technology-to-improve-learning/)
 
 
+
+* [How to Think Inclusively About Computer Science Initiatives](https://www.thinkinclusive.us/computer-science-initiatives/)
+    * > differentiation is not about long nights of planning and grading, but about being flexible and making decisions in the moment based on what your students need
+    * > it (computing) should not be mandatory
 
 
 Appendix

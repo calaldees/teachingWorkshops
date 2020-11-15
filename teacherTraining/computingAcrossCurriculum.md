@@ -322,6 +322,7 @@ Lesson Topic Ideas
         * Example lessons and teacher resources
     * [Synthesizer Basics: Amplitude, Oscillators, Timbre](https://www.youtube.com/watch?v=c3udLCvoCC0)
     * [Digital sound processing tutorial for the braindead!](http://yehar.com/blog/?p=121)
+    * [An Interactive Introduction to Fourier Transforms](http://www.jezzamon.com/fourier/index.html)
     * [4k Synth Core](https://in4k.github.io/wiki/aulds-4k-synth#coding-your-own-sound-components)
     * [playing-with-midi-in-javascript](https://medium.com/swinginc/playing-with-midi-in-javascript-b6999f2913c3)
         * Complete MIDI synth in a browser from scratch
