@@ -378,6 +378,8 @@ Using real data is inspiring
     * [National Office of Statistics](https://www.ons.gov.uk/)
     * [UK Data Service](https://www.ukdataservice.ac.uk/) international social science datasets
     * [University of Bath Library: Finding Data](https://library.bath.ac.uk/research-data/finding-data/home) links
+    * [WorldBank Data](https://data.worldbank.org/)
+        * [WDI - World Development Data](https://datatopics.worldbank.org/world-development-indicators/)
     * Met Office (UK)
         * [Digital Library and Archive](https://digital.nmla.metoffice.gov.uk/)
         * [Historic Weather Data](https://www.metoffice.gov.uk/climate/uk/data)
@@ -820,5 +822,5 @@ tim hunkin - southwold under the peir - novalty automation
 
 [European Space Agency Images](http://www.esa.int/ESA_Multimedia/Images)
 
-
+[The True Size](https://thetruesize.com/) - Country size globe projection
 

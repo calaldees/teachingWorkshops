@@ -399,6 +399,9 @@ Lord Baker - National curriculum
 2020 - 93% on to fe - 7% leave
 Why bother showing 93% of certificates - abolish GCSE's - progrss8 and EBAC and harms broard and balanced curriculum - cultural subject dropped
 Other countries don't have serious exams 16
+Why has it taken so long to identify GCSE are not working?
+Technical colleges 40% troubled pupils are doing well
+The fire in the flit is not visible unless struck
 
 Professor sarah jayne blackmore
 Professor of Psycology and Congative neuroscience
@@ -410,6 +413,9 @@ Creativity is highest in adolescence
 Adolescent mental health prevalence increased significantly in last decade
 Progressive linear assessment may be a cause
 (really? but we have always had assessment?)
+Neuroplasticity is heightened in adolescence
+Vulnerability (mental health) and Opportunity (creativity)
+
 
 ?? Rachel
 Exam system is disadvantaging pupils
@@ -441,7 +447,7 @@ Peter Hyman - co director of big education
 School 21 (stratford - east london)
 2:1 from a rustle group is no longer appropriate for the skills they are looking for
 Not suiting employers, not suiting individuals
-Why is it s competition? (1/3 fail?)
+Why is it a competition? (1/3 fail?)
 Assessment a purpose of education need to be aligned
 Schools need to be recognised for what they offer beyond exam results
 
@@ -450,4 +456,12 @@ Geoff Barton
 I am more than just a grade
 Portfolio what you can do
 
+Assessment of groups (not just individual)
+Most employers are interested in ability to work in groups
+pizza 2015 Reliably assess collaborative problem solving
+* [PISA 2015 COLLABORATIVE PROBLEM-SOLVING FRAMEWORK](https://www.oecd.org/pisa/pisaproducts/Draft%20PISA%202015%20Collaborative%20Problem%20Solving%20Framework%20.pdf)
+* [Collaborative  Problem Solving:Considerations for the National Assessment of Educational Progress](https://nces.ed.gov/nationsreportcard/pdf/researchcenter/collaborative_problem_solving.pdf)
 
+* [Webinar: How to Support All Learners Part 2: More Able](https://my.chartered.college/2020/11/webinar-how-to-support-all-learners-part-2-more-able/) Dr. Keith Watson
+    * supports Early Career Teachers in
+    * National Association for Able Children in Education (NACE)

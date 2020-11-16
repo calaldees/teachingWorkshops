@@ -180,37 +180,52 @@ However, it should also cover the agenda points listed below.
 
 Maynard and Furlong Level
 Know what we are covering in uni weeks
-Is mentoring collaborative (2way)
+Is mentoring collaborative (2way) - student encouraged to develop their own solutions
 Is mentor ok - is student ok
+[mento website](http://ccccumentors.org.uk/secondary/index.php)
 
-## In conversation with the curriculum mentor
-* Hi - Who are you background? Who am I?
+### In conversation with the curriculum mentor
+* Hi
+* Who 
+   * am I? background
+   * are you? background
+* 45min mentor - 45min mentor+student - 30min student
 * Previous experience of mentoring and the extent to which the mentor has been trained
 * Explain the rationale for the visit being mentor facing (training visit and QA)
    * Enhance the work you (as mentor) are already doing
    * What lies at the heart of mentoring? (coach - two way - they come to right answer themselves)
 * The timetable that they have devised for the student (check it provides coverage of both KS3 and KS4 and ascertain if access to KS5 is at all possible).
    * When is the weekly mentor meeting?
-   * are they observing other subjects? (ongoing?)
-* Explore the mentor’s knowledge of the Curriculum 2020;
-   * What do mentor meetings look like? targets together? specific nature of targets (e.g. calm students down)?
-   * Weekly sheet?
-   * How are they implementing it?
+   * Is student observing other subjects? (ongoing?)
+* Explore the mentor’s knowledge of the [Curriculum 2020](http://ccccumentors.org.uk/files/secondary/curriculum-overview/Curriculum%202020%20introduction%20for%20partners%20-%20print-friendly.pdf);
    * Are they aware of the 10 key questions?
-* The timing & regularity of the mentor meeting and the approaches taken/meeting content
-* The use being made of the weekly record of mentor sheet and how the weekly targets are being arrived at. 
-   * Possible QA of examples if available.
-* Mentor engagement with the Subject Knowledge Tracker 
-   * (using it to help set weekly target linked to Subject Knowledge Tracker)
-* Engagement with workload reform; the fact that student teachers are no longer expected to develop their own lesson plans from scratch; are resources/lesson plans being shared so the student can adapt them for their own teaching?
-* QA of any lesson observations forms that have been completed to date. Explore "lesson packs" (20 for year, scaled graduated)
-   * Plan (student)
-   * Observation (mentor)
-   * Evaluation (student?)
+   * Are they aware of uni each week? [Subject Handbook](https://learn.canterbury.ac.uk/bbcswebdav/pid-2664627-dt-content-rid-3988355_1/xid-3988355_1) [doc](http://ccccumentors.org.uk/files/secondary/Documentation/subject-documentation/computing/Computer%20Science%20Curriculum%20Guidance.docx)
 * Explain that the grading system is changing; no grading against the Standards; just the need to meet them holistically by the end of the programme; way stage checks will be in place
-* Where is the student on Maynard and Furlong?
+* Where is the student on [Furlong and Maynard (1995): Five stages of pre-service teacher learning](http://ccccumentors.org.uk/files/secondary/Documentation/programme-handbooks/school-direct/Subject%20mentor%20and%20tutor%20visits%20and%20support%20F&M%20model%202020-21.pdf)?
    * What are the students strengths? Next steps for development?
    * On track? or Not on track? (support for student)
+* Weekley Meetings - [Partnership Evaluation Framework (PEF)](http://ccccumentors.org.uk/files/secondary/Documentation/molos/mentor-molo-for-the-pef/Mentor%20MoLO%20for%20the%20PEF.docx)
+   * [Weekly sheet](http://ccccumentors.org.uk/files/secondary/Documentation/programme-handbooks/school-direct/Weekly%20Meeting%20Record%20with%20Mentor%20-%20MASTER.docx)?
+   * The timing & regularity of the mentor meeting
+   * the approaches taken/meeting content
+   * agenda is set in advance of the meeting?
+   * clear targets for development
+      * arrived at (together)? 
+      * specific nature of targets (example: settling students quickly at start of lesson)?
+      * Leveraging other expert colleagues?
+   * (QA Example- student)?
+   * Menu of Learning Opportunities MoLo - [Behvaiour](http://ccccumentors.org.uk/files/secondary/Documentation/molos/behaviour-molo-standard-7/Secondary%20Molo%20Standard%207%20%20Behaviour.docx) [SEND](http://ccccumentors.org.uk/files/secondary/Documentation/molos/send-molo-standard-5/Molo%20for%20Standard%205%20-%20SEND.docx) [Standard3](http://ccccumentors.org.uk/files/secondary/Documentation/molos/subject-knowledge-molo-standard-3/Student%20Subject%20Knowledge%20MoLO%20Booklet.pdf)
+* Mentor engagement with the [Subject Knowledge Tracker](http://ccccumentors.org.uk/files/secondary/Documentation/subject-documentation/computing/Computer%20Science%20Subject%20Knowldege%20Audit%202018-19.docx)
+   * (using it to help set weekly target linked to Subject Knowledge Tracker)
+* Engagement with workload reform; the fact that student teachers are no longer expected to develop their own lesson plans from scratch; 
+   * are resources/lesson plans being shared so the student can adapt them for their own teaching?
+* Lesson observations forms (lesson packs)
+   * that have been completed to date
+   * 20 for year, scaled graduated
+   * [Plan](http://ccccumentors.org.uk/files/secondary/Documentation/programme-handbooks/school-direct/Lesson%20Plan%202020-21.docx) (student)
+   * [Observation](http://ccccumentors.org.uk/files/secondary/Documentation/programme-handbooks/school-direct/Lesson%20Observation%20Form%202020-21.docx) (mentor)
+   * [Evaluation](http://ccccumentors.org.uk/files/secondary/Documentation/programme-handbooks/school-direct/Lesson%20Evaluation%202020-21.docx) (student?)
+   * (QA example - student)?
 * Any action points that arise from the above
    * Any questions?
    * How can I help?
@@ -222,19 +237,19 @@ Is mentor ok - is student ok
 * 2nd meeting? Date? March? April?
 
 
-## Mentor meeting observation
+### Mentor meeting - observation
 * differentiation?
-   * differnet responses? peer?
+   * different responses? peer?
 * assessment?
-* Timing? starter? pleaneray? (student timekeeper?)
+* Timing? starter? plenary? (student timekeeper?)
 
-differentiation - who the stuents you consider and why?
+differentiation - who the students you consider and why?
 targets?
 Who can you push in this group? next step? - What are you going to do for these more able pupils?
-'single them out' or 'publicly' could be problematic - how subtely do this?
+'single them out' or 'publicly' could be problematic - how subtly do this?
 Who is struggling? next step? what might a scaffold like for that task? highlight relevant words rather than whole text
-Developing stratergies together?
-Extra challange stratergies?
+Developing strategies together?
+Extra challenge strategies?
 motivation? confidence? ability? (if they are not confident, does it mean they are not able?)
 
 Zoom out - now what does that mean/imply for planning overall?
@@ -247,27 +262,41 @@ Starter:
 spot the errors in the code?
 
 
-Mentor weekly record sheet (FIND IT)
-
-## In conversation with the student
+### In conversation with the student
 * Was that a normal mentor meeting?
 
 * How confident are they that progress is being made?
 * The extent to which they feel they have been able to implement pedagogical approaches from SP sessions and what they feel has been their impact on pupils’ progress?
-* Number of observation 
-   * that they have undertaken of other colleagues both in the department 
-   * and across other subjects. (3 others before christmas's?)
+* Observing other practitioners
+   * [proformas](http://ccccumentors.org.uk/secondary/student-proformas.php)
+   * other colleagues both in the department?
+   * across other subjects. (3 others before christmas's?)
    * How many lesson packs to date?
 * The use that has been made of the focused lesson observation forms
 * Progress with targets against the Subject Knowledge Tracker
-   * September you didnt know - what do you think now?
+   * September you didn't know - what do you think now?
    * How would you teach 'it'?
 * Involvement in the wider life of the school (standard 8)
    * Interview questions - "What else are you going to bring to our school"
    * Duties? Form Group? Clubs? Displays?
 * What can I do for you?
 
+### After
 
-Not perfect - GOOD ENOUGH!
+* Send follow-up email
+* Recording your visit spreadsheet
 
-Send followup email
+
+* Bristol Online Survey (BOS) - Professional Mentor Link to online survey - deadline last week
+   * Assessment before christmass - partenship office
+
+
+Oxford University Bebras Challenge so we aren't actually teaching 'normal' lessons. 
+We will still need to do our weekly target setting though so hopefully this is ok. 
+
+   I am ok with the mentoring process generally but would like to discuss 
+   * how hands on I need to be in terms of supporting Matt with his reflections and evidence. 
+   In particular I would like to discuss more about:
+   - Joint reflections on lessons/activities
+   - Coaching conversations between Mentor and student teacher to draw out understanding and misconceptions
+   - Collaborative planning with focus on differentiation and pupil progression
