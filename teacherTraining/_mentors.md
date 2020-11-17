@@ -193,16 +193,17 @@ Is mentor ok - is student ok
 * Previous experience of mentoring and the extent to which the mentor has been trained
 * Explain the rationale for the visit being mentor facing (training visit and QA)
    * Enhance the work you (as mentor) are already doing
-   * What lies at the heart of mentoring? (coach - two way - they come to right answer themselves)
+   * Understand your mentoring style - (they come to right answer themselves - coach - two way)
+   * Aligned for Ofstead - likely after January
 * The timetable that they have devised for the student (check it provides coverage of both KS3 and KS4 and ascertain if access to KS5 is at all possible).
    * When is the weekly mentor meeting?
    * Is student observing other subjects? (ongoing?)
 * Explore the mentor’s knowledge of the [Curriculum 2020](http://ccccumentors.org.uk/files/secondary/curriculum-overview/Curriculum%202020%20introduction%20for%20partners%20-%20print-friendly.pdf);
    * Are they aware of the 10 key questions?
-   * Are they aware of uni each week? [Subject Handbook](https://learn.canterbury.ac.uk/bbcswebdav/pid-2664627-dt-content-rid-3988355_1/xid-3988355_1) [doc](http://ccccumentors.org.uk/files/secondary/Documentation/subject-documentation/computing/Computer%20Science%20Curriculum%20Guidance.docx)
+   * Are they aware of uni sessions each week? [Subject Handbook](https://learn.canterbury.ac.uk/bbcswebdav/pid-2664627-dt-content-rid-3988355_1/xid-3988355_1) [doc](http://ccccumentors.org.uk/files/secondary/Documentation/subject-documentation/computing/Computer%20Science%20Curriculum%20Guidance.docx)
 * Explain that the grading system is changing; no grading against the Standards; just the need to meet them holistically by the end of the programme; way stage checks will be in place
 * Where is the student on [Furlong and Maynard (1995): Five stages of pre-service teacher learning](http://ccccumentors.org.uk/files/secondary/Documentation/programme-handbooks/school-direct/Subject%20mentor%20and%20tutor%20visits%20and%20support%20F&M%20model%202020-21.pdf)?
-   * What are the students strengths? Next steps for development?
+   * Quickly: Students strengths? Next steps for development?
    * On track? or Not on track? (support for student)
 * Weekley Meetings - [Partnership Evaluation Framework (PEF)](http://ccccumentors.org.uk/files/secondary/Documentation/molos/mentor-molo-for-the-pef/Mentor%20MoLO%20for%20the%20PEF.docx)
    * [Weekly sheet](http://ccccumentors.org.uk/files/secondary/Documentation/programme-handbooks/school-direct/Weekly%20Meeting%20Record%20with%20Mentor%20-%20MASTER.docx)?
@@ -235,6 +236,11 @@ Is mentor ok - is student ok
    * (Engagement with the mentor element of the PEF – have they undertaken any self-assessment?)
 
 * 2nd meeting? Date? March? April?
+
+Changing placement
+6 weeks just after christmass
+Progress report 1 - handover talk - arrange by profetiongl mentor - checking with old mentor
+Second school experince
 
 
 ### Mentor meeting - observation
@@ -289,14 +295,3 @@ spot the errors in the code?
 
 * Bristol Online Survey (BOS) - Professional Mentor Link to online survey - deadline last week
    * Assessment before christmass - partenship office
-
-
-Oxford University Bebras Challenge so we aren't actually teaching 'normal' lessons. 
-We will still need to do our weekly target setting though so hopefully this is ok. 
-
-   I am ok with the mentoring process generally but would like to discuss 
-   * how hands on I need to be in terms of supporting Matt with his reflections and evidence. 
-   In particular I would like to discuss more about:
-   - Joint reflections on lessons/activities
-   - Coaching conversations between Mentor and student teacher to draw out understanding and misconceptions
-   - Collaborative planning with focus on differentiation and pupil progression

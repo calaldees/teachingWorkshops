@@ -178,6 +178,34 @@ The gap between students can become huge very quickly ...
 * ITT CCF 5.4. 
     * > Adaptive teaching is less likely to be valuable if it causes the teacher to artificially create distinct tasks for different groups of pupils or to set lower expectations for particular pupils.
 
+* [Mixed-attainment teaching: Careful steps towards better outcomes](https://impact.chartered.college/article/ehrlich_mixed-attainment-teaching-outcomes/) May 2018 Impact- Chartered College of Teaching
+    * > children working in groups with others working at the same level of attainment – has been found to have a number of negative impacts on pupils, yet teachers often cite it as necessary for differentiating and meeting targets (Francis et al., 2017)
+    * > As I feared, switching to mixed-attainment groupings initially proved to be a nightmare. Higher attainers dominated, lower attainers withdrew, arguments arose and little work seemed to get done.
+    * Group composition
+    * Student skills to develop
+        *  listening, sharing and respecting each other’s right to learn were all identified as being areas in need of work
+        * highlights specific children who might need extra help developing these skills. This can be done through individual discussions and interventions.
+        *  treat pupils fairly (don't let high attainers get away with bad behaviour)
+    * Lesson design
+        *  A lot of time was spent thinking about how to create lessons that were more open-ended and less teacher-centred, and which involved pupils having specific roles. Once this becomes the norm, it is no lengthier than designing three different tasks for your ‘tops, middles and bottoms’.
+        * Open-ended tasks are far more successful at challenging all levels when planned well. In redesigning learning tasks, by using targeted questions and designated roles and allowing pupils to select their own level of challenge
+        *  the introduction of meta-learning and empowering pupils to take control of their learning
+    * Impact on behaviour
+        * as well as stepping back from the learning, teachers can step back from behaviour management too. Perhaps partly because of reduced anxiety about performing in the ‘top’ group or being stuck in the bottom group, pupils who initially misbehaved in group work stopped doing so. Having pupils determine learning rules and uphold them among each other also developed far better behaviour throughout the class. This, combined with the focus on meta-learning and encouraging respect for each other as learners, provides opportunities for pupils to take more responsibility for their own learning and make a real contribution to the group
+* [EEF Project: Best Practice in Mixed Attainment Grouping](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/best-practice-in-mixed-attainment-grouping/)
+    * Mixed results
+
+My Tips
+* Set the problem - 'create a program to'
+* Model meta cognition commentary in solving the problem
+* Open ended tasks
+* Collaboration
+* Negociate
+* Indipendence
+* Dialog
+
+When talking to your whole class, think "Who do I need here now?" Is to too high level for some? is it too low level for others?
+
 
 ### Metrics (to assist your planning)
 
@@ -381,6 +409,72 @@ ama
 Academically More able
 
 [13-Year-Old, Nicholas Sharkey, Creates a RISC-V Core](https://riscv.org/blog/2020/11/13-year-old-nicholas-sharkey-creates-a-risc-v-core/)
+
+
+* [Webinar: How to Support All Learners Part 2: More Able](https://my.chartered.college/2020/11/webinar-how-to-support-all-learners-part-2-more-able/) Dr. Keith Watson
+    * supports Early Career Teachers in
+    * National Association for Able Children in Education [NACE](https://www.nace.co.uk/)
+        * Resources behind a paywall - no individual signup path
+        * [blog](https://www.nace.co.uk/page/blog)
+        * [NACE sample resources](https://www.nace.co.uk/page/resources-sample)
+            * [Getting started with more able](https://cdn.ymaws.com/www.nace.co.uk/resource/collection/7E47A043-4EAE-4DB6-B183-BE77054F6BEA/SAMPLE_NACE_Essentials_Getting_Started.pdf)
+    * _A lecture_ is the transfer of knowledge from the notepad of the lecturer to the notepad of the learner without engaging the brain
+    * Get to know them - tap into their interests
+    * How hard did they think - ask them 'scale of 1 to 10'
+    * teddy 16cm,19cm,12cm how many would fit in classroom? How many golf balls in brazil?
+    * How are you making them think?
+    * > Standard 1: Set Goals that strech and challenge pupils of all background, abilities and dispositions
+    * 15% of highly able pupils who score in 10% nationally at age 11 fail to achieve in the top 25% at GCSE (Ofsted 2018)
+    * Language _gifted_, _talented_, _skilled_, _clever_ (hidden meaning) - what is the policy in your school?
+        * 10% of cohort?
+        * gifted 0.5%
+    * Cant rely on test scores - motivation, concentraiton
+    * Careful with labels
+        * More able are not used to failure - a problem for many more able
+        * Label gives pressure to student?
+    * Is it good to be clever? (social stigma)
+    * Get them to Link things (mind map, )
+    * Verbal and your dialogue - is powerful and immediate - written is not timely and seldom interpreted correctly
+        * Is this in your lesson plan?
+    * > Structured tinkering
+    * I-PENCIL Watson K 2006
+        * Independent
+        * Plenary
+        * Extended - You cant write Charles Dickens in 20min
+            * Time? Independence?
+        * Negotiated
+            * Learners are part of the planning process
+        * Cutaway
+            * Breif, cutaway, lap to check, pullback+review/input, cutaway,
+            * small interventions
+        * Idiosyncratic
+            * How well do you know them?
+        * Listen
+            * Dialogue about learning
+    * When talking to the whole class "who do I need here now"
+    * "Why is this important?" "What makes you think that?"
+    * Signpost + encourage - point them in the right direction
+        * Older pupils?
+        * You a planting seeds
+    * Describe
+        * only allowed 10 words
+        * only use shapes
+    * Learning Theory is good, but don;t become overly mechanical
+    * "We have to worry about semi colos, but I want to write from the heart" year 10 pupil
+    * If you were a font, which would you be?
+    * When I teach you, what is it that I do that helps you?
+    * Don't have your more able supporting the others a disproportionate amount of time
+    * Be careful of _public praise_
+        * creates a social divide
+        * create dependency on praise
+    * Collaboratively create a wall display?
+    * Some students are hyper focused on one very narrow area.
+        * Keep signposting and gently encouraging
+
+My quote
+"I don't care about the shiny laptop. In 3 years time it's going to be scrap. I care about what you can do with it"
+
+> You're entitled to your opinions, but not your facts
 
 
 Webinar notes - supporting learners with SEND

@@ -188,6 +188,8 @@ Ruth Butler 1987
 * comment only (30% improvement)
 * mark and comment
 
+[EEF Project: Embedding Formative Assessment](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/embedding-formative-assessment/) Trial 2018
+
 [AfL Tools](https://www.slideshare.net/caldiesschool/tl-assessment-for-learning-tools)
 
 https://mikegershon.com/resources/
@@ -462,6 +464,3 @@ pizza 2015 Reliably assess collaborative problem solving
 * [PISA 2015 COLLABORATIVE PROBLEM-SOLVING FRAMEWORK](https://www.oecd.org/pisa/pisaproducts/Draft%20PISA%202015%20Collaborative%20Problem%20Solving%20Framework%20.pdf)
 * [Collaborative  Problem Solving:Considerations for the National Assessment of Educational Progress](https://nces.ed.gov/nationsreportcard/pdf/researchcenter/collaborative_problem_solving.pdf)
 
-* [Webinar: How to Support All Learners Part 2: More Able](https://my.chartered.college/2020/11/webinar-how-to-support-all-learners-part-2-more-able/) Dr. Keith Watson
-    * supports Early Career Teachers in
-    * National Association for Able Children in Education (NACE)

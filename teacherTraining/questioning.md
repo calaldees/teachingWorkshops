@@ -4,6 +4,17 @@ Questioning
 * [Organizing Instruction and Study to Improve Student Learning](https://ies.ed.gov/ncee/wwc/PracticeGuide/1)
     * Look at the strength of evidence for questions
 
+* [Developing dialogic teaching: genesis, process, trial](http://robinalexander.org.uk/wp-content/uploads/2019/12/RPIE-2018-Alexander-dialogic-teaching.pdf) Robin Alexander 2018
+    * [EEF: Dialogic Teaching report KS2](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/dialogic-teaching/)
+    * [It’s good to talk: Moving towards dialogic teaching](https://impact.chartered.college/article/egan-simon-moving-towards-dialogic-teaching/) May 2018 - Impact: Chartered College of Teaching
+    * [Dialogic Teaching](https://www.nie.edu.sg/docs/default-source/event-document/final-dialogic-teaching-essentials.pdf)
+    * [Developing the repertoire of teacher and student talk in whole-class primary English teaching: lessons from England](http://eprints.whiterose.ac.uk/151471/1/Developing_the_repertoire_of_teacher_and_student_talk_in_whole_class_primary_English_teaching_full_version_.pdf)
+    * narrate, explain, analyse, speculate, imagine, explore, evaluate, discuss, argue, justify, and they ask questionsof their own
+    * collective, reciprocal, supportive, cumulative, purposeful 
+    * > If an answer does not give rise to a new question from itself, it falls out of the dialogue.
+    * > What ultimately counts is the extent to which teaching requires pupils to think, not just report someone elseʼs thinking
+    * Computing Context: Evidently social impact of technology. Could we use this to compare different types fo loop? A chain of if statements over data?
+
 Diagnostic/Hinge Questions (2.5 hours)
 --------------------------
 

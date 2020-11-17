@@ -78,6 +78,10 @@ Problems
 Problems
 * Learning curve to make contributions
 
+### More reading
+
+Teacher collaboration is an ongoing interest of mine. We don't have the tools or comunity locally. I want to investigate and change this.
+* [Leading teacher collaboration in subject-specific pedagogy](https://impact.chartered.college/article/leading-teacher-collaboration-subject-specific-pedagogy/) Sep 2020 Impact Chartered College of Teaching
 
 Student Collaboration (30 min)
 =====================

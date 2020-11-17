@@ -68,12 +68,35 @@ We should set time aside to explicitly teach/name/model metacognitive skills
     * > Expert teachers were thinking about the process of teaching using the metaphor of scaffolding as a temporary adaptive structure (Shvarts and Bakker, 2019).
     * _Trust_ is a key factor
 
+* [Making sense of metacognition](https://impact.chartered.college/article/quigley-stringer-making-sense-metacognition/) - May 2018 Impact Charatered College of Teaching
+    * Misconception 1: Metacognition is a general skill that should be taught separately from subject knowledge
+    * Misconception 2: Metacognition represents ‘higher order’ thinking and is therefore more important than mere cognition or subject knowledge
+    * Misconception 3: Metacognition is only developed in older pupils
+    * > Recommendations from the evidence would suggest that teachers can be much more deliberate about teaching metacognitive awareness in the crucible of the classroom
+* [Metacognition through prompts in mathematical problem-solving](https://impact.chartered.college/article/wilson-metacognition-mathematical-problem-solving/)
+    * My computing notes inspired by article above
+        * Stage 1 Understand the problem
+            * Doctest? Expected input, expected output
+        * Stage 2 Devise a plan
+            * Have we seen something similar?
+            * Can we break it down into steps?
+                * Diagrams? psudo code
+        * Stage 3 Implement the plan
+            * Is it working? Do we need a new plan?
+        * Stage 4 Reflecting
+            * Dose your answer make sense?
+            * Are there any inefficiencies? repetition?
+            * Can any of the variables be renamed to make it clearer?
+            * Can anything be broken down further into functions?
+            * Could any of these be reused in other projects?
+
 
 Unsorted
 ========
 
 self efficacy
 identification is the hardest problem
+
 
 
 TODO

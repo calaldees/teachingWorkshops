@@ -1,6 +1,8 @@
 Social Media
 ============
 
+* [Obama: The internet is “the single biggest threat to our democracy”](https://www.vox.com/recode/2020/11/16/21570072/obama-internet-threat-democracy-facebook-fox-atlantic)
+
 * [‘Culture wars’ are fought by tiny minority – UK study](https://www.theguardian.com/society/2020/oct/24/culture-wars-are-fought-by-tiny-minority-uk-study)
     * > Report by the More in Common thinktank found that 12% of voters accounted for 50% of all social media user
 * [Neil Postman on Cyberspace, 1995](https://www.youtube.com/watch?v=49rcVQ1vFAY) (10min)
@@ -9,7 +11,7 @@ Social Media
     * > Faustian bargain
         * We gain something, but we loose something
     * (We need people to raise these questions - tech brings just a much damage as advantages)
-    * [The Surrender of Culture to Technology; College Lecture Series - Neil Postman"](https://www.youtube.com/watch?v=hlrv7DIHllE) 1997 1hour lecture
+    * [The Surrender of Culture to Technology](https://www.youtube.com/watch?v=hlrv7DIHllE) Neil Postman (1997) 1 hour lecture
         1. What is the problem for which technology claims to be the solution?
         2. Who's problem is it (everyone's problem? or elites problem? who will pay for it?)
         3. What new problems might be created once we solve this problem?
