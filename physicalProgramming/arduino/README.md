@@ -6,14 +6,18 @@ Hardware
 --------
 
 [Adafruit Circuit Playground](https://www.adafruit.com/product/3000)
-* 10 RGB leds
-* 2 buttons
-* 1 switch
-* buzzer
-* Light sensor
-* Temperature sensor
-* Sound sensor
-* Motion x,y,z
+* Features
+  * 10 RGB leds
+  * 2 buttons
+  * 1 switch
+  * Speaker/buzzer
+  * Light sensor
+  * Temperature sensor
+  * Sound sensor (not enough processor-power/storage to call it a microphone)
+  * Motion x,y,z
+* Program in C
+* Can give full text debug steam (when connected via usb umbilical cable)
+  * can give graph
 
 
 IDE

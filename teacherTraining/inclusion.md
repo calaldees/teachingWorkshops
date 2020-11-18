@@ -429,6 +429,7 @@ Academically More able
         * 10% of cohort?
         * gifted 0.5%
     * Cant rely on test scores - motivation, concentraiton
+        * [Identifying more able learners: beyond the numbers](https://www.nace.co.uk/blogpost/1764163/327555/Identifying-more-able-learners-beyond-the-numbers)
     * Careful with labels
         * More able are not used to failure - a problem for many more able
         * Label gives pressure to student?
@@ -475,6 +476,40 @@ My quote
 "I don't care about the shiny laptop. In 3 years time it's going to be scrap. I care about what you can do with it"
 
 > You're entitled to your opinions, but not your facts
+
+* Too much support for weaker learners can harm the most able
+    * [Expertise Reversal Effect and its Instructional Implications](https://impact.chartered.college/article/expertise-reversal-effect-instructional-implications/)
+        * > ... a technique that reduces working memory load for low-knowledge learners (e.g. by providing strong instructional support) might lose its effectiveness and may even bring negative consequences for more knowledgeable learners; they may learn better in an environment with minimal guidance. This is known as the expertise reversal effect ...
+        * > ... implication of the effect is the need to develop an adaptive learning environment in which learning materials are tailored in accordance with learners’ current levels of achievement ...
+
+* [Independent Digital Learning: paradoxes, problems and potential in classroom practice](https://impact.chartered.college/article/independent-digital-learning-paradoxes-problems-potential-classroom-practice/) Impact Jan 2019
+    * cMOOC
+        * instructor as an active co-learner
+        * we link movies
+        * learning design
+        * self assessment
+    * xMOOC
+        * instructor as a sage
+        * we watch movies
+        * instructional design
+        * external/peer assessment
+    * conclusion
+        * discrete MOOCs to supplement the curriculum can encourage students to independently engage with ‘deep learning’. 
+        * teacher-created, discrete, topic-based courses that can be managed over a couple of weeks. The more focused their objectives, the more effective classroom mini-MOOCs
+        * Significant development time and experimentation, alongside exposure to a variety of MOOCs, is essential for professional development in this field
+            * The labour investment has significant long-term returns in student productivity and,
+
+* [Strengths and weaknesses of cooperative and problem-based learning](https://my.chartered.college/2019/10/strengths-and-weaknesses-of-cooperative-and-problem-based-learning/) Chartered College of Teaching - Research Digest 2019
+    * cooperative learning (CL) and problem-based learning (PBL)
+    * Strengths
+        * Increases responsibility over their learning. Self-directed learning skills, Self-confidence and motivation.
+        * Active participants in their learning, sharing and exchanging ideas
+        * Increased positive attitude. Feels easier for them to learn.
+    * Weakness
+        * Much more time to be implemented properly
+        * Difficult to manage
+        * Difficult to choose balanced groups that work well together
+        * Confusing for some students - as they are unclear as to what is being asked of them
 
 
 Webinar notes - supporting learners with SEND
