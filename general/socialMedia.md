@@ -2,7 +2,9 @@ Social Media
 ============
 
 * [Obama: The internet is “the single biggest threat to our democracy”](https://www.vox.com/recode/2020/11/16/21570072/obama-internet-threat-democracy-facebook-fox-atlantic)
-
+* [Information Overload Helps Fake News Spread, and Social Media Knows It](https://www.scientificamerican.com/article/information-overload-helps-fake-news-spread-and-social-media-knows-it/)
+    * Understanding how algorithm manipulators exploit our cognitive vulnerabilities empowers us to fight back
+    * > What information consumes is rather obvious: it consumes the attention of its recipients
 * [‘Culture wars’ are fought by tiny minority – UK study](https://www.theguardian.com/society/2020/oct/24/culture-wars-are-fought-by-tiny-minority-uk-study)
     * > Report by the More in Common thinktank found that 12% of voters accounted for 50% of all social media user
 * [Neil Postman on Cyberspace, 1995](https://www.youtube.com/watch?v=49rcVQ1vFAY) (10min)

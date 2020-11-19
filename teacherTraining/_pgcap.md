@@ -1,6 +1,59 @@
 PGCAP
 =====
 
+Professional Standards Framework
+--------------------------------
+
+[The UK Professional Standards Framework for teaching and supporting learning in higher education](https://www.advance-he.ac.uk/knowledge-hub/uk-professional-standards-framework-ukpsf) [pdf](https://s3.eu-west-2.amazonaws.com/assets.creode.advancehe-document-manager/documents/advance-he/UK%20Professional%20Standards%20Framework_1570613241.pdf)
+
+* Dimensions of Framework
+    * Areas of Activity
+        * A1
+            * Design and plan learning activities and/or programmes of study
+        * A2
+            * Teach and/or support learning
+        * A3
+            * Assess and give feedback to learners
+        * A4
+            * Develop effective learning environments and approaches to student support and guidance
+        * A5
+            * Engage in continuing professional development in subjects/disciplines and their pedagogy, incorporating research, scholarship and the evaluation of professional practice
+    * Core Knowledge
+        * K1
+            * The subject material
+        * K2
+            * Appropriate methods for teaching, learning and assessing in the subject area and at the level of the   academic programme
+        * K3
+            * How students learn, both generally and within their subject/disciplinary area(s)
+        * K4
+            * The use and value of appropriate learning technologies
+        * K5
+            * Methods for evaluating the effectiveness of teaching
+        * K6
+            * The implications of quality assurance and quality enhancement for academic and professional practice with a particular focus on teaching
+    * Professional Values
+        * V1
+            * Respect individual learners and diverse learning communities 
+        * V2
+            * Promote participation in higher education and equality of opportunity for learners
+        * V3
+            * Use evidence-informed approaches and the outcomes from research, scholarship and continuing professional development 
+        * V4
+            * Acknowledge the wider context in which higher education operates  recognising the implications for professional practice
+* Level Descriptors
+    * D1 - Associate Fellow
+        1. Successful engagement with at least two of the five Areas of Activity
+        2. Successful engagement in appropriate teaching and practices related to these Areas of Activity
+        3. Appropriate Core Knowledge and understanding of at least K1 and K2
+        4. A commitment to appropriateProfessional Values in facilitating others’ learning
+        5. Relevant professional practices, subject and pedagogic research and/or scholarship within the above activities
+        6. Successful engagement, where appropriate, in professional development activity related to teaching, learning and assessment responsibilities
+    * D2 - Fellow
+    * D3 - Senior Fellow
+    * D4 - Principle Fellow
+
+
+
 Session 1
 ---------
 
@@ -217,7 +270,7 @@ How a theory or concpet ment a log to you and changed you
 Done the reading - but don't have the skills to actually have got anything from it
 
 
-* [Classroom Response Systems](https://www.canterbury.ac.uk/learning-and-teaching-enhancement/learning-platform-suite/classroom-response-systems.aspx)
+* [CCCU Classroom Response Systems](https://www.canterbury.ac.uk/learning-and-teaching-enhancement/learning-platform-suite/classroom-response-systems.aspx)
 
 
 Session 2
@@ -393,56 +446,6 @@ Support the student - look at wellbeing - identify the root causese. _Identifyin
 
 
 
-Professional Standards Framework
---------------------------------
-
-[The UK Professional Standards Framework for teaching and supporting learning in higher education](https://www.advance-he.ac.uk/knowledge-hub/uk-professional-standards-framework-ukpsf) [pdf](https://s3.eu-west-2.amazonaws.com/assets.creode.advancehe-document-manager/documents/advance-he/UK%20Professional%20Standards%20Framework_1570613241.pdf)
-
-* Dimensions of Framework
-    * Areas of Activity
-        * A1
-            * Design and plan learning activities and/or programmes of study
-        * A2
-            * Teach and/or support learning
-        * A3
-            * Assess and give feedback to learners
-        * A4
-            * Develop effective learning environments and approaches to student support and guidance
-        * A5
-            * Engage in continuing professional development in subjects/disciplines and their pedagogy, incorporating research, scholarship and the evaluation of professional practice
-    * Core Knowledge
-        * K1
-            * The subject material
-        * K2
-            * Appropriate methods for teaching, learning and assessing in the subject area and at the level of the   academic programme
-        * K3
-            * How students learn, both generally and within their subject/disciplinary area(s)
-        * K4
-            * The use and value of appropriate learning technologies
-        * K5
-            * Methods for evaluating the effectiveness of teaching
-        * K6
-            * The implications of quality assurance and quality enhancement for academic and professional practice with a particular focus on teaching
-    * Professional Values
-        * V1
-            * Respect individual learners and diverse learning communities 
-        * V2
-            * Promote participation in higher education and equality of opportunity for learners
-        * V3
-            * Use evidence-informed approaches and the outcomes from research, scholarship and continuing professional development 
-        * V4
-            * Acknowledge the wider context in which higher education operates  recognising the implications for professional practice
-* Level Descriptors
-    * D1 - Associate Fellow
-        1. Successful engagement with at least two of the five Areas of Activity
-        2. Successful engagement in appropriate teaching and practices related to these Areas of Activity
-        3. Appropriate Core Knowledge and understanding of at least K1 and K2
-        4. A commitment to appropriateProfessional Values in facilitating others’ learning
-        5. Relevant professional practices, subject and pedagogic research and/or scholarship within the above activities
-        6. Successful engagement, where appropriate, in professional development activity related to teaching, learning and assessment responsibilities
-    * D2 - Fellow
-    * D3 - Senior Fellow
-    * D4 - Principle Fellow
 
 
 
@@ -549,7 +552,7 @@ Chapter 13 by Vanessa Dye 'Reflection, reflection, reflection, I'm thinking all 
 Powerful reflection contains
 * What (concise description)
 * Why the incident mattered (So What)
-* Other viewpoints (interpritation, feedback)
+* Other viewpoints (interpretation, feedback)
 * Other approaches (theory, colleagues)
 * Bias
 * Awareness of reflective process (limitations)
@@ -583,3 +586,159 @@ Own rational. why there was doubt, dressed? play acting?
 Reconsile 'good person' with actions - am not always a good person
 Consider possible bias's
 Admit attitude nearly resulted in death
+
+
+Session 4
+---------
+
+
+
+Microteach Plan
+---------------
+
+### Intro
+
+* I'm Allan
+* I teach secondary school teachers how to teach
+* I will demo an interesting _enhancement_ to the assessment questions you already ask
+* Objective
+    * Understand the concept and value of _Diagnostic Questions_
+
+### Multiple Choice Questions
+
+* It's common/good-practice to have digital multiple choice quiz's. [Rosenshine](https://www.aft.org/sites/default/files/periodicals/Rosenshine.pdf) (2012)
+    * The learner actively engaging with problem/recall is more effective than passive reading/highlighting
+    * Gives you (the teacher) info on topics that need further attention (inform planning)
+* Can we do better then just *Correct* or *Incorrect*?
+
+[formative]
+
+### Diagnostic Questions
+
+Every wrong answer unveils a perceived misconception
+
+* Example of a Diagnostic Question
+    * Find the area of the shape ![Diagnostic Questions - Maths - Area of a 10cm by 7cm rectangle](./images/diagnostic_question_maths_area.svg)
+        1. 17cm<sup>2</sup>
+        2. 70cm<sup>2</sup>
+        3. 34cm<sup>2</sup>
+        4. 35cm<sup>2</sup>
+
+    * The misconceptions
+        1. 17cm<sup>2</sup> (simple addition)
+        2. 70cm<sup>2</sup> (correct)
+        3. 34cm<sup>2</sup> (perimeter)
+        4. 35cm<sup>2</sup> (area of a triangle - multiply and half)
+
+* Five Golden Rules for Diagnostic Questions
+    * They should be clear and unambiguous
+    * They should test a single skill or concept
+    * Students should be able to answer in less than 20 seconds
+        * More than this means learner is making multiple steps; hard to pin down specific misconception
+    * You should learn something from each incorrect response (without the student needing to explain their process)
+    * It is not possible to answer the question correctly whilst still holding a key misconception
+
+### Task
+
+* Part 1 (4 min)
+    * (This is going to be REALLY hard)
+    * Construct a diagnostic question for your specialist domain
+        * One correct answer
+        * One incorrect answers (that unveils a misconception)
+        * (add additional incorrect answers if you have time)
+    * Type your question + possible answers into the chat
+* Part 2 (4min)
+    * As a group we will try to answer some questions 
+    * You can inform us of the misconception
+
+### Going further
+
+The questions can be the focus of further leaning via [Dialogic Teaching](http://www.educ.cam.ac.uk/research/programmes/dialogic/whatis.html).
+
+Present mistakes as learning opportunities
+
+* Extension (to students)
+    * Write the best explanation you possibly can for the correct answer
+    * Convince me why each of the alternative answers is wrong
+    * Can you explain what misconception someone has who chooses each of the incorrect answers?
+    * What other alternative incorrect answers would you have included, and why?
+    * Can you write some questions that would make each of the wrong answers correct?
+    * Create your own diagnostic question
+        * explaining your reasoning behind each of your three incorrect answers
+* Get feedback from students as to 'why' they think that is the answer
+    * Find the worst 3 answered questions
+    * Find the most popular misconceptions and read explanations written by students
+* As a teacher - Ask 3 questions:
+    * Where do students go wrong?
+    * Why do they go wrong?
+    * What are we going to do about it?
+
+### Summary
+
+* Diagnostic questions augment our existing questioning/spaced-repetition/immediate-feedback systems
+* The extra information helps us diagnose misconceptions and informs planning
+
+I hope you find this idea useful in your teaching.
+
+### Questions
+
+?
+
+### References and Further Reading
+* [Diagnostic Questions](https://diagnosticquestions.com/)
+    * [Diagnostic Questions Pedagogy Videos](https://www.youtube.com/playlist?list=PL7BJ-1MkmUZ90bnxd_e-AsIgIsJEGOkC0) (7 videos total 45min)
+    * [DiagnosticQuestionsFAQ.pdf](https://diagnosticquestions.com/Uploads/DiagnosticQuestionsFAQ.pdf)
+    * [Education Endowment Foundation - Sponsorship](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/diagnostic-questions/) - evaluation report will be published in Spring 2021
+* [Oiling the hinges – refining my construction of hinge questions](https://improvingteaching.co.uk/2013/11/03/oiling-the-hinges-refining-my-construction-of-hinge-question/) Harry Fletcher-Wood 2013
+* [Rosenshine's Principles of Instruction - Diagram](https://teachinghow2s.com/blog/principles-of-instruction)
+    * daily review, Ask questions, check student understanding, aim for 80% success rate, monthly review
+* [Developing dialogic teaching: genesis, process, trial](http://robinalexander.org.uk/wp-content/uploads/2019/12/RPIE-2018-Alexander-dialogic-teaching.pdf) Robin Alexander 2018
+
+
+Prep slides
+-----------
+
+* What know, what not know
+* Metric justification
+* indipendent work to deadlines
+
+D Bound
+1. Measure achievement
+2. Engender leaning
+3. Develop graduate attributes
+
+Principles of assessment
+* Achive set learning outcomes
+* Contributes to learning, engagement
+* Authentic (reflects work-context, graduate attributes)
+* Manageable
+* inclusive
+    * choice of task
+    * understand the purpose and process of assessment
+
+* Formative assessment
+* Summative Assessment
+
+* Assessment criteria
+* Grade descriptor
+
+* Nom-referenced assessment
+    * only 20% are awarded destination (of cohort)
+* Criterion-referenced assessment
+
+Qualitys of effective feedback
+1. Timely
+    * (Uni 15 day turnaround)
+2. Facilitates development of self-assessment (reflection)
+3. High quality information to students about their learning
+4. Encouarges teacher peer dialog
+5. Encourages positive motivational belifes and sel-steam
+6. provide oppertunity to close gap between current ans desired performance
+7. Assist with further teacher planning
+
+Giving feedback
+* proise stratergy and effort
+* engage student directly
+* constuctive (rather than descriptive)
+* encourage students to make use of feedback (give specific activity to act on feedback)
+* Present mistakes as learning oppertunities

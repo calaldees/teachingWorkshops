@@ -38,3 +38,18 @@ They may be measuring their progress by their peers (who are also lacking in ski
 I have managed to arrange the students seating so that I can move more freely. I have taken time out of sessions while the others are working to give individual support to fill in past topics. The students deeply appreciated the individual attention. I have reiterated the demands of university learning and the course aims and given individual topics and past workshops to complete.
 
 In future identifying these students earlier would give them a better chance success. More time needs to be allocated for repeating the expectations of time but also repeating the expectations of expected progress for the students to self identify areas. This transition space between school and university needs more consideration from me. I will ask other colleagues teaching on this course for advice on how they identify/handle these progress issues.
+
+
+### Feedback
+This is a good reflection Allan, you've been really honest and presented a clear example with a very good level of specific evidence. 
+
+To improve your reflective writing going forward I'd suggest that you 
+
+* start the writing with the headline of the reflection which is that you need access to students' formative assessments from early on in the semester so that you can target support for those students who are struggling and ensure that those who are thriving are being stretched.
+    * This will help you to reduce your narration and to free up more word count for reflection including incorporating student and peer feedback and perhaps quoting some scholarship on formative assessments. 
+* Setting up check-in points on the online assessments and being open with students about how they and you can use these as opportunities to develop the skills necessary to succeeding on the module will help the students to be more self-directed in their learning and you to target support effectively and before crisis points close to summative (credit-bearing) assessments. 
+* Do use the active mode and the first person voice e.g. 
+    * instead of 'This transition space between school and university needs more consideration from me' 
+    * make it (for example) 'I will better support students in their transition from school to university learning by teaching them to use formative assessments as an opportunity to assess and develop on their own learning and supporting them in this'. 
+    * This way the 'Now what' in Borton's terms is clearly spelt out. 
+* Also, before the assessment, do have those conversations with colleagues and include one or two short quotes from them e.g. one colleague said 'tell students we want to know and help when they're struggling'.

@@ -169,6 +169,8 @@ Computers are just giant calculators. Numeracy is the underpinning of our entire
 * What are the biggest killers of young people in the UK?
     * [health-profile-for-england-2018](https://www.gov.uk/government/publications/health-profile-for-england-2018/chapter-2-trends-in-mortality)
 
+[[See Data visulisation and 'knowlege is beautiful' - relative]]
+
 ### The bias in numbers
 * Correlation is not the same as causation
     * [Piracy on the high seas Vs Global temperature](https://channels.theinnovationenterprise.com/articles/hilarious-graphs-and-pirates-prove-that-correlation-is-not-causation)
@@ -333,3 +335,15 @@ TODO: more
     * Simp
     * Woke
     * Beta
+
+Promoting Self-efficacy in attitude - your learning is your responsibility
+[self-efficacy and social action] chris baker Impact magazine 2020
+
+Emotions Matter: Adapting RULER for UK schools to build emotional intelegence in children - Michael eggleton - impact 2020
+* plesentness +5-5 Energy +5-5
+critial thinking
+ identifying assumptions, assessing credabiklity, constuct counter exaples, consistenct/conmtradiction, ifentifying fallacies, join and indipendent reasoning
+
+Youth social action - what are the benefits for careers education? - impact 2020
+* gatsby benchmarks
+    4. Linking curriculum learning to carers

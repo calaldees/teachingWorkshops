@@ -295,3 +295,8 @@ spot the errors in the code?
 
 * Bristol Online Survey (BOS) - Professional Mentor Link to online survey - deadline last week
    * Assessment before christmass - partenship office
+
+
+* [Sharepoint -> Secondary and post 16 -> Documents -> Assessment toward QTS -> Placement Assessment Consultation documents](https://cccu.sharepoint.com/teams/TeachFirstLeadership/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fteams%2FTeachFirstLeadership%2FShared%20Documents%2FAssessment%20toward%20QTS%2FPlacement%20Assessment%20Consultation%20documents&FolderCTID=0x01200053821CB91B297C4ABAF8D35F945C1578)
+   * [Mentor Training Presentation](https://cccu-my.sharepoint.com/:p:/g/personal/sm1161_canterbury_ac_uk/EZUd0QqHAplOiGZYlE77llMBEwK-HMr5SoNeudcQi8jVzQ?rtime=CX-uCZ-L2Eg)
+   * [Pupil Progress Bundle: Guidance](https://cccu-my.sharepoint.com/:w:/g/personal/sm1161_canterbury_ac_uk/EfVXKayimPBHjOQKeLACQ20BPSJSX14qycHPJhnnueI2Dg?rtime=I_lNu9-L2Eg)

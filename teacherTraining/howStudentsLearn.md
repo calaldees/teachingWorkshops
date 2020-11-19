@@ -260,7 +260,7 @@ Attention is a finite resource and can be depleted quickly.
 
 > Be wary of reducing cognitive load too much – the learning process should be manageable, but not overly fragmented.
 
-[Cognitive Load](https://en.wikipedia.org/wiki/Cognitive_load)
+[Cognitive Load](https://en.wikipedia.org/wiki/Cognitive_load) John Sweller 198x?
 
 > Gesturing is a technique children use to reduce cognitive load while speaking
 
@@ -271,7 +271,7 @@ Help sheets or Knowledge Organisers can help reduce cognitive load
 TASK: What does this mean for your planning?
 
 ### More
-See Expertise Reversal Effect in [inclusoon.md](./inclusion.md)
+See Expertise Reversal Effect in [inclusoon.md](./inclusion.md) - too much support cases lack of engagement and inattention
 
 Liminal Space
 -------------

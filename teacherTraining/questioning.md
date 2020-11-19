@@ -69,8 +69,9 @@ Some of my references for diagnostic/hinge questions
             * Craig’s Five Golden Rules for Diagnostic Questions
                 * They should be clear and unambiguous
                 * They should test a single skill or concept
-                * Students should be able to answer in less than 30 seconds
-                * You should learn something from each incorrect response without the student needing to explain
+                * Students should be able to answer in less than 20 seconds
+                    * More than this means learner is making multiple steps; hard to pin down specific misconception
+                * You should learn something from each incorrect response (without the student needing to explain their process)
                 * It is not possible to answer the question correctly whilst still holding a key misconception
             * The following questions and prompts can be used with students who are answering the diagnostic questions:
                 * Support

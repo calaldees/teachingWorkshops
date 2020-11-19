@@ -36,3 +36,24 @@ Fonts
 * [Lexend](https://www.lexend.com/)
     * [github](https://github.com/ThomasJockin/lexend)
 
+
+Speak to Text
+-------------
+
+### Powerpoint Live Presentations
+* [Present with real-time, automatic captions or subtitles in PowerPoint](https://support.microsoft.com/en-us/office/present-with-real-time-automatic-captions-or-subtitles-in-powerpoint-68d20e49-aec3-456a-939d-34a79e8ddd5f)
+    * Uses microsoft cloud service
+    * Can only be applied to fullscreen presentations
+
+### Web API (Chrome Only)
+* [Voice Driven Web Apps: Introduction to the Web Speech API](https://developers.google.com/web/updates/2013/01/Voice-Driven-Web-Apps-Introduction-to-the-Web-Speech-API)
+    * [Demo](https://www.google.com/intl/en/chrome/demos/speech.html)
+* [Speech to text in the browser with the Web Speech API](https://www.twilio.com/blog/speech-recognition-browser-web-speech-api)
+    * Chrome Only - Audio is processed by the cloud
+    * 27% of the global online population is using voice search on mobile
+    * Only a few lines of code
+
+### Browser based note takers
+* https://dictation.io/
+* https://speechnotes.co/
+
