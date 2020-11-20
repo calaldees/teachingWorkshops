@@ -742,3 +742,110 @@ Giving feedback
 * constuctive (rather than descriptive)
 * encourage students to make use of feedback (give specific activity to act on feedback)
 * Present mistakes as learning oppertunities
+
+
+Session 4
+---------
+
+Why
+Did they lean what's expected?
+Support
+Progress
+Measure performance
+Identify
+Benchmark comparions, class, institution
+Assessment to help students self regulate
+
+Specific
+Aeasurable
+Achivable
+Realistic
+Timebound
+
+Assessment-critera/Sylibus presented at the begining of course
+Facilitate self-evaluation
+
+13:30 to 13:50
+
+Stress of getting responses from students
+
+Stress from getting responses from students remotely
+If not summative-graded - students may not engage
+Continuous verbal feedback on practical tasks
+Students not engaging with pre-reading
+Reading reflections and commenting on reflection progress in 1-to-1 meetings
+Feedback about study skills and attendance
+
+No point in giving feedback that outstripts the students engagement
+Focus/Limit feedback to specific target item - Leverage
+
+Submit one draft for feedback - summative is grade only (because students complain about inconsistent marking)
+
+Feedback for draft progress - recorded (verbally is not sufficent?)
+Grade only for summative
+
+Feedback authtnetic and matters
+Timely
+Mark the work, not the individual?
+
+
+Research: ipsative Assessment - Gwyneth Hughes
+
+[Getting Personal with Ipsative Feedback](http://cti.westminster.ac.uk/wp-content/uploads/sites/63/2018/08/Getting-personal-with-ipsative-feedback-%E2%80%93-Richard-Paterson-Katherine-Mansfield-SSH.pdf)
+
+
+### Activity
+1. Focus - borderline fail / pass
+    * focus on one point - little sense of direction/conclusion
+    * does have conclusion
+2. Evaluation
+    * Fail
+        * no planned future action - no link to evidence
+3. Reflection + application
+    * Borderline fail
+        * Limited reflective case to theory
+4. scholarshop/research
+    * borderline fail
+        * limited evidence of relative profetinal practice
+5. quality of written
+    * borderline fail
+        * not a complete assignment. prose is chatty and unreflective
+
+
+Referecnes
+https://apastyle.apa.org/instructional-aids/reference-examples.pdf
+
+Assessment co-design between students and tutors
+Peer learning - self assessment
+Feedback should feed forward
+Timely feedback
+Individual feedback OR group feedback?
+
+Formative evaluation - session feedback forms - rep feedback
+Summative evaluation - personel decisions HR/promotion - module evaluation - QA standards
+
+Common Questions
+Why am I evaluating teaching practice
+What am I evaluationg
+What are the sources of imformation?
+What emthoods can I use
+What are the advantages and disavatages of these methods
+When do I want to do the evaluation
+
+In class surveys
+Online evaluation
+Informal questions
+External examination to evaluate asessment
+personal reflection
+
+* [What’s in a Name: Exposing Gender Bias in Student Ratings of Teaching](https://link.springer.com/article/10.1007/s10755-014-9313-4) Diriscoll and Hunt 2014
+    * It is possible to disguise an instructor’s gender identity online. 
+    * assistant instructors in an online class each operated under two different gender identities. 
+    * Students rated the male identity significantly higher than the female identity, regardless of the instructor’s actual gender, demonstrating gender bias. 
+    * Given the vital role that student ratings play in academic career trajectories, this finding warrants considerable attention.
+
+
+Learning outcomes
+Constructive alignment
+Sessional evaluation
+Formative assessment

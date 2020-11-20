@@ -117,7 +117,7 @@ PGCE
 * What would you do if you were concerned about a colleague's behaviour towards children?
 * What policies are important to support a safe school environment?
 * Provide examples of times when workload and numerous tasks have been managed concurrently
-* Can you give an example of personal conflict and how you resolved this
+* You have prepared an amazing lesson with guidence from theory and the university. You present the lesson plan to your mentor who is no convinced and does not want you to run the lesson. How do you respond?
 * Can you give an example of where you changed your opinion
 
 Interview Criteria
