@@ -22,7 +22,7 @@ Professional Standards Framework
         * K1
             * The subject material
         * K2
-            * Appropriate methods for teaching, learning and assessing in the subject area and at the level of the   academic programme
+            * Appropriate methods for teaching, learning and assessing in the subject area and at the level of the academic programme
         * K3
             * How students learn, both generally and within their subject/disciplinary area(s)
         * K4

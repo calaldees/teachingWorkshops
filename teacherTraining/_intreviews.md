@@ -23,6 +23,13 @@ Tell me your story:
   Why do you want to become a teacher?
 
 
+Lesson Plan
+-----------
+
+* Resource A or B (not both!)
+* Not subject focused
+
+
 Computing Knowledge
 -------------------
 
