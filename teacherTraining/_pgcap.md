@@ -813,7 +813,7 @@ Research: ipsative Assessment - Gwyneth Hughes
 
 
 Referecnes
-https://apastyle.apa.org/instructional-aids/reference-examples.pdf
+[APA Style - 7th Edition - Common Reference Examples Guide](https://apastyle.apa.org/instructional-aids/reference-examples.pdf)
 
 Assessment co-design between students and tutors
 Peer learning - self assessment

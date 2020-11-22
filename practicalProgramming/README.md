@@ -187,10 +187,19 @@ Summerise PHP
 Web tech talk
 
 
+Session 19
+----------
+
+Revisit land height
+If -> Data
+Tuples within tuples
+
+
 Upcomming
 ---------
 
-If -> Data
+Game Framework Base - Pygame
+
 Dry run more algortihums
 Calculator
 Chat system

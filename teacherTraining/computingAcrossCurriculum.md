@@ -677,14 +677,6 @@ plotly.offline.plot(data, filename='basic-line')
 [Falcon](https://github.com/plotly/falcon) Plotly can work directly from SQL DB's
 
 
-#### Observable
-
-browser/js live data manipulation and visualization
-
-* [observablehq](https://observablehq.com/)
-    * [The Joy of Coding: Observable](https://www.software-artist.com/joy-of-coding-observable/)
-
-
 ### Midi in Chrome
 
 ```html

@@ -281,6 +281,10 @@ What implications will this have for you teaching Computing?
 ### Story: A-Level class teacher complaint
 Class write a letter
 
+### Civic responsibility to report
+* Dead swans - whatthreewords
+* Odd behaviour
+
 ### Computing related
 
 * Laws
