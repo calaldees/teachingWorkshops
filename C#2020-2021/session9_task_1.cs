@@ -1,4 +1,8 @@
-/*Workshop 9b – Using multiple constructs 
+/*
+Continued from session7_workshop2_task_3.cs
+
+
+Workshop 9b – Using multiple constructs 
 Dave Bennett
 Task 1 – For Loops and revisiting calculations
 This exercise is about being able to modify existing code and selecting the most appropriate programming construct to complete a task. 
