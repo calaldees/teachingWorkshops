@@ -95,7 +95,7 @@ public class Task {
 
     */
     void part8() {
-        Console.WriteLine("part7");
+        Console.WriteLine("part8");
         Console.Write("Enter a number: ");
         int number = int.Parse(Console.ReadLine());
         for (int loopCount=0; loopCount <= 12; loopCount++) {

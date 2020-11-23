@@ -38,3 +38,5 @@ Social Media
         * What's distracting us from solving problems is the mantra "If only we had more information"
             * Humanity always had information scarcity
             * We have never suffered from information overload before
+* [You Are the Product](https://www.lrb.co.uk/the-paper/v39/n16/john-lanchester/you-are-the-product) John Lanchester 2017
+    * To read

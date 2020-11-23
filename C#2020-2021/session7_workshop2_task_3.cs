@@ -209,8 +209,8 @@ public class Task {
         }
         switch (mealChoice) {
             case 0: Console.WriteLine("No Meals"); break;
-            case 1: Console.WriteLine("Normal Meals"); break;
-            case 2: Console.WriteLine("Executive Meals"); break;
+            case 1: Console.WriteLine("Normal Meals at "+mealPrice); break;
+            case 2: Console.WriteLine("Executive Meals at "+mealPrice); break;
         }
 
 

@@ -43,8 +43,13 @@ Teaching Resources
     * This is the website we wish we had when we were learning on our own
     * We scour the internet looking for only the best resources to supplement your learning and present them in a logical order
 
-https://brilliant.org/courses/computer-science-essentials/
-https://brilliant.org/courses/programming-python/#chapter-introduction-28
+
+* [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA) 10min video
+    * [flicker](https://www.flickr.com/photos/95869671@N08/36231833334/)
+
+* [Brilliant](https://brilliant.org/)
+    * [Computer Science Essentials](https://brilliant.org/courses/computer-science-essentials/)
+        * [python introduction](https://brilliant.org/courses/programming-python/#chapter-introduction-28)
 
 
 
