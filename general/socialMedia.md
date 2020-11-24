@@ -40,3 +40,4 @@ Social Media
             * We have never suffered from information overload before
 * [You Are the Product](https://www.lrb.co.uk/the-paper/v39/n16/john-lanchester/you-are-the-product) John Lanchester 2017
     * To read
+* [Solomon Islands set to ban Facebook in the name of 'national unity'](https://www.abc.net.au/news/2020-11-23/solomon-islands-set-to-ban-facebook-for-sake-of-national-unity/12910786)

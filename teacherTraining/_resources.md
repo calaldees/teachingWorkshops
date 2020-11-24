@@ -68,6 +68,7 @@ Pedagogy
 Unsorted
 ========
 
+* [Mr Johnson Computing](https://www.mrjc.co.uk/)
 
 * [Computer Science Teachers Association CSTA](https://csteachers.org/) US Chicago
 

@@ -1,72 +1,222 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿/*
+Continued from session7_workshop2_task_3.cs
 
-namespace PayCalculator
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            // v 1.0 - with realistic tax deductions and meal card
-            // 
-            //Declare variables
-            int payRate;
-            int totalHours;
-            int netPay;
-            int grossPay;
-            int deductions;
-            int tax;
-            int mealCard;
+Workshop 9b – Using multiple constructs 
 
-            Console.WriteLine("Welcome to the pay calculator" + System.Environment.NewLine);
+Task 1 – For Loops and revisiting calculations
 
-            Console.WriteLine("Please enter in your hourly rate");
-            payRate = int.Parse (Console.ReadLine());
+This exercise is about being able to modify existing code and selecting the most appropriate programming construct to complete a task. 
+Programmers in industry often have to change existing code and business scenarios change or the code is required to be more sophisticated and do more.
+However, there will be different ways of doing the task and a programmer has to determine the most appropriate way of implementing this. 
+Finally, they have to check that their code is working properly before they ask others to also check they are happy with it in some sort of code review.
 
 
-            Console.WriteLine("Please enter in the number of hours that you have worked");
-            totalHours = int.Parse(Console .ReadLine());
+a. Read through the code and re-familiarise yourself with it. This version uses job role as an input rather than pay rate and has overtime payments.
 
-            grossPay = payRate * totalHours;
+Modify the program to be based around weekly pay rather than monthly pay...
 
-            //Test amount earnt and make tax deductions and rounddown to twod ecimal places
-            if (grossPay  < 20000)
-            {
-                tax = grossPay / 10;
+4) In the marked section add code to 
+    a. determine the month of the year from the user using string input and then
+    b. use the following table to determine the number of weeks in that month – storing the result in a integer variable weeksInMonth that you declare.
+Weeks in Month
+Jan 5, Feb 4, Mar 5, Apr 4, May 4, Jun 4, Jul 4, Aug 4, Sep 4, Oct 5, Nov 4, Dec 5
+Total 52
+
+
+5) In the marked section add code, using a for loop, to iterate through each week of that month, adding the weekly hours worked to the totalHours.
+
+6) Modify the pay calculation for each job as follows:
+a. Cleaner – standard pay rate throughout
+b. Grad Clerk – normal pay up to 35 hours per week MEAN AVERAGE (total hours in the month divided by weeks in month) and overtime above this
+c. Senior Clerk – normal pay up to 40 hours per week MEAN AVERAGE and double rate up to 48 hours per week, and triple time above this. (This will involve more modifications to the code.
+
+7) Modify the tax calculation so that it operates on the tax break from the low rate of 10% to the higher rate of 25% at £12,000 per annum of 52 weeks rather than £200 per week. This means you will have to again look at the number of weeks in the month and the pay and determine what the tax allowance would be for that month based on the £10,000 figure. (this is slightly higher than it is currently).
+
+Previously task 2 ... this has been moved to allow learners to focus on new logic first
+2) Convert all variables and code based around using integers to calculate values in pennies to use decimal type variables and values based in £.
+
+8) Test your program now works by creating a set of 5 different test cases that you have calculated the correct answer using Excel, or a calculator and paper.
+9) For one of these create a trace table of the program dry run.
+10) Finally, show your code to another person in the class who has also done tasks 1-9 and get them to compare it with theirs. Where is it different? Why have you implemented the code in the way you have and which do you feel is better? You do not need to change your code, but reflect if there are any lessons to be learned. Make brief notes on this. Once you have done this show your code to your tutor.
+*/
+using System;
+using System.Linq;  // for .Concat
+public class Task {
+    public static void Main(string[] args) {new Task();}
+    Task() {
+
+        int totalHours = 0;
+        int payRate = 0;
+        int deductions;
+        int tax;
+        int grossPay = 0;
+        int netPay;
+
+        // Input - Month -> Weeks in month -------------------------------------
+
+        // TASK 4.)
+        // a. determine the month of the year from the user using string input and then
+        // b. use the following table to determine the number of weeks in that month – storing the result in a integer variable weeksInMonth that you declare.
+        // "jan", "mar", "oct", "dec" == 5 weeks
+        // "feb", "apr", "may", "jun", "jul", "aug", "sep", "nov" == 4 weeks
+
+        // TODO: Replace this
+        int weeksInMonth = 0;
+        string month = "unknown?";
+
+
+        // Input - Job Role ----------------------------------------------------
+
+        const int PAY_RATE_PER_HOUR__CLEANER      = 700;
+        const int PAY_RATE_PER_HOUR__CLERK        = 1125;
+        const int PAY_RATE_PER_HOUR__SENIOR_CLERK = 1780;
+        Console.WriteLine("1. Cleaner       : £"+PAY_RATE_PER_HOUR__CLEANER+"ph");
+        Console.WriteLine("2. Graduate Clerk: £"+PAY_RATE_PER_HOUR__CLERK+"ph");
+        Console.WriteLine("3. Senior Clerk  : £"+PAY_RATE_PER_HOUR__SENIOR_CLERK+"ph");
+        string jobType = "";
+        switch (askString("Enter job number (1-3)", new string[]{"1", "2", "3"})) {
+            case "1":
+                jobType = "cleaner";
+                payRate = PAY_RATE_PER_HOUR__CLEANER;
+                break;
+            case "2":
+                jobType = "clerk";
+                payRate = PAY_RATE_PER_HOUR__CLERK;
+                break;
+            case "3":
+                jobType = "senior_clerk";
+                payRate = PAY_RATE_PER_HOUR__SENIOR_CLERK;
+                break;
+        }
+
+
+        // Input/Process - Mean hours per week ---------------------------------
+
+        // TASK 5.) In the marked section add code, using a for loop, to iterate through each week of that month, adding the weekly hours worked to the totalHours.
+        int meanHours = 0;
+        totalHours = askInt("totalHours: ");  // TODO: Replace this
+        Console.WriteLine("totalHours: "+totalHours+" meanHours:"+meanHours+" weeksInMonth:"+weeksInMonth+" month:"+month);
+
+
+        // Process - Gross Pay -------------------------------------------------
+
+        if (jobType == "clerk") {
+            // TASK b.) Grad Clerk – normal pay up to 35 hours per week MEAN AVERAGE (total hours in the month divided by weeks in month) and overtime above this
+
+            // TODO: Replace this
+            if (totalHours <= 35) {
+                grossPay = totalHours * payRate;
+            } else if (totalHours <= 50) {
+                grossPay = (35 * payRate) + (int)((totalHours-35) * payRate * 1.5);  // Note the cast!
+            } else if (totalHours > 50) {
+                Console.WriteLine("Something is wrong - clerks cant work that long");
             }
-            else
-            {
-                tax = (20000/10) + (grossPay -20000)/4;
+
+        }
+        else if (jobType == "senior_clerk") {
+            // TASK c.) Senior Clerk – normal pay up to 40 hours per week MEAN AVERAGE and double rate up to 48 hours per week, and triple time above this. (This will involve more modifications to the code.
+
+            // TODO: Replace this
+            if (totalHours <= 40) {
+                grossPay = totalHours * payRate;
+            } else {
+                grossPay = (40 * payRate) + ((totalHours-40) * payRate * 2);
             }
 
-            deductions = tax;
+        } else {
+            grossPay = totalHours * payRate;
+        }
 
-            if ((grossPay - tax - 1000) / totalHours > 500)
-            {
-                //eligible for meal card 
-                Console.WriteLine("Would you like a meal card? Enter 1 for yes, 0 for no");
-                mealCard = int.Parse (Console.ReadLine());
-                if (mealCard == 1)
-                {
-                    Console.WriteLine("Meal Card Selected");
-                    deductions = deductions + 1000;
-                }
-                else
-                {
-                    Console.WriteLine("Meal Card not selected");
-                }
+
+        // Process - Tax Calculation -------------------------------------------
+
+        // Task 7.) Modify the tax calculation so that it operates on the tax break from the low rate of 10% to the higher rate of 25% at £12,000 per annum of 52 weeks rather than £200 per week. This means you will have to again look at the number of weeks in the month and the pay and determine what the tax allowance would be for that month based on the £10,000 figure. (this is slightly higher than it is currently).
+
+        // TODO - Replace this this
+        if (grossPay < 20000) {
+            tax = grossPay * 10/100;
+        }
+        else {
+            tax = 20000 * 10/100;
+            tax = tax + ((grossPay-20000) * 25/100);
+        }
+
+
+        // Input/Process/Output - Meal Card Handling ---------------------------
+        int[] mealPrices = new int[3]{0, 0, -1};  // 0=NoMeals, 1=NormalMeals, 2=ExecutiveMeals
+        // Set the value of the meals for the job role - unlock executive meals if needed
+        switch (jobType) {
+            case "cleaner":
+                // meals are free - values are 0
+                break;
+            case "clerk":
+                mealPrices[1] = 1000;
+                break;
+            case "senior_clerk":
+                mealPrices[1] = 1500;
+                mealPrices[2] = 2500;
+                break;
+        }
+        int mealPrice = int.MinValue;
+        int mealChoice = int.MinValue;
+        while (mealPrice < 0) {
+            Console.WriteLine("Which Meal card do you want?");
+            Console.WriteLine("1. No meal card: "+mealPrices[0]);
+            Console.WriteLine("2. Normal meal card: "+mealPrices[1]);
+            Console.WriteLine("3. Executive meal card: "+mealPrices[2]);
+            mealChoice = askInt("Enter an option: ", 1, 3) - 1;
+            mealPrice = mealPrices[mealChoice];
+        }
+        switch (mealChoice) {
+            case 0: Console.WriteLine("No Meals"); break;
+            case 1: Console.WriteLine("Normal Meals at "+mealPrice); break;
+            case 2: Console.WriteLine("Executive Meals at "+mealPrice); break;
+        }
+
+
+        // Process - Net Pay ---------------------------------------------------
+        netPay = grossPay - tax - mealPrice;
+
+        // Output --------------------------------------------------------------
+        Console.WriteLine("netPay: "+ netPay);
+    }
+
+
+    // Utils/Helper Functions --------------------------------------------------
+
+    // Repeatedly ask for a valid integer without a known range
+    public static int askInt() {return askInt("input an integer: ");}
+    public static int askInt(string msg) {return askInt(msg, 0, int.MaxValue);}
+    public static int askInt(string msg, int min, int max) {
+        while (true) {
+            Console.Write(msg);
+            int v = int.MinValue;
+            try {
+                v = int.Parse(Console.ReadLine());
+            } catch (Exception) {
+                continue;
             }
-
-
-            netPay = grossPay - deductions;
-            
-            //Output
-            Console.WriteLine("Total; " + netPay.ToString ());
-
-            //Pause the program
-            Console.ReadLine();
+            if (v < min || v > max) {
+                string error_msg = String.Format("Outside range {0} {1}", min, max);
+                Console.WriteLine(error_msg);
+                continue;
+                //throw new System.IO.InvalidDataException(error_msg);
+            }
+            return v;
         }
     }
+
+    // Repeatedly ask for a string that is one of the established options
+    public static string askString(string msg, string[] oneOf) {
+        while (true) {
+            Console.Write(msg);
+            string input = Console.ReadLine();
+            if (Array.IndexOf(oneOf, input) < 0) {
+                Console.WriteLine(String.Join(",", oneOf));
+                continue;
+            }
+            return input;
+        }
+    }
+
 }

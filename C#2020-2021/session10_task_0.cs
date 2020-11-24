@@ -8,6 +8,7 @@ public class Task {
         example4();
         example5();
         exampleX();
+        example6();
     }
 
     void example1() {
@@ -103,5 +104,14 @@ public class Task {
         Console.WriteLine(jagged[2][1]);
     }
 
+
+    void example6() {
+        Console.WriteLine("example6 - nested loop");
+        for (int y = 0; y <= 3; y++) {
+            for (int x = 0; x <=3; x++) {
+                Console.WriteLine("y:" + y+ ", x:" + x);
+            }
+        }
+    }
 
 }
