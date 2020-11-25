@@ -1,5 +1,5 @@
-Inclusion
-=========
+Inclusion - Part 1
+==================
 
 Course Session Plan
 -------------------
@@ -18,10 +18,9 @@ Course Session Plan
         * Hearing impairment
         * Visual impairment
     * Planning for TA's
-* AMA (Academically more able)
-* Differentiation: _inclusion_ vs _adaptation_ in Computing
 * Use of data to aid planning of inclusion
     * What might this mean in the context of Computing
+* Discussion: Segregation to improve inclusion?
 
 
 Pre-Reading
@@ -140,73 +139,6 @@ TASK: Skim read (10min) - As a group - relay anything that we as teachers need t
 TASK: Copy/Paste some text you have written (maybe one of your reflections?) into hemingwayapp.com
 
 
-Inclusion Concept: Vertical Tutoring?
--------------------------------------
-
-* Experiments have been done in schools to break traditional year groups.
-* Form time includes small community's of students from all years.
-* Research shows that facilitating peer mentoring creates improvements
-    * [Peer tutoring](https://educationendowmentfoundation.org.uk/evidence-summaries/teaching-learning-toolkit/peer-tutoring/)
-        * cross-age tutoring, in which an older learner takes the tutoring role and is paired with a younger tutee or tutees;
-
-Story: SEN Inclusion case study
-I worked in a school where we vertical tutored
-* Special year 9 student and rewards trip problems with parents
-
-Lesson Planning
----------------
-
-* Every lesson I relay to students on the board
-    * All - of you will
-    * Most - of you should
-    * Some - of you could
-    * (How will you as a teacher know this? you should make a note of % for each of these categories - maybe even some names)
-* Reality
-    * Plan for 10% absence from every session
-    * Explicitly describe in your lesson plan 'What you will do for students that missed last session' (even name them in your plan?)
-* Plan for TA
-
-### Differentiation
-
-* [Computing in the curriculum: Challenges and strategies from a teacher’s perspective](https://link.springer.com/article/10.1007/s10639-016-9482-0) 2016 Sue Sentance and Andrew Csizmadia
-    * > The gap between those that engage and achieve very quickly grows at an alarming rate
-    * 2nd biggest teacher concern for teaching Computing - Differentiation - to meet different levels of ability
-        * 1st was own subject knowlege
-
-The gap between students can become huge very quickly ...
-
-* ITT CCF 5.4. 
-    * > Adaptive teaching is less likely to be valuable if it causes the teacher to artificially create distinct tasks for different groups of pupils or to set lower expectations for particular pupils.
-
-* [Mixed-attainment teaching: Careful steps towards better outcomes](https://impact.chartered.college/article/ehrlich_mixed-attainment-teaching-outcomes/) May 2018 Impact- Chartered College of Teaching
-    * > children working in groups with others working at the same level of attainment – has been found to have a number of negative impacts on pupils, yet teachers often cite it as necessary for differentiating and meeting targets (Francis et al., 2017)
-    * > As I feared, switching to mixed-attainment groupings initially proved to be a nightmare. Higher attainers dominated, lower attainers withdrew, arguments arose and little work seemed to get done.
-    * Group composition
-    * Student skills to develop
-        *  listening, sharing and respecting each other’s right to learn were all identified as being areas in need of work
-        * highlights specific children who might need extra help developing these skills. This can be done through individual discussions and interventions.
-        *  treat pupils fairly (don't let high attainers get away with bad behaviour)
-    * Lesson design
-        *  A lot of time was spent thinking about how to create lessons that were more open-ended and less teacher-centred, and which involved pupils having specific roles. Once this becomes the norm, it is no lengthier than designing three different tasks for your ‘tops, middles and bottoms’.
-        * Open-ended tasks are far more successful at challenging all levels when planned well. In redesigning learning tasks, by using targeted questions and designated roles and allowing pupils to select their own level of challenge
-        *  the introduction of meta-learning and empowering pupils to take control of their learning
-    * Impact on behaviour
-        * as well as stepping back from the learning, teachers can step back from behaviour management too. Perhaps partly because of reduced anxiety about performing in the ‘top’ group or being stuck in the bottom group, pupils who initially misbehaved in group work stopped doing so. Having pupils determine learning rules and uphold them among each other also developed far better behaviour throughout the class. This, combined with the focus on meta-learning and encouraging respect for each other as learners, provides opportunities for pupils to take more responsibility for their own learning and make a real contribution to the group
-* [EEF Project: Best Practice in Mixed Attainment Grouping](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/best-practice-in-mixed-attainment-grouping/)
-    * Mixed results
-
-My Tips
-* Set the problem - 'create a program to'
-* Model meta cognition commentary in solving the problem
-* Open ended tasks
-* Collaboration
-* Negociate
-* Indipendence
-* Dialog
-
-When talking to your whole class, think "Who do I need here now?" Is to too high level for some? is it too low level for others?
-
-
 ### Metrics (to assist your planning)
 
 * Free School Meals - FSM
@@ -291,6 +223,245 @@ TASK: (10min) Look at the EEF Teaching Assistant guidance - skimh it, know it ex
 * [Making Best Use of Teaching Assistants](https://educationendowmentfoundation.org.uk/tools/guidance-reports/making-best-use-of-teaching-assistants/)
 
 
+
+---
+
+
+
+Inclusion - Part 2
+==================
+
+Course Session Plan
+-------------------
+
+* AMA (Academically more able)
+* Differentiation: _inclusion_ vs _adaptation_ in Computing
+* Planning for inclusion - key strategies in Computing
+* Integrating inclusively
+    * Understand pupils’ differences
+    * Less effective if _artificially_ creating distinct tasks
+    * Pupils do not have distinct and identifiable learning styles
+* Responsive targeted support
+
+Later
+* Paired and group activities
+    * to work together effectively pupils need guidance, support and practice
+    * care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation
+
+
+
+Inclusion Concept: Vertical Tutoring?
+-------------------------------------
+
+* Experiments have been done in schools to break traditional year groups.
+* Form time includes small community's of students from all years.
+* Research shows that facilitating peer mentoring creates improvements
+    * [Peer tutoring](https://educationendowmentfoundation.org.uk/evidence-summaries/teaching-learning-toolkit/peer-tutoring/)
+        * cross-age tutoring, in which an older learner takes the tutoring role and is paired with a younger tutee or tutees;
+
+Story: SEN Inclusion case study
+I worked in a school where we vertical tutored
+* Special year 9 student and rewards trip problems with parents
+
+
+Academically More Able
+----------------------
+
+* [13-Year-Old, Nicholas Sharkey, Creates a RISC-V Core](https://riscv.org/blog/2020/11/13-year-old-nicholas-sharkey-creates-a-risc-v-core/)
+
+TASK: How would you identify them?
+
+Now form pairs and create a list of characteristics which you consider to exemplify those pupils who are considered able (in your subject?).
+Then discuss the characteristics that the document you have been provided with makes about ‘able pupils’. Do you agree or disagree with the list, are there ‘characteristics which have been included/excluded when considering your initial list?
+Now compare your findings with a second pair.
+
+‘provision of challenge’, ‘provision of difficulty’ and ‘provision of higher order learning
+
+
+> ‘Too many bright children let down in the state system’ Ofsted 2013
+
+> ‘The most able students report finds that too few schools set high enough expectations of what their brightest students can achieve’. Ofsted 2103
+
+### Webinar Summary - How to Support the More Able
+
+* [Webinar: How to Support All Learners Part 2: More Able](https://my.chartered.college/2020/11/webinar-how-to-support-all-learners-part-2-more-able/) Dr. Keith Watson
+    * supports Early Career Teachers in
+    * National Association for Able Children in Education [NACE](https://www.nace.co.uk/)
+        * Resources behind a paywall - no individual signup path
+        * [blog](https://www.nace.co.uk/page/blog)
+        * [NACE sample resources](https://www.nace.co.uk/page/resources-sample)
+            * [Getting started with more able](https://cdn.ymaws.com/www.nace.co.uk/resource/collection/7E47A043-4EAE-4DB6-B183-BE77054F6BEA/SAMPLE_NACE_Essentials_Getting_Started.pdf)
+    * _A lecture_ is the transfer of knowledge from the notepad of the lecturer to the notepad of the learner without engaging the brain
+    * Get to know them - tap into their interests
+    * How hard did they think - ask them 'scale of 1 to 10'
+    * teddy 16cm,19cm,12cm how many would fit in classroom? How many golf balls in brazil?
+    * How are you making them think?
+    * > Standard 1: Set Goals that stretch and challenge pupils of all background, abilities and dispositions
+    * 15% of highly able pupils who score in 10% nationally at age 11 fail to achieve in the top 25% at GCSE (Ofsted 2018)
+    * Language _gifted_, _talented_, _skilled_, _clever_ (hidden meaning) - what is the policy in your school?
+        * 10% of cohort?
+        * gifted 0.5%
+    * Cant rely on test scores - motivation, concentration
+        * [Identifying more able learners: beyond the numbers](https://www.nace.co.uk/blogpost/1764163/327555/Identifying-more-able-learners-beyond-the-numbers)
+    * Careful with labels (smart/gifted/talented)
+        * More able are not used to failure - an emotional problem for many more able children
+        * A label gives pressure to student?
+    * Is it good to be clever? (social stigma)
+    * Get them to Link things (mind map, )
+    * Verbal and your dialogue - is powerful and immediate - written is not timely and seldom interpreted correctly
+        * Is this in your lesson plan?
+    * > Structured tinkering
+    * I-PENCIL Keith Watson 2006 (can't find reference to this)
+        * Independent
+        * Plenary
+        * Extended - You cant write Charles Dickens in 20min
+            * Time? Independence?
+        * Negotiated
+            * Learners are part of the planning process
+        * Cutaway
+            * Brief, cutaway, lap to check, pullback+review/input, cutaway,
+            * small interventions
+        * Idiosyncratic
+            * How well do you know them?
+        * Listen
+            * Dialogue about learning
+    * When talking to the whole class - "Who do I need here now"
+    * "Why is this important?" "What makes you think that?"
+    * Signpost + encourage - point them in the right direction
+        * External communities (BarCamp?)
+        * Older pupils?
+        * You a planting seeds
+    * Describe
+        * only allowed 10 words
+        * only use shapes
+    * Learning Theory is good, but don't become overly mechanical
+    * "We have to worry about semi colons, but I want to write from the heart" year 10 pupil
+    * If you were a font, which would you be?
+    * When I teach you, what is it that I do that helps you?
+    * Don't have your more able supporting the others a disproportionate amount of time
+    * Be careful of _public praise_
+        * creates a social divide
+        * create dependency on praise
+    * Collaboratively create a wall display?
+    * Some students are hyper focused on one very narrow area
+        * Keep signposting and gently encouraging outside of that area
+
+
+Differentiation
+---------------
+
+* [Computing in the curriculum: Challenges and strategies from a teacher’s perspective](https://link.springer.com/article/10.1007/s10639-016-9482-0) 2016 Sue Sentance and Andrew Csizmadia
+    * > The gap between those that engage and achieve very quickly grows at an alarming rate
+    * 2nd biggest teacher concern for teaching Computing - Differentiation - to meet different levels of ability
+        * 1st was own subject knowledge
+
+The gap between students can become huge very quickly ...
+
+* ITT CCF 5.4. 
+    * > Adaptive teaching is less likely to be valuable if it causes the teacher to artificially create distinct tasks for different groups of pupils or to set lower expectations for particular pupils.
+
+### Mixed ability grouping
+
+* [Mixed-attainment teaching: Careful steps towards better outcomes](https://impact.chartered.college/article/ehrlich_mixed-attainment-teaching-outcomes/) May 2018 Impact- Chartered College of Teaching
+    * > children working in groups with others working at the same level of attainment – has been found to have a number of negative impacts on pupils, yet teachers often cite it as necessary for differentiating and meeting targets (Francis et al., 2017)
+    * > As I feared, switching to mixed-attainment groupings initially proved to be a nightmare. Higher attainers dominated, lower attainers withdrew, arguments arose and little work seemed to get done.
+    * Group composition
+    * Student skills to develop
+        * listening, sharing and respecting each other’s right to learn were all identified as being areas in need of work
+        * highlights specific children who might need extra help developing these skills. This can be done through individual discussions and interventions.
+        * treat pupils fairly (don't let high attainers get away with bad behaviour)
+    * Lesson design
+        * A lot of time was spent thinking about how to create lessons that were more open-ended and less teacher-centred, and which involved pupils having specific roles. Once this becomes the norm, it is no lengthier than designing three different tasks for your ‘tops, middles and bottoms’.
+        * Open-ended tasks are far more successful at challenging all levels when planned well. In redesigning learning tasks, by using targeted questions and designated roles and allowing pupils to select their own level of challenge
+        * the introduction of meta-learning and empowering pupils to take control of their learning
+    * Impact on behaviour
+        * as well as stepping back from the learning, teachers can step back from behaviour management too. Perhaps partly because of reduced anxiety about performing in the ‘top’ group or being stuck in the bottom group, pupils who initially misbehaved in group work stopped doing so. Having pupils determine learning rules and uphold them among each other also developed far better behaviour throughout the class. This, combined with the focus on meta-learning and encouraging respect for each other as learners, provides opportunities for pupils to take more responsibility for their own learning and make a real contribution to the group
+* [EEF Project: Best Practice in Mixed Attainment Grouping](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/best-practice-in-mixed-attainment-grouping/)
+    * Mixed results
+
+### Expertise Reversal Effect
+
+* Too much support for weaker learners can harm the most able
+    * [Expertise Reversal Effect and its Instructional Implications](https://impact.chartered.college/article/expertise-reversal-effect-instructional-implications/)
+        * > ... a technique that reduces working memory load for low-knowledge learners (e.g. by providing strong instructional support) might lose its effectiveness and may even bring negative consequences for more knowledgeable learners; they may learn better in an environment with minimal guidance. This is known as the expertise reversal effect ...
+        * > ... implication of the effect is the need to develop an adaptive learning environment in which learning materials are tailored in accordance with learners’ current levels of achievement ...
+
+### MOOC's
+
+* [Independent Digital Learning: paradoxes, problems and potential in classroom practice](https://impact.chartered.college/article/independent-digital-learning-paradoxes-problems-potential-classroom-practice/) Impact Jan 2019
+    * cMOOC
+        * instructor as an active co-learner
+        * we link movies
+        * learning design
+        * self assessment
+    * xMOOC
+        * instructor as a sage
+        * we watch movies
+        * instructional design
+        * external/peer assessment
+    * conclusion
+        * discrete MOOCs to supplement the curriculum can encourage students to independently engage with ‘deep learning’. 
+        * teacher-created, discrete, topic-based courses that can be managed over a couple of weeks. The more focused their objectives, the more effective classroom mini-MOOCs
+        * Significant development time and experimentation, alongside exposure to a variety of MOOCs, is essential for professional development in this field
+            * The labour investment has significant long-term returns in student productivity
+
+* [Mr Johnson Computing](https://www.mrjohnsoncomputing.co.uk/) - Kent based (Did SchoolDirect at CCCU in 2018/2019)
+    * Created his own web based resources - students access them across many lessons
+        * [LearnPython repl.it](https://repl.it/@MrJohnsonCS/learnpython#README.md)
+
+### Cooperative and Problem-Based Learning
+
+* [Strengths and weaknesses of cooperative and problem-based learning](https://my.chartered.college/2019/10/strengths-and-weaknesses-of-cooperative-and-problem-based-learning/) Chartered College of Teaching - Research Digest 2019
+    * Cooperative Learning (CL) and Problem-Based Learning (PBL)
+    * Strengths
+        * Increases responsibility over their learning. Self-directed learning skills, Self-confidence and motivation.
+        * Active participants in their learning, sharing and exchanging ideas
+        * Increased positive attitude. Feels easier for them to learn.
+    * Weakness
+        * Much more time to be implemented properly
+        * Difficult to manage
+        * Difficult to choose balanced groups that work well together
+        * Confusing for some students - as they are unclear as to what is being asked of them
+
+### TASK
+
+#### Part 1
+
+* Demo Microbit rock-paper-scissors game
+
+
+
+
+My Tips
+* Set the problem - 'create a program to'
+* Model meta cognition commentary in solving the problem
+* Open ended tasks
+* Collaboration
+* Negotiate
+* Independence
+* Dialogue
+
+When talking to your whole class, think "Who do I need here now?" Is to too high level for some? is it too low level for others?
+
+
+
+
+Lesson Planning
+---------------
+
+* Every lesson I relay to students
+    * All - of you will
+    * Most - of you should
+    * Some - of you could
+    * (How will you as a teacher know this? you should make a note of % for each of these categories - maybe even some names)
+* Reality
+    * Plan for 10% absence from every session
+    * Explicitly describe in your lesson plan 'What you will do for students that missed last session' (even name them in your plan?)
+* Plan for TA
+
+
+
+
 Disadvantaged Students
 ----------------------
 
@@ -336,20 +507,6 @@ You tell me
 #### (Optional) - Digging deeper
 
 * [Poverty & deprivation statistics: What are the local/devolved administration/UK needs?](https://www.youtube.com/watch?v=ghAsIk4-AiU) Royal Statistics Society (1 hour video)
-
-### Digital poverty
-
-The poorest low ability children will be hardest hit by Covid.
-How do we consider _inclusion_ for remote teaching?
-
-Task: (10min) What is the cheapest possible general purpose computer you could recommend to a student?
-Ideas + Links on the Google Doc
-
-Even if they have a machine - what about internet connectivity?
-
-* points of mine
-    * [eBay removing listed for Raspberry Pi](https://twitter.com/lbhq/status/1323482627681198080) because they COULD be used as a computer
-    * Raspberry Pi - £150?
 
 
 Behaviour and SEN
@@ -408,108 +565,14 @@ ama
 
 Academically More able
 
-[13-Year-Old, Nicholas Sharkey, Creates a RISC-V Core](https://riscv.org/blog/2020/11/13-year-old-nicholas-sharkey-creates-a-risc-v-core/)
 
 
-* [Webinar: How to Support All Learners Part 2: More Able](https://my.chartered.college/2020/11/webinar-how-to-support-all-learners-part-2-more-able/) Dr. Keith Watson
-    * supports Early Career Teachers in
-    * National Association for Able Children in Education [NACE](https://www.nace.co.uk/)
-        * Resources behind a paywall - no individual signup path
-        * [blog](https://www.nace.co.uk/page/blog)
-        * [NACE sample resources](https://www.nace.co.uk/page/resources-sample)
-            * [Getting started with more able](https://cdn.ymaws.com/www.nace.co.uk/resource/collection/7E47A043-4EAE-4DB6-B183-BE77054F6BEA/SAMPLE_NACE_Essentials_Getting_Started.pdf)
-    * _A lecture_ is the transfer of knowledge from the notepad of the lecturer to the notepad of the learner without engaging the brain
-    * Get to know them - tap into their interests
-    * How hard did they think - ask them 'scale of 1 to 10'
-    * teddy 16cm,19cm,12cm how many would fit in classroom? How many golf balls in brazil?
-    * How are you making them think?
-    * > Standard 1: Set Goals that strech and challenge pupils of all background, abilities and dispositions
-    * 15% of highly able pupils who score in 10% nationally at age 11 fail to achieve in the top 25% at GCSE (Ofsted 2018)
-    * Language _gifted_, _talented_, _skilled_, _clever_ (hidden meaning) - what is the policy in your school?
-        * 10% of cohort?
-        * gifted 0.5%
-    * Cant rely on test scores - motivation, concentraiton
-        * [Identifying more able learners: beyond the numbers](https://www.nace.co.uk/blogpost/1764163/327555/Identifying-more-able-learners-beyond-the-numbers)
-    * Careful with labels
-        * More able are not used to failure - a problem for many more able
-        * Label gives pressure to student?
-    * Is it good to be clever? (social stigma)
-    * Get them to Link things (mind map, )
-    * Verbal and your dialogue - is powerful and immediate - written is not timely and seldom interpreted correctly
-        * Is this in your lesson plan?
-    * > Structured tinkering
-    * I-PENCIL Watson K 2006
-        * Independent
-        * Plenary
-        * Extended - You cant write Charles Dickens in 20min
-            * Time? Independence?
-        * Negotiated
-            * Learners are part of the planning process
-        * Cutaway
-            * Breif, cutaway, lap to check, pullback+review/input, cutaway,
-            * small interventions
-        * Idiosyncratic
-            * How well do you know them?
-        * Listen
-            * Dialogue about learning
-    * When talking to the whole class "who do I need here now"
-    * "Why is this important?" "What makes you think that?"
-    * Signpost + encourage - point them in the right direction
-        * Older pupils?
-        * You a planting seeds
-    * Describe
-        * only allowed 10 words
-        * only use shapes
-    * Learning Theory is good, but don;t become overly mechanical
-    * "We have to worry about semi colos, but I want to write from the heart" year 10 pupil
-    * If you were a font, which would you be?
-    * When I teach you, what is it that I do that helps you?
-    * Don't have your more able supporting the others a disproportionate amount of time
-    * Be careful of _public praise_
-        * creates a social divide
-        * create dependency on praise
-    * Collaboratively create a wall display?
-    * Some students are hyper focused on one very narrow area.
-        * Keep signposting and gently encouraging
+
 
 My quote
-"I don't care about the shiny laptop. In 3 years time it's going to be scrap. I care about what you can do with it"
+"I don't care about your shiny new laptop; I care about what you can do with it"
 
 > You're entitled to your opinions, but not your facts
-
-* Too much support for weaker learners can harm the most able
-    * [Expertise Reversal Effect and its Instructional Implications](https://impact.chartered.college/article/expertise-reversal-effect-instructional-implications/)
-        * > ... a technique that reduces working memory load for low-knowledge learners (e.g. by providing strong instructional support) might lose its effectiveness and may even bring negative consequences for more knowledgeable learners; they may learn better in an environment with minimal guidance. This is known as the expertise reversal effect ...
-        * > ... implication of the effect is the need to develop an adaptive learning environment in which learning materials are tailored in accordance with learners’ current levels of achievement ...
-
-* [Independent Digital Learning: paradoxes, problems and potential in classroom practice](https://impact.chartered.college/article/independent-digital-learning-paradoxes-problems-potential-classroom-practice/) Impact Jan 2019
-    * cMOOC
-        * instructor as an active co-learner
-        * we link movies
-        * learning design
-        * self assessment
-    * xMOOC
-        * instructor as a sage
-        * we watch movies
-        * instructional design
-        * external/peer assessment
-    * conclusion
-        * discrete MOOCs to supplement the curriculum can encourage students to independently engage with ‘deep learning’. 
-        * teacher-created, discrete, topic-based courses that can be managed over a couple of weeks. The more focused their objectives, the more effective classroom mini-MOOCs
-        * Significant development time and experimentation, alongside exposure to a variety of MOOCs, is essential for professional development in this field
-            * The labour investment has significant long-term returns in student productivity and,
-
-* [Strengths and weaknesses of cooperative and problem-based learning](https://my.chartered.college/2019/10/strengths-and-weaknesses-of-cooperative-and-problem-based-learning/) Chartered College of Teaching - Research Digest 2019
-    * cooperative learning (CL) and problem-based learning (PBL)
-    * Strengths
-        * Increases responsibility over their learning. Self-directed learning skills, Self-confidence and motivation.
-        * Active participants in their learning, sharing and exchanging ideas
-        * Increased positive attitude. Feels easier for them to learn.
-    * Weakness
-        * Much more time to be implemented properly
-        * Difficult to manage
-        * Difficult to choose balanced groups that work well together
-        * Confusing for some students - as they are unclear as to what is being asked of them
 
 
 Webinar notes - supporting learners with SEND
