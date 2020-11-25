@@ -47,6 +47,8 @@ Teaching Resources
 * [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA) 10min video
     * [flicker](https://www.flickr.com/photos/95869671@N08/36231833334/)
 
+* [Class Central](https://www.classcentral.com/)
+    * [Computer Science](https://www.classcentral.com/subject/cs)
 * [Brilliant](https://brilliant.org/)
     * [Computer Science Essentials](https://brilliant.org/courses/computer-science-essentials/)
         * [python introduction](https://brilliant.org/courses/programming-python/#chapter-introduction-28)

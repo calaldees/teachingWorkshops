@@ -99,6 +99,7 @@ Look at this code and comment on anything that you can identify.
 
 Computing in Education
 ----------------------
+
 * Tell me about the current Computing syllabus in schools
     * What books/articles/blogs/videos have you encountered about teaching Computing?
 * What do you think young people will find the most challenging aspect of learning computing
@@ -112,12 +113,13 @@ Computing in Education
 PGCE
 ----
 
-* Why did you choose the PGCE over School Direct
+* What will make you a good teacher?
+* Why did you choose the PGCE over School Direct?
 * Describe a time when you had to learn a new technology. Why did you learn it? How did you approach it?
 * What would you do if you were concerned about a colleague's behaviour towards children?
 * What policies are important to support a safe school environment?
 * Provide examples of times when workload and numerous tasks have been managed concurrently
-* You have prepared an amazing lesson with guidence from theory and the university. You present the lesson plan to your mentor who is no convinced and does not want you to run the lesson. How do you respond?
+* You have prepared an amazing lesson with guidance from theory and the university. You present the lesson plan to your mentor who is no convinced and does not want you to run the lesson. How do you respond?
 * Can you give an example of where you changed your opinion
 
 Interview Criteria

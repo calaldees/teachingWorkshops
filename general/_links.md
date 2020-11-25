@@ -10,3 +10,6 @@
 * [How to (seriously) read a scientific paper](https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper) - Advice
 
 * [How Millennials Became The Burnout Generation](https://www.buzzfeednews.com/article/annehelenpetersen/millennials-burnout-generation-debt-work)
+
+* [Every thought about giving and taking advice I’ve ever had, as concisely as possible](https://guzey.com/advice/)
+    * TODO - READ!

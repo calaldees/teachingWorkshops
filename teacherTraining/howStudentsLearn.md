@@ -426,3 +426,7 @@ https://www.5minutelessonplan.co.uk/
 * [Learning theories Poster](http://blog.richardmillwood.net/2013/05/10/learning-theory/) Big names in learning theory and their ideas
 
 * [We Learn Faster When We Aren’t Told What Choices to Make](https://www.scientificamerican.com/article/we-learn-faster-when-we-arent-told-what-choices-to-make/)
+
+
+* [On Learning Chess as an Adult – From 650 to 1750 in Two Years](https://jacobbrazeal.wordpress.com/2020/11/16/on-learning-chess-as-an-adult-from-650-to-1750-in-two-years/)
+    * Learning measured in adulthood - chess every day for 2+ years - mapped

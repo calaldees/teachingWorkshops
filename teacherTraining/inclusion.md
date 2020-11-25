@@ -277,6 +277,8 @@ Now compare your findings with a second pair.
 
 ‘provision of challenge’, ‘provision of difficulty’ and ‘provision of higher order learning
 
+* [Identifying more able learners: beyond the numbers](https://www.nace.co.uk/blogpost/1764163/327555/Identifying-more-able-learners-beyond-the-numbers)
+
 
 > ‘Too many bright children let down in the state system’ Ofsted 2013
 
@@ -405,6 +407,7 @@ The gap between students can become huge very quickly ...
         * Significant development time and experimentation, alongside exposure to a variety of MOOCs, is essential for professional development in this field
             * The labour investment has significant long-term returns in student productivity
 
+TASK: Investigate a Kent teachers online resources
 * [Mr Johnson Computing](https://www.mrjohnsoncomputing.co.uk/) - Kent based (Did SchoolDirect at CCCU in 2018/2019)
     * Created his own web based resources - students access them across many lessons
         * [LearnPython repl.it](https://repl.it/@MrJohnsonCS/learnpython#README.md)
@@ -425,11 +428,45 @@ The gap between students can become huge very quickly ...
 
 ### TASK
 
-#### Part 1
+#### Part 1 - A 1 Dimensional task (1 hour)
 
-* Demo Microbit rock-paper-scissors game
+* (tutor lead) Demo Microbit rock-paper-scissors game (10min)
+* (individual) Explore the  Code (15min)
+    * Run it yourself. What is it doing? How does it work?
+* Imagine you need to deliver this project as a directed task to a KS3 class
+* (individual) How would you 'differentiate' this project for a mixed group? (15min)
+    * What support/scaffolds/resources/tasks would need to prepare for the weaker students?
+    * What support/scaffolds/resources/tasks would need to prepare for the advanced students?
+    * Would students work as individuals? Would you group students? How would they work in a group?
+* (breakout groups) In your breakout groups discuss your possible ideas (15 min)
+
+#### Part 2 - Next step? (15min)
+
+The previous directed task serves as a skill foundation.
+The real project would be the next step.
+
+* (breakout groups) (15 min)
+    * How would you construct a task to follow-on the rock-paper-scissors project?
+    * What would the task be?
+    * How would you motivate all learners to engage with the topic?
+    * How would you support the weaker and more advanced students? (Inclusion is the important bit!!!!)
+* Your group should write their notes in the Google doc
+
+#### Part 3
+
+(I will unveil my own hypothetical concept suggestions)
 
 
+My examples
+* Excel - roleplay project
+    * Every student has a different _spec_ core rulebook
+    * Character sheet generation
+        * VLOOKUP, RAND, form controls, MAX. MIN, absolute cell references
+        * Level - stats - skills - spells
+        * Roll assist
+    * Printed output
+    * GM Roll assist
+    * (Module was never run because "what would the girls do?" - president of AGS was angry)
 
 
 My Tips
@@ -445,6 +482,71 @@ When talking to your whole class, think "Who do I need here now?" Is to too high
 
 
 
+
+* [How to Think Inclusively About Computer Science Initiatives](https://www.thinkinclusive.us/computer-science-initiatives/)
+    * > differentiation is not about long nights of planning and grading, but about being flexible and making decisions in the moment based on what your students need
+    * > it (computing) should not be mandatory
+    * [Differentiating Instruction: It’s Not as Hard as You Think](https://www.youtube.com/watch?v=h7-D3gi2lL8) (4min30sec)
+        * Differentiate in 3 areas - Carol Tomlinson
+            * content
+                * student choose research title or essay prompts
+                * the goal is the learning objectives - not the task
+            * process
+                * group students
+                * different environment? (sit on a desk?)
+            * product
+                * doodling? make it about the topic
+        * No extra time required
+        * Requires relationship with students
+        * Flexible thinking
+        * Strong class culture
+
+
+
+---
+
+### Escape room idea
+
+* Demo the concept of an escape room.
+    * Show videos? Bring in equipment? Bring in a guest speaker? Enthuse them.
+* Introduce project
+    * Individually or in pairs
+        * Design and create the code for an escape room puzzle that uses a microbit
+            * When a code is entered - unlock a box
+            * When a door is opened trigger something
+            * Might be a scrambled message on paper that if they match the symbols on paper to the microbit they can decode the message
+            * (The goal is not to actually build it thematically visibly, you may create the electronics physically)
+        * Consider partnering with 2 other groups to create a theme
+            * Haunted house
+            * Derelict spaceship
+            * Egyptian tomb
+    * Assessment criteria
+        * use of external input
+            * buttons sensor
+            * relay/magnet
+        * use of external output
+            * speaker
+            * motor
+            * magnetic latch
+            * led
+        * use of radio communication
+            * describe the protocol
+        * use of a loop
+        * use of storage
+            * array?
+        * use blocks
+        * use code
+            * code only features
+        * marks for puzzle concept
+    * Assessment could be
+        * Video of a them describing to other/students how it works
+        * A post describing how it works
+        * Annotated code with comments mapped to assessment criteria
+    * Demo at open evening?
+        
+
+
+---
 
 Lesson Planning
 ---------------
@@ -494,6 +596,14 @@ You tell me
         * achievement (e.g. individual and small group tuition, personalised homework support and online learning packages) 
         * independence (e.g. weekly work experience opportunities for individuals)
 
+* [Pupil Premium](https://www.gov.uk/government/publications/pupil-premium/pupil-premium)
+    * Publicly-funded schools in England get extra funding from the government to help them improve the attainment of their disadvantaged pupils.
+    * Evidence shows that children from disadvantaged backgrounds:
+        * generally face extra challenges in reaching their potential at school
+        * often do not perform as well as their peers
+    * The pupil premium grant is designed to allow schools to help disadvantaged pupils by improving their progress and the exam results they achieve.
+    * Schools get ... £935 for every secondary age pupil, who claims free school meals, or who has claimed free school meals in the last 6 years.
+    * Schools get £2,300 for every pupil who has left local authority care through adoption
 
 ### Metrics of disadvantage?
 
@@ -553,20 +663,21 @@ Concluding Task
 * Create a list of action points for areas of personal development
     * Take this list with you to your new placement school
 
+---
 
 Unsorted
 ========
 
 Daughter autism (18 when finally diagnosed) (under diagnosed in girls, they mask the traditional male symptoms) had never been invited to a birthday party
 
+* [Curriculum Adaption for Inclusive classrooms](https://files.eric.ed.gov/fulltext/ED358637.pdf) Tom Neary 1992
+
+
 
 ama
 ---
 
 Academically More able
-
-
-
 
 
 My quote
@@ -623,15 +734,11 @@ Suicide - self harm
 
 Covid - poorest most affected
 
-
-
-
-
 My PE Teacher - run times - small, slow, poor cordination (throw/catch) - handwriting illegable/unmarkable , spelling non existent
 
 
 
-Most children do not fit into neatley into a category
+Most children do not fit into neatly into a category
 I take them as a guide, but focus on children as individuals
 
 * [What Can the US Learn From France When it Comes to ADHD?](https://www.parent.com/what-can-the-us-learn-from-france-when-it-comes-to-adhd/)
@@ -652,9 +759,7 @@ David Andrews
 
 
 
-* [How to Think Inclusively About Computer Science Initiatives](https://www.thinkinclusive.us/computer-science-initiatives/)
-    * > differentiation is not about long nights of planning and grading, but about being flexible and making decisions in the moment based on what your students need
-    * > it (computing) should not be mandatory
+
 
 
 Appendix

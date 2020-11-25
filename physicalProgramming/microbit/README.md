@@ -2,10 +2,10 @@ Microbit
 ========
 
 * Strengths
-    * Blocks like scratch
-        * +typescript
-        * +micropython
-        * +swtich between them
+    * Multiple Languages (+trivially switch between them)
+        * Blocks (like Scratch)
+        * Typescript/Javascript
+        * Micro Python
     * Simulator is free and accessible in browser (including simulated mutliple devices for radio)
         * Upload via USB
     * Simulator + editor available for mobile phones (blocks)
@@ -49,6 +49,7 @@ Build an escape room idea
         * [BBC microbit Lessons for Micro Python](http://physicalcomputing.co.uk/2017/01/11/bbc-microbit-lessons/)
         * [BBC micro:bit MicroPython documentation](https://microbit-micropython.readthedocs.io/en/latest/index.html)
         * [nominetresearch Lessons](https://microbit.nominetresearch.uk/)
+            * [Handling Errors: Retransmissions](https://microbit.nominetresearch.uk/networking-book-online/retransmissions/retransmissions/)
         * [mytechnotalent/Python-For-Kids](https://github.com/mytechnotalent/Python-For-Kids) A comprehensive Python Development tutorial FOR KIDS utilizing a micro:bit Development Board going step-by-step into the world of Python for Microcontrollers
 * [microbit2](https://tech.microbit.org/latest-revision/announcement/)
     * gesture reconition

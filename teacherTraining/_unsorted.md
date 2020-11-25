@@ -30,6 +30,11 @@ Reading
 •	Jones, M. (2015) Developing a Computer Science in England: Exploring Approaches in the USA (WCMT: https://tinyurl.com/jsvu45g)
 
 
+Research
+--------
+
+* [OfS - Learning gain - Independent Research - 2015](https://www.officeforstudents.org.uk/advice-and-guidance/teaching/learning-gain/research-into-learning-gain/)
+
 
 Blog
 ----
