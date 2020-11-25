@@ -46,14 +46,15 @@ Every wrong answer unveils a perceived misconception
 
 * Part 1 (4 min)
     * (This is going to be REALLY hard)
-    * Construct a diagnostic question for your specialist domain
+    * Construct a diagnostic question for your specialist domain:
         * One correct answer
         * One incorrect answers (that unveils a misconception)
         * (add additional incorrect answers if you have time)
     * Type your question + possible answers into the chat
 * Part 2 (4min)
-    * As a group we will try to answer some questions 
-    * You can inform us of the misconception
+    * As a group we will try to answer your question
+        * We are not specialists, so we may struggle
+    * You can describe to us the misconceptions you targeted
 
 ### Going further
 
