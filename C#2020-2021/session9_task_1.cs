@@ -75,7 +75,7 @@ public class Task {
         if (Array.IndexOf(monthsWith5Weeks, month) >= 0) {
             weeksInMonth = 5;
         }
-        if (Array.IndexOf(monthsWith5Weeks, month) >= 0) {
+        if (Array.IndexOf(monthsWith4Weeks, month) >= 0) {
             weeksInMonth = 4;
         }
 
