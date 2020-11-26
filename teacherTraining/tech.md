@@ -1,10 +1,14 @@
 Technologies for Teaching Computing
 ===================================
 
+ITT CCF
+* > 2.2 Secure subject knowledge helps teachers to motivate pupils and teach effectively
+
+
 Async Tasks
 -----------
 
-### Task 1 - Microbit (1 hour)
+### Task 1 - Microbit (30mins to 1hour)
 
 There are a range of small computer boards that are programmable with c/python/etc that can attach to LEDs/Motors/Sensors.
 These educational tools take code off the desktop screen and into the physical world.
@@ -25,7 +29,19 @@ Investigate
     * Make a program that when you tilt the device it sends a number via radio to another virtual microbit and displays that number
 * Consider possible activities/use in the classroom to be discussed with group
 
-### Task 2 - Virtualisation (1 hour)
+### Task 2 - TinkerCAD (30mins to 1hour)
+
+* [TinkerCAD](https://www.tinkercad.com/)
+    * Signup
+    * Look at Starter, Lessons, [Projects](https://www.tinkercad.com/learn/circuits/projects)
+        * Try `Blink an LED With Digital Output` Project
+    * (Without tutorial notes)
+        * From the TinkerCAD dashboard - select [Circuits](https://www.tinkercad.com/dashboard?type=circuits&collection=designs) -> Create new circuits
+        * Click on `components` -> `Arduino` -> (get a simple template like `blink` or `button`) -> Click `code` -> Switch mode from `blocks` to `text` -> Click `start simulation`
+    * Explore?
+* Consider possible activities/use in the classroom to be discussed with group
+
+### Task 3 - Virtualisation (30min to 1hour)
 
 School computers are often managed machines. Students are unable to install new tools. 
 This makes computing teaching problematic as you constantly need to experiment with a range of tools.
@@ -141,8 +157,8 @@ more [microbot](../physicalProgramming/microbit/README.md)
 * Block + Python + Javascript
     * Differentiation + Progression
 
-TASK 10min
-* From async tasks - possible project ideas?
+TASK 10min?
+* From your async task exploration - possible project ideas?
 
 
 #### Arduino - Adafruit Circuit playground
@@ -152,6 +168,17 @@ more [arduino](../physicalProgramming/arduino/README.md)
 * Physical device needed - whole class set required
 * Good introduction to `C`
 
+#### TinkerCAD
+
+* [TinkerCAD](https://www.tinkercad.com/)
+    * Breadboards and circuit design. Combine code and electronics
+    * `C` in the browser. Blocks for beginners
+    * Suitable for whole class teaching
+    * Surprisingly high skill ceiling! Used at universities for teaching electronic design
+
+TASK 10min?
+* From your async task exploration - possible project ideas?
+
 
 ### Raspberry Pi
 
@@ -159,7 +186,8 @@ Extra curricular - not really suitable to full class teaching
 
 * Need access to keyboard, mouse, monitor, power
     * Some schools have 'all in one' machines so screens can't be reused used
-        * USB ports (for keyboard/mouse) may not be accessible for school machines
+    * USB ports (for keyboard/mouse) may not be accessible for school machines
+    * Frequent use of USB ports can damage with ports (kids are fairly heavy handed)
 
 * Network use in a school
     * MAC address's of devices may be blocked or applied to quarantined network
@@ -185,8 +213,8 @@ Machine Virtualisation
     * VirtualBox
     * HyperV (Built in to Windows 10 Pro)
 
-* `vt-x` hardware virtulisation extensions (REALLY important)
-    * May need to be enabled in bios
+* `vt-x` hardware virtualisation extensions (REALLY important)
+    * May need to be enabled in BIOS
 
 * Virtual linux
     * You can manage the virtual hard disk image
@@ -212,11 +240,11 @@ Ideas + Links on the Google Doc
 Even if they have a machine - what about internet connectivity?
 
 ### New
-* Raspberry Pi 4 (4GB) £50 + Power/Heatsink/Keyboard/Mouse/Storage £25 - [Screen](https://www.amazon.co.uk/AOC-e2270Swdn-Widescreen-Monitor-1920x1080/dp/B016UPDUBO/) [2](https://www.amazon.co.uk/Lenovo-ThinkVision-T2054p-19-5-Monitor/dp/B08JCRC87W/) £60 = Total £140?
+* Raspberry Pi 4 (4GB) £50 + Power/Heatsink/Keyboard/Mouse/Storage £25 - [Screen](https://www.amazon.co.uk/AOC-e2270Swdn-Widescreen-Monitor-1920x1080/dp/B016UPDUBO/) [2](https://www.amazon.co.uk/Lenovo-ThinkVision-T2054p-19-5-Monitor/dp/B08JCRC87W/) £60 = Total £135?
     * PS3 EyeToy Camera (£5)
     * Modular (Upgradable / Replaceable)
     * Almost Indestructible
-    * Not (as) portable
+    * Not (as) portable as a laptop
 * 13inc laptop - £170? (with webcam)
     * Builtin wireless, speakers, webcam
     * Portable - Can move to a quiet room to code - can take their dev environment with them

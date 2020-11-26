@@ -242,12 +242,9 @@ Course Session Plan
     * Less effective if _artificially_ creating distinct tasks
     * Pupils do not have distinct and identifiable learning styles
 * Responsive targeted support
-
-Later
 * Paired and group activities
     * to work together effectively pupils need guidance, support and practice
     * care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation
-
 
 
 Inclusion Concept: Vertical Tutoring?
@@ -259,30 +256,27 @@ Inclusion Concept: Vertical Tutoring?
     * [Peer tutoring](https://educationendowmentfoundation.org.uk/evidence-summaries/teaching-learning-toolkit/peer-tutoring/)
         * cross-age tutoring, in which an older learner takes the tutoring role and is paired with a younger tutee or tutees;
 
-Story: SEN Inclusion case study
-I worked in a school where we vertical tutored
-* Special year 9 student and rewards trip problems with parents
+TASK: (15min total)
+* Put a table with 2 columns in the google doc
+    * possible benefits of vertical tutoring
+    * possible problems with vertical tutoring
+* (Conduct your own discussion without tutor support)
 
 
 Academically More Able
 ----------------------
 
 * [13-Year-Old, Nicholas Sharkey, Creates a RISC-V Core](https://riscv.org/blog/2020/11/13-year-old-nicholas-sharkey-creates-a-risc-v-core/)
+* > ‘Too many bright children let down in the state system’ Ofsted 2013
+* > ‘The most able students report finds that too few schools set high enough expectations of what their brightest students can achieve’. Ofsted 2103
 
-TASK: How would you identify them?
+TASK: 15min
+* In google doc
+* List of characteristics which you consider to exemplify those pupils who are considered able in Computing
+* Some ideas to kickstart your thinking
+    * [Identifying more able learners: beyond the numbers](https://www.nace.co.uk/blogpost/1764163/327555/Identifying-more-able-learners-beyond-the-numbers) NACE 2019
+    * [Traits of Giftedness](https://www.nagc.org/resources-publications/resources/my-child-gifted/common-characteristics-gifted-individuals/traits) Clark, B. (2008). Growing up gifted
 
-Now form pairs and create a list of characteristics which you consider to exemplify those pupils who are considered able (in your subject?).
-Then discuss the characteristics that the document you have been provided with makes about ‘able pupils’. Do you agree or disagree with the list, are there ‘characteristics which have been included/excluded when considering your initial list?
-Now compare your findings with a second pair.
-
-‘provision of challenge’, ‘provision of difficulty’ and ‘provision of higher order learning
-
-* [Identifying more able learners: beyond the numbers](https://www.nace.co.uk/blogpost/1764163/327555/Identifying-more-able-learners-beyond-the-numbers)
-
-
-> ‘Too many bright children let down in the state system’ Ofsted 2013
-
-> ‘The most able students report finds that too few schools set high enough expectations of what their brightest students can achieve’. Ofsted 2103
 
 ### Webinar Summary - How to Support the More Able
 
@@ -344,7 +338,7 @@ Now compare your findings with a second pair.
     * Be careful of _public praise_
         * creates a social divide
         * create dependency on praise
-    * Collaboratively create a wall display?
+    * Collaboratively create a wall display to conveys the class work this term?
     * Some students are hyper focused on one very narrow area
         * Keep signposting and gently encouraging outside of that area
 
@@ -359,8 +353,9 @@ Differentiation
 
 The gap between students can become huge very quickly ...
 
-* ITT CCF 5.4. 
-    * > Adaptive teaching is less likely to be valuable if it causes the teacher to artificially create distinct tasks for different groups of pupils or to set lower expectations for particular pupils.
+ITT CCF 
+* > 4.10 How pupils are grouped is also important; care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation
+* > 5.4 Adaptive teaching is less likely to be valuable if it causes the teacher to artificially create distinct tasks for different groups of pupils or to set lower expectations for particular pupils.
 
 ### Mixed ability grouping
 
@@ -379,7 +374,7 @@ The gap between students can become huge very quickly ...
     * Impact on behaviour
         * as well as stepping back from the learning, teachers can step back from behaviour management too. Perhaps partly because of reduced anxiety about performing in the ‘top’ group or being stuck in the bottom group, pupils who initially misbehaved in group work stopped doing so. Having pupils determine learning rules and uphold them among each other also developed far better behaviour throughout the class. This, combined with the focus on meta-learning and encouraging respect for each other as learners, provides opportunities for pupils to take more responsibility for their own learning and make a real contribution to the group
 * [EEF Project: Best Practice in Mixed Attainment Grouping](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/best-practice-in-mixed-attainment-grouping/)
-    * Mixed results
+    * Mixed results from research
 
 ### Expertise Reversal Effect
 
@@ -426,11 +421,13 @@ TASK: Investigate a Kent teachers online resources
         * Difficult to choose balanced groups that work well together
         * Confusing for some students - as they are unclear as to what is being asked of them
 
-### TASK
 
-#### Part 1 - A 1 Dimensional task (1 hour)
+### TASK Part 1 - A 1 Dimensional task (1 hour)
 
-* (tutor lead) Demo Microbit rock-paper-scissors game (10min)
+ITT CCF
+> 2.5 Explicitly teaching pupils the knowledge and skills they need to succeed within particular subject areas is beneficial.
+
+* (tutor lead) Demo Microbit [rock-paper-scissors game](../physicalProgramming/microbit/rock_paper_scissors.py) (10min)
 * (individual) Explore the  Code (15min)
     * Run it yourself. What is it doing? How does it work?
 * Imagine you need to deliver this project as a directed task to a KS3 class
@@ -438,50 +435,18 @@ TASK: Investigate a Kent teachers online resources
     * What support/scaffolds/resources/tasks would need to prepare for the weaker students?
     * What support/scaffolds/resources/tasks would need to prepare for the advanced students?
     * Would students work as individuals? Would you group students? How would they work in a group?
-* (breakout groups) In your breakout groups discuss your possible ideas (15 min)
-
-#### Part 2 - Next step? (15min)
-
-The previous directed task serves as a skill foundation.
-The real project would be the next step.
-
-* (breakout groups) (15 min)
-    * How would you construct a task to follow-on the rock-paper-scissors project?
-    * What would the task be?
-    * How would you motivate all learners to engage with the topic?
-    * How would you support the weaker and more advanced students? (Inclusion is the important bit!!!!)
-* Your group should write their notes in the Google doc
-
-#### Part 3
-
-(I will unveil my own hypothetical concept suggestions)
+* (breakout groups) In your breakout groups discuss your possible ideas (15min)
+    * Put your ideas in the google doc
 
 
-My examples
-* Excel - roleplay project
-    * Every student has a different _spec_ core rulebook
-    * Character sheet generation
-        * VLOOKUP, RAND, form controls, MAX. MIN, absolute cell references
-        * Level - stats - skills - spells
-        * Roll assist
-    * Printed output
-    * GM Roll assist
-    * (Module was never run because "what would the girls do?" - president of AGS was angry)
+### Interlude - Food for thought - Course construction and meeting the needs of learners (15min)
 
-
-My Tips
-* Set the problem - 'create a program to'
-* Model meta cognition commentary in solving the problem
-* Open ended tasks
-* Collaboration
-* Negotiate
-* Independence
-* Dialogue
-
-When talking to your whole class, think "Who do I need here now?" Is to too high level for some? is it too low level for others?
-
-
-
+ITT CCF
+* > 1.1 Teachers have the ability to affect and improve the wellbeing, motivation and behaviour of their pupils
+* > 1.3 Teacher expectations can affect pupil outcomes; setting goals that challenge and stretch pupils is essential.
+* > 1.4 Setting clear expectations can help communicate shared values that improve classroom and school culture
+*  learn that 
+* > Receiving clear, consistent and effective mentoring in how to set tasks that stretch pupils, but which are achievable, within a challenging curriculum
 
 * [How to Think Inclusively About Computer Science Initiatives](https://www.thinkinclusive.us/computer-science-initiatives/)
     * > differentiation is not about long nights of planning and grading, but about being flexible and making decisions in the moment based on what your students need
@@ -501,11 +466,79 @@ When talking to your whole class, think "Who do I need here now?" Is to too high
         * Flexible thinking
         * Strong class culture
 
+ITT CCF
+* > 6.2 Good assessment helps teachers avoid being over-influenced by potentially misleading factors, such as how busy pupils appear
+
+* [Aligning teaching for constructing learning](https://www.heacademy.ac.uk/sites/default/files/resources/id477_aligning_teaching_for_constructing_learning.pdf) John Biggs
+* [Course Design: constructive alignment](https://www.youtube.com/watch?v=c5hpRX5ZeIc) (Biggs 1999) (3min)
+    * Constructive alignment (all the below should be aligned) - can start with any of these
+        * Define - Intended learning outcomes (central component)
+            * > Statements written from students perspective, indicating the level of understanding of the performance they are expected to achieve as a result of the learning experience <sub>(Bigs and Tang)</sub>
+            * > They will learn what they think they will be assessed on, not what is in the curriculum, or even on what has been 'covered' in class. The trick is, then, to make sure the assessment tasks mirror the ILOs
+            * Action verbs - design, plan, analyse, evaluate, define, test, combine
+        * Teaching/Learning Activities
+        * Assessment Feedback Tasks
+
+
+#### Part 2 - Next step? (30min)
+
+The previous directed task serves as a skill foundation.
+The real project would be the next step.
+
+* (2 breakout groups) (20 min)
+    * How would you construct a task to follow-on the rock-paper-scissors project?
+    * What would the task be?
+    * How would you motivate all learners to engage with the topic?
+    * How would you support the weaker and more advanced students? (Inclusion is the important bit!!!!)
+* Your group should write their notes in the Google doc
+* Your group should present your ideas to the other group - elect a spokesperson (10min)
+
+#### Part 3
+
+ITT CCF
+* > 3.learn-that Discussing and analysing with expert colleagues the rationale for curriculum choices, the process for arriving at current curriculum choices and how the school’s curriculum materials inform lesson preparation
+* > 4.4 Guides, scaffolds and worked examples can help pupils apply new ideas, but should be gradually removed as pupil expertise increases
+* > 4.9 Paired and group activities can increase pupil success, but to work together effectively pupils need guidance, support and practice.
+
+(I will unveil my own hypothetical concept suggestions)
+
+My other examples
+* Excel - roleplay project
+    * Every student has a different _spec_ core rulebook
+    * Character sheet generation
+        * VLOOKUP, RAND, form controls, MAX. MIN, absolute cell references
+        * Level - stats - skills - spells
+        * Roll assist
+    * Printed output
+    * GM Roll assist
+    * (Module was never run because "what would the girls do?" - president of AGS was angry)
+* A-Level years projects - with grade - linked to spec
+
+
+My Tips
+* Set the problem - 'create a program to'
+* Model meta cognition commentary in solving the problem
+* Open ended tasks
+* Collaboration
+* Negotiate
+* Independence
+* Dialogue
+
+When talking to your whole class, think "Who do I need here now?" Is to too high level for some? is it too low level for others?
 
 
 ---
 
+
 ### Escape room idea
+
+Disclaimer.
+We are time bound.
+You may only have 1 hour of KS3 a week. 
+To do a project like this you may need a significant investment in time. 
+This may be too much for your current SOW and KS3 program. 
+This is a _possible concept_ it is not a fully formed or trailed idea.
+
 
 * Demo the concept of an escape room.
     * Show videos? Bring in equipment? Bring in a guest speaker? Enthuse them.
@@ -521,6 +554,7 @@ When talking to your whole class, think "Who do I need here now?" Is to too high
             * Derelict spaceship
             * Egyptian tomb
     * Assessment criteria
+        * Be clear your assessment is of _use of Computing skills_ rather than artwork created to go with the puzzle
         * use of external input
             * buttons sensor
             * relay/magnet
@@ -531,19 +565,29 @@ When talking to your whole class, think "Who do I need here now?" Is to too high
             * led
         * use of radio communication
             * describe the protocol
+            * Transmission? Error handling? Ack?
         * use of a loop
         * use of storage
             * array?
         * use blocks
         * use code
             * code only features
+        * collaboration with other teams - protocol design? hardware integration with others
         * marks for puzzle concept
+    * Support materials
+        * List of basic project suggestions
+            * Some weaker students will not no where to start. Give them a choice of three possible achievable simple projects
+                * Cycle led's through a pattern. The puzzle is to press the button when the LED's are in a particular arrangement. The arrangement could be found by decoding a message on paper.
+        * Setup a class wiki for the project
+        * Some links to some more advanced tools
+            * Links to Youtube videos? other tutorials/resources? on how to use a depth-sensor?
+        * Record a video of you creating a starting project that demos the core skills (could be done live in class and recorded)
     * Assessment could be
         * Video of a them describing to other/students how it works
-        * A post describing how it works
+        * A poster describing how it works
         * Annotated code with comments mapped to assessment criteria
     * Demo at open evening?
-        
+
 
 
 ---
