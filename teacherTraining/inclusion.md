@@ -274,9 +274,9 @@ Academically More Able
 * > ‘Too many bright children let down in the state system’ Ofsted 2013
 * > ‘The most able students report finds that too few schools set high enough expectations of what their brightest students can achieve’. Ofsted 2103
 
-TASK: 15min
+TASK: 10min
 * In google doc
-* List of characteristics which you consider to exemplify those pupils who are considered able in Computing
+* List of characteristics which you consider to exemplify those pupils who are considered _able_ in Computing
 * Some ideas to kickstart your thinking
     * [Identifying more able learners: beyond the numbers](https://www.nace.co.uk/blogpost/1764163/327555/Identifying-more-able-learners-beyond-the-numbers) NACE 2019
     * [Traits of Giftedness](https://www.nagc.org/resources-publications/resources/my-child-gifted/common-characteristics-gifted-individuals/traits) Clark, B. (2008). Growing up gifted
@@ -491,9 +491,10 @@ The real project would be the next step.
 
 * (2 breakout groups) (20 min)
     * How would you construct a task to follow-on the rock-paper-scissors project?
-    * What would the task be?
+    * What would the task(s) be?
     * How would you motivate all learners to engage with the topic?
     * How would you support the weaker and more advanced students? (Inclusion is the important bit!!!!)
+    * How would you consider _constructive alignment_ of assessment?
 * Your group should write their notes in the Google doc
 * Your group should present your ideas to the other group - elect a spokesperson (10min)
 
