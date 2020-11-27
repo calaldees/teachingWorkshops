@@ -255,6 +255,10 @@ Inclusion Concept: Vertical Tutoring?
 * Research shows that facilitating peer mentoring creates improvements
     * [Peer tutoring](https://educationendowmentfoundation.org.uk/evidence-summaries/teaching-learning-toolkit/peer-tutoring/)
         * cross-age tutoring, in which an older learner takes the tutoring role and is paired with a younger tutee or tutees;
+* Reading
+    * [Vertical Tutoring: The Life Of A Deputy Headteacher](https://www.teachertoolkit.co.uk/2016/09/17/vertical-tutoring/)
+    * [Vertical Tutoring FAQ](http://www.sidmouthcollege.devon.sch.uk/uploads/3/1/6/1/31615835/vertical_tutoring_faq.pdf)
+    * [Vertical Tutor Groups - Yes or No?](https://community.tes.com/threads/vertical-tutor-groups-yes-or-no.776609/)
 
 TASK: (15min total)
 * Put a table with 2 columns in the google doc
