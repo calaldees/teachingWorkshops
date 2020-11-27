@@ -22,7 +22,7 @@ Investigate
 * What [sensors](https://microbit.org/get-started/first-steps/sensors/) does it have?
     * Look at a list of project ideas for those sensors
         * Door alarm? Nightlight?
-* Using the [makecode](makecode.microbit.org/) browser simulator
+* Using the [makecode](https://makecode.microbit.org/) browser simulator
     * Make a program that when you press a button it cycles through 3 custom mini graphics that you have created
         * Hint: You might need a variable 0 to 2 and use the modula operator to cycle this value
     * Switch the view to javascript or python and look at the code
