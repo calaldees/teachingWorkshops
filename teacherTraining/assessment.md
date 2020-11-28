@@ -470,3 +470,9 @@ pizza 2015 Reliably assess collaborative problem solving
 * [Inside the Black Box: Raising Standards through Classroom Assessment ](https://journals.sagepub.com/doi/full/10.1177/003172171009200119) 2010 Paul Black, Dylan Wiliam
     * [What is formative assessment, why hasn’t it worked in schools, and how can we make it better in the classroom?](https://impact.chartered.college/article/booth-what-formative-assessment-make-better-classroom/) 2017
         * > The big mistake that Paul and I made was calling this stuff “assessment”… because when you use the word assessment, people think about tests and exams’ (Stewart, 2012). He later commented that it should probably have been called something like ‘responsive teaching’ (Wiliam, 2013b).
+
+
+
+
+* [Assessment A4 revision notes](https://twitter.com/Lucyjc1612/status/1332345899184508929)
+    * > Did a pre-mock past paper test with my middle set Y11s this week and told them they could bring one sheet of A4 into the test with them, with any notes they want. They were thrilled they got to ‘cheat’ and I’m thrilled that they did such awesome revision - win win
