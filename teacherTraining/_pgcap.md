@@ -712,8 +712,9 @@ Research: ipsative Assessment - Gwyneth Hughes
         * not a complete assignment. prose is chatty and unreflective
 
 
-Referecnes
-[APA Style - 7th Edition - Common Reference Examples Guide](https://apastyle.apa.org/instructional-aids/reference-examples.pdf)
+Reference Styles
+* [APA Style - 7th Edition - Common Reference Examples Guide](https://apastyle.apa.org/instructional-aids/reference-examples.pdf)
+* [Harvard Referencing: Guide](https://www.citethisforme.com/harvard-referencing)
 
 Assessment co-design between students and tutors
 Peer learning - self assessment

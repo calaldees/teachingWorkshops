@@ -430,3 +430,18 @@ https://www.5minutelessonplan.co.uk/
 
 * [On Learning Chess as an Adult – From 650 to 1750 in Two Years](https://jacobbrazeal.wordpress.com/2020/11/16/on-learning-chess-as-an-adult-from-650-to-1750-in-two-years/)
     * Learning measured in adulthood - chess every day for 2+ years - mapped
+
+
+* [What Is the zone of proximal development?. Simply psychology.](https://www.simplypsychology.org/Zone-of-Proximal-Development.html) McLeod, S. A. (2019)
+    * > problem-solving under adult guidance, or in collaboration with more capable peers <sub>Vygotsky, 1978</sub>
+    * According to Vygotsky (1978), much important learning by the child occurs through social interaction with a skillful tutor. The tutor may model behaviors and/or provide verbal instructions for the child. Vygotsky refers to this as cooperative or collaborative dialogue. 
+    * Scaffolding consists of the activities provided by the educator, or more competent peer, to support the student as he or she is led through the zone of proximal development.
+    * Support is tapered off (i.e. withdrawn) as it becomes unnecessary, much as a scaffold is removed from a building during construction. The student will then be able to complete the task again on his own.
+    * Scaffolding vs. Discovery Learning
+        * Freund (1990) wanted to investigate if children learn more effectively via Piaget's concept of discovery learning or by guided learning via the ZPD. 
+    > From a Vygotskian perspective, the teacher's role is mediating the child's learning activity as they share knowledge through social interaction' (Dixon-Krauss, 1996)
+    * Consider these guidelines for scaffolding instruction (Silver, 2011)
+        * Assess the learner's current knowledge and experience for the academic content
+        * Relate content to what students already understand or can do
+        * Break a task into small, more manageable tasks with opportunities for intermittent feedback
+        * Use verbal cues and prompts to assist students

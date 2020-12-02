@@ -158,17 +158,19 @@ Mentor Visits
 Agenda
 ------
 
-* 30min - Subject Tutor and Mentor
+* 45min - with Mentor and Subject Tutor
+   * Clarify mentoring documents/process
    * Discussion of approaches taken to mentoring thus far
-* 1 Hour - Subject Tutor, Student and Mentor
-   * a joint mentoring activity led by Student - this could be 
+* 45 Hour - with Mentor, Subject Tutor and Student
+   * A joint mentoring activity - Student leads - this could be 
       * part of a weekly meeting; 
       * a collaborative planning activity;
       * a focussed coaching conversation around any development theme;
       * or any other activity taken from the document I sent you in my initial email
-   * Please do let me know in advance what your focus will be
-* 30min - Subject Tutor and Student
-   * further conversation about the year ahead
+   * (Let me know in advance what your focus of this mentoring activity could be)
+* 30min - with Subject Tutor and Student
+   * Further conversation about the year ahead
+
 
 Check-list
 ----------

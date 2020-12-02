@@ -538,3 +538,12 @@ Support
 -------
 
 High behaviour needs
+
+
+TODO
+----
+
+* [Behaviour for Learning: Promoting Positive Relationships in the Classroom ](https://www.amazon.co.uk/Behaviour-Learning-Simon-Ellis-dp-1138293075/dp/1138293075/)
+    * [vlebooks](https://www.vlebooks.com/Vleweb/Product/Index/2013366) complete book for CCCU students
+* [A systematic review of how theories explain learning behaviour in school contexts](http://eppi.ioe.ac.uk/cms/Portals/0/PDF%20reviews%20and%20summaries/BM(CCC)_2004review.pdf?ver=2006-03-02-125203-580) Powell, Tod 2004
+* [Behaviour for Learning: Proactive approaches to behaviour management](https://www.tandfonline.com/doi/abs/10.1080/19415250903457687?src=recsys&journalCode=rjie20) Book review 2011

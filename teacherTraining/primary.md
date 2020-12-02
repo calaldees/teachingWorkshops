@@ -33,7 +33,7 @@ National Curriculum
 Activity: Read the requirements for KS1 and KS2 - Comments?
 
 * [Insight into the primary computing curriculum - Learn Live at BETT 2014](https://youtu.be/qtig8kwTTPQ) - Miles Berry
-  * [eSafty online satutary requirement KS1](https://youtu.be/qtig8kwTTPQ?t=1525)
+  * [eSafety online statuary requirement KS1](https://youtu.be/qtig8kwTTPQ?t=1525)
   * [Understand networks and internet](https://youtu.be/qtig8kwTTPQ?t=2144)
 
 
@@ -180,8 +180,8 @@ Year 6:
   * game over screen
   * design levels
 * Edit videos
-  * Make documentartys/advert
-  * Chroma key backgronds
+  * Make documentaries/advert
+  * Chroma key backgrounds
 
 #### My comments/observations
 
@@ -189,11 +189,11 @@ Given that year 1
 * can't read
 * can't easily use a keyboard and mouse
 * get sporadic access to a poorly maintained computer room
-Is scratch programing realistic?
+Is scratch programming realistic?
 
 The Year 6 projects listed here are something that I wish GCSE students could do.
 
-All tasks are project based (computing is a taught as part of an integrated curriculum.
+All tasks are project based (computing is a taught as part of an integrated curriculum).
 
 ### Book: Primary in action (Yasemin Allsop and Ben Sedman)
 
@@ -203,7 +203,7 @@ Good chapter on assessment
 #### Examples of primary computing activities
 
 * Plastercine - stop motion
-* Voiceover video footage
+* Voice over video footage
 * QRCode treasure hunt
 
 #### My comments/observations
@@ -303,7 +303,7 @@ Visited every year as part of the curriculum.
 * Year 4/5/6 told about online etiquette/dangers
 
 Possible primary activity:
-* Teach loads up a chat window on the projector
+* Teacher loads up a chat window on the projector
 * As a class they have a text based conversation with a 'child in other school'
   * Has an avatar of something popular with the kids
   * Posts silly funny gifs
@@ -321,7 +321,7 @@ Many primary school activities talk about 'giving instructions to a person' to p
 [CodyRoby](http://www.codeweek.it/codyroby/) [video](http://youtu.be/D5hQ9UTDQ6s) [Race](https://www.youtube.com/watch?v=izpB0Cvl0tk)
 print cards from PDF
 
-(Could even be a good secondary school programing activity)
+(Could even be a good secondary school programming activity)
 
 
 Primary to Secondary Transition
@@ -340,10 +340,18 @@ It's often observed that pupil performance dips when entering secondary school.
   * Leaders prioritise the pastoral over the academic needs of pupils during transition from primary school.
   * Many secondary schools do not build sufficiently on pupils’ prior learning
   * Careers education, information, advice and guidance (CEIAG) in Key Stage 3 is not good enough
-  * too manysecondaryschools did not work effectively with partner primary schools to understand pupils’ prior learning and ensure that they built on this during Key Stage 3.
+  * too many secondary schools did not work effectively with partner primary schools to understand pupils’ prior learning and ensure that they built on this during Key Stage 3.
 
-* [What Makes a SuccessfulTransition from Primary toSecondary School? - Research Report DCSF-RR019](https://dera.ioe.ac.uk/8618/1/DCSF-RR019.pdf)
-* [National Foundation for Educational Research - Transition from Primary to Secondary School: Current Arrangements and Good Practice in Wales](https://www.nfer.ac.uk/media/2243/wtn01.pdf)
+* [What Makes a SuccessfulTransition from Primary toSecondary School? - Research Report DCSF-RR019](https://dera.ioe.ac.uk/8618/1/DCSF-RR019.pdf) 2008
+  * 84%) said they felt prepared on entry to secondary school
+  * only 3 per cent of children were worried or nervous a termafter starting their secondary school.
+  * A successful transition for children involved
+    * developing new friendships and improving their self esteem and confidence
+    * experiencing curriculum continuity
+  * The most successful schools, as identified from the case studies, were those with very close links and co-ordination between primary and secondary schools.
+  * Teachers reported wanting more information and a better understanding of the different approaches to teaching between primary and secondary schools.
+* [National Foundation for Educational Research - Transition from Primary to Secondary School: Current Arrangements and Good Practice in Wales](https://www.nfer.ac.uk/media/2243/wtn01.pdf) 2006
+* [EEF Blog: Getting transition right (part 2 of 2) – how my school is applying evidence to promote positive learning behaviours](https://educationendowmentfoundation.org.uk/news/eef-blog-getting-transition-right-part-2-of-2/)
 
 
 ### Integrated Curriculum
@@ -356,6 +364,16 @@ Nebraska USA
 
 ### CBIC - Competency Based Integrated Curriculum
 
+An experienced primary teacher trainer commented about a year 6 animation project.
+They created animations and hired a cinema to showcase them to all students and parents.
+He was consulting with a secondary school about their year 7 computing/ict provision.
+The secondary school were going to start them off with really simple animations.
+The primary trainer commented that students would be board very quickly.
+
+Given the power of project based approaches and the power of spending multiple weeks on a topic to bring a skill to a sufficiently high level. 
+We then start secondary school but splitting that up into tiny fragment box's that get 1 hour a week.
+See CBIC or Integrated Curriculum in secondary (from earlier sessions)
+
 Integrated curriculum - a case study in secondary.
 
 Activity: Given the benefits in primary. Do you think this would work in secondary?
@@ -365,18 +383,16 @@ Activity: Given the benefits in primary. Do you think this would work in seconda
   * Total unmitigated failure
     * Pupil disengagement
       * They came here exited to be taught be specialists and they were treated like baby's. It was worse than primary school.
-    * weaker teachers that couldn't teach the higher levels were given groups
+    * Weaker teachers that couldn't teach the higher levels of their subjects were given groups
     * Class's were huge 60 person classrooms with 2 teachers
       * Utterly impossible to concentrate
       * So much noise
 
 [Constructivism is not a pedagogy](https://learningspy.co.uk/literacy/constructivism-is-not-a-pedagogy/)
 > Unstructured and minimally-guided instructional situations certainly do not appear to be very successful and can strongly contribute to:
->
 > (1) a lower probability of an effective learning process for – in particular – vulnerable students,
-> 
 > (2) a less important role for the instructor, which can potentially damage the profession, and
-> (3)  the widening of the so-called achievement gap, because students with more prior knowledge have more opportunities than students with less prior knowledge (Christodoulou, 2014).
+> (3) the widening of the so-called achievement gap, because students with more prior knowledge have more opportunities than students with less prior knowledge (Christodoulou, 2014).
 
 
 Innovative KS3 Lessons

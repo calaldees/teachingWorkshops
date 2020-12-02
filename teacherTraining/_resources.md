@@ -43,6 +43,11 @@ Teaching Resources
     * This is the website we wish we had when we were learning on our own
     * We scour the internet looking for only the best resources to supplement your learning and present them in a logical order
 
+* [Code Combat](https://codecombat.com/)
+    * Videogame progression of challenges. Beautiful artwork. Very pro.
+
+* [101computing.net](https://www.101computing.net/)
+    * [Little Man Computer (LMC) CPU Simulator](https://www.101computing.net/LMC/)
 
 * [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA) 10min video
     * [flicker](https://www.flickr.com/photos/95869671@N08/36231833334/)
@@ -52,6 +57,9 @@ Teaching Resources
 * [Brilliant](https://brilliant.org/)
     * [Computer Science Essentials](https://brilliant.org/courses/computer-science-essentials/)
         * [python introduction](https://brilliant.org/courses/programming-python/#chapter-introduction-28)
+
+* [Future Learn](https://www.futurelearn.com/)
+    * TODO: uni courses? online free?
 
 Microbit
 TinkerCAD

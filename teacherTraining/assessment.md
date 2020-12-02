@@ -476,3 +476,35 @@ pizza 2015 Reliably assess collaborative problem solving
 
 * [Assessment A4 revision notes](https://twitter.com/Lucyjc1612/status/1332345899184508929)
     * > Did a pre-mock past paper test with my middle set Y11s this week and told them they could bring one sheet of A4 into the test with them, with any notes they want. They were thrilled they got to ‘cheat’ and I’m thrilled that they did such awesome revision - win win
+
+
+* [What is Computer-Based Assessment (CBA)?](https://now.ntu.ac.uk/d2l/lor/viewer/viewFile.d2lfile/6605/62186/CBA%20Revised/page_01.htm)
+    * Bull and McKenna (2004) cite the following reasons to use CBA:
+* [Computer-based tools for the assessment of learning processes in higher education: a comparative analysis](https://www.researchgate.net/publication/271211156_Computer-based_tools_for_the_assessment_of_learning_processes_in_higher_education_a_comparative_analysis) 2014
+    * List of software and features
+* [15 Benefits Of Computer-Based Testing](https://elearningindustry.com/15-benefits-of-computer-based-testing)
+    * More testing dates + much expossure (for exam based)
+    * Dynamic and individualised
+    * Immediate grade
+    * accelerate open ended assignments + aid admin efficiency
+        * [Kaizena](https://workspace.google.com/marketplace/app/kaizena/354175553078) - google docs plugin for voice comments + skill tracking
+    * vertical and horizontal aligned (criterion based) or (norm-referenced)
+    * value added growth measure
+    * uncover student thinking (diagnostic)
+    * engaging
+    * analytics for instructor and learner
+    * range of devices / situations
+    * 
+* [Models Of Online Assessment, Part 1: Computer Adaptive Testing ](https://elearningindustry.com/computer-adaptive-testing-models-online-assessment-part-1)
+    * technology-based assessments can (Burns et al., 2010; Burns, Christ, Kovaleski, Shapiro, & Ysseldyke, 2008: 18)
+        * measure complex thinking and lower the cost differential because technology-based assessments take less time to score, store and share. 
+        * They can enable quick turnaround of assessment data to the instructor and learners, allowing instructors to assess learner performance at a much more granular, detailed level. 
+        * they can allow more reliable scoring and valid data interpretation 
+    * > CATs are technology-based or online testing systems created by content specialists, psychometricians, programmers and web designers.
+      > They contain large test item banks and, when designed well, can attain high discriminating power. They do this through constant calibration or “adaptation.
+
+
+Terminology
+* Moderation
+* Standardisation
+

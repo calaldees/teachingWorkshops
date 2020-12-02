@@ -97,6 +97,11 @@ Venn diagram of
 
 > Pedagogical Content Knowledge (PCK) conceptualises both the link and the distinction between knowing something for yourself and being able to enable others to know it.
 
+* [Pedagogical Content Knowledge: Teachers' Integration of Subject Matter, Pedagogy, Students, and Learning Environments](https://narst.org/research-matters/pedagogical-content-knowledge) Shulman, 1986
+    * TODO
+* [Those Who Understand: Knowledge Growth in Teaching](https://www.wcu.edu/WebFiles/PDFs/Shulman.pdf)
+    * TODO
+
 ### Your development phases
 
 * Unconscious incompetence

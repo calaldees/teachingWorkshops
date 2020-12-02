@@ -140,3 +140,5 @@ How are students being given a voice?
 
 ---
 
+* [APA Style - 7th Edition - Common Reference Examples Guide](https://apastyle.apa.org/instructional-aids/reference-examples.pdf)
+* [Harvard Referencing: Guide](https://www.citethisforme.com/harvard-referencing)
