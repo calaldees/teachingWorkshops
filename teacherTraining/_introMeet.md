@@ -290,3 +290,14 @@ Additional Resources
     * By the end of term, however, even Wiliam is surprised by the impact the experiment has had on the students' academic achievement.
     * [Part 1](https://www.youtube.com/watch?v=J25d9aC1GZA) 1 hour
     * [Part 2](https://www.youtube.com/watch?v=1iD6Zadhg4M) 1 hour
+
+
+TODO
+====
+
+* [teacherofsci.com](https://teacherofsci.com/) [@TeacherOfSci1](https://twitter.com/TeacherOfSci1)
+    * [15 Learning Theories in Education (A Complete Summary)](https://teacherofsci.com/learning-theories-in-education/)
+        * [An Introduction to Learning Theories.: 15 of the most influential learning theories, simplified and explained](https://www.amazon.co.uk/gp/product/B084QDNWVJ/)
+    * [The New Teacher Mega Guide. Everything you need in 10 Videos](https://teacherofsci.com/new-teacher-mega-guide/)
+* [lumenlearning.com/educationalpsychology](https://courses.lumenlearning.com/educationalpsychology/)
+    * [Major theories and models of learning](https://courses.lumenlearning.com/educationalpsychology/chapter/major-theories-and-models-of-learning/)
