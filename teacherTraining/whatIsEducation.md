@@ -25,6 +25,7 @@ Session 3 - What is Education
 History of Computing education in the UK
 ----------------------------------------
 
+* [the state of the nation - CAS Community 2009](https://community.computingatschool.org.uk/files/6714/original.pdf)
 * [Restart: The Resurgence of Computer Science in UK Schools](https://core.ac.uk/download/pdf/79655562.pdf) Brown 2014
     * > Computer science in UK schools has gone from almost extinct to mandatory in thespace of a five year period
     * > TheA-LevelqualificationofferedtherenowoverlapssubstantiallywiththenewGCSEqualification(whichprecedesit),and numbers taking the A-Level are still in decline.

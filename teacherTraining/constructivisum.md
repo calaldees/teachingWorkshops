@@ -7,11 +7,13 @@ ITT CCF 4.6
 TASK: Reading/Research (45 min) Async
 Here is some suggested reading
 Explore the concept of constructivism
+
 (After understanding what constructivisum is I suggest reading "Constructivism is not a pedagogy" by David Daidu as this is an excellent counterpoint)
+
 TASK: Activity Concept (15 min) Async
 * Previously you have considered leading knowledge transfer to the class (e.g. our small microteaching experiment)
 With this new knowledge about constructivism we are to:
-* Construct a possible concepts for a Computing based activitie that could be considered constructivist/discovery/collaborative based
+* Construct a possible concepts for a Computing based activities that could be considered constructivist/discovery/collaborative based
     * What would we need to prepare in advance?
         * resources? Scaffolds?
     * How would you define a task/goal?
@@ -103,7 +105,7 @@ Working with tangible real world objects is a central tenet of Papert’s constr
 (Some notes I had and left them here)
 
 * What does this code do?
-* How would we find out what it dose?
+* How would we find out what it does?
     * Run it?
 * How does it work?
     * Dry run it?

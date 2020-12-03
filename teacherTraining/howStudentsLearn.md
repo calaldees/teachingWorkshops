@@ -445,3 +445,16 @@ https://www.5minutelessonplan.co.uk/
         * Relate content to what students already understand or can do
         * Break a task into small, more manageable tasks with opportunities for intermittent feedback
         * Use verbal cues and prompts to assist students
+
+
+Howland, J. L., Jonassen, D. H. and Marra, R. M., Meaningful Learning with Technology (Pearson, 2011)
+* Active
+    * Pupils should be actively engaged in their learning – typically this will be doing something on a computer, but it could also be taking part in a discussion or an activity away from the computer, such as role-play to illustrate how packets of data travel across the internet.
+* Constructive
+    * This can be understood both in the sense of constructing meaning, developing pupils’ mental model of computation and technologies, and in the sense of making something, whether this is a computer program, a presentation or a blog post.
+* Intentional
+    * Ideally, pupils should have some degree of choice over how they tackle a task or project, or perhaps even over the task or project itself. It is unlikely they will learn much from copying a worked solution off an IWB screen, and many projects can be constructed or adapted to allow plenty of scope for individual creativity.
+* Authentic
+    * Wherever possible, try to link activities with pupils’ own experiences, both within and beyond school: cross-curricular projects work very well, as do those linked to the life of the school itself, or to pupils’ experiences of technology.
+* Cooperative
+    * Computing, in both industrial and academic contexts, is a collaborative endeavour. Where possible, construct activities so that pupils can work together, supporting one another in their learning

@@ -7,10 +7,41 @@ Objectives:
 * Consider how this knowledge will influence your planning and understanding of KS3
 
 Disclaimer:
-* I'm not a primary school teacher ... I don't have firsthand experience of the area ... however ...
-* I am interested in the topic and spent the past month reading articles, talking to actual primary teachers, watching videos, buying books and exploring software.
+* I'm not a primary school teacher ... I don't have first-hand experience of the area ... however ...
+* I am interested in the topic and spent time reading articles, talking to actual primary teachers, watching videos, buying books and exploring software
 * This session is an open discussion of what I've found so far
 * Let's use this time to explore the topic
+
+
+Async (1 Hour 30 min)
+---------------------
+
+* Read/Skim (30min)
+  * [National curriculum in England: computing programmes of study](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study) (10min)
+    * Read the requirements for KS1 and KS2
+    * Create this table ( maybe in the Google Doc) - try to categorise each of the bullet points
+
+| | Computing | ICT | DigitalLiteracy |
+|-|-----------|-----|-----------------|
+| ks1 | | | |
+| ks2 | | | |
+
+  * [CAS Primary Computing](https://www.computingatschool.org.uk/data/uploads/CASPrimaryComputing.pdf) (25min)
+* Understand/explore some primary computing resources (1 hour)
+  * Suggestions
+    * [barefootcomputing.org](https://www.barefootcomputing.org/)
+      * Sign up
+      * Look at
+        * Barefoot Bytes - Age 9-11 poster
+        * Look at an example lesson resource
+    * [icompute-uk.com](https://www.icompute-uk.com/)
+      * [free-stuff](https://www.icompute-uk.com/free-stuff.html)
+    * [CodyRoby](http://www.codeweek.it/codyroby/) [video](http://youtu.be/D5hQ9UTDQ6s) [Race](https://www.youtube.com/watch?v=izpB0Cvl0tk) 15min()
+    * Extension - Explore/Find other primary computing resources
+  * As you do this - put some interesting links and commentary of bits you find in the Google Doc
+    * Can you link activitys you find to the KS1/KS2 National curriculum points?
+  * In what way do these resources differ from KS3/KS4?
+    * We will discuss your findings
 
 
 National Curriculum
@@ -30,11 +61,13 @@ National Curriculum
 * Statutory guidance [National curriculum in England: computing programmes of study](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study)
   * The statutory programmes of study and attainment targets for computing at key stages 1 to 4.
 
-Activity: Read the requirements for KS1 and KS2 - Comments?
+Categorise the bullet points
+Comments? How does this compare/link with KS3/KS4?
+
 
 * [Insight into the primary computing curriculum - Learn Live at BETT 2014](https://youtu.be/qtig8kwTTPQ) - Miles Berry
-  * [eSafety online statuary requirement KS1](https://youtu.be/qtig8kwTTPQ?t=1525)
-  * [Understand networks and internet](https://youtu.be/qtig8kwTTPQ?t=2144)
+  * [eSafety online statuary requirement KS1](https://youtu.be/qtig8kwTTPQ?t=1525) from 2014
+  * [Understand networks and internet](https://youtu.be/qtig8kwTTPQ?t=2144) - the concept of the internet for year 6!
 
 
 Ofsted Inspections
@@ -43,8 +76,11 @@ Ofsted Inspections
 * To my knowledge; no school has failed an Ofsted inspection because of poor Computing.
   * Until a school fails with this criteria, the focus will always be on English/Maths
 * [iCompute-and-Ofsted](https://www.icompute-uk.com/Downloads/iCompute-and-Ofsted.pdf) - Questions Ofsted will ask primary practitioners
+  * e.g.
+    * What practices do you use in computing to build new knowledge?
+      * unplugged and PRIMM
 
-Activity: What's in an Ofsted report?
+Activity: What's in an Ofsted report? (10min + 5min)
 * https://reports.ofsted.gov.uk/
 * Find a feeder primary of your placement school
 * Search for the term 'computing' or 'ict'. Can you find it mentioned in the report?
@@ -55,7 +91,7 @@ Case Study: Average unnamed primary school
 
 * Computing was allocated 1 hour a week
   * Computing was always the first subject to be dropped
-  * Canceled once every 2 weeks -  christmass play, other activities
+  * Canceled once every 2 weeks - christmas play, other activities
 
 * Computer rooms
   * One computer room for a small school
@@ -76,9 +112,9 @@ Case Study: Average unnamed primary school
   * Only 30min max of actual teaching
     * Demoralized: Why interact with computer after 20min of pain to get there
 
-Discuss: Could facial recondition be used to speedup login? Good or bad idea and why? Is this legal or not legal?
+Discuss: Could facial recondition be used to speed-up login? Good or bad idea and why? Is this legal or not legal?
 
-* Mobile computer-room - Tablet Trolly
+* Mobile computer-room - Tablet trolley
   * Using computers in the style that young people can understand
   * Apps for coding on iPads
 
@@ -128,8 +164,11 @@ Discuss: Could facial recondition be used to speedup login? Good or bad idea and
 This school was reported 'Good' by Ofsted.
 Computing does not get mentioned in the inspection report.
 
-Discussion: (This is not a fair or representational study of all primary schools). From your observations and knowledge, what do you think is the state of Computing in primary education?
 
+Discussion: (This is not a fair or representational study of all primary schools). From your observations and knowledge, what do you think is the state of Computing in primary education?
+10min?
+
+Some primary schools are the opposite - put our secondary KS3 progress to shame ...
 
 Structured time?
 ----------------
@@ -138,31 +177,46 @@ Structured time?
 
 In the context of primary education ...
 
-Discussion: With such rigorous goals for the whole of the education system. Is there any benefit in letting young people explore computers. They don't use keyboards and mice at home. Just let them use paint. Click on a few bits. Just have time on one.
+(10min)
+Discussion: With such rigorous goals for the whole of the education system. Is there any value in letting young people _explore_ computers? They don't use keyboards and mice at home. Just let them use paint. Click on a few bits. Just have time on one.
 
 
 CAS Primary Guidance
 --------------------
 
 [CAS Primary Computing](https://www.computingatschool.org.uk/data/uploads/CASPrimaryComputing.pdf)
-
+* Here are a few examples of projects.
+  * Making and editing a cookery video in which the algorithm of a recipe is clearly illustrated.
+  * Creating a video game using characters and settings from a shared reading book.
+  * Developing educational software for younger pupils to practise mental arithmetic.
+  * Creating a scripted or stop-motion animation telling the story of an email’s journey from sender to recipient.
+  * Adding content to the Simple English Wikipedia to explain computing concepts (or concepts from other topics pupils are studying) to a global audience.
+  * Developing a micro-site for the school on how to use the web safely, respectfully and responsibly
 * Using a pupil-centred approach
   * Modular projects for pupils to choose from
   * Use an enquiry-based approach at the beginning of each half-termly unit:
 * Recommends
   * [OpenBadges.org](https://www.openbadges.org) by Mozilla
     * Concept is suitable for _formal_ and _informal_
+    * An image with json/metadata encoded in the image. Cryptographically signed by issuer.
     * [issuing](https://www.openbadges.org/get-started/issuing-badges/)
   * Historically highlighting female computing icons
 
 ### Resources
-* https://www.barefootcomputing.org/
+* [barefootcomputing.org](https://www.barefootcomputing.org/)
 
-Activity: Sign yo ass's up!!
+Activity: (30min) Understand/explore some primary computing resources
+* Sign up
+* Look at
+  * Barefoot Bytes - Age 9-11 poster
+  * Look at an example lesson resource
+
+They are so consistent and beautifully presented
+Comments?
 
 
-Teacher Resource Case Studies
------------------------------
+Book Exploration/Review
+-----------------------
 
 ### Book: Teaching Primary Computing (Martin Burrett)
 
@@ -172,7 +226,7 @@ Year 1: (Age 4)
   * Hue shift
   * Cut paste
 
-Year 6:
+Year 6: (Age 10)
 * App design
   * http://appshed.com/
 * Game design (and make it)
@@ -200,8 +254,9 @@ All tasks are project based (computing is a taught as part of an integrated curr
 Every Chapter by a different specialist
 Good chapter on assessment
 
-#### Examples of primary computing activities
-
+* Embedding computing in science - data loggers
+* Linking maths to computing - spreadsheets, graphs, geometric shapes (turtle)
+* Imagine write and share. Blogs wikis and web design
 * Plastercine - stop motion
 * Voice over video footage
 * QRCode treasure hunt
@@ -256,9 +311,10 @@ Software
   * [TinkerCAD](https://www.tinkercad.com/)
     * Shapes built from other shapes
       * Project to draw an _anchor_
-    * (Side note; secondary activity) [openscad.net](openscad.net)
+    * (Side note; secondary activity) [openscad.org](https://www.openscad.org/)
       * union, intersection
   * [thingiverse](https://www.thingiverse.com/)
+    * repository of 3d printable items
 
 
 Blogs/Wikis
@@ -272,7 +328,7 @@ Publicly visible gives something tangible for friends and family.
   * Class recipe wiki
   * Clear rules (never surname, never identifiable details)
 * Blog
-* [Create spoof pages](https://youtu.be/qtig8kwTTPQ?t=2435) (see eSafety below)
+* [Create spoof pages](https://youtu.be/qtig8kwTTPQ?t=2435) 60seconds (see eSafety below)
 
 
 Assessment
@@ -315,13 +371,13 @@ Possible primary activity:
 Unplugged
 ---------
 
-Many primary school activities talk about 'giving instructions to a person' to perform a dexterous task (such as 'Make Tea') and help pupils decompose and frame instructions. This happens in secondary schools.
-[Sandwich Maker 2001](https://youtu.be/qtig8kwTTPQ?t=891)
+[unplugged](./unplugged.md)
+
+Many primary school activities talk about 'giving instructions to a person' to perform a dexterous task (such as 'Make Tea') and help pupils decompose and frame instructions.
+[Sandwich Maker 2001](https://youtu.be/qtig8kwTTPQ?t=891) 1min
 
 [CodyRoby](http://www.codeweek.it/codyroby/) [video](http://youtu.be/D5hQ9UTDQ6s) [Race](https://www.youtube.com/watch?v=izpB0Cvl0tk)
 print cards from PDF
-
-(Could even be a good secondary school programming activity)
 
 
 Primary to Secondary Transition
@@ -362,7 +418,11 @@ Nebraska USA
 
 * [Integrated Curriculum in the Primary Program](https://www.education.ne.gov/wp-content/uploads/2017/07/IC.pdf)
 
+[Constructivisum](./constructivisum.md)
+
 ### CBIC - Competency Based Integrated Curriculum
+
+#### Case Study 1 - Primary
 
 An experienced primary teacher trainer commented about a year 6 animation project.
 They created animations and hired a cinema to showcase them to all students and parents.
@@ -372,12 +432,16 @@ The primary trainer commented that students would be board very quickly.
 
 Given the power of project based approaches and the power of spending multiple weeks on a topic to bring a skill to a sufficiently high level. 
 We then start secondary school but splitting that up into tiny fragment box's that get 1 hour a week.
-See CBIC or Integrated Curriculum in secondary (from earlier sessions)
+
+#### Case Study 2 - Secondary
+
+See CBIC or Integrated Curriculum in secondary (from earlier sessions)?
 
 Integrated curriculum - a case study in secondary.
 
-Activity: Given the benefits in primary. Do you think this would work in secondary?
+Activity: Given the benefits in primary. Do you think this would work in secondary? (10min)
 
+Story
 * Sandwich Technology School in 2008/201x tried this.
   * Over half of contact time in CBIC group
   * Total unmitigated failure
@@ -387,12 +451,6 @@ Activity: Given the benefits in primary. Do you think this would work in seconda
     * Class's were huge 60 person classrooms with 2 teachers
       * Utterly impossible to concentrate
       * So much noise
-
-[Constructivism is not a pedagogy](https://learningspy.co.uk/literacy/constructivism-is-not-a-pedagogy/)
-> Unstructured and minimally-guided instructional situations certainly do not appear to be very successful and can strongly contribute to:
-> (1) a lower probability of an effective learning process for – in particular – vulnerable students,
-> (2) a less important role for the instructor, which can potentially damage the profession, and
-> (3) the widening of the so-called achievement gap, because students with more prior knowledge have more opportunities than students with less prior knowledge (Christodoulou, 2014).
 
 
 Innovative KS3 Lessons
@@ -422,4 +480,4 @@ Conclusions
 * Because primary schools have more contact time with a class, they can craft more cross curricular and integrated project based work
   * Secondary teaching feels anonymous and fragmented in comparison
 
-CPD: Set a target of having one day in primary in the summer term each year. Talk the the primary teachers. Network. Understand.
+CPD: Set a target of having one day in primary in the summer term each year. Talk to the primary teachers. Network with them. Understand your primary feeder schools.
