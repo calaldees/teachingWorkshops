@@ -52,7 +52,6 @@ TASK:
             * recursive artwork - can actually be a starter to gcse/a-level to build their own recursive artwork algorithms
     * [cs4fnpuzzlebook11.pdf](https://cs4fndownloads.files.wordpress.com/2016/02/cs4fnpuzzlebook11.pdf)
     * [Computer science magic trick books](http://www.cs4fn.org/magic/magicdownload.php)
-* [CodyRoby](http://www.codeweek.it/codyroby/) [video](http://youtu.be/D5hQ9UTDQ6s) [Race](https://www.youtube.com/watch?v=izpB0Cvl0tk) (more towards primary)
 * [Missing square puzzle](https://en.wikipedia.org/wiki/Missing_square_puzzle)
     * printout shapes?
     * [Count The People](https://www.moillusions.com/count-people/)
