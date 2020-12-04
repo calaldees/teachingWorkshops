@@ -41,6 +41,8 @@ Async (1 Hour 30 min)
       * [video](http://youtu.be/D5hQ9UTDQ6s) 
       * [Race](https://www.youtube.com/watch?v=izpB0Cvl0tk) (5min)
     * Extension - Explore/Find other primary computing resources
+      * [Primary EYFS, KS1 & KS2 Computing Schemes of Work](https://www.schemesupport.co.uk/computing) - Our directory of computing schemes of work and lesson planning for the 2014 National Primary Curriculum
+      * [csfirst.withgoogle](https://csfirst.withgoogle.com/)
   * As you do this - put some interesting links and commentary of bits you find in the Google Doc
     * Can you link activity's you find to the KS1/KS2 National curriculum points?
   * In what way do these resources differ from KS3/KS4?
