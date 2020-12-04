@@ -16,7 +16,7 @@ Disclaimer:
 Async (1 Hour 30 min)
 ---------------------
 
-* Read/Skim (30min)
+* Read
   * [National curriculum in England: computing programmes of study](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study) (10min)
     * Read the requirements for KS1 and KS2
     * Create this table ( maybe in the Google Doc) - try to categorise each of the bullet points
@@ -26,8 +26,9 @@ Async (1 Hour 30 min)
 | ks1 | | | |
 | ks2 | | | |
 
-  * [CAS Primary Computing](https://www.computingatschool.org.uk/data/uploads/CASPrimaryComputing.pdf) (25min)
-* Understand/explore some primary computing resources (1 hour)
+  * [CAS Primary Computing](https://www.computingatschool.org.uk/data/uploads/CASPrimaryComputing.pdf) (30min)
+    * Should answer the question above
+* Understand/explore some primary computing resources (50 min)
   * Suggestions
     * [barefootcomputing.org](https://www.barefootcomputing.org/)
       * Sign up
