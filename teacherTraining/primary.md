@@ -36,10 +36,10 @@ Async (1 Hour 30 min)
         * Look at an example lesson resource
     * [icompute-uk.com](https://www.icompute-uk.com/)
       * [free-stuff](https://www.icompute-uk.com/free-stuff.html)
-    * [CodyRoby](http://www.codeweek.it/codyroby/) [video](http://youtu.be/D5hQ9UTDQ6s) [Race](https://www.youtube.com/watch?v=izpB0Cvl0tk) 15min()
+    * [CodyRoby](http://www.codeweek.it/codyroby/) [video](http://youtu.be/D5hQ9UTDQ6s) [Race](https://www.youtube.com/watch?v=izpB0Cvl0tk) (15min)
     * Extension - Explore/Find other primary computing resources
   * As you do this - put some interesting links and commentary of bits you find in the Google Doc
-    * Can you link activitys you find to the KS1/KS2 National curriculum points?
+    * Can you link activity's you find to the KS1/KS2 National curriculum points?
   * In what way do these resources differ from KS3/KS4?
     * We will discuss your findings
 
