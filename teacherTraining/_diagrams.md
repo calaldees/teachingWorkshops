@@ -17,7 +17,7 @@ Computer Science Diagram Tooling
     * [Class Diagram](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-class-diagram/)
     * [Sequence Diagram](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/) interaction diagrams that detail how operations are carried out
 * [Entity Relationship Diagram](https://www.smartdraw.com/entity-relationship-diagram/) the relationships of entity sets stored in a database
-* many more ...
+* There are more ...
 
 How many of these have you heard of?
 
@@ -76,7 +76,9 @@ graph TD
 
 ### Task: Create a mermaid flowchart
 
-Reproduce the following program as a flowchart using [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/)
+* Reproduce the following program as a flowchart using [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/) (7 min)
+* Paste your solutions into the chat
+
 
 ```
 start program
@@ -190,7 +192,7 @@ graph TD
 Solution
 
 ```mermaid
-graph TD
+graph LR
     %% AQA GCSE Computer Science : Steve Cushing
     %% Chapter 4: Algorithms in Mathematics - pg39
     %% Figure 4.1 Flowchart for finding the sum of five numbers

@@ -223,5 +223,5 @@ Diagram Tools
 Tools for creating formal Computer Science diagrams.
 These are part of _unplugged_ because you can use them to create paper based theory lessons or exam style questions.
 
-[15min Segment](./_diagrams.md)
+[30min Segment](./_diagrams.md)
 
