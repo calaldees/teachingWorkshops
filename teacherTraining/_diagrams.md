@@ -22,7 +22,7 @@ Computer Science Diagram Tooling
 How many of these have you heard of?
 
 * Computing textbooks are full of these formal notations
-* In am exam, students could be asked to:
+* In an exam, students could be asked to:
     * Translate a flowchart into code
     * Complete a state transition diagram
     * Create SQL statements from an ER Diagram
