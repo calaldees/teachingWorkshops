@@ -197,15 +197,21 @@ Tuples within tuples
 Session 20
 ----------
 
+Calculator project with doctests
 
 
+Session 21
+----------
 
-Upcomming
----------
+Pygame base with DVD menu bounce
+
+
+Upcoming
+--------
 
 Game Framework Base - Pygame
-
+ stars?
+ tweens?
 Dry run more algortihums
-Calculator
 Chat system
 
