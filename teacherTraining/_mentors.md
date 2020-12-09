@@ -151,6 +151,30 @@ I look forward to coming into school and working with you in due course.
 
 Kind regards,
 
+---
+
+Hi,
+
+I wanted to check how you and XXX were getting on and extend an offer of mentor support.
+One of my roles is to visit subject mentors and check they are ok with the mentoring programme.
+
+It would be good to complete a visit before XXX.
+The assessment of student teachers has been overhauled this year and I may be able to offer more information about that process. 
+(Additional mentor documents are available on the mentor website http://ccccumentors.org.uk/ )
+
+A suggested visit agenda:
+    45min? - Allan + XXX - Hello, Discussion about 'CCCU Curriculum 2020'
+    45min? - XXX + XXX + Allan - Mentoring activity (David/Phil to lead on a normal mentoring activity with Allan contributing)
+    30min? - XXX + Allan - Consultation on progress so far
+    (The time allocation is flexible)
+
+Rather than sending multiple emails between us to settle on a date/time, I've set-up a web booking system for creating MSTeams meetings linked to my calendar:
+https://outlook.office365.com/owa/calendar/PGCESDComputing@cccu.onmicrosoft.com/bookings/
+With this you can book an appropriate timeslot for an on-line virtual visit.
+
+Let me know if you and XXX are getting on ok and if this visit would be useful to you both.
+I look forward to hearing form you soon.
+
 
 Mentor Visits
 =============
@@ -158,17 +182,17 @@ Mentor Visits
 Agenda
 ------
 
-* 45min - with Mentor and Subject Tutor
+* 45min - Mentor and Subject Tutor
    * Clarify mentoring documents/process
    * Discussion of approaches taken to mentoring thus far
-* 45 Hour - with Mentor, Subject Tutor and Student
-   * A joint mentoring activity - Student leads - this could be 
+* 45 Hour - Mentor, Student and Subject Tutor
+   * Mentor and Student engage in a mentoring activity - Student leads - this could be 
       * part of a weekly meeting; 
       * a collaborative planning activity;
       * a focussed coaching conversation around any development theme;
       * or any other activity taken from the document I sent you in my initial email
-   * (Let me know in advance what your focus of this mentoring activity could be)
-* 30min - with Subject Tutor and Student
+   * (It would be good to know in advance what the focus of this mentoring activity might be)
+* 30min - Student and Subject Tutor
    * Further conversation about the year ahead
 
 

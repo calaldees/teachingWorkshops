@@ -142,3 +142,143 @@ How are students being given a voice?
 
 * [APA Style - 7th Edition - Common Reference Examples Guide](https://apastyle.apa.org/instructional-aids/reference-examples.pdf)
 * [Harvard Referencing: Guide](https://www.citethisforme.com/harvard-referencing)
+
+
+---
+
+
+
+Remote only - little context for them
+
+
+--
+
+Your reflections are excellent.
+You've clearly engaged with the subject content and have a superb attitude to challenging your own thinking with clearly actionable points.
+
+You made a comment "I am going to make a crap teacher"
+That is not true.
+I have taught some SHOCKINGLY bad lessons and made many professional blunders, but I was highly reflective and grew with the support of my friends and colleagues over many years.
+
+You are doing the right thing with ensuring you sustainably and incrementally improve your subject knowledge. Ensure that your python work is tracked on your subject knowledge tracker.
+
+I think some of your dates of your reflections needs to be corrected.
+
+Your attitude is mature and determined.
+Keep up the good work!
+
+I think your school placement is going to be a very transformative experience for you.
+
+
+
+---
+
+One other question- can you confirm that for the lit review exercise your expectation is that we limit the books/papers/articles to 2 or 3?
+
+
+There is no 'limit'.
+
+My suggestion was that your argument will probably centre around the points made in 2 or 3 of them.
+
+You will probably have to draw (in a cursory manner) from more. (Maybe between 6 to 10).
+It depends on the sources.
+10 Books that are all 300 pages each is different from 10 journals that are 5min read each.
+
+You want the reader of your essay to think "This student has explored this topic sufficiently to have an informed opinion"
+
+
+---
+
+
+Hi xx,
+
+> i am really struggling to understand anything. 
+
+Quite a bit to unpack there.
+
+"Understand anything" is very vague.
+
+A core skill you need to develop is identifying/articulating your issue in more detail.
+For me, or anyone, (or even yourself) to take the next step, you need to try to describe where you are and what you want to do.
+
+If I was going to answer that question in a blasé way I could just point you at
+The C# books on the reading list for the module
+https://learn.canterbury.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_2440750_1&course_id=_13357_1&mode=reset
+That would not be effective.
+
+The module you are taking require a certain degree of study skills and self efficacy.
+
+
+> what can i do to improve my knowledge.
+
+Let's see if I can give you some pointers.
+
+1.) Ask a directed question.
+
+Go back though the lessons and workshops for the C# module and find something that you understand.
+I know you can create a "Hello World" program and run it from workshop 1. There is a start.
+Go though each of the workshop tasks from the very first one in order.
+When you come across something you you don't understand, attempt the problem with the best of your ability.
+
+Start an email
+Maybe take a screenshot? or copy and paste the complete code into an email.
+Say:
+"I am trying to x y z"
+"I have re-read the lecture slides and tried the examples and I still don't have the answer."
+"I think I get x, so I did this ... I don't know how it fits into y. I have no idea what z is and how it relates to x and y"
+"I tried searching for y online and found these three links but I didnt undertsn tham and I dont think they are related. I also looked in the course ebook for example. I found the chapter on y, but nothing fits my problem"
+(You may find you don't need to send the email because you found the answer yourself)
+
+If I can see, what you trying to attempt, what you tried to do and what you don't understand, I can help you.
+
+Self efficacy is your ability to resolve the issue yourself using the resources you have available.
+
+All the workshop tasks set each week will build the skills to do this.
+If you can do 100% of the workshop tasks you will pass the exam.
+Go back and systematically nail every single one of those tasks.
+Even if you only get through 5 weeks of the 12 week course by the end of module, you will still be able to get some marks in the exam. 5 workshops of understanding is better than 0 workshops of understanding.
+
+If you think that would take too long; you are on a full time course and you have 200 hours allocated to the module.
+At university teachers will not prescribe your every task. You need to decide how to use your time.
+Your objective is to pass each module.
+
+This leads onto ...
+
+2.) Consider improving your time management
+The university know this is 'jump' for some new students and have provided support.
+https://blogs.canterbury.ac.uk/ccculearningskills/year-0-1/time-management/
+I don't know your home background but you might try and activity where you total up the number of hours spend playing computer games. If you were to half that number of hours and invest that in the foundation programming skills. That is a good investment in time. You are going to reuse those skills throughout your degree.
+
+3.) Do you have a "Personal Academic Tutor"?
+https://www.canterbury.ac.uk/current-students/support-services/personal-support/personal-academic-tutor
+It might be worth asking for one. They might be able to help do something similar to what I am attempting to do for you now.
+
+They might be able to help you build study skills.
+
+
+Given how limited my time is, I hope this email points you in the right diction and prompts you to think further about your study skills.
+
+I am happy to answer a directed question.
+
+Now; go kick some code's ass!
+
+
+Allan
+
+
+---
+
+
+The term "micro"-teaching really does ﻿﻿really does encompass the goal of the activity. In 15 minuets we need to distil our knowledge of teaching practice into an artificially compressed timespan. The "micro" in micro-teaching is a fitting name. By condensing demonstration of our teaching methodologies, we facilitate input and feedback from other professionals. Everyone's time is limited and should be considered precious. 15 mins provides just enough time to demonstrate our skills without requiring an observer to engage with multiple hours of content.
+
+I spent multiple hours planning my 15 mins segment. If I was to spend several hours per 15min of lesson runtime on all of my planning I would not be able to perform my role. It is very easy to feel that "you could have planed more" with teaching. I feel this way about my microteach and my real sessions.
+
+It was pointed out that I did not solicit any input from my session for the first 8min. In face-to-face classrooms there would have been informal interactions before the session. This made me realise that online teaching requires constant attention to soliciting response and engagement. There is a chicken and egg conundrum with teaching, students can't make the desired progress without the input. This leads to instructors delivering a barrage of material before setting a task. The other alternatives are asking students to actively explore a topic themselves (possibly in an unstructured way) or requesting constant responses when conveying new material, which could slow the delivery to a point of frustration for some learners. Being an on-line learner and being "talked at" is not an engaging experience. The microteach has challenged my thinking about the frequency I interact with my learners online. I must improve my regular explicit checking of understanding. Face-to-face I can read facial expressions and body language and feel more open to asking questions to my students. When teaching online I need to explicitly check the understanding of my students more.
+
+(As a side note Dylan Willam has an interesting technique for solicitng feedback from the class with 'traffic light style cups', green for "I'm ok", "amber for this is tricky" and red for "I'm lost, stop, help". Blackboard also supports this coloured feedback. Maybe it is worth investing in directing my students to become familiar with those interface options)
+
+In my microteach, I tried to teach the concept of a "diagnostic question". An "incorrect answer" to a question should unveil a misconception. I was surprised when some learners did not understand the concept I was trying to convey. This was relayed to me in the chat and some of the example diagnostic questions created missed the concept. I was expecting masters level learners to grasp the concept quite quickly. With a restriction of 15 minuets I did not have the time to delve into why. Was there a baseline level of understanding that I missed? Was my explanation not clear enough? Was the time frame just too short to properly digest the content? Perhaps this should have been more actively followed up after the session. Is this a reasonable time allocation to gather those answers for a one-off learning activity? Outside of a microteach environment I would anticipate following these questions up with students. Was this an artefact of my teaching or the restrictions of the compressed format of microteaching?
+
+
+
+

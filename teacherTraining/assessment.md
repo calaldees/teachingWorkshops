@@ -273,6 +273,28 @@ Online
 * Automated tests - GitHub classroom
     * ??
 
+Exam
+----
+
+* [AQA: GCSE Computer Science From 2020](https://www.aqa.org.uk/subjects/computer-science-and-it/gcse/computer-science-8525)
+* [OCR: Computer Science (9-1) - J277 From 2020](https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/)
+    * [Assessment Story: exploring our question papers](https://www.ocr.org.uk/Images/562109-assessment-story-exploring-our-question-papers.pdf)
+
+* [Revised arrangements for GCSE computer science](https://www.gov.uk/government/news/revised-arrangements-for-gcse-computer-science)
+    * > Ofqual has today (8 January 2018) announced that non-exam assessment will not count to the final 9 to 1 grade in GCSE computer science in 2018 or 2019. It is, however, still an important part of the course and contributes to student learning and progress, so all schools must continue to give students the opportunity within the timetable to complete the tasks.
+* [Future assessment arrangements for GCSE (9 to 1) computer science](https://www.gov.uk/government/consultations/future-assessment-arrangements-for-gcse-computer-science)
+    * [Decisions on future assessment arrangements for GCSE (9 to 1) computer science](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/779004/Decision_GCSE_computer_science_6464_1_ADD.pdf) November 2018 Ofqual
+        * > We understand that features of working practice, such as collaboration and reference to online coding repositories,would not normally be allowed in exams.Exams are by their nature artificial constructs which allow a particular aptitude to be measured.There are many subjects where the established form of assessment does not reflect how the skills and understanding imparted during the course of study might be used in real-life contexts.Students will, of course, be able to work collaboratively and use online resources as they develop their programming skills.
+        * > We also noted the point made by one teacher that assessment by examination is in fact the predominant form of assessment used in recruitment in industry: “Many organisations use only exam assessment to recruit new developers. It is therefore reasonable to assume that similar methods of assessment can be used by the exam boards.”
+* [GCSE (9 to 1) subject level conditions and requirements for computer science ](https://www.gov.uk/government/publications/gcse-9-to-1-subject-level-conditions-and-requirements-for-computer-science)
+    * [GCSE Subject Level Conditions and Requirements for Computer Science: For qualifications examined from 2022 onwards](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/779192/GCSE-subject-level-conditions-and-requirements-for-computer-science-examined-2022-onwards.pdf) feb 2019 Ofqual
+
+* [Long-term plan for GCSE computer science confirmed ](https://www.gov.uk/government/news/long-term-plan-for-gcse-computer-science-confirmed) DfE Jan 2019
+    * exam boards will be free to adopt approaches to assessing programming skills by examination that they feel are most appropriate from 2022 onwards. This affords them the opportunity to consult with stakeholders and be innovative in their approach
+    * schools and colleges will confirm to their exam board that their students have been given the opportunity to complete a programming task as part of their course
+    * the current interim arrangements, where schools and colleges must set aside 20 timetabled hours for students to undertake a programming task, will remain in place for students sitting exams up to 2021
+
+
 Tracking
 --------
 
@@ -428,7 +450,7 @@ Teacher assessment can include bias
 Stress
 
 Professor Bill Lucas - university of winchester
-[Rethinking Assessment](https://bigeducation.org/rethinking-assessment-home/)
+[Rethinking Assessment](https://bigeducation.org/rethinking-assessment-home/) - [blogs](https://bigeducation.org/blogs-ra/)
 Assessment could be fairer?
 Development of the socialsocial intenigence
 KIPP school angel duckworth: Zest, grit, optimisum, self control, gratitude
@@ -462,12 +484,17 @@ Assessment of groups (not just individual)
 Most employers are interested in ability to work in groups
 pizza 2015 Reliably assess collaborative problem solving
 * [PISA 2015 COLLABORATIVE PROBLEM-SOLVING FRAMEWORK](https://www.oecd.org/pisa/pisaproducts/Draft%20PISA%202015%20Collaborative%20Problem%20Solving%20Framework%20.pdf)
-* [Collaborative  Problem Solving:Considerations for the National Assessment of Educational Progress](https://nces.ed.gov/nationsreportcard/pdf/researchcenter/collaborative_problem_solving.pdf)
+    * > Collaborative problem solving competency is the capacity of an individual to effectively engage in a process whereby two or more agents attempt to solve a problem by sharing the understanding and effort required to come to a solution and pooling their knowledge, skills and efforts to reach that solution
+* [Collaborative Problem Solving: Considerations for the National Assessment of Educational Progress](https://nces.ed.gov/nationsreportcard/pdf/researchcenter/collaborative_problem_solving.pdf)
+    * an essential 21st century skil
+    * a new assessment domain
+    * An Interdisciplinary Experience
 
 
 
 
-* [Inside the Black Box: Raising Standards through Classroom Assessment ](https://journals.sagepub.com/doi/full/10.1177/003172171009200119) 2010 Paul Black, Dylan Wiliam
+
+* [Inside the Black Box: Raising Standards through Classroom Assessment](https://journals.sagepub.com/doi/full/10.1177/003172171009200119) 2010 Paul Black, Dylan Wiliam
     * [What is formative assessment, why hasn’t it worked in schools, and how can we make it better in the classroom?](https://impact.chartered.college/article/booth-what-formative-assessment-make-better-classroom/) 2017
         * > The big mistake that Paul and I made was calling this stuff “assessment”… because when you use the word assessment, people think about tests and exams’ (Stewart, 2012). He later commented that it should probably have been called something like ‘responsive teaching’ (Wiliam, 2013b).
 
@@ -508,3 +535,42 @@ Terminology
 * Moderation
 * Standardisation
 
+
+Gamification - code combat
+
+* [Influence of Formative Assessment Classroom Techniques (FACTs) on student’s outcomes in chemistry at secondary school](https://www.researchgate.net/publication/339149613_Influence_of_Formative_Assessment_Classroom_Techniques_FACTs_on_student%27s_outcomes_in_chemistry_at_secondary_school) Babincakova 2020
+    * Formative Assessment Classroom Techniques
+        * True or false statements
+            * 50% guess
+        * Vocabulary square (for a word)
+            * definition, fact, characteristic, examples
+        * checklist - reflect on progress
+            * done/not-done yes/no
+            * Can do on own / can do with some help / cant do
+        * K-W-L chart
+            * (K)now, (W)ant to know, (L)earnt during lesson
+        * Concept map
+            * Visual mind map - useful to see students concept changes
+        * Exit card
+            * 2 significant points this lesson and 1 question (to be covered next lesson)
+
+
+* [Journal of Computer Assisted Learning](https://onlinelibrary.wiley.com/journal/13652729)
+    * [Review of computer-based assessment for learning in elementary and secondary education](https://myweb.fsu.edu/vshute/pdf/jcal.pdf) Shute and Rahimi 2016
+        * Generated personalised tests with question banks and immdiate feedback
+        * design feedback so that it can be used
+        * Our findings indicate that generally, assess-ment _of_ learning tends to be more prevalent than assess-ment _for_ learning in online-learning setting
+        * Data driven continuous CBAfL
+            * spotting statistical weakness
+            * extensive and ongoing analyses of the data that the learners produce in various digital learning environments
+            * auto pairing students
+        * We also expect that innovative CBAfL techniques willmove beyond the laboratory and into the mainstream,and we will no longer have to rely solely on high-staketests for assessing students’knowledge and skills (Shuteet al., 2016a). The boundaries between instruction, learn-ing and assessment will eventually become blurred.
+
+Assessing just the artefact (final code) is not sufficient to understand the process that lead to it.
+Sentence says - assess abilities
+assess design - assess by interview
+
+
+[How assessment drives curriculum at every level, and not necessarily in the right direction...](https://bigeducation.org/rethinking-blogs/how-assessment-drives-curriculum-at-every-level-and-not-necessarily-in-the-right-direction/) 2020 Sarah Fletcher High Mistress, St Paul’s Girls’ School, London
+    * > Our current knowledge-based system only goes part of the way towards equipping young people with the skills that will give them the confidence and resilience to shape their own path through life.  They need to make the best of human capacity for imagination and critical judgment, especially with our ever-greater dependency on technology and artificial intelligence.”
+    * > The world is moving fast, and education risks falling behind. 
