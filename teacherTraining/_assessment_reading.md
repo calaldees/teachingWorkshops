@@ -19,6 +19,9 @@ It is worth becoming familiar with the assessment strategies used at different l
         * 44% exam
     * [Non-exam assessment administration](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517/non-exam-assessment-administration)
         * 12% project
+* Future?
+    * [The e-Assessment question - How technology is imagining solutions to outmoded assessment practices](https://bigeducation.org/rethinking-blogs/the-e-assessment-question/) Bob Harrison 2020
+    * ... more from [Rethinking Assessment](https://bigeducation.org/blogs-ra/)
 
 We will continue to look at classroom strategies for assessment in January
 
