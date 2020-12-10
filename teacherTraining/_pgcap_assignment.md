@@ -335,3 +335,13 @@ A4
 
 Book on courses
 Making your synchronous digital sessions more interactive' and 2) 'Enhancing blended learning for your students'
+
+
+CCCU learning and teaching stratergy - example
+https://learn.canterbury.ac.uk/webapps/discussionboard/do/message?action=list_messages&course_id=_13640_1&nav=discussion_board&conf_id=_36591_1&forum_id=_39735_1&message_id=_263313_1
+https://learn.canterbury.ac.uk/webapps/discussionboard/do/message?action=list_messages&course_id=_13640_1&nav=discussion_board&conf_id=_36591_1&forum_id=_39735_1&message_id=_263191_1
+
+Brookfields lenses (the students thoughts!, an experienced observers thoughts)
+
+Pick your themes!!! .. get them all down .. then refine ...
+

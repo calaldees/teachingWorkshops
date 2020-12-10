@@ -1,12 +1,20 @@
 Computing Candidate Interview Questions
 =======================================
 
-* 45 min
-    * 10 min lesson plan
-    * 20 min interview questions
-    * 10 min QA / chat
-    *  5 min (buffer)
+Introduction
+------------
 
+Introduce background of interviewers
+
+### Timeframe
+* 45 min
+    * 5 min overview
+    * 10 min lesson plan
+    * 25 min interview questions
+        * half teaching computing focused - half general teaching focused
+    * 5 min QA / chat
+
+### Objectives
 * Ascertain
     * Subject Knowledge
     * Awareness of pedagogy
@@ -15,22 +23,22 @@ Computing Candidate Interview Questions
     * Safeguarding (Professionalism)
 
 
-Opening
--------
+Overview (5 min)
+--------
 
 Tell me your story:
   How did you get here?
   Why do you want to become a teacher?
 
 
-Lesson Plan
+Lesson Plan (10 min)
 -----------
 
 * Resource A or B (not both!)
 * Not subject focused
 
 
-Computing Knowledge
+Computing Knowledge (4 min)
 -------------------
 
 > You type `google.com` into a ‘url bar’ and 1 second later you see the Google logo and search box.
@@ -42,23 +50,11 @@ Using your knowledge of ‘The entire discipline of Computing’; can you descri
 > What is the difference between a ‘gif’ and ‘jpg’
 (Lossy, 256 color palette, animation)
 
-> Can you describe a hard computing problem
-> Can you describe a trivial computing problem
-(Theory of computing. What are NPComplete problems)
 
-> How would you test a random number generator
-(Logical thinking, gets really interesting with floating point numbers)
+Code Comprehension (4 min)
+--------------------------
 
-> Can you describe to me the functionality of a hashtable, hashmap, dictionary or associative array
-(Implementation of language tools)
-
-> Can you tell me about Intellectual Property addresses (IP addresses) of companies
-(Deliberate misuse of terminology. Give the depth of the earlier questions the candidate should question this)
-
-Code Comprehension
-------------------
-
-Look at this code and comment on anything that you can identify.
+Look at this code and comment on anything that you can identify using technical terminology.
 
 ### Code 1
 
@@ -75,7 +71,7 @@ Look at this code and comment on anything that you can identify.
     for y in range(image_src.height):
         for x in range(image_src.width):
             land_height = image_src.getpixel((x, y))
-            if land_height - sea_level > 0:
+            if (land_height - sea_level) > 0:
                 c = (0, 255, 0)
             else:
                 c = (0, 0, 255)
@@ -97,30 +93,32 @@ Look at this code and comment on anything that you can identify.
 
 (Looking if candidate can use technical language to describe programming constructs. Functions, Variables, Assignment operators, mathematical operations, scope. iteration)
 
-Computing in Education
+
+Computing in Education (4 min)
 ----------------------
 
 * Tell me about the current Computing syllabus in schools
     * What books/articles/blogs/videos have you encountered about teaching Computing?
 * What do you think young people will find the most challenging aspect of learning computing
 * How would teaching Computing differ from other subjects?
-* How does Computing relate to the other school subjects?
 * Can you envisage a problematic scenario in a computing classroom
     * How might you deal with this?
 * How do you see your skills and role changing/developing over the years?
 * What problems are there with young people using technology?
 
-PGCE
-----
+
+General Teaching (5 min)
+----------------
 
 * What will make you a good teacher?
+* What are the hallmarks of a good lesson?
 * Why did you choose the PGCE over School Direct?
 * Describe a time when you had to learn a new technology. Why did you learn it? How did you approach it?
 * What would you do if you were concerned about a colleague's behaviour towards children?
-* What policies are important to support a safe school environment?
 * Provide examples of times when workload and numerous tasks have been managed concurrently
 * You have prepared an amazing lesson with guidance from theory and the university. You present the lesson plan to your mentor who is no convinced and does not want you to run the lesson. How do you respond?
-* Can you give an example of where you changed your opinion
+* Can you give an example of where you changed your opinion?
+
 
 Interview Criteria
 ==================
