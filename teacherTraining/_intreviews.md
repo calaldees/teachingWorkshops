@@ -10,7 +10,7 @@ Introduce background of interviewers
 * 45 min
     * 3 min Introduction
     * 5 min personal overview
-    * 10 min lesson plan
+    * 7 min lesson plan
     * 25 min interview questions
         * half teaching computing focused - half general teaching focused
     * 5 min QA / chat
