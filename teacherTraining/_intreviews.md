@@ -8,7 +8,8 @@ Introduce background of interviewers
 
 ### Timeframe
 * 45 min
-    * 5 min overview
+    * 3 min Introduction
+    * 5 min personal overview
     * 10 min lesson plan
     * 25 min interview questions
         * half teaching computing focused - half general teaching focused
@@ -23,15 +24,15 @@ Introduce background of interviewers
     * Safeguarding (Professionalism)
 
 
-Overview (5 min)
---------
+Personal Overview (5 min)
+-----------------
 
 Tell me your story:
   How did you get here?
   Why do you want to become a teacher?
 
 
-Lesson Plan (10 min)
+Lesson Plan (7 min)
 -----------
 
 * Resource A or B (not both!)
@@ -94,7 +95,7 @@ Look at this code and comment on anything that you can identify using technical 
 (Looking if candidate can use technical language to describe programming constructs. Functions, Variables, Assignment operators, mathematical operations, scope. iteration)
 
 
-Computing in Education (4 min)
+Computing in Education (5 min)
 ----------------------
 
 * Tell me about the current Computing syllabus in schools
@@ -107,7 +108,7 @@ Computing in Education (4 min)
 * What problems are there with young people using technology?
 
 
-General Teaching (5 min)
+General Teaching (12 min)
 ----------------
 
 * What will make you a good teacher?
@@ -118,6 +119,12 @@ General Teaching (5 min)
 * Provide examples of times when workload and numerous tasks have been managed concurrently
 * You have prepared an amazing lesson with guidance from theory and the university. You present the lesson plan to your mentor who is no convinced and does not want you to run the lesson. How do you respond?
 * Can you give an example of where you changed your opinion?
+
+
+Questions (5 min)
+---------
+
+
 
 
 Interview Criteria
