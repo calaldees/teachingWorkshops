@@ -29,6 +29,8 @@ The length of your claim can vary by minus or plus 10%. If it is longer than 110
 
 ---
 
+A1 + A2 + K1 + K2 + V*
+
 * Dimensions of Framework
     * Areas of Activity
         * A1
@@ -63,6 +65,8 @@ The length of your claim can vary by minus or plus 10%. If it is longer than 110
             * Use evidence-informed approaches and the outcomes from research, scholarship and continuing professional development 
         * V4
             * Acknowledge the wider context in which higher education operates  recognising the implications for professional practice
+
+(Use the terms - dont quote the K V A 's)
 
 * Level Descriptors
     * D1 - Associate Fellow
@@ -282,3 +286,52 @@ In my microteach, I tried to teach the concept of a "diagnostic question". An "i
 
 
 
+---
+
+cdio.org
+qaa.ac.uk/en/quality-code/subject-benchmark-statements
+canterbury.ac.uk/learning-and-teaching-enhancement/docs/Learning-and-Teaching-Strategy-2015-2022.pdf
+learn.canterbury.ac.uk/bbcswebdav/pid-2681658-dt-content-rid-4051358_1/xid-4051358_1
+learn.canterbury.ac.uk/bbcswebdav/pid-2681658-dt-content-rid-4051357_1/xid-4051357_1
+cdio.org/benefits-cdio/cdio-syllabus/cdio-syllabus-topical-form
+digitalmedia.sheffield.ac.uk/media/UKPSFA+Core+Knowledge/1_mz8bybop
+
+UKSPF videos
+
+https://d23aipgwensgtz.cloudfront.net/images/News/Legacy/Dyslexia_Style_Guide_2018-final.pdf
+
+https://www.researchgate.net/profile/Tong_Wan4/publication/338555773_Student_perspective_of_GTA_strategies_to_reduce_feelings_of_anxiousness_with_cold-calling/links/5e1c8dd0299bf10bc3abd1b9/Student-perspective-of-GTA-strategies-to-reduce-feelings-of-anxiousness-with-cold-calling.pdf  
+
+---
+
+Identify the key themes of the assignment before
+
+V4 - wider profetional skills we are trying to convey to teachers - look to scholorchip - what my role is
+No placement to give context of teaching until Nov 16th - some schools closed
+Some placements terminated
+
+Knowlege element - satisfaction element
+Use the chat bar to show something that you've learnt
+
+My students reflections - difficulty getting this
+
+Other peoples perspective
+
+https://learn.canterbury.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_13640_1&content_id=_2481066_1
+https://learn.canterbury.ac.uk/bbcswebdav/pid-2481067-dt-content-rid-3947755_1/courses/E20MAPIN4NFL/E29%20IFL%20Reflection%20Assignment%20Guidance%20May%202020.pdf
+
+
+
+A1 
+ technolgy
+ interactvitiy
+ asycn? flipped?
+
+A2
+
+A4
+ Learning environment - wider context
+ blackbord area, emails, tutorials, feedback mechanisums, module handbook
+
+Book on courses
+Making your synchronous digital sessions more interactive' and 2) 'Enhancing blended learning for your students'

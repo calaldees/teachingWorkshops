@@ -32,6 +32,6 @@ Questions
 These are questions to prompt your thinking.
 
 * How do CAS progression pathways map to GCSE? do that map? What might be difficult/different in the ks3 to ks4 transition?
-* Why was the exam assessment at GCSE abolished?
+* Why was the non-exam assessment at GCSE abolished?
 * What are the implications of ofqual saying "This affords exam boards the opportunity to be innovative in their approach to assessing programming skills" with it's computing reform
 * Why does A-Level Computer science have a _practical exam_ and an assessed _project_ but the GCSE does not?
