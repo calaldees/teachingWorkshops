@@ -15,6 +15,9 @@ Introduce background of interviewers
         * half teaching computing focused - half general teaching focused
     * 5 min QA / chat
 
+We have a lot to fit in 45mins. 
+Apologies in advance; I may move our discussions onwards to keep to time.
+
 ### Objectives
 * Ascertain
     * Subject Knowledge
