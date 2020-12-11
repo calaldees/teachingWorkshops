@@ -298,7 +298,8 @@ digitalmedia.sheffield.ac.uk/media/UKPSFA+Core+Knowledge/1_mz8bybop
 
 UKSPF videos
 
-https://d23aipgwensgtz.cloudfront.net/images/News/Legacy/Dyslexia_Style_Guide_2018-final.pdf
+
+[Dyslexia Style Guide 2018: Creating Dyslexia Friendly Content](https://d23aipgwensgtz.cloudfront.net/images/News/Legacy/Dyslexia_Style_Guide_2018-final.pdf)
 
 https://www.researchgate.net/profile/Tong_Wan4/publication/338555773_Student_perspective_of_GTA_strategies_to_reduce_feelings_of_anxiousness_with_cold-calling/links/5e1c8dd0299bf10bc3abd1b9/Student-perspective-of-GTA-strategies-to-reduce-feelings-of-anxiousness-with-cold-calling.pdf  
 
@@ -318,8 +319,13 @@ My students reflections - difficulty getting this
 Other peoples perspective
 
 https://learn.canterbury.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_13640_1&content_id=_2481066_1
+
+
+Guidelines for writing
 https://learn.canterbury.ac.uk/bbcswebdav/pid-2481067-dt-content-rid-3947755_1/courses/E20MAPIN4NFL/E29%20IFL%20Reflection%20Assignment%20Guidance%20May%202020.pdf
 
+Group padlet
+https://cccu.padlet.org/claire_loffman/udxs9qoecvzh472y
 
 
 A1 
@@ -334,7 +340,7 @@ A4
  blackbord area, emails, tutorials, feedback mechanisums, module handbook
 
 Book on courses
-Making your synchronous digital sessions more interactive' and 2) 'Enhancing blended learning for your students'
+Making your synchronous digital sessions more interactive and 2) 'Enhancing blended learning for your students'
 
 
 CCCU learning and teaching stratergy - example

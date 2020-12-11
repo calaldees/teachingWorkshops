@@ -13,3 +13,5 @@
 
 * [Every thought about giving and taking advice I’ve ever had, as concisely as possible](https://guzey.com/advice/)
     * TODO - READ!
+
+* [My New Side Hustle Mantra: "Progress Over Perfection"](https://www.thedailymba.com/2020/12/08/my-new-side-hustle-mantra-progress-over-perfection/)

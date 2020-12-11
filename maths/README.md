@@ -13,3 +13,10 @@ Move other maths here?
 
 
 * [BiVector](https://bivector.net/) - Geometric Algebra for CGI, Vision and Engineering
+
+
+Computing
+---------
+
+* [How the Slowest Computer Programs Illuminate Math’s Fundamental Limits](https://www.quantamagazine.org/the-busy-beaver-game-illuminates-the-fundamental-limits-of-math-20201210/)
+    * The goal of the “busy beaver” game is to find the longest-running computer program. Its pursuit has surprising connections to some of the most profound questions and concepts in mathematics.

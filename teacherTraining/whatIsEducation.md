@@ -161,6 +161,19 @@ Can Science and Religion be taught together?
         * 02:30:00 Study of _religion as software_ - rules/structure that lead to better outcomes
 * Fundamental British Values (mentioned last week)
 
+* [CSForAll: CS Visions Toolkit](https://www.csforall.org/visions/)
+    * > There is not one purpose for education, and there should not be one purpose for computer science education either. 
+    * [CS for What? Diverse Visions of Computer Science Education in Practice](https://firebasestorage.googleapis.com/v0/b/summit-website-production.appspot.com/o/visions%2FSanto_Vogel_Ching_2019_CS4What_Diverse_Visions_of_Computer_Science_Education_in_Practice.pdf?alt=media&token=cd892dba-2859-4793-9250-59cda95e02bf)
+        * Lots of links to social context case studies and projects
+    * core purposes
+        * Personal Agency, Joy & Fulfilment
+        * Economic & Workforce Development
+        * Competencies & Literacies
+        * School  Reform & Improvement
+        * Citizenship & Civic Engagement
+        * Technological, Social & Scientific Innovation
+        * Equity & Social Justice
+    * Unplugged activity for considering the purpose of CS education
 
 
 The attitude of the Teacher

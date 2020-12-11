@@ -31,11 +31,21 @@ Teaching Resources
     * [Magazine + Booklets downloads](https://cs4fndownloads.wordpress.com/)
         * with cool Computing activities
 * [khan academy](https://www.khanacademy.org/computing)
+    * [Unit: Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 * [CS Unplugged](http://csunplugged.org/)
     * [classic resources](https://classic.csunplugged.org/)
 * [Teaching London Computing](https://teachinglondoncomputing.org/)
     * Activities + Cross curricular ideas
 * [Barefoot Computing KS1/KS2 resources](https://www.barefootcomputing.org/primary-computing-resources)
+* [Exploring Computer Science](http://www.exploringcs.org/)
+    * a year-long, research-based, high school intro-level computer science curriculum and teacher professional development program that focuses on broadening participation in computing.
+    * CS Concepts, Inquiry, Equality
+* [Girls Who Code](https://girlswhocode.com/en-uk)
+    * [Code At Home Activities](https://girlswhocode.com/programs/code-at-home)
+        * Free computer science activities for students, educators, and parents
+* [MIT App inventor 2](https://appinventor.mit.edu/explore/teach)
+    * [Setting Up App Inventor](https://appinventor.mit.edu/explore/ai2/setup) - web based editor + run on android app over wi-fi
+    * Screen designer and block code
 * Exam Boards
     * AQA
         * [Teaching Resources](https://www.aqa.org.uk/subjects/computer-science-and-it/gcse/computer-science-8520/teaching-resources)
@@ -61,7 +71,10 @@ Teaching Resources
 * [Brilliant](https://brilliant.org/)
     * [Computer Science Essentials](https://brilliant.org/courses/computer-science-essentials/)
         * [python introduction](https://brilliant.org/courses/programming-python/#chapter-introduction-28)
-
+* [CAS - Computational Thinking - A guide for teachers](https://community.computingatschool.org.uk/files/8550/original.pdf)
+* [MIT Open Courseware - computer science](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience)
+* [Better Explained](https://betterexplained.com/)
+    * Maths and some computing visual guides
 * [Future Learn](https://www.futurelearn.com/)
     * TODO: uni courses? online free?
 
@@ -109,14 +122,6 @@ Digital Schoolhouse http://www.digitalschoolhouse.org.uk
 Teaching London Computing http://www.teachinglondoncomputing.org
 
 
-[CAS - Computational Thinking - A guide for teachers](https://community.computingatschool.org.uk/files/8550/original.pdf)
-
-
-[MIT Open Courseware - computer science](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience)
-
-
-* [Better Explained](https://betterexplained.com/)
-    * Maths and some computing visual guides
 
 
 General
