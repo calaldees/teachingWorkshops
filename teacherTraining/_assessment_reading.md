@@ -8,6 +8,7 @@ It is worth becoming familiar with the assessment strategies used at different l
 
 * KS3
     * [CAS Progression Pathways](https://www.computingatschool.org.uk/data/quick_start_secondary/progression_path.pdf)
+        * [Computing Progression Pathways Guidance](https://magpie.education/computing_faq7b.html)
 * GCSE
     * National GCSE debacle - Examined coursework was abolished at GCSE because of rampant plagiarism - GCSE is exam only
         * [Revised arrangements for GCSE computer science](https://www.gov.uk/government/news/revised-arrangements-for-gcse-computer-science)

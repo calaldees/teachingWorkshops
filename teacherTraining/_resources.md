@@ -4,6 +4,9 @@ Resources
 Teaching Resources
 ------------------
 
+* [WikiBooks: A-level Computing/AQA 2015 spec](https://en.wikibooks.org/wiki/A-level_Computing/AQA)
+    * [WikiBooks: A-level Computing/AQA 2009 spec](https://en.wikibooks.org/wiki/A-level_Computing_2009/AQA)
+* [Diagnostic Questions: Project Quantum - Computer Science bank](https://diagnosticquestions.com/quantum)
 * [Craig and David: Teachers](https://craigndave.org/)
     * [Craig and David: Students](https://student.craigndave.org/)
 * [isaac Computer Science](https://isaaccomputerscience.org/)
@@ -77,7 +80,8 @@ Teaching Resources
     * Maths and some computing visual guides
 * [Future Learn](https://www.futurelearn.com/)
     * TODO: uni courses? online free?
-
+* [Magpie Education](https://magpie.education/) - EdTech Resources & Curriculum Tools to Inspire STEM Learning through the Joy of Creating.
+    * [Lesson Resources](https://magpie.education/resources/)
 
 
 Links to other MD documents
@@ -96,7 +100,8 @@ Pedagogy
 --------
 * [teachcomputing.org - Pedagogy Quick Reads](https://blog.teachcomputing.org/tag/quickread/)
     * [Quick Read: Using PRIMM to structure programming lessons](https://blog.teachcomputing.org/using-primm-to-structure-programming-lessons/)
-
+* [TPEA: Technology Pedagogy and Education Association](https://tpea.ac.uk/)
+    * [old site - ITTE: Information Technology in Teacher Education](http://itte.org.uk)
 
 
 Unsorted
@@ -135,3 +140,9 @@ Starters
 
 * [lumenlearning.com: Educational Psychology](https://courses.lumenlearning.com/educationalpsychology/)
     * Complete teacher course - clear articles - lots of references
+
+
+Research?
+--------
+
+[ResearchGate Search Computer Science Education](https://www.researchgate.net/search/publication?q=%28%22Teacher+Education%22+OR+%22Teacher+Training%22%29+AND+%28%22Computing%22+OR+%22Computer+Science%22%29) - naff because no date sort and poor search tooling

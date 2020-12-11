@@ -355,7 +355,9 @@ moderation across department, schools
 Do this sooner rather than later
 
 Becoming a standard
-[CAS Progression Pathways](https://www.computingatschool.org.uk/data/quick_start_secondary/progression_path.pdf)
+* [CAS Progression Pathways](https://www.computingatschool.org.uk/data/quick_start_secondary/progression_path.pdf)
+    * [Mark Dorling](https://mirandanet.ac.uk/computing-curriculum-in-english-schools/)
+        * [Managing Key Stage 1 – 3 Assessment: In Practice](https://magpie.education/computing_faq7a.html)
 are all strands equal? overall grade? 7 in noe and 4 in another
 how dose this level help the student?
 

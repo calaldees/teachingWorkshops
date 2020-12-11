@@ -266,6 +266,10 @@ Your note taking system should be online and transparent.
             * e.g last year when lockdown happened - educators asked to predict on trajectory
             * I will be part of a panel of professionals that could be asked about your progress
 
+* [Blogging while on professional placement: explaining the diversity in student attitudes and engagement](https://www.tandfonline.com/doi/abs/10.1080/1475939X.2013.847481?journalCode=rtpe20) Dalgarno (2013)
+    * > The use of journals by students while on placement is a well-accepted strategy for encouraging reflection on practice, with the use of online blogs for this purpose potentially providing additional benefits through shared reflection and peer support. The aim of this study was to explore the effectiveness of an online blogging activity by teacher education students while on professional placement in schools.
+* [Blogs in pre-service teacher education: exploring the participation issue](https://www.tandfonline.com/doi/abs/10.1080/1475939X.2013.802990) Deng 2012
+    * > conceptualise the participation issue central to blogs through examining the factors that hinder student teachers from writing academic blogs and exchanging comments
 
 How we will reflect? Tooling
 ----------------------------

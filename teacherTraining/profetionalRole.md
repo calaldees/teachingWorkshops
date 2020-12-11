@@ -159,6 +159,9 @@ Many students cite: Singer, Game Designer, Actor, Film Director, YouTuber, Steam
 This narrow view is understandable; it's ultimately the failing of adults ability to convey the concept of society to young people.
 We need to stop indulging our young people. We risk creating a generation of self-obsessed, wingey, skill-less turnips.
 
+* [Spheres of influence: what shapes young people’s aspirations at age 12/13 and what are the implications for education policy?](https://www.tandfonline.com/doi/abs/10.1080/02680939.2013.790079) Louise Archer 2013
+    * > We demonstrate how aspirations are shaped by structural forces (e.g. social class, gender and ethnicity) and how different spheres of influence (home/family, school, hobbies/leisure activities and TV) appear to shape different types of aspirations. The paper concludes by considering the implications for educational policy and careers education.
+
 Skill up to assist your community.
 Get revenue for it.
 Get satisfaction from it.

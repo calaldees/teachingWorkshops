@@ -35,3 +35,9 @@ ISBN-13: 978-3540779339
 ---
 
 [Computer Science Education: Perspectives on Teaching and Learning in School](https://www.amazon.co.uk/Computer-Science-Education-Erik-Barendsen/dp/135005710X/)
+
+
+---
+
+TODO: Research these?
+[Learning Identities in a Digital Age: Rethinking creativity, education and technology](https://www.amazon.co.uk/Learning-Identities-Digital-Age-Rethinking/dp/0415675723) 2013
