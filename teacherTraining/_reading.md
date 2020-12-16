@@ -41,3 +41,8 @@ ISBN-13: 978-3540779339
 
 TODO: Research these?
 [Learning Identities in a Digital Age: Rethinking creativity, education and technology](https://www.amazon.co.uk/Learning-Identities-Digital-Age-Rethinking/dp/0415675723) 2013
+
+* Intelligent Accountability
+    * [Intelligent Accountability](https://learningspy.co.uk/featured/intelligent-accountability/) David Didau 2015
+    * [Intelligent Accountability: Creating the conditions for teachers to thrive ](https://www.amazon.co.uk/Intelligent-Accountability-Creating-conditions-teachers/dp/1913622274/) 2020
+    * [Book review: Intelligent Accountability](https://www.tes.com/news/book-review-intelligent-accountability)

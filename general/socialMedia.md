@@ -41,3 +41,4 @@ Social Media
 * [You Are the Product](https://www.lrb.co.uk/the-paper/v39/n16/john-lanchester/you-are-the-product) John Lanchester 2017
     * To read
 * [Solomon Islands set to ban Facebook in the name of 'national unity'](https://www.abc.net.au/news/2020-11-23/solomon-islands-set-to-ban-facebook-for-sake-of-national-unity/12910786)
+* [We can have democracy or we can have Facebook, but we can't have both](https://the.ink/p/we-can-have-democracy-or-we-can-have) - A conversation with Matt Stoller about the new antitrust case and the real reason you should care about corporate monopolies

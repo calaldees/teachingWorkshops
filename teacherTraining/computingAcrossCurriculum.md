@@ -217,6 +217,7 @@ Lesson Topic Ideas
     * [Bacteria Simulation](https://www.youtube.com/watch?v=5UMZVmLt0Bw)
     * [BioInfomatics](http://rosalind.info/)
         + See my DNA-regex activity
+    * MRI Scan data (see TeachProgramming project)
     * Genetic algorithums
         * [genetic_cars_2](https://rednuht.org/genetic_cars_2/)
         * [Creatures racing](https://www.youtube.com/watch?v=31dsH2Fs1IQ)
@@ -262,6 +263,9 @@ Lesson Topic Ideas
         * watercolor maps
         * other visulisations? data visulisation?
     * [generative artistry](https://generativeartistry.com/)
+    * [Generative Art - A practical guide using Processing](https://www.manning.com/books/generative-art)
+        * Perfectly placed at the intersection of code and creative thinking
+        * [Generative Art - Autonomy: Cellular Automata](https://www.codeproject.com/Articles/218976/Generative-Art-Autonomy-Cellular-Automata)
     * The field of Data Visualisation (TODO: crosslink)
     * Aesthetic art to evoke emotion and imagery
         * [rekall.me](https://rekall.me/)
@@ -375,7 +379,10 @@ Using real data is inspiring
     * [Google Dataset Search](https://datasetsearch.research.google.com/)
     * [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
     * [free-datasets-for-projects](https://www.dataquest.io/blog/free-datasets-for-projects/)
-    * [](https://ourworldindata.org/)
+    * [OpenNeuro](https://openneuro.org/) - MRI datasets
+    * [DataLad](https://www.datalad.org/) Scientific Data Community? Explorable versioned data? API for data?
+    * [Our World in Data](https://ourworldindata.org/) - Research and data to make progress against the world’s largest problems
+        * [Who do we spend time with across our lifetime?](https://ourworldindata.org/time-with-others-lifetime)
     * [data.gov.uk](https://data.gov.uk/)
     * [National Office of Statistics](https://www.ons.gov.uk/)
     * [UK Data Service](https://www.ukdataservice.ac.uk/) international social science datasets
@@ -418,9 +425,14 @@ Discipline's
 
 Not directly related to an established school subject.
 
-* [[DataVisulisation]]
-    * (Where does visuisation go? It's like 'where does Geology exist in STEM?')
+* [[Data Visualisation]]
+    * (Where does visualisation go? It's like 'where does Geology exist in STEM?')
+    * [dataVisulisation.md](../computing/data/dataVisualisation.md)
 * Simulation
+    * [Modeling and Simulation in Python](https://greenteapress.com/wp/modsimpy/) [pdf](http://greenteapress.com/modsimpy/ModSimPy3.pdf)
+        * The first part presents discrete models, including a bikeshare system and world population growth.
+        * The second part introduces first-order systems, including models of infectious disease, thermal systems, and pharmacokinetics.
+        * The third part is about second-order systems, including mechanical systems like projectiles, celestial mechanics, and rotating rigid bodies.
     * [HASH.ai](https://hash.ai/) free online platform for assembling models of the world
         * Solving Problems Traditional Data Science Can’t with Agent based simulations
     * Climate

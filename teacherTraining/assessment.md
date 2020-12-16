@@ -192,6 +192,11 @@ Ruth Butler 1987
 
 [AfL Tools](https://www.slideshare.net/caldiesschool/tl-assessment-for-learning-tools)
 
+* [Formative assessment in the computer science classroom](https://www.raspberrypi.org/blog/research-seminar-formative-assessment-computer-science-classroom/) Sentence 2020
+    * 
+* [Formative Assessment](https://www.csforallteachers.org/blog/formative-assessment) Noah Mealy 2016
+
+
 https://mikegershon.com/resources/
 
 ITT Core Framework

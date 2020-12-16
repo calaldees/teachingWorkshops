@@ -208,7 +208,8 @@ Maynard and Furlong Level
 Know what we are covering in uni weeks
 Is mentoring collaborative (2way) - student encouraged to develop their own solutions
 Is mentor ok - is student ok
-[mento website](http://ccccumentors.org.uk/secondary/index.php)
+[mentor website](http://ccccumentors.org.uk/secondary/index.php)
+
 
 ### In conversation with the curriculum mentor
 * Hi
@@ -219,15 +220,17 @@ Is mentor ok - is student ok
 * Previous experience of mentoring and the extent to which the mentor has been trained
 * Explain the rationale for the visit being mentor facing (training visit and QA)
    * Enhance the work you (as mentor) are already doing
-   * Understand your mentoring style - (they come to right answer themselves - coach - two way)
-   * Aligned for Ofstead - likely after January
+   * Understand their mentoring style - (students come to right answer themselves - coach - two way)
+   * To align for Ofsted - likely this academic year
 * The timetable that they have devised for the student (check it provides coverage of both KS3 and KS4 and ascertain if access to KS5 is at all possible).
    * When is the weekly mentor meeting?
    * Is student observing other subjects? (ongoing?)
 * Explore the mentor’s knowledge of the [Curriculum 2020](http://ccccumentors.org.uk/files/secondary/curriculum-overview/Curriculum%202020%20introduction%20for%20partners%20-%20print-friendly.pdf);
+   * Ofsted don't want _Teacher Standards_ to be _The Curriculum_
+   * Ofsted schools and university to be aligned
    * Are they aware of the 10 key questions?
    * Are they aware of uni sessions each week? [Subject Handbook](https://learn.canterbury.ac.uk/bbcswebdav/pid-2664627-dt-content-rid-3988355_1/xid-3988355_1) [doc](http://ccccumentors.org.uk/files/secondary/Documentation/subject-documentation/computing/Computer%20Science%20Curriculum%20Guidance.docx)
-* Explain that the grading system is changing; no grading against the Standards; just the need to meet them holistically by the end of the programme; way stage checks will be in place
+* Explain that the grading system is changing; no grading against the Standards; just the need to meet them holistically by the end of the programme; MPR/PPR stage checks will be in place
 * Where is the student on [Furlong and Maynard (1995): Five stages of pre-service teacher learning](http://ccccumentors.org.uk/files/secondary/Documentation/programme-handbooks/school-direct/Subject%20mentor%20and%20tutor%20visits%20and%20support%20F&M%20model%202020-21.pdf)?
    * Quickly: Students strengths? Next steps for development?
    * On track? or Not on track? (support for student)
@@ -323,6 +326,17 @@ spot the errors in the code?
    * Assessment before christmass - partenship office
 
 
+Other Documents
+===============
+
 * [Sharepoint -> Secondary and post 16 -> Documents -> Assessment toward QTS -> Placement Assessment Consultation documents](https://cccu.sharepoint.com/teams/TeachFirstLeadership/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fteams%2FTeachFirstLeadership%2FShared%20Documents%2FAssessment%20toward%20QTS%2FPlacement%20Assessment%20Consultation%20documents&FolderCTID=0x01200053821CB91B297C4ABAF8D35F945C1578)
    * [Mentor Training Presentation](https://cccu-my.sharepoint.com/:p:/g/personal/sm1161_canterbury_ac_uk/EZUd0QqHAplOiGZYlE77llMBEwK-HMr5SoNeudcQi8jVzQ?rtime=CX-uCZ-L2Eg)
    * [Pupil Progress Bundle: Guidance](https://cccu-my.sharepoint.com/:w:/g/personal/sm1161_canterbury_ac_uk/EfVXKayimPBHjOQKeLACQ20BPSJSX14qycHPJhnnueI2Dg?rtime=I_lNu9-L2Eg)
+
+
+* [Assessment Stratergy 2020/2021](http://ccccumentors.org.uk/files/secondary/Documentation/assessment/Assessment%20Strategy%202020-21.pdf)
+
+
+* [Pupil Progress Bundle guidence](http://ccccumentors.org.uk/files/secondary/Documentation/pupil-progress-bundles/Pupil%20Progress%20Bundle%20Booklet%202020-2021.pdf)
+
+* [Subject Mentor and CurriculumTutor PartnershipVisits2020-21](http://ccccumentors.org.uk/files/secondary/Documentation/programme-handbooks/school-direct/Subject%20mentor%20and%20tutor%20visits%20and%20support%20F&M%20model%202020-21.pdf)

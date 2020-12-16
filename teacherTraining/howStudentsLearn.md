@@ -349,6 +349,10 @@ TASK: What does this mean for your planning?
 
 ---
 
+* [To the brain, reading computer code is not the same as reading language](https://news.mit.edu/2020/brain-reading-computer-code-1215) 2020 - Neuroscientists find that interpreting code activates a general-purpose brain network, but not language-processing centers.
+    * > The findings suggest there isn’t a definitive answer to whether coding should be taught as a math-based skill or a language-based skill. In part, that’s because learning to program may draw on both language and multiple demand systems, even if — once learned — programming doesn’t rely on the language regions, the researchers say.
+
+
 Closing Thoughts
 ----------------
 

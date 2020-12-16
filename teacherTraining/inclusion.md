@@ -722,6 +722,7 @@ Daughter autism (18 when finally diagnosed) (under diagnosed in girls, they mask
 * [Curriculum Adaption for Inclusive classrooms](https://files.eric.ed.gov/fulltext/ED358637.pdf) Tom Neary 1992
 
 
+* [Diversity in Schools](https://www.juliangirdham.com/blog/diversity-in-schools) Bennie Kara Dec 2020 - english - book review
 
 ama
 ---
@@ -899,3 +900,5 @@ Appendix
         * These discussions can build confidence in the actions being taken by the school, but they can also strengthen the impact of SEN support by increasing parental engagement in the approaches and teaching strategies that are being used
     * 6.68
         * Conducting these discussions effectively involves a considerable amount of skill. As with other aspects of good teaching for pupils with SEN, schools should ensure that teaching staff are supported to manage these conversations as part of professional development.
+
+

@@ -486,3 +486,12 @@ Conclusions
   * Secondary teaching feels anonymous and fragmented in comparison
 
 CPD: Set a target of having one day in primary in the summer term each year. Talk to the primary teachers. Network with them. Understand your primary feeder schools.
+
+
+TODO
+====
+
+* [Code Comprehension Strategies](http://code-it.co.uk/codecomp/) Phil Bagge 2019
+* [Assessing Primary Computing](http://code-it.co.uk/wp-content/uploads/2015/08/apc1.pdf) Phil Bagge
+* [experts in everything](https://twitter.com/Teacherglitter/status/1338548492697030659) [@Teacherglitter](https://twitter.com/Teacherglitter)
+  * My latest post made me realise something about primary school teachers. We are expected to deliver high content and lessons on subjects way out our comfort zone such as French. We are suddenly expected to be experts in EVERY subject. This is the craziness of primary education.

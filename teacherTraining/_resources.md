@@ -4,9 +4,16 @@ Resources
 Teaching Resources
 ------------------
 
+* [code.org](https://code.org/)
+    * Browser based environments
+        * [AppLab](https://studio.code.org/projects/applab/) Browser based app builder
+        * Artist (logo clone)
+        * Game builder
+    * [Courses](https://studio.code.org/courses)
+        * [Computer Science Principles - Course](https://studio.code.org/courses/csp-2020) for K12 CS
 * [WikiBooks: A-level Computing/AQA 2015 spec](https://en.wikibooks.org/wiki/A-level_Computing/AQA)
     * [WikiBooks: A-level Computing/AQA 2009 spec](https://en.wikibooks.org/wiki/A-level_Computing_2009/AQA)
-* [Diagnostic Questions: Project Quantum - Computer Science bank](https://diagnosticquestions.com/quantum)
+* [Diagnostic Questions: Project Quantum - Computer Science Questions bank](https://diagnosticquestions.com/quantum)
 * [Craig and David: Teachers](https://craigndave.org/)
     * [Craig and David: Students](https://student.craigndave.org/)
 * [isaac Computer Science](https://isaaccomputerscience.org/)
@@ -82,7 +89,12 @@ Teaching Resources
     * TODO: uni courses? online free?
 * [Magpie Education](https://magpie.education/) - EdTech Resources & Curriculum Tools to Inspire STEM Learning through the Joy of Creating.
     * [Lesson Resources](https://magpie.education/resources/)
-
+* [The MirandaNet Fellowship](https://mirandanet.ac.uk/)
+    * > a professional education community that was founded in 1992
+    * > Originally it was formed as a response to the realisation that short one-day training sessions for teachers about using computers in schools and classrooms was not enough. professional development to continue sharing policy and practice in the emerging field of computers in teaching and learning
+* [CodeIt](http://code-it.co.uk/) Phil Bagge [@baggiepr](https://twitter.com/baggiepr)
+    * KS1 to KS3 expert
+* [CS For All Teachers](https://www.csforallteachers.org/)
 
 Links to other MD documents
 * [Microbit](../physicalProgramming/microbit)
@@ -101,6 +113,7 @@ Pedagogy
 * [teachcomputing.org - Pedagogy Quick Reads](https://blog.teachcomputing.org/tag/quickread/)
     * [Quick Read: Using PRIMM to structure programming lessons](https://blog.teachcomputing.org/using-primm-to-structure-programming-lessons/)
 * [TPEA: Technology Pedagogy and Education Association](https://tpea.ac.uk/)
+    * [publications](https://tpea.ac.uk/publications/)
     * [old site - ITTE: Information Technology in Teacher Education](http://itte.org.uk)
 
 
