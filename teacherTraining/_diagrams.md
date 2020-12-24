@@ -140,6 +140,8 @@ Explore some of the other diagram tech and types
         * [create diagrams with code using graphviz](https://ncona.com/2020/06/create-diagrams-with-code-using-graphviz/)
 * All these technologies can be embed in Markdown
     * [My HackMD Examples](https://hackmd.io/FBO5lLHhQkeWApUisqAHRQ?view)
+* Discussions about why diagrams as code is useful
+    * [Filling the void of a physical whiteboard](https://blog.tawhidhannan.co.uk/practices/fill-void-physical-whiteboard/)
 
 
 ### Further Example

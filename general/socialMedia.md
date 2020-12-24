@@ -42,3 +42,17 @@ Social Media
     * To read
 * [Solomon Islands set to ban Facebook in the name of 'national unity'](https://www.abc.net.au/news/2020-11-23/solomon-islands-set-to-ban-facebook-for-sake-of-national-unity/12910786)
 * [We can have democracy or we can have Facebook, but we can't have both](https://the.ink/p/we-can-have-democracy-or-we-can-have) - A conversation with Matt Stoller about the new antitrust case and the real reason you should care about corporate monopolies
+
+
+* [‘YouTube recommendations are toxic,’ says dev who worked on the algorithm](https://thenextweb.com/google/2019/06/14/youtube-recommendations-toxic-algorithm-google-ai/)
+    * > the problem is that the AI isn’t built to help you get what you want — it’s built to get you addicted to YouTube. Recommendations were designed to waste your time
+    * Mark Zuckerberg admitted last year that borderline content was more engaging. 
+    * > We’ve got to realize that YouTube recommendations are toxic and it perverts civic discussion
+    * the algorithm’s incentives are completely broken (i.e. watch time doesn’t equal quality) as an example of why it’s bad for us as a society
+* [AlgoTransparency](https://algotransparency.org/) - Artificial Intelligence (AI) controls what information you are shown on social media. What does it want you to see?
+    * Lists of top recommends on YouTube per day - can see commercial interest
+    * [YouTube Map](https://algotransparency.org/youtube.html) - word cloud of uploads by popularity
+
+* [MAPS.ME is gone. We must bring it back.](https://telegra.ph/What-happened-to-the-old-MAPSME-12-20)
+    * > it showed me every detail, every little space I can walk through, every water fountain, I even used it to find trashcans in foreign cities. The ability to edit the map and contribute back to the lovely OpenStreetMap community is also nowhere to be found
+    * Now it's just business's and chains

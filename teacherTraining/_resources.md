@@ -110,11 +110,16 @@ Links to other MD documents
 
 Pedagogy
 --------
-* [teachcomputing.org - Pedagogy Quick Reads](https://blog.teachcomputing.org/tag/quickread/)
-    * [Quick Read: Using PRIMM to structure programming lessons](https://blog.teachcomputing.org/using-primm-to-structure-programming-lessons/)
+* NCCE - [teachcomputing.org/pedagogy](https://teachcomputing.org/pedagogy)
+    * [NCCE podcast](https://blog.teachcomputing.org/tag/podcast/)
+    * [Pedagogy Quick Reads](https://blog.teachcomputing.org/tag/quickread/)
+        * [Using PRIMM to structure programming lessons](https://blog.teachcomputing.org/using-primm-to-structure-programming-lessons/)
+        * [Using live coding to bring coding to life](https://blog.teachcomputing.org/quick-read-5-live-coding/)
+        * [Using peer instruction to discuss computing concepts](https://blog.teachcomputing.org/quick-read-4-peer-instruction/)
 * [TPEA: Technology Pedagogy and Education Association](https://tpea.ac.uk/)
     * [publications](https://tpea.ac.uk/publications/)
     * [old site - ITTE: Information Technology in Teacher Education](http://itte.org.uk)
+
 
 
 Unsorted

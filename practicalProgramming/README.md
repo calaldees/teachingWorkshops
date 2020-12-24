@@ -209,7 +209,15 @@ Pygame base with DVD menu bounce
 Session 22
 ----------
 
+Bubbelsort implementation - repl.it pyhton
 
+
+
+Session 23
+----------
+
+
+Implement denery to binary converstion - repl.it python from vb implementation + dry run
 
 
 Upcoming

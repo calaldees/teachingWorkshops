@@ -217,10 +217,16 @@ Lesson Topic Ideas
     * [Bacteria Simulation](https://www.youtube.com/watch?v=5UMZVmLt0Bw)
     * [BioInfomatics](http://rosalind.info/)
         + See my DNA-regex activity
+    * [Algorithmic Botany](http://algorithmicbotany.org/papers/#abop)
     * MRI Scan data (see TeachProgramming project)
     * Genetic algorithums
         * [genetic_cars_2](https://rednuht.org/genetic_cars_2/)
         * [Creatures racing](https://www.youtube.com/watch?v=31dsH2Fs1IQ)
+    * [nextstrain.org](https://nextstrain.org/) - Real-time tracking of pathogen evolution 
+        * [sars-cov-2 live strains](https://nextstrain.org/groups/neherlab/ncov/S.N501?c=gt-S_501,69&f_country=United%20Kingdom&label=mlabel:20B/C5388A&p=grid)
+* Geology
+    * [NASA Astromaterials 3D](https://ares.jsc.nasa.gov/astromaterials3d/index.htm) - A virtual library for exploration and research of NASA's space rock collections
+        * CT scans + data of moon rocks + web 3d viewer
 * Chemistry
     * ?
 * Business Studies
@@ -231,6 +237,8 @@ Lesson Topic Ideas
     * [rolesia.com](https://www.rolesia.com/) - Country Economics Simulator
     * [visualcapitalist.com](https://www.visualcapitalist.com/) Visualisae our economy
 * Art
+    * [10 innovative creative coding examples that are redefining programming](https://www.editorx.com/shaping-design/article/creative-coding)
+        * Live performances and art exabits
     * Animation
         * 2D
             * [pencil2d](https://www.pencil2d.org/)
@@ -428,30 +436,13 @@ Not directly related to an established school subject.
 * [[Data Visualisation]]
     * (Where does visualisation go? It's like 'where does Geology exist in STEM?')
     * [dataVisulisation.md](../computing/data/dataVisualisation.md)
-* Simulation
-    * [Modeling and Simulation in Python](https://greenteapress.com/wp/modsimpy/) [pdf](http://greenteapress.com/modsimpy/ModSimPy3.pdf)
-        * The first part presents discrete models, including a bikeshare system and world population growth.
-        * The second part introduces first-order systems, including models of infectious disease, thermal systems, and pharmacokinetics.
-        * The third part is about second-order systems, including mechanical systems like projectiles, celestial mechanics, and rotating rigid bodies.
-    * [HASH.ai](https://hash.ai/) free online platform for assembling models of the world
-        * Solving Problems Traditional Data Science Can’t with Agent based simulations
-    * Climate
-        * [climateinteractive](https://en-roads.climateinteractive.org/scenario.html)
-        * [Joseph Cook](https://news.microsoft.com/en-gb/2018/12/11/uk-scientist-handed-microsoft-grant-to-launch-unique-study-into-how-climate-change-is-affecting-the-arctic/) (from Margate) Predictive model on how glaciers melt from drones (not satellites)
-    * Fluid
-        * [WebGL-Fluid-Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
-    * Traffic
-        * [A/B Street](https://github.com/dabreegster/abstreet)
-        * [traffic-simulation.de](http://www.traffic-simulation.de)
-        * [Traffic Junction Simulation Video](https://www.youtube.com/watch?v=yITr127KZtQ)
-        * [SkyLines Forum](https://forum.paradoxplaza.com/forum/index.php?threads/perpetual-traffic-jam.937466/)
-        * [trafficvis.com](https://trafficvis.com)
-    * Economic
-        * ?
-    * Tamagchi Singularity
-        * Reverse engineer Tamagochi -> VM -> Millions of Tamagochis -> Supervised/Fed/happy
-        * [Building the Tamagotchi Singularity ](http://spritesmods.com/?art=tamasingularity)
-        * [Building The Infinite Matrix Of Tamagotchis](https://hackaday.com/2015/11/24/building-the-infinite-matrix-of-tamagotchis/)
+* [[Simulation]]
+    * [simulation.md](../computing/data/simulation.md)
+
+Software packages
+vfx 
+* [The technology that’s replacing the green screen](https://www.youtube.com/watch?v=8yNkBic7GfI)
+
 
 
 Further Concepts
@@ -825,6 +816,7 @@ tim hunkin - southwold under the peir - novalty automation
 [The Art of Code - Dylan Beattie](https://youtu.be/6avJHaC3C2U)
 
 [Copernicus Sentinel-5P Tropospheric Nitrogen Dioxide](https://maps.s5p-pal.com/) - global pollution on map
+[Brazil scientists map forest regrowth keeping Amazon from collapse: Study](https://news.mongabay.com/2020/12/brazil-scientists-map-forest-regrowth-keeping-amazon-from-collapse-study/)
 
 [European Space Agency Images](http://www.esa.int/ESA_Multimedia/Images)
 

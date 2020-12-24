@@ -14,6 +14,9 @@ ITT CCF 4.4
 > Guides, scaffolds and worked examples can help pupils apply new ideas, but should be gradually removed as pupil expertise increases
 
 
+* [NCCE: How we teach computing](https://blog.teachcomputing.org/how-we-teach-computing/) Dec 2020
+    * overview of all the pedagogy quick reads
+    * [pdf poster: 12 principles](https://raspberrypi-education.s3-eu-west-1.amazonaws.com/Pedagogy+Assets/NCCE_pedagogy_principles.pdf)
 * NCCE: National Center For Computing Education (AKA teachcomputing.org)
     * [Quick Reads](https://blog.teachcomputing.org/tag/quickread/)
 
@@ -57,6 +60,48 @@ TASK: Read PRIMM quick read.
 * Take fear out of programming - don't start with a blank editor
 * Always provide a base program that runs
 * Build on top of it incrementally
+
+* [Teach Computing Podcast Ep12 - The PRIMM Approach](https://blog.teachcomputing.org/tc-podcast-ep12-the-primm-approach/)
+    * Coding is Hard - but why? - is it difficult or is it taught badly
+    * misconceptions
+        * Assignment `=` or `==`
+        * Nasty errors - emotionally difficult
+    * _Copy this code_ - to much of a jump
+    * Reading code before you can write it
+    * Collaboratively talk about programs - "rubber duck debugging"
+    * Python - tight - however - lots of concepts in one line
+    * Starting point - take out the emotional burden of building from scratch
+    * Gradually take ownership of a program
+    * Predict - together think, what will it do
+        * Meaningful variable names
+        * Shape of code?
+    * Run - copy paste run
+    * Investigate - unpick _why_
+        * What does that block do
+        * What would happen if reverse two lines
+        * 
+    * Modify
+        * Add an extra feature
+        * gradual transfer of ownership <-- CRITICAL!
+    * Make - design and make
+        * use the skills of the first 4 steps
+        * a big leap - needs to be scaffolded
+    * Variations - Craig and Dave's TIME - Pete Dream KPRIDE - EPIC
+    * Steps that are not too huge a jump - cognitive load theory
+    * Importance of classroom discussion - language of their subject
+        * Talking about a program really solidify ideas - rubber duck
+        * Vocabulary
+            * Variables, output, input, conditions, iteration, assignment
+
+
+* [Reducing the load: ways to support novice programmers](https://www.raspberrypi.org/blog/research-seminar-cognitive-load-subgoal-labels/) Sue Sentence
+* [How we are helping you with computing teaching strategies](https://www.raspberrypi.org/blog/how-we-are-helping-you-with-computing-teaching-methods/)
+
+* [Summary of Semantic Transfer in Programming Languages: Exploratory Study of Relative Novices](https://blog.teachcomputing.org/summary-of-semantic-transfer-in-programming-languages-exploratory-study-of-relative-novices/) dec 2020
+    * when a second language is encountered
+        * A carryover concept (similar meaning in both the old and new context)
+        * A changed concept (different meaning in the new context)
+        * A novel concept (completely new to the learner)
 
 Meta-Cognition
 --------------

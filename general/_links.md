@@ -15,3 +15,15 @@
     * TODO - READ!
 
 * [My New Side Hustle Mantra: "Progress Over Perfection"](https://www.thedailymba.com/2020/12/08/my-new-side-hustle-mantra-progress-over-perfection/)
+
+* [How Scientists Tracked Down a Mass Killer (of Salmon)](https://www.nytimes.com/2020/12/03/climate/salmon-kill-washington.html)
+    * About 20 years ago, ambitious restoration projects had brought coho salmon back to urban creeks in the Seattle area.
+    * But after it rained, the fish would display strange behaviors: listing to one side, rolling over, swimming in circles. Within hours they would die
+    * Environmental Protection Agency report on tire rubber, he found a match: an antioxidant called 6PPD. From road runnoff.
+    * (A stark example of our impact on the environment)
+
+
+* [Taipei, Taiwan Rain Walk | Xinyi District to Raohe Night Market (December 23, 2019) - ASMR](https://www.youtube.com/watch?v=SLBtrfqxWjc) 32min
+
+* [Richard Ford: ‘Who needs friends?’](https://www.theguardian.com/books/2017/apr/22/richard-ford-do-we-really-need-friends) 2017
+    * An authors interesting perspective of _friendship_

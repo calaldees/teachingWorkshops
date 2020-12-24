@@ -193,7 +193,7 @@ Ruth Butler 1987
 [AfL Tools](https://www.slideshare.net/caldiesschool/tl-assessment-for-learning-tools)
 
 * [Formative assessment in the computer science classroom](https://www.raspberrypi.org/blog/research-seminar-formative-assessment-computer-science-classroom/) Sentence 2020
-    * 
+    * TODO
 * [Formative Assessment](https://www.csforallteachers.org/blog/formative-assessment) Noah Mealy 2016
 
 
@@ -581,3 +581,9 @@ assess design - assess by interview
 [How assessment drives curriculum at every level, and not necessarily in the right direction...](https://bigeducation.org/rethinking-blogs/how-assessment-drives-curriculum-at-every-level-and-not-necessarily-in-the-right-direction/) 2020 Sarah Fletcher High Mistress, St Paul’s Girls’ School, London
     * > Our current knowledge-based system only goes part of the way towards equipping young people with the skills that will give them the confidence and resilience to shape their own path through life.  They need to make the best of human capacity for imagination and critical judgment, especially with our ever-greater dependency on technology and artificial intelligence.”
     * > The world is moving fast, and education risks falling behind. 
+
+
+* [Teach Computing Curriculum Journey](https://static.teachcomputing.org/curriculum_journey.pdf) - Poster of KS1 to KS4 progress with assessment objectives
+
+* [Quick Read: Using observation techniques to record student behaviour for research or evaluation](https://blog.teachcomputing.org/using-observation-techniques-to-record-student-behaviour-for-research-or-evaluation/)
+* [Quick Read: Planning effective surveys and interviews for research or evaluation](https://blog.teachcomputing.org/planning-effective-surveys-and-interviews-for-research-or-evaluation/)

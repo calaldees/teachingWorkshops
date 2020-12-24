@@ -710,3 +710,5 @@ Types of school
 * [Independent school system in a nutshell](https://www.goodschoolsguide.co.uk/choosing-a-school/independent-schools/uk-independent-schools-explained)
 
 
+Learned helpness - what are we teaching young people? is the school system outside of their influence? or are they part of it? How can they change the world?
+School isnt going to tell you how to get to where you want to be in life - you need to do that (and more imprtantly, think about where you want to go, but have a backup plan)

@@ -16,6 +16,7 @@ TASK 2: Compare your list to these lists
 ![Cognative Bias Codex](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg) 
 [designhacks.co](https://designhacks.co/)
 
+Survivorship bias - the ones that survive tell the story and give advice - the ones that don't survive dont
 
 Logical Fallacies
 =================
