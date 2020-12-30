@@ -87,6 +87,24 @@ Teaching Resources
     * Maths and some computing visual guides
 * [Future Learn](https://www.futurelearn.com/)
     * TODO: uni courses? online free?
+* [MOOC.fi](https://www.mooc.fi/en) offered by University of Helsinki's Department of Computer Science
+    * Ethics of AI
+    * Full stack
+    * Haskell
+    * Data Analysis with python
+* [github.com/microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+    * 12 week curriculum
+    * Beautiful hand drawn summary diagrams
+    * Very advanced concepts - Git + Azure Deployments
+    * Repo can be forked - lessons can be forked for assignments set by GitHub Classroom
+        * Students can make commits to their own forks for assessment
+* [Microsoft Learn](https://docs.microsoft.com/en-gb/learn/browse/?resource_type=learning%20path&levels=beginner) - mostly adverts/lockins for microsoft products
+    * [web dev jenlooper](https://docs.microsoft.com/en-gb/users/jenlooper-2911/collections/jg2gax8pzd6o81?WT.mc_id=academic-4621-cxa)
+    * [python-first-steps](https://docs.microsoft.com/en-gb/learn/paths/python-first-steps/)
+    * [Learn Python basics with Wonder Woman](https://docs.microsoft.com/en-gb/learn/paths/python-partnership/) 2h - caesar cypher
+    * [Discover the role of Python in space exploration](https://docs.microsoft.com/en-gb/learn/paths/introduction-python-space-exploration-nasa/) 3h - just counts occurrences of strings in a `rocks.txt` file in 3 hours?
+    * [Foundations of data science](https://docs.microsoft.com/en-gb/learn/paths/foundations-data-science/) 13h
+    * [Accessibility fundamentals](https://docs.microsoft.com/en-gb/learn/paths/accessibility-fundamentals/) 2.5 hours
 * [Magpie Education](https://magpie.education/) - EdTech Resources & Curriculum Tools to Inspire STEM Learning through the Joy of Creating.
     * [Lesson Resources](https://magpie.education/resources/)
 * [The MirandaNet Fellowship](https://mirandanet.ac.uk/)

@@ -42,6 +42,11 @@ Social Media
     * To read
 * [Solomon Islands set to ban Facebook in the name of 'national unity'](https://www.abc.net.au/news/2020-11-23/solomon-islands-set-to-ban-facebook-for-sake-of-national-unity/12910786)
 * [We can have democracy or we can have Facebook, but we can't have both](https://the.ink/p/we-can-have-democracy-or-we-can-have) - A conversation with Matt Stoller about the new antitrust case and the real reason you should care about corporate monopolies
+* [Emotional headlines have an impact regardless of the credibility of the source](https://www.hu-berlin.de/en/press-portal/nachrichten-en/december-2020/
+    nr-201221)
+    * > headlines with emotional content influence our judgments about other people even when we consider the media source to be untrustworthy.
+    * > Rumours, half-truths and misinformation can be consumed and shared non-stop online and have an enormous reach. 
+      > Although their truthfulness is questionable, they can have a significant impact on personal opinions and public discourse.
 
 
 * [‘YouTube recommendations are toxic,’ says dev who worked on the algorithm](https://thenextweb.com/google/2019/06/14/youtube-recommendations-toxic-algorithm-google-ai/)

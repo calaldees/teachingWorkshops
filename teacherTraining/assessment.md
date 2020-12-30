@@ -192,9 +192,73 @@ Ruth Butler 1987
 
 [AfL Tools](https://www.slideshare.net/caldiesschool/tl-assessment-for-learning-tools)
 
+"Assessment for learning" all about recording and reporting - if the impact is not with the student then it's not having an effect
+Formative assessment == Such assessment becomes formative  when the evidence is actually used to adapt the teaching work to meet the learning needs
+In the moment - before they leave the classroom
+Changes what teachers think, dosnt benefit what students until it changes what teachers do
+
+|       | Where is the learner going | Where the learner is | How to get there |
+|-------|----------------------------|----------------------|----------------|
+| Teacher | Clarify and share learning intentions | Engineering effective disscussions, tasks, and activities that elicit evidence of learning | providing feedback that moves learners forward |
+| Peer | Understand and share the learning intentions | Activating students are learning resources for one another |
+| Learner | Understand the learning intentions | Activating students as owners of their own learning |
+
 * [Formative assessment in the computer science classroom](https://www.raspberrypi.org/blog/research-seminar-formative-assessment-computer-science-classroom/) Sentence 2020
     * TODO
 * [Formative Assessment](https://www.csforallteachers.org/blog/formative-assessment) Noah Mealy 2016
+
+* VleBooks [Formative Assessment for Teaching and Learning](https://r2.vlereader.com/Reader?ean=9781446296394) Bill Boyle Marie Charles 2013
+
+
+Common errors in questioning
+* Asking:
+too many questions at once
+a question and answering it yourself
+questions only of the brightest or most likeable
+a difficult question too early
+irrelevant questions
+questions in a threatening way
+the same kind of questions all the time
+* Failing to:
+correct wrong answers
+indicate a change in the type of question
+give students the time to think
+pay attention to answers
+see the implications of answers
+to build on answers
+
+
+* Help students be learning resources
+Students assessing their peers’ work:
+“Pre-flight checklist”
+“Two stars and a wish”
+Training students to pose questions/identifying group weaknesses
+End-of-lesson students’ review
+
+
+
+> We are all better at spotting mistakes in the work of others.
+* [10 Feedback Techniques That Make Students Think](https://www.dylanwiliamcenter.com/wp-content/uploads/sites/3/2015/02/10-Feedback-Techniques.pdf) Dylan Wiliam
+    1. Marking for improvement
+        * When grading student work, record a grade in your grade-book, but only give students written comments on how to improve. Give students time to read the comments in class and one week to resubmit the work. The final grade is the average of the first and resubmitted grade.
+    2. Mastery marking
+        * Only accept student work when it is of a specific quality. You might only give one grade, an A. Students are expected to continue to redraft and resubmit their work as many times as necessary in order to achieve an A. The overall grade is then determined by the number of As.
+    3. +, –, = (Plus, Minus, Equals) 
+        * Mark student work in relation to previous work. If the latest work is of the same quality as the last, it receives an ‘=’, if it is better than the last, it receives a ‘+’, and if it is not as good as the last, it receives a ‘–‘. 
+    4. Responding to marking 
+        * Write your teacher feedback, signed and dated, at the start of the exercise book. Students then make an appropriate response below the teacher feedback, including where to find any redrafting. Do not mark the next piece of work until the student has responded to the last feedback provided. 
+    5. Focused marking
+        * Mark student work against one or two specific criteria, even though there may be many criteria that could be marked. This allows you to provide more focused and detailed feedback on these criteria than if everything was marked. The grade-book contains the skill marked rather than the title of the work set.
+    6. Find and fix your mistakes
+        * Instead of marking answers as correct or incorrect, tell the students the number of answers that were wrong. Give them time in class to find and correct their mistakes, either individually or in groups.
+    7. Margin marking
+        * Instead of marking each spelling or grammar mistake on essays, place a mark in the margin. Students then find their own mistakes and correct them. 
+    8. Traffic lights
+        * Give students a RED, AMBER or GREEN mark for a piece of work. All RED and AMBER work can be redrafted in an attempt to achieve a GREEN mark. The final grade is calculated from the number of GREEN and AMBER marks.
+    9. Aim for the next level
+        * Students identify areas of improvement by comparing their work to exemplars at the next level of achievement. Students realize that they need to set themselves higher standards. Able students find that they can improve a good piece of work.
+    10. Match comments to work 
+        * Write comments about students’ work on strips of paper without names. Sit students in groups of four. Each group of four students gets back their four pieces of work and their four comments. The group needs to decide which comment goes with which piece of work.
 
 
 https://mikegershon.com/resources/

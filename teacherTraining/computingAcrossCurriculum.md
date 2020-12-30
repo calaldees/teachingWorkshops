@@ -199,6 +199,8 @@ Lesson Topic Ideas
             * [Matter.js](http://brm.io/matter-js/)
     * [River Editor: Water Simulation in Real-Time](https://80.lv/articles/river-editor-water-simulation-in-real-time/)
     * [Can We Terraform the Sahara to Stop Climate Change?](https://www.youtube.com/watch?v=lfo8XHGFAIQ)
+    * Sandbox solar system
+    * [Alien Civilization Calculator](https://www.omnicalculator.com/physics/alien-civilization)
 * Maths
     * Matrix calculations for rotation and scaling (in real time?)
     * Statistics
@@ -442,6 +444,7 @@ Not directly related to an established school subject.
 Software packages
 vfx 
 * [The technology that’s replacing the green screen](https://www.youtube.com/watch?v=8yNkBic7GfI)
+* [Pushing Pixels - In Motion](https://www.pushing-pixels.org/inmotion/) - VFX interviews
 
 
 
@@ -454,6 +457,7 @@ Further Concepts
         * Reliance on technology
         * Surveillance
         * Rules for AI
+    * [The Ethics of AI](https://ethics-of-ai.mooc.fi/) - a free online course created by the University of Helsinki
 * Impact of _Social Media_ on society
 * Impact of _AI_ on society
     * Automation

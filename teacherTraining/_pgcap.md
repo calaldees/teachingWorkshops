@@ -276,7 +276,7 @@ Done the reading - but don't have the skills to actually have got anything from 
 Session 2
 ---------
 
-* [Christ Church Learning and Teching Stratergy](www.canterbury.ac.uk/LTS) [pdf](https://www.canterbury.ac.uk/learning-and-teaching-enhancement/docs/Learning-and-Teaching-Strategy-2015-2022.pdf)
+* [Christ Church Learning and Teaching Strategy](www.canterbury.ac.uk/LTS) [pdf](https://www.canterbury.ac.uk/learning-and-teaching-enhancement/docs/Learning-and-Teaching-Strategy-2015-2022.pdf)
     * [Graduate Attributes Statement](https://www.canterbury.ac.uk/learning-and-teaching-enhancement/strategies/graduate-attributes.aspx)
         * Adaptable
         * Digitally Literate
@@ -284,10 +284,10 @@ Session 2
         * Informed
         * Innovative
         * Professional
-        * Self-Ware
+        * Self aware
     * Academic professional development of all staff
         * CPD route
-    * [Technolgy Enhanced Learning Startergy](https://www.canterbury.ac.uk/learning-and-teaching-enhancement/strategies/technology-enhanced-learning-strategy.aspx)
+    * [Technology Enhanced Learning Strategy](https://www.canterbury.ac.uk/learning-and-teaching-enhancement/strategies/technology-enhanced-learning-strategy.aspx)
         * Blended Learning
     * Engane
         *  inclusive curriculum
@@ -507,7 +507,7 @@ Chapter 13 by Vanessa Dye 'Reflection, reflection, reflection, I'm thinking all 
     * Concrete Experience == What happened?
     * Abstract Conceptualisation == Personal meaning of what happened?
     * Active Experimentation == Action points
-* (Borton 1970) 
+* (Borton 1970)
     * ```mermaid
       graph LR
         what[What]
@@ -656,6 +656,7 @@ Identify
 Benchmark comparions, class, institution
 Assessment to help students self regulate
 
+SMART Objectives
 Specific
 Aeasurable
 Achivable

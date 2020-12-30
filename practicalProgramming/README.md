@@ -220,6 +220,15 @@ Session 23
 Implement denery to binary converstion - repl.it python from vb implementation + dry run
 
 
+Session 24
+----------
+
+
+Session 25
+----------
+
+
+
 Upcoming
 --------
 

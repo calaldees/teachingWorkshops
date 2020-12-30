@@ -79,7 +79,7 @@ A1 + A2 + K1 + K2 + V*
             * The practices reflected on must be, amongst other things, based on your observations of authentic practices
         3. Appropriate Core Knowledge and understanding of at least K1 and K2
             * K1 and K2 must be discussed in your reflections, but other Ks can also be incorporated as your practice allows.
-        4. A commitment to appropriateProfessional Values in facilitating others’ learning
+        4. A commitment to appropriate Professional Values in facilitating others’ learning
             * Professional Values V1, V2 and V3 are covered in the IFL module, especially the areas of inclusivity and closing the attainment gap of BAME students, and the CCCU’s widening participation key priority. It is therefore anticipated that you will engage with these in your reflections, but other dimensions relating to these agendas are also possible.
         5. Relevant professional practices, subject and pedagogic research and/or scholarship within the above activities
             * You must make use of some of the research and scholarship discussed in the module and available on the Blackboard. Other resources can also be used
@@ -273,15 +273,6 @@ Allan
 ---
 
 
-The term "micro"-teaching really does ﻿﻿really does encompass the goal of the activity. In 15 minuets we need to distil our knowledge of teaching practice into an artificially compressed timespan. The "micro" in micro-teaching is a fitting name. By condensing demonstration of our teaching methodologies, we facilitate input and feedback from other professionals. Everyone's time is limited and should be considered precious. 15 mins provides just enough time to demonstrate our skills without requiring an observer to engage with multiple hours of content.
-
-I spent multiple hours planning my 15 mins segment. If I was to spend several hours per 15min of lesson runtime on all of my planning I would not be able to perform my role. It is very easy to feel that "you could have planed more" with teaching. I feel this way about my microteach and my real sessions.
-
-It was pointed out that I did not solicit any input from my session for the first 8min. In face-to-face classrooms there would have been informal interactions before the session. This made me realise that online teaching requires constant attention to soliciting response and engagement. There is a chicken and egg conundrum with teaching, students can't make the desired progress without the input. This leads to instructors delivering a barrage of material before setting a task. The other alternatives are asking students to actively explore a topic themselves (possibly in an unstructured way) or requesting constant responses when conveying new material, which could slow the delivery to a point of frustration for some learners. Being an on-line learner and being "talked at" is not an engaging experience. The microteach has challenged my thinking about the frequency I interact with my learners online. I must improve my regular explicit checking of understanding. Face-to-face I can read facial expressions and body language and feel more open to asking questions to my students. When teaching online I need to explicitly check the understanding of my students more.
-
-(As a side note Dylan Willam has an interesting technique for solicitng feedback from the class with 'traffic light style cups', green for "I'm ok", "amber for this is tricky" and red for "I'm lost, stop, help". Blackboard also supports this coloured feedback. Maybe it is worth investing in directing my students to become familiar with those interface options)
-
-In my microteach, I tried to teach the concept of a "diagnostic question". An "incorrect answer" to a question should unveil a misconception. I was surprised when some learners did not understand the concept I was trying to convey. This was relayed to me in the chat and some of the example diagnostic questions created missed the concept. I was expecting masters level learners to grasp the concept quite quickly. With a restriction of 15 minuets I did not have the time to delve into why. Was there a baseline level of understanding that I missed? Was my explanation not clear enough? Was the time frame just too short to properly digest the content? Perhaps this should have been more actively followed up after the session. Is this a reasonable time allocation to gather those answers for a one-off learning activity? Outside of a microteach environment I would anticipate following these questions up with students. Was this an artefact of my teaching or the restrictions of the compressed format of microteaching?
 
 
 
@@ -307,7 +298,7 @@ https://www.researchgate.net/profile/Tong_Wan4/publication/338555773_Student_per
 
 Identify the key themes of the assignment before
 
-V4 - wider profetional skills we are trying to convey to teachers - look to scholorchip - what my role is
+V4 - wider professional skills we are trying to convey to teachers - look to scholorchip - what my role is
 No placement to give context of teaching until Nov 16th - some schools closed
 Some placements terminated
 
@@ -351,3 +342,260 @@ Brookfields lenses (the students thoughts!, an experienced observers thoughts)
 
 Pick your themes!!! .. get them all down .. then refine ...
 
+
+* [The UK Professional Standards Framework: for teaching and supporting learning in higher education](https://s3.eu-west-2.amazonaws.com/assets.creode.advancehe-document-manager/documents/advance-he/UK%20Professional%20Standards%20Framework_1570613241.pdf) 2011
+* [Digital lens on the UK Professional Standards Framework (UKPSF):](https://www.heacademy.ac.uk/system/files/downloads/digital_lens_on_the_ukpsf.pdf)
+    * Supporting the digital capabilities of teaching staffin UK higher education
+
+
+A1: Design and plan learning activities and/or programmes of study
+    Design opportunities for students to use subject-specific technologies in authentic contexts.
+
+
+
+A critical reflection on your teaching and/or support of learning in the light of reflecting on learning from 
+(i) microteaching 
+(ii) a teaching observation by a peer or mentor, 
+(iii) my authentic practice 
+(iv) theory and/or scholarship on teaching. 
+Please include a completed observation form in your appendix. This will not be counted in the wordcount for the assignment. Thus any direct points you wish to make about the observation must be contained within the wordcount/time of the reflection.
+
+
+* The reflection is a first-person critical narrative comprising of
+    * a brief introduction in which you explain your current role and responsibilities relating in 
+        * teaching and/or supporting learning in HE, 
+        * its context, 
+        * what specific themes of reflection you have chosen for the assignment and why
+    * two or three themes of reflection of your choice provided they comply with the learning outcomes and UKPSF D1 requirements below. 
+        * You may use some of the reflections that you put down in your reflective logs.
+        * It should be a synoptic reflection and critical evaluation of what you have learnt about teaching practice in your own subject discipline or professional service area, 
+        * and how you are developing and monitoring your own teaching and support of learners in the light of this.
+    * a brief conclusion in which you 
+        * summarise your achievements 
+        * and address future challenges 
+        * and the CPD that you will want to follow
+
+---
+
+Introduction
+------------
+
+This is a first-person critical reflection to demonstrate my progress towards the UK Professional Standards Framework (2011). I have recently started in the role of Lecturer in Education of Computing at Canterbury Christ Church University. My role is to support trainee teachers in their first year of teaching. I am responsible to designing/delivering subject pedagogy sessions and providing ongoing support to mentors that support trainees in their school placements.
+
+The concept of teaching teachers is a very meta concept. The skills involved in teaching are often considered higher order skills (Bloom 19xx). The skills of a teacher can be normally assessed through evidence of their classroom teaching. This term (September 2020 to December 2020) has been challenging because of the global pandemic. All teaching has been mandated to be remote. My trainees first entered their school placements on 16th November. This has restricted the normal learning opportunities. The remote situation has also lead to high tensions, anxiety and emotional distance.
+
+My reflections will focus on inclusion and interactions with remote learners in the context of teacher training. Teacher training courses have a wide variety of trainee diversity. Trainees could be fresh graduate with no industry experience though to late career changers. It is well documented that career changers have differing learning needs (Smardar et-al 2020, Troesch and Bauer 2017, Bullough 1990).
+
+The focus of my reflections will be on the following professional areas of activity:
+1. Design and plan learning activities and/or programmes of study (UKPSF-A1)
+2. Teach and/or support learning (UKPSF-A2)
+With an overarching lens of
+4. Develop effective learning environments and approaches to student support and guidance (UKPSF-A4)
+
+
+
+Microteach - Diagnostic questions
+---------------------------------
+
+The term "micro"-teaching really does encompass the goal of the activity. In 15 minuets we need to distil our knowledge of teaching practice into an artificially compressed timespan. The "micro" in micro-teaching is a fitting name. By condensing demonstration of our teaching methodologies, we facilitate input and feedback from other professionals. Everyone's time is limited and should be considered precious. 15 mins provides just enough time to demonstrate our skills without requiring an observer to engage with multiple hours of content.
+
+I spent multiple hours planning my 15 mins segment. If I was to spend several hours per 15min of lesson runtime on all of my planning I would not be able to perform my role. It is very easy to feel that "you could have planed more" with teaching. I feel this way about my microteach and my real sessions.
+
+It was pointed out that I did not solicit any input from my session for the first 8min. In face-to-face classrooms there would have been informal interactions before the session. This made me realise that online teaching requires constant attention to soliciting response and engagement. There is a chicken and egg conundrum with teaching, students can't make the desired progress without the input. This leads to instructors delivering a barrage of material before setting a task. The other alternatives are asking students to actively explore a topic themselves (possibly in an unstructured way) or requesting constant responses when conveying new material, which could slow the delivery to a point of frustration for some learners. Being an on-line learner and being "talked at" is not an engaging experience. The microteach has challenged my thinking about the frequency I interact with my learners online. I must improve my regular explicit checking of understanding. Face-to-face I can read facial expressions and body language and feel more open to asking questions to my students. When teaching online I need to explicitly check the understanding of my students more.
+
+Dylan Wiliam, a professor of education specialising in formative assessment, has an interesting technique for soliciting ongoing feedback from the class with 'traffic light' coloured cups. Green for "I'm ok", "amber for this is tricky" and red for "I'm lost, stop, help" (Wiliam 2011). Blackboard also supports this coloured feedback. The UI to control the Backboard coloured states are fairly hidden. Once applied the state is transient and vanishs after 30 seconds. There is no log of the event. Maybe it is worth investing in directing my students to become familiar with those interface options? or investigate an alternate way of soliciting ongoing feedback from online sessions.
+
+In my microteach, I tried to teach the concept of a "diagnostic question". An "incorrect answer" to a question should unveil a misconception. I was surprised when some learners did not understand the concept I was trying to convey. This was relayed to me in the chat and some of the example diagnostic questions created missed the concept. I was expecting masters level learners to grasp the concept quite quickly. Was there a baseline level of understanding that I missed? Was my explanation not clear enough? Was the time frame just too short to properly digest the content? Was this an artefact of my teaching or the restrictions of the compressed format of microteaching?
+
+The feedback I received from the students indicated the difficulty of understanding the concept in the compressed time frame of 15min.
+
+> I struggled to grasp the concept within the time frame you set for the task.
+
+> spend a bit more time at the beginning to ‘set the stage’. I was not sure what you meant by the term ‘diagnostic questions’ 
+
+Other than alerting me to what the issue was, these comments did not help me immediately make the jump to understand why this had happened or what the solution could be other than spend more time on the the topic.
+
+After asking these question, my module lead responded with the following feedback:
+> from my perspective the task was ambitious in terms of Bloom's taxonomy, asking us to go straight to the highest level thinking skill with 'create' solo with a concept we'd only just been introduced to
+
+Upon reflection I was not considering the Cognitive Load of the task I had set (Sweller, 1998). I was requiring students to understand the concept of diagnostic questions and additionally deeply delve into their own subject domains. I could have scaffolded the learning by asking the learners to create a diagnostic question for a known simpler domain, maybe I could have provided a constrained Maths concept and asked pairs to create the diagnostic question.
+
+Linking in with the theme of people entering teacher training as a second career and teaching competent adults (however qualified); they still feel vulnerable when placed in the role of the learner.
+
+> Presenting my mistake in ‘not grasping the concept’ in the chat bar was difficult for me to feedback.
+
+
+
+
+To many jumps up the tech tree
+
+        * K1
+            * The subject material
+        * K2
+            * Appropriate methods for teaching, learning and assessing in the subject area and at the level of the academic programme
+
+    optional
+        * K3
+            * How students learn, both generally and within their subject/disciplinary area(s)
+        * K4
+            * The use and value of appropriate learning technologies
+        * K5
+            * Methods for evaluating the effectiveness of teaching
+        * K6
+            * The implications of quality assurance and quality enhancement for academic and professional practice with a particular focus on teaching
+    * Professional Values
+        * V1
+            * Respect individual learners and diverse learning communities 
+        * V2
+            * Promote participation in higher education and equality of opportunity for learners
+        * V3
+            * Use evidence-informed approaches and the outcomes from research, scholarship and continuing professional development 
+        * V4
+            * Acknowledge the wider context in which higher education operates recognising the implications for professional practice
+
+
+
+Authentic Practice - Diagram tooling
+------------------------------------
+
+Building upon microteach
+
+
+
+observed Subject knowledge Teacher Standards 3    Demonstrate good subject and curriculum knowledge
+
+
+Observation - Primary School Computing
+--------------------------------------
+
+Senior college
+
+
+
+VLE flipped learning
+Blended learning
+"Were we ment to have read them?"
+
+Interactions
+
+October 15th
+October 23rd
+November 6th
+
+>  Without being in a school placement much of the course is very difficult to connect with which for me at least severely hampers the ability to remember the topics.
+
+>  I think groups should be 3+ which would really help convey ideas and give multiple points of view which can then be sifted and key points brought back to the group.
+
+> Overall I am really enjoying the Friday sessions; personally I don't have much to be critical of at this moment in time.
+
+> There needs to be more content to address the fact that us PGCE students do not have any practical experience going on outside of these Friday lessons.
+
+> 80% of the course should be hands on experience so we are effectively only getting 20% of the knowledge we should be so it is much harder to learn from this limited view of teaching as a profession, though not for Allan's want of trying! 
+
+> The topics and views of everyone were taken in to consideration and the use of a the shared Google Doc form which was edited in real-time was a good way of collaborating.
+
+Overall, how helpful did you find the session in helping you fulfil the advertised intended learning outcomes (please tick the relevant level):
+6 * 5 (85.7%)
+1 * 4 (14.3%)
+
+Pace of sessions: 80% agreed it was about right
+Split of Teacher focus and Peer/Group/Student focus: 100% about right
+How happy are you with the quality of the content delivered: 1 to 5 - 60%*4 and 40%*5
+
+
+Accessibility - markdown
+
+> I found it a bit hard at the beginning to navigate through your presentation because it is such a non-traditional way of visual aid
+
+> I think the use of markdown is wrong when giving lessons. It is less engaging than pp.
+
+
+Critical Incidents
+------------------
+
+Complaint about safty in sessions
+
+Disability 2010
+racism
+
+PART TWO: PERSONAL AND PROFESSIONAL CONDUCT
+
+### Introduction to C# - Group differentiation
+
+I have been teaching on "Introduction to C#" Module for Computer Science. The course is well prescribed with a series of lectures, workshops and assessments. By the end of the course the students are expected to take a written requirements for a program and create a working solution in code.
+
+The groups are completely mixed ability. Some have coded before. Some have never coded before. Some weaker students did not understand they need to fully secure the knowledge from each session and need to stick in additional time (if needed) to ensure they are ready for the next session. We are now at the point where students need to combine concepts. This has lead to a few of the weaker students being paralysed with how to continue.
+
+This issue should have been identified earlier by both my self and the students. With covid it has been difficult to move around the room and see this visibly. Online assessments have been alerting them to gaps in their knowledge but the students have not actioned these knowledge gaps and I had not engaged individually with them about their marks. I see them sporadically and I feel pressured to deliver prescribed lecture material to keep the group in sync with the rest of the course.
+
+The students were unaware of the demands of the course time allocation and lacked the skills to identify the importance of what they did not know.
+
+They may be measuring their progress by their peers (who are also lacking in skill-set). They may lack an overall understanding of the course progression.
+
+I have managed to arrange the students seating so that I can move more freely. I have taken time out of sessions while the others are working to give individual support to fill in past topics. The students deeply appreciated the individual attention. I have reiterated the demands of university learning and the course aims and given individual topics and past workshops to complete.
+
+In future identifying these students earlier would give them a better chance success. More time needs to be allocated for repeating the expectations of time but also repeating the expectations of expected progress for the students to self identify areas. I will better support students in their transition from school to university learning by teaching them to use formative assessments as an opportunity to assess and develop on their own learning and supporting them in this. I will ask other colleagues teaching on this course for advice on how they identify/handle these progress issues.
+
+
+Conclusion
+----------
+
+
+
+
+---
+
+I have a ADHD student. They have requested more breaks in sessions.
+I have an older student that has alienated themselves for peer support network (they were kicked from WhatsApp group due to condescending/offensive comments) . Integrating them into group discussions is now much harder and I cant use pair work as most students in the group are on edge when working 1-to-1 with them.
+To make progress I'm always using groups of 3+
+
+
+Read reflections and show you care about the student
+
+Support the student - look at wellbeing - identify the root causese. _Identifying_ is the majority of the battle
+
+Brookfiled 1995 - Four lenses model
+
+
+OPAR framework
+* Orient
+* Present
+* Apply
+* Review
+
+
+Biggs and Tang 2009 - SOLO taxonomy
+
+manard and furlong
+Early Idealisum
+Personal survival
+Dealing with difficulties
+Hitting a plateau
+Moving on
+
+* [Cognitive Load Theory and its application in the classroom](https://impact.chartered.college/article/shibli-cognitive-load-theory-classroom/) Dominic Shibli and Rachel West 2018
+    * Sweller J (1998) Cognitive load during problem solving: Effects on learning. Cognitive Science (12): 257–285.
+
+* [Embedded Formative Assessment](https://www.amazon.co.uk/Embedded-Formative-Assessment-Dylan-Wiliam/dp/193400930X) 2011 Dylan Wiliam
+
+* [Equality Act 2010](https://www.legislation.gov.uk/ukpga/2010/15/contents)
+* [Teacher Standards](https://www.gov.uk/government/publications/teachers-standards)
+* [QAA](https://www.qaa.ac.uk/) THE UK'S QUALITY BODY FOR HIGHER EDUCATION
+    * [Subject Benchmark Statement: Education Studies](https://www.qaa.ac.uk/docs/qaa/subject-benchmark-statements/subject-benchmark-statement-education-studies.pdf?sfvrsn=3ae2cb81_5)
+
+        * A3
+            * Assess and give feedback to learners
+        * A4
+            * Develop effective learning environments and approaches to student support and guidance
+        * A5
+            * Engage in continuing professional development in subjects/disciplines and their pedagogy, incorporating research, scholarship and the evaluation of professional practice
+* [Christ Church Learning and Teaching Strategy](www.canterbury.ac.uk/LTS) [pdf](https://www.canterbury.ac.uk/learning-and-teaching-enhancement/docs/Learning-and-Teaching-Strategy-2015-2022.pdf)
+
+* [getintoteaching.education.gov.uk - Career changers’ stories](https://getintoteaching.education.gov.uk/life-as-a-teacher/real-life-experiences/career-changer-stories)
+* [Second career teachers: Job satisfaction, job stress, and the role of self-efficacy](https://www.sciencedirect.com/science/article/abs/pii/S0742051X17311174?via%3Dihub) 2017 Troesch and Bauer
+* [Selecting Career Changers with Real Potential for Teaching and Designing a Program to Meet Their Needs](https://eric.ed.gov/?id=ED607037) 2020
+* [First steps in a second career: characteristics of the transition to the teaching profession among novice teachers](https://www.tandfonline.com/doi/ref/10.1080/02619768.2019.1708895) Smadar et al 2020
+    * [Becoming a teacher: struggles of a second‐career beginning teacher](https://www.tandfonline.com/doi/abs/10.1080/0951839900030201) 1990
+* [Mentoring Student Teachers: The Growth of Professional Knowledge](https://www.amazon.co.uk/Mentoring-Student-Teachers-Professional-Knowledge-ebook/dp/B00AC2GPRS/)  John Furlong, Trisha Maynard 2012
+
+* [Is Teaching Less Challenging for Career Switchers? First and Second Career Teachers’ Appraisal of Professional Challenges and Their Intention to Leave Teaching](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.03067/full) 2020

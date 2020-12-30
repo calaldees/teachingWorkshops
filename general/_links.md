@@ -22,8 +22,20 @@
     * Environmental Protection Agency report on tire rubber, he found a match: an antioxidant called 6PPD. From road runnoff.
     * (A stark example of our impact on the environment)
 
+* [BlaBlaCar](https://www.blablacar.co.uk)
+    * Like AirBnB but for lifts
 
 * [Taipei, Taiwan Rain Walk | Xinyi District to Raohe Night Market (December 23, 2019) - ASMR](https://www.youtube.com/watch?v=SLBtrfqxWjc) 32min
 
 * [Richard Ford: ‘Who needs friends?’](https://www.theguardian.com/books/2017/apr/22/richard-ford-do-we-really-need-friends) 2017
     * An authors interesting perspective of _friendship_
+
+* [Slower News](https://www.slowernews.com/) - Relevant trends & some edge cases
+    * 
+
+
+
+
+* Science seeks the basic laws of nature
+* Mathematics searches for new theorems to build upon the old
+* Engineering builds systems to solve human needs.
