@@ -223,6 +223,10 @@ Implement denery to binary converstion - repl.it python from vb implementation +
 Session 24
 ----------
 
+Talk through - 
+code review of denary to binary conversion
+and
+debugging of credit card validation - pattern of if statement to return True return False
 
 Session 25
 ----------
