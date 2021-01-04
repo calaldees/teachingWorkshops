@@ -228,9 +228,15 @@ code review of denary to binary conversion
 and
 debugging of credit card validation - pattern of if statement to return True return False
 
+
 Session 25
 ----------
 
+C# mock test
+
+> is there a way to say "not greater than" `!>` ... yeah it's called less then
+
+> How do you de-indent? ... shift + tab
 
 
 Upcoming
@@ -239,6 +245,9 @@ Upcoming
 Game Framework Base - Pygame
  stars?
  tweens?
-Dry run more algortihums
 Chat system
 
+C# Exam
+Code review malnutrition tool?
+
+Dry run more algorithms

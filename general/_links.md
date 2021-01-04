@@ -33,7 +33,8 @@
 * [Slower News](https://www.slowernews.com/) - Relevant trends & some edge cases
     * 
 
-
+* [My year in data](https://samplesize.one/blog/posts/my_year_in_data/) - phd student tracks years worth of time in 15min chunks and measures sleep, work, socialising and procrastination
+    * Recorded points for activities - monkey brain actively optimises points
 
 
 * Science seeks the basic laws of nature

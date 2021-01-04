@@ -23,3 +23,12 @@ Logical Fallacies
 
 https://www.schoolofthought.org/
 
+
+
+* Weird
+    * western
+    * educated
+    * industrialised
+    * rich
+    * democratic
+    

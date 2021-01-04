@@ -106,7 +106,7 @@ Browser Based - Development environments
         * Discussed in previous sessions - an education revolution
         * (Has a paid-for school class system for projects/sumbissions/annotations/feedback $1000 per year per school)
     * [trinket.io](https://trinket.io/)
-    * [SmallBasic](https://superbasic-v2.azurewebsites.net/) - Microsoft
+    * [SmallBASIC](https://SmallBASIC.com/) [live](https://superbasic-v2.azurewebsites.net/) - Microsoft
     * [CodeTasty](https://codetasty.com/)
     * [GitPod](https://www.gitpod.io/)
         * Browser based fully remote dev environment

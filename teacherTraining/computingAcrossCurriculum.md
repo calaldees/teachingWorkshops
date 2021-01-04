@@ -333,6 +333,8 @@ Lesson Topic Ideas
     * Ableton
         * [Learning Music](https://learningmusic.ableton.com/)
         * [Learning Synths](https://learningsynths.ableton.com/)
+    * [The Design of the Roland Juno oscillators](https://blog.thea.codes/the-design-of-the-juno-dco/)
+        * Physics/Electronics analog synths - sawtooth waves
     * [Sonic Pi](https://sonic-pi.net/)
         * Example lessons and teacher resources
     * [Synthesizer Basics: Amplitude, Oscillators, Timbre](https://www.youtube.com/watch?v=c3udLCvoCC0)
