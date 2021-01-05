@@ -72,6 +72,42 @@ Teaching Resources
 * [101computing.net](https://www.101computing.net/)
     * [Little Man Computer (LMC) CPU Simulator](https://www.101computing.net/LMC/)
     * [youtube channel](https://www.youtube.com/c/101Computing/videos)
+* [withcode.uk](https://withcode.uk)
+    * [@pddring](https://twitter.com/pddring)
+    * [YouTube](https://www.youtube.com/c/pddring/videos)
+        * Loads of CS, SQL, pygame, exam questions, hardware, 3D Blender vids
+    * [tools.withcode.uk](https://tools.withcode.uk/)
+        * loads of web computing tools and examples
+        * [CPU Simulator](https://tools.withcode.uk/cpu/) - fetch decode execute step by step in browser
+        * [psudocode quickref](https://tools.withcode.uk/quickref/) (equivalent of my cheatsheet idea)
+        * [alternartive curriculum day puzzles](https://tools.withcode.uk/acd/)
+        * [Generator for binary conversion questions - and live marking](https://tools.withcode.uk/binarychallenge/)
+        * [blockpy](https://tools.withcode.uk/blocklypy/) - use blocks to create python
+        * [Page-rank Algorithm simulator](https://tools.withcode.uk/pagerank/)
+        * [psudocode challenge](https://tools.withcode.uk/ocrpseudo/) - online quiz, 'what will the code return'
+        * [resistor colour code](https://tools.withcode.uk/resistor/)
+        * [blooms taxonomy teacher questioning tool](https://tools.withcode.uk/questioniser/)
+    * [type.withcode.uk](https://type.withcode.uk/)
+        * snippets (with an onscreen keyboard to type along to)
+    * [live.withcode.uk](https://live.withcode.uk/)
+        * video lessons and exercises
+        * [python - live graphics - snowflakes](https://create.withcode.uk/python/CRX)
+    * [blog.withcode.uk](https://blog.withcode.uk/)
+        * python lessons
+        * [RPi GPIO python simulator](https://blog.withcode.uk/2016/10/rpi-gpio-python-simulator/)
+        * [Python bitmap image activities in browser](https://blog.withcode.uk/2017/04/free-tools-for-teaching-data-representation-of-images-with-python/3/)
+        * [GCSE Computer Science Revision Paper 1 Worked Solution](https://blog.withcode.uk/gcse-computer-science-revision-paper-1-worked-solution/)
+        * [Making computing accessible for all](https://blog.withcode.uk/2016/05/making-computing-accessible-for-all/2/)
+            * tips on lesson structure
+        * [KPRIDE](https://create.withcode.uk/kpride/)
+* [w3schools](https://www.w3schools.com/)
+    * Interactive tryit in browser for a range of languages
+    * python, c#, java, javascript exercise (mini questions with text box's)
+        * exercises have a full url to link to them
+            * [python exercise_functions3](https://www.w3schools.com/python/exercise.asp?filename=exercise_functions3)
+    * examples (kind of like snippets from my cheat sheet)
+        * [snippet examples](https://www.w3schools.com/python/python_examples.asp) live in browser
+    * [UTF-8 C0 Controls and Basic Latin](https://www.w3schools.com/charsets/ref_utf_basic_latin.asp)
 * [schoolcoders.com](http://www.schoolcoders.com/)
     * gcse/a-level notes
 * [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA) 10min video
@@ -116,7 +152,8 @@ Teaching Resources
 
 Links to other MD documents
 * [Microbit](../physicalProgramming/microbit)
-* [TinkerCAD](./tech.md)
+* [tech](./tech.md) TinkerCAD - Browser based coding
+    * [collaboration](./collaboration.md) - Browser based coding - duplicate?
 * [Challenges](../computing/challenges.md)
 
 

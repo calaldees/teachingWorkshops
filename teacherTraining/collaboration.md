@@ -156,7 +156,7 @@ Other Online online code tools
 * Multi
     * [sharepad.io](https://www.sharepad.io/) - python, java, c, c++ - live share + link share
 
-
+[tech](./tech.md) more here - duplicates? merge?
 
 
 Other unsorted notes about Collaboration

@@ -442,9 +442,21 @@ NOW: Group email with all members of the group
 Computer Science
 ----------------
 
-### What is Computer Science?
+### What is Computing?
 
-3 strands: Computing, Information Communication Technology, [Digital Literacy](./digitalLiteracy.md)
+3 strands: Computer Science (CS), Information Communication Technology (IT), [Digital Literacy](./digitalLiteracy.md) (DL)
+* [Fulford School: What is Computing](https://fulford.york.sch.uk/computing/)
+
+* Computer Science
+    * involves understanding how computers work and how to use them to solve problems with algorithms and code.
+* Information Technology	
+    * involves processing data and using a variety of hardware & software to create digital media that is suitable for different audiences and purposes.
+* Digital Literacy	
+    * involves understanding how to use technology safely, respectfully, responsibly and securely
+
+* 82% of all job vacancies require digital skills[1]
+* Roles requiring digital skills pay 29% more than those that don’t[2]
+* In recent years, the number of digital jobs grew almost three times as quickly as other occupations[3]
 
 TASK: 
 * What's the difference between Computing and ICT?

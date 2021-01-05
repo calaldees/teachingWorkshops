@@ -36,7 +36,16 @@
 * [My year in data](https://samplesize.one/blog/posts/my_year_in_data/) - phd student tracks years worth of time in 15min chunks and measures sleep, work, socialising and procrastination
     * Recorded points for activities - monkey brain actively optimises points
 
+* [Toyota Production System glossary](https://blog.toyota.co.uk/toyota-production-system-glossary)
+    * Terminology used in toyota's car assembly process
 
 * Science seeks the basic laws of nature
 * Mathematics searches for new theorems to build upon the old
 * Engineering builds systems to solve human needs.
+
+
+* [Parable of Alien Chess](https://lukesmith.xyz/articles/chess)
+    * Aliens come to earth and observe chess - they cant see the peices or moves - they observe that 50% of the time white wins and 50% black wins. That is the dominant theory.
+    * A super alien seentists theorises more is going on and can see the first move. The model is now massivly morec complex and gives worse results than the 50% conflip
+    * Which model is better?
+    * This happens in real science all the time

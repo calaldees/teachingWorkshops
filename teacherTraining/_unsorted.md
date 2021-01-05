@@ -1,3 +1,7 @@
+* [QAA Subject Benchmark Statement - Education Studies](https://www.qaa.ac.uk/docs/qaa/subject-benchmark-statements/subject-benchmark-statement-education-studies.pdf?sfvrsn=3ae2cb81_5) 2019
+    * the uk's quality body for higher education
+* [Digital lens on the UK Professional Standards Framework (UKPSF)](https://www.heacademy.ac.uk/system/files/downloads/digital_lens_on_the_ukpsf.pdf) - Supporting the digital capabilities of teaching staffin UK higher education
+
 Jornals
 -------
 

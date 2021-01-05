@@ -260,6 +260,8 @@ End-of-lesson students’ review
     10. Match comments to work 
         * Write comments about students’ work on strips of paper without names. Sit students in groups of four. Each group of four students gets back their four pieces of work and their four comments. The group needs to decide which comment goes with which piece of work.
 
+* [10 top tips for using traffic light cups to improve assessment](http://www.innovatemyschool.com/ideas/traffic-light-cups-to-enhance-assessment-for-learning-ten-top-tips) 2011 blog (by a cup company)
+
 
 https://mikegershon.com/resources/
 

@@ -24,6 +24,9 @@ Logical Fallacies
 https://www.schoolofthought.org/
 
 
+* [20 months in, 2K hours spent and 200K € lost. A story about resilience and the sunk cost fallacy](https://dsebastien.medium.com/20-months-in-2k-hours-spent-and-200k-lost-a-story-about-resilience-and-the-sunk-cost-fallacy-69fd4f61ef59)
+    * Startups, burnout, context switching
+
 
 * Weird
     * western

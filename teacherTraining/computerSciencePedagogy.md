@@ -93,6 +93,8 @@ TASK: Read PRIMM quick read.
         * Vocabulary
             * Variables, output, input, conditions, iteration, assignment
 
+* [KPRIDE](https://create.withcode.uk/kpride/)
+    * Keywords, Predict, Run, Investigate, Debug and Extend
 
 * [Reducing the load: ways to support novice programmers](https://www.raspberrypi.org/blog/research-seminar-cognitive-load-subgoal-labels/) Sue Sentence
 * [How we are helping you with computing teaching strategies](https://www.raspberrypi.org/blog/how-we-are-helping-you-with-computing-teaching-methods/)

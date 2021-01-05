@@ -343,6 +343,15 @@ Lesson Topic Ideas
     * [4k Synth Core](https://in4k.github.io/wiki/aulds-4k-synth#coding-your-own-sound-components)
     * [playing-with-midi-in-javascript](https://medium.com/swinginc/playing-with-midi-in-javascript-b6999f2913c3)
         * Complete MIDI synth in a browser from scratch
+    * [tone.js](https://tonejs.github.io/)
+        * Web Audio framework for creating interactive music in the browser.
+        * ```javascript
+          const synth = new Tone.Synth().toDestination();  //create a synth and connect it to the main output (your speakers)
+          synth.triggerAttackRelease("C4", "8n");  //play a middle 'C' for the duration of an 8th note
+          ```
+        * [handel](https://handel-pl.github.io/) 
+            * Handel is a small procedural programming language for writting songs in browser
+            * [handel live browser](https://ddj231.github.io/Handel-Web-Editor/)
     * Midi input
         * [Korg nanokontrol2](https://www.korg.com/uk/products/computergear/nanokontrol2/)
         * ```python
@@ -409,6 +418,8 @@ Using real data is inspiring
         * [datapoint api](https://www.metoffice.gov.uk/datapoint)
     * [National Centers for Environmental Information (US)](https://www.ncei.noaa.gov/)
         * [global hourly](https://www.ncei.noaa.gov/data/global-hourly/)
+    * [NOAA STAR - Global Vegetation Health Products : Introduction](https://www.star.nesdis.noaa.gov/smcd/emb/vci/VH/index.php)
+        * [Breathing Earth](http://www.p01.org/breathing_earth/)
     * Maps
         * [OpenStreetMap](https://www.openstreetmap.org) Javascript Editor - [ID](https://wiki.openstreetmap.org/wiki/ID)
             * [GeoJSON Tools](https://geoman.io/)

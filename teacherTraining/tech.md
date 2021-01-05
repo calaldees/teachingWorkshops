@@ -102,16 +102,25 @@ Browser Based - Development environments
     * Must have a (good) web connection
 
 * Technologies
-    * [repl.it](https://repl.it/)
-        * Discussed in previous sessions - an education revolution
-        * (Has a paid-for school class system for projects/sumbissions/annotations/feedback $1000 per year per school)
-    * [trinket.io](https://trinket.io/)
-    * [SmallBASIC](https://SmallBASIC.com/) [live](https://superbasic-v2.azurewebsites.net/) - Microsoft
-    * [CodeTasty](https://codetasty.com/)
-    * [GitPod](https://www.gitpod.io/)
-        * Browser based fully remote dev environment
-        * OVERKILL for schools - but interesting for professional developers
+    * Browser
+        * [repl.it](https://repl.it/)
+            * Discussed in previous sessions - an education revolution
+            * (Has a paid-for school class system for projects/sumbissions/annotations/feedback $1000 per year per school)
+        * [trinket.io](https://trinket.io/)
+        * [sharepad.io](https://www.sharepad.io/) - python, java, c, c++ - live share + link share
+        * [SmallBASIC](https://SmallBASIC.com/) [live](https://superbasic-v2.azurewebsites.net/) - Microsoft
+        * [create.withcode.uk](https://create.withcode.uk/) - python
+        * [w3schools.com](https://www.w3schools.com/) - live tryit
+            * html
+                * [w3schools tryit svg example](https://www.w3schools.com/graphics/tryit.asp?filename=trysvg_circle)
+    * Online IDE
+        * [CodeTasty](https://codetasty.com/)
+        * [GitPod](https://www.gitpod.io/)
+            * Browser based fully remote dev environment
+            * OVERKILL for schools - but interesting for professional developers
     * [The 13 Best Browser IDEs Every Programmer Should Know About](https://www.makeuseof.com/tag/programmer-browser-ides/)
+[collaboration](./collaboration.md) - more here .. duplicates? merge?
+
 
 
 Physical 

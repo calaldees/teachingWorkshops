@@ -153,27 +153,28 @@ Kind regards,
 
 ---
 
-Hi,
+Greetings PGCE Computing Mentors,
 
-I wanted to check how you and XXX were getting on and extend an offer of mentor support.
-One of my roles is to visit subject mentors and check they are ok with the mentoring programme.
+As the subject tutor for PGCE Computing, one of my roles is to support Computing mentors by undertaking a school visit.
+All mentor visits this year will be 'virtual' and held online (with Microsoft Teams).
 
-It would be good to complete a visit before XXX.
-The assessment of student teachers has been overhauled this year and I may be able to offer more information about that process. 
-(Additional mentor documents are available on the mentor website http://ccccumentors.org.uk/ )
+This is a supportive 'mentor facing' visit.
+As the assessment process for student teachers has been overhauled this year, I may be able to offer more information about the new process. 
+(Mentor documents are available on the mentor website http://ccccumentors.org.uk/ )
 
-A suggested visit agenda:
-    45min? - Allan + XXX - Hello, Discussion about 'CCCU Curriculum 2020'
-    45min? - XXX + XXX + Allan - Mentoring activity (David/Phil to lead on a normal mentoring activity with Allan contributing)
-    30min? - XXX + Allan - Consultation on progress so far
+A suggested visit agenda (2 hours total?):
+    45min? - Tutor and Mentor - Hello. Discussion about 'CCCU Curriculum 2020'
+    45min? - Mentor,  Student teacher and Tutor- Mentioning activity (Mentor/Student to lead on a normal mentoring activity with Tutor contributing)
+    30min? - Student Teacher + Tutor - Consultation on progress so far
     (The time allocation is flexible)
 
-Rather than sending multiple emails between us to settle on a date/time, I've set-up a web booking system for creating MSTeams meetings linked to my calendar:
+Rather than sending multiple emails between us to settle on a date/time, I've set-up a web booking system for creating MSTeams meetings linked to my calendar availability. You can book an appropriate timeslot for a 'virtual visit':
 https://outlook.office365.com/owa/calendar/PGCESDComputing@cccu.onmicrosoft.com/bookings/
-With this you can book an appropriate timeslot for an on-line virtual visit.
 
-Let me know if you and XXX are getting on ok and if this visit would be useful to you both.
-I look forward to hearing form you soon.
+It would be good to complete a 'virtual visit' with you before Friday 5th February.
+
+I hope this term goes as smoothly as possible for you all.
+I look forward to visiting you soon.
 
 
 Mentor Visits
