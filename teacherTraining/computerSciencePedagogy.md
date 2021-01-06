@@ -62,6 +62,7 @@ TASK: Read PRIMM quick read.
 * Build on top of it incrementally
 
 * [Teach Computing Podcast Ep12 - The PRIMM Approach](https://blog.teachcomputing.org/tc-podcast-ep12-the-primm-approach/)
+    * [Sonix transcription](https://sonix.ai/r/1ZgrmBpZX7Z24apj3o5CQGeC/share)
     * Coding is Hard - but why? - is it difficult or is it taught badly
     * misconceptions
         * Assignment `=` or `==`
@@ -86,15 +87,51 @@ TASK: Read PRIMM quick read.
     * Make - design and make
         * use the skills of the first 4 steps
         * a big leap - needs to be scaffolded
-    * Variations - Craig and Dave's TIME - Pete Dream KPRIDE - EPIC
+    * Variations - Craig and Dave's TIME - Pete Dren KPRIDE - EPIC
     * Steps that are not too huge a jump - cognitive load theory
     * Importance of classroom discussion - language of their subject
         * Talking about a program really solidify ideas - rubber duck
         * Vocabulary
             * Variables, output, input, conditions, iteration, assignment
+    * Research interview using PRIMM
+        * Language to talk about code
+        * Experienced teachers model vocabulary
+        * Meta discourse - talk about the words that you are using
+            * _Condition_ - well I condition my hair - _selection_
+    * [primming.wordpress.com](https://primming.wordpress.com/) KS3
+        * research background PRIMM is based on
 
-* [KPRIDE](https://create.withcode.uk/kpride/)
+* [KPRIDE](https://create.withcode.uk/kpride/) Pete Dreen
     * Keywords, Predict, Run, Investigate, Debug and Extend
+* [Programming with T.I.M.E.](https://craigndave.org/programming-with-time/) Craig’n’Dave
+    * Try, Investigate, Make and Evaluate
+        * Try
+            * Predict what a program will do. Type or paste the code and give it a try.
+        * Investigate
+            * Comprehend the code. Modify the code. Debug code.
+            * Structure, purpose, reason, realtion, approach
+        * Make
+            * Design an algorithm. Code the solution.
+            * > students choose the problems they want to solve, aiming for a total of 6 points in each objective
+        * Evaluation
+            * Test the code. Reflect on the approach. Refine the code
+    * Role of teacher
+        * Immediate oral feedback will be far more useful to the student than written feedback
+        * If you are not leading programming from the front of the class and students are working on different tasks at the same time, what does the teacher do?
+        * Programming taught from the front of the class at best only ever effectively teaches a third of the class. Some can already progress further beyond what you are explaining and some are already lost and need additional support. Allowing students to learn independently at their own pace and choose their own challenges allows greater flexibility for the teacher to stretch and support individual students.
+        * The role of the teacher is to maintain pace, provide individual interventions when students are stuck, review completed objectives and track progress.
+        * Using these resources, students that are absent from class are not disadvantaged and can even continue their work at home. If a question is too difficult to answer, or a problem is too difficult to solve, these can be left to be discussed with the teacher. The student can still move on to the next objective or problem.
+    * Each workbook introduces a new programming concept
+        * Learn how to write structured programs.
+        * Learn how to use selection.
+        * Learn how to use number data types.
+        * Learn how to use string data types.
+        * Learn how to use counter-controlled iterations.
+        * Learn how to use condition-controlled iterations.
+        * Learn how to handle user inputs.
+        * Learn how to use arrays and lists.
+        * Learn how to use serial files.
+        * Learn how to master the basics. 
 
 * [Reducing the load: ways to support novice programmers](https://www.raspberrypi.org/blog/research-seminar-cognitive-load-subgoal-labels/) Sue Sentence
 * [How we are helping you with computing teaching strategies](https://www.raspberrypi.org/blog/how-we-are-helping-you-with-computing-teaching-methods/)

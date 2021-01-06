@@ -4,6 +4,8 @@ Resources
 Teaching Resources
 ------------------
 
+* [PG Online - Computer Science](https://www.pgonline.co.uk/resources/computer-science/)
+    * KS3 + All exam boards resources (Paid for teacher resources)
 * [code.org](https://code.org/)
     * Browser based environments
         * [AppLab](https://studio.code.org/projects/applab/) Browser based app builder
@@ -16,6 +18,8 @@ Teaching Resources
 * [Diagnostic Questions: Project Quantum - Computer Science Questions bank](https://diagnosticquestions.com/quantum)
 * [Craig and David: Teachers](https://craigndave.org/)
     * [Craig and David: Students](https://student.craigndave.org/)
+    * [SmartRevise](https://smartrevise.craigndave.org/) question bank system
+    * [Programming with T.I.M.E.](https://craigndave.org/programming-with-time/)
 * [isaac Computer Science](https://isaaccomputerscience.org/)
     * A Department for Education project, part of the National Centre for Computing Education and created by the University of Cambridge and the Raspberry Pi Foundation.
     * [AQA Workbook](https://isaaccomputerscience.org/books/workbook_20_aqa)
@@ -150,6 +154,13 @@ Teaching Resources
     * KS1 to KS3 expert
 * [CS For All Teachers](https://www.csforallteachers.org/)
 
+* [Mike Gershon - Resources for teachers](https://mikegershon.com/resources/)
+    * Starter Generator
+    * Plenary Producer
+    * Differentiation Devisor
+    * AfL Toolkit
+        * [AfL Tookkit](https://www.slideshare.net/caldiesschool/tl-assessment-for-learning-tools) old - but web visible
+
 Links to other MD documents
 * [Microbit](../physicalProgramming/microbit)
 * [tech](./tech.md) TinkerCAD - Browser based coding
@@ -175,7 +186,13 @@ Pedagogy
     * [publications](https://tpea.ac.uk/publications/)
     * [old site - ITTE: Information Technology in Teacher Education](http://itte.org.uk)
 
+Research
+--------
 
+* [csedresearch.org](http://csedresearch.org/)
+    * Search current/past CS research papers?
+        * good category selection
+* [Raspberry Pi Foundation: Computing education research seminars: previous seminars ](https://www.raspberrypi.org/computing-education-research-online-seminars/previous-seminars/)
 
 Unsorted
 ========

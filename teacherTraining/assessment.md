@@ -1,5 +1,60 @@
-Assessment
-==========
+Formative Assessment
+====================
+
+Objectives
+
+* Learning v progress; what does Computing learning look like?
+* AfL strategies and feedback to inform subject practice
+    * feedback supporting pupils to monitor and regulate their own learning
+* Reducing assessment workload
+    * High impact high quality feedback
+
+ITT Core Framework
+6.1
+> Effective assessment is critical to teaching because it provides teachers with information about pupils’ understanding and needs
+6.2
+> Good assessment helps teachers avoid being over-influenced by potentially misleading factors, such as how busy pupils appear
+6.4
+> pupils must be able to act on feedback for it to have an effect
+6.5
+> High-quality feedback can be written or verbal; it is likely to be accurate and clear, encourage further effort, and provide specific guidance on how to improve
+6.6
+> Over time, feedback should support pupils to monitor and regulate their own learning.
+
+
+Async (3 hours)
+-----
+
+* From the video answer the following questions (15min)
+    * [Dylan William: What do we mean by Assessment for Learning?](https://www.youtube.com/watch?v=q-myBw36_DA) 9min 2018
+        * can you elaborate on _students as owners of their own learning_?
+        * can you elaborate on _students are learning resources for one another_
+        * What does Dylan mean when he says _view from the rear view mirror_?
+        * What is the maximum number of times you should perform formative assessment?
+* Read this influential paper - (30min reading + 15min notes and thinking about questions)
+    * [Inside the Black Box](https://journals.sagepub.com/doi/10.1177/003172171009200119) (Black and Wiliam, 1998) [alternate](https://weaeducation.typepad.co.uk/files/blackbox.pdf)
+    * Questions for later in the session
+        * How could we train pupils to self assess their work?
+            * What skills, support, time, resources would they need to do this?
+        * How do we give feedback?
+            * what are the benefits/problems of verbal, written, digital?
+        * How will students convey their understanding to you?
+        * Can you give examples of feedback (phrases/sentences) that would prompt a student to improve? (we will look as group to see if we can wordsmith these)
+        * How would you set regular homework + give meaningly feedback (timely) + observe that the feedback was actioned/had-impact
+* [Programming with T.I.M.E](https://craigndave.org/programming-with-time/) (20min)
+    * What does TIME stand for?
+    * In the Craig and Dave suggestion - what is the teachers role in the classroom?
+    * How is how the answer to your question above linked with formative assessment?
+* [EEF Project: Embedding Formative Assessment](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/embedding-formative-assessment/) Trial 2018)
+    * What are the 5 key formative assessment strategies suggested by this trial
+        * We will be working on our own strategies for these points in the session
+
+
+---
+
+
+Assessment (Old Notes)
+======================
 
 Objective:
 * Understand the required formal assessment methods in schools
@@ -14,8 +69,8 @@ We NEED assessment and we NEED humanisation.
 We are going to journey through a range of emotions.
 
 
-Visible Curriculum
-------------------
+Visible Curriculum - The Education Machine (A historical syndical lens)
+-----------------------------------------------------------------------
 
 Why are you here?
 [Teacher Standards](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/665522/Teachers_standard_information.pdf)
@@ -49,14 +104,14 @@ Why are you here?
 
 * Schools want this standardised assessment
 * Parents want this standardised assessment
-* Govenments want this standardised assessment
+* Government's want this standardised assessment
 
 * Teachers in different schools suffer different burdens
     * Ghrama school teachers stating their two level 4's are shameful (one was a school refuser, one had learning difficulty's. The result is still abounding!)
     * Comprehensive school teachers would be overjoyed at 38% of a class attaining level 4
 
 * Cambels law - Any system with a measurable metric is gamed.
-* Anything that you do that is not directly related to GCSE metrics (or Open Evening Preception) is pointless.
+* Anything that you do that is not directly related to GCSE metrics (or open evening perception) is pointless.
 * SMT Don't know or care.
 * If you're _nice_ but don't produce results you'll be seen as a weak practitioner.
 
@@ -68,16 +123,19 @@ Why are you here?
     * If they are all predicted U's is this the best choice for this student?
     * Who care's if it's good for the student; every bum on a seat is raw cash baby!!!
 
-* Education is a business.
-* Welcome to the factory.
+* Education is a business
+* Welcome to the factory
 
 Every Teacher knows the system is not sufficient - let's not re-enforce that - let's find solutions
+
+Many people have advised governments against this and opinion/process is positively changing
+David Didau and Dylan Wiliam + MANY more are inspiring national change
 
 
 Invisible Curriculum - Character Traits
 ---------------------------------------
 
-* Draw a picture of a horse as accuratly as possible - you will be marked on proportions, feature accuracy, detail - show publicly (5 min)
+* Draw a picture of a horse as accurately as possible - you will be marked on proportions, feature accuracy, detail - show publicly (5 min)
 * Outside (change lesson)
 * Write a 3 line poem about Computing. You have (5 min)
 
@@ -163,10 +221,12 @@ Summative/Formative Assessment
     * gcse result, grade, number
     * no meaningful feedback
 * Formative
+    * > Any assessment that helps a pupil to learn and develop is formative (Perrenoud) 1991
     * facilitates the participants development
+        * corrects a misconception
     * suggestions for improvement, questioning, verbal feedback, self evaluation, peer assessment
 
-Ofstead want
+Ofsted (historically) wanted to ask students:
 * What grade/level are you currently at
 * What is there next step. How to improve
     * Target setting is a formalised for of feedback - specific and challenging
@@ -176,38 +236,148 @@ ITT Core Framework
 6.1
 > Effective assessment is critical to teaching because it provides teachers with information about pupils’ understanding and needs
 6.2
-> Good assessment helps teachers avoid being over-influenced by potentially misleadingfactors, such as how busy pupils appear.
+> Good assessment helps teachers avoid being over-influenced by potentially misleading factors, such as how busy pupils appear
 
 ### Formative
 
 Formative assessment is more effective steaming/setting
-[Inside the Black Box](https://www.rdc.udel.edu/wp-content/uploads/2015/04/InsideBlackBox.pdf) (Black and William, 1998)
+* [Inside the Black Box](https://journals.sagepub.com/doi/10.1177/003172171009200119) (Black and Wiliam, 1998) [alternate](https://weaeducation.typepad.co.uk/files/blackbox.pdf)
+    * Present policy treats the classroom like a _black box_ and offers no help with as to how to raise attainment. Inputs are money, teachers, resources. Outputs are grades. Whats happens inside the black box?
+    * > Feedback to any pupil should be about the particular qualities of his or her work, with advice on what he or she can do to improve, and should avoid comparisons with other pupils
+    * > For formative assessment to be productive, pupils should be trained in self-assessment so that they can understand the main purposes of their learning and thereby grasp what they need to do to achieve
+    * > Opportunities for pupils to express their understanding should be designed into any piece of teaching, for this will initiate the interaction whereby formative assessment aids learning
+    * > The dialogue between pupils and a teacher should be thoughtful, reflective, focused to evoke and explore understanding, and conducted so that all pupils have an opportunity to think and to express their ideas
+    * > Tests and homework exercises can be an invaluable guide to learning, but the exercises must be clear and relevant to learning aims. The feedback on them should give each pupil guidance on how to improve, and each must be given opportunity and help to work at the improvement
+
 
 Ruth Butler 1987
 * mark only
 * comment only (30% improvement)
 * mark and comment
 
-[EEF Project: Embedding Formative Assessment](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/embedding-formative-assessment/) Trial 2018
+* [EEF Project: Embedding Formative Assessment](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/embedding-formative-assessment/) Trial 2018
+    * Local teaching groups asked to have a range of collaborative sessions address these 5 key points
+        1. clarifying, sharing and understanding learning intentions
+        2. engineering effective classroom discussions and activities
+        3. providing feedback that moves learning forward
+        4. activating learners as instructional resources for one another
+        5. activating learners as owners of their own learning
 
-[AfL Tools](https://www.slideshare.net/caldiesschool/tl-assessment-for-learning-tools)
-
-"Assessment for learning" all about recording and reporting - if the impact is not with the student then it's not having an effect
-Formative assessment == Such assessment becomes formative  when the evidence is actually used to adapt the teaching work to meet the learning needs
-In the moment - before they leave the classroom
-Changes what teachers think, dosnt benefit what students until it changes what teachers do
+* [Dylan William: What do we mean by Assessment for Learning?](https://www.youtube.com/watch?v=q-myBw36_DA) 9min 2018
+    * Research suggests consistent effects
+    * "Assessment of learning" helps teacher - not learner
+    * focusing on the intention rather than the action.
+    * "Assessment for learning" strategy by the government is all about recording and reporting achievement - if the impact is not with the student then it's not having an effect
+    * > Formative assessment == Such assessment becomes formative  when the evidence is actually used to adapt the teaching work to meet the learning needs (Black 2002)
+    * Short term - In the moment - impact before they leave the classroom
+    * > Changing what teaching think doesn't benefit students until it changes what teachers do
+      > ... we've been trying to get teachers to think there way into a new way of acting. We need teachers to act their way into a new way of thinking
+    * Aspects of formative assessment
 
 |       | Where is the learner going | Where the learner is | How to get there |
 |-------|----------------------------|----------------------|----------------|
-| Teacher | Clarify and share learning intentions | Engineering effective disscussions, tasks, and activities that elicit evidence of learning | providing feedback that moves learners forward |
+| Teacher | Clarify and share learning intentions | Engineering effective discussions, tasks, and activities that elicit evidence of learning | providing feedback that moves learners forward |
 | Peer | Understand and share the learning intentions | Activating students are learning resources for one another |
 | Learner | Understand the learning intentions | Activating students as owners of their own learning |
+* cont ...
+    * Activating students as owners of their own learning
+        * Self assessment
+        * Meta cognition
+        * Emotional response (resilience to difficulties/failure)
+        * Self efficacy
+    * Activating students are learning resources for one another
+        * Peer assessment
+        * Peer tutoring
+        * Mentoring
+    * Providing feedback that moves learners forward
+        * often the view from the rear view mirror - what was wrong with the last assignment - but they are never going to do that assignment again
+        * Feedback should take out of the last assignment, what they need for the next assignment
+    * How often should we do formative assessment - not more than once per minuet
+* [Formative assessment:The bridge between teaching and learning in high school mathematics](https://www.dylanwiliam.org/Dylan_Wiliams_website/Presentations_files/2013-08-02%20NCTM%20HS%20Institute.pptx) NCTM High School Interactive Institute, August 2nd , 2013: Washington, DC Dylan Wiliam
+    * Formative assessment/ Assessment for learning = 8 months additional learning a year = £3,000 per class per year
+* [Dylan Wiliam Embedding Formative Assessment SSAT/EEF celebration event keynote](https://www.youtube.com/watch?v=zwGaG1b_T2w) 2017 38min
+    * If you don't think you can get better you will reject feedback
+    * Create a culture where teachers want to improve - not because they are not good enough
+    * Schools are talent refinery's - some kid get it, some kid don't - the good are sifted to the top.
+    * Talent incubators or talent factories
+    * IQ is 80% of GCSE grade - IQ inhabitability 60%
+    * Because it is the case - does not mean it ort to be the case
+    * If you get a bell curve - you are not doing your job. A bell curve is what nature gives us
+    * I don't want to live in a world where taller people are better at basketball
+    * I don't believe in equality of opportunity - because that means the bell curve all over again. We need to give more help to the kids that need it
+    * Send all the clever kids home on Thursday/Friday - that will close the achievement gap
+    * Lower achieving pupils need a better chance of a good life
+    * Consider control/impact matrix
+        * some things are outside of your control and have high impact - _poverty_
+    * Set's don't seem to impact on achievement - it's not an argument about data, the data is clear - it's about what middle class parents want
+    * Some teachers are better than other teacher - so we drive teacher accountability - let's grade teachers - most people cant identify good teachers
+    * More struggle more learning - less struggle less learning
+    * 7 teachers
+        * 3 have performed 0.5 standard deviations above consistently for 3 years
+        * 4 have performed 0.5 standard deviations below consistently for 3 years
+        * People shown video clips and asked to say good/bad teacher
+        * nobody could tell (Strong 2011) - a coinflip was better odds - school principles, mentors, students, parents
+    * You need 11 years worth of data to get an estimate predictor of how good a teacher is
+    * We have better things to do with our time. There is no upside to grading teachers. Let's stop. Let's just help every teacher get better
+    * How can you improve teachers if you cant measure them
+    * Pareto 80:20 rule
+        * Don't raise money for tax's until you can be sure you are doing the best you can with your current money
+        * If have to take away from one thing to add to another - thats a political decision
+        * If you can add to something without taking away from another - that's a technical matter and you should do it straight away
+        * Can we improve education without adding more money?
+        * If anything that you add damages what you have - then you are pareto optimal and only more money will improve it
+    * Research will never tell you _what_ to do - it tells you what currenty is
+        * don't work
+            * Smarter teachers
+            * paying teachers more
+            * learning styles
+            * brain gym
+        * Might work
+            * differentiated instruction
+            * grit (only for westpoint graduates)
+            * growth mindset (impact on student achievem ent is not significant - never been validated)
+            * social and emotional aspects of teaching
+        * work a bit
+            * firing bad teachers
+            * charter schools
+            * class size reduction
+        * work a lot
+            * curriculum improvement
+            * formative assessment
+    * Everything was hard before it was easy - remind children how hard it was to tie their shoe laces
+    * Expertise is 
+        * Specific and limited
+        * Weakly related to general ability
+        * Not reproducible to propositional knowledge - cant be reduced to words
+        * Involves perception fo meaningful patters
+    * Most teachers could be as good as the very best teachers within 10 years
+    * You could have the very best school - it will just take you 10 years
+    * In a collaborative environment teachers reach average of 1.0 in 3 years, in an average school this take teachers 7 years
+    * Takeuchi 1995 - companies that manage tacit knowledge well - socialisation of staff
+    * You get given advice - you sort of do it but don't really understand it until you were doing it yourself
+* [Q&A with Dylan Wiliam at Embedding Formative Assessment SSAT/EEF Celebration Event](https://www.youtube.com/watch?v=aPTZpLaJvUA) 2017 1h15min
+    * Schools are hyper optimised - everything you do is valuable - so improving education is hard - you can only improve it by stopping people doing good things so that they can do better things - teachers resist change because the things they are doing are good and needed - it's not laziness that _not everything gets marked_
+    * SLT should not be advising in breakout groups - they are too detached - they change the dynamic, they are not the ground workers
+        * Theory X - people are lazy and leaders need to monitor
+        * Theory Y - people are ok and just need support
+        * Better to start the conversation with Theory Y - turns out just asking most people to do their best is a pretty good strategy
+        * If the metric is just make sales - that's easy - sell everything at a loss and boost sales ... but that's not what we want, we actually want is profit. 
+        * We need corporate alignment. Cascaded objectives (OKRs based on OKRs) - direct reports had objectives that are aligned with theirs. 
+        * Everybody made/succeeded in their objectives but the organisation did not get better/more-efficient
+            * You MUST fail some of your objectives, otherwise they are not challenging enough.
+    * TODO - continue at 12:00
+
+Using evidence of achievement to adapt what happens in classrooms to meet learner needs
+
+* [Mike Gershon - Resources for teachers](https://mikegershon.com/resources/) - free powerpoint on starters plenerys and afl tools
+    * [AfL Tools](https://www.slideshare.net/caldiesschool/tl-assessment-for-learning-tools) old but web visible
+
 
 * [Formative assessment in the computer science classroom](https://www.raspberrypi.org/blog/research-seminar-formative-assessment-computer-science-classroom/) Sentence 2020
     * TODO
 * [Formative Assessment](https://www.csforallteachers.org/blog/formative-assessment) Noah Mealy 2016
 
-* VleBooks [Formative Assessment for Teaching and Learning](https://r2.vlereader.com/Reader?ean=9781446296394) Bill Boyle Marie Charles 2013
+* VleBooks [Formative Assessment for Teaching and Learning](https://www.vlebooks.com/Vleweb/Product/Index/549014) Bill Boyle Marie Charles 2013
 
 
 Common errors in questioning
@@ -238,7 +408,7 @@ End-of-lesson students’ review
 
 
 > We are all better at spotting mistakes in the work of others.
-* [10 Feedback Techniques That Make Students Think](https://www.dylanwiliamcenter.com/wp-content/uploads/sites/3/2015/02/10-Feedback-Techniques.pdf) Dylan Wiliam
+* [10 Feedback Techniques That Make Students Think](https://www.dylanwiliamcenter.com/wp-content/uploads/sites/3/2015/02/10-Feedback-Techniques.pdf) Dylan Wiliam 2015
     1. Marking for improvement
         * When grading student work, record a grade in your grade-book, but only give students written comments on how to improve. Give students time to read the comments in class and one week to resubmit the work. The final grade is the average of the first and resubmitted grade.
     2. Mastery marking
@@ -261,6 +431,8 @@ End-of-lesson students’ review
         * Write comments about students’ work on strips of paper without names. Sit students in groups of four. Each group of four students gets back their four pieces of work and their four comments. The group needs to decide which comment goes with which piece of work.
 
 * [10 top tips for using traffic light cups to improve assessment](http://www.innovatemyschool.com/ideas/traffic-light-cups-to-enhance-assessment-for-learning-ten-top-tips) 2011 blog (by a cup company)
+
+* [Assessment with Craig 'n' Dave - (GCSE)](https://www.youtube.com/watch?v=I19Rtd_puU0) 5min
 
 
 https://mikegershon.com/resources/
@@ -307,7 +479,7 @@ Jigsaw (different groups, different questions)
 individual whiteboards
 Opinion line
 
-Questioning 1-2-1 to assess understanding
+Questioning 1-to-1 to assess understanding
 
 Question to diagnose 
 
@@ -344,13 +516,13 @@ Online
 * Automated tests - GitHub classroom
     * ??
 
+
 Exam
 ----
 
 * [AQA: GCSE Computer Science From 2020](https://www.aqa.org.uk/subjects/computer-science-and-it/gcse/computer-science-8525)
 * [OCR: Computer Science (9-1) - J277 From 2020](https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/)
     * [Assessment Story: exploring our question papers](https://www.ocr.org.uk/Images/562109-assessment-story-exploring-our-question-papers.pdf)
-
 * [Revised arrangements for GCSE computer science](https://www.gov.uk/government/news/revised-arrangements-for-gcse-computer-science)
     * > Ofqual has today (8 January 2018) announced that non-exam assessment will not count to the final 9 to 1 grade in GCSE computer science in 2018 or 2019. It is, however, still an important part of the course and contributes to student learning and progress, so all schools must continue to give students the opportunity within the timetable to complete the tasks.
 * [Future assessment arrangements for GCSE (9 to 1) computer science](https://www.gov.uk/government/consultations/future-assessment-arrangements-for-gcse-computer-science)
@@ -397,9 +569,9 @@ Lambert and Lines (2000) describe how teachers fall into an 'Accountability Trap
 
 ### 'Cover your ass' case study
 
-* Every practical focused A-Level lesson. Sat one-to-one with student. These are the deadlines you've missed. These are the attainments of your current work. Conversation recorded in database. Key points for improvement. New dealines for missing work. weekley log of everything agreeed with student. They know they have work that is 3 weeks late a letter will be sent home.
+* Every practical focused A-Level lesson. Sat one-to-one with student. These are the deadlines you've missed. These are the attainments of your current work. Conversation recorded in database. Key points for improvement. New deadlines for missing work. weekley log of everything agreed with student. They know they have work that is 3 weeks late a letter will be sent home.
 * Near end of year a student realised they were really really really behind. Made a sob story about how they were not supported properly and it was the school/teachers fault. Parent goes on warpath. Calls meeting with Head of 6th form and Head of Department and Teacher. Parent ready for a fight. Teacher puts down 5 sheets of A4 with every conversation with the student over the year documented. Multiple letters sent home that 'never got there'. Student frog marched out of room.
-* NO Student. However good your rapport with, is your friend. They will turn on you. Your department will turn on you. The only defence you will ever have is assessment evidence and records. They are your lifeline. Never EVER keep poor records.
+* NO Student. However good your rapport with, is your friend. They will turn on you. Your department will turn on you. The only defence you will ever have is assessment evidence and records. They are your lifeline. ALWAYS keep good records.
 
 
 ### Software Concept
@@ -407,6 +579,7 @@ Lambert and Lines (2000) describe how teachers fall into an 'Accountability Trap
 * My tracker idea
 * Is there such a thing?
 * AI voice recognition cloud service (Global Radio hack - 'freq')
+
 
 
 KS3
@@ -471,8 +644,13 @@ Other
 ICT needed for other subjects
 Computing not understood why it is needed
 
-look at formative assessment dude
-[Dylan-Wiliam](https://www.amazon.co.uk/Dylan-Wiliam/e/B004X8F5IC)
+* Dylan-Wiliam
+    * [dylanwiliam.org](http://www.dylanwiliam.org)
+    * [dylanwiliamcenter.com](https://www.dylanwiliamcenter.com/)
+    * [@dylanwiliam](https://twitter.com/dylanwiliam)
+    * [Author: Amazon](https://www.amazon.co.uk/Dylan-Wiliam/e/B004X8F5IC)
+
+
 
 
 
@@ -480,6 +658,18 @@ look at formative assessment dude
 
 TODO
 ====
+
+
+* [Education Research: The evidence](https://gregashman.wordpress.com/2020/11/13/education-research-the-evidence/) Greg Ashman 2020
+    * You do not learn something better if you figure it out for yourself
+    * Learning styles are a myth
+    * If you give students choice over how they learn, the often choose the least effective method
+    * Testing is a highly effective way to boost learning
+    * The evidence for the effectiveness of whole-class, interactive explicit teaching comes from a wide range of studies
+    * Broad world knowledge is essential to reading comprehension
+    * You cannot just Google facts when you need them
+    * Achievement boosts motivation
+
 
 Rethinking assessment
 ---------------------

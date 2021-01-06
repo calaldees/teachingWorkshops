@@ -308,6 +308,8 @@ Friday 11th December (Online) - Week 15
     * PPPD1
 
 ### SP13 (PGCE)
+Friday 8th January - Week 19
+
 * Learning v progress; what does Computing learning look like?
 * AfL strategies and feedback to inform subject practice
     * feedback supporting pupils to monitor and regulate their own learning
@@ -315,6 +317,8 @@ Friday 11th December (Online) - Week 15
     * High impact high quality feedback
 
 ### SP14 (PGCE)
+Friday 5th February - Week 23
+
 * AM
     * Revisit; Subject misconceptions; a tool to aid learning.
     * Links to prior knowledge, working and long-term memory and cognitive load
@@ -326,6 +330,8 @@ Friday 11th December (Online) - Week 15
 
 
 ### SP15 (PGCE/SD)
+Friday 26th February - Week 26
+
 * KS5 (Post 16) in Computing
     * A-Level course structure
     * Differing technique's for older more advanced learners
@@ -345,6 +351,8 @@ Learning Objectives
 
 
 ### SP16 (PGCE/SD)
+Friday March 5th
+
 * Hidden/Inviable Curriculum
 * ‘Broad and balanced’ curriculum, not teaching to the test/exam;
 * Ofsted criteria for schools
@@ -355,6 +363,8 @@ Learning Objectives
 
 
 ### SP17 (PGCE/SD)
+Friday March 12th
+
 * AM (Pre-Planned)
     * Mental health and well-being; managing pressures and time constraints
     * EI and cross-curricular learning
@@ -375,12 +385,16 @@ Developing classroom practice to become an autonomous practitioner who has an im
     * Employ reflexive strategies that challenge, secure learning and ensure significant progress for all learners
 
 ### SP18 (PGCE/SD)
+Friday March 19th
+
 * Computing across the curriculum and your school
 * Risk taking, creativity and innovative/novel uses of computing
 * Your professional role: Supporting colleagues in your institution with Computing
 
 
 ### SP19 (PGCE/SD)
+Friday April 23rd
+
 * AM
     * Effective CPD (Continued Professional Development)
         * Measuring impact

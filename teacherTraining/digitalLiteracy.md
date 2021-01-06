@@ -55,8 +55,14 @@ Activity: What can you expect someone with Digital Literacy to be able to do?
 * Copying a URL (remove the tracking query string)
 
 
-[South West Grid For Learning - Digital Literacy](https://digital-literacy.org.uk/curriculum-overview.aspx/#yr7)
-
+* [South West Grid For Learning - Digital Literacy](https://digital-literacy.org.uk/curriculum-overview.aspx/#yr7)
+* [RageRank Algorithm](https://en.wikipedia.org/wiki/PageRank)
+* [Barefoot: Search Technologies](https://www.barefootcomputing.org/concepts-and-approaches/search-technologies)
+* [Evaluating Digital Sources](https://www.library.georgetown.edu/tutorials/research-guides/evaluating-internet-content)
+* [Digital Literacies and Learning:Designing a Path Forwar](https://www.fi.ncsu.edu/wp-content/uploads/2013/05/digital-literacies-and-learning.pdf) 2012
+* [CRAAP Test](https://ucsd.libguides.com/preuss/webeval)
+    * Current? Relevant? Authority? Accuracy? Purpose?
+* [Why we need a new approach to teaching digital literacy](https://journals.sagepub.com/doi/full/10.1177/0031721718762419) Breakstone 2018
 
 ### Evaluating sources of information
 
