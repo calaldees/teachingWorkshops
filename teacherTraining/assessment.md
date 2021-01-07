@@ -22,8 +22,12 @@ ITT Core Framework
 > Over time, feedback should support pupils to monitor and regulate their own learning.
 
 
-Async (3 hours)
------
+Introduction - Core Formative assessment principles (1.5 hours)
+------------
+
+Get a feel for the core concepts of formative assessment
+
+### Async (1hour)
 
 * From the video answer the following questions (15min)
     * [Dylan William: What do we mean by Assessment for Learning?](https://www.youtube.com/watch?v=q-myBw36_DA) 9min 2018
@@ -41,17 +45,313 @@ Async (3 hours)
         * How will students convey their understanding to you?
         * Can you give examples of feedback (phrases/sentences) that would prompt a student to improve? (we will look as group to see if we can wordsmith these)
         * How would you set regular homework + give meaningly feedback (timely) + observe that the feedback was actioned/had-impact
-* [Programming with T.I.M.E](https://craigndave.org/programming-with-time/) (20min)
-    * What does TIME stand for?
-    * In the Craig and Dave suggestion - what is the teachers role in the classroom?
-    * How is how the answer to your question above linked with formative assessment?
-* [EEF Project: Embedding Formative Assessment](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/embedding-formative-assessment/) EEFTrial 2018 (10min)
+
+# Sync (30min)
+
+TASK 1: (5min) In the GoogleDoc create headings for the questions you answerd above - copy and paste ideas from your notes above - put your initials next to your contributions
+TASK 2: (25min) Discuss each question - (This will set the stage for some exploration this session)
+
+
+EEF Trial (1 hour)
+---------
+
+* Async - Read (10min)
+    * [EEF Project: Embedding Formative Assessment](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/embedding-formative-assessment/) EEFTrial 2018
     * What are the 5 key formative assessment strategies suggested by this trial
         * We will be working on our own strategies for these points in the session
+
+TASK:
+* Create a heading in the GoogleDoc for each of the 5 areas
+* Decide as a group - As individuals take a heading each - think about that heading and add some notes to the GoogleDoc (15min)
+* Form pairs - critique and refine your two headings (15min) (I will help odd groupings)
+* Summary to group (15min)
+
+
+### Loose notes of mine
+
+* From [The Voices of Solution Tree](https://slideplayer.com/slide/3762685/) - 2011 Dylan Wiliam
+* Example Course
+    * Weeks 1 to 2
+        * Individual choice from a range of work provided by the teacher. Student self-assessment using materials provided
+    * Weeks 3 to 6
+        * Children construct own problems like those in weeks 1 and 2 and select structured math apparatus to aid solutions
+    * Weeks 7 to 10
+        * Children presented with a new learning objectives, and make up their own problems, without exemplars by the teacher
+    * Weeks 11 to 14
+        * Children set their own learning objectives, construct appropriate problems, and use appropriate self-assessment
+    * Weeks 15 to 20
+        * As weeks 1 to 14, but with less monitoring from the teacher and increased freedom of choice and personal responsibility
+
+How do we train groups to interact?
+> We are all better at spotting mistakes in the work of others.
+
+* Activating students as learning resources
+    * Students assessing their peers’ work
+        * Activating self assessment
+            * rubrics
+            * exemplars
+    * “Pre-flight checklist”
+    * “Two stars and a wish”
+    * Training students to pose questions/identifying group weaknesses
+    * End-of-lesson students’ review
+
+
+David Daidu - Bring work to front until good enough - Mastery marking - There is only one grade and it's A
+
+
+
+Computer Science Pedagogy (30min)
+-------------------------
+
+Async (20min)
+* Read (15min)
+    * [Programming with T.I.M.E](https://craigndave.org/programming-with-time/) 
+        * What does TIME stand for?
+        * Craig and Dave suggested - what is the teachers role in the classroom?
+        * How is how the answer to your question above linked with formative assessment?
+* Video (5min)
+    * [Assessment with Craig 'n' Dave - (GCSE)](https://www.youtube.com/watch?v=I19Rtd_puU0)
+
+Sync (10min)
+* Discuss - how does this technique relate to the EEF 5 key areas?
+
+
+
+Feedback Cycle and Tools (30min)
+------------------------
+
+15min async
+15min sync
+
+### Make Students Think
+
+* Below are a list of general feedback and marking techniques that prompt students to engage with the feedback
+* Read (7min)
+* [10 Feedback Techniques That Make Students Think](https://www.dylanwiliamcenter.com/wp-content/uploads/sites/3/2015/02/10-Feedback-Techniques.pdf) Dylan Wiliam 2015
+    1. Marking for improvement
+        * When grading student work, record a grade in your grade-book, but only give students written comments on how to improve. Give students time to read the comments in class and one week to resubmit the work. The final grade is the average of the first and resubmitted grade.
+    2. Mastery marking
+        * Only accept student work when it is of a specific quality. You might only give one grade, an A. Students are expected to continue to redraft and resubmit their work as many times as necessary in order to achieve an A. The overall grade is then determined by the number of As.
+    3. +, –, = (Plus, Minus, Equals) 
+        * Mark student work in relation to previous work. If the latest work is of the same quality as the last, it receives an ‘=’, if it is better than the last, it receives a ‘+’, and if it is not as good as the last, it receives a ‘–‘. 
+    4. Responding to marking 
+        * Write your teacher feedback, signed and dated, at the start of the exercise book. Students then make an appropriate response below the teacher feedback, including where to find any redrafting. Do not mark the next piece of work until the student has responded to the last feedback provided. 
+    5. Focused marking
+        * Mark student work against one or two specific criteria, even though there may be many criteria that could be marked. This allows you to provide more focused and detailed feedback on these criteria than if everything was marked. The grade-book contains the skill marked rather than the title of the work set.
+    6. Find and fix your mistakes
+        * Instead of marking answers as correct or incorrect, tell the students the number of answers that were wrong. Give them time in class to find and correct their mistakes, either individually or in groups.
+    7. Margin marking
+        * Instead of marking each spelling or grammar mistake on essays, place a mark in the margin. Students then find their own mistakes and correct them. 
+    8. Traffic lights
+        * Give students a RED, AMBER or GREEN mark for a piece of work. All RED and AMBER work can be redrafted in an attempt to achieve a GREEN mark. The final grade is calculated from the number of GREEN and AMBER marks.
+    9. Aim for the next level
+        * Students identify areas of improvement by comparing their work to exemplars at the next level of achievement. Students realize that they need to set themselves higher standards. Able students find that they can improve a good piece of work.
+    10. Match comments to work 
+        * Write comments about students’ work on strips of paper without names. Sit students in groups of four. Each group of four students gets back their four pieces of work and their four comments. The group needs to decide which comment goes with which piece of work.
+
+Consider the questions below (7min)
+* Most of these examples are about a student having a paper workbook (some computing teachers do this!)
+    * Can you describe an example of any of these that map to the context of teaching Computing in a digital/remote classroom?
+* In the context of Computing and the Context of remote work - how would we accomplish this 'feedback cycle'?
+    * How do we quickly comment on students code? and quickly see their progress?
+
+### Feedback Loop/Cycle
+
+* Teacher needs to actively monitor work
+    * Students need to know that you care about the work (if you dont care, why should they care)
+* Teacher give actionable feedback
+* Students needs to digest and then action
+* Teacher identify that action has been taken based on the feedback
+
+```mermaid
+graph TD
+    s[Student]
+    t[Teacher]
+    t --actionable feedback--> s
+    s --action--> t
+```
+
+Show you care - two way process
+
+* TASK: What tools could be used to:
+    * facilitate this feedback exchange?
+    * record this feedback exchange?
+    * facilitate the feedback exchange in a timely manner?
+        * provide alerts?
+
+### Tools?
+
+* Sync: Discuss tooling and workflows (15min)
+    * I've got some ideas ... I'm interested to hear yours
+        * git?
+        * repl.it?
+        * physical workbook?
+
+
+All student response systems (30 min)
+----------------------------
+
+Don't get responses from one student - get from all students all the time
+
+* [Canterbury Christ Church: Classroom Response Systems](https://www.canterbury.ac.uk/learning-and-teaching-enhancement/learning-platform-suite/classroom-response-systems.aspx)
+    * Classroom Response Systems (CRS) can allow for polling of student opinions / ideas / resources in or out of the class, usually through the use of an app or web interface.
+    * hummm ... not really overly impressive
+* [The Classroom Experiment: Dylan Wiliam: All Student Response Systems](https://youtu.be/J25d9aC1GZA?t=1973) 32:53 to 35:10 (2.5min)
+    * The principles of whiteboard and traffic light cups are transferable to the digital domain
+
+### Mini Whiteboards
+
+* Physical Mini Whiteboards
+    * Advantages
+        * Private(ish)
+        * Freeform responses
+            * Code + diagrams
+    * Disadvantages
+        * Transient (not trackable)
+* Shared Text Chat
+    * Advantages
+        * Simple
+    * Disadvantages
+        * Public (could be setup to be one way?)
+        * Limited to text
+* [plickers.com](https://plickers.com/) (Kind of a QRcode with orientation printed on A4 paper)
+    * Advantages
+        * Private
+        * Trackable
+    * Disadvantages
+        * Requires technology to participate
+        * Limited to multiple choice responses
+* [whiteboard.fi](https://whiteboard.fi/)
+    * Advantages
+        * Realtime
+        * Private?
+        * Savable
+    * Disadvantages
+        * Requires technology
+
+### Traffic Light Cups
+
+In a physical classroom you can visibly see the progress of most students. This takes a lot of expertise and concentration. You need to actively move around the room. Your opinion is not always accurate.
+
+* How will you know how your students are progressing at a glance?
+    * You could ask for hands up if you're stuck. This is has a number of problems. Must be responded to timely. No granularity.
+
+* Coloured cups give ongoing feedback - 100% of the time - AMAZING tool!
+    * Used when working solo
+    * Used when you are demoing
+    * Used when in group work
+* What they mean is for you to define - clearly!
+    * Green: Ok
+    * Amber: Bit confused, few bumps, need guidance
+    * Red: Blocked
+* If any kid loses, damages or gratifies their cup - they loose their ability to feedback
+
+TASK: Read (10min)
+* [10 top tips for using traffic light cups to improve assessment](http://www.innovatemyschool.com/ideas/traffic-light-cups-to-enhance-assessment-for-learning-ten-top-tips) 2011 blog (by a cup company)
+
+#### Online?
+* In an online context Blackboard has support for this 'status' but it is temporal (will decay after 60 seconds).
+* How else could we do this online?
+
+#### Purchase Ideas
+* Some link ideas from a few mins of searching
+    * [Unique-Party-99196-Green-Paper](https://www.amazon.co.uk/Unique-Party-99196-Green-Paper/dp/B01NBSBBFD/)
+    * [Beiersi Party Paper Cups 9oz (250ml) Disposable Party Cups,Pack of 10 (Yellow) ](https://www.amazon.co.uk/Beiersi-Party-Paper-Disposable-Yellow/dp/B076JK46V5/)
+    * [PARTY TABLEWARE - Plates/Cups/Napkins/Tablecovers/Bags/Balloons - 8 Colours](https://www.ebay.co.uk/itm/PARTY-TABLEWARE-Plates-Cups-Napkins-Tablecovers-Bags-Balloons-8-Colours/142262660211?var=441321487781&epid=1605170486&hash=item211f83ec73:g:0jYAAOSw7NNT7GtT)
+
+### Async - long form
+
+* What about responses systems in an async world?
+* How would the tools be different?
+    * Wiki? Forums?
+
+
+
+A software idea to support assessment? (15min demo)
+--------------------------------------
+
+We are developers. We have the superpower of building solutions. Other teachers can't do this.
+We can rapidly prototype ideas. These are sometimes refereed to as _hack projects_.
+
+### Problem
+
+In 2005 I wanted to build a teacher feedback capture system.
+
+I observed that most teacher datasystems required me to sit at a desktop computer and enter data. I needed a mobile/portable data capture system.
+
+### Idea
+
+I wanted a handheld seating plan where I could tap a student and record information. The information was stored and available to the students. I had plans for making that data available as an _active desktop_ so that students logged in an immediately had their progress feedbacks and targets on the desktop.
+
+Laptops were possible but bulky. PDA's were possible, but difficult to program. There were no smartphones. PDA's had VERY limited web ability. I did not have the time to code a system with the limited developer tooling of the era.
+
+The interface would have been complex radio buttons and dialogues. I considered having an audio capture system. By just holding the stylus on a student name I could record audio/voice comments. At least I would have a record. When writing reports or parents evening I could go though all the audio snippets?
+
+
+### Prototype? 2021
+
+Mobile phones are now prevalent. Speech to text is a service available in HTML5 web browsers (currently only GoogleChrome, more are coming).
+
+I spent 3 hours this holiday making a proof of concept mobile feedback capture system. (1.5 hours was pratting around with web layout ... I'm always on the back foot with web layout, I need to raise my skill-set with it)
+
+* [feedbackLogger](https://calaldees.dreamhosters.com/teaching/teacherTools/feedbackLogger.html) 
+    * proof of concept on my webserver
+    * it's just a single html file that you can save locally
+    * it saves comments in memory that can downloaded as json
+    * the seating plan is currently hard coded
+    * I've tested it with desktop chrome (It may need a few tweaks to be used on mobile?)
+* [github.com/calaldees/teacherTools](https://github.com/calaldees/teacherTools)
+
+TASK: Give it a try
+Can we think of any other simple tools that could help us with data management for feedback?
+(This leads on to next session _Data and Management_)
+
+The important next step would be making this feedback visible to the student.
+
+
+Further Reading
+---------------
+
+* VleBooks [Formative Assessment for Teaching and Learning](https://www.vlebooks.com/Vleweb/Product/Index/549014) Bill Boyle, Marie Charles, 2013
+* [Mike Gershon - Resources for teachers](https://mikegershon.com/resources/) - free powerpoint on starters plenerys and afl tools
+    * [Assessment For Learning Toolkit (14543)](https://www.tes.com/teaching-resource/assessment-for-learning-toolkit-6020165)
+    * [Make Your Own AFL Box (9265)](https://mikegershon.com/download/328/)
+* [Influence of Formative Assessment Classroom Techniques (FACTs) on student’s outcomes in chemistry at secondary school](https://www.researchgate.net/publication/339149613_Influence_of_Formative_Assessment_Classroom_Techniques_FACTs_on_student%27s_outcomes_in_chemistry_at_secondary_school) Babincakova 2020
+    * Formative Assessment Classroom Techniques
+        * True or false statements
+            * 50% guess
+        * Vocabulary square (for a word)
+            * definition, fact, characteristic, examples
+        * checklist - reflect on progress
+            * done/not-done yes/no
+            * Can do on own / can do with some help / cant do
+        * K-W-L chart
+            * (K)now, (W)ant to know, (L)earnt during lesson
+        * Concept map
+            * Visual mind map - useful to see students concept changes
+        * Exit card
+            * 2 significant points this lesson and 1 question (to be covered next lesson)
+
+
+
+
+---
+
 * [10 Feedback Techniques That Make Students Think](https://www.dylanwiliamcenter.com/wp-content/uploads/sites/3/2015/02/10-Feedback-Techniques.pdf) Dylan Wiliam 2015 (15min)
     * Here are a list of general feedback and marking techniques
     * In the context of Computing and the Context of remote work - how would we acomplish this 'fast feedback cycle'?
         * We will discuss tooling and workflows
+
+
+* [EEF Project: Embedding Formative Assessment](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/embedding-formative-assessment/) Trial 2018
+    * Local teaching groups asked to have a range of collaborative sessions address these 5 key points
+        1. clarifying, sharing and understanding learning intentions
+        2. engineering effective classroom discussions and activities
+        3. providing feedback that moves learning forward
+        4. activating learners as instructional resources for one another
+        5. activating learners as owners of their own learning
+
+
 
 ---
 
@@ -258,13 +558,6 @@ Ruth Butler 1987
 * comment only (30% improvement)
 * mark and comment
 
-* [EEF Project: Embedding Formative Assessment](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/embedding-formative-assessment/) Trial 2018
-    * Local teaching groups asked to have a range of collaborative sessions address these 5 key points
-        1. clarifying, sharing and understanding learning intentions
-        2. engineering effective classroom discussions and activities
-        3. providing feedback that moves learning forward
-        4. activating learners as instructional resources for one another
-        5. activating learners as owners of their own learning
 
 * [Dylan William: What do we mean by Assessment for Learning?](https://www.youtube.com/watch?v=q-myBw36_DA) 9min 2018
     * Research suggests consistent effects
@@ -296,7 +589,7 @@ Ruth Butler 1987
         * often the view from the rear view mirror - what was wrong with the last assignment - but they are never going to do that assignment again
         * Feedback should take out of the last assignment, what they need for the next assignment
     * How often should we do formative assessment - not more than once per minuet
-* [Formative assessment:The bridge between teaching and learning in high school mathematics](https://www.dylanwiliam.org/Dylan_Wiliams_website/Presentations_files/2013-08-02%20NCTM%20HS%20Institute.pptx) NCTM High School Interactive Institute, August 2nd , 2013: Washington, DC Dylan Wiliam
+* [Formative assessment: The bridge between teaching and learning in high school mathematics](https://www.dylanwiliam.org/Dylan_Wiliams_website/Presentations_files/2013-08-02%20NCTM%20HS%20Institute.pptx) NCTM High School Interactive Institute, August 2nd , 2013: Washington, DC Dylan Wiliam
     * Formative assessment/ Assessment for learning = 8 months additional learning a year = £3,000 per class per year
 * [Dylan Wiliam Embedding Formative Assessment SSAT/EEF celebration event keynote](https://www.youtube.com/watch?v=zwGaG1b_T2w) 2017 38min
     * If you don't think you can get better you will reject feedback
@@ -372,8 +665,6 @@ Ruth Butler 1987
 
 Using evidence of achievement to adapt what happens in classrooms to meet learner needs
 
-* [Mike Gershon - Resources for teachers](https://mikegershon.com/resources/) - free powerpoint on starters plenerys and afl tools
-    * [AfL Tools](https://www.slideshare.net/caldiesschool/tl-assessment-for-learning-tools) old but web visible
 
 
 * [Formative assessment in the computer science classroom](https://www.raspberrypi.org/blog/research-seminar-formative-assessment-computer-science-classroom/) Sentence 2020
@@ -381,173 +672,16 @@ Using evidence of achievement to adapt what happens in classrooms to meet learne
 * [Formative Assessment](https://www.csforallteachers.org/blog/formative-assessment) Noah Mealy 2016
     * Just talks about Socrative
 
-Further Reading
----------------
-
-* VleBooks [Formative Assessment for Teaching and Learning](https://www.vlebooks.com/Vleweb/Product/Index/549014) Bill Boyle, Marie Charles, 2013
-
-
-[The Voices of Solution Tree](https://slideplayer.com/slide/3762685/) - 2011 Dylan Wiliam
-* Example Course
-    * Weeks 1 to 2
-        * Individual choice from a range of work provided by the teacher. Student self-assessment using materials provided
-    * Weeks 3 to 6
-        * Children construct own problems like those in weeks 1 and 2 and select structured math apparatus to aid solutions
-    * Weeks 7 to 10
-        * Children presented with a new learning objectives, and make up their own problems, without exemplars by the teacher
-    * Weeks 11 to 14
-        * Children set their own learning objectives, construct appropriate problems, and use appropriate self-assessment
-    * Weeks 15 to 20
-        * As weeks 1 to 14, but with less monitoring from the teacher and increased freedom of choice and personal responsibility
-
-Activating self assessment
-* rubrics
-* exemplars
-
-
-
-How do we train groups to interact?
 
 
 
 
 
-* Help students be learning resources
-Students assessing their peers’ work:
-“Pre-flight checklist”
-“Two stars and a wish”
-Training students to pose questions/identifying group weaknesses
-End-of-lesson students’ review
 
-
-David Daidu - Bring work to front until good enough - Mastery marking
-
-
-> We are all better at spotting mistakes in the work of others.
-
-
-Feedback Cycle and Tools (30min)
-------------------------
-
-* Here are a list of general feedback and marking techniques that prompt students to engage with the feedback
-* Async: Read (5min) + Consider the points below (10min)
-* In the context of Computing and the Context of remote work - how would we accomplish this 'fast feedback cycle'?
-    * How do we quickly comment on students code?
-* Sync: Discuss tooling and workflows (15min)
-
-* [10 Feedback Techniques That Make Students Think](https://www.dylanwiliamcenter.com/wp-content/uploads/sites/3/2015/02/10-Feedback-Techniques.pdf) Dylan Wiliam 2015
-    1. Marking for improvement
-        * When grading student work, record a grade in your grade-book, but only give students written comments on how to improve. Give students time to read the comments in class and one week to resubmit the work. The final grade is the average of the first and resubmitted grade.
-    2. Mastery marking
-        * Only accept student work when it is of a specific quality. You might only give one grade, an A. Students are expected to continue to redraft and resubmit their work as many times as necessary in order to achieve an A. The overall grade is then determined by the number of As.
-    3. +, –, = (Plus, Minus, Equals) 
-        * Mark student work in relation to previous work. If the latest work is of the same quality as the last, it receives an ‘=’, if it is better than the last, it receives a ‘+’, and if it is not as good as the last, it receives a ‘–‘. 
-    4. Responding to marking 
-        * Write your teacher feedback, signed and dated, at the start of the exercise book. Students then make an appropriate response below the teacher feedback, including where to find any redrafting. Do not mark the next piece of work until the student has responded to the last feedback provided. 
-    5. Focused marking
-        * Mark student work against one or two specific criteria, even though there may be many criteria that could be marked. This allows you to provide more focused and detailed feedback on these criteria than if everything was marked. The grade-book contains the skill marked rather than the title of the work set.
-    6. Find and fix your mistakes
-        * Instead of marking answers as correct or incorrect, tell the students the number of answers that were wrong. Give them time in class to find and correct their mistakes, either individually or in groups.
-    7. Margin marking
-        * Instead of marking each spelling or grammar mistake on essays, place a mark in the margin. Students then find their own mistakes and correct them. 
-    8. Traffic lights
-        * Give students a RED, AMBER or GREEN mark for a piece of work. All RED and AMBER work can be redrafted in an attempt to achieve a GREEN mark. The final grade is calculated from the number of GREEN and AMBER marks.
-    9. Aim for the next level
-        * Students identify areas of improvement by comparing their work to exemplars at the next level of achievement. Students realize that they need to set themselves higher standards. Able students find that they can improve a good piece of work.
-    10. Match comments to work 
-        * Write comments about students’ work on strips of paper without names. Sit students in groups of four. Each group of four students gets back their four pieces of work and their four comments. The group needs to decide which comment goes with which piece of work.
-
-
-All student response systems (30 min)
-----------------------------
-
-Don't get responses from one student - get from all students all the time
-
-* [Canterbury Christ Church: Classroom Response Systems](https://www.canterbury.ac.uk/learning-and-teaching-enhancement/learning-platform-suite/classroom-response-systems.aspx)
-    * Classroom Response Systems (CRS) can allow for polling of student opinions / ideas / resources in or out of the class, usually through the use of an app or web interface.
-    * hummm ... not really overly impressive
-* [The Classroom Experiment: Dylan Wiliam: All Student Response Systems](https://youtu.be/J25d9aC1GZA?t=1973) 32:53 to 35:10 (2.5min)
-    * The principles of whiteboard and traffic light cups are transferable to the digital domain
-
-### Mini Whiteboards
-
-* Physical Mini Whiteboards
-    * Advantages
-        * Private(ish)
-        * Freeform responses
-            * Code + diagrams
-    * Disadvantages
-        * Transient (not trackable)
-* Shared Text Chat
-    * Advantages
-        * Simple
-    * Disadvantages
-        * Public (could be setup to be one way?)
-        * Limited to text
-* [plickers.com](https://plickers.com/) (Kind of a QRcode with orientation printed on A4 paper)
-    * Advantages
-        * Private
-        * Trackable
-    * Disadvantages
-        * Requires technology to participate
-        * Limited to multiple choice responses
-* [whiteboard.fi](https://whiteboard.fi/)
-    * Advantages
-        * Realtime
-        * Private?
-        * Savable
-    * Disadvantages
-        * Requires technology
-
-### Traffic Light Cups
-
-In a physical classroom you can visibly see the progress of most students. This takes a lot of expertise and concentration. You need to actively move around the room. Your opinion is not always accurate.
-
-* How will you know how your students are progressing at a glance?
-    * You could ask for hands up if you're stuck. This is has a number of problems. Must be responded to timely. No granularity.
-
-* Coloured cups give ongoing feedback - 100% of the time - AMAZING tool!
-    * Used when working solo
-    * Used when you are demoing
-    * Used when in group work
-* What they mean is for you to define - clearly!
-    * Green: Ok
-    * Amber: Bit confused, few bumps, need guidance
-    * Red: Blocked
-* If any kid loses, damages or gratifies their cup - they loose their ability to feedback
-
-* [10 top tips for using traffic light cups to improve assessment](http://www.innovatemyschool.com/ideas/traffic-light-cups-to-enhance-assessment-for-learning-ten-top-tips) 2011 blog (by a cup company)
-
-#### Online?
-* In an online context Blackboard has support for this 'status' but it is temporal (will decay after 60 seconds).
-* How else could we do this online?
-
-#### Purchase Ideas
-* Some link ideas from a few mins of searching
-    * [Unique-Party-99196-Green-Paper](https://www.amazon.co.uk/Unique-Party-99196-Green-Paper/dp/B01NBSBBFD/)
-    * [Beiersi Party Paper Cups 9oz (250ml) Disposable Party Cups,Pack of 10 (Yellow) ](https://www.amazon.co.uk/Beiersi-Party-Paper-Disposable-Yellow/dp/B076JK46V5/)
-    * [PARTY TABLEWARE - Plates/Cups/Napkins/Tablecovers/Bags/Balloons - 8 Colours](https://www.ebay.co.uk/itm/PARTY-TABLEWARE-Plates-Cups-Napkins-Tablecovers-Bags-Balloons-8-Colours/142262660211?var=441321487781&epid=1605170486&hash=item211f83ec73:g:0jYAAOSw7NNT7GtT)
-
-
-### Async
-
-* What about responses systems in an async world?
-* How would the tools be differend?
-
-
-Feedback Loop
--------------
-
-Show you care - two way
 
 
 ---
 
-* [Assessment with Craig 'n' Dave - (GCSE)](https://www.youtube.com/watch?v=I19Rtd_puU0) 5min
-
-
-
-https://mikegershon.com/resources/
 
 ITT Core Framework
 6.4
@@ -653,8 +787,8 @@ Exam
 Tracking
 --------
 
-[OCR Assessment Resources](https://www.ocr.org.uk/qualifications/gcse/computer-science-j276-from-2016/assessment/)
-OCR Project tracking sheet
+* [OCR Assessment Resources](https://www.ocr.org.uk/qualifications/gcse/computer-science-j276-from-2016/assessment/)
+    * OCR Project tracking sheet
 
 * Transparency - Available to everyone? - Data protection
 * See who's falling behind
@@ -772,15 +906,6 @@ TODO
 ====
 
 
-* [Education Research: The evidence](https://gregashman.wordpress.com/2020/11/13/education-research-the-evidence/) Greg Ashman 2020
-    * You do not learn something better if you figure it out for yourself
-    * Learning styles are a myth
-    * If you give students choice over how they learn, the often choose the least effective method
-    * Testing is a highly effective way to boost learning
-    * The evidence for the effectiveness of whole-class, interactive explicit teaching comes from a wide range of studies
-    * Broad world knowledge is essential to reading comprehension
-    * You cannot just Google facts when you need them
-    * Achievement boosts motivation
 
 
 Rethinking assessment
@@ -866,9 +991,6 @@ pizza 2015 Reliably assess collaborative problem solving
     * An Interdisciplinary Experience
 
 
-
-
-
 * [Inside the Black Box: Raising Standards through Classroom Assessment](https://journals.sagepub.com/doi/full/10.1177/003172171009200119) 2010 Paul Black, Dylan Wiliam
     * [What is formative assessment, why hasn’t it worked in schools, and how can we make it better in the classroom?](https://impact.chartered.college/article/booth-what-formative-assessment-make-better-classroom/) 2017
         * > The big mistake that Paul and I made was calling this stuff “assessment”… because when you use the word assessment, people think about tests and exams’ (Stewart, 2012). He later commented that it should probably have been called something like ‘responsive teaching’ (Wiliam, 2013b).
@@ -913,21 +1035,6 @@ Terminology
 
 Gamification - code combat
 
-* [Influence of Formative Assessment Classroom Techniques (FACTs) on student’s outcomes in chemistry at secondary school](https://www.researchgate.net/publication/339149613_Influence_of_Formative_Assessment_Classroom_Techniques_FACTs_on_student%27s_outcomes_in_chemistry_at_secondary_school) Babincakova 2020
-    * Formative Assessment Classroom Techniques
-        * True or false statements
-            * 50% guess
-        * Vocabulary square (for a word)
-            * definition, fact, characteristic, examples
-        * checklist - reflect on progress
-            * done/not-done yes/no
-            * Can do on own / can do with some help / cant do
-        * K-W-L chart
-            * (K)now, (W)ant to know, (L)earnt during lesson
-        * Concept map
-            * Visual mind map - useful to see students concept changes
-        * Exit card
-            * 2 significant points this lesson and 1 question (to be covered next lesson)
 
 
 * [Journal of Computer Assisted Learning](https://onlinelibrary.wiley.com/journal/13652729)

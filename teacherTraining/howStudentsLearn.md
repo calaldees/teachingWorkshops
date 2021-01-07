@@ -462,3 +462,14 @@ Howland, J. L., Jonassen, D. H. and Marra, R. M., Meaningful Learning with Techn
     * Wherever possible, try to link activities with pupils’ own experiences, both within and beyond school: cross-curricular projects work very well, as do those linked to the life of the school itself, or to pupils’ experiences of technology.
 * Cooperative
     * Computing, in both industrial and academic contexts, is a collaborative endeavour. Where possible, construct activities so that pupils can work together, supporting one another in their learning
+
+
+* [Education Research: The evidence](https://gregashman.wordpress.com/2020/11/13/education-research-the-evidence/) Greg Ashman 2020
+    * You do not learn something better if you figure it out for yourself
+    * Learning styles are a myth
+    * If you give students choice over how they learn, the often choose the least effective method
+    * Testing is a highly effective way to boost learning
+    * The evidence for the effectiveness of whole-class, interactive explicit teaching comes from a wide range of studies
+    * Broad world knowledge is essential to reading comprehension
+    * You cannot just Google facts when you need them
+    * Achievement boosts motivation
