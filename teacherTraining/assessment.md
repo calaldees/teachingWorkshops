@@ -45,10 +45,13 @@ Async (3 hours)
     * What does TIME stand for?
     * In the Craig and Dave suggestion - what is the teachers role in the classroom?
     * How is how the answer to your question above linked with formative assessment?
-* [EEF Project: Embedding Formative Assessment](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/embedding-formative-assessment/) Trial 2018)
+* [EEF Project: Embedding Formative Assessment](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/embedding-formative-assessment/) EEFTrial 2018 (10min)
     * What are the 5 key formative assessment strategies suggested by this trial
         * We will be working on our own strategies for these points in the session
-
+* [10 Feedback Techniques That Make Students Think](https://www.dylanwiliamcenter.com/wp-content/uploads/sites/3/2015/02/10-Feedback-Techniques.pdf) Dylan Wiliam 2015 (15min)
+    * Here are a list of general feedback and marking techniques
+    * In the context of Computing and the Context of remote work - how would we acomplish this 'fast feedback cycle'?
+        * We will discuss tooling and workflows
 
 ---
 
@@ -374,28 +377,39 @@ Using evidence of achievement to adapt what happens in classrooms to meet learne
 
 
 * [Formative assessment in the computer science classroom](https://www.raspberrypi.org/blog/research-seminar-formative-assessment-computer-science-classroom/) Sentence 2020
-    * TODO
+    * Not much detail here
 * [Formative Assessment](https://www.csforallteachers.org/blog/formative-assessment) Noah Mealy 2016
+    * Just talks about Socrative
 
-* VleBooks [Formative Assessment for Teaching and Learning](https://www.vlebooks.com/Vleweb/Product/Index/549014) Bill Boyle Marie Charles 2013
+Further Reading
+---------------
+
+* VleBooks [Formative Assessment for Teaching and Learning](https://www.vlebooks.com/Vleweb/Product/Index/549014) Bill Boyle, Marie Charles, 2013
 
 
-Common errors in questioning
-* Asking:
-too many questions at once
-a question and answering it yourself
-questions only of the brightest or most likeable
-a difficult question too early
-irrelevant questions
-questions in a threatening way
-the same kind of questions all the time
-* Failing to:
-correct wrong answers
-indicate a change in the type of question
-give students the time to think
-pay attention to answers
-see the implications of answers
-to build on answers
+[The Voices of Solution Tree](https://slideplayer.com/slide/3762685/) - 2011 Dylan Wiliam
+* Example Course
+    * Weeks 1 to 2
+        * Individual choice from a range of work provided by the teacher. Student self-assessment using materials provided
+    * Weeks 3 to 6
+        * Children construct own problems like those in weeks 1 and 2 and select structured math apparatus to aid solutions
+    * Weeks 7 to 10
+        * Children presented with a new learning objectives, and make up their own problems, without exemplars by the teacher
+    * Weeks 11 to 14
+        * Children set their own learning objectives, construct appropriate problems, and use appropriate self-assessment
+    * Weeks 15 to 20
+        * As weeks 1 to 14, but with less monitoring from the teacher and increased freedom of choice and personal responsibility
+
+Activating self assessment
+* rubrics
+* exemplars
+
+
+
+How do we train groups to interact?
+
+
+
 
 
 * Help students be learning resources
@@ -406,8 +420,21 @@ Training students to pose questions/identifying group weaknesses
 End-of-lesson students’ review
 
 
+David Daidu - Bring work to front until good enough - Mastery marking
+
 
 > We are all better at spotting mistakes in the work of others.
+
+
+Feedback Cycle and Tools (30min)
+------------------------
+
+* Here are a list of general feedback and marking techniques that prompt students to engage with the feedback
+* Async: Read (5min) + Consider the points below (10min)
+* In the context of Computing and the Context of remote work - how would we accomplish this 'fast feedback cycle'?
+    * How do we quickly comment on students code?
+* Sync: Discuss tooling and workflows (15min)
+
 * [10 Feedback Techniques That Make Students Think](https://www.dylanwiliamcenter.com/wp-content/uploads/sites/3/2015/02/10-Feedback-Techniques.pdf) Dylan Wiliam 2015
     1. Marking for improvement
         * When grading student work, record a grade in your grade-book, but only give students written comments on how to improve. Give students time to read the comments in class and one week to resubmit the work. The final grade is the average of the first and resubmitted grade.
@@ -430,9 +457,94 @@ End-of-lesson students’ review
     10. Match comments to work 
         * Write comments about students’ work on strips of paper without names. Sit students in groups of four. Each group of four students gets back their four pieces of work and their four comments. The group needs to decide which comment goes with which piece of work.
 
+
+All student response systems (30 min)
+----------------------------
+
+Don't get responses from one student - get from all students all the time
+
+* [Canterbury Christ Church: Classroom Response Systems](https://www.canterbury.ac.uk/learning-and-teaching-enhancement/learning-platform-suite/classroom-response-systems.aspx)
+    * Classroom Response Systems (CRS) can allow for polling of student opinions / ideas / resources in or out of the class, usually through the use of an app or web interface.
+    * hummm ... not really overly impressive
+* [The Classroom Experiment: Dylan Wiliam: All Student Response Systems](https://youtu.be/J25d9aC1GZA?t=1973) 32:53 to 35:10 (2.5min)
+    * The principles of whiteboard and traffic light cups are transferable to the digital domain
+
+### Mini Whiteboards
+
+* Physical Mini Whiteboards
+    * Advantages
+        * Private(ish)
+        * Freeform responses
+            * Code + diagrams
+    * Disadvantages
+        * Transient (not trackable)
+* Shared Text Chat
+    * Advantages
+        * Simple
+    * Disadvantages
+        * Public (could be setup to be one way?)
+        * Limited to text
+* [plickers.com](https://plickers.com/) (Kind of a QRcode with orientation printed on A4 paper)
+    * Advantages
+        * Private
+        * Trackable
+    * Disadvantages
+        * Requires technology to participate
+        * Limited to multiple choice responses
+* [whiteboard.fi](https://whiteboard.fi/)
+    * Advantages
+        * Realtime
+        * Private?
+        * Savable
+    * Disadvantages
+        * Requires technology
+
+### Traffic Light Cups
+
+In a physical classroom you can visibly see the progress of most students. This takes a lot of expertise and concentration. You need to actively move around the room. Your opinion is not always accurate.
+
+* How will you know how your students are progressing at a glance?
+    * You could ask for hands up if you're stuck. This is has a number of problems. Must be responded to timely. No granularity.
+
+* Coloured cups give ongoing feedback - 100% of the time - AMAZING tool!
+    * Used when working solo
+    * Used when you are demoing
+    * Used when in group work
+* What they mean is for you to define - clearly!
+    * Green: Ok
+    * Amber: Bit confused, few bumps, need guidance
+    * Red: Blocked
+* If any kid loses, damages or gratifies their cup - they loose their ability to feedback
+
 * [10 top tips for using traffic light cups to improve assessment](http://www.innovatemyschool.com/ideas/traffic-light-cups-to-enhance-assessment-for-learning-ten-top-tips) 2011 blog (by a cup company)
 
+#### Online?
+* In an online context Blackboard has support for this 'status' but it is temporal (will decay after 60 seconds).
+* How else could we do this online?
+
+#### Purchase Ideas
+* Some link ideas from a few mins of searching
+    * [Unique-Party-99196-Green-Paper](https://www.amazon.co.uk/Unique-Party-99196-Green-Paper/dp/B01NBSBBFD/)
+    * [Beiersi Party Paper Cups 9oz (250ml) Disposable Party Cups,Pack of 10 (Yellow) ](https://www.amazon.co.uk/Beiersi-Party-Paper-Disposable-Yellow/dp/B076JK46V5/)
+    * [PARTY TABLEWARE - Plates/Cups/Napkins/Tablecovers/Bags/Balloons - 8 Colours](https://www.ebay.co.uk/itm/PARTY-TABLEWARE-Plates-Cups-Napkins-Tablecovers-Bags-Balloons-8-Colours/142262660211?var=441321487781&epid=1605170486&hash=item211f83ec73:g:0jYAAOSw7NNT7GtT)
+
+
+### Async
+
+* What about responses systems in an async world?
+* How would the tools be differend?
+
+
+Feedback Loop
+-------------
+
+Show you care - two way
+
+
+---
+
 * [Assessment with Craig 'n' Dave - (GCSE)](https://www.youtube.com/watch?v=I19Rtd_puU0) 5min
+
 
 
 https://mikegershon.com/resources/

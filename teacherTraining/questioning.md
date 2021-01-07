@@ -101,3 +101,25 @@ Some of my references for diagnostic/hinge questions
         * [Do they understand this well enough to move on? Introducing hinge questions](https://improvingteaching.co.uk/2013/08/17/do-they-understand-this-well-enough-to-move-on-introducing-hinge-questions/)
             * [Oiling the hinges – refining my construction of hinge questions](https://improvingteaching.co.uk/2013/11/03/oiling-the-hinges-refining-my-construction-of-hinge-question/)
                 * > Whatever a student chooses, I will know what they were thinking, that they can only have been thinking that, and that there’s nothing else they might have thought of that I’ve missed.
+
+TODO
+====
+
+Dialogic teaching
+
+Common errors in questioning
+* Asking:
+too many questions at once
+a question and answering it yourself
+questions only of the brightest or most likeable
+a difficult question too early
+irrelevant questions
+questions in a threatening way
+the same kind of questions all the time
+* Failing to:
+correct wrong answers
+indicate a change in the type of question
+give students the time to think
+pay attention to answers
+see the implications of answers
+to build on answers
