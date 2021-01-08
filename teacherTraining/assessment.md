@@ -56,7 +56,7 @@ TASK 1: (5min) In the GoogleDoc create headings for the questions you answerd ab
 TASK 2: (25min) Discuss each question - (This will set the stage for some exploration this session)
 
 
-EEF Trial (1 hour)
+EEF Trial (45min)
 ---------
 
 * Async - Read (10min)
@@ -66,9 +66,9 @@ EEF Trial (1 hour)
 
 TASK:
 * Create a heading in the GoogleDoc for each of the 5 areas
-* Decide as a group - As individuals take a heading each - think about that heading and add some notes to the GoogleDoc (15min)
-* Form pairs - critique and refine your two headings (15min) (I will help odd groupings)
-* Summary to group (15min)
+* In pairs take two headings (tutor to assign gruops)
+* Think about that heading and add some notes to the GoogleDoc (20min)
+* Summary as group (15min)
 
 
 ### Loose notes of mine
