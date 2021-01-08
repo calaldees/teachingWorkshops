@@ -118,7 +118,10 @@ Browser Based - Development environments
         * [GitPod](https://www.gitpod.io/)
             * Browser based fully remote dev environment
             * OVERKILL for schools - but interesting for professional developers
-    * [The 13 Best Browser IDEs Every Programmer Should Know About](https://www.makeuseof.com/tag/programmer-browser-ides/)
+        * [The 13 Best Browser IDEs Every Programmer Should Know About](https://www.makeuseof.com/tag/programmer-browser-ides/)
+    * Desktop
+        * vscode
+        * [Thonny](https://thonny.org/) Python IDE for beginners
 [collaboration](./collaboration.md) - more here .. duplicates? merge?
 
 

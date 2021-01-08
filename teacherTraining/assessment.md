@@ -34,7 +34,7 @@ Get a feel for the core concepts of formative assessment
 ### Async (1hour)
 
 * From the video answer the following questions (15min)
-    * [Dylan William: What do we mean by Assessment for Learning?](https://www.youtube.com/watch?v=q-myBw36_DA) 9min 2018
+    * [Dylan Wiliam: What do we mean by Assessment for Learning?](https://www.youtube.com/watch?v=q-myBw36_DA) 9min 2018
         * can you elaborate on _students as owners of their own learning_?
         * can you elaborate on _students are learning resources for one another_
         * What does Dylan mean when he says _view from the rear view mirror_?
@@ -61,7 +61,7 @@ EEF Trial (1 hour)
 
 * Async - Read (10min)
     * [EEF Project: Embedding Formative Assessment](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/embedding-formative-assessment/) EEFTrial 2018
-    * What are the 5 key formative assessment strategies suggested by this trial
+    * What are the 5 key formative assessment strategies suggested by this trial (read the _Full Project Description_; it's hidden!!)
         * We will be working on our own strategies for these points in the session
 
 TASK:

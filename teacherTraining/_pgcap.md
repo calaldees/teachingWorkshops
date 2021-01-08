@@ -480,7 +480,8 @@ Chapter 13 by Vanessa Dye 'Reflection, reflection, reflection, I'm thinking all 
 * separate personal self from your professional self
 * writing free from the police officer of your mind - need to be aware of the need for professional language. Your diary entries should be written for someone who can give you constructive and developmental support in building your skills
     * "Reflective practice seems to perpetuate the current policy climate in education, which is dominated by systems of surveillance. Though the process I have opened up my professions and to some extent personal identity to the scrutiny of not only peers but also tutors. In my experience this reduces the liberating element of reflection and replaces it with performance anxiety."
-* (Tripp 1993) Critical Incidents in Teaching: Developing Professional Judgement
+* Critical Incidents in Teaching: Developing Professional Judgement (Tripp 1993)
+    * [vlebooks](https://www.vlebooks.com/Vleweb/Product/Index/1994921)
     * Something that made you stop and think
     * Relevant
         * Not necessarily serious or dangerous
