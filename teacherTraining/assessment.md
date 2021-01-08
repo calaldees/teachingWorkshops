@@ -12,12 +12,16 @@ Objectives
 ITT Core Framework
 6.1
 > Effective assessment is critical to teaching because it provides teachers with information about pupils’ understanding and needs
+
 6.2
 > Good assessment helps teachers avoid being over-influenced by potentially misleading factors, such as how busy pupils appear
+
 6.4
 > pupils must be able to act on feedback for it to have an effect
+
 6.5
 > High-quality feedback can be written or verbal; it is likely to be accurate and clear, encourage further effort, and provide specific guidance on how to improve
+
 6.6
 > Over time, feedback should support pupils to monitor and regulate their own learning.
 
@@ -46,7 +50,7 @@ Get a feel for the core concepts of formative assessment
         * Can you give examples of feedback (phrases/sentences) that would prompt a student to improve? (we will look as group to see if we can wordsmith these)
         * How would you set regular homework + give meaningly feedback (timely) + observe that the feedback was actioned/had-impact
 
-# Sync (30min)
+### Sync (30min)
 
 TASK 1: (5min) In the GoogleDoc create headings for the questions you answerd above - copy and paste ideas from your notes above - put your initials next to your contributions
 TASK 2: (25min) Discuss each question - (This will set the stage for some exploration this session)
