@@ -1,17 +1,29 @@
+Introduction to Facilitating Learning in Higher Education (IFL): A Critical Reflection on my Teaching
+===
+
+Allan Callaghan
+
+allan.callaghan@canterbury.ac.uk
+
+Word Count: 2691
+
+
 Introduction
 ------------
 
-This is a first-person critical reflection to demonstrate my progress towards the UK Professional Standards Framework (2011). I have recently started in the role of Lecturer in Education of Computing at Canterbury Christ Church University. My role is to support trainee teachers in their first year of teaching. I am responsible for designing/delivering subject pedagogy sessions and providing ongoing support to mentors that support trainees in their school placements.
+This is a first-person critical reflection to demonstrate my progress towards the UK Professional Standards Framework (UKPSF 2011). I have recently started in the role of _Lecturer in Education of Computing_ at Canterbury Christ Church University. My role is to support trainee teachers in their first year of secondary school teaching. I am responsible for designing/delivering subject pedagogy sessions and providing ongoing support to mentors that support trainees in school placements.
 
-The concept of teaching teachers is a very meta concept. The skills involved in teaching are often considered higher order skills (Bloom 19xx). The skills of a teacher can be normally assessed through evidence of their classroom teaching. This term (September 2020 to December 2020) has been challenging because of the global pandemic. All teaching has been mandated to be remote. My trainees first entered their school placements on 16th November. This has restricted the normal learning opportunities. The remote situation has also lead to high tensions, anxiety and emotional distance.
+The concept of _teaching teachers_ is a very meta concept. The skills involved in teaching are often considered higher order skills (Bloom 1964). The skills of a teacher can be normally assessed through evidence of their classroom teaching. This term (September 2020 to December 2020) has been challenging because of the global pandemic. All teaching has been mandated to be remote. My trainees first entered their school placements on 16th November. This has restricted the normal practical learning opportunities. The remote situation has also lead to high tensions, anxiety and emotional distance.
 
-My reflections will focus on inclusion and interactions with remote learners in the context of teacher training. Teacher training courses have a wide variety of trainee diversity. Trainees could be fresh graduate with no industry experience though to late career changers. It is well documented that career changers have differing learning needs (Smardar et-al 2020, Troesch and Bauer 2017, Bullough 1990).
+My reflections will focus on inclusion and interactions with remote learners in the context of teacher training. Teacher training courses have a wide variety of trainee diversity. Trainees could be fresh graduate with no industry experience though to late career changers. It is well documented that career changers have differing learning needs (Smardar et-al 2020, Troesch and Bauer 2017, Bullough 1990, Furlong & Maynard 2012).
 
 The focus of my reflections will be on the following professional areas of activity:
 * (UKPSF-A2) Teach and/or support learning
 * (UKPSF-A4) Develop effective learning environments and approaches to student support and guidance
 
-The key measures I will be looking to analyse in my teaching are 'student emotional engagement'. Do my learners feel safe an secure in their ability to progress as learners.
+The key measures I will be looking to analyse in my teaching are 'student emotional engagement'. Do my learners feel safe and secure in their ability to progress as learners.
+
+I collected information from lesson observations, anonymous feedback forms, external organisations, professional standards documentation and scholarship. A subset of this material is reflected upon in this write-up.
 
 
 Micro-teach - Diagnostic questions
@@ -19,30 +31,34 @@ Micro-teach - Diagnostic questions
 
 micro-teaching is a 15 minuets teaching activity delivered to peers. We demonstrate our knowledge of teaching practice into a compressed timespan. I delivered an introduction to the concept of "Diagnostic Questions", a teaching technique currently under review by the Education Endowment Foundation. An "incorrect answer" to a question should unveil the students misconception.
 
-It was pointed out that I did not solicit any input from my session for the first 8min. In face-to-face classrooms there would have been informal interactions before the session. This made me realise that online teaching requires constant attention to soliciting response and engagement. There is a chicken and egg conundrum, students can't make the desired progress without the input. This leads to instructors delivering a barrage of material before setting a task. The other alternatives are asking students to actively explore a topic themselves (possibly in an unstructured way). An alternate approach could be requesting constant responses when conveying new material, which could slow the delivery to a point of frustration for some learners. Being an on-line learner and being "talked at" is not an engaging experience. The micro-teach has challenged my thinking about the frequency I interact with my learners online. I must improve my regular explicit checking of understanding. Face-to-face I can read facial expressions and body language and feel more open to asking questions to my students. When teaching online I need to explicitly check the understanding of my students more.
+It was pointed out that I did not solicit any input from my session for the first 8min. Teaching requires constant attention to soliciting response and engagement, especially online. Being an on-line learner and being "talked at" is not an engaging experience. 
 
-Dylan Wiliam, a professor of education specialising in formative assessment, has an interesting technique for soliciting ongoing feedback from the class with 'traffic light' coloured cups. Green for "I'm ok", "amber for this is tricky" and red for "I'm lost, stop, help" (Wiliam 2011). The online platform Blackboard Collaborate supports a similar concept but the UI to control the feedback states are fairly hidden. Once applied the state is transient and vanishes after 30 seconds. There is no log of the state change. Maybe it is worth investing time in directing my students to become familiar with those interface options? or investigate an alternate way of soliciting ongoing feedback from online sessions.
+The micro-teach has challenged my thinking about the frequency I interact with my learners online. I must improve my regular explicit checking of understanding. Face-to-face I can read facial expressions and body language and feel more open to asking questions. When teaching online I need to explicitly check the understanding of my students more.
 
-I was surprised when some learners did not understand the concept of Diagnostic Questions. This was relayed to me in the chat and some of the example diagnostic questions created missed the concept. I was expecting masters level learners to grasp the concept quite quickly. Was there a baseline level of understanding that I missed? Was my explanation not clear enough? Was this an artefact of my teaching? or the restrictions of the compressed format of microteaching?
+Dylan Wiliam, a professor of education specialising in formative assessment, has an interesting technique for soliciting ongoing feedback from the class with 'traffic light' coloured cups on desks. Green for "I'm ok", "amber for this is tricky" and red for "I'm lost, stop, help" (Wiliam 2011). 
 
-The feedback I received from the students indicated the difficulty of understanding the concept in the compressed time frame.
+The online platform Blackboard Collaborate supports a similar concept. The UI to control the feedback states are fairly hidden. Once applied the state is transient and vanishes after 30 seconds. There is no log of the state change. Maybe it is worth investing time in directing my students to become familiar with those interface options? or investigate an alternate way of soliciting ongoing feedback from online sessions.
+
+I was surprised when some learners did not understand the concept of _Diagnostic Questions_. This was relayed to me in the chat and some of the task responses missed the concept. I was expecting masters level learners to grasp the concept quickly. Was there a baseline level of understanding that I missed? Was my explanation not clear enough? Was this an artefact of my teaching? or the restrictions of the compressed format of microteaching?
+
+The feedback I received from the students indicated the difficulty of understanding the concept in the compressed time frame:
 
 > I struggled to grasp the concept within the time frame you set for the task.
 
 > spend a bit more time at the beginning to ‘set the stage’. I was not sure what you meant by the term ‘diagnostic questions’ 
 
-Other than alerting me to what the issue was, these comments did not help me immediately make the jump to understand why this had happened or what the solution could be other than 'spend more time' on the the topic.
+These comments alerting me to what the issue but did not help me immediately make the jump to understand _why_ this had happened or what the solution could be. One solution was 'spend more time' on the the topic.
 
-After asking these question, my module lead responded with the following feedback:
+My module lead responded with the following feedback:
 > from my perspective the task was ambitious in terms of Bloom's taxonomy, asking us to go straight to the highest level thinking skill with 'create' solo with a concept we'd only just been introduced to
 
 Upon reflection I was not considering the Cognitive Load of the task I had set (Sweller, 1998) (ukpsf-k3). I was requiring students to understand the concept of diagnostic questions and additionally deeply delve into their own subject domains. I could have scaffolded the learning by asking the learners to create a diagnostic question for a known simpler domain, maybe I could have provided a constrained Maths concept and asked pairs to create the diagnostic question.
 
-Linking in with the theme of people entering teacher training as a second career and teaching competent adults (however qualified); they still feel vulnerable when placed in the role of the learner.
+Teaching competent adults (however qualified) still feel vulnerable when placed in the role of the learner.
 
 > Presenting my mistake in ‘not grasping the concept’ in the chat bar was difficult for me to feedback.
 
-This reinforces Dylan Wiliams observation of the importance of 'low stakes' assessment (Wiliam 2011).
+This reinforces Dylan Wiliam's observation of the importance of 'low stakes' assessment (Wiliam 2011).
 
 
 Critical Incident
@@ -50,43 +66,45 @@ Critical Incident
 
 I encountered a significant critical incident in my teaching practice. I have leveraging Tripp's "critical incidents in teaching cycle" to reflect on the incident (Tripp 1993).
 
-Very early on in my teacher training group, one individual was having difficulty integrating with the course. He was an older career changer. His elitist aggressive tone aggravated and alienated his peers and created ongoing friction with me. He parted ways from the rest of his peers by leaving their informal WhatsApp support group. This behaviour was also identified by other more experienced colleges teaching other modules. His interactions culminated in an incident where others in the group were having difficulty in remote breakout sessions and facilitating group dialogue. He made the claim that he felt "unsafe" in my sessions and aggressively demanded that action should be taken immediately via email. This was difficult to marshal while delivering a live session. I called upon senior colleges to assist and support. One of the comments this student raised about me was that "Allan portrayed himself as a sage that had complete control of our course and this caused the group to be cautious about contributing"
+Very early on in my teacher training group, one individual was having difficulty integrating with the course. He was an older career changer. His elitist aggressive tone aggravated and alienated his peers and created ongoing friction with me. He parted ways from the rest of his peers by leaving their informal WhatsApp support group. This behaviour was also identified by other more experienced colleges teaching other modules. His interactions culminated in an incident where others in the group were having difficulty in remote breakout sessions and facilitating group dialogue. He made the claim that he felt "unsafe" in my sessions and aggressively demanded that action should be taken immediately via email. This was difficult to marshal while delivering a live session. I called upon senior colleges to assist and support. 
+
+One of the comments this student raised about me was that "Allan portrayed himself as a sage that had complete control of our course and this caused the group to be cautious about contributing"
 
 > The learning community should provide a safe space for challenge and transformation
 (CCCU - Learning and Teaching Strategy - 2015)
 
-I attempted to dissect the events that lead up to this. Consulting further scholarship and using Brockfilds lenses (Brockfield 19xx) to consider the view from the learners perspective. I have come to the following conclusions.
+I attempted to dissect the events that lead up to this. Consulting further scholarship and using Brockfield's lenses (Brockfield 1995) to consider the view from the learners perspective.
 
 In the opening session of the course I described my role. I was the _glue_ for the course. I liaise with mentors in their placement school, I mark the formal subject pedagogy assignments, I write student references at the end of the year, I perform the intermediary professional reviews throughout the year, I monitor engagement and contributions in subject sessions and relay progress to other professionals as needed. I also used the term _formative assessment_. 
 
-Through the lens of the experienced career changer this could be perceived as a threat. I was younger than the student, I apparently had complete control. I used the scary term 'assessment' and the student was probably unaware of the terminology of 'formative assessment'. The student rightly or wrongly became defensive and aggressive in their further communication.
+Through the lens of the career changer this could be perceived as a threat. I was younger than the student, I apparently had complete control. I used the scary term 'assessment' and the student was probably unaware of the terminology of 'formative assessment'. The student rightly or wrongly became defensive and aggressive in their further communication.
 
 Wiliam, who coined the term 'formative assessment', identifies that the term is often misconstrued:
 > The big mistake that Paul and I made was calling this stuff "assessment"… because when you use the word assessment, people think about tests and exams’ (Stewart, 2012). He later commented that it should probably have been called something like ‘responsive teaching’ (Wiliam, 2013b).
 
 As highlighted by the comment a student made in my micro-teach session. Students need a 'low stakes' environment in order to feel safe in their learning. (Wiliam 2011)
 
-The challenges career changes face when training to teach has been well documented (Smardar et-al 2020, Troesch and Bauer 2017, Bullough 1990). The DfE has setup support organisations like nowteach.org.uk, 'Now Teach' provides a route for people with significant life experience to successfully become teachers and stay in the sector for the long-term. I consulted with Now Teach staff while reintegrating this student into my sessions.
+The challenges career changes face when training to teach has been well documented (Smardar et-al 2020, Troesch and Bauer 2017, Bullough 1990, Furlong & Maynard 2012). The DfE has setup support organisations like nowteach.org.uk, 'Now Teach' provides a route for people with significant life experience to successfully become teachers and stay in the sector for the long-term. I consulted with 'Now Teach' staff while reintegrating this student into my sessions.
 
 The way this student was communicating was not in-line with part 2 of the DfE teaching standards "personal and professional conduct". And this was addressed in the reintegration meetings.
 
-As higher education professionals we must respect individual learners and the diverse backgrounds they may come from. Career changes have specific needs. It is important that there is opportunity for learners of all types and that their individual needs are addressed. Higher education (especially teacher training) operates in a wider societal context. We need to instil the professional values of clean, clear, unbiased communication as highlighted by DfE Teacher Standards, Christ Church Learning and Teaching Strategy and UK Professional Standards Framework (v1-v3-v4).
+As higher education professionals we must respect individual learners and the diverse backgrounds they may come from. Career changes have specific needs. It is important that there is opportunity for learners of all types and that their individual needs are addressed. Higher education (especially teacher training) operates in a wider societal context. We need to instil the professional values of clean, clear, unbiased communication as highlighted by DfE Teacher Standards, CCCU Learning and Teaching Strategy (ukpsf-v1-v3-v4).
 
-Next year I will attempt to clearly convey the support and underlying principles of our higher education institution. I will try to pre-empt and alleviate the panic and fear that comes with such a demanding and daunting course. If I can clearly convey our underlying motivations and instil trust from all students at an early stage, that will lead to better teaching and learning.
+Next year I will attempt to clearly convey the support and underlying principles of our higher education institution. I will try to pre-empt and alleviate the panic and fear that comes with such a demanding and daunting course. If I can clearly convey our underlying motivations and instil trust from all students at an early stage, that will lead to better teaching and learning environment (ukpsf-a4).
 
 
 Authentic Practice - Diagram tooling
 ------------------------------------
 
-Building upon my microteaching experience, I designed a 25min teaching activity to introduce my teacher training group to tooling that could help them create formal computer science diagram notation. A video recording of this session was submitted as part of the Introduction to Facilitating Learning module. (ukpsf-a1-a2)
+Building upon my microteaching experience, I designed a 25min teaching activity to introduce my teacher training group to tooling that could help them create formal computer science diagram notation. A video recording of this session was submitted as part of this module. (ukpsf-a1-a2)
 
-At the beginning I listed 6 types of formal Computer Science diagram notations with links to various examples. I took a poll of how many of these diagram types have they heard of. I was not asking for mastery, just an awareness. The results I got back were disheartening. Only one student had heard of them all, some said 'none' and most identified one diagram type. Many of these diagrams are used on the GCSE textbook and all of them are required for A-Level (DfE Teacher Standards; standard 3 - Demonstrate good subject and curriculum knowledge). This is a recurring pattern. I am supposed to be conveying Computing subject pedagogy but find that the groups foundations of Computing subject knowledge is a barrier to learning. (ukpsf-a3)
+My session started by listing 6 types of formal Computer Science diagram notations with links to various examples. I took a poll of how many of these diagram types have they heard of. I was not asking for mastery, just an awareness. The results I got back were disheartening. Only one student had heard of them all, some said 'none' and most identified one diagram type. Many of these diagrams are used on the GCSE textbook and all of them are required for A-Level (DfE Teacher Standards; standard 3 - Demonstrate good subject and curriculum knowledge). This is a recurring pattern. I am supposed to be conveying Computing subject pedagogy but find that the groups foundations of Computing subject knowledge is a barrier to learning. (ukpsf-a3)
 
-This experience has prompted me to allocate time and actively convey the knowledge requirements of the discipline. I have a subject knowledge audit tracker that the students use to track their knowledge throughout the year. This tracker currently does not have a section for formal diagram notation. I will audit the GCSE and A-Level course specifications and identify common themes that may need to be added to this audit tracker. At the beginning of the course I recommend students undertake a GCSE paper and work through the mark scheme. I should make this activity mandatory. This should highlight to the trainee the gaps in their subject knowledge. This formative assessment needs to be conducted in a safe 'low stakes' way. Students must not feel embarrassed by their scores or pressured. This could lead to panic and aggression (see critical incident reflection below).
+This experience has prompted me to allocate time and actively convey the knowledge requirements of the discipline. I have a subject knowledge audit tracker that the students use to track their knowledge throughout the year. This tracker currently does not have a section for formal diagram notation. I will audit the GCSE and A-Level course specifications and identify common themes that may need to be added to this audit tracker. At the beginning of the course I recommend students undertake a GCSE paper and work through the mark scheme. I should make this activity mandatory. This should highlight to the trainee the gaps in their subject knowledge. This formative assessment needs to be conducted in a safe 'low stakes' way. Students must not feel embarrassed by their scores or pressured. This could lead to panic and aggression (see critical incident reflection).
 
-At the end of the session I asked if the students felt this 'Diagram Tooling' was a worthwhile skillset. The responses were less than enthusiastic with multiple members preferring their existing skill-set of using simpler generic tools. I am an experienced practitioner that has created countless exam style questions and handouts. I find this tooling an invaluable productivity boost (ukpsf-k1). I'm passionate about these tools and hope that this passion is contagious. The CCCU; Learning and Teaching Strategy states "We encourage the development of a sense of wonder, the quest for knowledge". I want them to feel this enthusiasm for new knowledge.
+At the end of the session I asked if the students felt this 'Diagram Tooling' was a worthwhile skill-set. The responses were less than enthusiastic with multiple members preferring their existing skill-set of using simpler generic tools. I am an experienced practitioner that has created countless exam style questions and handouts. I find this tooling an invaluable productivity boost (ukpsf-k1). I'm passionate about these tools and hope that this passion is contagious. The CCCU; Learning and Teaching Strategy states "We encourage the development of a sense of wonder, the quest for knowledge". I want them to feel this enthusiasm for new knowledge.
 
-Through the lens of the learners (Brockfield 19xx), they don't currently see the benefits of this technique, to them it feels like an unneeded additional layer of complexity. Again this highlights to me the importance of Cognitive Load Theory (Sweller 1998). The overhead of learning the diagram notation and the added complexity of the diagram tool was too much. The session was still a success; the objective was to understand that the _tooling exists_ and it served as an excellent introduction to these diagram types. As the learners become more proficient teachers, I'm sure that they will identify the long winded pattern of manually creating diagrams and be aware of the possible tools available to them.
+Through the lens of the learners (Brockfield 1995), they don't currently see the benefits of this technique, to them it feels like an unneeded additional layer of complexity. Again this highlights to me the importance of Cognitive Load Theory (Sweller 1998). The overhead of learning the diagram notation and the added complexity of the diagram tool was too much. The session was still a success; the objective was to understand that _tooling exists_ and it served as an excellent introduction to these diagram types. As the learners become more proficient teachers, I'm sure that they will identify the long winded pattern of manually creating diagrams and be aware of the possible tools available to them.
 
 
 Observation by a senior colleague
@@ -119,27 +137,27 @@ Conclusion
 This formal reflection assignment has positively supported my growth as a higher education professional. The UK Professional Standards have helped focus my reflections and enabled me to access a wider range of material to improve my practice. 
 
 I set out to investigate student emotional engagement with my sessions. Two themes emerged: 
-1. Even advanced adult learners need careful consideration of cognitive load in order for them to feel confident and comfortable with their progress 
-2. Students from diverse backgrounds need different types of support to help them feel emotionally settled.
+1. Even advanced adult learners need careful consideration of cognitive load in order for them to feel confident and comfortable with their progress
+2. Students from diverse backgrounds need different types of support to help them feel emotionally settled
 
-There are clear actions that I can't start preparing for next years trainees. 
-1. The first session and the impression that makes has important ramifications 
-2. Consider closer attention to assessing students prior subject knowledge and take that clearly into account when taking students through the learning journey
+There are clear actions that I can start preparing for next years trainees:
+1. The first session and first impressions have important ramifications
+2. Consider closer attention to assessing students prior subject knowledge and take that into account when taking students through their learning journey
 
 Trainee teachers need a good stable emotional start to their careers to help them in turn have sector wide impact for the roles they will perform in wider society.
 
-I will continue reflecting and seeking CPD to develop my online pedagogy. I am particularly interested in all-class-response systems to engage all learners online.
+I will continue reflecting and seeking CPD to develop my online pedagogy. I am particularly interested in investigating all-class-response systems to engage all learners online.
 
 
 References
 ==========
 
+* Brookfield, S. (1995). Becoming a Critically Reflective Teacher. San-Francisco: Jossey-Bass.
 * Tripp, D. (1993). Critical Incidents in Teaching: Developing Professional Judgement. London: Routledge.
 * [Cognitive Load Theory and its application in the classroom](https://impact.chartered.college/article/shibli-cognitive-load-theory-classroom/) Dominic Shibli and Rachel West 2018
     * Sweller J (1998) Cognitive load during problem solving: Effects on learning. Cognitive Science (12): 257–285.
 * [Embedded Formative Assessment](https://www.amazon.co.uk/Embedded-Formative-Assessment-Dylan-Wiliam/dp/193400930X) 2011 Dylan Wiliam
 * [Evaluating the effectiveness of Eedi (previously Diagnostic Questions) formative assessment programme](https://educationendowmentfoundation.org.uk/public/files/Projects/Evaluation_Protocols/EEDI_Protocol_2018.05.02_FINAL.pdf)
-* [Equality Act 2010](https://www.legislation.gov.uk/ukpga/2010/15/contents)
 * [Teacher Standards](https://www.gov.uk/government/publications/teachers-standards)
 * [QAA](https://www.qaa.ac.uk/) THE UK'S QUALITY BODY FOR HIGHER EDUCATION
     * [Subject Benchmark Statement: Education Studies](https://www.qaa.ac.uk/docs/qaa/subject-benchmark-statements/subject-benchmark-statement-education-studies.pdf?sfvrsn=3ae2cb81_5)
@@ -147,16 +165,13 @@ References
 * [Canterbury Christ Church - Blended Learning](https://www.canterbury.ac.uk/current-students/learning-skills/blended-learning)
 * [Canterbury Christ Church University (CCCU) - Learning and Teaching Strategy](https://www.canterbury.ac.uk/learning-and-teaching-enhancement/strategies/learning-and-teaching-strategy.aspx)
 * [Canterbury Christ Church University (CCCU) - Graduate Attributes](https://www.canterbury.ac.uk/learning-and-teaching-enhancement/strategies/graduate-attributes.aspx)
-
 * [getintoteaching.education.gov.uk - Career changers’ stories](https://getintoteaching.education.gov.uk/life-as-a-teacher/real-life-experiences/career-changer-stories)
 * [Second career teachers: Job satisfaction, job stress, and the role of self-efficacy](https://www.sciencedirect.com/science/article/abs/pii/S0742051X17311174?via%3Dihub) 2017 Troesch and Bauer
 * [Selecting Career Changers with Real Potential for Teaching and Designing a Program to Meet Their Needs](https://eric.ed.gov/?id=ED607037) 2020
 * [First steps in a second career: characteristics of the transition to the teaching profession among novice teachers](https://www.tandfonline.com/doi/ref/10.1080/02619768.2019.1708895) Smadar et al 2020
     * [Becoming a teacher: struggles of a second‐career beginning teacher](https://www.tandfonline.com/doi/abs/10.1080/0951839900030201) 1990
 * [Mentoring Student Teachers: The Growth of Professional Knowledge](https://www.amazon.co.uk/Mentoring-Student-Teachers-Professional-Knowledge-ebook/dp/B00AC2GPRS/)  John Furlong, Trisha Maynard 2012
-
 * [Is Teaching Less Challenging for Career Switchers? First and Second Career Teachers’ Appraisal of Professional Challenges and Their Intention to Leave Teaching](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.03067/full) 2020
-
 * DfE [Initial teacher training bursaries funding manual: 2021 to 2022 academic year](https://www.gov.uk/government/publications/initial-teacher-training-itt-bursary-funding-manual/initial-teacher-training-bursaries-funding-manual-2021-to-2022-academic-year)
 
 
@@ -168,6 +183,9 @@ References
 
 
 ---
+
+
+* [Equality Act 2010](https://www.legislation.gov.uk/ukpga/2010/15/contents)
 
 
 This module has two Summative Assessments: 
