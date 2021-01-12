@@ -5,7 +5,7 @@ Allan Callaghan
 
 allan.callaghan@canterbury.ac.uk
 
-Word Count: 2691
+Word Count: 2699
 
 
 Introduction
@@ -15,7 +15,7 @@ This is a first-person critical reflection to demonstrate my progress towards th
 
 The concept of _teaching teachers_ is a very meta concept. The skills involved in teaching are often considered higher order skills (Bloom 1964). The skills of a teacher can be normally assessed through evidence of their classroom teaching. This term (September 2020 to December 2020) has been challenging because of the global pandemic. All teaching has been mandated to be remote. My trainees first entered their school placements on 16th November. This has restricted the normal practical learning opportunities. The remote situation has also lead to high tensions, anxiety and emotional distance.
 
-My reflections will focus on inclusion and interactions with remote learners in the context of teacher training. Teacher training courses have a wide variety of trainee diversity. Trainees could be fresh graduate with no industry experience though to late career changers. It is well documented that career changers have differing learning needs (Smardar et-al 2020, Troesch and Bauer 2017, Bullough 1990, Furlong & Maynard 2012).
+My reflections will focus on inclusion and interactions with remote learners in the context of teacher training. Teacher training courses have a wide variety of trainee diversity. Trainees could be fresh graduate with no industry experience though to late career changers. It is well documented that career changers have differing learning needs (Bar-Tal et-al 2020, Troesch and Bauer 2017, Kimmel et al 2020, Furlong & Maynard 2012).
 
 The focus of my reflections will be on the following professional areas of activity:
 * (UKPSF-A2) Teach and/or support learning
@@ -52,7 +52,7 @@ These comments alerting me to what the issue but did not help me immediately mak
 My module lead responded with the following feedback:
 > from my perspective the task was ambitious in terms of Bloom's taxonomy, asking us to go straight to the highest level thinking skill with 'create' solo with a concept we'd only just been introduced to
 
-Upon reflection I was not considering the Cognitive Load of the task I had set (Sweller, 1998) (ukpsf-k3). I was requiring students to understand the concept of diagnostic questions and additionally deeply delve into their own subject domains. I could have scaffolded the learning by asking the learners to create a diagnostic question for a known simpler domain, maybe I could have provided a constrained Maths concept and asked pairs to create the diagnostic question.
+Upon reflection I was not considering the Cognitive Load of the task I had set (Sweller, 1998, Shibli 2020) (ukpsf-k3). I was requiring students to understand the concept of diagnostic questions and additionally deeply delve into their own subject domains. I could have scaffolded the learning by asking the learners to create a diagnostic question for a known simpler domain, maybe I could have provided a constrained Maths concept and asked pairs to create the diagnostic question.
 
 Teaching competent adults (however qualified) still feel vulnerable when placed in the role of the learner.
 
@@ -73,7 +73,7 @@ One of the comments this student raised about me was that "Allan portrayed himse
 > The learning community should provide a safe space for challenge and transformation
 (CCCU - Learning and Teaching Strategy - 2015)
 
-I attempted to dissect the events that lead up to this. Consulting further scholarship and using Brockfield's lenses (Brockfield 1995) to consider the view from the learners perspective.
+I attempted to dissect the events that lead up to this. Consulting further scholarship and using Brookfield's lenses (Brookfield 1995) to consider the view from the learners perspective.
 
 In the opening session of the course I described my role. I was the _glue_ for the course. I liaise with mentors in their placement school, I mark the formal subject pedagogy assignments, I write student references at the end of the year, I perform the intermediary professional reviews throughout the year, I monitor engagement and contributions in subject sessions and relay progress to other professionals as needed. I also used the term _formative assessment_. 
 
@@ -84,7 +84,7 @@ Wiliam, who coined the term 'formative assessment', identifies that the term is 
 
 As highlighted by the comment a student made in my micro-teach session. Students need a 'low stakes' environment in order to feel safe in their learning. (Wiliam 2011)
 
-The challenges career changes face when training to teach has been well documented (Smardar et-al 2020, Troesch and Bauer 2017, Bullough 1990, Furlong & Maynard 2012). The DfE has setup support organisations like nowteach.org.uk, 'Now Teach' provides a route for people with significant life experience to successfully become teachers and stay in the sector for the long-term. I consulted with 'Now Teach' staff while reintegrating this student into my sessions.
+The challenges career changes face when training to teach has been well documented (Bar-Tal et-al 2020, Troesch and Bauer 2017, Kimmel et al 2020, Furlong & Maynard 2012). The DfE has setup support organisations like nowteach.org.uk, 'Now Teach' provides a route for people with significant life experience to successfully become teachers and stay in the sector for the long-term. I consulted with 'Now Teach' staff while reintegrating this student into my sessions.
 
 The way this student was communicating was not in-line with part 2 of the DfE teaching standards "personal and professional conduct". And this was addressed in the reintegration meetings.
 
@@ -104,7 +104,7 @@ This experience has prompted me to allocate time and actively convey the knowled
 
 At the end of the session I asked if the students felt this 'Diagram Tooling' was a worthwhile skill-set. The responses were less than enthusiastic with multiple members preferring their existing skill-set of using simpler generic tools. I am an experienced practitioner that has created countless exam style questions and handouts. I find this tooling an invaluable productivity boost (ukpsf-k1). I'm passionate about these tools and hope that this passion is contagious. The CCCU; Learning and Teaching Strategy states "We encourage the development of a sense of wonder, the quest for knowledge". I want them to feel this enthusiasm for new knowledge.
 
-Through the lens of the learners (Brockfield 1995), they don't currently see the benefits of this technique, to them it feels like an unneeded additional layer of complexity. Again this highlights to me the importance of Cognitive Load Theory (Sweller 1998). The overhead of learning the diagram notation and the added complexity of the diagram tool was too much. The session was still a success; the objective was to understand that _tooling exists_ and it served as an excellent introduction to these diagram types. As the learners become more proficient teachers, I'm sure that they will identify the long winded pattern of manually creating diagrams and be aware of the possible tools available to them.
+Through the lens of the learners (Brookfield 1995), they don't currently see the benefits of this technique, to them it feels like an unneeded additional layer of complexity. Again this highlights to me the importance of Cognitive Load Theory (Sweller 1998, Shibli 2020). The overhead of learning the diagram notation and the added complexity of the diagram tool was too much. The session was still a success; the objective was to understand that _tooling exists_ and it served as an excellent introduction to these diagram types. As the learners become more proficient teachers, I'm sure that they will identify the long winded pattern of manually creating diagrams and be aware of the possible tools available to them.
 
 
 Observation by a senior colleague
@@ -152,35 +152,29 @@ I will continue reflecting and seeking CPD to develop my online pedagogy. I am p
 References
 ==========
 
+* Bar-Tal, S., Chamo, N., Ram, D., Snapir Z and Gilat, I. (2020) First steps in a second career: characteristics of the transition to the teaching profession among novice teachers. _European Journal of Teacher Education_, Volume 43, Issue 5. Available at https://doi.org/10.1080/02619768.2019.1708895
 * Brookfield, S. (1995). Becoming a Critically Reflective Teacher. San-Francisco: Jossey-Bass.
+* Canterbury Christ Church University (2015). Blended Learning, [online] Canterbury. Available at https://www.canterbury.ac.uk/current-students/learning-skills/blended-learning [Accessed 12 Jan. 2021]
+* Canterbury Christ Church University (2015). Graduate Attributes, [online] Canterbury. Available at https://www.canterbury.ac.uk/learning-and-teaching-enhancement/strategies/graduate-attributes.aspx [Accessed 12 Jan. 2021]
+* Canterbury Christ Church University (2015). Learning Teaching Strategy 2015 to 2022, [pdf] Canterbury. Available at https://www.canterbury.ac.uk/learning-and-teaching-enhancement/docs/Learning-and-Teaching-Strategy-2015-2022.pdf [Accessed 12 Jan. 2021]
+* Department for Education (2011). Teachers' standards, [online]. Available at https://www.gov.uk/government/publications/teachers-standards [Accessed 12 Jan. 2021]
+* Department for Education (2021). Career changers’ stories, [online]. Available at https://getintoteaching.education.gov.uk/life-as-a-teacher/real-life-experiences/career-changer-stories [Accessed 12 Jan 2021]
+* Education Endowment Foundation (2018). Evaluating the effectiveness of Eedi (previously Diagnostic Questions) formative assessment programme. [pdf] London: . Available at  https://educationendowmentfoundation.org.uk/public/files/Projects/Evaluation_Protocols/EEDI_Protocol_2018.05.02_FINAL.pdf [Accessed 12 Jan. 2021]
+* Furlong, J. and Maynard, T. (2012). Mentoring Student Teachers: The Growth of Professional Knowledge. Routledge.
+* Kimmel, L., Sindelar, P., Rosenberg, M. and Mason-Williams, L. (2020). Selecting Career Changers with Real Potential for Teaching and Designing a Program to Meet Their Needs. Available at https://eric.ed.gov/?id=ED607037
+* Quality Assurance Agency for Higher Education (2019). Subject Benchmark Statement: Education Studies, [online] Gloucester. Available at https://www.qaa.ac.uk/docs/qaa/subject-benchmark-statements/subject-benchmark-statement-education-studies.pdf?sfvrsn=3ae2cb81_5 [Accessed 12 Jan. 2021]
+* Shibli, D and West, R (2018). Cognitive Load Theory and its application in the classroom. Impact Journal of the Chartered College of Teaching, [online]. Available at: https://impact.chartered.college/article/shibli-cognitive-load-theory-classroom/ [Accessed 12 Jan. 2021]
+* Sweller J (1998) Cognitive load during problem solving: Effects on learning. Cognitive Science (12): 257–285.
 * Tripp, D. (1993). Critical Incidents in Teaching: Developing Professional Judgement. London: Routledge.
-* [Cognitive Load Theory and its application in the classroom](https://impact.chartered.college/article/shibli-cognitive-load-theory-classroom/) Dominic Shibli and Rachel West 2018
-    * Sweller J (1998) Cognitive load during problem solving: Effects on learning. Cognitive Science (12): 257–285.
-* [Embedded Formative Assessment](https://www.amazon.co.uk/Embedded-Formative-Assessment-Dylan-Wiliam/dp/193400930X) 2011 Dylan Wiliam
-* [Evaluating the effectiveness of Eedi (previously Diagnostic Questions) formative assessment programme](https://educationendowmentfoundation.org.uk/public/files/Projects/Evaluation_Protocols/EEDI_Protocol_2018.05.02_FINAL.pdf)
-* [Teacher Standards](https://www.gov.uk/government/publications/teachers-standards)
-* [QAA](https://www.qaa.ac.uk/) THE UK'S QUALITY BODY FOR HIGHER EDUCATION
-    * [Subject Benchmark Statement: Education Studies](https://www.qaa.ac.uk/docs/qaa/subject-benchmark-statements/subject-benchmark-statement-education-studies.pdf?sfvrsn=3ae2cb81_5)
-* [Christ Church Learning and Teaching Strategy](https://www.canterbury.ac.uk/LTS) [pdf](https://www.canterbury.ac.uk/learning-and-teaching-enhancement/docs/Learning-and-Teaching-Strategy-2015-2022.pdf)
-* [Canterbury Christ Church - Blended Learning](https://www.canterbury.ac.uk/current-students/learning-skills/blended-learning)
-* [Canterbury Christ Church University (CCCU) - Learning and Teaching Strategy](https://www.canterbury.ac.uk/learning-and-teaching-enhancement/strategies/learning-and-teaching-strategy.aspx)
-* [Canterbury Christ Church University (CCCU) - Graduate Attributes](https://www.canterbury.ac.uk/learning-and-teaching-enhancement/strategies/graduate-attributes.aspx)
-* [getintoteaching.education.gov.uk - Career changers’ stories](https://getintoteaching.education.gov.uk/life-as-a-teacher/real-life-experiences/career-changer-stories)
-* [Second career teachers: Job satisfaction, job stress, and the role of self-efficacy](https://www.sciencedirect.com/science/article/abs/pii/S0742051X17311174?via%3Dihub) 2017 Troesch and Bauer
-* [Selecting Career Changers with Real Potential for Teaching and Designing a Program to Meet Their Needs](https://eric.ed.gov/?id=ED607037) 2020
-* [First steps in a second career: characteristics of the transition to the teaching profession among novice teachers](https://www.tandfonline.com/doi/ref/10.1080/02619768.2019.1708895) Smadar et al 2020
-    * [Becoming a teacher: struggles of a second‐career beginning teacher](https://www.tandfonline.com/doi/abs/10.1080/0951839900030201) 1990
-* [Mentoring Student Teachers: The Growth of Professional Knowledge](https://www.amazon.co.uk/Mentoring-Student-Teachers-Professional-Knowledge-ebook/dp/B00AC2GPRS/)  John Furlong, Trisha Maynard 2012
+* Troesch, LM. Bauer, CE. (2017). Second career teachers: Job satisfaction, job stress, and the role of self-efficacy. _Teaching and Teacher Education_, Volume 67, pp 389-398. Available at https://doi.org/10.1016/j.tate.2017.07.006
+* Wiliam, D. (2017). Embedded Formative Assessment. 2nd ed. London: Solution Tree Press.
+
+
+---
+
+
 * [Is Teaching Less Challenging for Career Switchers? First and Second Career Teachers’ Appraisal of Professional Challenges and Their Intention to Leave Teaching](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.03067/full) 2020
 * DfE [Initial teacher training bursaries funding manual: 2021 to 2022 academic year](https://www.gov.uk/government/publications/initial-teacher-training-itt-bursary-funding-manual/initial-teacher-training-bursaries-funding-manual-2021-to-2022-academic-year)
-
-
-
-
-
-
-
-
 
 ---
 
