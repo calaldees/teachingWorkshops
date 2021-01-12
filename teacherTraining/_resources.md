@@ -4,6 +4,9 @@ Resources
 Teaching Resources
 ------------------
 
+* [Oak National Academy - The National Academy](https://www.thenational.academy/)
+    * [Key Stage 3, Computing Units](https://classroom.thenational.academy/subjects-by-key-stage/key-stage-3/subjects/computing)
+    * [Key Stage 4, Computing Units](https://classroom.thenational.academy/subjects-by-key-stage/key-stage-4/subjects/computing)
 * [PG Online - Computer Science](https://www.pgonline.co.uk/resources/computer-science/)
     * KS3 + All exam boards resources (Paid for teacher resources)
 * [code.org](https://code.org/)

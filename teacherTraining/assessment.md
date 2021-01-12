@@ -665,7 +665,45 @@ Ruth Butler 1987
         * We need corporate alignment. Cascaded objectives (OKRs based on OKRs) - direct reports had objectives that are aligned with theirs. 
         * Everybody made/succeeded in their objectives but the organisation did not get better/more-efficient
             * You MUST fail some of your objectives, otherwise they are not challenging enough.
-    * TODO - continue at 12:00
+        * there are no _experts_ in the group - equality of communication
+    * A good teacher on their first day will be better than an average teacher after 20 years in the classroom
+        * right now teachers are born, because we are not very good at making them
+        * High IQ chess players improve in first few years but hit wall of experience. Sometimes the only way to progress is experience
+        * Aim to reduce the variation in teacher quality
+    * Effective & scaleable teacher professional development
+        * better teachers are better, but it's impractical and expensive to replace the whole teacher workforce.
+        * It's clear you have to invest in the teachers you've got
+    * Formative assessment independent of any curriculum
+    * Formative assessment is needed because children do not learn what we teach
+    * The most important factor is what the learner already knows. Ascertain this and teach accordingly.
+    * "You should know this you're in year 5" ... how do you get into year 5 ... be in year 4 and have a birthday
+    * High priest of the spreadsheet - worship it and it would predict
+    * Formative assessment is very subject specific
+    * Don't ever take in input from one volunteer - at minimum get them to discuss. Every person is active
+    * Hold hand up and wait for silence
+    * ask everyone to vote with fingers 1,2,3,4,5
+    * responsiveness
+    * Factors with most difference - 1. high socioeconic status 2. teacher responsive instruction (formative assessment)
+    * Least difference - exploration learner (because teachers probably do it badly). absence.
+    * Tapesium area 43:00 - introduce one method + formula - then in groups find all other ways
+        * https://youtu.be/aPTZpLaJvUA?t=2580
+        * couple be useful in computing (how many ways of doing this)
+        * one of these methods uses while loops - or uses a stack
+        * teacher can ramp up difficulty by prompts
+    * Good teaching looks like - Big question - student discussion - teacher lead - students consolidating
+        * setting doesn't work - we get 50% of kid in the right set
+    * Lesson Study 50:00 - no guarantee this will help
+    * Genuine Peer observation of lessons - no SLT - nothing formerly recorded - teacher request - genuinely formative 52:00
+    * Don't solve problems that there is no guarantee these will improve learning
+        * 4 domains of practice - 2 domains don't matter
+        * Teachers can get better at stuff that doesn't matter
+    * Stop talking about comment only marking - all engagement and response is more important
+    * only 3% can get the top grade (? not overly useful for universities or anyone)
+    * Growth mindset is good for saying "you will be more able in this area if you put in effort" - higher achievement not higher intelligence
+    * 01:12:20 "You have to have slack to do formative assessment"
+    * The thinking capacity of novices and experts is the same. Experts can draw on long term memory
+
+
 
 Using evidence of achievement to adapt what happens in classrooms to meet learner needs
 

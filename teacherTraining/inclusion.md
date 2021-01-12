@@ -717,6 +717,13 @@ Concluding Task
 Unsorted
 ========
 
+
+* [Inclusive Differentiation](https://youtu.be/aPTZpLaJvUA?t=2545) 42:40 
+    * not separate tasks - teacher stretching groups
+
+
+
+
 Daughter autism (18 when finally diagnosed) (under diagnosed in girls, they mask the traditional male symptoms) had never been invited to a birthday party
 
 * [Curriculum Adaption for Inclusive classrooms](https://files.eric.ed.gov/fulltext/ED358637.pdf) Tom Neary 1992

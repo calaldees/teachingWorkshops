@@ -276,6 +276,7 @@ Lesson Topic Ideas
     * [Generative Art - A practical guide using Processing](https://www.manning.com/books/generative-art)
         * Perfectly placed at the intersection of code and creative thinking
         * [Generative Art - Autonomy: Cellular Automata](https://www.codeproject.com/Articles/218976/Generative-Art-Autonomy-Cellular-Automata)
+        * [noise-planets](https://avinayak.github.io/art/2021/01/09/noise-planets.html)
     * The field of Data Visualisation (TODO: crosslink)
     * Aesthetic art to evoke emotion and imagery
         * [rekall.me](https://rekall.me/)
@@ -420,6 +421,8 @@ Using real data is inspiring
         * [global hourly](https://www.ncei.noaa.gov/data/global-hourly/)
     * [NOAA STAR - Global Vegetation Health Products : Introduction](https://www.star.nesdis.noaa.gov/smcd/emb/vci/VH/index.php)
         * [Breathing Earth](http://www.p01.org/breathing_earth/)
+    * [Severe Weather Europe](https://www.severe-weather.eu/) - Follow severe weather as it happens. Anywhere. Any time
+        * (more writeups rather than data)
     * Maps
         * [OpenStreetMap](https://www.openstreetmap.org) Javascript Editor - [ID](https://wiki.openstreetmap.org/wiki/ID)
             * [GeoJSON Tools](https://geoman.io/)
@@ -830,7 +833,14 @@ tim hunkin - southwold under the peir - novalty automation
 [MicroBreak](https://youtu.be/nieXCqpxjC4?t=329)
 
 
-[The Art of Code - Dylan Beattie](https://youtu.be/6avJHaC3C2U)
+* [The Art of Code - Dylan Beattie](https://youtu.be/6avJHaC3C2U)
+* [Keynote by Dylan Beattie: Computational Creativity (EN) – INNOQ Technology Day](https://www.youtube.com/watch?v=FeD3DSn1gIs)
+    * [technology changes the world - is a spellcheck cheating](https://youtu.be/FeD3DSn1gIs?t=266) 8min
+    * [ode to spell check](https://youtu.be/FeD3DSn1gIs?t=791) 1min
+    * [movies effects deepfakes section 230](https://youtu.be/FeD3DSn1gIs?t=838) 15in
+    * [kinght trading - whos fault?](https://youtu.be/FeD3DSn1gIs?t=1815) 5min
+    * [recruitment amazon sexist bias twiiter face 10% white male](https://youtu.be/FeD3DSn1gIs?t=2053) 5min
+
 
 [Copernicus Sentinel-5P Tropospheric Nitrogen Dioxide](https://maps.s5p-pal.com/) - global pollution on map
 [Brazil scientists map forest regrowth keeping Amazon from collapse: Study](https://news.mongabay.com/2020/12/brazil-scientists-map-forest-regrowth-keeping-amazon-from-collapse-study/)

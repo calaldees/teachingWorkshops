@@ -239,6 +239,12 @@ C# mock test
 > How do you de-indent? ... shift + tab
 
 
+Session 26
+----------
+
+Just Mel: Not recorded - kind of informal but good prgoress. Looked though spec page 1 - covered programming constructs. XOR `^` `dir()` ascii `ord/chr` `''.join(['a', 'b'])` `'hehelloheee'.strip('he')`
+
+
 Upcoming
 --------
 
@@ -247,7 +253,6 @@ Game Framework Base - Pygame
  tweens?
 Chat system
 
-C# Exam
 Code review malnutrition tool?
 
-Dry run more algorithms
+Dry run more algorithms - quicksort?

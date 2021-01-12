@@ -483,23 +483,3 @@ https://impact.chartered.college/article/how-retrieval-practice-embedded-classro
 
 
 ---
-
-https://my.chartered.college/2018/08/how-to-group-work-teaching-strategies/
-
-What does it mean?
-
-It is vital to distinguish between structured team learning and informal group learning. Structured team learning – or cooperative learning – has yielded strong results in trials when there are two conditions in place:
-
-* Group goals. The aim of the task must be to achieve success in something purposeful, possibly to gain a reward of some kind. It isn’t enough to work in a team without a clear goal.
-* Individual accountability. The success of each student in terms of their learning must contribute to the overall team success, otherwise some students dominate the task and others become passengers.
-
-It is common for teachers to deploy informal group learning where these conditions do not apply. This can weaken learning gains and reduce their effectiveness when compared with individual working.
-What are the implications for teachers?
-
-This is a classic example of it being ‘the way you do it’ that gets results. In general, don’t do group work for the sake of it or without taking account of the conditions in which it is effective. Group work is not inherently a good idea or a bad idea, its effectiveness depends on what you want students to learn and how you organise the groups.
-
-If students are all to succeed, the task must be designed so they have to help and challenge each other. This links to Dylan Wiliam’s idea of students learning to act as resources for each other to generate formative feedback. It is also important that they all have a clear role. Every student’s contribution must matter and no one student should be able to opt out or hang back while the others do all the thinking.
-
-Also stick to smaller groups (pairs and threes) because it is harder to ensure there is accountability and defined roles as the number of students in the group increases (this is known as the Ringelmann effect).
-Top tip
-Consider whether students might learn more doing a task by themselves or whether a group task would help to push all the students forward in their thinking, or support practice and formative assessment.
