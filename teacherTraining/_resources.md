@@ -176,6 +176,8 @@ Links to other MD documents
 
 * [logic.ly/demo](https://logic.ly/demo) full adder and ripple counter in browser
 
+* [Entire Computer Science Curriculum in 1000 YouTube Videos](https://laconicml.com/computer-science-curriculum-youtube-videos/)
+
 
 Pedagogy
 --------
