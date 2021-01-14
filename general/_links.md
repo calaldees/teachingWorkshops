@@ -1,3 +1,5 @@
+* [SubStack](https://substack.com/about)
+    * > Make it simple to start a publication that makes money from subscriptions.
 
 * [Index of: Science Fiction Stories with Good Astronomy & Physics](https://astrosociety.org/file_download/inline/621a63fc-04d5-4794-8d2b-38e7195056e9)
 * Business

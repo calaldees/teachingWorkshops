@@ -221,7 +221,7 @@ How will you do this?
     * [Kahoot](https://kahoot.it/)
         * Quiz pin
     * [Socrative](https://www.socrative.com/) - see the promo video
-        * [Socrative 2018: Quick and Complete Introduction for Teachers #Socrative](https://www.youtube.com/watch?v=VyycybD8KNw)
+        * [Socrative 2018: Quick and Complete Introduction for Teachers](https://www.youtube.com/watch?v=VyycybD8KNw)
         * > See Socrative from the teacher and student point of view and then watch as this teacher builds a Socrative Quiz
     * [iClicker](https://www.iclicker.com/)
     * [Plickers](https://get.plickers.com/)

@@ -146,7 +146,7 @@ for name in text_split:
     print(name + ' is cool')
 
 
-#strip
+# strip
 
 # possible
 text_strip_split = []

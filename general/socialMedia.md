@@ -61,6 +61,20 @@ Social Media
 * [MAPS.ME is gone. We must bring it back.](https://telegra.ph/What-happened-to-the-old-MAPSME-12-20)
     * > it showed me every detail, every little space I can walk through, every water fountain, I even used it to find trashcans in foreign cities. The ability to edit the map and contribute back to the lovely OpenStreetMap community is also nowhere to be found
     * Now it's just business's and chains
+* [The Paradox of Abundance](https://perell.com/note/the-paradox-of-abundance/) David Perell
+    * Like fast-food - with abundance you have 71% americans fat and the rest super-healthy
+    * If you serve as a mechanical slave to mass media and online algorithms, you’ll end up with intellectual diabetes. 
+    * To find quality information, you have to rebel against the incentives of mass media and the algorithms that threaten its business model.
+
+* Parler’s deplatforming
+    * TODO - 
+        * aws 4 hours
+        * other cloud platforms responded co-ordinated
+        * purchased own datacenter
+        * was denied DNS
+    * [Pirate Bay Founder Thinks Parler’s Inability to Stay Online Is ‘Embarrassing’](https://www.vice.com/en/article/3an7pn/pirate-bay-founder-thinks-parlers-inability-to-stay-online-is-embarrassing)
+        * > The Pirate Bay, the most censored website in the world, started by kids, run by people with problems with alcohol, drugs and money, still is up after almost two decades,” Kolmisoppi said. “Parlor and gab etc have all the money around but no skills or mindset. Embarrassing
+        * more links in this article to history and tech of thepiratebay
 
 Chat
 ----
