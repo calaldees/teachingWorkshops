@@ -210,9 +210,36 @@ Citizenship
 -----------
 
 Spiritual, Moral, Social and Cultural (SMSC)
-Fundamental British Values (FBV)
 
-[TES: Teach that 'no platforming' is 'harmful', schools told](https://www.tes.com/news/teach-no-platforming-harmful-schools-told) - Government RSE guidance also says teachers should explain 'harm' caused by 'cancel culture' and the importance of freedom of speech
+### Fundamental British Values (FBV)
+
+> Extremism is defined as vocal or active opposition to fundamental British values, including democracy, the rule of law, individual liberty and mutual respect and tolerance of different faiths and beliefs.
+
+> Terrorism is defined as any action that endangers or causes serious violence to a person or people; causes serious damage to property; or seriously interferes or disrupts an electronic system. The use or threat must be designed to influence the government or to intimidate the public and is made for the purpose of advancing a political, religious or ideological cause. 
+
+Radicalisation is a process
+1. All members of community
+    * Moral outrage, need for identity ()
+    * Steps to personal well-being, stimulating interests
+2. The vulnerable
+    * Verbal hate/aggression, perceived legitimacy
+    * Open debate, positive role models
+3. Moving towards extremism
+    * Crossing the threshold into criminality
+    * Last opportunity
+4. Actively breaking the law
+
+Prevent Duty - introduced in teh counter terrorism and security act 2015 section 26
+Part of safeguarding
+
+* Showing strong allegiance to a group
+* Withdrawing form friends/community
+* Loosing interest in personal aspirations
+* 
+
+### more
+
+* [TES: Teach that 'no platforming' is 'harmful', schools told](https://www.tes.com/news/teach-no-platforming-harmful-schools-told) - Government RSE guidance also says teachers should explain 'harm' caused by 'cancel culture' and the importance of freedom of speech
 * [Digital Citizenship Report: Towards tomorrow’s successful digital citizens: providing the critical and dialogical opportunities to change lifestyles and mindsets](https://mirandanet.ac.uk/wp-content/uploads/2019/06/Preston-Savage-et-al-FINAL_DigitalCitizens-Master-19nov15-CP-response-to-PB-commentary.pdf) 2015
 
 ### Activity: Research

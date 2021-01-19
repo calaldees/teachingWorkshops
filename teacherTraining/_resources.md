@@ -126,6 +126,7 @@ Teaching Resources
         * [python introduction](https://brilliant.org/courses/programming-python/#chapter-introduction-28)
 * [CAS - Computational Thinking - A guide for teachers](https://community.computingatschool.org.uk/files/8550/original.pdf)
 * [MIT Open Courseware - computer science](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience)
+    * [Computer System Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/)
 * [Better Explained](https://betterexplained.com/)
     * Maths and some computing visual guides
 * [Future Learn](https://www.futurelearn.com/)

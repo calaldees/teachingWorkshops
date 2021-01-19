@@ -175,3 +175,8 @@ See [Conversations with Young People] for more - Stop giving them advice about a
     * > To be satisfied with a job, you don’t have to worry too much about finding a perfect fit for your interests because we know other things matter, too. As long as it’s something you don’t hate doing, you may find yourself very satisfied if you have a good supervisor, like your coworkers, and are treated fairly by your organization.
     * > Being interested in your work seems more important for job performance and the downstream consequences of performing well, like raises or promotions
     * > In popular career guidance literature, it is widely assumed that interest fit is important for job satisfaction. Our results show that people who are more interested in their jobs tend to be slightly more satisfied, but interest assessments are more useful for guiding people towards jobs in which they will perform better and make more money
+
+
+Bribery Act 2010
+----------------
+

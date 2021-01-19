@@ -805,6 +805,10 @@ Online
     * ??
 
 
+* [Tom Sherrington @teacherhead](https://twitter.com/teacherhead/status/1349330126769631234)
+    * > Here's my two- minute guide to using googleforms for dynamic or pre-planned question and answer during remote learning.  Add new questions spontaneously or set them in advance.Superb tool.  Includes uploading screenshots for offline work.
+    * Uploading screenshots of work as answers to questions - investigate
+
 Exam
 ----
 

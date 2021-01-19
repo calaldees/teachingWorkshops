@@ -76,6 +76,21 @@ Social Media
         * > The Pirate Bay, the most censored website in the world, started by kids, run by people with problems with alcohol, drugs and money, still is up after almost two decades,” Kolmisoppi said. “Parlor and gab etc have all the money around but no skills or mindset. Embarrassing
         * more links in this article to history and tech of thepiratebay
 
+* [The Progressive Purge Begins](https://townhall.com/columnists/derekhunter/2021/01/11/the-progressive-purge-begins-n2582898)
+    * > All they see is a people they’ve been convinced are evil being removed from the digital world in the name of tolerance. The irony is lost on them.
+    * > Banning Donald Trump and Trump supporters from the digital world is not an end step; it’s the beginning
+
+* [In The Future, Our Attention Will Be Sold](https://markmanson.net/attention)
+    * > There are three common complaints against social media and the internet in general: 1) that it’s making us all narcissistic and shallow 2) that it’s crapping on our ability to maintain meaningful relationships and therefore making us lonelier and 3) that it’s interfering with our ability to focus and get quote, unquote “more important shit” done in our lives.
+      > Interestingly, after quite a bit of research, it turns out that none of these claims are completely accurate. Social media doesn’t necessarily cause people to become more narcissistic, it just gives narcissistic people more opportunities to indulge their narcissism, and to a larger audience.
+    * > Modern technology isn’t changing us. It’s changing society. There’s a difference.
+    * The Attention Economy
+        * people in poor countryies talk a lot about food
+        * Economy evolution - land, labour, knowledge, attention
+    * > Kim Kardashian is famous and has continued to be famous for the better part of a decade for no other reason than — you guessed it — she’s already famous! This woman has contributed absolutely nothing to humanity. Yet in the age of attention, she is goddamned Master Yoda. 
+    * How the Attention Economy Promotes Extremism
+    * > The problem is not the technology itself, it’s how we choose to use the technology. Is it serving us or are we serving it? 
+
 Chat
 ----
 

@@ -245,6 +245,17 @@ Session 26
 Just Mel: Not recorded - kind of informal but good prgoress. Looked though spec page 1 - covered programming constructs. XOR `^` `dir()` ascii `ord/chr` `''.join(['a', 'b'])` `'hehelloheee'.strip('he')`
 
 
+Session 27
+----------
+
+2nd Half!
+
+MONSTER!
+OO modify bounds
+Coupling
+Repl.it
+
+
 Upcoming
 --------
 
