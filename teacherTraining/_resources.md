@@ -80,7 +80,7 @@ Teaching Resources
     * [Little Man Computer (LMC) CPU Simulator](https://www.101computing.net/LMC/)
     * [youtube channel](https://www.youtube.com/c/101Computing/videos)
 * [withcode.uk](https://withcode.uk)
-    * [@pddring](https://twitter.com/pddring)
+    * [@pddring](https://twitter.com/pddring) Pete Dring
     * [YouTube](https://www.youtube.com/c/pddring/videos)
         * Loads of CS, SQL, pygame, exam questions, hardware, 3D Blender vids
     * [tools.withcode.uk](https://tools.withcode.uk/)
@@ -176,8 +176,10 @@ Links to other MD documents
 
 
 * [logic.ly/demo](https://logic.ly/demo) full adder and ripple counter in browser
+* [simulator.io](https://simulator.io) Build and simulate logic circuits in browser
 
 * [Entire Computer Science Curriculum in 1000 YouTube Videos](https://laconicml.com/computer-science-curriculum-youtube-videos/)
+* [YouTube: Computerphile](https://www.youtube.com/user/Computerphile/videos)
 
 
 Pedagogy

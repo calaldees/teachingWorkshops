@@ -91,6 +91,10 @@ Social Media
     * How the Attention Economy Promotes Extremism
     * > The problem is not the technology itself, it’s how we choose to use the technology. Is it serving us or are we serving it? 
 
+* [Centralisation is a danger to democracy](https://redecentralize.org/blog/2021/01/18/centralization-is-a-danger-to-democracy)
+    * Local rules instead of global censorship
+    * Fediverse? decentralised twitter - like email is decentralised
+
 Chat
 ----
 

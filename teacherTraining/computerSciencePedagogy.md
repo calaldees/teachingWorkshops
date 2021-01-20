@@ -101,7 +101,7 @@ TASK: Read PRIMM quick read.
     * [primming.wordpress.com](https://primming.wordpress.com/) KS3
         * research background PRIMM is based on
 
-* [KPRIDE](https://create.withcode.uk/kpride/) Pete Dreen
+* [KPRIDE](https://create.withcode.uk/kpride/) Pete dring
     * Keywords, Predict, Run, Investigate, Debug and Extend
 * [Programming with T.I.M.E.](https://craigndave.org/programming-with-time/) Craig’n’Dave
     * Try, Investigate, Make and Evaluate
