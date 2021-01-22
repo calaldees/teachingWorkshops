@@ -482,6 +482,7 @@ Chapter 13 by Vanessa Dye 'Reflection, reflection, reflection, I'm thinking all 
     * "Reflective practice seems to perpetuate the current policy climate in education, which is dominated by systems of surveillance. Though the process I have opened up my professions and to some extent personal identity to the scrutiny of not only peers but also tutors. In my experience this reduces the liberating element of reflection and replaces it with performance anxiety."
 * Critical Incidents in Teaching: Developing Professional Judgement (Tripp 1993)
     * [vlebooks](https://www.vlebooks.com/Vleweb/Product/Index/1994921)
+    * [Critical incidents according to Tripp](https://www.nicole-brown.co.uk/critical-incidents-according-to-tripp/) Nicole Brown - web summary
     * Something that made you stop and think
     * Relevant
         * Not necessarily serious or dangerous
@@ -545,8 +546,7 @@ Chapter 13 by Vanessa Dye 'Reflection, reflection, reflection, I'm thinking all 
     * Key points of reflection and action (Petty 2009)
     * subheadings to unpack the reflective process (Arygris 1982; Gibbs 1998, Jasper 2003)
     * Metaphores to explore experiences (Alsup 2006)
-
-[Reflective practice for teaching in lifelong learning](https://www.vlebooks.com/Vleweb/Product/Index/155586) Rushton 2012
+* [Reflective practice for teaching in lifelong learning](https://www.vlebooks.com/Vleweb/Product/Index/155586) Rushton 2012
 
 #### Summary
 

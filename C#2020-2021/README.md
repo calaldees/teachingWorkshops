@@ -73,4 +73,5 @@ Slide 27
 ```bash
 # sudo apt-get install mono-mcs -y
 function csharp { mcs "$1" && clear && mono "${1%.*}.exe" && rm "${1%.*}.exe"; }
+csharp program.cs
 ```
