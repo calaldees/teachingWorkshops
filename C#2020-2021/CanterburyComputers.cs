@@ -63,9 +63,10 @@ public class Task {
 
         // Process - Lookup prices ---------------------------------------------
 
-        // I wanted to keep my data structured together.
+        // I wanted to keep my _data_ separate from _logic_.
         // This should be a dictionary, but I am keeping to the constructs covered in this course.
-        // I hate `switch` with a passion. We should be contaminating logic structure to represent data.
+        // I hate `switch` with a passion. We shouldn't be contaminating _logic_ to represent _data_.
+        // I doubt many of the students would have taken this approach.
         String[] LOOKUP_laptop_model   = new String[] { "D",  "L",  "A"};
         int[]    LOOKUP_laptop_price   = new int[]    {2800, 1700, 2200};
         int[]    LOOKUP_laptop_upgrade = new int[]    { 200,  300,  300};
@@ -79,9 +80,9 @@ public class Task {
         // Process - Calculate total -------------------------------------------
 
         int laptop_price = LOOKUP_laptop_price[i];
-        int laptop_upgrade = upgrade ? LOOKUP_laptop_upgrade[i] : 0;
-        Console.WriteLine("Laptop Price: £" + laptop_price + " upgrade price: £" + laptop_upgrade);
-        int total = (laptop_price + laptop_upgrade) * laptop_quantity;
+        int laptop_price_upgrade = upgrade ? LOOKUP_laptop_upgrade[i] : 0;
+        Console.WriteLine("Laptop Price: £" + laptop_price + " upgrade price: £" + laptop_price_upgrade);
+        int total = (laptop_price + laptop_price_upgrade) * laptop_quantity;
         Console.WriteLine("Total (before bulk discount): £" + total);
         Console.WriteLine();
 
