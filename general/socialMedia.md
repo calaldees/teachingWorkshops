@@ -94,9 +94,3 @@ Social Media
 * [Centralisation is a danger to democracy](https://redecentralize.org/blog/2021/01/18/centralization-is-a-danger-to-democracy)
     * Local rules instead of global censorship
     * Fediverse? decentralised twitter - like email is decentralised
-
-Chat
-----
-
-* [If it will matter after today, stop talking about it in a chat room](https://critter.blog/2021/01/12/if-it-matters-after-today-stop-talking-about-it-in-a-chat-room/)
-    * Chat is terrible for long form things that matter
