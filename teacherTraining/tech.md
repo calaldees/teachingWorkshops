@@ -113,6 +113,8 @@ Browser Based - Development environments
         * [w3schools.com](https://www.w3schools.com/) - live tryit
             * html
                 * [w3schools tryit svg example](https://www.w3schools.com/graphics/tryit.asp?filename=trysvg_circle)
+        * Other
+            * [gist.cafe](https://gist.cafe/) - runnable snippets on the web
     * Online IDE
         * [CodeTasty](https://codetasty.com/)
         * [GitPod](https://www.gitpod.io/)

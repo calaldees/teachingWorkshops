@@ -248,12 +248,18 @@ Just Mel: Not recorded - kind of informal but good prgoress. Looked though spec 
 Session 27
 ----------
 
-2nd Half!
+2nd Half! We're livin on a prayer
 
-MONSTER!
-OO modify bounds
-Coupling
-Repl.it
+MONSTER! - Repl.it
+OO modify bounds - Coupling
+
+
+Tech fail - not recorded - shit
+
+Session 28
+----------
+
+
 
 
 Upcoming

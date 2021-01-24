@@ -202,6 +202,7 @@ Lesson Topic Ideas
     * [Can We Terraform the Sahara to Stop Climate Change?](https://www.youtube.com/watch?v=lfo8XHGFAIQ)
     * Sandbox solar system
     * [Alien Civilization Calculator](https://www.omnicalculator.com/physics/alien-civilization)
+    * Atomic Imagry [Crystal close up First-ever atomic resolution video of salt crystals forming in real time ](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00161.html)
 * Maths
     * Matrix calculations for rotation and scaling (in real time?)
     * Statistics
@@ -424,6 +425,12 @@ Using real data is inspiring
         * [Breathing Earth](http://www.p01.org/breathing_earth/)
     * [Severe Weather Europe](https://www.severe-weather.eu/) - Follow severe weather as it happens. Anywhere. Any time
         * (more writeups rather than data)
+    * Local
+        * [propertydata.co.uk](https://propertydata.co.uk/)
+            * [Planning Permissions](https://propertydata.co.uk/api/documentation/planning)
+        * [planningfinder.co.uk](https://www.planningfinder.co.uk/) - planning permission on map with emial alerts
+        * [Official statistics from MHCLG (Ministry of Housing, Communities & Local Government)](https://opendatacommunities.org/)
+            * 200+ datasets published under open licences covering MHCLG’s priorities including: deprivation, housing, local government finance, planning and other themes.
     * Maps
         * [OpenStreetMap](https://www.openstreetmap.org) Javascript Editor - [ID](https://wiki.openstreetmap.org/wiki/ID)
             * [GeoJSON Tools](https://geoman.io/)

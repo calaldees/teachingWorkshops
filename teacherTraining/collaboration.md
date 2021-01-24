@@ -92,7 +92,6 @@ Student Collaboration (30 min)
     * [Google Docs](https://docs.google.com/)
     * [Microsoft Office 365](https://www.office.com/)
 * Shared boards
-    * [whiteboard.fi](https://whiteboard.fi/)
     * [Miro](https://miro.com/)
     * [Padlet](https://padlet.com/)
     * [Wireflow](https://wireflow.co/) - Open source collaborative website flow diagrams
@@ -171,9 +170,7 @@ Other unsorted notes about Collaboration
     * Although not directly related to teaching - the clarity of this article and the points made are universal
 
 
-[The Advantages of Peer Learning](https://web.archive.org/web/20191115133445/https://blog.hyperlog.club/why-peer-learn/)
-
-
+* [The Advantages of Peer Learning](https://web.archive.org/web/20191115133445/https://blog.hyperlog.club/why-peer-learn/)
 
 https://my.chartered.college/2018/08/how-to-group-work-teaching-strategies/
 
@@ -181,8 +178,10 @@ What does it mean?
 
 It is vital to distinguish between structured team learning and informal group learning. Structured team learning – or cooperative learning – has yielded strong results in trials when there are two conditions in place:
 
-* Group goals. The aim of the task must be to achieve success in something purposeful, possibly to gain a reward of some kind. It isn’t enough to work in a team without a clear goal.
-* Individual accountability. The success of each student in terms of their learning must contribute to the overall team success, otherwise some students dominate the task and others become passengers.
+* Group goals
+    * The aim of the task must be to achieve success in something purposeful, possibly to gain a reward of some kind. It isn’t enough to work in a team without a clear goal.
+* Individual accountability
+    * The success of each student in terms of their learning must contribute to the overall team success, otherwise some students dominate the task and others become passengers.
 
 It is common for teachers to deploy informal group learning where these conditions do not apply. This can weaken learning gains and reduce their effectiveness when compared with individual working.
 What are the implications for teachers?
