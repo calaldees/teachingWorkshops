@@ -1,6 +1,17 @@
 Safeguarding and eSafety
 ------------------------
 
+* [The Care Act 2014](https://www.legislation.gov.uk/ukpga/2014/23/contents/enacted/data.htm)
+    * 8 different kinds of abuse
+        * Domestic violence
+        * Sexual abuse
+        * Psychological abuse
+        * Financial or material abuse
+        * Modern slavery
+        * Discrimination abuse
+        * Organisational abuse
+        * Neglect and self-neglect
+
 https://www.thinkuknow.co.uk/
 
 [PREVENT Counter Terrorism Strategy - Summary video](https://www.youtube.com/watch?v=kAFJhn9b0mQ)
@@ -29,3 +40,18 @@ https://www.thinkuknow.co.uk/
 
 [Knowing pupil slang isn’t just educational – it can save lives](https://www.tes.com/magazine/article/knowing-pupil-slang-isnt-just-educational-it-can-save-lives) - If teachers can keep on top of students’ slang, it gives them an advantage in identifying any possible safeguarding issue
 
+Rights
+------
+
+* The right of life
+* Freedom from slavery or forced labour
+* The right to liberty and security of person
+* A fair trial
+* Not to be subjected to toucher or to inhuman or degrading treatment or punishment
+* Respect on private and family life, home and correspondence
+* Freedom of thought, conscience and religion
+* Freedom of expression
+* Freedom to peaceful assembly and association with others
+* Right to marry and found a family
+* Education
+* Political freedom

@@ -21,6 +21,9 @@ Survivorship bias - the ones that survive tell the story and give advice - the o
 Logical Fallacies
 =================
 
+* [logicalfallacies.org](https://www.logicalfallacies.org/)
+    * A misconception resulting from flaw in reasoning, or a trick or illusion in thoughts that often succeeds in obfuscating facts/truth.
+
 https://www.schoolofthought.org/
 
 

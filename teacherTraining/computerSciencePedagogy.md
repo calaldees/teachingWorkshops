@@ -136,6 +136,9 @@ TASK: Read PRIMM quick read.
 * [Reducing the load: ways to support novice programmers](https://www.raspberrypi.org/blog/research-seminar-cognitive-load-subgoal-labels/) Sue Sentence
 * [How we are helping you with computing teaching strategies](https://www.raspberrypi.org/blog/how-we-are-helping-you-with-computing-teaching-methods/)
 
+* blog.teachcomputing.org [What’s working well in remote computing education?](https://blog.teachcomputing.org/whats-working-well-in-remote-computing-education/)
+    * Summary of resources (many already linked in this markdown document)
+
 * [Summary of Semantic Transfer in Programming Languages: Exploratory Study of Relative Novices](https://blog.teachcomputing.org/summary-of-semantic-transfer-in-programming-languages-exploratory-study-of-relative-novices/) dec 2020
     * when a second language is encountered
         * A carryover concept (similar meaning in both the old and new context)

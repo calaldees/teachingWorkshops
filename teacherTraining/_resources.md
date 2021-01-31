@@ -4,6 +4,7 @@ Resources
 Teaching Resources
 ------------------
 
+* [Crash course computer science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 * [Oak National Academy - The National Academy](https://www.thenational.academy/)
     * [Key Stage 3, Computing Units](https://classroom.thenational.academy/subjects-by-key-stage/key-stage-3/subjects/computing)
     * [Key Stage 4, Computing Units](https://classroom.thenational.academy/subjects-by-key-stage/key-stage-4/subjects/computing)
@@ -25,6 +26,7 @@ Teaching Resources
     * [Programming with T.I.M.E.](https://craigndave.org/programming-with-time/)
 * [isaac Computer Science](https://isaaccomputerscience.org/)
     * A Department for Education project, part of the National Centre for Computing Education and created by the University of Cambridge and the Raspberry Pi Foundation.
+    * https://isaaccomputerscience.org/pages/workbooks_2020
     * [AQA Workbook](https://isaaccomputerscience.org/books/workbook_20_aqa)
     * [All Topics](https://isaaccomputerscience.org/topics)
     * Assignments online? (need to sign up and investigate)
@@ -34,9 +36,11 @@ Teaching Resources
 * [TeachComputing.org](https://teachcomputing.org/) Previously NCCE
     * [KS3/KS4 Resources](https://teachcomputing.org/curriculum)
         * [Tweet: Jennies lesson](https://twitter.com/Mrs_G33k/status/1316778655721324550)
+        * [ks4, remote](https://teachcomputing.org/courses?level=Key+stage+4&location=Remote&topic=Programming&certificate=#filter-results) search by tags
 * [stem.org.uk](https://www.stem.org.uk/)
     * [STEM Computing CPD](https://www.stem.org.uk/cpd/search?f[0]=field_subject:92)
     * [STEM Resources: Secondary and A level Computing](https://www.stem.org.uk/resources/curated-collections/secondary-and-level-computing-0)
+    * https://www.stem.org.uk/resources/community/collection/45430/gcse-computer-science
 * [Teaching London Computing: CPD](https://teachinglondoncomputing.org/cpd-courses/)
     * [ks3](https://teachinglondoncomputing.org/ks3-computing/)
     * [gcse](https://teachinglondoncomputing.org/cpd-courses/for-gcse-computing/)

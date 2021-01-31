@@ -318,6 +318,7 @@ Software
       * Project to draw an _anchor_
     * (Side note; secondary activity) [openscad.org](https://www.openscad.org/)
       * union, intersection
+  * [teachcomputing.org ks2 3d-modeling unit](https://teachcomputing.org/curriculum/key-stage-2/creating-media-3d-modelling)
   * [thingiverse](https://www.thingiverse.com/)
     * repository of 3d printable items
 

@@ -259,8 +259,16 @@ Tech fail - not recorded - shit
 Session 28
 ----------
 
+xor - bitwise operator - reconstruction and variable swapping
 
 
+Session 29
+----------
+
+Mel only
+`in` Sets Frozensets constants
+`import`
+`from x import y`
 
 Upcoming
 --------

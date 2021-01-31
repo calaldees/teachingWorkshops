@@ -1,6 +1,13 @@
 Social Media
 ============
 
+* [New six-film series from Adam Curtis](https://www.bbc.com/mediacentre/2021/cgyoomh)
+    * Can't Get You Out Of My Head: An Emotional History of the Modern World premieres on BBC iPlayer in February 
+    * > These strange days did not just happen. We - and those in power - created them together.
+    * Across Britain, Europe and America societies have become split and polarised not just in politics but across the whole culture. There is anger at the inequality and the ever growing corruption - and a widespread distrust of the elites
+* [America’s New Corporate Tyranny](https://www.tabletmag.com/sections/news/articles/americas-new-corporate-tyranny)
+    * The American political and legal systems are working just fine, despite a few hiccups. Meanwhile, American corporations are depriving citizens of basic rights and freedoms and destroying our democracy.
+
 * [Obama: The internet is “the single biggest threat to our democracy”](https://www.vox.com/recode/2020/11/16/21570072/obama-internet-threat-democracy-facebook-fox-atlantic)
 * [Information Overload Helps Fake News Spread, and Social Media Knows It](https://www.scientificamerican.com/article/information-overload-helps-fake-news-spread-and-social-media-knows-it/)
     * Understanding how algorithm manipulators exploit our cognitive vulnerabilities empowers us to fight back
@@ -66,16 +73,6 @@ Social Media
     * If you serve as a mechanical slave to mass media and online algorithms, you’ll end up with intellectual diabetes. 
     * To find quality information, you have to rebel against the incentives of mass media and the algorithms that threaten its business model.
 
-* Parler’s deplatforming
-    * TODO - 
-        * aws 4 hours
-        * other cloud platforms responded co-ordinated
-        * purchased own datacenter
-        * was denied DNS
-    * [Pirate Bay Founder Thinks Parler’s Inability to Stay Online Is ‘Embarrassing’](https://www.vice.com/en/article/3an7pn/pirate-bay-founder-thinks-parlers-inability-to-stay-online-is-embarrassing)
-        * > The Pirate Bay, the most censored website in the world, started by kids, run by people with problems with alcohol, drugs and money, still is up after almost two decades,” Kolmisoppi said. “Parlor and gab etc have all the money around but no skills or mindset. Embarrassing
-        * more links in this article to history and tech of thepiratebay
-
 * [The Progressive Purge Begins](https://townhall.com/columnists/derekhunter/2021/01/11/the-progressive-purge-begins-n2582898)
     * > All they see is a people they’ve been convinced are evil being removed from the digital world in the name of tolerance. The irony is lost on them.
     * > Banning Donald Trump and Trump supporters from the digital world is not an end step; it’s the beginning
@@ -91,6 +88,3 @@ Social Media
     * How the Attention Economy Promotes Extremism
     * > The problem is not the technology itself, it’s how we choose to use the technology. Is it serving us or are we serving it? 
 
-* [Centralisation is a danger to democracy](https://redecentralize.org/blog/2021/01/18/centralization-is-a-danger-to-democracy)
-    * Local rules instead of global censorship
-    * Fediverse? decentralised twitter - like email is decentralised

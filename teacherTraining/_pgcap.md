@@ -717,6 +717,7 @@ Research: ipsative Assessment - Gwyneth Hughes
 Reference Styles
 * [APA Style - 7th Edition - Common Reference Examples Guide](https://apastyle.apa.org/instructional-aids/reference-examples.pdf)
 * [Harvard Referencing: Guide](https://www.citethisforme.com/harvard-referencing)
+* [A quick guide to Harvard referencing](https://www.thinglink.com/scene/1407751855282323458)
 
 Assessment co-design between students and tutors
 Peer learning - self assessment

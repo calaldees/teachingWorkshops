@@ -6,6 +6,9 @@ Teaching Tools
 
 * [Code-cademy](https://www.codecademy.com/)
 
+[ThingLink](https://www.thinglink.com/) - make interactive media link things
+    * video, 360vr, animations
+
 * Browser Based
     * [hypothes.is](https://web.hypothes.is/) - Annotate the web, with anyone, anywhere
     * [Wireflow](https://wireflow.co/) - Open source collaborative website flow diagrams

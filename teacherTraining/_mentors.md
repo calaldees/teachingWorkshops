@@ -83,8 +83,10 @@ Allan Callaghan
 Subject Tutor for PGCE/SD Computing
 
 
-Mentor Visit Email Template
+Mentor Visit Email Templates
 ---------------------------
+
+### Initial Visit (first attempt)
 
 Subject: Placement visit for School Direct Computing
 
@@ -151,7 +153,7 @@ I look forward to coming into school and working with you in due course.
 
 Kind regards,
 
----
+### Initial visit (PGCE - second attempt)
 
 Greetings PGCE Computing Mentors,
 
@@ -175,6 +177,24 @@ It would be good to complete a 'virtual visit' with you before Friday 5th Februa
 
 I hope this term goes as smoothly as possible for you all.
 I look forward to visiting you soon.
+
+
+### Initial visit reminder
+
+Mon 04/01/2021 16:34
+
+Hi ??,
+(??: All CCCU tutors were asked recently to include Professional Mentors in all communications with subject mentors)
+
+Just checking in to ask how you and ??? are doing?
+At the beginning of January I sent out an email offering a 'Virtual Mentor Visit' to help support you as a subject mentor (copied below - 4th Jan 16:34).
+A milestone for MPR1 (Mentor Progress Report 1) is opening soon and is due to be completed on Friday 5th February.
+Following my earlier invitation, let me know if a support visit would be helpful.
+
+You can book a virtual mentor meeting with me on MSTeams with my online booking system
+https://outlook.office365.com/owa/calendar/PGCESDComputing@cccu.onmicrosoft.com/bookings/
+
+Hope we can catchup soon.
 
 
 Mentor Visits
@@ -221,11 +241,8 @@ Is mentor ok - is student ok
 * Previous experience of mentoring and the extent to which the mentor has been trained
 * Explain the rationale for the visit being mentor facing (training visit and QA)
    * Enhance the work you (as mentor) are already doing
-   * Understand their mentoring style - (students come to right answer themselves - coach - two way)
-   * To align for Ofsted - likely this academic year
-* The timetable that they have devised for the student (check it provides coverage of both KS3 and KS4 and ascertain if access to KS5 is at all possible).
-   * When is the weekly mentor meeting?
-   * Is student observing other subjects? (ongoing?)
+   * Evidence of alignment for Ofsted inspection (likely this academic year)
+      * As part of partnership (one teacher training entity) - Understand their mentoring style - (students come to right answer themselves - coach - two way)
 * Explore the mentor’s knowledge of the [Curriculum 2020](http://ccccumentors.org.uk/files/secondary/curriculum-overview/Curriculum%202020%20introduction%20for%20partners%20-%20print-friendly.pdf);
    * Ofsted don't want _Teacher Standards_ to be _The Curriculum_
    * Ofsted schools and university to be aligned
@@ -235,6 +252,9 @@ Is mentor ok - is student ok
 * Where is the student on [Furlong and Maynard (1995): Five stages of pre-service teacher learning](http://ccccumentors.org.uk/files/secondary/Documentation/programme-handbooks/school-direct/Subject%20mentor%20and%20tutor%20visits%20and%20support%20F&M%20model%202020-21.pdf)?
    * Quickly: Students strengths? Next steps for development?
    * On track? or Not on track? (support for student)
+* The timetable that they have devised for the student (check it provides coverage of both KS3 and KS4 and ascertain if access to KS5 is at all possible).
+   * When is the weekly mentor meeting?
+   * Is student observing other subjects? (ongoing?)
 * Weekley Meetings - [Partnership Evaluation Framework (PEF)](http://ccccumentors.org.uk/files/secondary/Documentation/molos/mentor-molo-for-the-pef/Mentor%20MoLO%20for%20the%20PEF.docx)
    * [Weekly sheet](http://ccccumentors.org.uk/files/secondary/Documentation/programme-handbooks/school-direct/Weekly%20Meeting%20Record%20with%20Mentor%20-%20MASTER.docx)?
    * The timing & regularity of the mentor meeting
@@ -260,20 +280,26 @@ Is mentor ok - is student ok
 * Any action points that arise from the above
    * Any questions?
    * How can I help?
+* Future PGCE Interview assistance?
 
 * Mentor Report? (Investigate) Before christmass
 * ?
    * (Engagement with the mentor element of the PEF – have they undertaken any self-assessment?)
 
-* 2nd meeting? Date? March? April?
-
-Changing placement
-6 weeks just after christmass
+Changing placement - Second school experince
 Progress report 1 - handover talk - arrange by profetiongl mentor - checking with old mentor
-Second school experince
+
 
 
 ### Mentor meeting - observation
+NearPod - whiteboard - bubblemap
+NearPod Game - compeate? quiz?
+Thinking map
+
+Speadsheet - share - lesson
+Debrif every day with louie
+Purple Mash? - Primary
+
 * differentiation?
    * different responses? peer?
 * assessment?
