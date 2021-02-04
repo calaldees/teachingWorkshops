@@ -27,7 +27,7 @@ Teaching Resources
     * [Craig and David: Students](https://student.craigndave.org/)
     * [SmartRevise](https://smartrevise.craigndave.org/) question bank system
     * [Programming with T.I.M.E.](https://craigndave.org/programming-with-time/)
-* [isaac Computer Science](https://isaaccomputerscience.org/)
+* [isaac Computer Science](https://isaaccomputerscience.org/) - A-Level (sponsored by RaspberyPi foundation + NCCE +BCS)
     * A Department for Education project, part of the National Centre for Computing Education and created by the University of Cambridge and the Raspberry Pi Foundation.
     * https://isaaccomputerscience.org/pages/workbooks_2020
     * [AQA Workbook](https://isaaccomputerscience.org/books/workbook_20_aqa)
@@ -40,7 +40,7 @@ Teaching Resources
     * [KS3/KS4 Resources](https://teachcomputing.org/curriculum)
         * [Tweet: Jennies lesson](https://twitter.com/Mrs_G33k/status/1316778655721324550)
         * [ks4, remote](https://teachcomputing.org/courses?level=Key+stage+4&location=Remote&topic=Programming&certificate=#filter-results) search by tags
-* [stem.org.uk](https://www.stem.org.uk/)
+* [stem.org.uk](https://www.stem.org.uk/) - Linked with RaspberyPi foundation and NCCE
     * [STEM Computing CPD](https://www.stem.org.uk/cpd/search?f[0]=field_subject:92)
     * [STEM Resources: Secondary and A level Computing](https://www.stem.org.uk/resources/curated-collections/secondary-and-level-computing-0)
     * https://www.stem.org.uk/resources/community/collection/45430/gcse-computer-science
@@ -93,7 +93,7 @@ Teaching Resources
 * [101computing.net](https://www.101computing.net/)
     * [Little Man Computer (LMC) CPU Simulator](https://www.101computing.net/LMC/)
     * [youtube channel](https://www.youtube.com/c/101Computing/videos)
-* [withcode.uk](https://withcode.uk)
+* [withcode.uk](https://withcode.uk) - One of the UK's top computing teachers
     * [@pddring](https://twitter.com/pddring) Pete Dring
     * [YouTube](https://www.youtube.com/c/pddring/videos)
         * Loads of CS, SQL, pygame, exam questions, hardware, 3D Blender vids

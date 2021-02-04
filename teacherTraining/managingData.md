@@ -1,13 +1,28 @@
 Managing Data
 =============
 
+* Managing Data
+    * Considering computing tools for transparency
+    * Record-keeping for professional accountability
+
 Objective:
-* Understand what data is publicly available for schools and how to interpret it.
+* Understand what data is publicly available for schools and how to interpret it
 * Consider how whole schools and departments use data
 * Understand a range of practical tools for tracking class progress
 
-* Data is part of your job
-    * Should not encompass your whole job
+* Data is part of your job - Should not encompass your whole job
+
+ITT Core Framework
+> 6.
+> Make marking manageable and effective, by:
+>   * Receiving clear, consistent and effective mentoring in how to record data only when it is useful for improving pupil outcomes
+
+Teacher Standards
+> 6.3 use relevant data to monitor progress, set targets, and plan subsequent lessons
+
+DfE
+> 3 data collection points per student each year. (once every 12 weeks)
+
 
 Use of School Data
 ------------------
@@ -58,38 +73,118 @@ RAISEonline replaced by _Analyse School Performance_ in September 2017
 [Analysing school performance: NGA (National Govenance Association)](https://www.governor.support/wp-content/uploads/2018/08/ASP-guidance_final-2018.pdf)
 A guide for governing boards on the DfE data service for schools
 
+### Attainment8 and Progress8
 
+* Explanation of calculation
+    * [Secondary accountability measures (including Progress 8 and Attainment 8)](https://www.gov.uk/government/publications/progress-8-school-performance-measure)
+    * [Progress8](https://www.youtube.com/watch?v=2qeQxQ06TXw) 5min Explanation
 
-[Ofsted - Inspections and performance of education providers](https://www.gov.uk/education/inspections-and-performance-of-education-providers)
-[Using Ofsted’s inspection data summary report](https://www.gov.uk/government/collections/using-ofsteds-inspection-dashboard)
+#### Attainment 8 - Grade point score
 
-* Activity: Find the Ofsted report for your school
-* Activity: Compare your school with other local school
-
-* Kent _believes_ in choice. 50% of school are grammar schools.
-    * What do you think that does to performance statistics?
-    * Should not affect *Progress8*
-* Schools can have a negative Progress8 and still be classed as _good_
-
-* Question to the group:
-    * What does this mean for your career and you?
-
-### Attainment8 Progress8
-[Secondary accountability measures (including Progress 8 and Attainment 8)](https://www.gov.uk/government/publications/progress-8-school-performance-measure)
-Progress 8
-Attainment 8
-Grade point score
-* Maths (2 multiplyer)
+* Maths (2 multiplier)
 * English (Highest of Language or Literature) (*2 multiplier)
 * EBACC: Best 3 subjects from (Science, Computer Science, Geography, History, MFL)
-* Other: (vocational, lower-english, Art, DT, Drama, PE)
+* Other: Best 3 subjects from (vocational, lower-english, Art, DT, Drama, PE)
 
 2*Maths + 2*English + 3 EBACC + 3 Other = 10 buckets = 8 subjects
+
+#### Progress8
+
 ExpectedAttainment8 KS2Score-> Lookup
-(Attainment8 - ExpectedAttatinment8) / 10buckets = Progress 8
+(Attainment8 - ExpectedAttatinment8) / 10 (the num of buckets) = Progress 8
 
-[Progress8](https://www.youtube.com/watch?v=2qeQxQ06TXw) 5min Explanation
 
+### Activity: Calculate Attainment8/Progress8 (10min)
+
+Further _Teach Computing_ Concept: Below is an experiment with using code to generate individual questions with individual answers.
+(Next steps could be a web interface?)
+
+You will be generated a random set of subject grades and expected_attainment8 and asked to calculate progress8
+
+```python
+# You can copy and paste this into a python3 terminal or repl.it to try it
+import random
+from itertools import chain
+
+SUBJECTS = {
+    'core': {'maths', 'english_lit', 'english_lang'},
+    'ebacc': {'science', 'computer science', 'geography', 'history', 'mfl'},
+    'other': {'art', 'dt', 'drama', 'pe', 'social-care', 'travel-tourism', 'business'},
+}
+
+def gen_random_grades():
+    return {
+        subject: random.randint(1,9)
+        for subject in chain(
+            SUBJECTS['core'],
+            random.sample(SUBJECTS['ebacc'], random.randint(3,4)),
+            random.sample(SUBJECTS['other'], random.randint(2,5)),
+        )
+    }
+
+def calc_attainment8(subject_grades):
+    _sorted_grades = sorted(((grade, subject) for subject, grade in subject_grades.items()), reverse=True)
+    english_hi = 'english_lang' if subject_grades['english_lang'] > subject_grades['english_lit'] else 'english_lit'
+    english_low = 'english_lang' if english_hi == 'english_lit' else 'english_lit'
+    return sum(chain(
+        (
+            subject_grades['maths'] * 2,
+            subject_grades[english_hi] * 2,
+        ),
+        tuple(
+            grade
+            for grade, subject in _sorted_grades 
+            if subject in SUBJECTS['ebacc']
+        )[:3],
+        tuple(
+            grade
+            for grade, subject in _sorted_grades 
+            if subject in SUBJECTS['other'] | {english_low, }
+        )[:3],
+    ))
+
+def calc_progress8(attainment8, expected_attainment8):
+    return (attainment8 - expected_attainment8) / 10
+
+def calc_activity(subject_grades=None, expected_attainment8=None):
+    subject_grades = subject_grades or gen_random_grades()
+    expected_attainment8 = expected_attainment8 or random.randint(10, 100)
+    attainment8 = calc_attainment8(subject_grades)
+    progress8 = calc_progress8(attainment8, expected_attainment8)
+    return locals()
+
+CLASS_LIST = ('bob', 'jane', 'freddy')
+from copy import deepcopy
+questions_and_answers = {name: calc_activity() for name in CLASS_LIST}
+# remove answers
+questions = deepcopy(questions_and_answers)
+for i in questions.values():
+    del i['attainment8']
+    del i['progress8']
+
+from pprint import pprint
+pprint(questions_and_answers)
+pprint(questions)
+
+```
+
+### Activity: Compare Schools (20min)
+
+* [Ofsted - Inspections and performance of education providers](https://www.gov.uk/education/inspections-and-performance-of-education-providers)
+    * Description of report content - [Using Ofsted’s inspection data summary report](https://www.gov.uk/government/collections/using-ofsteds-inspection-dashboard)
+    * Example - Add three schools to MySchools to see a comparison
+        * [Canterbury Academy](https://www.compare-school-performance.service.gov.uk/school/136302/the-canterbury-academy/secondary&year=final)
+        * Barton Court
+
+1. Find the Ofsted report for your school
+2. Compare your school with other local school (using MySchools)
+3. Read the ofsted report for your school - do the comments made justify/align with the progress8
+
+Notes:
+* Kent _believes_ in choice. 50% of school are grammar schools.
+    * What do you think that does to performance statistics? LEA Average?
+    * Should not affect *Progress8*?
+* Schools can have a negative Progress8 and still be classed as _good_
 
 
 Organisations with Products
@@ -117,6 +212,15 @@ Some schools employ 3rd party software to help with data management.
 Personal Experience: Most of these systems are flawed at the data capture level. Teacher time and data capture methods are always of secondary importance compared to the graphs that senior leaders can get.
 
 
+Activity: Reflection on 'The industry of teaching' (15min)
+----------------------------------------------------------
+
+* Question to the group:
+    * What does this data mean for your career and you?
+
+(performance review - the reality? - interview question "how will my progress/performance be analysed?")
+
+
 Is data effective?
 ------------------
 
@@ -132,19 +236,23 @@ Leadership of a school can twist results. In some cases asking teachers to repor
 Story: Dale - Raise their grade
 
 
-Your schools
+Activity: Data in Your schools (15min)
 ------------
 
-Task: Ask students to come prepared to talk about the system in use in their school, then they can question each other and compare different methods (encourage critical engagement).
+The data system used in your school
+question each other and compare different methods (encourage critical engagement).
 
 
 Flightpath
 ----------
 
-You don't get a say in a students predicted grade. That is set in stone at KS2.
+Async - Read this article - (15min)
+* [Creating flight paths to replace levels Year 7-11 - the impact of the new GCSE grade descriptors](http://www.andallthat.co.uk/blog/creating-flight-paths-to-replace-levels-year-7-11-the-impact-of-the-new-gcse-grade-descriptors)
+
+You don't get input into a students predicted grade. That is set in stone at KS2.
 
 * [AndAllThat.co.uk](https://AndAllThat.co.uk/) - [Alex Ford](@apf102) - History Teacher
-    * [Flightpaths](http://www.andallthat.co.uk/blog/creating-flight-paths-to-replace-levels-year-7-11-the-impact-of-the-new-gcse-grade-descriptors)
+    * [Creating flight paths to replace levels Year 7-11 - the impact of the new GCSE grade descriptors](http://www.andallthat.co.uk/blog/creating-flight-paths-to-replace-levels-year-7-11-the-impact-of-the-new-gcse-grade-descriptors)
     * [Setting us free - ppt](https://onedrive.live.com/embed?cid=DAA916CB8AB52178&resid=DAA916CB8AB52178%2149526&authkey=AKMNJnkRHgYi9C0&em=2)
 
 * A ‘flightpath’ is basically an indication of whether a particular pupil is on schedule to achieve a particular grade.
@@ -184,19 +292,30 @@ They could also compare their school systems with the WRG recommendations at:
 Workload Reform
 ---------------
 
-[Eliminating unnecessary workload associated with data management - Report of the Independent Teacher Workload Review Group](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/511258/Eliminating-unnecessary-workload-associated-with-data-management.pdf) March 2016
+* [Eliminating unnecessary workload associated with data management - Report of the Independent Teacher Workload Review Group](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/511258/Eliminating-unnecessary-workload-associated-with-data-management.pdf) March 2016
 
 
-General Purpose Software - Publishing Class Tracking/Progress
--------------------------------------------------------------
+General Purpose Software - Publishing Class Tracking/Progress (2 hours)
+========================
+
+* Introduction and Demo (30min)
+* Hands-on (1hour 15min)
+* Discussion of application of these techniques (15min)
 
 Perception
 * Data in your head cannot be quantified or shared
 * Data formally on a computer carries more weight than hand written notes
-    * (A-Level student complaint parent/teacher meeting)
+    * (Story: A-Level student complaint parent/teacher meeting 5min)
 * Transparency is vital (It's only useful/real if people can see it)
+* Students see where they are in the class
+    * This create a hierarchy
+    * Is this a problem
 
-### Google Docs Public/Private View
+### Tasks - Hands-on (1hour 30min)
+
+Attempt to explore the techniques used in my [Teacher Workbook Example](https://docs.google.com/spreadsheets/d/1LRn7KCvpGXhnYlRnEZeU19xQ4Zo39xjn5KBjWH-_x0E/edit?usp=sharing)
+
+### Technique 1: Google Docs Public/Private View
 
 1. Create new [Google Sheet](https://docs.google.com/spreadsheets/)
 2. Add/Rename Sheets
@@ -204,34 +323,56 @@ Perception
     * `private`
 3. Enter Formula on `public` to reference `private`
     * `={private!A:G}`
-4. `public` -> Tools -> Protect Sheet -> 'Show warning when editing this range'
-5. File -> Publish to the web -> Publish content & settings -> `public` + Automatically republish
-6. [bit.ly](http://bit.ly) - Shorten the url
+4. Hide required columns
+5. `public` -> Tools -> Protect Sheet -> 'Show warning when editing this range'
+6. File -> Publish to the web -> Publish content & settings -> `public` + Automatically republish
+7. [bit.ly](http://bit.ly) - Shorten the url
     * Signup (free) will allow you to manually name your short links
-7. Distribute link to students and parents
+8. Distribute link to students and parents
 
-* [IMPORTRANGE](https://support.google.com/docs/answer/3093340?hl=en) interlink sheets
+### Technique 2: Automatic progress indicator
+
+* Automatic progress `%` and on-target feedback
+    * `start_date`, `due_date`, `=NOW()`, `days_total`, `days_elapsed`, `% elapsed`
+    * `expected progress %` = (`target` * `% elasped`)
+    * `on_track` = `current_progress %` - `expected progress %`
+
+### Technique 3: Google Docs - Linking separate sheets
+
+* [IMPORTRANGE](https://support.google.com/docs/answer/3093340?hl=en) interlink separate sheets
     * `=IMPORTRANGE("https://docs.google.com/spreadsheets/d/1LRn7KCvpGXhnYlRnEZeU19xQ4Zo39xjn5KBjWH-_x0E/edit#gid=1822394775", "Unit1!A1:S32")`
     * Great for linking a whole departments sheets?
+    * Can't currently be done with [Excel Online](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_excel-mso_other-mso_o365b/office-365-excel-workbook-share-only-one-worksheet/16fdf6b5-4876-4e0f-9b07-629a3c2ef00e?auth=1)
+
+### Supporting skills
+
+* Assuming student teachers are familiar 
+    * with absolute cell references
+    * conditional formatting
+    * comments
+* `Tools` -> `Protect sheet` -> `range`
+    * This is really important!
+* Copy + Paste (special) - formatting only (only within same workbook)
+* Random ID's ()
+    * ```python
+        import random, string
+        def random_string(num_letters=4):
+            return ''.join(random.choices(string.ascii_uppercase + string.digits, k=num_letters))
+
+        random_strings = [random_string() for i in range(16)]
+        print("\t".join(random_strings))
+      ```
+
+### Other ideas?
+
 * [SPARKLINE](https://gsuitetips.com/tips/sheets/bring-some-sparkline-sparkle-to-your-google-sheet/) Creates a miniature chart contained within a single cell.
     * [Docs](https://support.google.com/docs/answer/3093289)
 * [FLOOKUP](https://news.ycombinator.com/item?id=22083533) - possible useful addon
     *  Flookup is a fuzzy matching add-on that helps you manage text that is less than a 100% match
-
-```python
-import random, string
-def random_string(num_letters=4):
-    return ''.join(random.choices(string.ascii_uppercase + string.digits, k=num_letters))
-
-random_strings = [random_string() for i in range(16)]
-print("\t".join(random_strings))
-```
-
-Activity: [Teacher Workbook Example](https://docs.google.com/spreadsheets/d/1LRn7KCvpGXhnYlRnEZeU19xQ4Zo39xjn5KBjWH-_x0E/edit?usp=sharing)
-
-Can't currently be done with [Excel Online](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_excel-mso_other-mso_o365b/office-365-excel-workbook-share-only-one-worksheet/16fdf6b5-4876-4e0f-9b07-629a3c2ef00e?auth=1)
-
-Google Sheet: Grade Book Template (compare against average of class)
+* All data in a GoogleSheet can be accessed via a JSON api
+    * example of use in frontend web - [googleSheets.js](https://github.com/calaldees/barcampCanterbury/blob/b91b9f0748342d6e21ba95db83b21a58ce5aa933/barcampcanterbury.com/data/googleSheets.js#L1)
+        * Top row is heading name
+        * Each row becomes a dictionary/object
 
 Todo
 ----

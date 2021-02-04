@@ -4,8 +4,9 @@
   "editor.wrappingIndent": "indent",
   "editor.overviewRulerBorder": false,
   "editor.lineHeight": 24,
+  "editor.wordBasedSuggestions": false,
   "[markdown]": {
-    "editor.quickSuggestions": true
+    "editor.quickSuggestions": false
   },
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
@@ -21,6 +22,5 @@
   "foam.edit.linkReferenceDefinitions": "withExtensions",
   "foam.openDailyNote.directory": "journal",
   "foam.openDailyNote.titleFormat": "fullDate",
-  "markdown.extension.list.indentationSize": "inherit",
-  "editor.wordBasedSuggestions": false
+  "markdown.extension.list.indentationSize": "inherit"
 }
