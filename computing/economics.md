@@ -1,1 +1,0 @@
-[Monopoly was invented to demonstrate the evils of capitalism](https://www.bbc.com/worklife/article/20170728-monopoly-was-invented-to-demonstrate-the-evils-of-capitalism)

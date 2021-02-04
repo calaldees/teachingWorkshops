@@ -1,5 +1,0 @@
-emulators
-=========
-
-what is emulation?
-

@@ -1,2 +1,0 @@
-Japanise programmers
-Spanish programmers
