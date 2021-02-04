@@ -454,6 +454,10 @@ https://data.cambridgeshireinsight.org.uk/dataset/mill-road-project-traffic-sens
 Data formats
 [Indoor Mapping Data Format](https://register.apple.com/resources/imdf/)
 
+Examples of use of data
+* [desirable-streets](https://senseable.mit.edu/desirable-streets/) in Boston
+    * Beautiful visual web presentation of data
+
 
 Discipline's
 ------------
