@@ -25,7 +25,9 @@ https://coggle.it/diagram/YBqWFgdZHsh_imTr/t/computing-subject-pedagogy
 Knowledge bases and collaboration tools (20min)
 ---------------------------------------
 
-Using tools to create long standing group artefacts
+* Using tools to create long standing group artefacts
+* Empowering collaborative artifact creation to aid learning
+
 
 ### Personal Knowledge Base
 
@@ -57,6 +59,7 @@ Class's using a wiki to build knowledge throughout a course
     * Different ways of solving a problem 
 * Links to useful resources
 * Let them use the knowledge base for low-stake tests/starters (if they use it, then they will improve it)
+* Publicly visible is empowering - other people could see it - it has a use
 
 * Examples
     * [WikiBooks: A-level Computing/AQA 2015 spec](https://en.wikibooks.org/wiki/A-level_Computing/AQA)
@@ -75,3 +78,5 @@ Class's using a wiki to build knowledge throughout a course
 Here is a list of mine
 * [hackmd.io/teachingResources/links.md](https://hackmd.io/TxywBvj9Ty6EBtL4u8S2Fw)
 What tools could we use to allow other computing teachers to collaborate on this list?
+
+Again - in summary - How do we leverage these collaborative tools in a classroom
