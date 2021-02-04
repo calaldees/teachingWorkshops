@@ -387,6 +387,7 @@ Growth Mindset
         * The intervention had less effect if the school was already effective (most students did well there), and if peer norms about achievement were negative.
         * I can't fault the study. Worth noting that this was designed by a stellar team - but it's scalable and powerful: 0.1 SD increase in GPA for an hour's intervention. So I'm having to update: growth mindset is more promising than I'd thought
 * Growth Mindset does not work
+    * [Is growth mindset bollocks?](https://learningspy.co.uk/psychology/growth-mindset-bollocks/)
     * [The one variable that makes growth mindset interventions work](https://russellwarne.com/2020/01/03/the-one-variable-that-makes-growth-mindset-interventions-work/) Russell T. Warne 2020
         * > Then I discovered the one characteristic that the studies that support mindset theory share and that all the studies that contradict the theory lack: Carol Dweck. Dweck is a coauthor on all three studies that show that teaching a growth mindset can improve students’ school performance. She is also not a coauthor on all of the studies that cast serious doubt on mindset theory.
     * [Debate Arises over Teaching “Growth Mindsets” to Motivate Students](https://www.scientificamerican.com/article/debate-arises-over-teaching-growth-mindsets-to-motivate-students/)
@@ -405,7 +406,11 @@ Theory of Disuse
 
 
 
+Summary
+-------
 
+* [Summary of Learning infographic](https://twitter.com/MissH_biology/status/1356344242642288643) Feb 01 2021
+    * (twitter post, I downloaed the pdf)
 
 
 ### Further Reading

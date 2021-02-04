@@ -297,6 +297,19 @@ Read the various _Verbs_ and their extended descriptions that relate to teaching
 * Discuss the task created (15 min)
 
 
+Research
+--------
+
+* [Cambridge Computing Education Research Symposium](https://www.raspberrypi.org/cambridge-computing-education-research-symposium/)
+* [computing-education-research-online-seminars](https://www.raspberrypi.org/computing-education-research-online-seminars/)
+    * Join us at our free online research seminars
+
+Journals
+--------
+
+* [Journal of Computer Science Integration](https://inspire.redlands.edu/jcsi/)
+    * [Engaging Equity Pedagogies in Computer Science Learning Environments](https://inspire.redlands.edu/jcsi/vol3/iss2/1/)
+
 
 Unsorted
 ========
@@ -316,10 +329,27 @@ Unsorted
         * https://mermaid-js.github.io/mermaid-live-editor/
 
 
+Autonmy over - academic railroad
+Creativity
+
+> Tackling equity requires an understanding of the root cause of outcome disparity within our society
+
+Parents cant help - but they need to know where to get help
+what if noone at home knows how to use a computer
+build bridges with familiys - ask them how would they like to be engaged?
 
 
+You cant help the student without helping the family - we need to engage with the failiy as a whole
 
+What are the students and their communities doing at home?
+Students as change agents - they can change their compunites
 
+https://dotanddashdesign.com/
+
+non competion hiearachy wars
+how do you make it less hierachical 
+
+lunchtime? what are the other profetionals doing?
 
 
 Concept Maps

@@ -21,5 +21,6 @@
   "foam.edit.linkReferenceDefinitions": "withExtensions",
   "foam.openDailyNote.directory": "journal",
   "foam.openDailyNote.titleFormat": "fullDate",
-  "markdown.extension.list.indentationSize": "inherit"
+  "markdown.extension.list.indentationSize": "inherit",
+  "editor.wordBasedSuggestions": false
 }

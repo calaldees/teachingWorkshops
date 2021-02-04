@@ -694,6 +694,9 @@ PGCE: Subject Pedagogy Assignment has been finalised
 Unused
 ======
 
+* [The Case Against Education](https://learningspy.co.uk/featured/the-case-against-education/) David Didau
+    * Education dose not help economically in the long term
+
 * [Computer Science Unplugged](https://csunplugged.org/en/)
 
 

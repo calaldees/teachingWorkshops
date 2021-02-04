@@ -4,6 +4,9 @@ Resources
 Teaching Resources
 ------------------
 
+* [Flowgorithum](http://www.flowgorithm.org/)
+    * free beginner's programming language that is based on simple graphical flowcharts. 
+    * Flowgorithm can interactively convert your flowchart to over 18 languages. These include: C#, C++, Java, JavaScript, Lua, Perl, Python, Ruby, Swift, Visual Basic .NET, and VBA (used in Office). 
 * [Crash course computer science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 * [Oak National Academy - The National Academy](https://www.thenational.academy/)
     * [Key Stage 3, Computing Units](https://classroom.thenational.academy/subjects-by-key-stage/key-stage-3/subjects/computing)
@@ -64,6 +67,13 @@ Teaching Resources
 * [Girls Who Code](https://girlswhocode.com/en-uk)
     * [Code At Home Activities](https://girlswhocode.com/programs/code-at-home)
         * Free computer science activities for students, educators, and parents
+* [Microsoft MakeCode](https://www.microsoft.com/en-us/makecode)
+    * microbit
+    * circitplayground
+    * minecraft
+    * arcade
+    * lego mindstorm
+    * chibi chips
 * [MIT App inventor 2](https://appinventor.mit.edu/explore/teach)
     * [Setting Up App Inventor](https://appinventor.mit.edu/explore/ai2/setup) - web based editor + run on android app over wi-fi
     * Screen designer and block code
@@ -161,7 +171,7 @@ Teaching Resources
 * [CodeIt](http://code-it.co.uk/) Phil Bagge [@baggiepr](https://twitter.com/baggiepr)
     * KS1 to KS3 expert
 * [CS For All Teachers](https://www.csforallteachers.org/)
-
+* [MakeyMakey](https://makeymakey.com/) - make controllers out of anything
 * [Mike Gershon - Resources for teachers](https://mikegershon.com/resources/)
     * Starter Generator
     * Plenary Producer

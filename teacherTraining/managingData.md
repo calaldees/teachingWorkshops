@@ -13,15 +13,21 @@ Use of School Data
 ------------------
 
 [The 6 golden rules of pupil progress data](https://www.tes.com/news/6-golden-rules-pupil-progress-data)
+> Used badly, pupil progress data can do more harm than good 
 
-> Used badly, pupil progress data can do more harm than good
+<sub>warns the director of middle leaders’ union NAHT Edge</sub>
 
 1. Focus on assessment first
+    * Confidence in the assessment?
 2. Minimise the time spent collecting and analysing data
+    * remember that every minute spent collecting and analysing data is a minute that could be spent doing something about the very issues it reveals
 3. Don’t lose sight of the wood for the trees
+    * Schools are incredibly data rich, perhaps too much so
 4. Be very careful of over-analysing small data sets
 5. Lower the stakes
+    * The Tyranny of Metrics
 6. Use data to raise questions rather than draw conclusions
+    * “Why might there be an issue with maths progress in Year 5?”
 
 [DfE Blog - Making time to use data effectively](https://teaching.blog.gov.uk/2016/04/01/making-time-to-use-data-effectively/)
 
@@ -44,19 +50,29 @@ Ofsted Reports & Performance Data
 Lessons observations have been proven to be an opinionated unreliable way to inspect schools.
 Ofsted now focuses of looking at the schools data and evidence of _real learning_
 
-RAISEonline data cometary - [National College for School Leadership - Understanding and using data](https://www.nationalcollege.org.uk/sites/default/files/sites/default/files/level3udeip-resunderstandingdata.pdf) pg42+ for KS3->KS4
 RAISEonline replaced by _Analyse School Performance_ in September 2017
 
-[Using Ofsted’s inspection data summary report](https://www.gov.uk/government/collections/using-ofsteds-inspection-dashboard) - Summary pg?
+[What is RAISEonline data – and why should it be publicly available?](http://helpmeinvestigate.com/education/2011/12/what-is-raiseonline-data-and-why-should-it-be-publicly-available/)
+    There’s a vast store of information about our schools, but access is limited. 
+
+[Analysing school performance: NGA (National Govenance Association)](https://www.governor.support/wp-content/uploads/2018/08/ASP-guidance_final-2018.pdf)
+A guide for governing boards on the DfE data service for schools
+
+
 
 [Ofsted - Inspections and performance of education providers](https://www.gov.uk/education/inspections-and-performance-of-education-providers)
+[Using Ofsted’s inspection data summary report](https://www.gov.uk/government/collections/using-ofsteds-inspection-dashboard)
 
 * Activity: Find the Ofsted report for your school
 * Activity: Compare your school with other local school
 
-* Kent _believes_ in choice. 50% of school are ghrama schools. When comparing schools against LEA average is futile. What do you think that does to statistics? Should not affect *Progress8*.
+* Kent _believes_ in choice. 50% of school are grammar schools.
+    * What do you think that does to performance statistics?
+    * Should not affect *Progress8*
 * Schools can have a negative Progress8 and still be classed as _good_
 
+* Question to the group:
+    * What does this mean for your career and you?
 
 ### Attainment8 Progress8
 [Secondary accountability measures (including Progress 8 and Attainment 8)](https://www.gov.uk/government/publications/progress-8-school-performance-measure)
@@ -64,7 +80,7 @@ Progress 8
 Attainment 8
 Grade point score
 * Maths (2 multiplyer)
-* English (Highest of Language or Literiture) (*2 multiplyer)
+* English (Highest of Language or Literature) (*2 multiplier)
 * EBACC: Best 3 subjects from (Science, Computer Science, Geography, History, MFL)
 * Other: (vocational, lower-english, Art, DT, Drama, PE)
 
@@ -72,12 +88,12 @@ Grade point score
 ExpectedAttainment8 KS2Score-> Lookup
 (Attainment8 - ExpectedAttatinment8) / 10buckets = Progress 8
 
-[Progress8](https://www.youtube.com/watch?v=2qeQxQ06TXw) Explanation
+[Progress8](https://www.youtube.com/watch?v=2qeQxQ06TXw) 5min Explanation
 
 
 
-Organisations
--------------
+Organisations with Products
+---------------------------
 
 * [Centre for Education and Monitoring](https://www.cem.org/)
     * > CEM is one of the largest and longest established providers of formative assessments for children of all ages, from early years to post 16. CEM’s methods are research-based, evidence driven and market-tested, built on a foundation of non-commercial academic practice.
@@ -86,6 +102,7 @@ Organisations
         * > Yellis gives us a benchmark as to see how our students compare with others of the same age nationally.
 * [Fisher Family Trust](https://fft.org.uk/fft/target-setting/)
     * > FFT is a non-profit organisation established in 2001 as part of the Fischer Family Trust. We are focussed on providing accurate and insightful information to schools which enables pupils to achieve their full potential and schools to improve.
+    * [Example KS4 FFT Target SettingDashboard](https://mk0fftm7irhiawh7i.kinstacdn.com/wp-content/uploads/FFT-Aspire-Example-KS4-Target-Setting-reports.pdf)
 
 
 Special Purpose Software
@@ -94,8 +111,10 @@ Special Purpose Software
 Some schools employ 3rd party software to help with data management.
 
 * [Alps](https://alps.education/how-alps-works/)
+* [SMID](http://www.smidreport.com/) - Progress8 Software Example
+    * Scroll down to SMID Tools and see the videos
 
-Personal Experience: Most of these systems are flawed at the data capture level. Teacher time and data capture methods are always of secondary importance compared to the graphs that senior leaders can get. Sadly the data is only use ONCE it's captured.
+Personal Experience: Most of these systems are flawed at the data capture level. Teacher time and data capture methods are always of secondary importance compared to the graphs that senior leaders can get.
 
 
 Is data effective?
@@ -149,8 +168,17 @@ Is the data helping?
 They could also compare their school systems with the WRG recommendations at:
 
 [Commission on Assessment Without Levels: final report](https://www.gov.uk/government/publications/commission-on-assessment-without-levels-final-report) September 2015
+>  It should be clear what the aims of assessment are and how they can be achieved without adding unnecessarily to teacher workload.
+
+> A good assessment policy will be clear about how assessment outcomes will be used, with a view to collecting data only where necessary and ensuring assessment outcomes are communicated effectively to pupils, parents and other teachers. 
+
+> Ofsted is very clear that unnecessary or extensive collections of marked pupils’ work are not required for inspection purposes.
 
 > there is no intrinsic value in recording formative assessment; what matters is that it is acted on
+
+> 7. Is it necessary to record the information gained from this assessment? And if so, how can this be done most efficiently?
+>   * For example: do not assume that everything needs to be recorded. Identify which assessment outcomes are essential to record for the teacher pupil, parent or carer and keep it simple.
+>   * For example: do not assume that formative assessment must be recorded using the same scale or terminology as summative assessment
 
 
 Workload Reform
@@ -182,15 +210,28 @@ Perception
     * Signup (free) will allow you to manually name your short links
 7. Distribute link to students and parents
 
-* [IMPORTRANGE](https://support.google.com/docs/answer/3093340?hl=en) interlink sheets.
-* [SPARKLINE](todo)
+* [IMPORTRANGE](https://support.google.com/docs/answer/3093340?hl=en) interlink sheets
+    * `=IMPORTRANGE("https://docs.google.com/spreadsheets/d/1LRn7KCvpGXhnYlRnEZeU19xQ4Zo39xjn5KBjWH-_x0E/edit#gid=1822394775", "Unit1!A1:S32")`
+    * Great for linking a whole departments sheets?
+* [SPARKLINE](https://gsuitetips.com/tips/sheets/bring-some-sparkline-sparkle-to-your-google-sheet/) Creates a miniature chart contained within a single cell.
+    * [Docs](https://support.google.com/docs/answer/3093289)
 * [FLOOKUP](https://news.ycombinator.com/item?id=22083533) - possible useful addon
+    *  Flookup is a fuzzy matching add-on that helps you manage text that is less than a 100% match
+
+```python
+import random, string
+def random_string(num_letters=4):
+    return ''.join(random.choices(string.ascii_uppercase + string.digits, k=num_letters))
+
+random_strings = [random_string() for i in range(16)]
+print("\t".join(random_strings))
+```
 
 Activity: [Teacher Workbook Example](https://docs.google.com/spreadsheets/d/1LRn7KCvpGXhnYlRnEZeU19xQ4Zo39xjn5KBjWH-_x0E/edit?usp=sharing)
 
 Can't currently be done with [Excel Online](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_excel-mso_other-mso_o365b/office-365-excel-workbook-share-only-one-worksheet/16fdf6b5-4876-4e0f-9b07-629a3c2ef00e?auth=1)
 
-Google Sheet: Grade Book Template (compare aginst average of class)
+Google Sheet: Grade Book Template (compare against average of class)
 
 Todo
 ----
@@ -199,8 +240,8 @@ https://analytics.ofqual.gov.uk/
 
 Data teacher meme
 
-Hard data is what - Quantative
-Soft data is why - Qualative
+Hard data is what - Quantitative
+Soft data is why - Qualitative
 SIMS
 Pupil Premium - stigma - wider
 Behaviour logs - incomplete?
@@ -212,7 +253,7 @@ Data
 Google forms
 
 Seating plan - by ability - data?
-hard infomation to high achivers - simpler imformation to weaker students
+hard information to high achievers - simpler information to weaker students
 SIMS behaviour alerts
 
-[SMID](http://www.smidreport.com/#England_measures) - Progress8 Software Example
+

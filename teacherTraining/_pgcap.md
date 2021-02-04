@@ -496,6 +496,9 @@ Chapter 13 by Vanessa Dye 'Reflection, reflection, reflection, I'm thinking all 
 
 
 #### Models 
+
+[Guide to models of reflection – when & why should you use different ones?](https://lifelonglearningwithot.wordpress.com/2016/05/02/different-models-of-reflection-using-them-to-help-me-reflect/)
+
 * (Bond 1985) Model - 3 pieces of paper - Experience, Reflection, Learning
 * (Kolb 1984) Model [Experiential learning: experience as the source of learning and development](http://www.vlebooks.com/Vleweb/Product/Index/836843) Kolb, David A. 2014
     * ```mermaid
@@ -753,3 +756,52 @@ Learning outcomes
 Constructive alignment
 Sessional evaluation
 Formative assessment
+
+
+
+ETAS
+====
+
+Other perspectives
+
+* [Six Thinking Hats](https://www.youtube.com/watch?v=oHiwpz7r4wY)
+* [Edward de Bono - discusses the Six Thinking Hats®](https://www.youtube.com/watch?v=o3ew6h5nHcc)
+    * We have used argument to disucss - it is primitve
+
+
+* Control Hat
+    * Manages thinking
+    * Chair meeting
+* Information 
+    * Focus on the faces
+* Safety Hat
+    * Identify risks and problems - reasons must be given
+* Optimisum Hat
+    Identify benefits and value - reasons must be given
+* Green Hat
+    * Exploring ideas
+* Feeling Hat
+    * Intuition and gut instinct - no reasons needed - keep it short
+
+Adgenda - Team meeting - Must wear the same hat at the same time
+* Blue - difine purpose
+* Red - how is everyone
+* White - Share information with team
+* Yellow - What went well
+* Black - what challenges did we have
+* Green - share ideas
+* Red - how do we feel now?
+* Blue - What actions and next steps
+
+Session 1
+---------
+
+Pebbelpad
+
+* Reflection
+* Learning Technology
+* Inclusion
+
+Just cant cope with login and redirect to link
+Lost connection
+Cant see links in chat - they loose chat

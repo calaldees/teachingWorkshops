@@ -237,6 +237,9 @@ Part of safeguarding
 * Loosing interest in personal aspirations
 * 
 
+[Fundamental British Values: What are they and how should we teach them?](https://learningspy.co.uk/featured/fundamental-british-values-teach/) David Didau
+
+
 ### more
 
 * [TES: Teach that 'no platforming' is 'harmful', schools told](https://www.tes.com/news/teach-no-platforming-harmful-schools-told) - Government RSE guidance also says teachers should explain 'harm' caused by 'cancel culture' and the importance of freedom of speech

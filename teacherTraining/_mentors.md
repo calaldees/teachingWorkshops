@@ -352,6 +352,15 @@ spot the errors in the code?
 * Bristol Online Survey (BOS) - Professional Mentor Link to online survey - deadline last week
    * Assessment before christmass - partenship office
 
+---
+
+Essential document proformas - https://cccu.padlet.org/sharron_mackenzie1/nsp03wkvd1u5zx0z
+These include Lesson Pack -> (Lesson Plan, Lesson Observation, Lesson Evaluations) - with the goal of attempting 6 observations before moving to placement 2
+
+Assistance with MPR1 (from mentor website) - http://ccccumentors.org.uk/secondary/documentation.php#GS
+Computer Science Curriculum Guidance (for a list of the university sessions) - http://ccccumentors.org.uk/files/secondary/Documentation/subject-documentation/computing/Computer%20Science%20Curriculum%20Guidance.docx
+
+
 
 Other Documents
 ===============

@@ -10,6 +10,7 @@ Teaching Tools
     * video, 360vr, animations
 
 * Browser Based
+    * [coggle.it](https://coggle.it/) - mind maps
     * [hypothes.is](https://web.hypothes.is/) - Annotate the web, with anyone, anywhere
     * [Wireflow](https://wireflow.co/) - Open source collaborative website flow diagrams
     * [whiteboard.fi](https://whiteboard.fi/)
