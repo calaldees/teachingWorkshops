@@ -660,6 +660,7 @@ You tell me
 * Attendance? 
     * moving home? devoice?
 * Social Services? foster?
+    * [Throwaway Kids: We are sending more foster kids to prison than college](https://www.kansascity.com/news/special-reports/article238206754.html)
 * Number of excursions/interventions?
     * Detentions?
 
