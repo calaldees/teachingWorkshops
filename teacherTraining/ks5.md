@@ -11,27 +11,31 @@ Keystage 5 - A-Level Computing
 Your Subject Knowledge
 ---------------------
 
-You wont be able to get 100% on an A-Level paper. I can't
-A-Level is the first year of a degree (All university's teach it all again)
-Reassurance: Your Computing skills ARE sufficient for 90% of all your professional interactions.
-You CAN do this job.
-What you need is the right professional approach.
-The students need to know you that you can read/learn/grow.
-If you pretend to know it all, you will fall.
+* You wont be able to get 100% on an A-Level paper. I can't.
+* A-Level is the first year of an undergrad degree (All university's teach the content all over again)
+* Reassurance: Your Computing skills ARE sufficient for 90% of all your professional interactions.
+* You CAN do this job.
+* What you need is the right professional approach.
+* The students need to know you that you can read/learn/grow.
+* If you pretend to know it all, you will fall.
 
 Discussion:
-Teachers are not expected/required to sit the GCSE's and A-Level exams each year along with their students.
-Would this be important requirement? would this ongoing feedback be valuable?
-Why is a teacher taking exams not common ongoing practice?
-On an application for teacher training, why is passing the GCSE in May/June-Session not a requirement?
+* Teachers are not expected/required to sit the GCSE's and A-Level exams each year along with their students.
+* Would this be important requirement? would this ongoing feedback be valuable?
+* Why is a teacher taking exams not common ongoing practice?
+* On an application for teacher training, why is passing the GCSE in May/June-Session not a requirement?
+
+Proposal for future years. This uni registering a center to enter candidates
 
 
 Time
 ----
 
-A-Levels take 360 guided learning hours per subject over the duration of the course (normally two years)
-4 to 5 Hours a week contact?
-A single A-Level year-group is 25% of a teachers full-time timetable.
+* A-Levels take 360 guided learning hours per subject over the duration of the course (normally two years)
+    * 180 guided learning hours a year
+    * 4 to 5 hours a week contact?
+    * A single A-Level year-group is 25% of a teachers full-time timetable
+        * With both 12 and 13 that is 50% of a timetable
 
 
 History of the A-Level
@@ -39,30 +43,38 @@ History of the A-Level
 
 * Pre 2000 - Overlap between ICT and Computing as a single subject
 * 2000-ish
-    * AS/A-Level structure was solidified
-        * ICT (aka Office Studies) was split into a separate subject
+    * A-Level ICT (aka Office Management Studies) was split into a separate subject
     * 50% AS - 50% A2
-    * AS used to be really easy (because could not rely on previous learning)
+    * AS used to be really easy (because could not rely on any previous learning)
     * A2 Practical project (30% of A2 -> 15% of A-Level) - was utterly ridiculous difficulty - the jump was too great
+        * Beginning of AS - knowing nothing -> end of A2 program complete GUI system for user.
+        * Most students failed this
+    * Most students concentrated on 100% theory papers
 * 2008-ish
-    * Nationwide AS _practical exam_ supporting _multiple languages_ (AQA)
+    * Nationwide AS only _practical exam_ supporting _multiple languages_ (AQA)
 * 2016 - Spring clean
     * 29% AS - 71% A2
     * AS *and* A2 Practical Exam (AQA)
-    * A2 Project dramatically reduced/simplified practical (14% of A-Level)
+    * A2 Project dramatically reduced/simplified practical (14% of A-Level) + allowed research/experiments rather than _complete user products_
 
 
 Courses
 -------
+
+GCSE OCR- 53037 AQA- 10150 Edexcel- 4667 
 
 * [AQA Computer Science 7516-7517](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517)
     * [spec-2015](http://filestore.aqa.org.uk/resources/computing/specifications/AQA-7516-7517-SP-2015.PDF)
 * [OCR h046-h446](https://www.ocr.org.uk/qualifications/as-and-a-level/computer-science-h046-h446-from-2015/)
     * AS[spec-2019](https://www.ocr.org.uk/Images/170845-specification-accredited-as-level-gce-computer-science-h046.pdf)
     * A2[spec-2019](https://www.ocr.org.uk/Images/170844-specification-accredited-a-level-gce-computer-science-h446.pdf)
+* [cambridgeinternational - computer-science-9618](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-computer-science-9618/)
+* [eduqas](https://www.eduqas.co.uk/qualifications/computer-science-as-a-level/#tab_overview)
+* More are possibly coming?
 
-Live by the spec.
-Give spec to students printed (4 to a page + Duplex) [pages 38-89]
+* Live by the spec. Play spec bingo.
+* Give spec to students printed (4 to a page + Duplex)
+    * AS=30pages -> 4 sheets A4 or A2=60pages -> 8 sheets of A4
 
 * [AQA/OCR Comparison](https://www.aqa.org.uk/resources/computer-science-and-it/as-and-a-level/computer-science-7516-7517/plan/aqa-or-ocr)
     * AQA is explicitly clear what is in the spec - practical exam is genuine application
@@ -85,26 +97,30 @@ Course Layout
         * Give all practical activities at beginning of year (more below)
         * Have project work time (allow them to tackle tasks in any order and self direct)
         * Homework becomes more project time
-            * They CANNOT develop enough skill with only classroom time
+            * They will not be able to develop enough skill with only classroom time. If you do not see evidence of working outside class they will fail.
         * Use this to consult 1-2-1 with each student + monitor + record keep + facilitate pairing (pyramid of support) + coach
     * Bring class together for structured theory
         * Spec bingo! (with dates)
-        * Exam question the shit out of them
+        * Exam question them to death - these are open talking points
             * Teach them how to use the spec, passed-papers, examiners report (more below)
 
 
-AS Practical Activities
------------------------
+Practical Activities
+--------------------
 
-Wherever possible use practical to teach theory
-Have tasks setup at beginning of year and given to students. These could just be a sentence for an entire project.
+* Wherever possible use practical to teach theory
+* Have tasks setup at beginning of year and given to students - no surprises
+* These could just be a sentence for an entire project
 
 * Examples of programming exercises
     * https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf
     * https://www.ocr.org.uk/Images/400714-algorithm-challenge-booklet-teachers-guide.docx
-    * unit1-projects [md](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/docs/unit1-projects.md)[odt](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/docs/unit1-projects.odt)-old-example-for-layout
+    * unit1-projects [md](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/docs/unit1-projects.md) [odt](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/docs/unit1-projects.odt)-old-example-for-layout
 
 TASK: Look at theory spec - define a practical activity for a spec point
+
+* It is so important to have the students can self direct
+* Your lesson plan becomes a single line _Project Session_
 
 
 Passed Papers (Theory)
@@ -128,13 +144,17 @@ TASK: Do a question + Use Mark Scheme + Examiners report
     * Just say `AQA 2016 AS Jun Paper2 Q6`
         * Students can find it themselves (teach them to setup bookmarks, download, should take them 60 seconds)
             * Don't rename the files (the exam board named them that way for a reason)
-    * Use them as starters/plenary
+    * Use them as starters(even to introduce topic)/plenary
         * You can set the same question multiple times over the year, (interleaving)
             * Helps reinforce learning
             * If it's a previous topic - spacing and interleaving topics is proven to be an effective leaning technique
     * Use them as homework (to then accelerate a starter?)
     * Every lesson should have one
         * Repeat the QP->MS->ER again and again and again
+
+Your lesson plan becomes 
+* `AQA 2016 AS Jun Paper2 Q6`
+* https://conwaylife.com/wiki/Run_Length_Encoded
 
 
 AS -> A2 Progression
@@ -147,40 +167,64 @@ You *will* need to use multiple languages
 * SQL
 * REST Server - API JSON/XML
     * Example Task: Generate RSS-feed and json from twitter
+* Karnaugh maps - Full Adder D Type Flip Flops - [Demorgans](https://www.csus.edu/indiv/p/pangj/class/cpe64/ademo/l1_demo_demorgan.pdf)
+    * > "break the line, change the sign" (operation)
+* A*
 
 
-Keystage 5 - A-Level Computing - Part 2
-=======================================
+AS practical exam question (Async) - 15 min
+----------------------------------
 
-TASK: Tell me about A-Level Computing ...
+A-Level exams require programming fluency. Your students will be put under serious pressure to perform in intense time periods. You will need to provide suitable timed mock experiences for them.
 
-* Objective
-    * To understand practical assessment for for AQA AS examination
-    * Explore A2 Theory Topics with practical programming examples
-        * Object Oriented
-        * Functional Programming
-    * Consider taking Computing beyond the classroom
+* Are you at AS level standard?
+    * Create a a new [repl.it](https://repl.it/) or have your own IDE ready in a language that you are familiar with
+    * Set a timer for 10min - Take a deep breath - look at the question below
+    * [AQA 2016 Jun Paper1](https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2016/june/AQA-75161-QP-JUN16.PDF) Q5.1 (8 marks) on page 8
+        * This question is 8 marks out of 75 with an exam of 90min -> 10min
 
 
-Passed Papers (Practical)
+AS Specimen Paper (Async) - 1 hour
 -------------------------
 
-AQA Paper 1 - Practical
-Pre Release -> Exam
+* AQA Paper 1 is a practical programming exam
+* Students are given a _Pre Release_ program 3 months before the exam
+* You and your students will become familiar with the code and hypothesise on possible new features and bugfix's that might be requested in the exam
+* Your students will expect you to construct a mock exam for them
+* This Async task will attempt to simulate this process
 
 * AQA Paper 1
-    * Warmup question `AQA 2016 Jun Paper1 Q5` (use the language_cheat_sheet)
     * Specimen - PreRelease Task
     * [AQA Assessment resources](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517/assessment-resources)
         * [Paper 1: Specimen preliminary material](http://filestore.aqa.org.uk/resources/computing/AQA-75171-SPM.PDF)
         * [Paper 1 - Specimen skeleton programs (A-level): Text files](http://filestore.aqa.org.uk/resources/computing/AQA-75171-SSP.ZIP)
+            * repl.it [java](https://repl.it/@calaldees/MonsterJava) [c#](https://repl.it/@calaldees/MonsterC#) [python3](https://repl.it/@calaldees/MonsterPython)
 
-TASK: Monster task - what could they ask? - Define training tasks for students - Fire up program (python?)
+TASK:
+1. Read the _preliminary material_ description - Understand the problem (like knowlege the training board setup) (10min)
+2. Run Monster - get a feel for what it does (5 min)
+3. Look at code (10 min)
+    * identify variable conventions, top level state, objects?
+4. What could they ask in an exam? Think of 3 mock exam questions you could set your students ... (15 min)
+    1. Define 1 theory/observation exam question
+    2. Define 1 easy request for the students to modify the code
+    3. Define 1 hard request to modify the code (probably adding a new feature)
+5. Read the actual exam question
+    * Please don't read this before you have had a chance to come up with your own questions - I'm trying to simulate in a very compressed time-frame, what you might be required to do when teaching this course
+    * [75171 Specimin Question Paper](https://filestore.aqa.org.uk/resources/computing/AQA-75171-SQP.PDF) Question 8+ from page 18
+6. Extension (try to answer the real question)
+    * This is to give you a feel for the time pressure the students might feel at this point
 
-The quality of the code written by the exam-board is awful - however!
+Some consider the quality of the code written by the exam-board is weak - however ...
 * The exam-board need to keep the same structure/principles across multiple languages so the questions can be consistent
-* The code quality of the code that professional programers work with throughout their career is often of poor quality
+* The code quality of the code that professional programmers work with throughout their career is often of poor quality
     * Good programmers can work-with/understand/improve bad code
+
+My Notes:
+* Lamp
+* Obstacles
+* Save
+
 
 AQA Module Weight
 -----------------
@@ -251,21 +295,30 @@ CPD
 Practical Techniques
 --------------------
 
-* Python
-    * Debugging
-        * ```python
-            # at point of debugging
-            import pdb ; pdb.set_trace()
-        ```
-    * [Doctests](https://docs.python.org/2/library/doctest.html)
-        * Great for marking - [separate test file](https://docs.python.org/3.9/library/doctest.html#simple-usage-checking-examples-in-a-text-file)
+* Debugging (show them how to use a debugger)
+    * Breakpoints - step line at a time - watch variables
+    * ```python
+        # at point of debugging
+        breakpoint()
+      ```
+* Automated tests - Write the tests first!
+    * Python has [doctests](https://docs.python.org/3/library/doctest.html)
+        * Great for marking - [separate test file](https://docs.python.org/3/library/doctest.html#simple-usage-checking-examples-in-a-text-file)
         * ```python
             # At end of python file
             import doctest; doctest.testmod()
-        ```
+            ```
         * ```bash
             python -m doctest -v MY_FILE.py
-        ```
+            python -m doctest -v example.txt
+            ```
+* Version Control
+    * Get the whole class to have all their code publicly visible
+        * repl.it's? github?
+    * This is so important for
+        * Enhancing Collaboration
+        * You can always see their progress
+            * You have an audit trail of work
 
 
 A-Level Topic Notes
@@ -315,3 +368,25 @@ Plenary
 
 * Discuss possible concerns for teaching A-Level
 * Identify action points
+
+
+Unsorted
+========
+
+
+
+Questions for exam board speaker
+--------------------------------
+
+Some ideas ...
+ - What exam board support is available for you?
+ - Some students will struggle to think of a project - Suggest 3 possible year 13 projects (verify these with the guest speaker)?
+ - Are there any topics in the spec that you would struggle with - what are they? How do they compare with the knowledge areas of the rest of the group? What topics are weaker nationally?
+ - How do you think the mode of study will be different from KS4 - What will the transition look like? Is there any advice for this?
+
+
+* With the introduction of GCSE computing, it is expected that more students have exposure and high level of computing skill. What has happened to A-Level intake and attainment?
+    * Higher? More people?
+* How do you see the specification changing in future years?
+* How do you see the assessment changing in future years?
+* 

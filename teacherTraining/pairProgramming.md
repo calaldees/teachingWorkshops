@@ -53,6 +53,14 @@ ITT CCF 4.10
 
 ### Rules/Notes/Guide for Pair programming 
 
+* [Summary of A Comparison of Two Pair Programming Configurations for Upper Elementary Students](https://blog.teachcomputing.org/summary-of-a-comparison-of-two-pair-programming-configurations-for-upper-elementary-students/)
+    * Pair programming with primary students
+    * 2 Computers + live edit tooling
+    * Research categorised 3 types of conversations
+        * Exploratory conversation - learners challenge each other, offering explanation and alternative ideas.
+        * Cumulative conversation - learners seek to avoid conflict and therefore converse uncritically.
+        * Disputational conversation - learners tend to have unresolved disagreements.
+
 * Do 50% of the typing (really try to keep to this)
 * Do 50%ish of the talking
     * If you talk more than 75% of the time - ask your partner questions
