@@ -61,8 +61,10 @@ Meeting 2
         * if appropriate – suggest a 
             * [Minimal Manual format](https://dl.acm.org/doi/10.1207/s15327051hci0302_2) as per Carroll (1987) – NOT just a small user manual
                 * [scan-pdf](http://swcarpentry.github.io/swc-releases/2017.02/instructor-training/files/papers/carroll-minimal-manual-1987.pdf) 
-        * * [CREATING MINIMALIST INSTRUCTION](https://pdfs.semanticscholar.org/d8fd/1192c8936fab12e46cc9eb605e323e30ff52.pdf), 
-    * It is important to note that the timebox MUST produce a fully documented and tested system with some useful functionality that the end user can work with.It is not an evolutionary prototyping method, where code can be produced that does not immediately produce useful functionality for the intended user
+                * [CREATING MINIMALIST INSTRUCTION](https://pdfs.semanticscholar.org/d8fd/1192c8936fab12e46cc9eb605e323e30ff52.pdf), 
+    * It is important to note that the timebox MUST produce a fully documented and tested system with some useful functionality that the end user can work with. It is not an evolutionary prototyping method, where code can be produced that does not immediately produce useful functionality for the intended user
+
+Mark scheme
 
 5	Methodical approach to work/developing a plan of work.
 5	Working independently generally and independently of the supervisor.  Is the work substantially the candidate's own work?

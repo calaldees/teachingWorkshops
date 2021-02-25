@@ -197,6 +197,9 @@ Tips:
 * Use 'reply' and 'replyall' effectively
 * You need to be able to cope with significant volumes of email with limited time
     * Setup email filter rules to automatically sort incoming email into folders
+* Consider every single email _public domain_. Anyone can make a GDPR subject access request and demand all the data an organisation holds on them (including every email ever sent)
+    * Do not make snide/condescending comments or jokes about children/staff/parents/ANYONE with your work email address. Keep EVERY message professional.
+        * (Convey sensitive information or voice your internal emotional state to other staff verbally)
 
 
 My Stories

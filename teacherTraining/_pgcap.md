@@ -718,6 +718,7 @@ Research: ipsative Assessment - Gwyneth Hughes
 
 
 Reference Styles
+* [cite them right online](https://www.citethemrightonline.com/)
 * [APA Style - 7th Edition - Common Reference Examples Guide](https://apastyle.apa.org/instructional-aids/reference-examples.pdf)
 * [Harvard Referencing: Guide](https://www.citethisforme.com/harvard-referencing)
 * [A quick guide to Harvard referencing](https://www.thinglink.com/scene/1407751855282323458)
@@ -765,6 +766,18 @@ ETAS
 Other perspectives
 
 * [Six Thinking Hats](https://www.youtube.com/watch?v=oHiwpz7r4wY)
+    * Could be a structure for group evaluation
+    * six thinking hats
+        * white hat	- facts/information
+        * yellow hat - optimism/good
+        * black hat - dangers/problems/devils-advocate
+        * red hat - feelings
+        * green hat - creatively/new-concepts
+        * blue hat - chair-the-meeting/process
+    * Whole team must be aligned with which hat they use
+    * Meetings should be chained to address segments for all 6 hats
+    * Commonly used in sprint retrospectives in professional software development
+
 * [Edward de Bono - discusses the Six Thinking Hats®](https://www.youtube.com/watch?v=o3ew6h5nHcc)
     * We have used argument to disucss - it is primitve
 
@@ -805,3 +818,84 @@ Pebbelpad
 Just cant cope with login and redirect to link
 Lost connection
 Cant see links in chat - they loose chat
+
+Session 2
+---------
+
+### prep
+
+Questions:
+* If retention is of upmost importance - attempt to reject pereieved weaker candidates for lower socio-economic
+    * _Access_ seems to be in conflict with _Rettention_
+    * Students from lower socio-economic backgrounds are more likely to drop out than those from more advantaged backgrounds
+* Criminal record - case study
+* Care leaver busrsary
+Goodheats Law + Cambels Law
+* How can we help our students achive when they are dealing with troubling home backgrounds
+    * Deviorce, moving home, noisy neighbords, elerly relative needing care
+
+
+Learning is porfoundly social
+A posetive environment that supports a sense of belonging is key to student success
+
+* [Sense of belonging and social and emotional learning](https://ies.ed.gov/ncee/edlabs/regions/northwest/pdf/social-emotional-learning.pdf) - (the fish school diagram)
+* [AdvanceHE: Student retention and success in higher education](https://www.advance-he.ac.uk/guidance/teaching-and-learning/student-retention-and-success)
+* [Working in partnership: enabling social mobilit y in higher education](https://www.universitiesuk.ac.uk/policy-and-analysis/reports/Documents/2016/working-in-partnership-final.pdf) - The final report of the Social Mobility Advisory Group
+* OfS [Effective practice in access and participation](https://www.officeforstudents.org.uk/advice-and-guidance/promoting-equal-opportunities/effective-practice/)
+    * echos "working in partenership"
+
+* SEDA  (Staff and Educational Development Association) [Transitions Into, Through and Out of Higher Education: Supporting Students](https://learn.canterbury.ac.uk/bbcswebdav/pid-2803763-dt-content-rid-4229027_1/courses/E20MAPIN4ETE/SEDA%20Special%2044%20Artwork_FINAL%20Pre-reading.PDF)  Wendy Ashall and Wendy Garnham
+    * However, much of the ‘transitions to HE’ literature focuses solely on the initial transition, that of leaving home and joining the university as an undergraduate, conceptualising transition as the irreversible, linear, teleological progress of the unitary subject through pre-determined stages (Colley, 2007), from one institutional or disciplinary context to another (Gale and Parker, 2014). This Special seeks to redress this balance,
+
+* [equity-vs-equality](https://onlinepublichealth.gwu.edu/resources/equity-vs-equality/)
+    * Equal outcomes vs Equal oppertunities
+    * [Equity and Equality](https://www.youtube.com/watch?v=nCS7Rus4_-Y) 3min youtube description
+
+* Maslowe hireachy of needs
+    * Physical (food, water, sleep)
+    * Safety (home)
+    * Love and belonging
+    * Esteem (aquired skills lead to honor and recodnition)
+    * Self Actuallisation (living your highest potentail)
+
+Pebbelpad - setup before march 11th
+
+Session 2
+---------
+
+* Full range
+    * disability
+    * income
+* Good induction
+* Identifying early and taking action
+* Level 4 - how to manage time, use tools, use support, self study
+
+
+
+* TODO:
+    * get data for cohort? How many compared to other insitutions?
+    * Student engagement dashboard
+
+Are they leaving for the uni being bad or just not cut out to be a X
+
+https://www.officeforstudents.org.uk/data-and-analysis/access-and-participation-data-dashboard/
+
+Course Characteristics
+* Inputs
+    + Student background 
+    + Engagement indicators
+        + class attendence
+        + Assessment hand ints
+        + Touchpoints
+* Outputs (outcomes)
+    * Success nmeasures
+        * Whwather goals are achived
+        * Student status
+        * Student Grades
+
+OfS has a minimum level of retention - lower than that -> cant continue to run course
+PGCE 90% normal - <80% = concern
+We loose 1 in 10
+
+Ask the students: What are your expectations?
+

@@ -726,3 +726,10 @@ School isnt going to tell you how to get to where you want to be in life - you n
       > They don't care
     * >> People don't want to be educated, they want to be entertained
     * > if we can provoke a degree of curiosity, get people involved with a story, then provide an immensely satisfying denouement, then perhaps we can both educate and entertain, and leave them with more knowledge, understanding, and skill
+
+* [Do Adults Really Not Remember School Sucked?](https://www.ianwelsh.net/do-adults-really-not-remember-school-sucked/)
+    * During the pandemic 'Kids miss school' - do they? - do they just miss their friends? that's not school related, that's pandemic related. Do adults just want daycare?
+
+* [officeforstudents.org.uk - young-participation-by-area](https://www.officeforstudents.org.uk/data-and-analysis/young-participation-by-area/)
+    * Interactive maps
+        * See how likely young people are to participate in higher education according to where they live

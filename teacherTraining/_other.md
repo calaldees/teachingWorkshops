@@ -37,7 +37,8 @@ Super-model
     * Cites a couple of tweets
     * Cites a couple of web articles by some web articles
     * References no existing education practice other than personal memories of school
-
+* [Games+Learning+Society](http://glsstudios.com/about.html)
+    * An education professor leading a team of AAA game devs to make education games
 
 * [The role of beliefs in teacher agency](https://www.tandfonline.com/doi/full/10.1080/13540602.2015.1044325) Biesta 2015
     * Teach agency - should teachers have freedom or should they be directed

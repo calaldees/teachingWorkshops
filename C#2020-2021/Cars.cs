@@ -5,26 +5,49 @@ using System.Text;
 
 namespace VehicleEngineLibrary
 {
-    class Cars {
+    class Car {
 
         public static void Main(string[] args) {
-            new Cars();
             Console.WriteLine("Hello");
 
-            Cars[] cars = new Cars[]{
-                new Cars("Honda", "Civic", 55),
-                new Cars("Ford", "Ka", 45),
-                new Cars("Audi", "A4", 62),
-            };
+            /*
+            List<Car> cars = new List<Car>(new Car[]{
+                new Car("Honda", "Civic", 55),
+                new Car("Ford", "Ka", 45),
+                new Car("Audi", "A4", 62)
+            });
+            */
 
-            int i = 0 ;
-            foreach (Cars car in cars) {
+            //Car[] cars = new Car[]{
+            List<Car> cars = new List<Car>();
+            cars.Add( new Car("Honda", "Civic", 55) );
+            cars.Add( new Car("Ford", "Ka", 45) );
+            cars.Add( new Car("Audi", "A4", 62) );
+            //};
+            
+            car.AddFuel(double.Parse(Console.ReadLine()))??
+            //   if ( ??? > MaxFuel){
+
+
+            int i = 1;
+            foreach (Car car in cars) {
                 Console.WriteLine($"{i}.) "+car);
                 i++;
             }
+            //
+                //Console.WriteLine($"My car is {car.GetModelName()} its a ");
+                //Console.WriteLine(car);
+                //i++;
 
             Console.WriteLine("Enter Car Num: ");
-            Cars _car = cars[int.Parse(Console.ReadLine())];
+            int car_index = int.Parse(Console.ReadLine());
+            /**
+            if (car_index == 0) {
+                cars.Add(CreateCarWithUserInput());
+                car_index = cars.Count;
+            }
+            **/
+            Car _car = cars[car_index-1];
 
             Console.WriteLine(_car);
 
@@ -44,6 +67,14 @@ namespace VehicleEngineLibrary
             Console.WriteLine(_car);
         }
 
+        public static Car CreateCarWithUserInput() {
+            Console.WriteLine("Enter a new Car");
+            return new Car(
+                askString("Make: "),
+                askString("Model: "),
+                askInt("Fuel: ")
+            );
+        }
 // -----------------------------------------------------------------------------
 
         #region attributes
@@ -71,7 +102,7 @@ namespace VehicleEngineLibrary
         /// <summary>
         /// Empty Constructor
         /// </summary>
-        public Cars()
+        public Car()
         {
             model = "N/A";
             make = "N/A";
@@ -85,7 +116,7 @@ namespace VehicleEngineLibrary
         /// <param name="CarMake">Brand/Make of car</param>
         /// <param name="CarModel">Type of car</param>
         /// <param name="MaximumFuel">Maximum capacity of fuel tank in liters</param>
-        public Cars(string CarMake, string CarModel, double MaximumFuel)
+        public Car(string CarMake, string CarModel, double MaximumFuel)
         {
             model = CarModel;
             make = CarMake;
@@ -144,9 +175,54 @@ namespace VehicleEngineLibrary
 
         public override string ToString()
         {
-            return $"Cars(make={GetMake()}, model={GetModelName()} fuel={fuel}/{GetMaxFuel()})";
+            return $"Car(make={GetMake()}, model={GetModelName()} fuel={fuel}/{GetMaxFuel()})";
         }
 
         #endregion
+
+
+// -----------------------------------------------------------------------------
+        public static string askString(){
+            return askString("enter a string: ");
+        }
+        public static string askString(string msg) {
+            Console.Write(msg);
+            return Console.ReadLine();
+        }
+        public static string askString(string msg, string[] oneOf) {
+            while (true) {
+                Console.Write(msg);
+                string input = Console.ReadLine();
+                if (Array.IndexOf(oneOf, input) < 0) {
+                    Console.WriteLine(String.Join(",", oneOf));
+                    continue;
+                }
+                return input;
+            }
+        }
+
+        public static int askInt() {return askInt("input an integer: ");}
+        public static int askInt(string msg) {return askInt(msg, 0, int.MaxValue);}
+        public static int askInt(string msg, int min, int max) {
+            while (true) {
+                Console.Write(msg);
+                int v = int.MinValue;
+                try {
+                    v = int.Parse(Console.ReadLine());
+                } catch (Exception) {
+                    continue;
+                }
+                if (v < min || v > max) {
+                    string error_msg = String.Format("Outside range {0} {1}", min, max);
+                    Console.WriteLine(error_msg);
+                    continue;
+                    //throw new System.IO.InvalidDataException(error_msg);
+                }
+                return v;
+            }
+        }
+
+
     }
+
 }

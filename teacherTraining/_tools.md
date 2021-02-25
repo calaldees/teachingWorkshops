@@ -13,7 +13,9 @@ Teaching Tools
     * [coggle.it](https://coggle.it/) - mind maps
     * [hypothes.is](https://web.hypothes.is/) - Annotate the web, with anyone, anywhere
     * [Wireflow](https://wireflow.co/) - Open source collaborative website flow diagrams
-    * [whiteboard.fi](https://whiteboard.fi/)
+    * Mini Whiteboard
+        * [whiteboard.fi](https://whiteboard.fi/)
+        * [jamboard.google.com](https://jamboard.google.com/)
     * [repl.it](https://repl.it/) simple collaborative online dev environment
         * [repl.it / talk / learn - tutorials](https://repl.it/talk/learn)
             * [A Starter Guide to Pygame](https://repl.it/talk/learn/A-Starter-Guide-to-Pygame/11741) - DVD Bounce

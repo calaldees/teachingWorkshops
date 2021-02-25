@@ -13,6 +13,7 @@ ITT CCF 4.3
 ITT CCF 4.4
 > Guides, scaffolds and worked examples can help pupils apply new ideas, but should be gradually removed as pupil expertise increases
 
+* [sec-ed.co.uk: Teaching computing: What the research says](https://www.sec-ed.co.uk/best-practice/teaching-computing-what-the-research-says/)  Terry Freedman 2019 
 
 * [NCCE: How we teach computing](https://blog.teachcomputing.org/how-we-teach-computing/) Dec 2020
     * overview of all the pedagogy quick reads
@@ -163,6 +164,7 @@ Reminders of existing taxonomy pyramids
 ### Blooms Taxonomy
 
 * [Bloom's Taxonomy: Why, How, & Top Examples](https://www.youtube.com/watch?v=OOy3m02uEaE&feature=emb_logo) (Revised Krathwohl 2001)
+* [Here’s What’s Wrong With Bloom’s Taxonomy: A Deeper Learning Perspective](https://www.edweek.org/education/opinion-heres-whats-wrong-with-blooms-taxonomy-a-deeper-learning-perspective/2018/03)
 
 ![Blooms Taxonomy: Verbs](https://www.teachthought.com/wp-content/uploads/2017/09/PostCopyDigitalBloomsVerbs-2-1.png?ezimgfmt=ng:webp/ngcb6)
 
@@ -309,11 +311,15 @@ Journals
 
 * [Journal of Computer Science Integration](https://inspire.redlands.edu/jcsi/)
     * [Engaging Equity Pedagogies in Computer Science Learning Environments](https://inspire.redlands.edu/jcsi/vol3/iss2/1/)
-
+* [Journal of Information Technology Education: Research (JITE:Research)](https://www.informingscience.org/Journals/JITEResearch/Overview)
 
 Unsorted
 ========
 
+* SSDD -> Same surface, Different depth
+    * Have the same question/example but have questions with different levels of depth
+    * [[questioning]]
+    * [[inclusion]]
 * Convert from block, text, flowchart, pseudo code and vice-versa
 * Scratch -> python
     * Scratch is very visual
@@ -358,5 +364,67 @@ Concept Maps
 * NCCE [Quick Read: Using concept maps to capture, communicate, construct, and assess knowledge](https://blog.teachcomputing.org/using-concept-maps-to-capture-communicate-construct-and-assess-knowledge/)
     * [Examples](https://raspberrypi-education.s3-eu-west-1.amazonaws.com/Quick+Reads/National+Centre+for+Computing+Education+concept+map+examples.pdf)
 
+Parson Problems
+---------------
+
+* Learner organises 
+* [Quick Read: Improving program comprehension through Parson’s Problems](https://blog.teachcomputing.org/quick-read-improving-program-comprehension-throughparsons-problems/)
+    * Learner rearranges the lines of code to solve the task
+    * benefit of Parson’s Problems is that the learner is focusing on the structure and logic of blocks of code, rather than the syntax of individual text elements (atoms). The process reduces the cognitive load experienced by learners, allowing them to practise sequencing and problem-solving with code. 
+    * [js-parsons.github.io](https://js-parsons.github.io/)
+
+---
+
+* [Problem Solving Attitudes & Behaviours](https://code-it.co.uk/attitudes/) Phil Bagge and Mark Dorling
+    * Computing problem solver
+        * Handles Ambiguity
+            * Recognise there is more than one way to solve/describe a problem
+        * Open Ended Problem SOlver
+            * don't just accept first solution
+            * Look for a range of solutions to the same problem
+            * Look for how a project can be extended
+        * Evaluates
+            * evaluate my solutions against a set criteria
+            * Can design criteria to evaluate my creations
+        * Copes with Complexity
+            * Can break complex problems into parts
+            * Can discover/concentrate on the most important part of a problem
+        * Communicates
+            * contribute useful idea to a partner or group
+            * Can encourage others to share their idea
+            * Lead using all the people talent in my group
+        * Adapts
+            * Can identify patters in problems and solutions
+            * Can adapt existing ideas to solve new problems
+        * Investigates
+            * Can develop test and debug until a product is refined
+            * make predictions about what will happen
+            * repeatedly experiment though predicting, making, testing and debugging
+        * Perseveres
+            * Learn from setbacks and don't let them put me off
+            * I can preserve even if the solution is not obvious
+
+* [Six Thinking Hats](https://www.youtube.com/watch?v=oHiwpz7r4wY)
+    * Could be a structure for group evaluation
+    * six thinking hats
+        * white hat	- facts/information
+        * yellow hat - optimism/good
+        * black hat - dangers/problems/devils-advocate
+        * red hat - feelings
+        * green hat - creatively/new-concepts
+        * blue hat - chair-the-meeting/process
+    * Whole team must be aligned with which hat they use
+    * Meetings should be chained to address segments for all 6 hats
+    * Commonly used in sprint retrospectives in professional software development
 
 
+---
+
+* [ziglings](https://github.com/ratfactor/ziglings)
+    * Interesting concept
+    * This project contains a series of tiny broken programs. By fixing them, you'll learn how to read and write Zig code!
+
+[//begin]: # "Autogenerated link references for markdown compatibility"
+[questioning]: questioning.md "Questioning"
+[inclusion]: inclusion.md "Inclusion - Part 1"
+[//end]: # "Autogenerated link references"

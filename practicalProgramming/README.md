@@ -270,6 +270,25 @@ Mel only
 `import`
 `from x import y`
 
+
+Session 30
+----------
+
+Computer Number Representation
+BCD
+Floating point cursory
+
+Session 31
+----------
+
+Talk over data sorting task
+
+Session 32
+----------
+
+
+
+
 Upcoming
 --------
 

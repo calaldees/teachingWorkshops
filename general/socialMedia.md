@@ -88,3 +88,8 @@ Social Media
     * How the Attention Economy Promotes Extremism
     * > The problem is not the technology itself, it’s how we choose to use the technology. Is it serving us or are we serving it? 
 
+* [“User Engagement” Is Code For “Addiction”](https://craigwritescode.medium.com/user-engagement-is-code-for-addiction-a2f50d36d7ac) - Social media is a civilization-level problem
+    * the Dark Triad of Web UI Design Choices that addict people to social media and drive us all slowly crazy (by design!):
+        * Relative timestamps (“3 hours ago” instead of “6:56 PM”). This creates IMMEDIACY.
+        * Infinite scrolling with no “more” button or link. This creates PERPETUATION.
+        * Fake internet points (clickable, often animated icons with incrementing numbers. Likes, reactions, upvotes, retweets, etc.). This creates ADDICTION.

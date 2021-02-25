@@ -555,7 +555,7 @@ Formative assessment is more effective steaming/setting
     * > Opportunities for pupils to express their understanding should be designed into any piece of teaching, for this will initiate the interaction whereby formative assessment aids learning
     * > The dialogue between pupils and a teacher should be thoughtful, reflective, focused to evoke and explore understanding, and conducted so that all pupils have an opportunity to think and to express their ideas
     * > Tests and homework exercises can be an invaluable guide to learning, but the exercises must be clear and relevant to learning aims. The feedback on them should give each pupil guidance on how to improve, and each must be given opportunity and help to work at the improvement
-
+* [Working inside the Black Box: Assessment for Learning in the Classroom](https://journals.sagepub.com/doi/10.1177/003172170408600105)
 
 Ruth Butler 1987
 * mark only
