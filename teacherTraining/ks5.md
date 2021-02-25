@@ -8,6 +8,17 @@ Keystage 5 - A-Level Computing
         * Theory
 
 
+How is KS5 different?
+---------------------
+
+* The good
+    * You're not teaching class's of 30 - you're teaching class's of 12
+    * The students largely like and understand your subject
+    * You have much more contact time with them
+* The bad
+    * You really need good subject knowledge
+
+
 Your Subject Knowledge
 ---------------------
 
@@ -58,19 +69,22 @@ History of the A-Level
     * A2 Project dramatically reduced/simplified practical (14% of A-Level) + allowed research/experiments rather than _complete user products_
 
 
-Courses
--------
+A-Level Courses
+---------------
 
 GCSE OCR- 53037 AQA- 10150 Edexcel- 4667 
 
-* [AQA Computer Science 7516-7517](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517)
-    * [spec-2015](http://filestore.aqa.org.uk/resources/computing/specifications/AQA-7516-7517-SP-2015.PDF)
-* [OCR h046-h446](https://www.ocr.org.uk/qualifications/as-and-a-level/computer-science-h046-h446-from-2015/)
-    * AS[spec-2019](https://www.ocr.org.uk/Images/170845-specification-accredited-as-level-gce-computer-science-h046.pdf)
-    * A2[spec-2019](https://www.ocr.org.uk/Images/170844-specification-accredited-a-level-gce-computer-science-h446.pdf)
-* [cambridgeinternational - computer-science-9618](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-computer-science-9618/)
-* [eduqas](https://www.eduqas.co.uk/qualifications/computer-science-as-a-level/#tab_overview)
-* More are possibly coming?
+Academic continuation of GCSE
+
+* Exam boards
+    * [AQA Computer Science 7516-7517](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517)
+        * [spec-2015](http://filestore.aqa.org.uk/resources/computing/specifications/AQA-7516-7517-SP-2015.PDF)
+    * [OCR h046-h446](https://www.ocr.org.uk/qualifications/as-and-a-level/computer-science-h046-h446-from-2015/)
+        * AS[spec-2019](https://www.ocr.org.uk/Images/170845-specification-accredited-as-level-gce-computer-science-h046.pdf)
+        * A2[spec-2019](https://www.ocr.org.uk/Images/170844-specification-accredited-a-level-gce-computer-science-h446.pdf)
+    * [cambridgeinternational - computer-science-9618](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-computer-science-9618/)
+    * [eduqas](https://www.eduqas.co.uk/qualifications/computer-science-as-a-level/#tab_overview)
+    * More are possibly coming?
 
 * Live by the spec. Play spec bingo.
 * Give spec to students printed (4 to a page + Duplex)
@@ -320,6 +334,30 @@ Practical Techniques
         * You can always see their progress
             * You have an audit trail of work
 
+Vocational Level 3 Courses
+--------------------------
+
+* Combinations of module configurations for different needs
+* Lots of specs that combine the modules in different ways
+* Modules are assessed in a variety of ways - exam, coursework (internal), timed practical (long form)
+* Practical focus
+* Lots of time/expertise/resources required - only financially viable to colleges?
+
+Task
+* [OCR Cambridge TECHNICALS LEVEL 2 & 3 INFORMATION TECHNOLOGY - Summary Brochure](https://www.ocr.org.uk/Images/260857-cambridge-technicals-it-summary-brochure.pdf) pg9
+* [Pearson BTEC Nationals in Computing](https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/computing/2016/teaching-and-learning/BTEC-Delivery-Guide.pdf) pg9
+    * [Summary Brochure](https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Information-Technology/2016/Introductory-guides/BTEC%20Level%203%20Nationals%20Computing%20and%20IT%20Guide.pdf) pg6
+
+* Exam boards
+    * [Pearson BTEC Level 3 National Certificate in Computing](https://qualifications.pearson.com/en/qualifications/btec-nationals/computing-2016.html)
+        * [Unit 3: Planning and Management of Computing Projects](https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/computing/2016/specification-and-sample-assessments/Sample-assessment-material-Unit-3-Planning-And-Management-Of-Computing-Projects.pdf)
+            * 3 hour exam - given business information and plan an IT project
+        * [Unit 4: Software Design and Development Project](https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/computing/2016/specification-and-sample-assessments/Sample-assessment-material-Unit-4-Software-Design-And-Development-Project.pdf)
+            * 6 hours - no internet - produce test plan and software for a gym
+        * Unit 15 - Web Development
+        * Unit 17 - Mobile app development
+    * [OCR - Cambridge Technicals - Information Technology](https://www.ocr.org.uk/qualifications/cambridge-technicals/information-technology/#level-3)
+
 
 A-Level Topic Notes
 -------------------
@@ -366,6 +404,8 @@ Summary of interesting bits
 Plenary
 -------
 
+* A-Level is actual computer science - the majority of jobs require KS3 and KS4 because there are more of them ... a lot more
+
 * Discuss possible concerns for teaching A-Level
 * Identify action points
 
@@ -388,5 +428,5 @@ Some ideas ...
 * With the introduction of GCSE computing, it is expected that more students have exposure and high level of computing skill. What has happened to A-Level intake and attainment?
     * Higher? More people?
 * How do you see the specification changing in future years?
-* How do you see the assessment changing in future years?
-* 
+* How do you see the assessment changing in future years? remain paper only?
+* There are some other new A-Level Computing exam boards appearing cambridgeinternational and eduqas. Do you think there is a place for so many exam boards? why do you think these have been created?
