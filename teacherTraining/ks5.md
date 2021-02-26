@@ -423,10 +423,19 @@ Summary of interesting bits
 * [Halting problem](https://www.youtube.com/watch?v=macM_MtS_w4)
 
 
-Plenary
+Summary
 -------
 
-* A-Level is actual computer science - the majority of jobs require KS3 and KS4 because there are more of them ... a lot more
+* There are multitude of KS5 offerings
+    * Different A-Level boards with different assessment mechanisms
+        * Practical exams can be logistically hard to implement
+* A-Level take a huge amount of teacher time and expertise. They are expensive to run.
+* If you don't make KS3 and KS4 fun an enjoyable, and local colleges offer amazing practical courses, then your A-Level intake will be lower and your school may decide that your KS5 offering is not financially viable
+    * You must nurture a love for computing in KS3 and KS4 to get the joy of A-level
+* A-Level is feels like _real_ hardcore computer science
+    * The majority of secondary school teaching jobs require/focus on KS3 and KS4 because there are _orders of magnitude_ more students
+
+
 
 * Discuss possible concerns for teaching A-Level
 * Identify action points
@@ -457,3 +466,35 @@ Some ideas ...
 * There are some other new A-Level Computing exam boards appearing cambridgeinternational and eduqas. Do you think there is a place for so many exam boards? why do you think these have been created?
 * Since education _until 18_ has been compulsory and GCSE computing is required in state schools- how have the numbers for computing level 3 courses risen? have they shifted numbers between A-Level/Vocational?
 * Do many schools offer the Vocational route?
+
+* Vocational
+    *  Computing? - pass/fail?
+    *  500,000 (half million) tallest to shortest - coursework based?
+
+9,500 OCR A-Level computing entries - 60,000 uni places
+
+Spiders web of influences on the spec
+Camberage approach to assessment
+    What is asessment? Huge area of research
+    Design principles
+OCR has largest ed-reasearch team in europe
+Yellis - CATS - eaten
+
+Regulation of seen live paper - cant do CPD
+
+3 levels of support
+Up to subject advisor
+
+Network meetings
+jcq - general regulations -> instuctions for conducting coursework
+
+For coursework based courses don't you have to declare the support given to each student?
+
+Active results - software
+Exam builder - software
+
+Pinciples of assessment!!!!!
+https://www.cambridgeassessment.org.uk/the-network/
+A101 A102 DO them
+
+https://www.telegraph.co.uk/news/2021/02/26/grade-inflation-could-stay-unless-entire-exam-system-overhauled/
