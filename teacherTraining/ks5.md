@@ -36,7 +36,7 @@ Discussion:
 * Why is a teacher taking exams not common ongoing practice?
 * On an application for teacher training, why is passing the GCSE in May/June-Session not a requirement?
 
-Proposal for future years. This uni registering a center to enter candidates
+Proposal for future years. This uni registering a center to enter candidates.
 
 
 Time
@@ -72,9 +72,7 @@ History of the A-Level
 A-Level Courses
 ---------------
 
-GCSE OCR- 53037 AQA- 10150 Edexcel- 4667 
-
-Academic continuation of GCSE
+Academic continuation of GCSE.
 
 * Exam boards
     * [AQA Computer Science 7516-7517](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517)
@@ -86,17 +84,65 @@ Academic continuation of GCSE
     * [eduqas](https://www.eduqas.co.uk/qualifications/computer-science-as-a-level/#tab_overview)
     * More are possibly coming?
 
-* Live by the spec. Play spec bingo.
+* Live by the spec. Play spec bingo each lesson. Student ownership and awareness.
 * Give spec to students printed (4 to a page + Duplex)
-    * AS=30pages -> 4 sheets A4 or A2=60pages -> 8 sheets of A4
+    * AQA
+        * AS=30pages -> 4 sheets A4 or A2=60pages -> 8 sheets of A4
 
 * [AQA/OCR Comparison](https://www.aqa.org.uk/resources/computer-science-and-it/as-and-a-level/computer-science-7516-7517/plan/aqa-or-ocr)
     * AQA is explicitly clear what is in the spec - practical exam is genuine application
     * OCR Coursework mostly writeup, Spec theory is vague, little practical, difficult to engage students, resources locked behind login (inaccessible to students)
 
 
-Course Layout
--------------
+Vocational Level 3 Courses (30 min)
+--------------------------
+
+* Combinations of module configurations for different needs
+* Lots of specs that combine the modules in different ways
+* Modules are assessed in a variety of ways - exam, coursework (internal), timed practical (long form)
+* Practical focus
+* Lots of time/expertise/resources required - only financially viable to colleges?
+
+Task: (5 min)
+* Look at the 
+    * Range of modules available
+    * Look at the number of qualification types
+* Brochure
+    * [OCR Cambridge TECHNICALS LEVEL 2 & 3 INFORMATION TECHNOLOGY - Summary Brochure](https://www.ocr.org.uk/Images/260857-cambridge-technicals-it-summary-brochure.pdf) pg9
+    * [Pearson BTEC Nationals in Computing](https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/computing/2016/teaching-and-learning/BTEC-Delivery-Guide.pdf) pg9
+        * [Summary Brochure](https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Information-Technology/2016/Introductory-guides/BTEC%20Level%203%20Nationals%20Computing%20and%20IT%20Guide.pdf) pg6
+
+Discuss: Do you think those modules are appealing for young people? Do you think their expectations are met by these modules?
+
+* Exam boards
+    * [Pearson BTEC Level 3 National Certificate in Computing](https://qualifications.pearson.com/en/qualifications/btec-nationals/computing-2016.html)
+        * [Unit 3: Planning and Management of Computing Projects](https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/computing/2016/specification-and-sample-assessments/Sample-assessment-material-Unit-3-Planning-And-Management-Of-Computing-Projects.pdf)
+            * 3 hour exam - given business information and plan an IT project
+        * [Unit 4: Software Design and Development Project](https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/computing/2016/specification-and-sample-assessments/Sample-assessment-material-Unit-4-Software-Design-And-Development-Project.pdf)
+            * 6 hours - no internet - produce test plan and software for a gym
+        * Unit 15 - Web Development
+        * Unit 17 - Mobile app development
+    * [OCR - Cambridge Technicals - Information Technology](https://www.ocr.org.uk/qualifications/cambridge-technicals/information-technology/#level-3)
+
+Task:
+* Look at the assessment mechanisum for Unit 3 and 4 (as a group)
+* Take one module each of the Pearson BTEC, read it (5min), Summarise that module to the group in 60 seconds each
+
+* Colleges (offering BTEC Level 3)
+    * [University College Birmingham](https://www.ucb.ac.uk/study/courses/college/computing-and-ict-level-3/)
+    * [The College of West Anglia: Computing and Game Design IT](https://cwa.ac.uk/courses/computing-games-design-and-it/computing-level-3-extended-diploma)
+    * [Henley College: ICT and Computing (Extended Diploma) Extended Diploma (Level 3)](https://www.henleycol.ac.uk/courses/full-time-courses/vocational-courses-level-3/ict-and-computing-extended-diploma/)
+    * [Cirencester College - Gloucestershire - Information Technology Level 3 Vocational](https://www.cirencester.ac.uk/cco/course_view.php?course=388)
+    * Look how shiny and promising the pages are
+    * The promise of _expertise_, being treated like an adult, work experience, actually building something and it's free for them (under 18)
+        * Our ability to teach A-Level in school is dependent on numbers. This is some stiff competition.
+    * An A-Level is a very expensive course to offer
+        * Not all schools 
+
+
+
+Example A-Level Course Layouts
+------------------------------
 
 * For a Novice Teacher - Exam boards provide support
     * Entire years guidance is provided (teaching with stabilisers on the bike)
@@ -321,11 +367,11 @@ Practical Techniques
         * ```python
             # At end of python file
             import doctest; doctest.testmod()
-            ```
+          ```
         * ```bash
             python -m doctest -v MY_FILE.py
             python -m doctest -v example.txt
-            ```
+          ```
 * Version Control
     * Get the whole class to have all their code publicly visible
         * repl.it's? github?
@@ -333,30 +379,6 @@ Practical Techniques
         * Enhancing Collaboration
         * You can always see their progress
             * You have an audit trail of work
-
-Vocational Level 3 Courses
---------------------------
-
-* Combinations of module configurations for different needs
-* Lots of specs that combine the modules in different ways
-* Modules are assessed in a variety of ways - exam, coursework (internal), timed practical (long form)
-* Practical focus
-* Lots of time/expertise/resources required - only financially viable to colleges?
-
-Task
-* [OCR Cambridge TECHNICALS LEVEL 2 & 3 INFORMATION TECHNOLOGY - Summary Brochure](https://www.ocr.org.uk/Images/260857-cambridge-technicals-it-summary-brochure.pdf) pg9
-* [Pearson BTEC Nationals in Computing](https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/computing/2016/teaching-and-learning/BTEC-Delivery-Guide.pdf) pg9
-    * [Summary Brochure](https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/Information-Technology/2016/Introductory-guides/BTEC%20Level%203%20Nationals%20Computing%20and%20IT%20Guide.pdf) pg6
-
-* Exam boards
-    * [Pearson BTEC Level 3 National Certificate in Computing](https://qualifications.pearson.com/en/qualifications/btec-nationals/computing-2016.html)
-        * [Unit 3: Planning and Management of Computing Projects](https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/computing/2016/specification-and-sample-assessments/Sample-assessment-material-Unit-3-Planning-And-Management-Of-Computing-Projects.pdf)
-            * 3 hour exam - given business information and plan an IT project
-        * [Unit 4: Software Design and Development Project](https://qualifications.pearson.com/content/dam/pdf/BTEC-Nationals/computing/2016/specification-and-sample-assessments/Sample-assessment-material-Unit-4-Software-Design-And-Development-Project.pdf)
-            * 6 hours - no internet - produce test plan and software for a gym
-        * Unit 15 - Web Development
-        * Unit 17 - Mobile app development
-    * [OCR - Cambridge Technicals - Information Technology](https://www.ocr.org.uk/qualifications/cambridge-technicals/information-technology/#level-3)
 
 
 A-Level Topic Notes
@@ -424,9 +446,14 @@ Some ideas ...
  - Are there any topics in the spec that you would struggle with - what are they? How do they compare with the knowledge areas of the rest of the group? What topics are weaker nationally?
  - How do you think the mode of study will be different from KS4 - What will the transition look like? Is there any advice for this?
 
-
+* There are some calls to redefine (or even scrap) GCSE assessment at 16? To what extent have OCR been involved in the conversations and what are some of the planned alternatives? How will this affect our role as teachers
+* Do you have numbers of how many entries for OCR A-Level computing and how they compare to number of entries of other exam boards
+    * the GCSE numbers would also be interesting (from what I've read OCR is the dominant board)
+        * GCSE OCR- 53037 AQA- 10150 Edexcel- 4667 
 * With the introduction of GCSE computing, it is expected that more students have exposure and high level of computing skill. What has happened to A-Level intake and attainment?
     * Higher? More people?
 * How do you see the specification changing in future years?
 * How do you see the assessment changing in future years? remain paper only?
 * There are some other new A-Level Computing exam boards appearing cambridgeinternational and eduqas. Do you think there is a place for so many exam boards? why do you think these have been created?
+* Since education _until 18_ has been compulsory and GCSE computing is required in state schools- how have the numbers for computing level 3 courses risen? have they shifted numbers between A-Level/Vocational?
+* Do many schools offer the Vocational route?
