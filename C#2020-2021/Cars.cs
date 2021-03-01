@@ -5,27 +5,54 @@ using System.Text;
 
 namespace VehicleEngineLibrary
 {
+
+    // C# does not appear to have a built in useable Enum type - so I've faked it with static readonly fields
+    //enum FuelUnit : _FuelUnit {
+    class FuelUnit {
+        public static readonly FuelUnit Litre    = new FuelUnit("L"    , 1.0    );
+        public static readonly FuelUnit GallonUS = new FuelUnit("G(Us)", 3.78541);
+        public static readonly FuelUnit GallonUK = new FuelUnit("G(Uk)", 4.54609);
+
+        public readonly string name;
+        public readonly double ratio_to_litres;
+        public FuelUnit(string name, double ratio_to_litres) {
+            this.name = name;
+            this.ratio_to_litres = ratio_to_litres;
+        }
+        public double normaliseFrom(double fuel) {
+            return fuel * ratio_to_litres;
+        }
+        public double normaliseTo(double fuel) {
+            return fuel * (1/ratio_to_litres);
+        }
+    }
+
+
+
+
     class Car {
+
+        public FuelUnit unit = FuelUnit.Litre;
 
         public static void Main(string[] args) {
             Console.WriteLine("Hello");
 
-            /*
+            
             List<Car> cars = new List<Car>(new Car[]{
                 new Car("Honda", "Civic", 55),
                 new Car("Ford", "Ka", 45),
                 new Car("Audi", "A4", 62)
             });
-            */
+            
 
             //Car[] cars = new Car[]{
-            List<Car> cars = new List<Car>();
-            cars.Add( new Car("Honda", "Civic", 55) );
-            cars.Add( new Car("Ford", "Ka", 45) );
-            cars.Add( new Car("Audi", "A4", 62) );
+            //List<Car> cars = new List<Car>();
+            //cars.Add( new Car("Honda", "Civic", 55) );
+            //cars.Add( new Car("Ford", "Ka", 45) );
+            //cars.Add( new Car("Audi", "A4", 62) );
             //};
             
-            car.AddFuel(double.Parse(Console.ReadLine()))??
+            //car.AddFuel(double.Parse(Console.ReadLine()))??
             //   if ( ??? > MaxFuel){
 
 
@@ -41,13 +68,14 @@ namespace VehicleEngineLibrary
 
             Console.WriteLine("Enter Car Num: ");
             int car_index = int.Parse(Console.ReadLine());
-            /**
+            
             if (car_index == 0) {
                 cars.Add(CreateCarWithUserInput());
                 car_index = cars.Count;
             }
-            **/
+            
             Car _car = cars[car_index-1];
+
 
             Console.WriteLine(_car);
 
@@ -64,6 +92,7 @@ namespace VehicleEngineLibrary
                 Console.WriteLine(ex.Message);
             }
 
+            _car.unit = FuelUnit.GallonUK;
             Console.WriteLine(_car);
         }
 
@@ -80,21 +109,23 @@ namespace VehicleEngineLibrary
         #region attributes
 
         private string model;
-        private string make;        
-        private double fuel_liters;
+        private string make;
+        private double fuel_litres;
         public double fuel {
-            get {return fuel_liters;}
+            get {
+                return unit.normaliseFrom(fuel_litres);
+            }
             set {
                 if (value < 0) {
                     throw new Exception("Fuel cannot be negative");
                 }
-                if (value > maxFuel_liters) {
+                if (value > maxFuel_litres) {
                     throw new Exception("Attempted to set fuel to greater than capacity");
                 }
-                fuel_liters = value;
+                fuel_litres = value;
             }
         }
-        private double maxFuel_liters;
+        private double maxFuel_litres;
 
         #endregion
 
@@ -106,22 +137,22 @@ namespace VehicleEngineLibrary
         {
             model = "N/A";
             make = "N/A";
-            maxFuel_liters = 0;
-            fuel_liters = 0;
+            maxFuel_litres = 0;
+            fuel_litres = 0;
         }
 
         /// <summary>
-        /// Constructor by setting car make, model and maximum fuel in liters
+        /// Constructor by setting car make, model and maximum fuel in litres
         /// </summary>
         /// <param name="CarMake">Brand/Make of car</param>
         /// <param name="CarModel">Type of car</param>
-        /// <param name="MaximumFuel">Maximum capacity of fuel tank in liters</param>
+        /// <param name="MaximumFuel">Maximum capacity of fuel tank in litres</param>
         public Car(string CarMake, string CarModel, double MaximumFuel)
         {
             model = CarModel;
             make = CarMake;
-            fuel_liters = 0;
-            maxFuel_liters = MaximumFuel;
+            fuel_litres = 0;
+            maxFuel_litres = unit.normaliseTo(MaximumFuel);
         }
 
         #endregion
@@ -147,38 +178,40 @@ namespace VehicleEngineLibrary
         }
 
         public double GetMaxFuel() {
-            return maxFuel_liters;
+            return unit.normaliseFrom(maxFuel_litres);
         }
 
 
         /// <summary>
         /// Returns the current fuel on the car
         /// </summary>
-        /// <returns>Current fuel in liters</returns>
+        /// <returns>Current fuel in litres</returns>
         //public double GetCurrentFuel()
         //{
-        //    return fuel_liters;
+        //    return fuel_litres;
         //}
 
         /// <summary>
         /// Adds fuel in the car
         /// </summary>
-        /// <param name="amount">the amount of fuel to add in liters</param>
+        /// <param name="amount">the amount of fuel to add in litres</param>
         public void AddFuel(double amount)
         {
-            fuel += amount;
+            fuel += unit.normaliseTo(amount);
         }
 
         public void RemoveFuel(double amount) {
-            fuel -= amount;
+            fuel -= unit.normaliseTo(amount);
         }
+
 
         public override string ToString()
         {
-            return $"Car(make={GetMake()}, model={GetModelName()} fuel={fuel}/{GetMaxFuel()})";
+            return $"Car(make={GetMake()}, model={GetModelName()} fuel={fuel}/{GetMaxFuel()} {unit.name})";
         }
 
         #endregion
+
 
 
 // -----------------------------------------------------------------------------

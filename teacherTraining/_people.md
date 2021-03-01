@@ -13,3 +13,4 @@ People
     * [Editor of AQA Computing WikiBook](http://itte.org.uk/wp/aqa-a-level-computing-wiki/)
 * [Sue Sentence]()
     * [Raspberry Pi Chief Learning Officer](https://www.raspberrypi.org/blog/author/suesentance/)
+* [Jack Worth](https://twitter.com/worth_jack) - Education economist

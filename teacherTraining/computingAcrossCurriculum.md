@@ -374,6 +374,7 @@ Lesson Topic Ideas
     * Markdown ABC Notation
         * [Example](https://music.meta.stackexchange.com/questions/2507/how-could-abc-notation-be-embedded-in-our-posts-markdown)
         * [Tutorial](http://www.lesession.co.uk/abc/abc_notation.htm)
+    * [Chrome Music Labs](https://musiclab.chromeexperiments.com/)
 * MFL
     * [Language Letter Frequency](https://en.wikipedia.org/wiki/Letter_frequency) detector
         * [langauge_frequeny.py](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/data/langauge_frequeny.py)
@@ -806,3 +807,7 @@ tim hunkin - southwold under the peir - novalty automation
 [The True Size](https://thetruesize.com/) - Country size globe projection
 
 
+[Scale the Universe 2](https://www.htwins.net/scale2/)
+
+
+Runway - numbers - bearing

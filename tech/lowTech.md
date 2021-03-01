@@ -12,3 +12,4 @@ Most solutions are high tech. Do we need this high tech solution.
 
 * [Honda Accord: Cog - Advertisement](https://www.youtube.com/watch?v=ZRxQz5OFMmI)
 
+* [The Cuboid: A DIY air purifier that's better than a box-fan](https://dynomight.net/better-DIY-air-purifier.html)

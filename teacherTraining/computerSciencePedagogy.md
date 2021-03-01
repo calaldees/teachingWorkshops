@@ -418,6 +418,9 @@ Parson Problems
     * Commonly used in sprint retrospectives in professional software development
 
 
+* [Colin Johnson](https://twitter.com/Colin_GJ/status/1364267532295823362)
+    * > Teaching via live-coding - a mechanism that I like a lot and which is well-evidenced as one of the best ways to teach lots of computing topics - is *much* more fluent online. Something about sitting down, having your usual toolchain to hand, not having your code projected, etc.
+
 ---
 
 * [ziglings](https://github.com/ratfactor/ziglings)

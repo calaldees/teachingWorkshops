@@ -1108,3 +1108,9 @@ assess design - assess by interview
 
 * [Quick Read: Using observation techniques to record student behaviour for research or evaluation](https://blog.teachcomputing.org/using-observation-techniques-to-record-student-behaviour-for-research-or-evaluation/)
 * [Quick Read: Planning effective surveys and interviews for research or evaluation](https://blog.teachcomputing.org/planning-effective-surveys-and-interviews-for-research-or-evaluation/)
+
+Course
+-----
+
+* [Introducing Assessment for Learning](https://www.futurelearn.com/courses/introducing-assessment-for-learning)
+    * STEM Learning
