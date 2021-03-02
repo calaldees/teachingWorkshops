@@ -4,7 +4,7 @@
   "editor.wrappingIndent": "indent",
   "editor.overviewRulerBorder": false,
   "editor.lineHeight": 24,
-  "editor.wordBasedSuggestions": true,
+  "editor.wordBasedSuggestions": false,  // TODO
   "[markdown]": {
     "editor.quickSuggestions": false
   },

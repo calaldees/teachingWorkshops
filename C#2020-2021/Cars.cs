@@ -32,7 +32,7 @@ namespace VehicleEngineLibrary
 
     class Car {
 
-        public FuelUnit unit = FuelUnit.Litre;
+        public static FuelUnit unit = FuelUnit.Litre;
 
         public static void Main(string[] args) {
             Console.WriteLine("Hello");
@@ -92,7 +92,7 @@ namespace VehicleEngineLibrary
                 Console.WriteLine(ex.Message);
             }
 
-            _car.unit = FuelUnit.GallonUK;
+            Car.unit = FuelUnit.GallonUK;
             Console.WriteLine(_car);
         }
 

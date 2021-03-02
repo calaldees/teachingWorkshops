@@ -1,0 +1,110 @@
+Organisation Communication Proposal
+===================================
+
+As an organisation we have begun to identify issues with our current internal communication technology.
+We have outgrown the basic use-case for standard tooling (email) and need to consider a reform our internal information communication strategy.
+
+Email
+-----
+
+* Great for
+    * small group multi-way interaction
+* The system breaks down for mass communication
+    * Many emails are not relevant to all staff
+    * In an attempt to reduce overload large emails swell in size and contain lots of unindexed information that is now intertwined with other unrelated information
+    * These large communications are often _batched_ together in an attempt to reduce overload, this limits the timely delivery of some important information
+    * Many members of staff then request information they missed in these batch emails. After many minuets of frantic searching and multiple colleagues forwarding the same information a second time. The panic is averted, but this does not address the actual problem that the member of staff was not on the correct distribution list to begin with. So the cycle happens again next week
+    * Students and staff struggle with the fragmented sources of information leading to stress
+    * There is no central/accessible log or repository of the internal communications that have happened across the organisation
+    * Many members of staff have to invest considerable time in a filtering system that allows them to categorise and organise this firehose of information. This filtering overhead is duplicated by every single staff member
+
+We need to consider a new organisation communication strategy.
+If we can model adoption of a new system in our school/department, then this could be a catalyst for other parts of our organisation to adopt our use of technology.
+
+
+The objectives
+--------------
+
+* To provide internal commutations
+    * From multiple independent sources
+        * E.g. PGCE, SD, 7-14, Placements, Assessments (i'm just brainstorming, the important point is that each of these has independent people/teams/departments )
+    * _timeley_
+        * No need to artifically batch communications
+    * Reduce individual filtering duplication
+    * Central connonical point of truth
+    * Accessible 
+        * (across the organisation)
+        * Externally
+            * Partener schools
+            * Profetaional Mentors
+            * Subject Mentors
+            * Students
+    * Transparency
+    * Individual customisation
+        * Automaomus configuration (no more beggining to put put on or removed from an email list)
+    * Web visible
+        * Individual articles are linkable
+            * No more forwarding of the massive email chain - links to individual items
+
+
+
+Example
+-------
+
+Hi I'm Allan. I'm a teacher trainer for Secondary PGCE/SchoolDirect. I assist the School of Computing with delivering some of their undergrad modules. I'm also on a PGCAP course internally and am interested in raising my skillset with teaching HE classes with remote pedagogy.
+
+I'm highly technically competent and have spend hours creating my own set of email rules that filter lots of the email information into categorised folder. This allows me to mostly find information I need by category. My system is contaminated by this boardcast information being intertwined with my replys/responses from other members of staff.
+
+I had a survey my students needed to fill in. I didnt have the original email (because I'm not a student). The students had to confer and forward between them. After claiming they never got it, they all found it in spam folders or ignored from 2 months ago.
+
+Proposal
+--------
+
+* [Wikipedia: RSS](https://en.wikipedia.org/wiki/RSS)
+    * Open protocol
+    * Declining in poularity as platforms fight for users traffic - the removal of RSS has been a comercial move to ensure users are locked to platforms
+        * Protocols over platforms
+
+Email is an open protocol/standard - become too big and ubiquitus to control
+
+Imagine if my organisation used RSS?
+
+* [RSS for companies](https://www.zdnet.com/article/rss-for-companies/)
+    * > RSS technology, like blogs, can be used internally or externally by companies to improve business processes. Some companies use RSS to complement -- or even replace -- their e-mail systems. Others are using RSS feeds to increase employee satisfaction or to improve the way they provide information to their customers
+* [RSS feeds useful in bringing information to employees](https://www.prweek.com/article/1259223/rss-feeds-useful-bringing-information-employees)
+* [Intranet Connections: RSS Feed Generator](https://icthrive.com/blog/intranet-connections-rss-feed-generator/)
+* Computer World [Employers tapping RSS tools to tame info overload](https://www.computerworld.com/article/2539813/employers-tapping-rss-tools-to-tame-info-overload.html) - Users hope technology will help workers cope with crush of internal communications
+* Workspace365 [What can you do with the Workspace 365 RSS feed? Twelve examples!](https://workspace365.net/en/workspace-365-rss-feed-examples/)
+* CEO Bloggers Club - [Ten Ideas for Corporate RSS Feeds](https://prplanet.typepad.com/ceobloggers/2005/03/ten_ideas_for_c.html)
+
+RSS Examples
+------------
+
+* [UK RSS News Feeds](http://www.rssmix.com/uk-news-feeds) UK news feeds, note the catagorisation
+
+* [Subscribe to an RSS Feed](https://support.microsoft.com/en-us/office/subscribe-to-an-rss-feed-73c6e717-7815-4594-98e5-81fa369e951c)
+* [SharePoint 2019- Manage RSS feeds for a site or site collection](https://support.microsoft.com/en-us/office/manage-rss-feeds-for-a-site-or-site-collection-51d1b886-6425-40d0-8fe4-160b2b2d0c47)
+
+Challenges
+----------
+
+* Education of staff
+    * Is this different to any other tech used by the organisation
+    * Is the training overhead worth the lost time and stress from our current system?
+* Internal Privacy Security
+    * If all feeds are publicly accessible (which is highly recommended), then everything is easy. If we need to restrict access to some RSS feeds to be internal only, we need to investigate the correct way to accomplish this.
+* Each part of the organisation can publish/curate an RSS with whatever technology they want, however, we need a central place to list all of the organisations internal feeds
+* RSS are normally short lived (max of 150k) - we need to consider an archival strategy that is accessible
+
+Strategy
+--------
+
+12 Month roadmap. At acupoint the project can be stopped and we revert to the old email method.
+
+1. I suggest we pick one or two high value bulk email channels and duel run them with an RSS feed. (2 months)
+    1. This will give staff curating the RSS feed confidence to understand the technology
+    2. Get some pioneering staff understanding the tools/workflow (2 months)
+2. Announce the feeds will be moving to RSS
+    1. Get the stragglers setup
+3. Remove the bulk email and monitor (4 months)
+4. Consider setup of new streams and migrate with a more aggressive time schedule (4 months)
