@@ -86,7 +86,9 @@ Imagine if my organisation used RSS?
 * Decline
     * [The Rise and Demise of RSS](https://www.vice.com/en/article/a3mm4z/the-rise-and-demise-of-rss)
         * Social platforms and retaining users
-
+* Rise
+    * Wired -  [It's Time for an RSS Revival](https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader/)
+        * After years of letting algorithms make up our minds for us, the time is right to go back to basics.
 
 RSS Examples
 ------------
