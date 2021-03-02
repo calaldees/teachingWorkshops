@@ -75,3 +75,5 @@ Slide 27
 function csharp { mcs "$1" && clear && mono "${1%.*}.exe" && rm "${1%.*}.exe"; }
 csharp program.cs
 ```
+
+* [Running Windows Forms on Linux with Mono](https://markheath.net/post/running-windows-forms-on-linux-with-mono)

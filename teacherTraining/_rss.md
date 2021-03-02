@@ -35,13 +35,13 @@ The objectives
     * Accessible 
         * (across the organisation)
         * Externally
-            * Partener schools
-            * Profetaional Mentors
+            * Partner schools
+            * Professional Mentors
             * Subject Mentors
             * Students
     * Transparency
     * Individual customisation
-        * Automaomus configuration (no more beggining to put put on or removed from an email list)
+        * Automatous configuration (no more begging to put put on or removed from an email list)
     * Web visible
         * Individual articles are linkable
             * No more forwarding of the massive email chain - links to individual items
@@ -60,30 +60,49 @@ I had a survey my students needed to fill in. I didnt have the original email (b
 Proposal
 --------
 
+RSS?
+
 * [Wikipedia: RSS](https://en.wikipedia.org/wiki/RSS)
     * Open protocol
     * Declining in poularity as platforms fight for users traffic - the removal of RSS has been a comercial move to ensure users are locked to platforms
         * Protocols over platforms
+    * email clients support(ed) RSS natively
+* [What is RSS and how can I use RSS feeds?](https://www.open.edu/openlearn/about-openlearn/rss-quickstart-guide)
+    * RSS feeds detect new content from websites of your choice then send it to you, meaning you can read new articles without even visiting those websites. Find out more in our Quickstart Guide
+    * RSS feeds are the ultimate cyber paperboy, delivering the latest articles you’re likely to be interested in as and when they become available.
+* [News feeds from the BBC - What are News Feeds?](https://www.bbc.co.uk/news/10628494)
 
 Email is an open protocol/standard - become too big and ubiquitus to control
 
 Imagine if my organisation used RSS?
+* Organisational Use
+    * [RSS for companies](https://www.zdnet.com/article/rss-for-companies/)
+        * > RSS technology, like blogs, can be used internally or externally by companies to improve business processes. Some companies use RSS to complement -- or even replace -- their e-mail systems. Others are using RSS feeds to increase employee satisfaction or to improve the way they provide information to their customers
+    * [RSS feeds useful in bringing information to employees](https://www.prweek.com/article/1259223/rss-feeds-useful-bringing-information-employees)
+    * [Intranet Connections: RSS Feed Generator](https://icthrive.com/blog/intranet-connections-rss-feed-generator/)
+    * Computer World [Employers tapping RSS tools to tame info overload](https://www.computerworld.com/article/2539813/employers-tapping-rss-tools-to-tame-info-overload.html) - Users hope technology will help workers cope with crush of internal communications
+    * Workspace365 [What can you do with the Workspace 365 RSS feed? Twelve examples!](https://workspace365.net/en/workspace-365-rss-feed-examples/)
+    * CEO Bloggers Club - [Ten Ideas for Corporate RSS Feeds](https://prplanet.typepad.com/ceobloggers/2005/03/ten_ideas_for_c.html)
+* Decline
+    * [The Rise and Demise of RSS](https://www.vice.com/en/article/a3mm4z/the-rise-and-demise-of-rss)
+        * Social platforms and retaining users
 
-* [RSS for companies](https://www.zdnet.com/article/rss-for-companies/)
-    * > RSS technology, like blogs, can be used internally or externally by companies to improve business processes. Some companies use RSS to complement -- or even replace -- their e-mail systems. Others are using RSS feeds to increase employee satisfaction or to improve the way they provide information to their customers
-* [RSS feeds useful in bringing information to employees](https://www.prweek.com/article/1259223/rss-feeds-useful-bringing-information-employees)
-* [Intranet Connections: RSS Feed Generator](https://icthrive.com/blog/intranet-connections-rss-feed-generator/)
-* Computer World [Employers tapping RSS tools to tame info overload](https://www.computerworld.com/article/2539813/employers-tapping-rss-tools-to-tame-info-overload.html) - Users hope technology will help workers cope with crush of internal communications
-* Workspace365 [What can you do with the Workspace 365 RSS feed? Twelve examples!](https://workspace365.net/en/workspace-365-rss-feed-examples/)
-* CEO Bloggers Club - [Ten Ideas for Corporate RSS Feeds](https://prplanet.typepad.com/ceobloggers/2005/03/ten_ideas_for_c.html)
 
 RSS Examples
 ------------
 
-* [UK RSS News Feeds](http://www.rssmix.com/uk-news-feeds) UK news feeds, note the catagorisation
-
-* [Subscribe to an RSS Feed](https://support.microsoft.com/en-us/office/subscribe-to-an-rss-feed-73c6e717-7815-4594-98e5-81fa369e951c)
+* Example Feeds
+    * [UK RSS News Feeds](http://www.rssmix.com/uk-news-feeds) UK news feeds, note the catagorisation
+    * [NASA RSS Feeds](https://www.nasa.gov/content/nasa-rss-feeds)
+* Outlook
+    * [Subscribe to an RSS Feed](https://support.microsoft.com/en-us/office/subscribe-to-an-rss-feed-73c6e717-7815-4594-98e5-81fa369e951c)
+    * [How to Add RSS Feeds to Microsoft Outlook](https://www.groovypost.com/howto/add-rss-feeds-microsoft-outlook/)
+    * Without Outlook Web support this a dead end
+* Browsers
+    * [Unable to read RSS feeds with Google Chrome, Firefox, or Edge](https://pmhelpdesk.zendesk.com/hc/en-us/articles/360034114693-Unable-to-read-RSS-feeds-with-Google-Chrome-Firefox-or-Edge)
+        * In 2019, most web browsers stopped supporting RSS feeds natively. This means that if you open an RSS feed in your browser, you will not see a nicely formatted page. Instead, you will see a lot of RSS coding.
 * [SharePoint 2019- Manage RSS feeds for a site or site collection](https://support.microsoft.com/en-us/office/manage-rss-feeds-for-a-site-or-site-collection-51d1b886-6425-40d0-8fe4-160b2b2d0c47)
+
 
 Challenges
 ----------
