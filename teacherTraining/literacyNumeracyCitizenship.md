@@ -1,17 +1,7 @@
 Literacy, Numeracy and Citizenship
 ==================================
 
-My background:
-* Poor literacy, bad handwriting, bad spelling
-* Mother beside herself with grief and tears; that her son would be unable to function in the world
-* I got extra time in all my exams in school and University
-* My PGCE (Different course back then) Failed my online literacy test multiple times
-* In my NQT year I spelt _The Simpsons_ incorrectly and my bottom set year 7 laughed
-* My handwriting today is difficult for even me to read back
-* I played a group game over near year where I had to draw a 'Judge' and I thought it said 'Jungle' and I drew a 'Jungle' when everyone else drew a Judge.
-* I don't in any way identify myself as dyslexic or dyspraxic. Labels are utterly irrelevant.
-* Yet in spite of that I am a successful working professional. Considered by peers exceptionally literate, informed and well read.
-
+What is a broad and balanced curriculum?
 
 Objectives
 ----------
@@ -45,14 +35,26 @@ What is the tipping point from _'just using words that scientists use'_ and _'ta
 * [Why does writing matter in remote work?](http://www.timcasasola.com/blog/writing)
 
 #### Activity: Imagine
-1min silence. Close your eyes. Imagine you lived in this world but were not literate. What things would it impair you doing?
+Imagine you lived in this world but were not literate. What things would it impair you doing?
 
-Literacy is not a skill
+Literacy is not a _skill_
 It's the power to interact and understand the world
 
 ### The _Language_ of Computer Science
 
 > Some words have specific meaning in the computer science community, but a slightly or sometimes completely different meaning in everyday discourse (e.g. nouns like code, memory, address, folder, loop, bug, value, or verb to save, to code, to retrieve, to submit)
+
+| Hot Key | The colour key on a graph referring to temperature |
+| Address | Where I live |
+
+| Python | A snake that is poisonous |
+| Secondary Storage | My nans garage |
+| Code review | A friend checking my secret message before I send it |
+| I created a code | 
+| Submit | to kneel before an oppressor |
+| Save | Money at the bank |
+| Search | Like hide and seek |
+
 
 Computer Science Education (2019)
 
@@ -118,11 +120,11 @@ Given the examples above
 
 
 # Computing Example: The language of interface design
-Another Computing example - language for interface design
-https://youtu.be/vupwCdFgWpE?t=209
-https://easings.net/en
+A Computing example - [language for interface design](https://youtu.be/vupwCdFgWpE?t=209) on [easing](https://easings.net/en)
+
 
 > On my first job as a designer, I had no idea what my boss was asking me to do. Online, I had learned about “paper prototypes” and “iterating on mockups.” But here he was telling me to “sketch a wire” and “riff on that comp.” I felt like he was speaking another language.
+
 (the-language-of-ux)[https://uxdesign.cc/the-language-of-ux-e57d40c9792f]
 
 
@@ -132,8 +134,21 @@ https://easings.net/en
 
 * [Ofsted: Inspections and performance of education providers](https://www.gov.uk/education/inspections-and-performance-of-education-providers)
     > The EIF is built around the idea of the connectedness of curriculum
-* [Improving_literacy_in_secondary_schools_-_report_summary](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/413184/Improving_literacy_in_secondary_schools_-_report_summary.pdf)
+    * [School inspection handbook](https://www.gov.uk/government/publications/school-inspection-handbook-eif)
+        * 178. inspectors will consider the extent to which schools are equipping pupils with the knowledge and _cultural capital_ they need to succeed in life
+        * 193. Inspectors will not use schools’ internal assessment data as evidence
+        * 209. Inspectors will hold discussions with pupils and staff to gather evidence about school culture and practice in relation to pupils’ behaviour, support for staff and other systems.
+        * 216. The curriculum provided by schools should extend beyond the academic, technical or vocational. Schools support pupils to develop in many diverse aspects of life.
+        * 218. 
+            * developing responsible, respectful and active citizens who are able to play their part and become actively involved in public life as adults
+            * deepening pupils’ understanding of the fundamental British values of democracy, individual liberty, the rule of law and mutual respect and tolerance
+            * promoting equality of opportunity 
+            * developing pupils’ character,
+        * 226.
+            * Inspectors will use a range of evidence to evaluate personal development, including:
+* [Improving literacy in secondary schools a shared responsibility](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/413184/Improving_literacy_in_secondary_schools_-_report_summary.pdf) Ofsted 2013
 
+[Hidden Curriculum](https://en.wikipedia.org/wiki/Hidden_curriculum)
 
 #### Activity: Discuss
 Given these examples above. What strategies could we use to enforce literacy in our subject disaplin:
@@ -313,8 +328,13 @@ What implications will this have for you teaching Computing?
 Class write a letter
 
 ### Civic responsibility to report
-* Dead swans - whatthreewords
+* Dead swans
 * Odd behaviour
+* [Fly Tipping](https://www.canterbury.gov.uk/flytipping)
+
+* [What3Words](https://en.wikipedia.org/wiki/What3words)
+    * Good: Used without internet, prevent transcription errors
+    * Bad: No open source (patent), words are not neutral (numbers are)
 
 ### Computing related
 
@@ -322,6 +342,7 @@ Class write a letter
     * GDPR
         * [Your rights as a data subject](https://www.gov.uk/government/publications/data-protection-rights-for-data-subjects/data-protection-rights-for-data-subjects)
         * Documentary about Nestle abuse in 3rd world - 2 episodes - after episode 1 aired he walked in with a lawer and invoked data protection act (predecesssor of GDPR)
+            * You can make a Subject Access Request by law
         * Organisations
             * Must register with the information commission
             * Have an obligation to keep you data secure
@@ -385,6 +406,15 @@ Youth social action - what are the benefits for careers education? - impact 2020
 
 [You peoples mental and emotional health - Trajectories and drivers in adulthood and adolescence](https://epi.org.uk/wp-content/uploads/2021/01/EPI-PT_Young-people%E2%80%99s-wellbeing_Jan2021.pdf)
 
-[//begin]: # "Autogenerated link references for markdown compatibility"
-[data-visualisation]: ../computing/data-visualisation.md "Data Visualisation"
-[//end]: # "Autogenerated link references"
+
+
+My background:
+* Poor literacy, bad handwriting, bad spelling
+* Mother beside herself with grief and tears; that her son would be unable to function in the world
+* I got extra time in all my exams in school and University
+* My PGCE (Different course back then) Failed my online literacy test 3 times
+* In my NQT year I spelt _The Simpsons_ incorrectly and my bottom set year 7 laughed
+* My handwriting today is difficult for even me to read back
+* I played a group game over near year where I had to draw a 'Judge' and I thought it said 'Jungle' and I drew a 'Jungle' when everyone else drew a Judge.
+* I don't in any way identify myself as dyslexic or dyspraxic. Labels are utterly irrelevant in the roles I need to perform.
+* Yet in spite of that I am a successful working professional. Considered by peers exceptionally literate, informed and well read.

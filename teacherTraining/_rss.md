@@ -89,6 +89,7 @@ Imagine if my organisation used RSS?
 * Rise
     * Wired -  [It's Time for an RSS Revival](https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader/)
         * After years of letting algorithms make up our minds for us, the time is right to go back to basics.
+    * [Are there a RSS like standard format for distributed (forum like) communication?](https://stackoverflow.com/questions/32759823/are-there-a-rss-like-standard-format-for-distributed-forum-like-communication/32801575)
 
 RSS Examples
 ------------

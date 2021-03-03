@@ -1,5 +1,9 @@
 [PGCE secondary booklist](https://community.computingatschool.org.uk/resources/1787/single)
 
+* [Teach Like A Champion](https://www.amazon.co.uk/Teach-Like-Champion-Techniques-Students/dp/0470550473/ref=sr_1_8?crid=3OEG5MFXMGY1V&dchild=1&keywords=teach+like+a+champion&qid=1614713652&sprefix=teach+like+%2Caps%2C176&sr=8-8)
+    * Doug Lemov
+* [Teach Like A Champion 2.0](https://teachlikeachampion.com/) + other books
+
 Research
 --------
 

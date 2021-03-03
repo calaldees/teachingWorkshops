@@ -154,6 +154,7 @@ Dual Coding
     * Audio is sequential, linear, temporal
     * Visual - composited in disjointed order and your eyes scan and compose/digest
 * [ALLAN PAIVIO’S DUAL CODING THEORY - poster](https://static1.squarespace.com/static/58e151c946c3c418501c2f88/t/5d00def50187cc00011c166d/1560338166118/Paivio%27s+DCT+model.pdf) Oliver Caviglioli
+* [HOW TO TEACH LIKE AN ATTENTION MEGALOMANIAC](https://rclutterbucked.files.wordpress.com/2020/05/teach-like-an-attention-megalomaniac-pdf-2.pdf)
 
 TASK: What does this mean for your planning?
 
@@ -478,3 +479,11 @@ Howland, J. L., Jonassen, D. H. and Marra, R. M., Meaningful Learning with Techn
     * Broad world knowledge is essential to reading comprehension
     * You cannot just Google facts when you need them
     * Achievement boosts motivation
+
+
+
+* [@rclutterbuckED](https://twitter.com/rclutterbuckED/status/1366801316622831626)
+    * > I've put together a CPD plan PPT which may help academies and schools shape their post-remote teaching CPD: 'cos everyone's rusty... Download here if you want a copy: https://rclutterbucked.com/resources Below is a 2 minute video explaining what I've done.
+    * Omega ppt hyperlinked - rosenshine - teach like a champion
+    * [rclutterbucked.com/resources](https://rclutterbucked.com/resources/)
+    * [CPD structure and resources for post-remote learning hyperlinked](https://rclutterbucked.files.wordpress.com/2021/03/downloadable-version-of-post-remote-learning-cpd-hyperlinked.pptx)

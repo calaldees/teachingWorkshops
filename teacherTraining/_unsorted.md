@@ -227,7 +227,7 @@ https://treenotation.org/designer/
 
 
 
-[Hidden Curriculum](https://en.wikipedia.org/wiki/Hidden_curriculum)
+
 
 
 
