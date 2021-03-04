@@ -19,8 +19,8 @@ Teacher Standards
 -----------------
 
 * [UK Teacher Standards](https://www.gov.uk/government/publications/teachers-standards) [PDF](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/665520/Teachers__Standards.pdf)
-* [New Zealand professional-responsibilities-for-teachers](https://education.nsw.gov.au/about-us/jobs-and-opportunities/school-careers/teachers/professional-responsibilities-for-teachers)
-* [Infographic](https://infograph.venngage.com/p/230898/roles-and-responsibilities-of-a-professional-teacher)
+
+* Venngage Infographic [Roles and Responsibilities of a Professional Teacher](https://infograph.venngage.com/p/230898/roles-and-responsibilities-of-a-professional-teacher)
 
 * [Prevent UK](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/445977/3799_Revised_Prevent_Duty_Guidance__England_Wales_V2-Interactive.pdf) - [How do teachers engage with prevent](https://crestresearch.ac.uk/comment/lewis-teachers-engage-prevent/)
 * [Teacher Workload reform 2015](https://www.gov.uk/government/publications/reducing-teachers-workload/reducing-teachers-workload)
@@ -133,48 +133,6 @@ Trainee Medical Student - choose to observe a fetish event to best understand th
 
 You are a role model - if you want them to be passionate and curious - you have to be passionate and curious
 
-
-Careers Advice to Students
---------------------------
-
-As professionals we are (part of) laying the foundations for the rest of their lives.
-As a professional we are guiding young people to be confident, competent, stable, communities.
-
-The idealistic "follow your dreams" is selfish/elitist and only half the story.
-The full quote should read "Support your community, to facilitate following your dreams".
-
-> Satisfaction comes from *experience* not _passion_
-
-[So Good They Can't Ignore You](https://www.amazon.co.uk/Good-They-Cant-Ignore-You/dp/0349415862) - [Cal Newport](https://en.wikipedia.org/wiki/Cal_Newport)
-
-> Ask not what your country can do for you — ask what you can do for your country
-
-[Kennedy](https://en.wikipedia.org/wiki/Inauguration_of_John_F._Kennedy)
-
-I don't like the term _country_ - so I suggest a replacement of _community_
-
-There are plenty of roles that society needs.
-Why would you deliberately ignore what society needs to live your life in your own self indulgent bubble?
-Many students cite: Singer, Game Designer, Actor, Film Director, YouTuber, Steamer, Footballer as desired occupations. Because that is the only world they know.
-This narrow view is understandable; it's ultimately the failing of adults ability to convey the concept of society to young people.
-We need to stop indulging our young people. We risk creating a generation of self-obsessed, wingey, skill-less turnips.
-
-* [Spheres of influence: what shapes young people’s aspirations at age 12/13 and what are the implications for education policy?](https://www.tandfonline.com/doi/abs/10.1080/02680939.2013.790079) Louise Archer 2013
-    * > We demonstrate how aspirations are shaped by structural forces (e.g. social class, gender and ethnicity) and how different spheres of influence (home/family, school, hobbies/leisure activities and TV) appear to shape different types of aspirations. The paper concludes by considering the implications for educational policy and careers education.
-
-Skill up to assist your community.
-Get revenue for it.
-Get satisfaction from it.
-Use the extra financial capability to fund what you want to do. Be it travelling, starting a family, facilitating your own creative projects or adventures.
-If they don't get a career and contribute back to society they are going to have problems.
-
-
-See [Conversations with Young People] for more - Stop giving them advice about a future you know nothing about
-
-* [Job Interest Not a Big Predictor of Job Satisfaction ](https://uh.edu/news-events/stories/2020/november-2020/11112020-kevin-hoff-interest-job-satisfaction.php)
-    * > To be satisfied with a job, you don’t have to worry too much about finding a perfect fit for your interests because we know other things matter, too. As long as it’s something you don’t hate doing, you may find yourself very satisfied if you have a good supervisor, like your coworkers, and are treated fairly by your organization.
-    * > Being interested in your work seems more important for job performance and the downstream consequences of performing well, like raises or promotions
-    * > In popular career guidance literature, it is widely assumed that interest fit is important for job satisfaction. Our results show that people who are more interested in their jobs tend to be slightly more satisfied, but interest assessments are more useful for guiding people towards jobs in which they will perform better and make more money
 
 
 Bribery Act 2010

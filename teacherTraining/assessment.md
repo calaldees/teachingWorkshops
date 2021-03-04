@@ -454,10 +454,10 @@ Activity: Why are you here? (Refer to the teacher standards)
 * "There is nothing noble in being superior to your fellow men. True nobility lies in being superior to your former self" (Anthony Moore)
 * Ken Robinson's Story - Mary - Year 3 - Cold breaktime - drawing God - 'nobody knows what god looks like' - 'they will in a minuet miss' - then the lesson starts, robbed of that freedom.
 
-* The first step is to measure whatever can be easily measured. This is ok as far as it goes
+* The first step is to measure whatever can be easily measured. This is ok as far as it goes.
 * The second step is to disregard that which can't be measured or give it an arbitrary quantitative value. This is artificial and misleading.
-* The third step is to presume that what cant be measured easily really isn't very important. This is blindness.
-* The forth step is to say that that which can't be easily measured really doesn't exist
+* The third step is to presume that what can't be measured easily really isn't very important. This is blindness.
+* The forth step is to say that that which can't be easily measured really doesn't exist.
 (Blatchford 2014)
 
 Activity: Discuss:Some schools ask for an attainment and effort grade? what do you think??
@@ -468,56 +468,6 @@ Activity: Discuss:Some schools ask for an attainment and effort grade? what do y
 Activity: Board: What are the character traits we want to inspire? Invisible Curriculum (Refer to the Teacher Standards for inspiration).
 
 
-### Assessing Character Traits and Attitudes (Andrew Hammond)
-
-The 'language' of character
-
-Terms that are rubbish
-* soft skills
-* progress (end in mind)
-* potential (fixed)
-* performance (refers to measuring)
-
-
-'development' implies growth
-
-* Grit
-    * gritty, tenacious, committed, courageous, plucky, resolute
-* Adaptability
-    * adaptable, flexible, accommodating, open, tolerant
-* Optimism
-    * Optimistic, resilient, positive, confident, enthusiastic, hopeful
-* Self-Control
-    * Composed, graceful, poised, reserved, in-control, self-directed, self-regulatory
-* Empathy
-    * Empathic, understanding, considerate, compassionate, kind
-* Discernment
-    * Discerning, reasoned, rational, responsible, shrewd, astute, grounded, balanced
-* Trust
-    * collaborative, cooperative, team-player, trusting, participative
-
-'Observable evidence' (not assessment)
-
-Teacher as a model learner
-* '6th form complaints about other teacher' story
-
-
-The Rules?
-
-| Have Courage       | Help others to be strong          |
-| Stay positive      | look for the good in others       |
-| Show self-control  | Work together as a team           |
-| Embrace change     | Help those who find change hard   |
-| Believe in yourself | Believe in others                  |
-| Respect yourself   | Show respect to others            |
-| Do what is right   | Help others to do the right thing |
-
-* If there is a mark in a spreadsheet, markbook, notebook it suddenly has professional weight/value. The knowledge in your head carrys less weight.
-* so record it
-
-
-Learning is something the learners have to do for themselves
-Failed a test: Not because you didn't prepare well, it's because your stupid.
 
 
 Summative/Formative Assessment
