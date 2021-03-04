@@ -37,7 +37,7 @@ Session Format
 
 
 
-Education Inspection Framework (EIF) (1hour 30min)
+Education Inspection Framework (EIF) (Async 45min + 30min breakout groups + 15min whole class == 1hour30min)
 ------------------------------------
 
 * I always refer my students to the assessment criteria. You are teachers. I will refer you to your _assessment criteria_. What criteria are schools inspected under?
@@ -270,6 +270,14 @@ Computers are just giant calculators. Numeracy is the underpinning of our entire
 * What are the biggest killers of young people in the UK?
     * [health-profile-for-england-2018](https://www.gov.uk/government/publications/health-profile-for-england-2018/chapter-2-trends-in-mortality)
 * The discipline of [data-visualisation](https://github.com/ComputingTeachers/mapOfComputing/blob/main/computing/data-visualisation.md)
+    * [idea.org.uk: Data Visualization Online lesson 10min](https://idea.org.uk/badge/data-visualisation)
+        * Napoleon map
+        * pre-attentive visual attributes
+            * Length, width, orientation, size, enclosure, color intensity, color hue, curvature, shape, spatial grouping, 2d position
+    * [xkcd Visualisations](http://www.vislives.com/2011/10/xkcd-visualizations.html)
+    * [Information Is Beautiful](https://informationisbeautiful.net/)
+        * [TED-Ed: The beauty of data visualization - David McCandless](https://www.youtube.com/watch?v=5Zg-C8AAIGg)
+            * For data to mean something, it must have context (relative)
 
 ### The bias in numbers
 * Correlation is not the same as causation
@@ -325,7 +333,7 @@ These could be discussion points
 
 
 
-Citizenship
+Citizenship (Async 1hour + 30min group)
 -----------
 
 > not undermining fundamental British values, including democracy, the rule of law, individual liberty and mutual respect, and tolerance of those with different faiths and beliefs
@@ -334,52 +342,41 @@ Citizenship
 
 ### Spiritual, Moral, Social and Cultural (SMSC)
 
+Reading Async (30min)
+
 * [youngcitizens.org- New OFSTED framework: New Opportunities for Citizenship, FBV and SMSC](https://www.youngcitizens.org/blog/new-ofsted-framework-new-opportunities) 2019
     * > (Citizenship) equips pupils with the cultural capital they need to succeed in modern Britain
     * > The Association for Citizenship Teaching (ACT) recently tweeted news of the outcome of an Ofsted pilot visit with the new EIF where a school in Dorset was put into special measures because the deep dive showed that it failed to offer a sufficiently rich and balanced curriculum that included subjects and aspects such as Citizenship, FBV and could not fully promote pupils’ SMSC development. This underlines the dangers lurking for those schools that have downgraded their provision for Citizenship in the curriculum and their promotion of FBV and SMSC under the current inspection framework.
     * > there are very encouraging signs that schools will have considerable opportunities to make their Citizenship provision and its contribution to FBV and SMSC an explicit part of the curriculum and the conversations they have with inspectors
-* [Young Citizens: doingsmsc.org.uk/british-values/](http://www.doingsmsc.org.uk/british-values/)
-* [Fundamental British Values: What are they and how should we teach them?](https://learningspy.co.uk/featured/fundamental-british-values-teach/) David Didau 2017 blog
-* [Ofsted - Promoting fundamental British values through SMSC](https://www.gov.uk/government/publications/promoting-fundamental-british-values-through-smsc) 2014
-    * Departmental advice on promoting basic important British values as part of pupils’ spiritual, moral, social and cultural (SMSC) development.
-    * > how democracy and the law work in Britain, in contrast to other forms of government in other countries
-    * > an understanding that there is a separation of power between the executive and the judiciary, and that while some public bodies such as the police and the army can be held to account through Parliament, others such as the courts maintain independence;
 
-What implications will this have for you teaching Computing?
+* Additional reading (Should you have time)
+    * [Young Citizens: doingsmsc.org.uk/british-values/](http://www.doingsmsc.org.uk/british-values/)
+    * [Fundamental British Values: What are they and how should we teach them?](https://learningspy.co.uk/featured/fundamental-british-values-teach/) David Didau 2017 blog
+    * [Ofsted - Promoting fundamental British values through SMSC](https://www.gov.uk/government/publications/promoting-fundamental-british-values-through-smsc) 2014
+        * Departmental advice on promoting basic important British values as part of pupils’ spiritual, moral, social and cultural (SMSC) development.
+        * > how democracy and the law work in Britain, in contrast to other forms of government in other countries
+        * > an understanding that there is a separation of power between the executive and the judiciary, and that while some public bodies such as the police and the army can be held to account through Parliament, others such as the courts maintain independence;
 
-#### PREVENT Duty
+What implications will this have for your teaching of Computing?
+Add your thoughts/notes/commentary to the Google Doc
+Do you all align? or are there different ideas within your group?
 
-Prevent Duty - introduced in the counter terrorism and security act 2015 section 26
-Part of safeguarding
+### Digital Citizenship (Async 45min - Group Discuss 15min - 10min whole group)
 
-> Extremism is defined as vocal or active opposition to fundamental British values, including democracy, the rule of law, individual liberty and mutual respect and tolerance of different faiths and beliefs.
+Consider the question:
+* Is digital citizenship my responsibility? How will this impact my future teaching?
 
-> Terrorism is defined as any action that endangers or causes serious violence to a person or people; causes serious damage to property; or seriously interferes or disrupts an electronic system. The use or threat must be designed to influence the government or to intimidate the public and is made for the purpose of advancing a political, religious or ideological cause. 
+When reading - consider:
+* Education Inspection Framework - Citizenship, FBV and SMSC
+* National Curriculum for Computing
 
-Radicalisation is a process
-1. All members of community
-    * Moral outrage, need for identity ()
-    * Steps to personal well-being, stimulating interests
-2. The vulnerable
-    * Verbal hate/aggression, perceived legitimacy
-    * Open debate, positive role models
-3. Moving towards extremism
-    * Crossing the threshold into criminality
-    * Last opportunity
-4. Actively breaking the law
-
-* Warning Signs
-    * Showing strong allegiance to a group
-    * Withdrawing form friends/community
-    * Loosing interest in personal aspirations
-
-### Digital Citizenship
+Read the following report about Digital Citizenship (30min)
 
 * [Digital Citizenship Report: Towards tomorrow’s successful digital citizens: providing the critical and dialogical opportunities to change lifestyles and mindsets](https://mirandanet.ac.uk/wp-content/uploads/2019/06/Preston-Savage-et-al-FINAL_DigitalCitizens-Master-19nov15-CP-response-to-PB-commentary.pdf) 2019 mirandanet.ac.uk
     * > We suggest that skilled computer experts will provide a better service to society if they are able to understand and debate the benefits and dangers of computer literacy.
     * > This professional community believes the importance of ethics and values in relation to digital technologies are not emphasised sufficiently in today's digital society
     * Digital literacy 
-        * is the ability to find, evaluate, utilize, share, and create content using informationtechnologies and the Internet (Cornell University 2016).
+        * is the ability to find, evaluate, utilize, share, and create content using information technologies and the Internet (Cornell University 2016).
     * Digital citizenship 
         * is the norms of appropriate, responsible behaviour with regard to technology use(Digital Citizenship 2016).
     * A Digital society is characterised by three cultures:
@@ -388,123 +385,51 @@ Radicalisation is a process
         * Digital values 
             * which form a belief system that provides meanings or goals for human behaviours or social activities in the digital society.
         * Digital norms 
-            * which represents normative procedures and rules that are socially acknowledged in carrying out digital activities (Kwon et al[CP5].)
+            * which represents normative procedures and rules that are socially acknowledged in carrying out digital activities (Kwon et al.)
     * Digital Equity 
         * is the social justice goal of ensuring that everyone in our society has equal access to technology tools, computers and the Internet. It is when all individuals have the knowledge and skills to access and use technology tools, computers and the Internet.
     * Digital wisdom 
         * is the ability of individuals and/or societies to make informed decisions in relation to the appropriate use and exploitation of information technology in all its forms
-* [TES: Teach that 'no platforming' is 'harmful', schools told](https://www.tes.com/news/teach-no-platforming-harmful-schools-told)
-    * Government RSE guidance also says teachers should explain 'harm' caused by 'cancel culture' and the importance of freedom of speech
 
+Return to your group breakout rooms and discuss "Is digital citizenship my responsibility? How will this impact my future teaching?" (15min)
+
+Spokesperson from group (10min)
 
 ### Further resources
 * [youngcitizens.org](https://www.youngcitizens.org/)
 * [@ACitizenshipT](https://twitter.com/ACitizenshipT)
 
 
-### Ofsted Requirements
-
-> volunteer, discuss and debate
-
-> Intent -> Implementation -> Impact
-
-
-### Law and Democracy
-
-* Law [is-your-school-joining-the-big-legal-lesson](https://www.youngcitizens.org/news/is-your-school-joining-the-big-legal-lesson)
-    * [civil vs criminal law](https://www.rasmussen.edu/degrees/justice-studies/blog/civil-law-versus-criminal-law/)
-    * [Girl, 5, fined £150 for lemonade stand](https://www.bbc.co.uk/news/uk-england-london-40679075)
-    * Hate Crimes
-        * [Arrested for telling a bad joke: the Count Dankula story](https://www.independent.co.uk/news/uk/crime/count-dankula-nazi-pug-video-appeal-refused-youtube-court-case-gross-offence-a8483201.html)
-            * court demanded he pay £800 fine, he refused to pay and would go to prison for what he believed, was getting to much press, courts just took money from his account and sent him home
-            * [Dankula Appeal](https://www.gofundme.com/f/fund-the-count-dankula-appeal)
-            * All funds now ceased and held as case was dismissed by court
-* Democracy
-    * [Marcus J Ball](https://www.marcusjball.com/) suggests that if politicians are allowed to lie to us then democracy dies
-        * If a CEO lies to their shareholders, they go to prison for fraud. If a politicians lies to a country, that's _fair game_
-    * [Is the EU Democratic? Does Your Vote Matter?](https://www.youtube.com/watch?v=h4Uu5eyN6VU)
-        * Animation by [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt/videos). A Wonderful resource for education animations
-    * [Manipulative political discourse undermines voters](https://electionemails2020.org/assets/manipulative-political-emails-working-paper.pdf)
-
-### Story: A-Level class teacher complaint
-Class write a letter
-
-### Civic responsibility to report
-* Dead swans
-* Odd behaviour
-* [Fly Tipping](https://www.canterbury.gov.uk/flytipping)
-
-* [What3Words](https://en.wikipedia.org/wiki/What3words)
-    * Good: Used without internet, prevent transcription errors
-    * Bad: No open source (patent), words are not neutral (numbers are)
-
-### Computing related
-
-* Laws
-    * GDPR
-        * [Your rights as a data subject](https://www.gov.uk/government/publications/data-protection-rights-for-data-subjects/data-protection-rights-for-data-subjects)
-        * Documentary about Nestle abuse in 3rd world - 2 episodes - after episode 1 aired he walked in with a lawer and invoked data protection act (predecesssor of GDPR)
-            * You can make a Subject Access Request by law
-        * Organisations
-            * Must register with the information commission
-            * Have an obligation to keep you data secure
-    * [Computer Misuse Act](http://www.legislation.gov.uk/ukpga/1990/18/contents)
-        * It is illegal to interfere with the running of somebody else's program
-        * Unauthorized access
-        * Unauthorized access with intent to commit further offences
-        * Unauthorized access and change data
-        * (If a student turns off another persons computer, you can cite the misuse of computer act)
-* Misuse of data
-    * [openrightsgroup.org](https://www.openrightsgroup.org/)
-        * [blocked.org.uk](https://www.blocked.org.uk/)
-            * ISPs can block/filter site access
-                * Small business owner - singing teacher - website blocked as 'drugs' and did not know
-        * Responsibility to report phishing (see digitalLiteracy)
-            * [report-suspicious-emails-websites-phishing](https://www.gov.uk/report-suspicious-emails-websites-phishing)
-    * [plaintextoffenders](http://plaintextoffenders.com/)
-    * [Stand up to police spying](https://www.libertyhumanrights.org.uk/our-campaigns/stand-police-spying)
-        * [Predictive Policing Report](https://www.libertyhumanrights.org.uk/sites/default/files/LIB%2011%20Predictive%20Policing%20Report%20WEB.pdf)
-    * [The Great Hack](https://www.youtube.com/watch?v=iX8GxLP1FHo)
-        * If it's free you are the product
-    * [Apple Vs FBI](https://www.computerworld.com/article/3038269/apple-vs-the-fbi-the-legal-arguments-explained.html)
-* Hacking (see computer misuse above)
-    * Who knows how a system or people can be exploited by hacking?
-    * Who knows how to protect a system or people from being exploited by hacking?
-    * Security consultancy is a highly valued and lucrative carrer, but you must do it properly
-    * My Stories
-        * Liaising with school technicians - they will do it anyway
-        * Message board example hack - alert box
-        * SMTP open port - mail from the future
-* Volunteer
-    * Concept - Help old people to use computers
-
-
-Youth Language
+Youth Language (30min group)
 --------------
 
 * Try to be aware of the language the youth in your school are using. It could be important for you spotting abuse or intimidation.
     * Most of the time the students LOVE talking about this to teachers. They love the reversal of knowing something more than the teacher. These are good lunchtime conversations.
     * [Teacher keeps a list of ‘Generation Z’ slang words and honestly, we stan](https://metro.co.uk/2019/05/05/teacher-keeps-a-list-of-generation-z-slang-words-and-honestly-we-stan-9415694/)
-* [Youthsplaining: These Are the Four Questions You Shouldn’t Ask Young People This Holiday Season The holidays are stressful, let’s not make your inquiries](https://www.insidehook.com/article/advice/youthsplaining-these-are-the-four-questions-you-shouldnt-ask-young-people-this-holiday-season)
-    * Stop asking
-        * If they have a boyfriend/girlfriend (they will tell you)
-        * what their plans are
-        * Are you sure that’s a lucrative career?
-            * > Much like Millennials, we Gen Zers and are terrified of the instability of our futures caused by, well, you, kinda. We’ve inherited a dying planet, we’re already in mountains of debt thanks to the higher education we pretty much had to get, we will never own a home and, believe it or not, we often wonder if we can have a job we enjoy and also be able to regularly afford groceries. This question isn’t new to us. So while hearing it will certainly make our stomachs drop, it’ll also just straight-up piss us off, and we will 100% “ok boomer” your ass (behind your back, to our cousins). 
-    * Stop giving them advice about a future you know nothing about
 * [Youthsplaining: What the Hell Is a Simp? Are You a Simp?](https://www.insidehook.com/article/internet/what-is-a-simp)
 * [Cancel Culture](https://www.insidehook.com/article/internet/youthsplaining-everything-you-need-to-know-about-cancel-culture)
+    * [TES: Teach that 'no platforming' is 'harmful', schools told](https://www.tes.com/news/teach-no-platforming-harmful-schools-told)
+        * Government RSE guidance also says teachers should explain 'harm' caused by 'cancel culture' and the importance of freedom of speech
 * Woke
 * Beta
 
+In your breakout groups and shared workspace - collate a list of youth terms you have encountered and share them.
 
 
-Careers Advice to Students
+
+
+Careers Advice to Students (15min lecture + 15min async reading)
 --------------------------
+
+* Are we careers experts in every profession? ... no ... we are teachers with limited knowledge of the entire economy.
+* Do we know what the job market will be like in 20 years times and what skills will be in demand ... no ... 
+* Should we be proclaiming to young people we know about their future ... probably not .. 
+
+I think there are some fundamentals we can ascertain
 
 * As professionals we are (part of) laying the foundations for the rest of their lives.
 * As a professional we are guiding young people to be confident, competent, stable, communities.
-* The idealistic "follow your dreams" is selfish/elitist and only half the story.
+* The idealistic "follow your dreams" feels selfish/elitist and only half the story.
 * The full quote should read "Support your community, to facilitate following your dreams".
 
 > Satisfaction comes from *experience* not _passion_
@@ -522,8 +447,8 @@ I don't like the term _country_ - so I suggest a replacement of _community_
 * Many students cite desired occupations as: 
     * Singer (X-Factor), Game Designer, Actor, Film Director, YouTuber, Steamer, Footballer.
     * Because that is the only world they know.
-* This narrow view is understandable; it's ultimately the failing of adults ability to convey the concept of society to young people.
-* We need to stop indulging our young people. We risk creating a generation that are self-obsessed and self-entitled.
+* This narrow view is understandable; it's ultimately the failing of adults ability to convey the concept of _society_ and _community_ to young people.
+* We need to stop indulging our young people. We risk creating a generation that are self-obsessed and self-entitled and lack a wider perspective.
 
 * [Spheres of influence: what shapes young people’s aspirations at age 12/13 and what are the implications for education policy?](https://www.tandfonline.com/doi/abs/10.1080/02680939.2013.790079) Louise Archer 2013
     * > We demonstrate how aspirations are shaped by structural forces (e.g. social class, gender and ethnicity) and how different spheres of influence (home/family, school, hobbies/leisure activities and TV) appear to shape different types of aspirations. The paper concludes by considering the implications for educational policy and careers education.
@@ -536,61 +461,26 @@ I don't like the term _country_ - so I suggest a replacement of _community_
 Use the extra financial capability to fund what you want to do. Be it travelling, starting a family, facilitating your own creative projects or adventures.
 If they don't get a career and contribute back to society they are going to have problems.
 
-Stop giving them advice about a future you know nothing about
 * [Youthsplaining: These Are the Four Questions You Shouldn’t Ask Young People This Holiday Season The holidays are stressful, let’s not make your inquiries](https://www.insidehook.com/article/advice/youthsplaining-these-are-the-four-questions-you-shouldnt-ask-young-people-this-holiday-season)
+    * Stop asking
+        * If they have a boyfriend/girlfriend (they will tell you)
+        * what their plans are
+        * Are you sure that’s a lucrative career?
+            * > Much like Millennials, we Gen Zers and are terrified of the instability of our futures caused by, well, you, kinda. We’ve inherited a dying planet, we’re already in mountains of debt thanks to the higher education we pretty much had to get, we will never own a home and, believe it or not, we often wonder if we can have a job we enjoy and also be able to regularly afford groceries. This question isn’t new to us. So while hearing it will certainly make our stomachs drop, it’ll also just straight-up piss us off, and we will 100% “ok boomer” your ass (behind your back, to our cousins). 
+    * Stop giving them advice about a future you know nothing about
 
 * [Job Interest Not a Big Predictor of Job Satisfaction](https://uh.edu/news-events/stories/2020/november-2020/11112020-kevin-hoff-interest-job-satisfaction.php)
-    * > To be satisfied with a job, you don’t have to worry too much about finding a perfect fit for your interests because we know other things matter, too. As long as it’s something you don’t hate doing, you may find yourself very satisfied if you have a good supervisor, like your coworkers, and are treated fairly by your organization.
-    * > Being interested in your work seems more important for job performance and the downstream consequences of performing well, like raises or promotions
-    * > In popular career guidance literature, it is widely assumed that interest fit is important for job satisfaction. Our results show that people who are more interested in their jobs tend to be slightly more satisfied, but interest assessments are more useful for guiding people towards jobs in which they will perform better and make more money
+    * > To be satisfied with a job, you don’t have to worry too much about finding a perfect fit for your interests because we know other things matter, too. As long as it’s something you don’t hate doing, you may find yourself very satisfied if you have a good supervisor, like your co-workers, and are treated fairly by your organization.
+    * > Being interested in your work seems more important for job performance and the downstream consequences of performing well, like raises or promotions.
+    * > In popular career guidance literature, it is widely assumed that interest fit is important for job satisfaction. Our results show that people who are more interested in their jobs tend to be slightly more satisfied, but interest assessments are more useful for guiding people towards jobs in which they will perform better and make more money.
 
 
 
-Unsorted
-========
-
-ITT Core Content Framework
-
-> 7.5. Building effective relationships is easier when pupils believe that their feelings will be considered and understood.
-
-> 7.6. Pupils are motivated by intrinsic factors (related to their identity and values) and extrinsic factors (related to reward).
-
-
-Promoting Self-efficacy in attitude - your learning is your responsibility
-
-[Self-efficacy and social action](https://impact.chartered.college/article/self-efficacy-and-social-action/) Impact Nov 2020 Chris Baker
-
-[Emotions matter: Adapting RULER for UK schools to build emotional intelligence in children](https://impact.chartered.college/article/emotions-matter-adapting-ruler-uk-schools-emotional-intelligence-children/) Impact Nov 2020 - Michael Eggleton
-
-* plesentness +5-5 Energy +5-5
-critial thinking
- identifying assumptions, assessing credabiklity, constuct counter exaples, consistenct/conmtradiction, ifentifying fallacies, join and indipendent reasoning
-
-Youth social action - what are the benefits for careers education? - impact 2020
-* gatsby benchmarks
-    1. Linking curriculum learning to carers
-
-[You peoples mental and emotional health - Trajectories and drivers in adulthood and adolescence](https://epi.org.uk/wp-content/uploads/2021/01/EPI-PT_Young-people%E2%80%99s-wellbeing_Jan2021.pdf)
-
-* [Let's save Maya Angelou from fake quotes](https://www.bbc.co.uk/news/41913640) BBC 2017 Rebecca Seales
-
-> They may forget what you said - but they will never forget how you made them feel.
-<sub>Carl W. Buehner</sub>
 
 
 
-My background:
-* Poor literacy, bad handwriting, bad spelling
-* Mother beside herself with grief and tears; that her son would be unable to function in the world
-* I got extra time in all my exams in school and University
-* My PGCE (Different course back then) Failed my online literacy test 3 times
-* In my NQT year I spelt _The Simpsons_ incorrectly and my bottom set year 7 laughed
-* My handwriting today is difficult for even me to read back
-* I played a group game over near year where I had to draw a 'Judge' and I thought it said 'Jungle' and I drew a 'Jungle' when everyone else drew a Judge.
-* I don't in any way identify myself as dyslexic or dyspraxic. Labels are utterly irrelevant in the roles I need to perform.
-* Yet in spite of that I am a successful working professional. Considered by peers exceptionally literate, informed and well read.
-
-### Teaching for Character
+Teaching for Character (in progress)
+----------------------
 
 We have now ascertained we are teaching character traits. So what language can we use to describe these traits?
 
@@ -654,10 +544,176 @@ Teacher as a model learner
 Learning is something the learners have to do for themselves
 Failed a test: Not because you didn't prepare well, it's because your stupid.
 
-Hidden Curriculum
------------------
+### Hidden Curriculum
 
 * [Hidden Curriculum](https://en.wikipedia.org/wiki/Hidden_curriculum)
+
+
+
+
+
+
+Unsorted
+========
+
+ITT Core Content Framework
+
+> 7.5. Building effective relationships is easier when pupils believe that their feelings will be considered and understood.
+
+> 7.6. Pupils are motivated by intrinsic factors (related to their identity and values) and extrinsic factors (related to reward).
+
+
+Promoting Self-efficacy in attitude - your learning is your responsibility
+
+[Self-efficacy and social action](https://impact.chartered.college/article/self-efficacy-and-social-action/) Impact Nov 2020 Chris Baker
+
+[Emotions matter: Adapting RULER for UK schools to build emotional intelligence in children](https://impact.chartered.college/article/emotions-matter-adapting-ruler-uk-schools-emotional-intelligence-children/) Impact Nov 2020 - Michael Eggleton
+
+* plesentness +5-5 Energy +5-5
+critial thinking
+ identifying assumptions, assessing credabiklity, constuct counter exaples, consistenct/conmtradiction, ifentifying fallacies, join and indipendent reasoning
+
+Youth social action - what are the benefits for careers education? - impact 2020
+* gatsby benchmarks
+    1. Linking curriculum learning to carers
+
+[You peoples mental and emotional health - Trajectories and drivers in adulthood and adolescence](https://epi.org.uk/wp-content/uploads/2021/01/EPI-PT_Young-people%E2%80%99s-wellbeing_Jan2021.pdf)
+
+* [Let's save Maya Angelou from fake quotes](https://www.bbc.co.uk/news/41913640) BBC 2017 Rebecca Seales
+
+> They may forget what you said - but they will never forget how you made them feel.
+<sub>Carl W. Buehner</sub>
+
+
+
+My background:
+* Poor literacy, bad handwriting, bad spelling
+* Mother beside herself with grief and tears; that her son would be unable to function in the world
+* I got extra time in all my exams in school and University
+* My PGCE (Different course back then) Failed my online literacy test 3 times
+* In my NQT year I spelt _The Simpsons_ incorrectly and my bottom set year 7 laughed
+* My handwriting today is difficult for even me to read back
+* I played a group game over near year where I had to draw a 'Judge' and I thought it said 'Jungle' and I drew a 'Jungle' when everyone else drew a Judge.
+* I don't in any way identify myself as dyslexic or dyspraxic. Labels are utterly irrelevant in the roles I need to perform.
+* Yet in spite of that I am a successful working professional. Considered by peers exceptionally literate, informed and well read.
+
+
+
+Citizenship
+----------
+
+
+### Other
+
+### Ofsted Requirements
+
+> volunteer, discuss and debate
+
+> Intent -> Implementation -> Impact
+
+
+### Law and Democracy
+
+* Law [is-your-school-joining-the-big-legal-lesson](https://www.youngcitizens.org/news/is-your-school-joining-the-big-legal-lesson)
+    * [civil vs criminal law](https://www.rasmussen.edu/degrees/justice-studies/blog/civil-law-versus-criminal-law/)
+    * [Girl, 5, fined £150 for lemonade stand](https://www.bbc.co.uk/news/uk-england-london-40679075)
+    * Hate Crimes
+        * [Arrested for telling a bad joke: the Count Dankula story](https://www.independent.co.uk/news/uk/crime/count-dankula-nazi-pug-video-appeal-refused-youtube-court-case-gross-offence-a8483201.html)
+            * court demanded he pay £800 fine, he refused to pay and would go to prison for what he believed, was getting to much press, courts just took money from his account and sent him home
+            * [Dankula Appeal](https://www.gofundme.com/f/fund-the-count-dankula-appeal)
+            * All funds now ceased and held as case was dismissed by court
+            * Freedom of speech? or Hate Crime?
+* Democracy
+    * [Marcus J Ball](https://www.marcusjball.com/) suggests that if politicians are allowed to lie to us then democracy dies
+        * If a CEO lies to their shareholders, they go to prison for fraud. If a politicians lies to a country, that's _fair game_
+    * [Is the EU Democratic? Does Your Vote Matter?](https://www.youtube.com/watch?v=h4Uu5eyN6VU)
+        * Animation by [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt/videos). A Wonderful resource for education animations
+    * [Manipulative political discourse undermines voters](https://electionemails2020.org/assets/manipulative-political-emails-working-paper.pdf)
+
+
+
+### PREVENT Duty
+
+Prevent Duty - introduced in the counter terrorism and security act 2015 section 26
+Part of safeguarding
+
+> Extremism is defined as vocal or active opposition to fundamental British values, including democracy, the rule of law, individual liberty and mutual respect and tolerance of different faiths and beliefs.
+
+> Terrorism is defined as any action that endangers or causes serious violence to a person or people; causes serious damage to property; or seriously interferes or disrupts an electronic system. The use or threat must be designed to influence the government or to intimidate the public and is made for the purpose of advancing a political, religious or ideological cause. 
+
+Radicalisation is a process
+1. All members of community
+    * Moral outrage, need for identity ()
+    * Steps to personal well-being, stimulating interests
+2. The vulnerable
+    * Verbal hate/aggression, perceived legitimacy
+    * Open debate, positive role models
+3. Moving towards extremism
+    * Crossing the threshold into criminality
+    * Last opportunity
+4. Actively breaking the law
+
+* Warning Signs
+    * Showing strong allegiance to a group
+    * Withdrawing form friends/community
+    * Loosing interest in personal aspirations
+
+
+### Story: A-Level class teacher complaint
+Class write a letter
+
+### Civic responsibility to report
+* Harm to Animals
+    * [Report a dead or injured animal ](https://www.gov.uk/report-dead-animal)
+    * [Dead swans](http://news.bbc.co.uk/cbbcnews/hi/newsid_4730000/newsid_4732600/4732666.stm)
+* Odd behaviour
+* [Fly Tipping](https://www.canterbury.gov.uk/flytipping)
+
+* Locating things with [What3Words](https://en.wikipedia.org/wiki/What3words)
+    * Good: Used without internet, prevent transcription errors
+    * Bad: No open source (patent), words are not neutral (numbers are)
+
+### Computing related
+
+* Laws
+    * GDPR
+        * [Your rights as a data subject](https://www.gov.uk/government/publications/data-protection-rights-for-data-subjects/data-protection-rights-for-data-subjects)
+        * Documentary about Nestle abuse in 3rd world - 2 episodes - after episode 1 aired he walked in with a lawyer and invoked data protection act (predecessor of GDPR)
+            * You can make a Subject Access Request by law about yourself
+        * Organisations
+            * Must register with the information commission
+            * Have an obligation to keep you data secure
+    * [Computer Misuse Act](http://www.legislation.gov.uk/ukpga/1990/18/contents)
+        * It is illegal to interfere with the running of somebody else's program
+        * Unauthorized access
+        * Unauthorized access with intent to commit further offences
+        * Unauthorized access and change data
+        * (If a student turns off another persons computer, you can cite the misuse of computer act)
+* Misuse of data
+    * [openrightsgroup.org](https://www.openrightsgroup.org/)
+        * [blocked.org.uk](https://www.blocked.org.uk/)
+            * ISPs can block/filter site access
+                * Small business owner - singing teacher - website blocked as 'drugs' and did not know
+        * Responsibility to report phishing (see digitalLiteracy)
+            * [report-suspicious-emails-websites-phishing](https://www.gov.uk/report-suspicious-emails-websites-phishing)
+    * [plaintextoffenders](http://plaintextoffenders.com/)
+    * [Stand up to police spying](https://www.libertyhumanrights.org.uk/our-campaigns/stand-police-spying)
+        * [Predictive Policing Report](https://www.libertyhumanrights.org.uk/sites/default/files/LIB%2011%20Predictive%20Policing%20Report%20WEB.pdf)
+    * [The Great Hack](https://www.youtube.com/watch?v=iX8GxLP1FHo)
+        * If it's free you are the product
+    * [Apple Vs FBI](https://www.computerworld.com/article/3038269/apple-vs-the-fbi-the-legal-arguments-explained.html)
+* Hacking (see computer misuse above)
+    * Who knows how a system or people can be exploited by hacking?
+    * Who knows how to protect a system or people from being exploited by hacking?
+    * Security consultancy is a highly valued and lucrative carrer, but you must do it properly
+    * My Stories
+        * Liaising with school technicians - they will do it anyway
+        * Message board example hack - alert box
+        * SMTP open port - mail from the future
+* Volunteer
+    * Concept - Help old people to use computers
+
+
 
 
 My Notes for Discussions
@@ -695,3 +751,6 @@ My Notes for Discussions
 | I created a code | 
 | Save | Money at the bank |
 | Search | Like hide and seek |
+
+
+
