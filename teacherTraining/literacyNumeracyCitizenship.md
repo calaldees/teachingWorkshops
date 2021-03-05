@@ -13,17 +13,6 @@ Next week
 * Personal and Professional Development Day 12th March 2021
 * The Hidden Curriculum, Mental health and Well-being.
 
-
-Objectives
-----------
-
-ITT Core Content Framework
-
-> 1.1. Teachers have the ability to affect and improve the wellbeing, motivation and behaviour of their pupils.
-
-> 1.2. Teachers are key role models, who can influence the attitudes, values and behaviours of their pupils.
-
-
 Session Format
 --------------
 
@@ -45,6 +34,8 @@ Session Format
 
 ### Content
 
+Objective: What is a broad and balanced curriculum?
+
 1. Education Inspection Framework (EIF) (1hour30min) - Async reading + breakout group discussion
 * After EIF in any order
     * Literacy (1hour30min) - Three breakout group activities
@@ -56,6 +47,12 @@ Session Format
 
 Education Inspection Framework (EIF) (Async 45min + 30min breakout groups + 15min whole class == 1hour30min)
 ------------------------------------
+
+ITT Core Content Framework
+
+> 1.1. Teachers have the ability to affect and improve the wellbeing, motivation and behaviour of their pupils.
+
+> 1.2. Teachers are key role models, who can influence the attitudes, values and behaviours of their pupils.
 
 * I always refer my students to the assessment criteria. You are teachers. I will refer you to your _assessment criteria_. What criteria are schools inspected under?
 
