@@ -32,19 +32,26 @@ Session Format
 * I have created two GoogleDoc Workspaces
     * [PGCE/SD Computing SP16 - Group1 - Workspace](https://docs.google.com/document/d/1kaJpm1PFdPKAlH-m3MSNmTnugCwqx1ascYt_jGdgd24/edit?usp=sharing)
     * [PGCE/SD Computing SP16 - Group2 - Workspace](https://docs.google.com/document/d/1wNbc2odbQvAssrwSxgm2VH5dHbK_bUW25CrV33kz-Zk/edit?usp=sharing)
-* There will be breakout rooms setup that you can freely move between (see the _people_ tab for an entrance arrow to each room)
-
+* Groups
+    * There will be _breakout rooms_ setup that you should be able to freely move between (see the _people_ tab for an entrance arrow to each room)
+    * I will ask for one member of each group to rotate/move group each activity (I will leave you to self organise)
+    * The groups should be evenly balanced (as possible)
 
 ### Timing
 
-* 09:00 - Hello - GoogleDoc Groups
+* 09:00 - Introduction - GoogleDoc Groups Setup
+* 9:15 to 12:00 - AM Session
+* 13:00 to 16:00 - PM Session
 
-* Education Inspection Framework (EIF) (1hour30min) - Async reading + breakout group discussion
-* Literacy (1hour30min) - Three breakout group activities
-* Numeracy (30min) - Lecture
-* Citizenship (1hour30min) - Async reading + breakout group discussion
-* Youth Language (30min) - Group
-* Careers Advice to Students (30min) - Lecture + Async reading
+### Content
+
+1. Education Inspection Framework (EIF) (1hour30min) - Async reading + breakout group discussion
+* After EIF in any order
+    * Literacy (1hour30min) - Three breakout group activities
+    * Numeracy (30min) - Lecture
+    * Citizenship (1hour30min) - Async reading + breakout group discussion
+    * Youth Language (30min) - Group
+    * Careers Advice to Students (30min) - Lecture + Async reading
 
 
 Education Inspection Framework (EIF) (Async 45min + 30min breakout groups + 15min whole class == 1hour30min)
