@@ -3,12 +3,21 @@ Literacy, Numeracy and Citizenship
 
 What is a broad and balanced curriculum?
 
+* _Broad and balanced_ curriculum, not teaching to the test/exam
+* Ofsted criteria for schools
+    * revisiting the Education inspection framework in context of wider curriculum
+* Careers Guidance in the area of computing
+* Revisit literacy, numeracy, digital-literacy in Computing
+
+Next week
+* Personal and Professional Development Day 12th March 2021
+* The Hidden Curriculum, Mental health and Well-being.
+
+
 Objectives
 ----------
 
-
 ITT Core Content Framework
-
 
 > 1.1. Teachers have the ability to affect and improve the wellbeing, motivation and behaviour of their pupils.
 
@@ -28,13 +37,14 @@ Session Format
 
 ### Timing
 
-* 09:00 - Hello!
+* 09:00 - Hello - GoogleDoc Groups
 
-* EIF
-    * 09:15 - Async Reading (45min)
-    * 10:00 - Group breakout room consultation (30min)
-    * 10:30 - Presentation of group ideas (15min)
-
+* Education Inspection Framework (EIF) (1hour30min) - Async reading + breakout group discussion
+* Literacy (1hour30min) - Three breakout group activities
+* Numeracy (30min) - Lecture
+* Citizenship (1hour30min) - Async reading + breakout group discussion
+* Youth Language (30min) - Group
+* Careers Advice to Students (30min) - Lecture + Async reading
 
 
 Education Inspection Framework (EIF) (Async 45min + 30min breakout groups + 15min whole class == 1hour30min)
@@ -62,7 +72,7 @@ TASK:
 
 
 
-Literacy (2 hours - 3 group activities)
+Literacy (1hour30min - 3 group activities)
 --------
 
 ITT Core Framework
@@ -103,11 +113,11 @@ Figures (need to correlate exact source - these are from David Didau's book)
 * [Matthew principle/effect](https://en.wikipedia.org/wiki/Matthew_effect) - accumulated advantage (e.g. rich get richer)
 * The young people that have a larger vocabulary have an ongoing compound interest advantage
 
-### The _Language_ of Computer Science (30min)
+### The _Language_ of Computer Science (20min)
 
 > Some words have specific meaning in the computer science community, but a slightly or sometimes completely different meaning in everyday discourse (e.g. nouns like code, memory, address, folder, loop, bug, value, or verb to save, to code, to retrieve, to submit)
 
-TASK: In your groups - expand the following table (20min) + (10min presentation)
+TASK: In your groups - expand the following table (15min group) + (5min whole class)
 (My hope is that the list you generate could a useful resource for your future teaching)
 
 | Computing Term | Possible connotation | Technical interpretation |
@@ -163,7 +173,7 @@ Professional developer interviewing for a position last week
     * Disaffected, target grade, value added, syllabus, curriculum, Threshold concept, senco, peer learning
 
 
-### Computer Science Phrases (25min)
+### Computer Science Phrases (20min)
 
 I want explicitly incite you to explore/exercise your Computer Science terminology as part of this session.
 
@@ -185,7 +195,7 @@ I want explicitly incite you to explore/exercise your Computer Science terminolo
 TASK: Can you create a list of Computing phrases. Some that are _real_ and some that are _fake_. You could possible use this as a fun starter with your groups. Can they identify the nonsense from the real computer talk. You can then follow up with the class what the real ones mean. This is explicit vocabulary exercise.
 * In your group breakout rooms: Add them to the Google Doc (15min)
     * It may be worth you categorising some of these with a difficulty level (maybe KS3, KS4, KS5)?
-* Present to whole group (10min)
+* Present to whole group (5min)
 
 ### Exam Board phrases
 
@@ -198,11 +208,11 @@ Terminology example - [Premiere Pro - Ease In and Ease Out](https://youtu.be/vup
 > On my first job as a designer, I had no idea what my boss was asking me to do. Online, I had learned about “paper prototypes” and “iterating on mockups.” But here he was telling me to “sketch a wire” and “riff on that comp.” I felt like he was speaking another language.
 <sub>[the-language-of-ux](https://uxdesign.cc/the-language-of-ux-e57d40c9792f)</sub>
 
-#### Activity: Discuss/Brainstorm (20min)
+#### Strategies to integrate _literacy_ into our classroom practice? (30min)
 
-Imagine if an Ofsted inspector asked you "What strategies do you have in place to integrate _literacy_ into our classroom practice?"
+An Ofsted inspector has asked you "What strategies do you have in place to integrate _literacy_ into our classroom practice?"
 
-In breakout groups consider strategies that you might be able to use:
+In breakout groups consider strategies that you might be able to use (20min):
 
 Think about:
 * Assessment?
@@ -211,7 +221,8 @@ Think about:
 * How we setup our environment?
 
 Notes in your Google doc group space.
-Elect a spokesperson to report back.
+
+Elect a spokesperson to report back (10min).
 
 ### Other references
 
@@ -224,21 +235,24 @@ Elect a spokesperson to report back.
 * > SPOCK: It was far easier for you as civilised men to behave like barbarians, than it was for them as barbarians to behave like civilised men.
 * Without the language you can't mimic the use of the language
 
-#### Why does literacy matter
+### Further Reading (Async reading if time?)
 
 * [Why does writing matter in remote work?](http://www.timcasasola.com/blog/writing)
     * A clear articulation of written skills in the workplace
-
-### Further Reading
-* [Test your vocab: The Blog](http://testyourvocab.com/blog/2013-05-10-Summary-of-results) Summary of results 
-* [Estimates of individual differences in vocabulary size in English: how many words are needed to ‘close the vocabulary gap’?](https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.12322) Duff Brydon 2020
-* [How Many Words Does the Average Person Know?](https://wordcounter.io/blog/how-many-words-does-the-average-person-know/) wordcounter.io
+* Vocabulary
+    * [Test your vocab: The Blog](http://testyourvocab.com/blog/2013-05-10-Summary-of-results) Summary of results 
+    * [Estimates of individual differences in vocabulary size in English: how many words are needed to ‘close the vocabulary gap’?](https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.12322) Duff Brydon 2020
+    * [How Many Words Does the Average Person Know?](https://wordcounter.io/blog/how-many-words-does-the-average-person-know/) wordcounter.io
 * [literacytrust.org.uk - resources -secondary](https://literacytrust.org.uk/resources/?phase=secondary)
     * They run a range of programs for schools, some resources online for free
     * [Words for Work: employability and skills checklist (16+)](https://literacytrust.org.uk/resources/words-work-career-resources/)
+        * Language for interview? Language for networking?
+        * Schools like Eton teach this explicitly
 
+### Finally
 
-Literacy could be considered more than a _skill_. It is the power to interact and understand the world.
+* Literacy could be considered more than a _skill_. It is the power to interact and understand the world.
+* Check the EIF - how many times is literacy mentioned?
 
 
 

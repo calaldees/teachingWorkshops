@@ -5,6 +5,18 @@ Objective:
 * Consider our professional responsibility's beyond delivering subject knowledge
 * Consider your conduct with students and colleges
 
+* [My Roles and Responsibilities as a Professional Teacher](https://venngage.net/p/230898/roles-and-responsibilities-of-a-professional-teacher)
+    1. Pedagogical Content Knowledge
+    2. Leader
+    3. Communicator
+    4. Professional development
+    5. Role model for kindness
+    6. Reflect on my practice
+    7. Student diversity
+    8. Professional community
+    9. Political activist
+    10. Increase knowledge of adult learners
+
 
 Starter
 -------
