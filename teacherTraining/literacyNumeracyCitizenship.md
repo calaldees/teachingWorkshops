@@ -351,7 +351,7 @@ These could be discussion points
 
 
 
-Citizenship (Async 1hour + 30min group)
+Citizenship (Async 45min + 30min group + 10min whole)
 -----------
 
 > not undermining fundamental British values, including democracy, the rule of law, individual liberty and mutual respect, and tolerance of those with different faiths and beliefs
@@ -360,7 +360,7 @@ Citizenship (Async 1hour + 30min group)
 
 ### Spiritual, Moral, Social and Cultural (SMSC)
 
-Reading Async (30min)
+Reading Async (20min)
 
 * [youngcitizens.org- New OFSTED framework: New Opportunities for Citizenship, FBV and SMSC](https://www.youngcitizens.org/blog/new-ofsted-framework-new-opportunities) 2019
     * > (Citizenship) equips pupils with the cultural capital they need to succeed in modern Britain
@@ -376,10 +376,12 @@ Reading Async (30min)
         * > an understanding that there is a separation of power between the executive and the judiciary, and that while some public bodies such as the police and the army can be held to account through Parliament, others such as the courts maintain independence;
 
 What implications will this have for your teaching of Computing?
-Add your thoughts/notes/commentary to the Google Doc
-Do you all align? or are there different ideas within your group?
 
-### Digital Citizenship (Async 45min - Group Discuss 15min - 10min whole group)
+Add some of your thoughts/notes/commentary to the Google Doc.
+Do you all align? or are there different ideas within your group?
+You will discuss these in your groups after the next set of reading.
+
+### Digital Citizenship (Async 20min - Group Discuss 20min - 10min whole group)
 
 Consider the question:
 * Is digital citizenship my responsibility? How will this impact my future teaching?
@@ -409,7 +411,11 @@ Read the following report about Digital Citizenship (30min)
     * Digital wisdom 
         * is the ability of individuals and/or societies to make informed decisions in relation to the appropriate use and exploitation of information technology in all its forms
 
-Return to your group breakout rooms and discuss "Is digital citizenship my responsibility? How will this impact my future teaching?" (15min)
+### Group (30min)
+
+Return to your group breakout rooms and discuss 
+* What implications will the citizenship guidance have for your teaching of Computing?
+* Is digital citizenship my responsibility? How will this impact my future teaching? 
 
 Spokesperson from group (10min)
 
