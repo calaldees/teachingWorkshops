@@ -191,7 +191,7 @@ TASK: You tell me ...
 
 * [Is it truly illegal for the US Armed Forces to hire someone whose IQ is less than 83?](https://law.stackexchange.com/a/37493)
     * > law prohibits people with an IQ score of 83 or less from serving in the U.S. military
-    * > For comparison's sake, an IQ score of 70 is normally considered developmentally disabled (a.k.a. mentally retarded).
+    * > For comparison's sake, an IQ score of 70 to 75 is normally considered developmentally/intellectually disabled (historical term [mentally retarded](https://www.merriam-webster.com/dictionary/mental%20retardation)).
     * > The minimum IQ score for entry into the military by current regulations of about 92 would be within the "normal" range of 90-110 that includes about half of the general population.
     * > 30th percentile is an IQ score of 92 
       > an IQ score of 83 is the 14th percentile.

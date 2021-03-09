@@ -483,3 +483,5 @@ https://impact.chartered.college/article/how-retrieval-practice-embedded-classro
 
 
 ---
+[Dr. Seuss Books Deemed Offensive Will Be Delisted From eBay ](https://www.wsj.com/articles/dr-seuss-books-deemed-offensive-will-be-delisted-from-ebay-11614884201) - E-commerce giant says it ‘is currently sweeping our marketplace to remove these items’ 
+

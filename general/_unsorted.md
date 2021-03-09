@@ -20,3 +20,7 @@
         3. Self-transforming mind
             * In this stage, people realize that it’s possible in any situation for there to be multiple conflicting truths
             * Reaching this level is a must-have soft skill for leaders, and it’s also important for employees
+
+* [Donate Unrestricted](http://paulgraham.com/donate.html)
+    * LARGE Donation to non-profit orgganisations with restrictions about the money should be used ... humm ... this isnt good.
+    * If a nonprofit doesn't understand better than its donors where money needs to be spent, then it's incompetent and you shouldn't be donating to it at all.
