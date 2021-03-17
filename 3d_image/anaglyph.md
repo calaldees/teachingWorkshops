@@ -33,6 +33,7 @@ https://en.wikipedia.org/wiki/Anaglyph_3D
         * YouTube has support for recording separate video channels for each eye and mixing the images in realtime.
             * You can filter for videos that support this `3D`.
             * [find-watch-youtube-3d-content](https://www.makeuseof.com/tag/find-watch-youtube-3d-content/)
+            * [youtube.com/results?search_query=](https://www.youtube.com/results?search_query=) -> filter 3D
 * Demo
     * [3D video extreme 4K](https://www.youtube.com/watch?v=EDuvDyYKlDM)
 * Computer Rendered

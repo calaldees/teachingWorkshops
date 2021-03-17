@@ -431,9 +431,6 @@ Youth Language (30min group)
     * Most of the time the students LOVE talking about this to teachers. They love the reversal of knowing something more than the teacher. These are good lunchtime conversations.
     * [Teacher keeps a list of ‘Generation Z’ slang words and honestly, we stan](https://metro.co.uk/2019/05/05/teacher-keeps-a-list-of-generation-z-slang-words-and-honestly-we-stan-9415694/)
 * [Youthsplaining: What the Hell Is a Simp? Are You a Simp?](https://www.insidehook.com/article/internet/what-is-a-simp)
-* [Cancel Culture](https://www.insidehook.com/article/internet/youthsplaining-everything-you-need-to-know-about-cancel-culture)
-    * [TES: Teach that 'no platforming' is 'harmful', schools told](https://www.tes.com/news/teach-no-platforming-harmful-schools-told)
-        * Government RSE guidance also says teachers should explain 'harm' caused by 'cancel culture' and the importance of freedom of speech
 * Woke
 * Beta
 
@@ -737,7 +734,12 @@ Class write a letter
 * Volunteer
     * Concept - Help old people to use computers
 
-
+* [GitHub master -> main rename](https://mooseyanon.medium.com/github-f-ck-your-name-change-de599033bbbe) - race an offensive words by a black man in tech
+* [Cancel Culture](https://www.insidehook.com/article/internet/youthsplaining-everything-you-need-to-know-about-cancel-culture)
+    * [TES: Teach that 'no platforming' is 'harmful', schools told](https://www.tes.com/news/teach-no-platforming-harmful-schools-told)
+        * Government RSE guidance also says teachers should explain 'harm' caused by 'cancel culture' and the importance of freedom of speech
+    * [Deadline: Kevin Hart On Cancel Culture’s “Bad Environment” And Defending Ellen & Nick Cannon: “I Know Who They Are”](https://deadline.com/2020/08/kevin-hart-dont-fk-this-up-emmys-netflix-controversy-interview-news-1203015498/)
+        * Black Comedian was due to present oscars but mared by cancel culture - went on to create a transparent documentary about his canceling. Has an interview with _Deadline_
 
 
 My Notes for Discussions

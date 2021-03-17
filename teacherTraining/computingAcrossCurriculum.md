@@ -13,35 +13,44 @@ ITT Core Framework
 > Teachers can make valuable contributions to the wider life of the school in a broad range of ways, including by supporting and developing effective professional relationships with colleagues
 
 
+Pre task - Async task (1 hour)
+--------
+
+Next session we are looking at "Computing Across the Curriculum".
+* Imagine that Computing did not exist as it's own subject and you were employed by a school to integrate computing across the teaching of other subjects.
+* Brainstorm and investigate as many ideas as possible.
+* How does Computing relate to each subject?
+* How could a lesson/activity be structured?
+Come prepared to next weeks session with suggestions so we can embark on a discussion.
+
+
 Ofsted and Computing
 ---------------------
 
-[Education inspection framework](https://www.gov.uk/government/collections/education-inspection-framework?#guidance-for-education-providers)
-
-[David Drown HMI](https://www.slideshare.net/Ofstednews/inspection-computing-and-e-safety-in-schools)
-
-* Teaching in computing is good or better when:
-    * it is rooted in the development of pupils’ understanding of important concepts and progression within the lesson and over time; it enables pupils to make connections between individual topics and to see the ‘big picture’
-    * teachers use a very wide range of innovative and imaginative resources and teaching strategies to stimulate pupils’ active participation in their learning and secure good or better progress across all aspects of the subject.
-* The computing curriculum is good or better when:
-    * the contexts in which computing is taught are relevant to pupils’ lives and reflect the increasing use of computing in the world of industry
-    * excellent links are forged with other agencies and the wider community to provide a wide range of enrichment activities to promote pupils’ learning and engagement with the subject
-    * links with other subjects in the school are productive in strengthening pupils’ learning in computing
-* Leadership of computing is good or better when
-    * there are effective strategies to delegate subject responsibilities where appropriate and to share good practice
-    * computing has a very high profile in the life of the school
-* Finally ...
-    * E-safety is now considered in the inspection of all education remits including the early years sector, further education and skills, and initial teacher education.
-
-
-* [Ofsted Computing Inspection Criteria](https://onefourseven.org.uk/blog/ofsted-on-computing-update/)
-* [Ofsted Assessing Computing](https://www.softegg.co.uk/blog/ofsted-inspecting-the-computing-curriculum)
+* National Curriculum
+    * > A high-quality computing eduction equips pupils to use computational thinking and creativity to understand and change the world
+    * > Computing has deeps links with mathematics, science and design and technology, and provides insight into both natural and artificial systems.
+* [David Drown HMI](https://www.slideshare.net/Ofstednews/inspection-computing-and-e-safety-in-schools) 2014
+    * Teaching in computing is good or better when:
+        * it is rooted in the development of pupils’ understanding of important concepts and progression within the lesson and over time; it enables pupils to make connections between individual topics and to see the ‘big picture’
+        * teachers use a very wide range of innovative and imaginative resources and teaching strategies to stimulate pupils’ active participation in their learning and secure good or better progress across all aspects of the subject.
+    * The computing curriculum is good or better when:
+        * the contexts in which computing is taught are relevant to pupils’ lives and reflect the increasing use of computing in the world of industry
+        * excellent links are forged with other agencies and the wider community to provide a wide range of enrichment activities to promote pupils’ learning and engagement with the subject
+        * links with other subjects in the school are productive in strengthening pupils’ learning in computing
+    * Leadership of computing is good or better when
+        * there are effective strategies to delegate subject responsibilities where appropriate and to share good practice
+        * computing has a very high profile in the life of the school
+    * Finally ...
+        * E-safety is now considered in the inspection of all education remits including the early years sector, further education and skills, and initial teacher education.
+* [Education inspection framework](https://www.gov.uk/government/collections/education-inspection-framework?#guidance-for-education-providers)
+    * [Inspecting, the computing curriculum](https://community.computingatschool.org.uk/files/9702/original.pdf) Inspecting__the_computing_curriculum_and_online_safety_London_CAS_2018.pdf
 * [Computing Across the Curriculum](https://www.youtube.com/watch?v=-JBgaR8sNcE) - [Myles Berry](http://milesberry.net/about-3) - CAS TV - June 2016
 * [Computing in the curriculum: Challenges and strategies from a teacher's perspective](https://link.springer.com/article/10.1007/s10639-016-9482-0) - Sue Sentance - April 2016 - King’s College London UK
+* Old
+    * [Ofsted Computing Inspection Criteria](https://onefourseven.org.uk/blog/ofsted-on-computing-update/) 2014
+    * [Ofsted Assessing Computing](https://www.softegg.co.uk/blog/ofsted-inspecting-the-computing-curriculum) 2014
 
-> A high-quality computing eduction equips pupils to use computational thinking and creativity to understand and change the world
-
-> Computing has deeps links with mathematics, science and design and technology, and provides insight into both natural and artificial systems.
 
 
 Responsibility's of Computing Teachers
@@ -110,10 +119,12 @@ These terms could be applied to _all_ subjects
     * making judgement
 
 
-Example Cross Curricular Lesson
+Model: Example Cross Curricular Lesson (30min)
 -------------------------------
+I am going to describe a cross curricular lesson I have run in the past. It looses all it's impact
 
 * [3d_image](../3d_image/README.md) workshop
+    * [anaglyph](../3d_image/anaglyph.md)
     * [guide](../3d_image/anaglyph_gimp.md)
 * [Google Slides](https://docs.google.com/presentation/d/1tJRI7dnJmk30Jojupjcb5qJA_mLJf4nK_g0Yc5V0xHs/edit?usp=sharing)
 * [dino_images](http://calaldees.dreamhosters.com/pictures/lasar/)
@@ -125,17 +136,43 @@ Example Cross Curricular Lesson
         * `stereo` -> Greek: Solid
         * `-scopic` ajective of nouns ending in `scope` -> denoting an instrument for observing, viewing, or examining. -> from modern Latin `-scopium`, from Greek `skopein` ‘look at’
 * History
-    * 3D Photography
-    * Real ViewMaster 50's Dover
+    * [Stereoscopy](https://en.wikipedia.org/wiki/Stereoscopy) 3D Photography
+    * My Real [ViewMaster](https://en.wikipedia.org/wiki/View-Master) 50's Dover
 * Physics
     * Light filters
+    * https://en.wikipedia.org/wiki/Anaglyph_3D
+    * [Buy Red/Cyan Glass's on Amazon](https://www.amazon.co.uk/s/ref=nb_sb_ss_i_1_8/258-4913575-7554117?url=search-alias%3Daps&field-keywords=red+cyan+3d+glasses&sprefix=red+cyan%2Caps%2C139&crid=3OX6AMXQBKHQW)
+    * [Fliker: Anaglyphic 3D Group](https://www.flickr.com/groups/365182@N21/pool/)
+        * [History post 2D->3D conversion example](https://www.flickr.com/photos/50183486@N04/7025156057/in/pool-365182@N21/)
+    * [Fliker: Stereo](https://www.flickr.com/photos/15693951@N00/albums/72157602843553105) post3d historical photos
 * ICT - Image Manipulation
+    * Hands on with Dinosaur/tardis
+    * Extension: Take your own!!!!
+    * [How to make 3D images with GIMP](http://strakul.blogspot.co.uk/2012/03/how-to-make-3d-images-with-gimp.html)
 * Computing - Automation
     * RGB Pixels
     * Layer mode
         * Algorithms (for each pixel)
+        * [Gimp Layer Modes](https://docs.gimp.org/en/gimp-concepts-layer-modes.html#layer-mode-multiply)
 * Art
     * Create own abstract worlds (fractals animation)
+    * [3D Fractal](https://www.youtube.com/watch?v=bklMh5NjewI)
+
+Group Task: Design a Cross curricular Lesson (30min)
+--------------------------------------------
+
+Breth of Depth
+
+A set of bullet points (like above)
+Ideas to consider:
+* A big question/concept?
+* Literacy/Epistemology?
+* History (what has been done to this point?)
+* Science/World?
+* Creative/Artistic?
+* Community/Society/Law/Citizenship?
+* Computing reference?
+Play Crossover bingo! How many genuine cross curricular links can you find?
 
 
 Computing in other subject curriculum's
@@ -156,15 +193,16 @@ Lesson Topic Ideas
 
 * [role of arts in improving health and wellbeing](https://www.gov.uk/government/publications/evidence-summary-for-policy-the-role-of-arts-in-improving-health-and-wellbeing)
     * [@dylanwiliam tweet](https://twitter.com/dylanwiliam/status/1312737300380618752)
-        * social cohesion
+        * > A useful summary from @UCL's Department of Behavioural Science and Health (updating last year's @WHO's report) of the research on the role of the arts in promoting health and wellbeing in children and adults: https://bit.ly/2SpZ2Pb
+            * social cohesion
 
 
 * Geography
     * [GeoTraceroute](https://geotraceroute.com/) on map
+    * [submarinecablemap](https://www.submarinecablemap.com/)
     * River Valley Simulation (spreadsheet example)
     * [World Elevation Data](http://www.shadedrelief.com/natural3/pages/extra.html)
     * [earthengine](https://earthengine.google.com/timelapse/) - historical satellite views (climate change?)
-    * [submarinecablemap](https://www.submarinecablemap.com/)
     * Create a webpage with a world map and use absolute positioning to embed videos from [skylinewebcams](https://www.skylinewebcams.com)
     * [ancient-earth 3D globe](https://dinosaurpictures.org/ancient-earth)
 * History
@@ -207,6 +245,7 @@ Lesson Topic Ideas
     * Atomic Imagry [Crystal close up First-ever atomic resolution video of salt crystals forming in real time ](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00161.html)
 * Maths
     * Matrix calculations for rotation and scaling (in real time?)
+        * [Coding The Matrix: Linear Algebra Through Computer Science Applications](https://codingthematrix.com/)
     * Statistics
         * Graphing _standard deviation_ from actual datasets?
     * Mechanics
@@ -218,6 +257,10 @@ Lesson Topic Ideas
     * [Which answer in this list is the correct answer to this question?](https://math.stackexchange.com/questions/2217248/which-answer-in-this-list-is-the-correct-answer-to-this-question) Logic
     * [Paper Plotter](https://felixboiii.github.io/paper-plotter/)
         * Can young people write code to do this themselves?
+    * Numeracy
+        * [The True Size](https://thetruesize.com/) - Country size globe projection9
+        * [Scale the Universe 2](https://www.htwins.net/scale2/)
+        * [Powers of 10](https://www.youtube.com/watch?v=0fKBhvDjuy0) - 1977
 * Biology
     * Conways game of life?
     * [Bacteria Simulation](https://www.youtube.com/watch?v=5UMZVmLt0Bw)
@@ -228,6 +271,7 @@ Lesson Topic Ideas
     * Genetic algorithums
         * [genetic_cars_2](https://rednuht.org/genetic_cars_2/)
         * [Creatures racing](https://www.youtube.com/watch?v=31dsH2Fs1IQ)
+        * [Smart Rockets](https://github.com/aruvham/javascript-smart-rockets)
     * [nextstrain.org](https://nextstrain.org/) - Real-time tracking of pathogen evolution 
         * [sars-cov-2 live strains](https://nextstrain.org/groups/neherlab/ncov/S.N501?c=gt-S_501,69&f_country=United%20Kingdom&label=mlabel:20B/C5388A&p=grid)
 * Geology
@@ -274,7 +318,7 @@ Lesson Topic Ideas
     * Color Theory
         * [How To Avoid Equidistant HSV Colors](https://www.vis4.net/blog/2011/12/avoid-equidistant-hsv-colors/)
         * [7 sets Venn Diagram](http://moebio.com/research/sevensets/) - 128 color combinations from mixing 7 colors
-    * Algorithums
+    * Algorithms
         * watercolor maps
         * other visulisations? data visulisation?
     * [generative artistry](https://generativeartistry.com/)
@@ -334,7 +378,7 @@ Lesson Topic Ideas
         * [Adafruit Circuit Playground](https://www.adafruit.com/product/3000) - mouse/keyboard input
 * Music
     * MIDI - Theory
-        * Arpegiation - color? image? - taktile
+        * Appreciation - color? image? - taktile
     * tune in code
         * 440hz
     * Ableton
@@ -357,7 +401,7 @@ Lesson Topic Ideas
           synth.triggerAttackRelease("C4", "8n");  //play a middle 'C' for the duration of an 8th note
           ```
         * [handel](https://handel-pl.github.io/) 
-            * Handel is a small procedural programming language for writting songs in browser
+            * Handel is a small procedural programming language for writhing songs in browser
             * [handel live browser](https://ddj231.github.io/Handel-Web-Editor/)
     * Midi input
         * [Korg nanokontrol2](https://www.korg.com/uk/products/computergear/nanokontrol2/)
@@ -369,7 +413,7 @@ Lesson Topic Ideas
                     print(msg)
             ```
         * [webMidiLog](https://github.com/superLimitBreak/webMidiTools/blob/master/webMidiLog.html) (see more code below)
-        * Activity: From raw midi data - print note and octave - A#2
+        * Code Activity: From raw midi data - print note and octave - A#2
             * [note_to_text](https://github.com/calaldees/libs/blob/bf4a1371510cc32c2c8b1f8a177edb8cce0f16fd/python3/calaldees/music.py#L27) example
     * Markdown ABC Notation
         * [Example](https://music.meta.stackexchange.com/questions/2507/how-could-abc-notation-be-embedded-in-our-posts-markdown)
@@ -396,7 +440,10 @@ Lesson Topic Ideas
         * [Ghost Screen Hologram Mapping Show MICE TECHNIC](https://youtu.be/Ulrv8GywZIU?t=25)
         * [no-see-um mosqueto netting](https://www.profabrics.co.uk/products/insect-midge-net-fine?variant=6809889027)
         * [superLimitBreak tech demo 2015](https://syncthing.superlimitbreak.uk/performances/2015-09-18%20Gulbenkian/SuperLimitBreak%20-%20Tech%20Demo%20v3-n8oAIaFTjco.mp4) - My armature band with my home build lights and projection software
-
+* Culture/Citizenship/Wider?
+    * [radio.garden](http://radio.garden) Globe of radio masts
+    * [Driver and Listen](https://driveandlisten.herokuapp.com/)
+    * [My 80's TV](https://www.my80stv.com/)
 
 
 Discipline's
@@ -775,20 +822,20 @@ English- Botnik
 Virtual Penpals in other countries for language development
 Vocabulary spreadsheet
 
-Smart Rockets - http://www.blprnt.com/smartrockets/
+
 
 Bookmark-let to login
 
 
-[radio.garden](http://radio.garden) Globe of radio masts
-[Driver and Listen](https://driveandlisten.herokuapp.com/)
 
 
-Powers of 10 - 1977
-https://www.youtube.com/watch?v=0fKBhvDjuy0
+
 
 tim hunkin - southwold under the peir - novalty automation
-[MicroBreak](https://youtu.be/nieXCqpxjC4?t=329)
+* [novelty-automation.com](https://www.novelty-automation.com/) London
+    * [MicroBreak](https://youtu.be/nieXCqpxjC4?t=329)
+* [THE SECRET LIFE OF MACHINES: The Videos](https://www.exploratorium.edu/ronh/SLOM/)
+
 
 
 * [The Art of Code - Dylan Beattie](https://youtu.be/6avJHaC3C2U)
@@ -804,10 +851,6 @@ tim hunkin - southwold under the peir - novalty automation
 
 [European Space Agency Images](http://www.esa.int/ESA_Multimedia/Images)
 
-[The True Size](https://thetruesize.com/) - Country size globe projection
-
-
-[Scale the Universe 2](https://www.htwins.net/scale2/)
 
 
 Runway - numbers - bearing

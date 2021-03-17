@@ -907,4 +907,56 @@ Ask the students: What are your expectations?
 * [Transitions Into, Through and Out        of Higher Education: Supporting Students](https://learn.canterbury.ac.uk/bbcswebdav/pid-2803763-dt-content-rid-4229027_1/courses/E20MAPIN4ETE/SEDA%20Special%2044%20Artwork_FINAL%20Pre-reading.PDF)
 * [PLANNING ACADEMIC ORIENTATIONAND STUDENT TRANSITION ACTIVITIES. BEST PRACTICE GUIDE2020](https://learn.canterbury.ac.uk/bbcswebdav/pid-2374366-dt-content-rid-3654967_1/orgs/OC18RETENTION/TOI%20Best%20Practice%20Guide%20V8%202020%281%29.pdf)
 * OfS [Access and participation data dashboard](https://www.officeforstudents.org.uk/data-and-analysis/access-and-participation-data-dashboard/)
-* 
+  
+Session 3
+---------
+
+* [Diana Laurillard introduces the six learning types](https://www.youtube.com/watch?v=wnERkQBqSGM)
+    * Aquisition
+        * Listening to teacher, reading a book
+    * Inquiry
+        * Find something out
+    * Discussion
+        * Ask questions of other learners, challenge. Listen, respond, articulate, argue
+    * Practice
+    * Collaboration
+        * Shared output - having to produce
+    * Produce
+        * an artifact - public presentation
+* [Arena Blended Connected (ABC) Curriculum Design](https://www.youtube.com/watch?v=3C1gTHApg8A)
+    * Tweet size summary (140 chars)
+    * List the activitiy type (six learning types above) and analyse the spread of tasks - like a module profile graph
+* [A reflexive evaluation of technology-enhanced learning ](https://journal.alt.ac.uk/index.php/rlt/article/view/1998)
+    * Exeter et al. (2010, p. 762) who state, ‘student engagement refers to the time, energy and resources spent on activities’. These activities can refer to peer discussions, attendance in class, completion of set tasks and preparing for assignments.
+    * Rudduck (1978) highlights this as a common problem arguing that there is a cultural boundary between the tutor and the students that can prevent students from engaging during sessions.
+    * Given that students’ communication norms are now marked by ‘tweets’ and online chats (Dean and Fornaciari 2014), learning technologies facilitate communication in large settings while doing so in their ‘language’ (Attwell and Hughes 2010).
+    * Described by Siemens (2005) as ‘a learning theory for the digital age’, _connectivism_ is reflective of underlying social environments which have, in the last 20 years, been reorganised by the emergence of technology. Highlighting the limitations of behaviourism, cognitivism and constructivism, Siemens (2005) proposes that the inclusion of technology in learning activities begins to move learning theories into the digital age. 
+    * > …the Google Community blurs the line between an academic platform and social media; it was easier to communicate with my dissertation supervisor in a more informal manner which created a space to ask questions that perhaps I would not ask via email.
+    * Constructive alignment (Biggs 1996) appeared to be of importance for the students, whereby they could clearly see the links between the online activities, classroom discussions and final assessment.
+    * Caution must be added that we do not suggest technology-enhanced learning is right for every single module on a course, and any integration of technology should avoid the wear out effect (Wang 2015). This is reflected in the very essence of digital pedagogy which is about approaching learning tools from a critical perspective and, thus, also considers when digital tools should not be used. Ultimately, digital tools should only serve to enhance learning experiences and cannot replace the value of human interaction (McNeely 2017). 
+    * Asynchronous learning and social media communities work best if students are placed within smaller workable groups, whereby they feel more part of the learning experience and can converse with their peers helping to form communities of practice.
+
+* [Digital Pedagogy Toolkit](https://www.jisc.ac.uk/full-guide/digital-pedagogy-toolkit)
+
+
+---
+
+* [Professor John Hattie](https://visible-learning.org/john-hattie/)
+* behaviour for learning
+
+--- 
+
+Notes for reflections
+
+* Citizenship - not guided
+* Other practicioners - same - students are not able to engage in discussion as they lack the practical experience
+* Debacle of networking modules
+* We care abou tthe students - that leads to another problem - we can be exploited
+
+* criteria for asessing the efftiveness of learning technologies
+
+* ABC
+    * Framework for review what it is that you are currently doing
+
+jisc.potential.ly
+https://www.alt.ac.uk/

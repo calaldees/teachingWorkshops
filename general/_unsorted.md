@@ -24,3 +24,8 @@
 * [Donate Unrestricted](http://paulgraham.com/donate.html)
     * LARGE Donation to non-profit orgganisations with restrictions about the money should be used ... humm ... this isnt good.
     * If a nonprofit doesn't understand better than its donors where money needs to be spent, then it's incompetent and you shouldn't be donating to it at all.
+
+* [Ask HN: Those who quit their jobs to travel the world, how did it go?](https://news.ycombinator.com/item?id=26407560)
+    * In light of the pandemic and countries slowly opening up again, I thought I'd ask this question that appeared back in 2015
+    * Insightful comments from people that have travelled the world and socialised.
+    * > I'd love to hear concretely what you guys who traveled actually gained from traveling the world?

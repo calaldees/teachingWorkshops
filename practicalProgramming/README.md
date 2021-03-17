@@ -295,6 +295,22 @@ Session 33
 Mergesort
 
 
+Session 34
+----------
+
+Quicksort theory
+Selection sort theory
+Binary search theory
+
+next gen image formats and patents
+
+
+Session 35
+----------
+
+Debugging Refresher
+
+
 Upcoming
 --------
 
