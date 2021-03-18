@@ -183,6 +183,16 @@ Remote/Covid: Sadly, this lesson looses all it's impact without being able to ph
     * Create own abstract worlds (fractals animation)
     * [3D Fractal](https://www.youtube.com/watch?v=bklMh5NjewI)
 
+Sidenote: We should be fostering creativity
+-------------------------------------------
+
+We sometimes steamroller this in striving for our examinable/measurable grades.
+
+* [role of arts in improving health and wellbeing](https://www.gov.uk/government/publications/evidence-summary-for-policy-the-role-of-arts-in-improving-health-and-wellbeing)
+    * [@dylanwiliam tweet](https://twitter.com/dylanwiliam/status/1312737300380618752)
+        * > A useful summary from @UCL's Department of Behavioural Science and Health (updating last year's @WHO's report) of the research on the role of the arts in promoting health and wellbeing in children and adults: https://bit.ly/2SpZ2Pb
+            * social cohesion
+
 
 Group Task: Design a Cross curricular Lesson (1 hour)
 --------------------------------------------
@@ -203,30 +213,25 @@ Group Task: Design a Cross curricular Lesson (1 hour)
             * Depth? (create a single topic that touches as many disciplines as possible)
 * In pairs (15min)
     * Describe your ideas - suggest one improvement/addition to each other
-* As group (15min) present your ideas
+* As group (15min) present/describe your ideas
 
 
 
-Lesson Topic Ideas
-------------------
+Computing Across The Curriculum (1 hour)
+-------------------------------
 
-* Examples of Computing in society
-* Give _hands on_ to students where possible
-* Look at the specs for other subjects - suggest an activity
-
-
-* [role of arts in improving health and wellbeing](https://www.gov.uk/government/publications/evidence-summary-for-policy-the-role-of-arts-in-improving-health-and-wellbeing)
-    * [@dylanwiliam tweet](https://twitter.com/dylanwiliam/status/1312737300380618752)
-        * > A useful summary from @UCL's Department of Behavioural Science and Health (updating last year's @WHO's report) of the research on the role of the arts in promoting health and wellbeing in children and adults: https://bit.ly/2SpZ2Pb
-            * social cohesion
-
+Showcase of ideas.
+The subjects here are _loose_.
+I'm going to get really exited here.
+Timebox to one hour ... you may be sent links in the chat to try
 
 * Geography
     * [GeoTraceroute](https://geotraceroute.com/) on map
     * [submarinecablemap](https://www.submarinecablemap.com/)
     * River Valley Simulation (spreadsheet example)
     * [World Elevation Data](http://www.shadedrelief.com/natural3/pages/extra.html)
-    * [earthengine](https://earthengine.google.com/timelapse/) - historical satellite views (climate change?)
+    * [Earth Engine](https://earthengine.google.com/timelapse/) - historical satellite views (climate change?)
+        * You can see, the glacier is gone
     * Create a webpage with a world map and use absolute positioning to embed videos from [skylinewebcams](https://www.skylinewebcams.com)
     * [ancient-earth 3D globe](https://dinosaurpictures.org/ancient-earth)
 * History
@@ -238,6 +243,8 @@ Lesson Topic Ideas
         * [Colourising historical photos of the civil rights movement](https://www.bbc.co.uk/news/in-pictures-55619618)
         * [How to Colorize a Black and White Photo in Photoshop](https://youtu.be/C2Srw245R7U)
         * [deep-nostalgia](https://www.myheritage.com/deep-nostalgia) - AI to animate faces from photos - including dead people (looking around and smiling)
+            * Upload a photo of one of your dead relatives
+            * [Roman Emperors | Realistic Facial Recreations Using AI and Photoshop (2nd Century CE)](https://youtu.be/IdK_FxC2Zog?t=103)
         * [GIMP Tutorial: Restore Color to Black and White Photo](https://youtu.be/YFDdS9iRfPE)
         * [github.com/junyanz/interactive-deep-colorization](https://github.com/junyanz/interactive-deep-colorization)
             * Used to be the work of skilled image editing professionals
@@ -295,10 +302,12 @@ Lesson Topic Ideas
         * [Scale the Universe 2](https://www.htwins.net/scale2/)
         * [Powers of 10](https://www.youtube.com/watch?v=0fKBhvDjuy0) - 1977
 * Biology
-    * Conways game of life?
+    * Conways game of life? - Emergent behaviour from simple rules
+        * [conway.md](https://github.com/ComputingTeachers/mapOfComputing/blob/main/computing/conway.md)
+        * my [conway.py](https://github.com/calaldees/TeachProgramming/tree/master/teachprogramming/static/projects/other/conway)
     * [Bacteria Simulation](https://www.youtube.com/watch?v=5UMZVmLt0Bw)
     * [BioInfomatics](http://rosalind.info/)
-        + See my DNA-regex activity
+        + See my DNA-regex activity below
     * Recursion
         * [Algorithmic Botany](http://algorithmicbotany.org/papers/#abop)
         * [101computing.net/recursive-tree-challenge](https://www.101computing.net/recursive-tree-challenge/)
@@ -393,9 +402,11 @@ Lesson Topic Ideas
         * [SuperMemo](https://www.supermemo.com/en) - Spaced repetition
 * RE/Philosphy
     * Turing test - rise of AI - what rights do they need?
+        * > [so in a sense, hidden within the Turing test is a kind of recursive test.](https://www.happyscribe.com/public/lex-fridman-podcast-artificial-intelligence-ai/101-joscha-bach-artificial-consciousness-and-the-nature-of-reality#paragraph_1638?utm_source=public_transcript&utm_medium=paragraph&utm_campaign=public_promo) 00:27:20
+        * > Yes it's a test on us. The Turing test is basically a test of the conjecture whether people are intelligent enough to understand themselves
 * PE
-    * Microbit performance statistics?
-    * Fitness Personal traininer data
+    * Microbit to capture performance statistics?
+    * Fitness Personal trainer data
         * TODO
     * Visual coach - technique slow mo frames
         * TODO - example
@@ -404,8 +415,8 @@ Lesson Topic Ideas
             * Shadow + cropped sprite correction
 * DT
     * CAD/CAM
-        * eaxamples?
-    * 3d modeling -> 3d printing
+        * examples?
+    * 3d modelling -> 3d printing
     * https://woodgears.ca/
     * Create [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics#Example) with code? Badge/Ticket example?
         * Edit and SVG as a text file - Like mail-merge, but with SVG's + regex)
@@ -488,6 +499,7 @@ Lesson Topic Ideas
     * [radio.garden](http://radio.garden) Globe of radio masts
     * [Driver and Listen](https://driveandlisten.herokuapp.com/)
     * [My 80's TV](https://www.my80stv.com/)
+        * Taking/searching metadata tags on youtube
 
 
 Tools
@@ -499,34 +511,50 @@ Tools
     * [Malnutrition Universal Screening Tool](https://www.bapen.org.uk/pdfs/must/must_full.pdf)
 
 
-Discipline's
-------------
+Discipline's related to computing that are universal
+----------------------------------------------------
 
-Not directly related to an established school subject.
-* data science
-    * [Kaggle](https://www.kaggle.com/) Jupiter notebook with datasets live on the web
-        * [Data](https://girlswhocode.com/assets/downloads/craft-prod/downloads/Girls-Who-Code-At-Home-Depicting-Data.pdf)
+* Async Skim Read (15min)
+    * [Girls-Who-Code-At-Home-Depicting-Data.pdf](https://girlswhocode.com/assets/downloads/craft-prod/downloads/Girls-Who-Code-At-Home-Depicting-Data.pdf)
     * [The Ultimate Python Seaborn Tutorial: Gotta Catch ‘Em All](https://elitedatascience.com/python-seaborn-tutorial)
-        * Pokemon gen1 data (csv) mined with python
+
+Not directly related to an existing established school subject.
+
+* Data Science
     * [datacamp.com](https://www.datacamp.com/) - Build data skills online
         * Online lessons, processing tools, data, interactive assessments
-        * [DataCamp For The Classroom](https://www.datacamp.com/groups/education) - Democratizing data science education - DataCamp is 100% free for educators. 
-
+        * [DataCamp For The Classroom](https://www.datacamp.com/groups/education) - Democratizing data science education - DataCamp is 100% free for educators
+    * [datasets.md](https://github.com/ComputingTeachers/mapOfComputing/blob/main/computing/datasets.md)
+        * [Kaggle](https://www.kaggle.com/) Jupiter notebook with datasets live on the web
+            * [Girls-Who-Code-At-Home-Depicting-Data.pdf](https://girlswhocode.com/assets/downloads/craft-prod/downloads/Girls-Who-Code-At-Home-Depicting-Data.pdf)
+    * [The Ultimate Python Seaborn Tutorial: Gotta Catch ‘Em All](https://elitedatascience.com/python-seaborn-tutorial)
+        * Pokemon gen1 data (csv) mined with python
 * [[Data Visualisation]]
     * (Where does visualisation go? It's like 'where does Geology exist in STEM?')
-    * [dataVisulisation.md](../computing/data/dataVisualisation.md)
-    * [informationisbeautiful.net/beautifulnews](https://informationisbeautiful.net/beautifulnews/)
-* [[Simulation]]
-    * [simulation.md](../computing/data/simulation.md)
+    * [dataVisulisation.md](https://github.com/ComputingTeachers/mapOfComputing/blob/main/computing/data-visualisation.md)
+    * pre-attentive visual attributes
+        * Length, width, orientation, size, enclosure, color intensity, color hue, curvature, shape, spatial grouping, 2d position
+    * (they can visualise it with crayons if they want)
+    * What can you say with data?
+        * [informationisbeautiful.net/beautifulnews](https://informationisbeautiful.net/beautifulnews/)
+        * Bruises you don't see
+* [[Simulation]] and Modeling
+    * [simulation.md](https://github.com/ComputingTeachers/mapOfComputing/blob/main/computing/simulation.md)
 
-* [[datasets]]
 
-Software packages
-[[vfx]]
+Explore and find dataset(s) for teaching (Async 1 hour)
+----------------------------------------
+
+* Using real data is inspiring
+* Using [datasets.md](https://github.com/ComputingTeachers/mapOfComputing/blob/main/computing/datasets.md) as a starting point
+* Find a dataset you think might be interesting for a school activity (think about big questions and community engagement)
+* (This will be an activity that you will be undertaking for the rest of your teaching career. This is just your first hour in pondering/exploring)
+* (I'm so interested in your ideas. Your experiences and creativity is greatly valued here)
+
+Pool all your ideas in GoogleDoc
 
 
-
-Further Concepts
+Further Concepts (lecture 15min)
 ----------------
 
 * Ethics
@@ -561,7 +589,6 @@ Further Concepts
     * Map Data
 * Impact of Open Tooling
     * [How I replicated an $86 million project in 57 lines of code](https://medium.freecodecamp.org/how-i-replicated-an-86-million-project-in-57-lines-of-code-277031330ee9) - Numberplate recognition
-
 
 
 Programming Projects
@@ -807,8 +834,13 @@ Computing Education in the Media
 * [Computing Curriculum is not just about code - its political power](https://mirandanet.ac.uk/blog/2017/09/02/coding-lessons-computing-curriculum/) See closing two paragraphs
 
 
-Data Examples
--------------
+Summary (30min)
+-------
+
+Shared whiteboard: put all the ideas you have encountered this session that you will consider using or following up.
+
+Please fill out the feedback.
+
 
 
 Unsorted notes
