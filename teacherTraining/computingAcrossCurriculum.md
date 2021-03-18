@@ -19,25 +19,32 @@ Pre task - Async task (1 hour)
 Next session we are looking at "Computing Across the Curriculum".
 * Imagine that Computing did not exist as it's own subject and you were employed by a school to integrate computing across the teaching of other subjects.
 * Brainstorm and investigate as many ideas as possible.
-* How does Computing relate to each subject?
-* How could a lesson/activity be structured?
+* How does Computing relate to each subject? (does it?)
+* How could a lesson/activity be structured to bridge multiple subjects?
 Come prepared to next weeks session with suggestions so we can embark on a discussion.
 
+Introduction (whole group 20min)
+------------
 
-Ofsted and Computing
+* Scenario: Computing does not exist as a subject on it's own.
+* What would Computing in schools look like?
+    * How could it be done?
+
+
+Ofsted and Computing (lecture 10min)
 ---------------------
 
 * National Curriculum
     * > A high-quality computing eduction equips pupils to use computational thinking and creativity to understand and change the world
     * > Computing has deeps links with mathematics, science and design and technology, and provides insight into both natural and artificial systems.
-* [David Drown HMI](https://www.slideshare.net/Ofstednews/inspection-computing-and-e-safety-in-schools) 2014
+* [David Drown HMI](https://www.slideshare.net/Ofstednews/inspection-computing-and-e-safety-in-schools) 2014 (stepped down)
     * Teaching in computing is good or better when:
-        * it is rooted in the development of pupils’ understanding of important concepts and progression within the lesson and over time; it enables pupils to make connections between individual topics and to see the ‘big picture’
-        * teachers use a very wide range of innovative and imaginative resources and teaching strategies to stimulate pupils’ active participation in their learning and secure good or better progress across all aspects of the subject.
+        * it is rooted in the development of pupils’ understanding of important concepts and progression within the lesson and over time; it enables pupils to make connections between individual topics and to see the *big picture*
+        * teachers use a very wide range of innovative and imaginative resources and teaching strategies to stimulate pupils’ *active participation* in their learning and secure good or better progress across all aspects of the subject.
     * The computing curriculum is good or better when:
-        * the contexts in which computing is taught are relevant to pupils’ lives and reflect the increasing use of computing in the world of industry
-        * excellent links are forged with other agencies and the wider community to provide a wide range of enrichment activities to promote pupils’ learning and engagement with the subject
-        * links with other subjects in the school are productive in strengthening pupils’ learning in computing
+        * the contexts in which computing is taught are *relevant to pupils lives* and reflect the increasing use of computing in the world of industry
+        * excellent links are forged with other agencies and the *wider community* to provide a wide range of enrichment activities to promote pupils’ learning and engagement with the subject
+        * *links with other subjects in the school* are productive in strengthening pupils’ learning in computing
     * Leadership of computing is good or better when
         * there are effective strategies to delegate subject responsibilities where appropriate and to share good practice
         * computing has a very high profile in the life of the school
@@ -46,14 +53,24 @@ Ofsted and Computing
 * [Education inspection framework](https://www.gov.uk/government/collections/education-inspection-framework?#guidance-for-education-providers)
     * [Inspecting, the computing curriculum](https://community.computingatschool.org.uk/files/9702/original.pdf) Inspecting__the_computing_curriculum_and_online_safety_London_CAS_2018.pdf
 * [Computing Across the Curriculum](https://www.youtube.com/watch?v=-JBgaR8sNcE) - [Myles Berry](http://milesberry.net/about-3) - CAS TV - June 2016
-* [Computing in the curriculum: Challenges and strategies from a teacher's perspective](https://link.springer.com/article/10.1007/s10639-016-9482-0) - Sue Sentance - April 2016 - King’s College London UK
+    * There was a movement to teach ICT without a discreet subject
+    * Ask students "Have you understood the world"? "Have you changed the world?"
+    * Let's not just do logical reasoning in computing - it applies to other subjects
+    * [Phonics classification](https://youtu.be/-JBgaR8sNcE?t=390) is a binary tree 6:00
+    * Water cycle (model/simulation)
+    * [Highest common factor](https://youtu.be/-JBgaR8sNcE?t=780) - algorithm - Class for fractions? Object oriented 13:00
+    * [Recursive tree](https://youtu.be/-JBgaR8sNcE?t=1051) 17:30
+    * [Scratch language switch](https://youtu.be/-JBgaR8sNcE?t=1260) 21:00
+    * [Raspberry pi weather station that tweets the weather](https://youtu.be/-JBgaR8sNcE?t=1310)
+    * _Rolling average_ of temperature - numeracy
+* [Computing in the curriculum: Challenges and strategies from a teacher's perspective](https://link.springer.com/article/10.1007/s10639-016-9482-0) - Sue Sentence - April 2016 - King’s College London UK
 * Old
     * [Ofsted Computing Inspection Criteria](https://onefourseven.org.uk/blog/ofsted-on-computing-update/) 2014
     * [Ofsted Assessing Computing](https://www.softegg.co.uk/blog/ofsted-inspecting-the-computing-curriculum) 2014
 
 
 
-Responsibility's of Computing Teachers
+Responsibility's of Computing Teachers (lecture 10min)
 --------------------------------------
 
 * 3 strands
@@ -63,12 +80,12 @@ Responsibility's of Computing Teachers
     * Digital literacy
         * not a discrete subject - is supposed to be conveyed across the curriculum
 
-* As computing teachers we must support
+* As computing teachers we must support:
     * our schools with ICT and digital literacy
-        * Very few other teachers will have a background in Computing
+        * Very few other teachers will have a background in Computing. Their digital literacy is often weak.
         * Other subjects/staff will need support from you to train them in some aspects of computers (ICT and Computing) for their class's
         * We should consider this _support_ part of our role in schools
-    * our subject with strong cross curricular
+    * our subject with strong cross curricular links
         * Literacy
             * [Ofsted Improving literacy in secondary schools: a shared responsibility](https://www.gov.uk/government/publications/improving-literacy-in-secondary-schools-a-shared-responsibility)
                 > Our world is dominated by the written word, both online and in print. This means we can only contribute and participate actively if we can read and write sufficiently well.
@@ -87,26 +104,13 @@ Responsibility's of Computing Teachers
     * Your enthusiasm and knowledge should permeate the air and infect the people around you
     * You need to convey how Computing changes us and our world
 
-The rest of this session will prompt you into thinking about computing in a wider context with examples. Prepare for a datablast!
+### Computing Terminology cross curricular
 
-
-Existing Resources
-------------------
-
-* [Barefoot](https://www.barefootcomputing.org/)
-    * Simple, accessible resources to help you deliver the primary computing curriculum brilliantly
-* [101computing](https://www.101computing.net/)
-    * Python, Scratch, Javascript projects and live web demonstrations
-* [BBC Bitesize](https://www.bbc.com/bitesize/subjects/z34k7ty)
-
-
-Computing Terminology
----------------------
-
-These terms could be applied to _all_ subjects
+These terms could be applied to _all_ subjects.
+Can you help other practitioners include these words explicitly in their lessons?
 
 * Logic
-    * predicting analyzing
+    * predicting analysing
 * Algorithms
     * making steps & rules
 * Decomposition
@@ -118,10 +122,31 @@ These terms could be applied to _all_ subjects
 * Evaluation
     * making judgement
 
+### Planning cross curricular
 
-Model: Example Cross Curricular Lesson (30min)
+* How can it be done? Possible options:
+    * Discreet Computing lessons reference other subsect areas
+        * You using your creativity
+        * You invite other subject specialists to be involved in Computing planning
+    * Other subject lessons reference Computing concepts
+        * As a computing specialist you are involved/consulted in other subjects planning
+        * [English: making links with the Computing curriculum](https://www.somerset.org.uk/sites/edtech/Primary%20Computing/Computing%20across%20curriculum/English%20and%20computing.pdf)
+            * > Decomposition is used to analyse sentence construction including the recognition of a clause, conjunctions, adverbs and prepositions.
+                * See `grammar.py` example later
+        * TODO: I want more examples
+    * Integrated curriculum - there are no subjects
+
+Don't wait for leadership to tell you what to do.
+Get involved with other subjects teachers!
+
+
+
+Model: Example Cross Curricular Lesson (lecture 30min)
 -------------------------------
-I am going to describe a cross curricular lesson I have run in the past. It looses all it's impact
+
+I am going to describe a cross curricular lesson I have run in the past. 
+
+Remote/Covid: Sadly, this lesson looses all it's impact without being able to physically hand out anaglyph glass's. Please imagine what it might actually look like.
 
 * [3d_image](../3d_image/README.md) workshop
     * [anaglyph](../3d_image/anaglyph.md)
@@ -158,29 +183,28 @@ I am going to describe a cross curricular lesson I have run in the past. It loos
     * Create own abstract worlds (fractals animation)
     * [3D Fractal](https://www.youtube.com/watch?v=bklMh5NjewI)
 
-Group Task: Design a Cross curricular Lesson (30min)
+
+Group Task: Design a Cross curricular Lesson (1 hour)
 --------------------------------------------
 
-Breth of Depth
+* As an individual (30min)
+    * Create a set of bullet points (like my example above) for a lesson/topic that can touch as many other subjects as possible.
+        * Ideas to consider:
+            * Start with a a big question/concept?
+            * Literacy/Epistemology?
+            * History (what has been done to this point?)
+            * Science/World?
+            * Creative/Artistic?
+            * Community/Society/Law/Citizenship/Environment/BAME?
+            * Computing reference?
+        * Play Crossover subject/discipline bingo! How many genuine cross curricular links can you find?
+        * Two possibilities
+            * Breath? (create multiple small lessons that touch a few disciplines)
+            * Depth? (create a single topic that touches as many disciplines as possible)
+* In pairs (15min)
+    * Describe your ideas - suggest one improvement/addition to each other
+* As group (15min) present your ideas
 
-A set of bullet points (like above)
-Ideas to consider:
-* A big question/concept?
-* Literacy/Epistemology?
-* History (what has been done to this point?)
-* Science/World?
-* Creative/Artistic?
-* Community/Society/Law/Citizenship?
-* Computing reference?
-Play Crossover bingo! How many genuine cross curricular links can you find?
-
-
-Computing in other subject curriculum's
----------------------------------------
-
-* [Primary English Example](https://www.somerset.org.uk/sites/edtech/Primary%20Computing/Computing%20across%20curriculum/English%20and%20computing.pdf)
-    * > Decomposition is used to analyse sentence construction including the recognition of a clause, conjunctions, adverbs and prepositions.
-        * See `grammar.py` example below
 
 
 Lesson Topic Ideas
@@ -213,6 +237,7 @@ Lesson Topic Ideas
     * [Colorized historical photos](https://www.google.com/search?client=firefox-b-d&q=colorise+histoical+photos)
         * [Colourising historical photos of the civil rights movement](https://www.bbc.co.uk/news/in-pictures-55619618)
         * [How to Colorize a Black and White Photo in Photoshop](https://youtu.be/C2Srw245R7U)
+        * [deep-nostalgia](https://www.myheritage.com/deep-nostalgia) - AI to animate faces from photos - including dead people (looking around and smiling)
         * [GIMP Tutorial: Restore Color to Black and White Photo](https://youtu.be/YFDdS9iRfPE)
         * [github.com/junyanz/interactive-deep-colorization](https://github.com/junyanz/interactive-deep-colorization)
             * Used to be the work of skilled image editing professionals
@@ -241,6 +266,14 @@ Lesson Topic Ideas
     * [River Editor: Water Simulation in Real-Time](https://80.lv/articles/river-editor-water-simulation-in-real-time/)
     * [Can We Terraform the Sahara to Stop Climate Change?](https://www.youtube.com/watch?v=lfo8XHGFAIQ)
     * Sandbox solar system
+    * [Antikythera Mechanism](https://en.wikipedia.org/wiki/Antikythera_mechanism)
+        * Found in a wooden box from a shipwreck in 1901 - in 2008 x-ray tomography read the inscriptions
+        * From 250BC - Technology was lost until 1400 europe
+        * 37 gears
+        * predicted solar positions, moon (irregular orbit), eclipses 2000+ years in advance
+    * https://www.solarsystemscope.com/
+    * http://stuffin.space/
+    * [css-orbit](https://css-orbit.kobeff.repl.co/) [article](https://repl.it/talk/share/CSS-Solar-System/119400)
     * [Alien Civilization Calculator](https://www.omnicalculator.com/physics/alien-civilization)
     * Atomic Imagry [Crystal close up First-ever atomic resolution video of salt crystals forming in real time ](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00161.html)
 * Maths
@@ -266,14 +299,22 @@ Lesson Topic Ideas
     * [Bacteria Simulation](https://www.youtube.com/watch?v=5UMZVmLt0Bw)
     * [BioInfomatics](http://rosalind.info/)
         + See my DNA-regex activity
-    * [Algorithmic Botany](http://algorithmicbotany.org/papers/#abop)
+    * Recursion
+        * [Algorithmic Botany](http://algorithmicbotany.org/papers/#abop)
+        * [101computing.net/recursive-tree-challenge](https://www.101computing.net/recursive-tree-challenge/)
+        * [Algorithmic Doodle Art](https://teachinglondoncomputing.org/algorithmic-doodle-art/) teach london computing - unplugged
+    * Snail shell - golden ratio - https://en.wikipedia.org/wiki/Golden_spiral
     * MRI Scan data (see TeachProgramming project)
-    * Genetic algorithums
+    * Genetic algorithms - evolving a fit solution
         * [genetic_cars_2](https://rednuht.org/genetic_cars_2/)
         * [Creatures racing](https://www.youtube.com/watch?v=31dsH2Fs1IQ)
         * [Smart Rockets](https://github.com/aruvham/javascript-smart-rockets)
     * [nextstrain.org](https://nextstrain.org/) - Real-time tracking of pathogen evolution 
         * [sars-cov-2 live strains](https://nextstrain.org/groups/neherlab/ncov/S.N501?c=gt-S_501,69&f_country=United%20Kingdom&label=mlabel:20B/C5388A&p=grid)
+    * MRI Scan Data Viewer
+        * Just a 3d array of bytes
+        * [Papaya view of BioBank rfMRI_ICA_d25_good_nodes](https://www.fmrib.ox.ac.uk/ukbiobank/group_means/rfMRI_ICA_d25_good_nodes.html)
+        * [mri.md](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/data/mri.md) [mri.py](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/data/mri.py)
 * Geology
     * [NASA Astromaterials 3D](https://ares.jsc.nasa.gov/astromaterials3d/index.htm) - A virtual library for exploration and research of NASA's space rock collections
         * CT scans + data of moon rocks + web 3d viewer
@@ -281,7 +322,7 @@ Lesson Topic Ideas
     * ?
 * Business Studies
     * [investopedia.com](https://www.investopedia.com/simulator/) - Simulated investments
-    * [MarketWatch: Educational Resources](https://www.marketwatch.com/game)
+    * [MarketWatch: Educational Resources](https://www.marketwatch.com/game) Virtual stock exchange
     * [LondonStockExchange Simulator](https://www.londonstockexchange.com/global/portfolio/portfolio-and-trading-simulator.htm)
 * Economics
     * [rolesia.com](https://www.rolesia.com/) - Country Economics Simulator
@@ -298,6 +339,7 @@ Lesson Topic Ideas
                 * [Tutorial: 3D Animation With Python and Blender](https://www.youtube.com/watch?v=ssHiWpVuxTk)
                 * [#greasepencil](https://twitter.com/dedouze_/status/1328425326905528321)
                 * [Export Paper Model Addon](https://blender-addons.org/export-paper-model-addon/) #papercraft
+                    * [Retro Computer Papercraft Models](http://rockybergen.com/papercraft)
         * Rigging SVG and face tracking
             * https://github.com/yemount/pose-animator/
     * Preservation
@@ -306,12 +348,13 @@ Lesson Topic Ideas
         * [recursive-tree-challenge](https://www.101computing.net/recursive-tree-challenge/)
         * [London Community](https://www.meetup.com/Algorithmic-Art/)
     * [Demoscene](https://en.wikipedia.org/wiki/Demoscene)
-            * [Breakthrough of Digital Culture: Finland accepts the Demoscene on its national UNESCO list of intangible cultural heritage of humanity](http://demoscene-the-art-of-coding.net/2020/04/15/breakthrough-finland-accepts-demoscene-on-their-national-list-of-intangible-cultural-heritage-of-humanity/)
-            * [flashtro-morton-strikes-back](http://flashtro.com/flashtro-morton-strikes-back/)
-            * [elevated by Rgba & TBC | 4k intro](https://www.youtube.com/watch?v=jB0vBmiTr6o)
-                * [Perlin noise](https://en.wikipedia.org/wiki/Perlin_noise)
-            * ["Memories" - 256 byte MSDOS intro](https://youtu.be/Imquk_3oFf4)
-                * Smaller then a single tweet (each character/letter is a byte)
+        * [Breakthrough of Digital Culture: Finland accepts the Demoscene on its national UNESCO list of intangible cultural heritage of humanity](http://demoscene-the-art-of-coding.net/2020/04/15/breakthrough-finland-accepts-demoscene-on-their-national-list-of-intangible-cultural-heritage-of-humanity/)
+        * [flashtro-morton-strikes-back](http://flashtro.com/flashtro-morton-strikes-back/)
+            * [pygame_zoomer.py](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/game/pygame_zoomer.py)
+        * [elevated by Rgba & TBC | 4k intro](https://www.youtube.com/watch?v=jB0vBmiTr6o)
+            * [Perlin noise](https://en.wikipedia.org/wiki/Perlin_noise)
+        * ["Memories" - 256 byte MSDOS intro](https://youtu.be/Imquk_3oFf4)
+            * Smaller then a single tweet (each character/letter is a byte)
     * [Pixel Art](http://www.dinofarmgames.com/a-pixel-artist-renounces-pixel-art/)
         * [#pixelart](https://twitter.com/search?q=%23pixelart)
     * [Turn Photos Into Logos with GIMP](https://youtu.be/Yce2ZvGeanY)
@@ -439,21 +482,40 @@ Lesson Topic Ideas
     * Mosquito netting and projectors
         * [Ghost Screen Hologram Mapping Show MICE TECHNIC](https://youtu.be/Ulrv8GywZIU?t=25)
         * [no-see-um mosqueto netting](https://www.profabrics.co.uk/products/insect-midge-net-fine?variant=6809889027)
-        * [superLimitBreak tech demo 2015](https://syncthing.superlimitbreak.uk/performances/2015-09-18%20Gulbenkian/SuperLimitBreak%20-%20Tech%20Demo%20v3-n8oAIaFTjco.mp4) - My armature band with my home build lights and projection software
+            * [miku low](https://calaldees.dreamhosters.com/music/miku_low.mp4)
+            * [superLimitBreak tech demo 2015](https://syncthing.superlimitbreak.uk/performances/2015-09-18%20Gulbenkian/SuperLimitBreak%20-%20Tech%20Demo%20v3-n8oAIaFTjco.mp4) - My armature band with my home build lights and projection software
 * Culture/Citizenship/Wider?
     * [radio.garden](http://radio.garden) Globe of radio masts
     * [Driver and Listen](https://driveandlisten.herokuapp.com/)
     * [My 80's TV](https://www.my80stv.com/)
 
 
+Tools
+-----
+* [DiveTools2](https://scuba.shish.io/)
+    * [DiveTools Source](https://github.com/shish/divetools2)
+* Nursing
+    * [The Royal Marsden Manual of Clinical Nursing Procedures, Professional Edition, 9th](https://www.amazon.co.uk/Marsden-Clinical-Nursing-Procedures-Professional/dp/1118745922)
+    * [Malnutrition Universal Screening Tool](https://www.bapen.org.uk/pdfs/must/must_full.pdf)
+
+
 Discipline's
 ------------
 
 Not directly related to an established school subject.
+* data science
+    * [Kaggle](https://www.kaggle.com/) Jupiter notebook with datasets live on the web
+        * [Data](https://girlswhocode.com/assets/downloads/craft-prod/downloads/Girls-Who-Code-At-Home-Depicting-Data.pdf)
+    * [The Ultimate Python Seaborn Tutorial: Gotta Catch ‘Em All](https://elitedatascience.com/python-seaborn-tutorial)
+        * Pokemon gen1 data (csv) mined with python
+    * [datacamp.com](https://www.datacamp.com/) - Build data skills online
+        * Online lessons, processing tools, data, interactive assessments
+        * [DataCamp For The Classroom](https://www.datacamp.com/groups/education) - Democratizing data science education - DataCamp is 100% free for educators. 
 
 * [[Data Visualisation]]
     * (Where does visualisation go? It's like 'where does Geology exist in STEM?')
     * [dataVisulisation.md](../computing/data/dataVisualisation.md)
+    * [informationisbeautiful.net/beautifulnews](https://informationisbeautiful.net/beautifulnews/)
 * [[Simulation]]
     * [simulation.md](../computing/data/simulation.md)
 
@@ -498,7 +560,7 @@ Further Concepts
     * Operating Systems
     * Map Data
 * Impact of Open Tooling
-    * [Numberplate recognition](https://medium.freecodecamp.org/how-i-replicated-an-86-million-project-in-57-lines-of-code-277031330ee9)
+    * [How I replicated an $86 million project in 57 lines of code](https://medium.freecodecamp.org/how-i-replicated-an-86-million-project-in-57-lines-of-code-277031330ee9) - Numberplate recognition
 
 
 
@@ -595,7 +657,8 @@ Vector graphics formats
 
 ### Generate graphs of equations
 
-Give a framework to put pixels on screen
+
+Give a framework to put pixels on screen [graph-line.html](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/data/graph-line.html)
 Draw x and y axis
 take function and draw line
 x+2
