@@ -21,8 +21,10 @@ Consider the semantic difference between "A Computing teacher" and "A teacher th
 
 1.2. 
 > Teachers are key role models, who can influence the attitudes, values and behaviours of their pupils
+
 3.1.
 > A school’s curriculum enables it to set out its vision for the knowledge, skills and values that its pupils will learn, encompassing the national curriculum within a coherent wider vision for successful learning
+
 3.8.
 > Pupils are likely to struggle to transfer what has been learnt in one discipline to a new or unfamiliar context.
 
