@@ -861,6 +861,11 @@ Computing Education in the Media
 * [Computing Curriculum is not just about code - its political power](https://mirandanet.ac.uk/blog/2017/09/02/coding-lessons-computing-curriculum/) See closing two paragraphs
 
 
+Colleagues and Other Subjects
+-----------------------------
+
+If you take an interest in what they are teaching, they will take an interest in what you are teaching.
+Becomes friends with other teachers. Passionatly talk about teaching. Passionatly talk about Computing. In turn you will gain insight about their subjects from them.
 
 
 Summary (whole group 15min to 30min)
