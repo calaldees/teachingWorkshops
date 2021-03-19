@@ -23,12 +23,16 @@ Next session we are looking at "Computing Across the Curriculum".
 * How could a lesson/activity be structured to bridge multiple subjects?
 Come prepared to next weeks session with suggestions so we can embark on a discussion.
 
-Introduction (whole group 20min)
+
+Introduction (whole group 15min to 30min?)
 ------------
+
+Shared whiteboard for ideas followed by discussion.
 
 * Scenario: Computing does not exist as a subject on it's own.
 * What would Computing in schools look like?
-    * How could it be done?
+* How could it be done?
+* What would the issues be? What would be the benefits?
 
 
 Ofsted and Computing (lecture 10min)
@@ -511,12 +515,8 @@ Tools
     * [Malnutrition Universal Screening Tool](https://www.bapen.org.uk/pdfs/must/must_full.pdf)
 
 
-Discipline's related to computing that are universal
+Discipline's related to computing that are universal (demo 15min)
 ----------------------------------------------------
-
-* Async Skim Read (15min)
-    * [Girls-Who-Code-At-Home-Depicting-Data.pdf](https://girlswhocode.com/assets/downloads/craft-prod/downloads/Girls-Who-Code-At-Home-Depicting-Data.pdf)
-    * [The Ultimate Python Seaborn Tutorial: Gotta Catch ‘Em All](https://elitedatascience.com/python-seaborn-tutorial)
 
 Not directly related to an existing established school subject.
 
@@ -540,6 +540,14 @@ Not directly related to an existing established school subject.
         * Bruises you don't see
 * [[Simulation]] and Modeling
     * [simulation.md](https://github.com/ComputingTeachers/mapOfComputing/blob/main/computing/simulation.md)
+
+
+Read resources Async (15min)
+--------------
+
+* Async Skim Read (15min)
+    * [Girls-Who-Code-At-Home-Depicting-Data.pdf](https://girlswhocode.com/assets/downloads/craft-prod/downloads/Girls-Who-Code-At-Home-Depicting-Data.pdf)
+    * [The Ultimate Python Seaborn Tutorial: Gotta Catch ‘Em All](https://elitedatascience.com/python-seaborn-tutorial)
 
 
 Explore and find dataset(s) for teaching (Async 1 hour)
@@ -834,12 +842,12 @@ Computing Education in the Media
 * [Computing Curriculum is not just about code - its political power](https://mirandanet.ac.uk/blog/2017/09/02/coding-lessons-computing-curriculum/) See closing two paragraphs
 
 
-Summary (30min)
+Summary (whole group 15min to 30min?)
 -------
 
-Shared whiteboard: put all the ideas you have encountered this session that you will consider using or following up.
+Shared whiteboard: Put all the ideas you have encountered this session that you will consider using or following up.
 
-Please fill out the feedback.
+I value your 2min of feedback.
 
 
 
