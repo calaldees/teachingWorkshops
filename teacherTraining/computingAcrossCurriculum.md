@@ -4,11 +4,30 @@ Computing Across the Curriculum
 Objectives
 ----------
 
+Up until this point you've been starting your journey of mechanically teaching computing topics discreetly.
+Consider the semantic difference between "A Computing teacher" and "A teacher that has a specialism in Computing".
+(I want this session to challenge your perception of your role)
+
 * Understand the power of context based learning
     * Computing can relate to everything in our world and lives
 * Consider how we can support our fellow teaching colleges with our Computing skills
 
-ITT Core Framework
+### Spotlight questions
+* What is a broad and balanced curriculum?
+* How do you lead learning?
+* (Echo back to) What is a Teacher?
+
+### ITT Core Framework
+
+1.2. 
+> Teachers are key role models, who can influence the attitudes, values and behaviours of their pupils
+3.1.
+> A school’s curriculum enables it to set out its vision for the knowledge, skills and values that its pupils will learn, encompassing the national curriculum within a coherent wider vision for successful learning
+3.8.
+> Pupils are likely to struggle to transfer what has been learnt in one discipline to a new or unfamiliar context.
+
+> Discussing and analysing with expert colleagues how to revisit the big ideas of the subject over time and teach key concepts through a range of examples.
+
 8.3
 > Teachers can make valuable contributions to the wider life of the school in a broad range of ways, including by supporting and developing effective professional relationships with colleagues
 
@@ -842,8 +861,12 @@ Computing Education in the Media
 * [Computing Curriculum is not just about code - its political power](https://mirandanet.ac.uk/blog/2017/09/02/coding-lessons-computing-curriculum/) See closing two paragraphs
 
 
-Summary (whole group 15min to 30min?)
+
+
+Summary (whole group 15min to 30min)
 -------
+
+This all sounds good. How do we actually do this? What actions can we take?
 
 Shared whiteboard: Put all the ideas you have encountered this session that you will consider using or following up.
 
