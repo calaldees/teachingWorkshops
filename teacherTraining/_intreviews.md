@@ -83,18 +83,6 @@ Look at this code and comment on anything that you can identify using technical 
     image_des.show()
 ```
 
-### Code 2
-
-```python
-    LL = 'abcdefghijklmnopqrstuvwxyz'
-    def ff(tt, offset=1):
-        def _offset(aa):
-            if aa not in LL:
-                return aa
-            return LL[(LL.index(aa) + offset) % len(LL)]
-        return ''.join(map(_offset, tt.lower()))
-```
-
 (Looking if candidate can use technical language to describe programming constructs. Functions, Variables, Assignment operators, mathematical operations, scope. iteration)
 
 
@@ -103,11 +91,11 @@ Computing in Education (5 min)
 
 * Tell me about the current Computing syllabus in schools
     * What books/articles/blogs/videos have you encountered about teaching Computing?
-* What do you think young people will find the most challenging aspect of learning computing
+* What do you think young people will find the most challenging aspect of learning computing?
 * How would teaching Computing differ from other subjects?
-* Can you envisage a problematic scenario in a computing classroom
+* Can you envisage a problematic scenario in a computing classroom?
     * How might you deal with this?
-* How do you see your skills and role changing/developing over the years?
+* How do you see your skills and role changing/developing over the years? Where do you see yourself in 5 years?
 * What problems are there with young people using technology?
 
 
@@ -117,9 +105,10 @@ General Teaching (12 min)
 * What will make you a good teacher?
 * What are the hallmarks of a good lesson?
 * Why did you choose the PGCE over School Direct?
-* Describe a time when you had to learn a new technology. Why did you learn it? How did you approach it?
+* Describe a time when you had to learn a new skill. Why did you learn it? How did you approach it?
 * What would you do if you were concerned about a colleague's behaviour towards children?
-* Provide examples of times when workload and numerous tasks have been managed concurrently
+    * e.g. overhearing language used when dismissing a class
+* Provide examples of times when workload and numerous tasks have been managed concurrently?
 * You have prepared an amazing lesson with guidance from theory and the university. You present the lesson plan to your mentor who is no convinced and does not want you to run the lesson. How do you respond?
 * Can you give an example of where you changed your opinion?
 

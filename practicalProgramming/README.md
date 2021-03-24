@@ -309,7 +309,7 @@ Session 35
 ----------
 
 Debugging Refresher
-
+Callstack, postmortem, differnt debuggers rpdb, pudb
 
 Upcoming
 --------

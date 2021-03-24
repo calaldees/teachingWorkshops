@@ -960,3 +960,89 @@ Notes for reflections
 
 jisc.potential.ly
 https://www.alt.ac.uk/
+
+
+Session 4
+---------
+
+
+### Graduate Attributes
+
+* Instructor/Teacher to talk about the meta narrative of the Graduate Attributes in lessons.
+
+* 20% not in skill employment after 3.5 years
+    * (how do they track this?)
+* [Canterbury.ac.uk Graduate Attributes](https://www.canterbury.ac.uk/learning-and-teaching-enhancement/strategies/graduate-attributes.aspx)
+* [The Biggest Hurdles Recent Graduates Face Entering the Workforce](https://hbr.org/2019/04/the-biggest-hurdles-recent-graduates-face-entering-the-workforce)
+    * Because in the end, what we found in our work is that the book smarts students have received from their college education will only get them so far.
+    * Feedback
+        * In college, feedback is clear and consistent. You have a syllabus, which details the requirements
+        * > Throughout my entire life from the beginning of school everything was graded. You could get immediate feedback on your performance. But at work, you’re not getting that immediate feedback… and I think that was one of the biggest challenges throughout that transition
+    * Relationships
+        * Relationships in the professional world are also very different from in college.
+        * In college, you build relationships with people you want to — and for the most part with people around your same age
+    * Accountability
+        * > “When you’re young coming out of college, you don’t realize what you’re walking into. You either perform or you don’t, and you could lose your job any day. Students think it’s easy-going just like school, but it’s nothing like that. It’s a lot more responsibility.”
+        * Mentoring is of course a critical part of this process, but remember that more experienced mentors aren’t necessarily better. What’s essential is finding mentors who have experience of both sides of the transition
+* [CCCU Framework for Employability](https://www.canterbury.ac.uk/career-development/docs/CCCU-Framework-for-Developing-Enterprising-Professional-Graduates-Framework-2019-2024.pdf)
+    * Working on Your Self:
+        * Increasing self-awareness and reflection
+        * Enhancing your professionalism
+        * Developing an enterprising mind set
+    * Working on your Potential: 
+        * Improving your attributes and skills
+        * Marketing and promoting yourself
+        * Applying subject knowledge
+    * Working on your Future:
+        * Exploring career possibilities
+        * Building sector awareness
+        * Searching for and securing opportunities
+    * Framework says
+        * The Career Pulse tool?
+        * An assessed 20-credit equivalent of Work-related Experience (WRE) in all undergraduate programmesand
+        * Reflective assessments linked toChrist Church University’s Graduate Attributes
+* [CCCU L&T Strategy and Curriculum Design Toolkit](https://learn.canterbury.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_1217163_1&course_id=_5501_1)
+    * Set of blackboard modules
+
+What professional skills are you already developing in your classroom teaching and activity setting
+
+What could you potentially develop
+
+How are you or can you ensure your students understand for themselves that they are developing professional skills in this setting? 
+
+How can you ensure your students understand that they provide examples for CVs, personal statements and interview examples? 
+
+
+* My Interview question
+    * What did you do autonomously? (Rather than being told to by your course)
+
+
+* [Welcome to the Canterbury Christ Church University Learning Skills Hub](https://blogs.canterbury.ac.uk/ccculearningskills/)
+
+
+### Sustainability
+* Not to make it a bolt on
+* UKES Survey (often, sometimes, never)
+    * Gobal issues
+    * Local issues
+    * Social justics
+    * Ethical issues
+    * Individual and community wellbeing
+    * Environmental issues
+    * How can you be in volved in Positive change
+* Long termisums
+    * Education about ROHS, disposal of machines, eco damage of manufacture + slave labour, email carbon footprint, Cloud computing
+    * Pollution of these electornic devices
+    * Future thinking
+* social sustainability
+    * mentoring/sharing with others (mentoring juniours)
+    * listen to each others
+    * Health - long term mental health
+* [Ronald Barnett](https://www.ronaldbarnett.co.uk/books.php)
+    * Social ecology
+
+### Library
+* Journal article
+    * look at refernces (back in time)
+    * Find references to this document (forward in time)
+* Search skills - think of alternate terms - follow related pharses

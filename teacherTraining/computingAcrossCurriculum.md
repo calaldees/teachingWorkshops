@@ -529,6 +529,7 @@ Timebox to one hour ... you may be sent links in the chat to try
 
 Tools
 -----
+* [miniwebtool](https://miniwebtool.com/)
 * [DiveTools2](https://scuba.shish.io/)
     * [DiveTools Source](https://github.com/shish/divetools2)
 * Nursing
@@ -860,7 +861,9 @@ plotly.offline.plot(data, filename='basic-line')
 Computing Education in the Media
 ---------------------------------
 
-* [Computing Curriculum is not just about code - its political power](https://mirandanet.ac.uk/blog/2017/09/02/coding-lessons-computing-curriculum/) See closing two paragraphs
+* [Coding for what? Lessons from computing in the curriculum](https://mirandanet.ac.uk/blog/2017/09/02/coding-lessons-computing-curriculum/) 
+    * See closing two paragraphs
+    * Computing Curriculum is not just about code - its political power
 
 
 Colleagues and Other Subjects

@@ -29,3 +29,6 @@
     * In light of the pandemic and countries slowly opening up again, I thought I'd ask this question that appeared back in 2015
     * Insightful comments from people that have travelled the world and socialised.
     * > I'd love to hear concretely what you guys who traveled actually gained from traveling the world?
+
+* [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
+* 

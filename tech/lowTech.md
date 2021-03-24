@@ -15,3 +15,5 @@ Most solutions are high tech. Do we need this high tech solution.
 
 * [The Cuboid: A DIY air purifier that's better than a box-fan](https://dynomight.net/better-DIY-air-purifier.html)
 * [THE SECRET LIFE OF MACHINES: The Videos](https://www.exploratorium.edu/ronh/SLOM/)
+* [Collections: Clothing, How Did They Make It? Part III: Spin Me Right Round…](https://acoup.blog/2021/03/19/collections-clothing-how-did-they-make-it-part-iii-spin-me-right-round/)
+* 

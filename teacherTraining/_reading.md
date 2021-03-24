@@ -7,11 +7,26 @@
 Research
 --------
 
+* [RefWorks](https://refworks.proquest.com/) - online website for creating/managing references
+
+
 Journals
 * [Teachers and Teaching: theory and practice](https://www.tandfonline.com/toc/ctat20/current) - International Study Association on Teachers and Teaching (ISATT)
 * [CAS: Research in Computer Science Education](https://community.computingatschool.org.uk/resources/46/single)
     * List of UK research
 * [Impact: Journal of the chartered college of teaching](https://impact.chartered.college/)
+* 
+* [Journal of Educational Technology Systems](https://journals.sagepub.com/loi/etsa) 1972->present
+* [SAGE Education journals list](https://journals.sagepub.com/education)
+* [JSTOR: Education technology](https://www.jstor.org/journal/eductech)
+* [SAGE: Journal of Educational Computing Research](https://journals.sagepub.com/loi/jeca) 1985sent
+* [SAGE: Journal of Educational Computing Research](https://journals.sagepub.com/home/JEC)
+* [SAGE: Journal of Educational Computing Research](https://uk.sagepub.com/en-gb/eur/journal-of-educational-computing-research/journal202399)
+* [Elsevier: Computers and Education](https://www.journals.elsevier.com/computers-and-education)
+* [ScienceDirect: Computers and Education](https://www.sciencedirect.com/journal/computers-and-education)
+* [Taylor Frances Online: Computer Science Education](https://www.tandfonline.com/toc/ncse20/current)
+* [Springer: Journal of Computers in Education](https://link.springer.com/journal/40692/volumes-and-issues)
+
 
 [How learning tasks can fail](https://twitter.com/dylanwiliam/status/1307305389956923392/photo/1) Dylan Wiliam - tweet/slide
 [Just because they’re engaged, it doesn’t mean they’re learning](https://impact.chartered.college/article/just-because-theyre-engaged-doesnt-mean-learning/) Carl Hendrick and Jim Heal - September 2020
