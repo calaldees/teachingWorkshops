@@ -574,3 +574,7 @@ All on the same team, all with the same objective and paid from the same pot. Sh
             * comments only
         * Version control (git)
             * [github.com/ComputingTeachers](https://github.com/ComputingTeachers)
+
+
+* [gov.uk - A self-improving school system: towards maturity](https://www.gov.uk/government/publications/a-self-improving-school-system-towards-maturity) - A look at the progress that has been made towards a self-improving school system since 2010
+    * This links in with CPD, educating the whole person, cross curricular and the importance of networking with local schools

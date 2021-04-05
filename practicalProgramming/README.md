@@ -311,14 +311,25 @@ Session 35
 Debugging Refresher
 Callstack, postmortem, differnt debuggers rpdb, pudb
 
+
+Session 36
+----------
+
+Code review data project - function as param for bubblesort
+Menu as dictionary + function to render menu
+
+Session 37
+----------
+
+
+
+
 Upcoming
 --------
 
+Connect 4 talk?
 Game Framework Base - Pygame
  stars?
  tweens?
 Chat system
-
-Code review malnutrition tool?
-
-Dry run more algorithms - quicksort?
+Shapes in tk/pygame

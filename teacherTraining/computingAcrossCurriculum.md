@@ -327,6 +327,7 @@ Timebox to one hour ... you may be sent links in the chat to try
         * [Scale the Universe 2](https://www.htwins.net/scale2/)
         * [Powers of 10](https://www.youtube.com/watch?v=0fKBhvDjuy0) - 1977
 * Biology
+    * [BioNumbers](https://bionumbers.hms.harvard.edu/) - a database of useful biological numbers
     * Conways game of life? - Emergent behaviour from simple rules
         * [conway.md](https://github.com/ComputingTeachers/mapOfComputing/blob/main/computing/conway.md)
         * my [conway.py](https://github.com/calaldees/TeachProgramming/tree/master/teachprogramming/static/projects/other/conway)
@@ -551,6 +552,20 @@ Not directly related to an existing established school subject.
             * [Girls-Who-Code-At-Home-Depicting-Data.pdf](https://girlswhocode.com/assets/downloads/craft-prod/downloads/Girls-Who-Code-At-Home-Depicting-Data.pdf)
     * [The Ultimate Python Seaborn Tutorial: Gotta Catch ‘Em All](https://elitedatascience.com/python-seaborn-tutorial)
         * Pokemon gen1 data (csv) mined with python
+    * [What Data Can’t Do](https://www.newyorker.com/magazine/2021/03/29/what-data-cant-do) When it comes to people—and policy—numbers are both powerful and perilous. - Hanna Fry 2021
+        * Goodhearts Law - once a useful number becomes a measure of success, it ceases to be a useful number.
+        *  Textile factories were required to produce quantities of fabric that were specified by length, and so looms were adjusted to make long, narrow strips. 
+        *  Uzbek cotton pickers, judged on the weight of their harvest, would soak their cotton in water to make it heavier. 
+        *  America’s first transcontinental railroad was built, in the eighteen-sixties, companies were paid per mile of track. So a section outside Omaha, Nebraska, was laid down in a wide arc, rather than a straight line, adding several unnecessary (yet profitable) miles to the rails. 
+        * data “may be a pretty decent proxy for something that really matters,” but there’s a critical gap between even the best proxies and the real thing—between what we’re able to measure and what we actually care about.
+        * > There are echoes of this in the questions that society aims to answer using data, with a well-known example concerning schools. We might be interested in whether our children are getting a good education, but it’s very hard to pin down exactly what we mean by “good.” Instead, we tend to ask a related and easier question: How well do students perform when examined on some corpus of fact? And so we get the much lamented “teach to the test” syndrome.
+        * > For that matter, think about our use of G.D.P. to indicate a country’s economic well-being. By that metric, a schoolteacher could contribute more to a nation’s economic success by assaulting a student and being sent to a high-security prison than by educating the student, owing to all the labor that the teacher’s incarceration would create.
+        * > To simplify the world enough that it can be captured with numbers means throwing away a lot of detail. The inevitable omissions can bias the data against certain groups.
+        * > Harford gives the example of two sheep in a field: “Except that one of the sheep isn’t a sheep, it’s a lamb. And the other sheep is heavily pregnant—in fact, she’s in labor, about to give birth at any moment. How many sheep again?”
+        * Child development model (4 data points) - DOB, Mothers education, marital status, ethnicity - 20% accuracy
+        * thirteen thousand data points on each child - sophisticated modules predicted at +-3% accuracy
+        * > Numbers are a poor substitute for the richness and color of the real world.
+        * [Hello World: Being Human in the Age of Algorithms](https://www.amazon.co.uk/Hello-World-Being-Human-Algorithms/dp/0393357368/) Hanna Fry Feb 2020
 * [[Data Visualisation]]
     * (Where does visualisation go? It's like 'where does Geology exist in STEM?')
     * [dataVisulisation.md](https://github.com/ComputingTeachers/mapOfComputing/blob/main/computing/data-visualisation.md)
@@ -990,3 +1005,7 @@ tim hunkin - southwold under the peir - novalty automation
 
 
 Runway - numbers - bearing
+
+* [English++](https://englishplusplus.jcj.uj.edu.pl/index.html)
+    * Teaching Computer Science with english as a second langauge.
+    * Open polish book from 3rd year comp sci grads

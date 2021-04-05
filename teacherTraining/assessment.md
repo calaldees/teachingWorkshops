@@ -901,7 +901,19 @@ Computing not understood why it is needed
 TODO
 ====
 
+Give a class in an "exam hall" to psychology prepare them for being in an exam hall. Familiar place.
 
+"I don't know the 12 times table"
+"Lets try"
+"take 12, add 12, now add 12, now add 12"
+"why do you keep adding 12 sir? Oh times tables are easier than I thought"
+
+Personalised learning
+
+WHich of these is not a logic gate
+Not
+And
+Plus
 
 
 Rethinking assessment
@@ -1064,3 +1076,12 @@ Course
 
 * [Introducing Assessment for Learning](https://www.futurelearn.com/courses/introducing-assessment-for-learning)
     * STEM Learning
+
+
+Unsorted
+--------
+
+* [High jump vs hurdles: Replacing grades with curriculum related expectations](https://learningspy.co.uk/assessment/replacing-grades-with-curriculum-related-expectations/) David Didau
+    * 
+* [CAS Assessment Working Group](https://community.computingatschool.org.uk/resources/5304/single#)
+    * [CAS Assessment working group response to Consultation on how GCSE, AS and A level grades should be awarded in summer 2021](https://community.computingatschool.org.uk/files/11162/original.pdf)

@@ -485,3 +485,12 @@ https://impact.chartered.college/article/how-retrieval-practice-embedded-classro
 ---
 [Dr. Seuss Books Deemed Offensive Will Be Delisted From eBay ](https://www.wsj.com/articles/dr-seuss-books-deemed-offensive-will-be-delisted-from-ebay-11614884201) - E-commerce giant says it ‘is currently sweeping our marketplace to remove these items’ 
 
+
+---
+
+Language profetional in school
+
+[](https://twitter.com/Mrs_G33k/status/1378806068264992771)
+>> Having a bit of a wobble. Since being a teacher I've always called kids sweetheart and darling. Always in a motherly way. Same as I speak to most people outside of school. Seeing lots of posts tonight saying how eww and yucky it is. Have I been causing some damage to them 
+> I used to call my class's a "bunch of monkeys". My kids thought it was hilarious, even making ooking noises when they did something dumb. To an external with no context I can see how that could be misinterpreted. 16 years ago I was confident in the fun, but today I don't know
+

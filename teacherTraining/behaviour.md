@@ -201,7 +201,12 @@ If you just focus on the negative/sanctions, that is only half of the story.
 
 The psychology of owning the physical space.
 
-[Teacher Has Incredible Handshakes With Each Student](https://www.youtube.com/watch?v=VctaUNJpT6U)
+* [Teacher Has Incredible Handshakes With Each Student](https://www.youtube.com/watch?v=VctaUNJpT6U)
+* [Yeah this pretty much how I feel about laborious, performative welcome rituals](https://twitter.com/tombennett71/status/1375255533180100608) Tom Bennet, Gerry Dee
+    * > This would have been my worse nightmare as a child - I would have dreaded going to school if a teacher had gone through this ritual. My class get a smile, eye contact and good morning and some still find that difficult to return
+    * > From a wider behaviour management or safeguarding perspective I have always been nervous about staff who make the classroom experience to do with the ‘cult’ of their own personality or charisma. The ‘Miss Jean Brodie’ effect: an old film, but an important one.
+    * > There is some research to suggest a positive greeting at the door can improve behaviour (Allday & Pakurar, 2007; Cook et al, 2018). There is no evidence that this greeting needs to be time-consuming and the most effective individualisation is using the pupil’s name.
+
 
 * Line up
     * No one enters your space

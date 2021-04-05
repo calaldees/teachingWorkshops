@@ -1040,6 +1040,7 @@ How can you ensure your students understand that they provide examples for CVs, 
     * Health - long term mental health
 * [Ronald Barnett](https://www.ronaldbarnett.co.uk/books.php)
     * Social ecology
+    * [Advancing learning: an ecological approach](https://www.heacademy.ac.uk/blog-entry/advancing-learning-ecological-approach)
 
 ### Library
 * Journal article
