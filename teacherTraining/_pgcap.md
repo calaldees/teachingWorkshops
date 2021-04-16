@@ -1047,3 +1047,82 @@ How can you ensure your students understand that they provide examples for CVs, 
     * look at refernces (back in time)
     * Find references to this document (forward in time)
 * Search skills - think of alternate terms - follow related pharses
+
+Session 5
+---------
+
+### Bisket Game
+
+Criteria
+Dimensions * weight constraints - handheld
+goes soft when stale (exposed to air)
+Kept without refigeration
+sweet (sugar or sweatener)
+Made with flour/grain
+Baked/dry
+
+Group 2: Bisket Criteria
+
+Adequate/Fail
+1.) Snaps when broken (brittle)
+2.) Soft when stale
+3.) Made flour/grain
+4.) Sweet (added sugar)
+5.) Human consumable
+6.) Dimention constrinats
+
+If ranking needed: Biskets ranked by "total global profit"
+
+
+Jammie Dodger?
+
+13:43
+Adequate: Tears in middle
+
+13:48
+Already decided that something is a biscuit. This is criteria to grade a biscuit
+
+13:50
+Outtsnaing: Chocolate digestive
+
+
+---
+
+Level 6+
+
+Literature review task - training our students
+TASK: Find a paper on xxx and bring it to the session
+Crtique! Limitation (not "rubbish", not "problems")
+
+In first session - class decides how to sanction non-contributors
+Sign the class charter
+Most prepared were grouped together - weaked/unprepared grouped together
+They choose how to post who brings what paper - first added "owns" the paper
+
+Students are uncomforatble about not being lectured too
+
+When a student realisese they have responsibility of being a co-learner, they become unconfident and anxious and want to be taught.
+I don't want to be a partener in learning, I want to be taught
+
+Students know things that you don't
+Document disscussion - have tangable takeaways - POST ALL YOUR NOTES!
+
+
+---
+
+Conclusions
+
+·        Trying to activate students as _active participants_ of their own learning.
+·        Give students _responsibility_ for learning and allowing them to be enriched by the experience.
+·        Utilising different learning techniques through peer learning improving access for students with varied learning styles and diverse background.
+·        Trying to quantify/qualify the access of student partnership can seem artificial or ‘tick boxy’.
+·        Instead of being “sage on stage”, “guide on the side”.
+·        Important for fulfilling graduate outcomes.
+·        Students can help us to understand their experiences and challenges.
+
+Gaps in Research
+·        If students are learning from one another, does it meet quality standards.
+·        What are the outcomes of more student-directed learning?
+·        What about the quietest or more reticent of students?
+·        Bringing students in as partners to be more actively involved may be a way of relieving the workload of lecturers: allowing taught sessions to be of a greater quality because they are spread less thinly.
+·        Can students ever be ‘true partners’ when lecturers hold the position of power in the form of assessment?

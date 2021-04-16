@@ -321,6 +321,18 @@ Menu as dictionary + function to render menu
 Session 37
 ----------
 
+Difference between baremetal arrays and lists (abstraction)
+2D arrays - jagged arrays 1d functions
+
+Session 38
+----------
+
+Chat system
+Minor theory about echo server and ports
+
+Session 39 (13 session remaining)
+----------
+
 
 
 
@@ -331,5 +343,5 @@ Connect 4 talk?
 Game Framework Base - Pygame
  stars?
  tweens?
-Chat system
 Shapes in tk/pygame
+

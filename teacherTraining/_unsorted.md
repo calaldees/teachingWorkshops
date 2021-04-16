@@ -490,7 +490,15 @@ https://impact.chartered.college/article/how-retrieval-practice-embedded-classro
 
 Language profetional in school
 
-[](https://twitter.com/Mrs_G33k/status/1378806068264992771)
+* [](https://twitter.com/Mrs_G33k/status/1378806068264992771)
 >> Having a bit of a wobble. Since being a teacher I've always called kids sweetheart and darling. Always in a motherly way. Same as I speak to most people outside of school. Seeing lots of posts tonight saying how eww and yucky it is. Have I been causing some damage to them 
 > I used to call my class's a "bunch of monkeys". My kids thought it was hilarious, even making ooking noises when they did something dumb. To an external with no context I can see how that could be misinterpreted. 16 years ago I was confident in the fun, but today I don't know
+* [Is it OK to call my students 'sweetheart'?](https://www.tes.com/news/safeguarding-terms-of-endearment-school-classroom-teachersok-call-my-pupils-sweetheart)
+    * Terms of endearment can help build a relationship between teacher and pupil – but it depends on context, says Zoe Enser
 
+* [Policy on the Recording of Lectures and Other Teaching Sessions](http://www7.bbk.ac.uk/registry/policies/documents/recording-of-lectures.pdf)
+    * Students can record for personal purposes only
+    * Permission must be asked by the teacher
+
+* [The Acceleration Imperative](https://caocentral.wiki/)
+    * Research lead wiki contain action to address unfinished learning in the wake of covid19

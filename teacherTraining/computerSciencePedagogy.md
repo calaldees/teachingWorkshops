@@ -421,6 +421,11 @@ Parson Problems
 * [Colin Johnson](https://twitter.com/Colin_GJ/status/1364267532295823362)
     * > Teaching via live-coding - a mechanism that I like a lot and which is well-evidenced as one of the best ways to teach lots of computing topics - is *much* more fluent online. Something about sitting down, having your usual toolchain to hand, not having your code projected, etc.
 
+* [Code Reading Club](https://www.felienne.com/archives/6472)
+    * Reading code is harder than writing code
+    * We are VERY bad at teaching learners to read code
+
+
 ---
 
 * [ziglings](https://github.com/ratfactor/ziglings)

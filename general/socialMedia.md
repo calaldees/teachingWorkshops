@@ -93,3 +93,8 @@ Social Media
         * Relative timestamps (“3 hours ago” instead of “6:56 PM”). This creates IMMEDIACY.
         * Infinite scrolling with no “more” button or link. This creates PERPETUATION.
         * Fake internet points (clickable, often animated icons with incrementing numbers. Likes, reactions, upvotes, retweets, etc.). This creates ADDICTION.
+
+* [Understanding Media Through Food: 8 Metaphors](https://pratik.is/writing/essays/media-as-food)
+    * wonderful article tackling quality of information, abundance of content
+    * Some excellent thought experiments
+    * the old 60s ad's remind me of "We gave social media to children. what were we thinking"

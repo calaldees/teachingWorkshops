@@ -316,6 +316,33 @@ The important next step would be making this feedback visible to the student.
 Further Reading
 ---------------
 
+* [Rethinking models of feedback for learning: the challenge of design](https://www.tandfonline.com/doi/abs/10.1080/02602938.2012.691462?needAccess=true&journalCode=caeh20) Boud 2012
+    * > Student feedback is a contentious and confusing issue throughout higher education institutions. This paper develops and analyses two models of feedback: the first is based on the origins of the term in the disciplines of engineering and biology. It positions teachers as the drivers of feedback. The second draws on ideas of sustainable assessment. This positions learners as having a key role in driving learning, and thus generating and soliciting their own feedback. It suggests that the second model equips students beyond the immediate task and does not lead to false expectations that courses cannot deliver.
+    * CUrriculum design
+    * Time-on-task, the most thoroughly documented contributor to student achievement (Hattie 2009)
+    * > there needs to be a way of detecting that there has been an effect in the direction desired. The cycle of feedback needs to be completed. If there is no discernable effect, then feedback has not occurred.
+    * > Sadler (1989, 78) to identify three conditions for effective feedback: (1) student knowledge of the standards that needs to be applied; (2) having to compare those standards to the students’ own work and (3) the student taking action to close the gap between the two. The second and third conditions both require the student to actively engage with the feedback.
+    * four characteristics of sustainable feedback:
+        1. involving students in dialogues about learning which raise their awareness of quality performance;
+        2. facilitating feedback processes through which students are stimulated to develop capacities in monitoring and evaluating their own learning;
+        3. enhancing student capacities for ongoing lifelong learning by supporting student development of skills for goal setting and planning their learning and
+        4. designing assessment tasks to facilitate student engagement over time in which feedback from varied sources is generated, processed and used to enhance performance on multiple stages of assignments
+    * > The sustainable notion of feedback fits well with Barnett and Coate’s (2005) view of the curriculum in higher education as deliberately designed to engage students, among others. They write of
+      >> the imaginative design of spaces as such, spaces that are likely to generate new energies among students and inspire them, and so prompt their triple engagement – in knowing, acting and being. (3) [their italics]
+      > Barnett and Coate are sceptical of ‘curricula rules and templates’ and of specifying ‘in advance the elements of every programme of study’ (2005, 3). We see the suggestions for feedback here as illustrations of many ways in which the ideas they contain can be manifested, not as the only ways in which they could or should be manifested.
+    * It is only through taking a curriculum perspective, which is broader than a learning view or an assessment view, that feedback can be adequately located. Such a view enables feedback to be repositioned away from its taken for granted role as a feature of the ways teachers act towards students, towards being seen as an attribute of the curriculum that locates it as a central feature of student engagement. Feedback becomes therefore a key curriculum space for communicating, for knowing, for judging and for acting. It is not something that teachers do, any more than it is something students do: it is a necessary characteristic of any given curriculum, the effectiveness of which is a key indicator of the effectiveness of the whole course of study.
+* [Assessment literacy and student learning: the case for explicitly developing students ‘assessment literacy’](https://www.tandfonline.com/doi/abs/10.1080/02602938.2011.598636)
+    * > the greatest predictor of enhanced student marks (on the assessment task that was the subject of the experiment), was the development of their ability to judge standards of performance on student work created in response to a similar task. The intervention took just 50 minutes indicating a good educational return on the pedagogical investment.
+    * > creating an emphasis on a meta-dialogue about assessment, its purposes and how it functions. A further implication is that gains typically attributable to formative feedback could be enhanced not by a more detailed explication of the feedback by lecturers but rather by deploying assessment literacy (judgement)-enhancing protocols at the formative feedback points during the semester.
+    * > Although the gains in student marks were modest in this case, the intervention was extremely brief, just 50 minutes. It is the potential leverage of the development of the ability to judge standards that makes it worthwhile considering incorporating these kinds of assessment literacy-developing protocol into regular teaching practice. In this study the gain was a 10% increase in the marks (approximately 2 in 20) on the task to which the protocol applied.
+* [Black Box Thinking: The Surprising Truth About Success](https://www.matthewsyed.co.uk/resource/black-box-thinking-the-surprising-truth-about-success/)
+    * > we cannot grow unless we are prepared to learn from our mistakes.
+    * advocates for changing attitudes towards failure
+
+* [THE BISCUIT ASSESSMENT GAME](http://cielassociates.co.uk/wp-content/uploads/2018/06/The-Biscuit-Assessment-Game.pdf) Paul Kleiman
+    * Define assessment criteria and give it to another group
+* [THE BISCUIT GAME: Exploring Criteria for Assessment](https://lta.hw.ac.uk/wp-content/uploads/LTA_Activity-sheet-NO1.pdf) Heriot Whatt University - Whatt Works activity 1
+
 * VleBooks [Formative Assessment for Teaching and Learning](https://www.vlebooks.com/Vleweb/Product/Index/549014) Bill Boyle, Marie Charles, 2013
 * [Mike Gershon - Resources for teachers](https://mikegershon.com/resources/) - free powerpoint on starters plenerys and afl tools
     * [Assessment For Learning Toolkit (14543)](https://www.tes.com/teaching-resource/assessment-for-learning-toolkit-6020165)
@@ -993,8 +1020,9 @@ Most employers are interested in ability to work in groups
 pizza 2015 Reliably assess collaborative problem solving
 * [PISA 2015 COLLABORATIVE PROBLEM-SOLVING FRAMEWORK](https://www.oecd.org/pisa/pisaproducts/Draft%20PISA%202015%20Collaborative%20Problem%20Solving%20Framework%20.pdf)
     * > Collaborative problem solving competency is the capacity of an individual to effectively engage in a process whereby two or more agents attempt to solve a problem by sharing the understanding and effort required to come to a solution and pooling their knowledge, skills and efforts to reach that solution
-* [Collaborative Problem Solving: Considerations for the National Assessment of Educational Progress](https://nces.ed.gov/nationsreportcard/pdf/researchcenter/collaborative_problem_solving.pdf)
-    * an essential 21st century skil
+* [Collaborative Problem Solving: Considerations for the National Assessment of Educational Progress](https://nces.ed.gov/nationsreportcard/pdf/researchcenter/collaborative_problem_solving.pdf) 2017
+    * > Programme for International Student Assessment (PISA), a 60-nation assessment administered by the Organization for Economic Cooperation and Development (OECD)—have developed assessments of collaborative problem solving.
+    * an essential 21st century skill
     * a new assessment domain
     * An Interdisciplinary Experience
 
@@ -1085,3 +1113,6 @@ Unsorted
     * 
 * [CAS Assessment Working Group](https://community.computingatschool.org.uk/resources/5304/single#)
     * [CAS Assessment working group response to Consultation on how GCSE, AS and A level grades should be awarded in summer 2021](https://community.computingatschool.org.uk/files/11162/original.pdf)
+
+* [CAS Assessment working group ](https://community.computingatschool.org.uk/resources/5304/single#)
+    * How do we see what the group have produced?
