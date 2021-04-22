@@ -98,3 +98,6 @@ Social Media
     * wonderful article tackling quality of information, abundance of content
     * Some excellent thought experiments
     * the old 60s ad's remind me of "We gave social media to children. what were we thinking"
+
+* [How to have better arguments online](https://www.theguardian.com/society/2021/feb/16/how-to-have-better-arguments-social-media-politics-conflict)
+    * The troubled times we live in, and the rise of social media, have created an age of endless conflict. Rather than fearing or avoiding disagreement, we need to learn to do it well

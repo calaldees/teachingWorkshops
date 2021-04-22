@@ -333,6 +333,7 @@ Minor theory about echo server and ports
 Session 39 (13 session remaining)
 ----------
 
+Attempt at time converter in csharp
 
 
 

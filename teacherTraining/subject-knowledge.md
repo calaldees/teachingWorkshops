@@ -12,10 +12,10 @@ Subject Knowledge
         * Create a model
     * Compression, RLE, Huffman coding
     * Reason about time complexity
-    * Binary representation of audio, images, video
+    * Binary representation of audio, images (raster, vector), video
     * TPC, UDP, Subnet mask, DNS, HTTP, SMTP
     * Transistors, logic gates, full adder, multiplexor, flip-flips, clock, register, fetch-execute-cycle
-    * Operating system, virtual memory, scheduling, sandbox, driver
+    * Operating system, virtual memory, scheduling, sandbox, drivers, filesystems
 * Engineering (Practical programming) - Tools, Code review, practical system design
     * Use of remote pair live coding tool
     * Code Review
@@ -38,13 +38,19 @@ Subject Knowledge
     * Diagnose network issues
     * GDPR Cookie law - rational
     * Economics of Why some services on the internet are free
+        * search, email, social
     * Advanced search
     * Troubleshoot problems
     * Physical / Mental wellbeing when using computers
     * Personal and economic dangers
-    * email & formal communcation
-    * Career
+    * email & formal communication
+    * Careers and automation
 
+
+* IT
+    * 3D Modeling
+    * 3D printing
+    * Animation
 
 
 ---

@@ -77,3 +77,13 @@ csharp program.cs
 ```
 
 * [Running Windows Forms on Linux with Mono](https://markheath.net/post/running-windows-forms-on-linux-with-mono)
+
+```
+Debug.WriteLine("");
+System.Diagnostics.Debug.WriteLine("");
+
+Project Properties -> Application -> Output Type -> Console Application
+Console.WriteLine
+
+MessageBox.Show("");
+```

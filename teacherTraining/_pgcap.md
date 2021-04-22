@@ -919,13 +919,15 @@ Session 3
     * Discussion
         * Ask questions of other learners, challenge. Listen, respond, articulate, argue
     * Practice
+        * Trial in snadbox
     * Collaboration
         * Shared output - having to produce
     * Produce
         * an artifact - public presentation
 * [Arena Blended Connected (ABC) Curriculum Design](https://www.youtube.com/watch?v=3C1gTHApg8A)
     * Tweet size summary (140 chars)
-    * List the activitiy type (six learning types above) and analyse the spread of tasks - like a module profile graph
+    * List the activitiy type (six learning types above) and analyse the spread of tasks - 
+        * _module profile_ radar graph
 * [A reflexive evaluation of technology-enhanced learning ](https://journal.alt.ac.uk/index.php/rlt/article/view/1998)
     * Exeter et al. (2010, p. 762) who state, ‘student engagement refers to the time, energy and resources spent on activities’. These activities can refer to peer discussions, attendance in class, completion of set tasks and preparing for assignments.
     * Rudduck (1978) highlights this as a common problem arguing that there is a cultural boundary between the tutor and the students that can prevent students from engaging during sessions.

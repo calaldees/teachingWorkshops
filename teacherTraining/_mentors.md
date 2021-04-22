@@ -373,7 +373,7 @@ Other Documents
 * [Assessment Stratergy 2020/2021](http://ccccumentors.org.uk/files/secondary/Documentation/assessment/Assessment%20Strategy%202020-21.pdf)
 
 
-* [Pupil Progress Bundle guidence](http://ccccumentors.org.uk/files/secondary/Documentation/pupil-progress-bundles/Pupil%20Progress%20Bundle%20Booklet%202020-2021.pdf)
+* [Pupil Progress Bundle guidance](http://ccccumentors.org.uk/files/secondary/Documentation/pupil-progress-bundles/Pupil%20Progress%20Bundle%20Booklet%202020-2021.pdf)
 
 * [Subject Mentor and CurriculumTutor PartnershipVisits2020-21](http://ccccumentors.org.uk/files/secondary/Documentation/programme-handbooks/school-direct/Subject%20mentor%20and%20tutor%20visits%20and%20support%20F&M%20model%202020-21.pdf)
 

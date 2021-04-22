@@ -502,3 +502,7 @@ Language profetional in school
 
 * [The Acceleration Imperative](https://caocentral.wiki/)
     * Research lead wiki contain action to address unfinished learning in the wake of covid19
+
+* [Granny Knot Info](https://www.fieggen.com/shoelace/grannyknot.htm)
+    * Do your shoelaces sit crooked? Do you retie your shoes several times a day? These are both signs of a Granny Knot. Learn the “one simple trick” for keeping your shoes neatly and securely tied.
+    * Videos, Flowcharts, Celebrity name and shame, 50-50 chance of a granny knot

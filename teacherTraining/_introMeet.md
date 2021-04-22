@@ -245,7 +245,8 @@ General Information and Pre Reading
     * [TeacherTapp](https://teachertapp.co.uk/)
         * > three quick multiple choice questions about their day or their opinions on teaching
         * See results, Access ongoing CPD
-
+* Qualification Overviews
+    * [OCR: Computing Qualifications](https://www.ocr.org.uk/Images/268867-computing-qualifications-summary-brochure.pdf) Summary Brochure
 
 Your Computing Skills
 ---------------------
