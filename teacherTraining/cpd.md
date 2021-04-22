@@ -39,8 +39,10 @@ TASK: [DfE Early Career Framework](https://www.gov.uk/government/publications/ea
 * In your NQT year: The _bike stabilizers_ are off. You've got your drivers licence. Now the learning can begin.
 
 
-Action Today (Async 30min)
-------------
+Personal Development / Actions for next year (30min async + 30min lecture)
+--------------------------------------------
+
+### Action Today (Async 30min)
 
 * We are going to do something *NOW* to improve our teaching in the future.
 * Let's lay some foundations.
@@ -85,7 +87,9 @@ Action Today (Async 30min)
         * [CAS Community - Upcoming Events](https://community.computingatschool.org.uk/events) many of these are online
         * [STEM Learning CPD - Computing](https://www.stem.org.uk/cpd/search?f[0]=field_subject:92)
         * [Events organised by the Chartered College](https://my.chartered.college/events/)
-
+7. Investigate [TeacherTapp](https://teachertapp.co.uk/)
+    * Becoming quite popular. In some schools it has been recommended for all staff.
+    * A mobile app for; Ask questions, See results, Access ongoing CPD.
 
 Action in your _Early Career Teacher_ years  (10min)
 -----------------------
@@ -154,10 +158,11 @@ Mostly; Teachers have enough subject knowledge. It's the other skills they need 
     * You will play a major part in driving the culture forward - you are part of forging it - Be the change you want to be.
 
 
-Sharing/Publishing Resources/Ideas
+Sharing/Publishing Resources/Ideas  (10min)
 ----------------------------------
 
 ### Why
+
 * You help 30 young people at a time?
 * What about 100? 1,000? 10,000?
 * As Teachers, you are 
@@ -168,6 +173,7 @@ Sharing/Publishing Resources/Ideas
 * (the sinister side) perception (self promotion, marketing, self brand)
 
 ### How
+
 * Publish your stuff (otherwise nobody will know that you exist)
     * Internally
         * Your department / school
@@ -198,7 +204,7 @@ Sharing/Publishing Resources/Ideas
 
 ---
 
-Continued Professional Development (CPD)
+Continued Professional Development (CPD)  (30min collaboration + 30min lecture)
 ========================================
 
 Teaching Adults
@@ -207,9 +213,10 @@ Teaching Adults
 * You will be constantly learning throughout your teaching career
 * At some point in the future you will be receiving/giving CPD
 
-* QUESTION: How would your teaching be different when you are: teaching adults, teaching teachers?
+* QUESTION (10min): How would your teaching be different when you are: teaching adults, teaching teachers?
 
 [_](#my_ideas)
+
 
 History of Computing CPD  (5min)
 ------------------------
@@ -232,7 +239,7 @@ History of Computing CPD  (5min)
             * Experts in subject areas does not make them good teachers
 
 
-Effective CPD
+Effective CPD (10min)
 -------------
 
 * You're a full time teacher. You're exhausted. Your time is full: making and planning, personal family commitments.
@@ -298,7 +305,7 @@ Organisations that focus on Teacher CPD
     * test score gains, student ratings and classroom observation
 
 
-National Center for Computing Education (NCCE) / TeachComputing.org
+National Center for Computing Education (NCCE) / TeachComputing.org  (10min)
 ---------------------------------------
 
 [National Center for Computing Education](https://teachcomputing.org/)
@@ -334,11 +341,24 @@ Constant Evaluation of Impact - Forms
     * Reflections/Evaluations/Impact
 
 
+Task (20min)
+----
+
+* Imagine your can run one session for the PGCE/SD students next year.
+* You have 1 session to have an impact on their teaching.
+* How would you ensure this session has impact and actually makes meaningful change in their teaching?
+* What would be in this session?
+* What would it look like?
+
+Pairs?
+
+
+
 ----
 
 
 
-Articles about CPD
+Articles about CPD (1 hour: Async reading)
 ------------------
 
 * [ok plateau](https://www.theguardian.com/teacher-network/teacher-blog/2013/apr/11/expert-teachers-ok-plateau-professional-development) - Alex Quigley
@@ -389,15 +409,6 @@ Articles about CPD
         4. (Non negotiable) Whenever we make a change we must try to evaluate its impact as robustly as we can
 
 
-Task
-----
-
-TASK: Related to your current domain ...
-* Imagine your can run one session for the PGCE/SD students next year.
-* You have 1 session to have an impact on their teaching.
-* How would you ensure this session has impact and actually makes meaningful change in their teaching?
-* What would be in this session?
-* What would it look like?
 
 
 
@@ -405,29 +416,18 @@ TASK: Related to your current domain ...
 
 
 
+---
 
-NOTES TODO
-==========
-
-
-
+Unsorted Notes
+==============
 
 
-hang on a minuet ... that's what we do for young people? Why are we so bad at doing it for adults?
 
 Teachers should
 retain considerable autonomy over their development
 avoid extensive monitoring for its own sake. un-intrusive, meaningful ways to know how teachers are improving
 a culture of contagious pedagogy,
 defend time
-
-
-
-
-
-
-
-
 
 
 
@@ -457,23 +457,6 @@ Thomas Guskeys five levels for evaluating CPD
 
 Senior leaders don't understand Computing
 Context on how to apply this to classroom
-
-
-
-
-
-
-References
-----------
-
-https://improvingteaching.co.uk/
-
-
-
-More
-----
-
-
 
 
 
@@ -528,11 +511,6 @@ Activity: Code Jenga
     * > Teachers then write a model answer for the end-of-unit assessment task
       > ...
       > Having been through the steps needed to produce the model answers themselves, teachers are able to give clear and detailed explanations and anticipate where misconceptions arise (Rosenshine, 2010; Coe et al., 2014).
-
-
-Unsorted
-========
-
 
 
 * [gov.uk - A self-improving school system: towards maturity](https://www.gov.uk/government/publications/a-self-improving-school-system-towards-maturity) - A look at the progress that has been made towards a self-improving school system since 2010
