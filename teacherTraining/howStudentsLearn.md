@@ -449,6 +449,10 @@ https://www.5minutelessonplan.co.uk/
     * Learning measured in adulthood - chess every day for 2+ years - mapped
 
 
+Zone of Proximal Development
+* Scaffolding originated Vygotsky 1981
+* incremental social contact - what they can do unaided and what they can do with contact with others
+* Didau - "Goldylocks Zone" - not too hard, not too easy
 * [What Is the zone of proximal development?. Simply psychology.](https://www.simplypsychology.org/Zone-of-Proximal-Development.html) McLeod, S. A. (2019)
     * > problem-solving under adult guidance, or in collaboration with more capable peers <sub>Vygotsky, 1978</sub>
     * According to Vygotsky (1978), much important learning by the child occurs through social interaction with a skillful tutor. The tutor may model behaviors and/or provide verbal instructions for the child. Vygotsky refers to this as cooperative or collaborative dialogue. 
@@ -494,3 +498,20 @@ Howland, J. L., Jonassen, D. H. and Marra, R. M., Meaningful Learning with Techn
     * Omega ppt hyperlinked - rosenshine - teach like a champion
     * [rclutterbucked.com/resources](https://rclutterbucked.com/resources/)
     * [CPD structure and resources for post-remote learning hyperlinked](https://rclutterbucked.files.wordpress.com/2021/03/downloadable-version-of-post-remote-learning-cpd-hyperlinked.pptx)
+
+
+Willingham 2009 pg03  "People are naturally curious, but we are not naturally good thinkers; unless the cognitive conditions are right, we will avoid thinking"
+pg88 "Abstraction is the goal of schooling, evidence shows that abstract ideas in generall difficult to understand 
+
+
+sweller - hold for few seconds unless refreshed within 20 seconds for short term memory
+no known limit for long term memory
+hattie and yates - learning starts from what we already know and proceeds towards where we want to be
+
+vygotsky 2970 p92 most of what a chile learns occurs though 'social interactions with a skilful tutor'
+
+Gibbs 2020 - cautioned about Rosenshines principles being used in every classroom ever lesson limited the teachers creativity
+
+Didau 2015 - scaffolds should be used to make the impossible possible and not making easy work easier
+'never put up scaffolds unless we a plan for taking it down, if we leave it there, students will become dependent on it'
+

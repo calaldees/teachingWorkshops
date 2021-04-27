@@ -61,3 +61,6 @@
 * [Marbles](http://www.erasmatazz.com/library/life-in-general/marbles.html)
     * marbles are made of glass — silicon dioxide - inert to most effects.
     * Marbles will survive for millennia
+
+* [The clockwork universe: is free will an illusion?](https://www.theguardian.com/news/2021/apr/27/the-clockwork-universe-is-free-will-an-illusion)
+    * 

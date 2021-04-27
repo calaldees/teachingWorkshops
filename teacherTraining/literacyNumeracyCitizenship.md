@@ -625,7 +625,34 @@ My background:
 * I don't in any way identify myself as dyslexic or dyspraxic. Labels are utterly irrelevant in the roles I need to perform.
 * Yet in spite of that I am a successful working professional. Considered by peers exceptionally literate, informed and well read.
 
+Literacy
+--------
 
+Hirsch
+reading should not be used to teach new topics - too much cgnative load - use reading to improve vocabulary and knowlege of existing are
+cunninghan and stanovich - read volume in early years to improve
+
+the activities that follow the reading are just as important as the reading itself
+
+okenhill
+depth of wor knowlege and ability to make inferences
+activities designed to decode words and understand language should require prior knowlege and understanding
+
+vocabulary should be revisited in different ways to cement it
+collaborative learning. studets should be given the oppertunity to discuss vocabulary
+
+DARTS - directed activities relating to texts - analyse or reconstruct
+highlight words in different categories (e.g words they did not understand is a category)
+match key words to their defenitions
+treasure hunt: find specific types of words and describe their purpose
+fill in the blanks: -> then make their own fill in the blanks activity (improve vocab and sentence structure)
+
+
+read individaually (with scaffold) then read again as class
+
+reading should be used to summerise previously learnt content
+vocabulary activities related to readin should have a specific purpose, encouage recall and challange
+vocabulary development should be a mixture of indipendent and collaborative learning (individually for assessment)
 
 Citizenship
 ----------

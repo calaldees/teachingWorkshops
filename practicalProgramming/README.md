@@ -335,6 +335,11 @@ Session 39 (13 session remaining)
 
 Attempt at time converter in csharp
 
+Session 40 (12 session remaining)
+-----------
+
+Connect 4 theory of design - top down
+Data store - dict, 1d array of int, 2d array of int
 
 
 Upcoming
