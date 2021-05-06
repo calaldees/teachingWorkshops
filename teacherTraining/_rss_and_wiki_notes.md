@@ -41,6 +41,8 @@ How things look on a page of a4 is now less important. What is important is the 
 * Investigate
     * Live collaboration
     * Forms (documents for capture) (not storage)
+* Ban attachments
+    * (this is a document store, not a datastore (sheets?))
 
 
 The objectives
