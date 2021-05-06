@@ -23,3 +23,15 @@ Family planing and support
 * [BBC: Inquiry: Why are boys academically underperforming?](https://www.bbc.co.uk/programmes/w3cszl4l) 21min radio
 
 * [My experience as a Gazan girl getting into Silicon Valley companies](https://daliaawad28.medium.com/my-experience-as-a-gazan-girl-getting-into-silicon-valley-companies-488062d769a1) Dalia Awad 2021
+
+
+2021 Tina Eger via MSTeams
+> Here's a thing and apropos of nothing at all... 
+> 2019 (most recent data set I could get before Covid madness set in) 
+> Students taking Computer Science and Computing Level 3 qualifications (According to DfE) 10,429.  
+> My gut feeling is that DfE is only counting A level (doesn't say that explicitly) and there's probably another 10,000 students doing BTEC and Tech levels and whatnot in Computing at level 3.
+> 20,000 (ish) people total. 
+> Students applying via UCAS for Computing group qualifications 136,070 (according to UCAS). 
+> 15.9% female 
+> So where do  the other 116,000 applicants come from?
+

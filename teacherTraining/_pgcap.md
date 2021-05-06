@@ -1128,3 +1128,52 @@ Gaps in Research
 ·        What about the quietest or more reticent of students?
 ·        Bringing students in as partners to be more actively involved may be a way of relieving the workload of lecturers: allowing taught sessions to be of a greater quality because they are spread less thinly.
 ·        Can students ever be ‘true partners’ when lecturers hold the position of power in the form of assessment?
+
+
+
+Session 6
+---------
+
+
+
+* David Nicol
+    * https://www.tandfonline.com/doi/abs/10.1080/02602938.2013.795518
+    * https://www.reap.ac.uk/Portals/101/Documents/Theory%20and%20Practice/Institutional%20approaches%20to%20feedback%20interventions.pdf
+        * Goldylocks zone - not too much feedback - not too little
+    * [The PEER Toolkit project](https://www.reap.ac.uk/peertoolkit.aspx)
+        * [Tools for Peer Review Design](https://www.reap.ac.uk/PEERToolkit/Design/artefacts.aspx)
+            * 9 cards
+            * Encourage an atmosphere of trust
+            * Give pracetice critera
+            * Require explanations for review
+            * Give practice in holistic appraisals
+            * Facilitate diaglog around reviews
+            * Integrate self-revierws
+            * Provide signposts for quality
+            * Encourage refglectionon recived reviews
+            * Make peer review regular
+* [Eduflow: Encourage Better Peer Feedback with Our Guide to Feedback Rubrics](https://www.eduflow.com/blog/encourage-better-peer-feedback-with-our-guide-to-feedback-rubrics)
+    * Matrix rubrics are useful for grading an assignment but they aren’t as useful for promoting individualized learning.
+        * Peer feedback rubrics might include scale questions (simar to matrix but no set scale), but they also employ open-ended questions that students must answer as they review their classmate’s assignment.
+            * Does the 'thing' x and y
+            * Prompt for higher order thinking
+            * Kind, justified, specific
+    * Prompt should benefit reviewer and revewee
+    * Show exemplars (of work and feedback) and cover the metacognative process
+    * 
+
+
+Peer assessment
+
+* Happy for peer assesment if not toward summative grade
+* Setup at start of course!
+    * They have a role to play in their learning (not just the lecturers job)
+    * Self regulated lifelong learners/participants - graduate attributes - profetional compitence
+* Fear of negativity - how to improve - balanced feedback
+* Need for anonymity - anonymous and no "comeback" - digital (no handwriting)
+    * Do not discuss out of dignital environment
+* Peer can say things that lecturers cannot
+    * Lectueres have to be risrained abnd posetive to avoid damage
+    * (is this not in conflict with fear of negativity above)
+
+

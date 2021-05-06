@@ -342,10 +342,15 @@ Connect 4 theory of design - top down
 Data store - dict, 1d array of int, 2d array of int
 
 
+Session 41 (11 sessions remaining)
+----------
+
+Pair program though RLE file format
+
+
 Upcoming
 --------
 
-Connect 4 talk?
 Game Framework Base - Pygame
  stars?
  tweens?

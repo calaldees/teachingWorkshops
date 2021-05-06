@@ -63,4 +63,11 @@
     * Marbles will survive for millennia
 
 * [The clockwork universe: is free will an illusion?](https://www.theguardian.com/news/2021/apr/27/the-clockwork-universe-is-free-will-an-illusion)
-    * 
+  
+
+* [what the Dunning-Kruger effect is and isn’t](http://www.talyarkoni.org/blog/2010/07/07/What-the-Dunning-Kruger-effect-Is-and-Isnt/)
+    * It is not that less skilled people think they are better than the others. It's that less skills people think they are better than they are.
+
+
+> I wish people wouldn't say "everyone is X" (in this case, "everyone is excited by AI", which they're not).
+> It's a huge "I buy into this group bias thing and so should you" bit of peer pressure.

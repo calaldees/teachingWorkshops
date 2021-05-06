@@ -500,6 +500,8 @@ If they don't get a career and contribute back to society they are going to have
     * > To be satisfied with a job, you don’t have to worry too much about finding a perfect fit for your interests because we know other things matter, too. As long as it’s something you don’t hate doing, you may find yourself very satisfied if you have a good supervisor, like your co-workers, and are treated fairly by your organization.
     * > Being interested in your work seems more important for job performance and the downstream consequences of performing well, like raises or promotions.
     * > In popular career guidance literature, it is widely assumed that interest fit is important for job satisfaction. Our results show that people who are more interested in their jobs tend to be slightly more satisfied, but interest assessments are more useful for guiding people towards jobs in which they will perform better and make more money.
+* Do we need to make lessons 'Fun' to be effective?
+    * [Are we having fun?](https://bennewmark.edublogs.org/2016/11/28/are-we-having-fun/)
 
 * [Least advantaged students gain a lot from going to university – compared to what they would earn if they didn't](https://www.ifs.org.uk/publications/15382) - Institute of Fisical Studies - March 2021
     * 1 in 5 would not benefit from university

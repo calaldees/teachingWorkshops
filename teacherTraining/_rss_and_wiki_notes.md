@@ -21,6 +21,27 @@ Email
 We need to consider a new organisation communication strategy.
 If we can model adoption of a new system in our school/department, then this could be a catalyst for other parts of our organisation to adopt our use of technology.
 
+Data
+----
+
+The "cult of the word document" is a not a data solution.
+
+How things look on a page of a4 is now less important. What is important is the information it contains.
+
+* Content has semantic meaning
+* Version history
+* Change events (to document or section _investigate_)
+    * RSS (subscriptions)
+    * Email? (investigate)
+    * Cross post (to blackboard, padlet (uneeded?), mentor website)
+* Events - mark as Draft (for bulletins)
+* PDF/Print export
+* Replace the mentor website
+    * Central canonical point of truth for document
+* Investigate
+    * Live collaboration
+    * Forms (documents for capture) (not storage)
+
 
 The objectives
 --------------
@@ -29,9 +50,10 @@ The objectives
     * From multiple independent sources
         * E.g. PGCE, SD, 7-14, Placements, Assessments (i'm just brainstorming, the important point is that each of these has independent people/teams/departments )
     * _timeley_
-        * No need to artifically batch communications
+        * No need to artificially batch communications
     * Reduce individual filtering duplication
-    * Central connonical point of truth
+    * Central canonical point of truth
+        * No searching our personal unstructured data for possible out of date documents
     * Accessible 
         * (across the organisation)
         * Externally
@@ -45,7 +67,10 @@ The objectives
     * Web visible
         * Individual articles are linkable
             * No more forwarding of the massive email chain - links to individual items
-
+* to provide external communications
+    * Bullitens
+    * Mentor facing
+    * Blackboard is an internal tool and not accessible to mentors/school
 
 
 Example
@@ -60,7 +85,12 @@ I had a survey my students needed to fill in. I didnt have the original email (b
 Proposal
 --------
 
-RSS?
+### Wiki
+
+* [List of wiki software](https://en.wikipedia.org/wiki/Comparison_of_wiki_software)
+* [7 Best Self-Hosted Wiki Solutions for Small to Enterprise](https://geekflare.com/self-hosted-wiki-software/)
+
+### RSS
 
 * [Wikipedia: RSS](https://en.wikipedia.org/wiki/RSS)
     * Open protocol

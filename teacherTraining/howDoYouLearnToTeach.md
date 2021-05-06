@@ -529,3 +529,11 @@ TASK: SD email me your tutors name, email, school. I would like to email them a 
 TODO
 
 [Teacher professional learning and development](https://www.iaoed.org/downloads/EdPractices_18.pdf) Helen Timperley - INTERNATIONAL ACADEMY OF EDUCATION
+
+
+* Acusational tone -> problem solving
+    * I have tried
+* Email rules - take notes - don't be told things twice
+* Don't say "I will not be attending" ask permission
+* Your classmates are not your friends, they are other profetionals you work with
+* tackel language swiftly (this is to help you develop and prevent issues later)

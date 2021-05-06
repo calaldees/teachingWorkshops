@@ -1,6 +1,6 @@
 using System;
 using System.Collections.Generic;
-//using System.Linq;  // Adds `.Concat` to list object - I'm not confortable with this modification of existing objects
+using System.Linq;  // Adds `.Concat` to list object - I'm not confortable with this modification of existing objects
 
 // https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/
 // Live SQL in IDE?!?! WTF!?
@@ -14,7 +14,7 @@ public class Task {
 
         foreach (var item in sequence1) {Console.WriteLine(item);}
 
-        //var sequence3 = sequence1.Concat(sequence2);
-        //foreach (var item in sequence3) {Console.WriteLine(item);}
+        var sequence3 = sequence1.Concat(sequence2);
+        foreach (var item in sequence3) {Console.WriteLine(item);}
     }
 }
