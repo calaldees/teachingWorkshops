@@ -347,6 +347,9 @@ Session 41 (11 sessions remaining)
 
 Pair program though RLE file format
 
+Session 42
+-----------
+
 
 Upcoming
 --------

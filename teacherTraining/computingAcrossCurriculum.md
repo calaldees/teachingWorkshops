@@ -93,6 +93,12 @@ Ofsted and Computing (lecture 10min)
     * [Ofsted Computing Inspection Criteria](https://onefourseven.org.uk/blog/ofsted-on-computing-update/) 2014
     * [Ofsted Assessing Computing](https://www.softegg.co.uk/blog/ofsted-inspecting-the-computing-curriculum) 2014
 
+Subject overview (TODO)
+----------------
+* Art
+    * Competent creatives who are able to explore their own ideas and think outside the box
+    * vocabulary to do that
+    * appreciation of achievement
 
 
 Responsibility's of Computing Teachers (lecture 10min)
@@ -144,6 +150,7 @@ Can you help other practitioners include these words explicitly in their lessons
     * spotting using similarity's
 * Abstraction
     * removing unnecessary detail
+    * [picasso abstract bull](https://www.google.com/search?q=picasso+abstract+bull&tbm=isch)
 * Evaluation
     * making judgement
 

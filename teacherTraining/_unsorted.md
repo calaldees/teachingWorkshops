@@ -488,7 +488,7 @@ https://impact.chartered.college/article/how-retrieval-practice-embedded-classro
 
 ---
 
-Language profetional in school
+Language professional in school
 
 * [](https://twitter.com/Mrs_G33k/status/1378806068264992771)
 >> Having a bit of a wobble. Since being a teacher I've always called kids sweetheart and darling. Always in a motherly way. Same as I speak to most people outside of school. Seeing lots of posts tonight saying how eww and yucky it is. Have I been causing some damage to them 
@@ -506,3 +506,16 @@ Language profetional in school
 * [Granny Knot Info](https://www.fieggen.com/shoelace/grannyknot.htm)
     * Do your shoelaces sit crooked? Do you retie your shoes several times a day? These are both signs of a Granny Knot. Learn the “one simple trick” for keeping your shoes neatly and securely tied.
     * Videos, Flowcharts, Celebrity name and shame, 50-50 chance of a granny knot
+
+---
+
+Zink 2019, 2020 Wang 2020 - increased screen-based sedantary behaviours and symtoms of anxiety and amotion disorders
+
+Bennet and Dojee 2015 mindfullness-based stress reduction course revealed that sith form student who undertook the course recieved better attainment than the control group by a whole GCE grade
+
+
+* [tweet](https://twitter.com/showerfeelings/status/1391436560311230464)
+    * > Schools have a problem when the students care more about grades then actually learning.
+    * > I'm getting stressed more than getting smarter
+    * > Students have a problem when schools care more about grades than actual learning.
+

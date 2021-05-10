@@ -64,6 +64,7 @@ Ofsted Reports & Performance Data
 
 Lessons observations have been proven to be an opinionated unreliable way to inspect schools.
 Ofsted now focuses of looking at the schools data and evidence of _real learning_
+* [Written feedback on lessons is mostly pointless. Better to meet, review and plan – together](https://teacherhead.com/2021/05/06/written-feedback-on-lessons-is-mostly-pointless-better-to-meet-review-and-plan-together/) @teacherhead Tom Sherrington 2021
 
 RAISEonline replaced by _Analyse School Performance_ in September 2017
 

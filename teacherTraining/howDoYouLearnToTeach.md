@@ -270,6 +270,11 @@ Your note taking system should be online and transparent.
     * > The use of journals by students while on placement is a well-accepted strategy for encouraging reflection on practice, with the use of online blogs for this purpose potentially providing additional benefits through shared reflection and peer support. The aim of this study was to explore the effectiveness of an online blogging activity by teacher education students while on professional placement in schools.
 * [Blogs in pre-service teacher education: exploring the participation issue](https://www.tandfonline.com/doi/abs/10.1080/1475939X.2013.802990) Deng 2012
     * > conceptualise the participation issue central to blogs through examining the factors that hinder student teachers from writing academic blogs and exchanging comments
+* []() TODO Jimerson, Camps and Grief 2003 - engagement is multifaceted - affective behavioural and cognative
+    * Volentary interactions with content and teachers
+    * Samuelson 2012 measurements of engagement constructs
+    * Subtype should be specifed to deepen understanding and to avoid vague classifications (Christerson, Reshly, ylie, 2012)
+    * Finn and Zimmer (2012) behavioural components as academic and social
 
 How we will reflect? Tooling
 ----------------------------
@@ -537,3 +542,24 @@ TODO
 * Don't say "I will not be attending" ask permission
 * Your classmates are not your friends, they are other profetionals you work with
 * tackel language swiftly (this is to help you develop and prevent issues later)
+
+
+
+
+Things people bugger up with teacher training
+----------------------------------------------
+
+* You don't need to personal friends with colleagues to be able to work with them professionally
+    * There are age and cultural differences
+* Get out of the mindset of being "a student at uni"
+* Organise your time
+    * You don't have a linear set of assignments to do
+* Organise information from a variety of sources
+    * Multiple emails accounts (student, school1, school2, personal) - you need email rules
+    * Takes notes, your mentors don't like telling you multiple times
+* Communicate professionally
+    * Use email formally
+    * Ask for the support you need clearly - problem solve
+    * Don't blame others and windge constantly
+* The course is not subservient to you - you need your mentors/school to collect the evidence you need to pass
+* You are a rank armature - don't be condescending to your school mentors
