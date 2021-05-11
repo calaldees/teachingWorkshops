@@ -1,15 +1,19 @@
 Recruitment Talk Notes
 ======================
 
-* I'm Allan. 
-* I'm an experienced secondary school teacher of Computing.
-* I'm also an experienced Central London Lead/Senior Software Engineer.
-* I can tell you about the teaching profession and the software engineering profession.
+* I'm Allan
+* I am the Lecturer in Computing Education at Canterbury Christ Church University
+* I'm an experienced secondary school teacher of Computing
+* I'm also an experienced Central London Lead/Senior Software Engineer
+* I can tell you about the teaching profession and the software engineering profession
+
 
 ## Questions
+* Transitioning into a *profession*:
+    * What are the reality's of the teaching profession?
+    * What are the reality's of the software engineering profession?
+* What are future prospects beyond classroom teaching?
 * How do you get into the teaching profession?
-* What are the reality's of the teaching profession?
-* What are future prospects?
 
 I will now take you on an emotional journey ... buckle up!
 
@@ -17,12 +21,13 @@ I will now take you on an emotional journey ... buckle up!
 Reality of Teaching
 -------------------
 
+* It's not about _you_, it's about your students. They are different to you.
 * You have a degree. You are already into the top % of the population. Many of the young people you teach will not.
 * Kent has one of the highest % of Grammar schools in the country (50%ish)
     * Some people say Kent has a real class divide
     * [Grammar schools and social mobility](https://epi.org.uk/publications-and-research/grammar-schools-social-mobility/) - School Performance, Admissions, & Capacity Report 2016
         *  > we find no overall attainment impact of grammar schools, either positive or negative
-* You don't stop at 3pm and have holidays
+* You don't stop at 3pm each day and have holidays
     * The job encroaches your home life
     * There is no limit to the work you can do - you can always do more
     * You must look after yourself and allocate time for other interests outside of your job
@@ -32,36 +37,39 @@ Reality of Teaching
 (I'm kind of going to exaggerate this, but the principles are true)
 
 * You have to deliver 5 hours of tour-de-force lessons each day
-    * Starter task, summary task
+    * Starter task, summary ending task
     * Differentiated resources to stretch the higher achieving and support the weaker ones
-    * You need to be expert in 
-        * low ability illiterate 11 year olds - though to - 1st year undergrad level 18 year olds
+    * You need to be expert in:
+        * low ability illiterate (11 year old's) - though to - 1st year undergrad level (18 year old's)
         * Skilled in Special educational needs prevision - Behavioural difficulties - ADHD
         * English as an additional language
 * Break up a fight a lunch or have to console a crying child from bullying at lunch (no lunch break for you)
-* On your feet, projecting your voice, constantly supervising and in control (Emotional and physically demanding)
+* On your feet, projecting your voice, constantly alert, constantly supervising and in control (Emotional and physically demanding)
 * At 3pm it's time for
     * Parents evening
     * After-school club
-    * detention
-    * after-school support for the students that are behind
-    * CPD
+    * Detentions
+    * After-school support for the students that are behind
+    * Further professional development training
 * You get home at 6pm (exhausted)... now it's time for ...
     * Planning 5 hours of tour-de-force lessons for tomorrow
     * Mark every single piece of work with feedback for every single one of the 130 students you taught today
-    * And washing, cooking, maintaining yourself and the other people in your life
+    * And washing, cooking, maintaining yourself and interacting with the other people in your life
 * Holidays?
     * Your _holidays_ will be franticly trying to catchup with planning and marking
     * And because you have scheduled holidays - you can't take days off during term time - unless it's a hospital appointment or death in the family
     * If you don't have good health and have sick days, you'll create masses of catchup work for you, your students will be disadvantaged (every second counts for the exam) and you would significantly overburden your colleges
 
-Lots of luck with that ....
+Teaching is hard.
 
 
 Woh! .. um ... So Why Teach?
 ----------------------------
 
-Because it's a meaningful job. Interacting with other human beings has a sense of purpose like no other. You have a respected professional identity in society.
+Because 
+* It's a meaningful job.
+* You have a respected professional identity in society.
+* Interacting with other human beings has a sense of purpose like no other.
 
 Let's contrast this against ...
 
@@ -71,17 +79,20 @@ Let's contrast this against ...
 
 * You work really hard and expertly with a team of developers to provide solutions for an organisation
 * Organisations run on money. Your metrics are based on your business worth
-* Sit in-front of a screen, all day, every day in a windowless air conditioned office, 9 till 5, until you are 68 years old with a total of 20 days holiday a year.
+* Sit in-front of a screen, all day, every day in a windowless air conditioned office, 9 till 5, until you are 68 years old with a total of 20 days holiday per year.
 * You will interact with the same handful of people every day (hope you like them)
-* Your grand accomplishment (could be) raising _ad revenue_ for your company
+* Your grand accomplishment (could be) raising _advert revenue_ for your company
 * You have to constantly upskill yourself in the latest tech as the required skills in industry move VERY quickly. Keep up or get off the horse.
-* You will be paid more than any other profession you could probably do, but with that comes expectation to _perform_
+* You will be paid more than most other professions you could probably do, but with that comes expectation to _perform_
 
 
 ... So Why Teach?
 -----------------
 
-When you are a teacher, who you are matters. You could be a great cog in a money making machine, you could be good brain typing at a keyboard.
+* You could be a great cog in a money making machine, you could be a good brain at a keyboard.
+* When you are a teacher, who you are matters.
+    * I don't just teach computing. How I conduct myself as role model has an impact on others.
+
 
 (Side note: in both professions: Your _passion_ can be manipulated and exploited)
 
@@ -145,6 +156,7 @@ Overall
 * You have never worked this heard in your life
 * This year will change you
 * This profession will change you
+* Don't decide to train to teach because there is a bursary and it's more of _being a student_ or you _couldn't thing of anything else to do_
 
 
 * I love tech - I love coding ... 
@@ -158,14 +170,13 @@ Further Reading
     * [Teacher Standards](https://www.gov.uk/government/publications/teachers-standards)
     * [Initial teacher training (ITT): core content framework](https://www.gov.uk/government/publications/initial-teacher-training-itt-core-content-framework)
     * [National curriculum in England: computing programmes of study](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study)
-    * [Ofsted annual report](https://www.gov.uk/government/collections/ofsted-annual-reports)
     * [AQA GCSE Computing Specification](https://filestore.aqa.org.uk/resources/computing/specifications/AQA-8520-SP-2016.PDF)
+    * [Ofsted annual report](https://www.gov.uk/government/collections/ofsted-annual-reports)
 * Organisations
-    * [Computing at School](https://www.computingatschool.org.uk/) UK
-    * [Computer Science Teachers Association](https://www.csteachers.org/) US
-    * [British Computer Society](https://www.bcs.org/policy-and-influence/education/)
     * [TeachComputing](https://teachcomputing.org/) (Previously NCCE)
-    * [Education Endowment Foundation](https://educationendowmentfoundation.org.uk/)
+    * [Education Endowment Foundation](https://educationendowmentfoundation.org.uk/) - Cutting edge research and reconditions for schools
+    * [Computing at School](https://www.computingatschool.org.uk/)
+    * [British Computer Society](https://www.bcs.org/policy-and-influence/education/)
 * The experimental school classroom: Professor Dylan Wiliam
     * In this two-part series, theory and practice meet head on as education expert Professor Dylan Wiliam sets up an experimental school classroom.
     * For one term, he takes over a Year 8 class at a secondary comprehensive to test simple ideas that he believes could improve the quality of our children's education.
