@@ -62,3 +62,12 @@ Subject Computer Science Teaching Element
     * Again, no clear examples of what distinction, merit or good looks like.
     * Some of the directions were nebulous.
     * Some of the material in the epistemic lectures seemed woolly. 
+
+May 2021
+--------
+
+ - Order of assignments
+ - Never teach over bad behaviour
+ - Make friends with the IT Techs
+ - Get on with other staff
+ - You will be surprised/changed by what you see in schools

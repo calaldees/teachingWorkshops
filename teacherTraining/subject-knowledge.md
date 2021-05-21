@@ -18,7 +18,7 @@ Suggestion
         * Command Words
         * AQA SQL - OCR no SQL
         * Outdated
-            * Defrafmentaion
+            * Defragmentation
     * A-Level
         * OCR
         * AQA
@@ -29,9 +29,10 @@ Suggestion
                 * Organisation IT assessment/upgrade
                 * Mobile App
                 * Network and cyber security administration
+        * iMedia
     * Digital skills needed for other subjects - ICT
-    * Approaches to teaching areas - networks?
-* Theory
+    * Approaches/tools to teaching areas - networks? (rabbithole of PCK?)
+* Computing Theory
     * Implement
         * bubble, quick, merge, selection, insertion
         * array, list, tree, stack, queue, priority queue
@@ -66,7 +67,7 @@ Suggestion
 * Societal
     * Laws, Ethics, Digital Literacy
     * Find a dataset, draw a graph from dataset
-    * Personal digital footprint, biometrics
+    * Personal digital footprint
     * Black hat, white hat, phishing, soldering, key loggers, ransomware, denial of service
     * Diagnose network issues
     * GDPR Cookie law - rational
@@ -78,9 +79,11 @@ Suggestion
     * Physical / Mental well-being when using computers
         * Ergonomics (long term physical use of computers safely)
     * Personal and economic dangers
+        * biometrics
+        * location
     * email & formal communication
-    * Careers and automation
-    * Societal impact - AI, self driving cars, economy, implants
+    * Careers
+    * Societal impact - AI, self driving cars, economy, implants, rising automation
     * Wiki Syntax / update
 
 Other skills
@@ -88,20 +91,22 @@ Other skills
 
 Desired by society
 
-* IT
+* ICT
+    * Spreadsheet (absolute cell referencing, conditional formatting, lookups, cell protection)
+    * SlideMasters/Styles
+    * Image manipulation
     * 3D Modelling
     * 3D printing
     * Animation
-    * Relational Database
-    * Mailmerge -> email
-    * Social media coordination
-
+    * Mailmerge -> email, document (doc,pdf)
+    * Relational Database / Forms?
 * Modern/Wider
     * AI
     * Big Data
     * Blockchain
     * Unreal Engine - Blueprint (Visual)
-
+* Other
+    * Social media / marketing
 
 Evidence?
 --------
@@ -218,6 +223,9 @@ CS5 Computers and internet
 * Describe some steps computer users can take to ensure their physical well-being when using computers
 
 
+External Courses
+=================
+
 NCCE Computer Science Courses
 -----------------------------
 
@@ -246,4 +254,8 @@ Remote Computer Science Accelerator (CSA) courses
 14. Introduction to algorithms, programming and data for D&T teachers - Learn how to use programming techniques using VEX, Crumble or Micro:bits. Create simple block-based computer programs, discover how to create algorithms and how computers use data.
 15. Maths in computer science - Mathematics is firmly embedded at the core of computer science, during this course you’ll explore the foundational topics at the heart of mathematics and computer science.
 
- 
+ Cisco Packet Tracer
+--------------------
+
+Online course
+
