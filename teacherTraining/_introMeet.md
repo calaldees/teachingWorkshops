@@ -203,12 +203,16 @@ General Information and Pre Reading
 * General Information
     * [Canterbury Christ Church University](http://www/canterbury.ac.uk)
         * [Canterbury Christ Church: Support Services](https://www.canterbury.ac.uk/students/current-students/support-services/support-services.aspx)
-* Groups
-    * [Computing at School](https://www.computingatschool.org.uk/) UK
-    * [Computer Science Teachers Association](https://www.csteachers.org/) US
+* Organisations
+    * [Computing at School](https://www.computingatschool.org.uk/)
     * [British Computer Society](https://www.bcs.org/policy-and-influence/education/)
     * [TeachComputing](https://teachcomputing.org/) (Previously NCCE)
+    * [Technology, Pedagogy & Education Association](https://tpea.ac.uk/)
+        * The voice of digital technology and computing in education
+        * CPD, research, best practice
+        * Technology, Pedagogy and Education Journal
     * [Education Endowment Foundation](https://educationendowmentfoundation.org.uk/)
+    * [Computer Science Teachers Association](https://www.csteachers.org/) US
 * Understanding education in the UK
     * [Understanding the UK education system](https://www.schoolswork.co.uk/media/files/Undestanding_the_UK_education_system.pdf) Types of schools
     * [Education system in the uk](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/219167/v01-2012ukes.pdf)

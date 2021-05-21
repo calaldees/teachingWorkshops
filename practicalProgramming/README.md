@@ -350,6 +350,15 @@ Pair program though RLE file format
 Session 42
 -----------
 
+Convert password program from python to C# with cheat sheet
+
+
+Session 43 (9 sessions remaining)
+----------
+
+Objects and Class's Stars example
+
+
 
 Upcoming
 --------

@@ -9,8 +9,14 @@ Research
 
 * [RefWorks](https://refworks.proquest.com/) - online website for creating/managing references
 
+* [meshguides.org/articles](http://meshagain.meshguides.org/articles/)
+    * Research concepts broken into chunks
 
 Journals
+* [TPE: Technology, Pedagogy and Education](https://www.tandfonline.com/toc/rtpe20/current)
+  * [tpea.ac.uk researh](https://tpea.ac.uk/research-hub/journal/)
+* [CSE: Computer Science Education](https://www.tandfonline.com/loi/ncse20)
+* [ILE: Interactive Learning Environments](https://www.tandfonline.com/toc/nile20/current)
 * [Teachers and Teaching: theory and practice](https://www.tandfonline.com/toc/ctat20/current) - International Study Association on Teachers and Teaching (ISATT)
 * [CAS: Research in Computer Science Education](https://community.computingatschool.org.uk/resources/46/single)
     * List of UK research

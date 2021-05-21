@@ -35,3 +35,9 @@ Family planing and support
 > 15.9% female 
 > So where do  the other 116,000 applicants come from?
 
+* NCCE: [Gender, computing and identity](https://blog.teachcomputing.org/gender-computing-and-identity/)
+    * Old masculine identity - sports and shun the arts
+    * New masculine tech identity
+    * Rise of geek being acceptable
+    * [A Psychological Exploration of Engagement in Geek Culture](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0142200)
+    * As a teacher be alert to tackle comments

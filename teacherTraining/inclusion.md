@@ -910,3 +910,8 @@ Appendix
         * Conducting these discussions effectively involves a considerable amount of skill. As with other aspects of good teaching for pupils with SEN, schools should ensure that teaching staff are supported to manage these conversations as part of professional development.
 
 
+
+
+cultural inclusion
+
+White british students are unable to identify things that are part of their culture

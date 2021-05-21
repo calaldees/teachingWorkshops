@@ -536,18 +536,16 @@ TODO
 [Teacher professional learning and development](https://www.iaoed.org/downloads/EdPractices_18.pdf) Helen Timperley - INTERNATIONAL ACADEMY OF EDUCATION
 
 
-* Acusational tone -> problem solving
+Things people bugger up with teacher training
+----------------------------------------------
+
+* Accusational tone -> problem solving
     * I have tried
 * Email rules - take notes - don't be told things twice
 * Don't say "I will not be attending" ask permission
-* Your classmates are not your friends, they are other profetionals you work with
-* tackel language swiftly (this is to help you develop and prevent issues later)
+* Your classmates are not your friends, they are other professionals you work with
+* tackle language swiftly (this is to help you develop and prevent issues later)
 
-
-
-
-Things people bugger up with teacher training
-----------------------------------------------
 
 * You don't need to personal friends with colleagues to be able to work with them professionally
     * There are age and cultural differences
@@ -555,11 +553,43 @@ Things people bugger up with teacher training
 * Organise your time
     * You don't have a linear set of assignments to do
 * Organise information from a variety of sources
-    * Multiple emails accounts (student, school1, school2, personal) - you need email rules
+    * Multiple emails accounts (student, school1, school2, personal) - you need email rules/forwarding
     * Takes notes, your mentors don't like telling you multiple times
 * Communicate professionally
     * Use email formally
     * Ask for the support you need clearly - problem solve
-    * Don't blame others and windge constantly
+    * Don't blame others and whinge constantly "you do not give me the link"
+    * Don't use Unneeded micro aggression phase's "Beyond belief"
+    * legal action is not your first option
+    * I will raise a support plan quickly
 * The course is not subservient to you - you need your mentors/school to collect the evidence you need to pass
 * You are a rank armature - don't be condescending to your school mentors
+* There are not absolutes - much is unknown - Nobody _knows_ how to teach
+* Attendance
+    * Just don't really feel up to it (the growth story - lack of sleep but still went it) - other jobs 'take the day off' sounds reasonable
+    * 
+* Your students are NOT you - stop using yourself as a benchmark
+    * How you learned
+    * your interests are not their interests "learn by making games; Who doesn't like games"
+    * What % of your students will get a degree in Computing?
+
+playing games when in remote sessions
+Doing other tasks and only responding when needed
+
+
+The most important subject
+---------------------------
+
+Every subject is the most important subject
+
+* English
+* History
+* PE
+* RE
+* Computing
+
+Postgrad
+--------
+
+Up until now you have been taught
+At postgraduate level - there are 'no answers'

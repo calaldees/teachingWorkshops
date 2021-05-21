@@ -1,57 +1,88 @@
 Subject Knowledge
 =================
 
-* Curriculum Knowledge
-    * What is on the curriculum and why is it on the curriculum
+* Curriculum Knowledge - What is on the curriculum and why is it on the curriculum
+    * KS3 Computing National Curriculum
+        * OCR Entry Level Computer Science
+    * GCSE
+        * Command Words
+        * AQA SQL - OCR no SQL
+        * Outdated
+            * Defrafmentaion
+    * A-Level
+        * OCR
+        * AQA
+        * ? other
+    * Vocational
+        * BTEC
+            * Modules
+                * Organisation IT assessment/upgrade
+                * Mobile App
+    * Digital skills needed for other subjects - ICT
+    * Approaches to teaching areas - networks?
 * Theory
     * Implement
         * bubble, quick, merge, selection, insertion
         * array, list, tree, stack, queue, priority queue
-        * Number bases (2, 8, 16, 10)
+        * Number bases (binary2, oct8, hex16, denery10)
         * ASCII, Unicode
         * Create a model
     * Compression, RLE, Huffman coding
-    * Reason about time complexity
+    * Reason about time complexity O(n)
     * Binary representation of audio, images (raster, vector), video
-    * TPC, UDP, Subnet mask, DNS, HTTP, SMTP
+    * TPC, UDP, Subnet mask, DNS, Packet Switching, Circuit Switching
+    * HTTP, HTTPS, FTP, POP, IMAP, SMTP
     * Transistors, logic gates, full adder, multiplexor, flip-flips, clock, register, fetch-execute-cycle
     * Operating system, virtual memory, scheduling, sandbox, drivers, filesystems
+    * Interpreter, Compiler, Assembler
 * Engineering (Practical programming) - Tools, Code review, practical system design
     * Use of remote pair live coding tool
     * Code Review
     * Debugger, callstack, scope, step-into, step-over, postmortem
-    * Version control
+    * Version control (git)
         * Comment and approve a pull request
     * Automated tests, unittests
     * Use virtualisation
     * Use containers
     * Static, Dynamic, Functional, Visual language
     * Webpage in text editor, links, images, colors, events, animation
-    * Microcontrolers + input + output
+    * Micro-controllers + input + output
     * Use of a package manger
     * Code to draw geometric shapes with recursion
+    * SQL, HTML, Css, Markdown
+    * Register a domain name - host content
 * Societal
     * Laws, Ethics, Digital Literacy
     * Find a dataset, draw a graph from dataset
-    * Personal digital footprint
-    * Black hat, white hat
+    * Personal digital footprint, biometrics
+    * Black hat, white hat, phishing, soldering, key loggers, ransomware, denial of service
     * Diagnose network issues
     * GDPR Cookie law - rational
     * Economics of Why some services on the internet are free
         * search, email, social
     * Advanced search
-    * Troubleshoot problems
-    * Physical / Mental wellbeing when using computers
+        * how search ranked for individuals
+    * Troubleshoot technical problems
+    * Physical / Mental well-being when using computers
+        * Ergonomics (long term physical use of computers safely)
     * Personal and economic dangers
     * email & formal communication
     * Careers and automation
+    * Societal impact - AI, self driving cars, economy, implants
 
 
 * IT
-    * 3D Modeling
+    * 3D Modelling
     * 3D printing
     * Animation
+    * Relational Database
+    * Mailmerge -> email
 
+* Modern/Wider
+    * AI
+    * Big Data
+    * Blockchain
+    * Unreal Engine - Blueprint (Visual)
 
 ---
 

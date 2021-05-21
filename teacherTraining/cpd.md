@@ -294,6 +294,7 @@ Teacher CPD is a big area of focus and research now. The DfE now has requirement
 Organisations that focus on Teacher CPD
 ---------------------------------------
 
+* [Technology, Pedagogy & Education Association](https://tpea.ac.uk/)
 * [Teacher Development Trust](http://tdtrust.org/)
     * > Teacher Development Trust is an independent charity seeking to transform professional learning in schools
 * [TeachComputing.org](https://teachcomputing.org/) (previously Nation Center for Computing Education NCCE)
