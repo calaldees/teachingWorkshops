@@ -1,6 +1,8 @@
 Subject Knowledge
 =================
 
+Do a GCSE?
+
 * Curriculum Knowledge - What is on the curriculum and why is it on the curriculum
     * KS3 Computing National Curriculum
         * OCR Entry Level Computer Science
@@ -26,14 +28,14 @@ Subject Knowledge
         * array, list, tree, stack, queue, priority queue
         * Number bases (binary2, oct8, hex16, denery10)
         * ASCII, Unicode
-        * Create a model
+        * Create a simple model
     * Compression, RLE, Huffman coding
     * Reason about time complexity O(n)
     * Binary representation of audio, images (raster, vector), video
     * TPC, UDP, Subnet mask, DNS, Packet Switching, Circuit Switching
     * HTTP, HTTPS, FTP, POP, IMAP, SMTP
     * Transistors, logic gates, full adder, multiplexor, flip-flips, clock, register, fetch-execute-cycle
-    * Operating system, virtual memory, scheduling, sandbox, drivers, filesystems
+    * Operating system, virtual memory, scheduling, sandbox, drivers, filesystems, userlevels
     * Interpreter, Compiler, Assembler
 * Engineering (Practical programming) - Tools, Code review, practical system design
     * Use of remote pair live coding tool
@@ -41,16 +43,17 @@ Subject Knowledge
     * Debugger, callstack, scope, step-into, step-over, postmortem
     * Version control (git)
         * Comment and approve a pull request
+        * Readme in Markdown
     * Automated tests, unittests
     * Use virtualisation
     * Use containers
     * Static, Dynamic, Functional, Visual language
-    * Webpage in text editor, links, images, colors, events, animation
+    * Webpage in text editor, links, images, colors, events, animation, HTML, Css
     * Micro-controllers + input + output
     * Use of a package manger
     * Code to draw geometric shapes with recursion
-    * SQL, HTML, Css, Markdown
     * Register a domain name - host content
+    * SQL - mailmerge pdf?
 * Societal
     * Laws, Ethics, Digital Literacy
     * Find a dataset, draw a graph from dataset
@@ -60,7 +63,7 @@ Subject Knowledge
     * GDPR Cookie law - rational
     * Economics of Why some services on the internet are free
         * search, email, social
-    * Advanced search
+    * Advanced search (and, or, not, date) [advanced](https://www.google.co.uk/advanced_search)
         * how search ranked for individuals
     * Troubleshoot technical problems
     * Physical / Mental well-being when using computers
@@ -69,6 +72,7 @@ Subject Knowledge
     * email & formal communication
     * Careers and automation
     * Societal impact - AI, self driving cars, economy, implants
+    * Wiki Syntax / update
 
 
 * IT
@@ -89,6 +93,8 @@ Subject Knowledge
 
 (Old) Subject Knowledge Audit
 =============================
+
+[old worddoc blackboard](https://learn.canterbury.ac.uk/bbcswebdav/pid-2669165-dt-content-rid-3995226_1/xid-3995226_1)
 
 Tracker and Audit.
 
