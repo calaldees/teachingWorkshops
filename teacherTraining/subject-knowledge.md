@@ -1,8 +1,6 @@
 Subject Knowledge
 =================
 
-Do a GCSE?
-
 * Curriculum Knowledge - What is on the curriculum and why is it on the curriculum
     * KS3 Computing National Curriculum
         * OCR Entry Level Computer Science
@@ -74,6 +72,10 @@ Do a GCSE?
     * Societal impact - AI, self driving cars, economy, implants
     * Wiki Syntax / update
 
+Other skills
+------------
+
+Desired by society
 
 * IT
     * 3D Modelling
@@ -81,6 +83,7 @@ Do a GCSE?
     * Animation
     * Relational Database
     * Mailmerge -> email
+    * Social media coordination
 
 * Modern/Wider
     * AI
@@ -88,7 +91,16 @@ Do a GCSE?
     * Blockchain
     * Unreal Engine - Blueprint (Visual)
 
----
+
+Evidence?
+--------
+
+Why reinvent the wheel with a subject knowledge tracker?
+Do these things need to be explicitly listed
+
+* Do a GCSE?
+* NCCE Course certificates
+
 
 
 (Old) Subject Knowledge Audit
