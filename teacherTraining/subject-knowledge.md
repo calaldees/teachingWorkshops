@@ -28,6 +28,7 @@ Suggestion
             * Modules
                 * Organisation IT assessment/upgrade
                 * Mobile App
+                * Network and cyber security administration
     * Digital skills needed for other subjects - ICT
     * Approaches to teaching areas - networks?
 * Theory
@@ -108,8 +109,9 @@ Evidence?
 Why reinvent the wheel with a subject knowledge tracker?
 Do these things need to be explicitly listed
 
-* Do a GCSE?
+* Do a GCSE? (January)
 * NCCE Course certificates
+* Cisco Packet Tracer - course (free)
 
 
 
@@ -214,3 +216,34 @@ CS5 Computers and internet
 * Explain the personal and economic dangers of using the internet, including for young people, and steps needed to reduce risks
 * Explain what ergonomics are and why they are important for personal well-being when using computer hardware
 * Describe some steps computer users can take to ensure their physical well-being when using computers
+
+
+NCCE Computer Science Courses
+-----------------------------
+
+Remote secondary core courses:
+1. KS3 for the non-specialist teacher - For Key Stage 3 computing teachers who are new or existing to the subject. This CPD covers the key subject knowledge topics required to teach the computing Key Stage 3 programme of study.
+2. Teaching GCSE computer science: improving student engagement - Improve student engagement in your GCSE computer science lessons by developing your classroom pedagogy. 
+3. New subject leaders of secondary computing - Essential knowledge for primary computing subject leaders, helping you get the most from every teacher and every child.
+4. Solving computational problems in KS3 computing - Build the capability of students to solve problems in computing and be ready for GCSE.
+5. Collaboration in KS3 programming - Engage students and  and build awareness of the collaborative nature of programming in the real world, through evidence-based teaching approaches.
+6. KS3 computing (module 1): creative curriculum and design principles - Get a solid grounding in curriculum design, leading to the implementation of an outstanding KS3 computing curriculum with impact in the classroom.
+
+Remote Computer Science Accelerator (CSA) courses
+1. Representing algorithms using flowcharts and pseudocode - This course aims to deepen understanding of computer science, information technology and digital literacy.
+2. Fundamentals of Computer Networks - Learn how computers of all shapes and sizes are connected physically, or wirelessly, and how this arrangement affects how data is shared.
+3. Python programming constructs: sequencing, selection & iteration - Learn how to write code to input, process and output data, and how to manipulate data stored in variables. Using the building blocks of sequence, selection and iteration you’ll begin to understand how programs are constructed to perform a multitude of simple and more complex tasks.
+4. Introduction to algorithms, programming and data in GCSE computer science - Create some simple block-based computer programs and discover how to implement them in the text based language Python.
+5. Computer Processors - Explore the core of a modern computer. Learn how the instructions that humans write in computer programs are translated into machine code that the computer can process.
+6. The Internet and Cyber Security - Build on knowledge of local computer networks to cover the globally connected systems forming the internet.
+7. Python programming: Working with data - In this course you’ll learn about data types, and how data structures are manipulated in Python programs.
+8. Introduction to computer systems, networking and security in GCSE computer science - Learn about the different components of computer hardware, including devices not instantly recognisable as computers.
+9. Higher Attainment in GCSE computer science: meeting the challenge of exams - Explore how to improve attainment in GCSE Computer Science, look at how students should tackle exam questions and use key resources such as moderator reports, how retrieval and interleaving can be used and mapping progression from KS3 to KS4.
+10. Search and sort algorithms - An understanding of algorithms is fundamental to success in GCSE computer science this course will teach you how algorithms manipulate data to achieve desired aims.
+11. Computer systems - input, output and storage - Take your first steps to opening up the computer, exploring the main components, their role and how they work together in computer systems.
+12. Python programming projects: advanced subject knowledge, implementation and testing a program - Develop your Python programming skills by exploring advanced programming techniques then implementing and testing these in a working solution.
+13. Python programming projects: analysis, design and evaluation - Develop your Python programming skills by exploring the analysis, design and evaluation stages of the software development life cycle.
+14. Introduction to algorithms, programming and data for D&T teachers - Learn how to use programming techniques using VEX, Crumble or Micro:bits. Create simple block-based computer programs, discover how to create algorithms and how computers use data.
+15. Maths in computer science - Mathematics is firmly embedded at the core of computer science, during this course you’ll explore the foundational topics at the heart of mathematics and computer science.
+
+ 

@@ -195,7 +195,7 @@ Combine QP (question paper), MS (mark scheme) and WRE (Examiners report)
 * Old
     * AQA-5511-6511 [Spec-2008](https://www.scribd.com/document/94761/AQA-5511-6511-W-SP-08) 2003-2008?
     * AQA 2510 [Spec-2014](http://smartfile.s3.amazonaws.com/ac0a4ac2fc14b45086e9c5af7511da39/uploads/2017/06/AQA-2510-W-SP-14.pdf) 2008-2015?
-        * [theallpapers.com/papers](http://www.theallpapers.com/papers/AQA/ALevels/Computing%20(2510)/) Are still relevant
+        * [theallpapers.com/papers](https://www.theallpapers.com/computing-2510/) Are still relevant
         * Know [what's changed](https://www.aqa.org.uk/resources/computer-science-and-it/as-and-a-level/computer-science-7516-7517/plan/summary-of-changes-knowledge)
 
 TASK: Do a question + Use Mark Scheme + Examiners report
