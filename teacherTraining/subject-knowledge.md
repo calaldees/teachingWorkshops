@@ -1,10 +1,20 @@
 Subject Knowledge
 =================
 
+Purpose
+-------
+
+* Student teachers can direct and measure their subject knowledge throughout the year
+* Evidence for examiners
+
+Suggestion
+----------
+
 * Curriculum Knowledge - What is on the curriculum and why is it on the curriculum
     * KS3 Computing National Curriculum
         * OCR Entry Level Computer Science
     * GCSE
+        * [OCR](https://www.ocr.org.uk/Images/313155-specification-entry-level-computer-science-r354.pdf) [AQA](https://filestore.aqa.org.uk/resources/computing/specifications/AQA-8525-SP-2020.PDF)
         * Command Words
         * AQA SQL - OCR no SQL
         * Outdated
