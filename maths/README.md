@@ -14,6 +14,7 @@ Move other maths here?
 
 * [BiVector](https://bivector.net/) - Geometric Algebra for CGI, Vision and Engineering
 
+* [Orbital Mathmatics explained](https://steemit.com/steemstem/@alexdory/how-do-rockets-really-get-to-where-they-re-headed-orbital-mechanics)
 
 Computing
 ---------

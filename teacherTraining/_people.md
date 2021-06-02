@@ -14,3 +14,15 @@ People
 * [Sue Sentence]()
     * [Raspberry Pi Chief Learning Officer](https://www.raspberrypi.org/blog/author/suesentance/)
 * [Jack Worth](https://twitter.com/worth_jack) - Education economist
+
+* [Ricardo Queirós](https://www.ricardoqueiros.com/) @RicQueiros
+    * Computing education researcher - automated marking - types of problems - gamification
+    * [papers](https://dblp.org/pid/67/2409.html)
+        * [On the Nature of Programming Exercises](https://drops.dagstuhl.de/opus/volltexte/2020/12311/)
+            * Types of code exercies
+            * Blank slate, bughunt, add feature, comments in code
+        * [Game-Based Coding Challenges to Foster Programming Practice](https://drops.dagstuhl.de/opus/volltexte/2020/12305/)
+            * Visual game, students write the _AI_ control to play
+                * ski game
+                * multi-agent asteroids
+                * (see code snake?)

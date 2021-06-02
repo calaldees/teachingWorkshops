@@ -13,11 +13,12 @@ Activity: What can you expect someone with Digital Literacy to be able to do?
 ## What can you expect someone with Digital Literacy to be able to do?
 * Where are your files: Cloud? Local Disk? USB?
 * Backup effectively
-* 2 factor authentication
+* [2 factor authentication](https://www.youtube.com/watch?v=hGRii5f_uSc&list=PL96C35uN7xGLLeET0dOWaKHkAlPsrkcha&index=16)
     * Benefits of
     * Types (Timed Codes, Dongles, SMS is poor)
 * Don't use the same password for all sites
     * Password manager
+        * [DashLane advert description by TomScott](https://youtu.be/RGuJga2Gl_k?t=485)
 * Plain text passwords [Plain Text Offenders](http://plaintextoffenders.com/)
 * Differentiate between phishing and spam (your responsibility to report)
     * https://www.gov.uk/report-suspicious-emails-websites-phishing
@@ -53,7 +54,14 @@ Activity: What can you expect someone with Digital Literacy to be able to do?
 * What is a keylogger
 * Duplex printing
 * Copying a URL (remove the tracking query string)
-
+* [Why The Government Shouldn't Break WhatsApp](https://www.youtube.com/watch?v=CINVwWHlzTY&list=PL96C35uN7xGLLeET0dOWaKHkAlPsrkcha&index=1)
+    * Government Backdoors
+    * Encryption
+    * SSL general web
+    * Companies have your public/private key
+    * WhatsApp is end to end encrypted (not centrally stored)
+    * "Nothing to hide" only works if you trust the government, all your friends and everyone in socity and anways will
+    * The "Bitter Ex test" could someone abuse this information
 
 * [South West Grid For Learning - Digital Literacy](https://digital-literacy.org.uk/curriculum-overview.aspx/#yr7)
 * [RageRank Algorithm](https://en.wikipedia.org/wiki/PageRank)

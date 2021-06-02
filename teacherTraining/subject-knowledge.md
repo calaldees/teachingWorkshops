@@ -1,6 +1,8 @@
 Subject Knowledge
 =================
 
+youtu.be/zTsRGQj6VT4?t=835
+
 Purpose
 -------
 
@@ -17,8 +19,9 @@ Suggestion
         * [OCR](https://www.ocr.org.uk/Images/313155-specification-entry-level-computer-science-r354.pdf) [AQA](https://filestore.aqa.org.uk/resources/computing/specifications/AQA-8525-SP-2020.PDF)
         * Command Words
         * AQA SQL - OCR no SQL
-        * Outdated
+        * Outdated - elements?
             * Defragmentation
+            * Name your files for version control
     * A-Level
         * OCR
         * AQA
@@ -29,7 +32,6 @@ Suggestion
                 * Organisation IT assessment/upgrade
                 * Mobile App
                 * Network and cyber security administration
-        * iMedia
     * Digital skills needed for other subjects - ICT
     * Approaches/tools to teaching areas - networks? (rabbithole of PCK?)
 * Computing Theory
@@ -81,10 +83,12 @@ Suggestion
     * Personal and economic dangers
         * biometrics
         * location
-    * email & formal communication
+    * email (attachments, cc, bcc, forwarding, rules) & formal communication
     * Careers
     * Societal impact - AI, self driving cars, economy, implants, rising automation
     * Wiki Syntax / update
+    * Password manager, 2uf, authenticator app
+
 
 Other skills
 ------------
@@ -102,6 +106,7 @@ Desired by society
     * Relational Database / Forms?
 * Modern/Wider
     * AI
+        * Play game
     * Big Data
     * Blockchain
     * Unreal Engine - Blueprint (Visual)
@@ -259,3 +264,4 @@ Remote Computer Science Accelerator (CSA) courses
 
 Online course
 
+TinkerCAD - 

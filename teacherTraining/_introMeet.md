@@ -196,6 +196,11 @@ If you do engage with the activities, then you might want to collate some reflec
 but, again, this is not a requirement.
 It would however help you get into the habit of undertaking professional reflection which will be key to your success next year.
 
+NCCE Courses
+------------
+
+Register for NCCE courses
+
 
 General Information and Pre Reading
 -----------------------------------
@@ -204,9 +209,9 @@ General Information and Pre Reading
     * [Canterbury Christ Church University](http://www/canterbury.ac.uk)
         * [Canterbury Christ Church: Support Services](https://www.canterbury.ac.uk/students/current-students/support-services/support-services.aspx)
 * Organisations
+    * [TeachComputing](https://teachcomputing.org/) (Previously NCCE)
     * [Computing at School](https://www.computingatschool.org.uk/)
     * [British Computer Society](https://www.bcs.org/policy-and-influence/education/)
-    * [TeachComputing](https://teachcomputing.org/) (Previously NCCE)
     * [Technology, Pedagogy & Education Association](https://tpea.ac.uk/)
         * The voice of digital technology and computing in education
         * CPD, research, best practice
@@ -234,7 +239,6 @@ General Information and Pre Reading
     * [AQA AS and A Level Computer Science](https://www.amazon.co.uk/AQA-AS-Level-Computer-Science/dp/1910523070/) PM Heathcoat
         * Good A-Level reference
     * [Craig and Dave](https://craigndave.org/)
-    * [BBC BiteSize](https://www.bbc.co.uk/bitesize/subjects/z34k7ty)
     * [Microbit](https://microbit.org/)
 * Online Courses
     * [OpenLearn](https://www.open.edu/openlearn/free-courses/full-catalogue) OpenUniversity free courses
@@ -251,6 +255,7 @@ General Information and Pre Reading
         * See results, Access ongoing CPD
 * Qualification Overviews
     * [OCR: Computing Qualifications](https://www.ocr.org.uk/Images/268867-computing-qualifications-summary-brochure.pdf) Summary Brochure
+
 
 Your Computing Skills
 ---------------------
@@ -269,18 +274,18 @@ Suggested activities
         * [Paper 1: Specimen mark scheme](https://filestore.aqa.org.uk/resources/computing/AQA-85201-SMS.PDF)
 * Have access to multiple programming languages
     * Create _Hello World_ in a couple of languages
-    * Required
+    * Heavily used
         * [Python]
         * [Scratch](https://scratch.mit.edu/)
     * Other suggestions
-        * [Visual Studio Community: Visual Basic](https://visualstudio.microsoft.com/vs/community/)
+        * [Visual Studio Community: Visual Basic or C#](https://visualstudio.microsoft.com/vs/community/)
         * [Java](https://adoptopenjdk.net/)
         * Other (I don't mind)
 * Experiment with a piece of hardware
     * [RaspberryPi](https://www.raspberrypi.org/)
     * [Microbit](https://microbit.org/)
-    * [Lego Mindstorms](https://education.lego.com/en-gb/support/mindstorms-ev3/getting-started)
     * [Adafruit Circuit Playground](https://learn.adafruit.com/introducing-circuit-playground/overview) Arduino
+    * [Lego Mindstorms](https://education.lego.com/en-gb/support/mindstorms-ev3/getting-started)
 
 
 Additional Resources

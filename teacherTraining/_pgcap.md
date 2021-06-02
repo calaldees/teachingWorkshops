@@ -49,6 +49,12 @@ Professional Standards Framework
         5. Relevant professional practices, subject and pedagogic research and/or scholarship within the above activities
         6. Successful engagement, where appropriate, in professional development activity related to teaching, learning and assessment responsibilities
     * D2 - Fellow
+        1. Successful engagement across all five Areas of Activity 
+        2. Appropriate knowledge and understanding across all aspects of Core Knowledge
+        3. A commitment to all the Professional Values
+        4. Successful engagement in appropriate teaching practices related to the Areas of Activity
+        5. Successful incorporation of subject and pedagogic research and/or scholarship within the above activities, as part of an integrated approach to academic practice
+        6. Successful engagement in continuing professional development in relation to teaching, learning, assessment and, where appropriate, related professional practices
     * D3 - Senior Fellow
     * D4 - Principle Fellow
 
@@ -840,11 +846,11 @@ A posetive environment that supports a sense of belonging is key to student succ
 
 * [Sense of belonging and social and emotional learning](https://ies.ed.gov/ncee/edlabs/regions/northwest/pdf/social-emotional-learning.pdf) - (the fish school diagram)
 * [AdvanceHE: Student retention and success in higher education](https://www.advance-he.ac.uk/guidance/teaching-and-learning/student-retention-and-success)
-* [Working in partnership: enabling social mobilit y in higher education](https://www.universitiesuk.ac.uk/policy-and-analysis/reports/Documents/2016/working-in-partnership-final.pdf) - The final report of the Social Mobility Advisory Group
+* [Working in partnership: enabling social mobility in higher education](https://www.universitiesuk.ac.uk/policy-and-analysis/reports/Documents/2016/working-in-partnership-final.pdf) - The final report of the Social Mobility Advisory Group
 * OfS [Effective practice in access and participation](https://www.officeforstudents.org.uk/advice-and-guidance/promoting-equal-opportunities/effective-practice/)
     * echos "working in partenership"
 
-* SEDA  (Staff and Educational Development Association) [Transitions Into, Through and Out of Higher Education: Supporting Students](https://learn.canterbury.ac.uk/bbcswebdav/pid-2803763-dt-content-rid-4229027_1/courses/E20MAPIN4ETE/SEDA%20Special%2044%20Artwork_FINAL%20Pre-reading.PDF)  Wendy Ashall and Wendy Garnham
+* SEDA (Staff and Educational Development Association) [Transitions Into, Through and Out of Higher Education: Supporting Students](https://learn.canterbury.ac.uk/bbcswebdav/pid-2803763-dt-content-rid-4229027_1/courses/E20MAPIN4ETE/SEDA%20Special%2044%20Artwork_FINAL%20Pre-reading.PDF)  Wendy Ashall and Wendy Garnham
     * However, much of the ‘transitions to HE’ literature focuses solely on the initial transition, that of leaving home and joining the university as an undergraduate, conceptualising transition as the irreversible, linear, teleological progress of the unitary subject through pre-determined stages (Colley, 2007), from one institutional or disciplinary context to another (Gale and Parker, 2014). This Special seeks to redress this balance,
 
 * [equity-vs-equality](https://onlinepublichealth.gwu.edu/resources/equity-vs-equality/)

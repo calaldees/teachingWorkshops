@@ -496,3 +496,11 @@ TODO
 * [Assessing Primary Computing](http://code-it.co.uk/wp-content/uploads/2015/08/apc1.pdf) Phil Bagge
 * [experts in everything](https://twitter.com/Teacherglitter/status/1338548492697030659) [@Teacherglitter](https://twitter.com/Teacherglitter)
   * My latest post made me realise something about primary school teachers. We are expected to deliver high content and lessons on subjects way out our comfort zone such as French. We are suddenly expected to be experts in EVERY subject. This is the craziness of primary education.
+
+
+* [Development Matters in the  Early Years Foundation Stage (EYFS)](https://www.foundationyears.org.uk/files/2012/03/Development-Matters-FINAL-PRINT-AMENDED.pdf)
+  * Karen
+
+* [Code-it](https://code-it.co.uk/csplanning.html)
+  * [Code-it 'Gold Planning'](https://code-it.co.uk/gold/) - KS2
+    * Concepts could be used in secondary

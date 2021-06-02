@@ -14,13 +14,14 @@ TASK 2: Compare your list to these lists
 [yourbias.is](https://yourbias.is/) PDF Download via Email
 
 ![Cognative Bias Codex](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg) 
-[designhacks.co](https://designhacks.co/)
+from [designhacks.co](https://designhacks.co/)
 
 Survivorship bias - the ones that survive tell the story and give advice - the ones that don't survive dont
 
 Logical Fallacies
 =================
 
+* [Master List of Logical Fallacies](http://utminers.utep.edu/omwilliamson/ENGL1311/fallacies.htm)
 * [logicalfallacies.org](https://www.logicalfallacies.org/)
     * A misconception resulting from flaw in reasoning, or a trick or illusion in thoughts that often succeeds in obfuscating facts/truth.
 

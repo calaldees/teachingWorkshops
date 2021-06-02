@@ -366,6 +366,8 @@ Articles about CPD (1 hour: Async reading)
     * > common autopilot state when you have habitually mastered the basics of a task, but despite being skilled you stop really improving to reach expert status; you simply plateau in performance
     * > With the storm of demands created by workload, any improvement beyond this point seemed fanciful. 
       > I stopped reading about teaching and learning and I stopped being coached with genuine regularity.
+* [The CPD puzzle: why don't teachers keep improving?](https://www.tes.com/news/teacher-cpd-professional-development-schools-reflection-rosenshine-puzzle-why-dont-teachers-keep-improving?amp)
+    * 1 hour a fortnight reflection time with small group of other teachers
 * [Being the 1% – what does it take to make CPD effective?](https://improvingteaching.co.uk/2014/02/23/being-the-1-what-does-it-take-to-make-cpd-effective/) Harry Fletcher-Wood
     * > Barely 1% of training [CUREE] looked at was effectively transforming classroom practice
 * [Center for Evaluation and Monitoring (CEM) Improving Education](http://www.cem.org/attachments/publications/ImprovingEducation2013.pdf) 2013 Professor Robert Coe

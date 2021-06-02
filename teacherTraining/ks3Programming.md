@@ -50,7 +50,9 @@ David Daidau - English Teacher - part of Ofsted inspection reform on lesson obse
 * We are trying to build _Competency Model_ rather than _tickbox objectives_
     * _Comprehension oriented_ not _Creation oriented_
 * To plan a lesson: start with _required competencies_ and work backwards from there
-
+    * [Blending Content Areas Through Problem-Based Learning](https://www.csforallteachers.org/blog/blending-content-areas-through-problem-based-learning)
+        * >  Understanding by Design by Grant Wiggins and Jay McTighe. 
+            * describe three stages of curriculum planning through backward design
 
 Example Lesson (Model) - Year 7 DataStructures (30min)
 ------------------------------------------------------

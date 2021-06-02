@@ -146,6 +146,9 @@ TASK: Read PRIMM quick read.
         * A changed concept (different meaning in the new context)
         * A novel concept (completely new to the learner)
 
+* [CDIO](https://en.wikipedia.org/wiki/CDIO_Initiative)
+    * Conceive Design Implement Operate. The CDIO Initiative is an educational framework that stresses engineering fundamentals set in the context of conceiving, designing, implementing and operating real-world systems and products.
+
 Meta-Cognition
 --------------
 

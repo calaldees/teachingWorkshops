@@ -14,3 +14,5 @@ Writing
         * And he will probably ask himself two more: 
             * Could I put it more shortly? 
             * Have I said anything that is avoidably ugly?
+* [Programming and Writing](http://antirez.com/news/135)
+    * > I believe programming, in this regard, can learn something from writing: when writing the first core of a new system, when the original creator is still alone, isolated, able to do anything, she should pretend that this first core is her only bullet.

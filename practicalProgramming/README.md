@@ -359,12 +359,15 @@ Session 43 (9 sessions remaining)
 Objects and Class's Stars example
 
 
+Session 44 (8 Sessions remaining)
+----------
+
+
 
 Upcoming
 --------
 
 Game Framework Base - Pygame
- stars?
  tweens?
 Shapes in tk/pygame
 
