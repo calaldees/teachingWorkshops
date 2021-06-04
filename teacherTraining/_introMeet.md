@@ -311,3 +311,6 @@ TODO
     * [The New Teacher Mega Guide. Everything you need in 10 Videos](https://teacherofsci.com/new-teacher-mega-guide/)
 * [lumenlearning.com/educationalpsychology](https://courses.lumenlearning.com/educationalpsychology/)
     * [Major theories and models of learning](https://courses.lumenlearning.com/educationalpsychology/chapter/major-theories-and-models-of-learning/)
+* [UWE Bristol: Secondary PGCE pre-course information Computer Science](https://www2.uwe.ac.uk/services/Marketing/students/NewStudents%202017%20onwards/PGCE%20Computer%20Science.pdf)
+* [University of Southampton: Computing interview process](https://www.efolio.soton.ac.uk/blog/itcs/what-is-the-interview-process/)
+* [Preparing for a PGCE in secondary computing](http://milesberry.net/2020/07/preparing-for-a-pgce/) Mile Berry 2020

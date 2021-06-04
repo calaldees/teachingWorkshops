@@ -909,11 +909,15 @@ Ask the students: What are your expectations?
 * [Gravesstock retention model padlet](https://cccu.padlet.org/chloecourtenay/s1xlx9x3jp8a5pur)
 
 * [Student Engagement Dashboard](https://www.canterbury.ac.uk/learning-and-teaching-enhancement/student-retention-and-success/Student-engagement-dashboard.aspx)
-* [OfS Transparancy statistics](https://www.canterbury.ac.uk/about-us/ofs-transparency-return.aspx)
-* [Transitions Into, Through and Out        of Higher Education: Supporting Students](https://learn.canterbury.ac.uk/bbcswebdav/pid-2803763-dt-content-rid-4229027_1/courses/E20MAPIN4ETE/SEDA%20Special%2044%20Artwork_FINAL%20Pre-reading.PDF)
+
+* [Transitions Into, Through and Out of Higher Education: Supporting Students](https://learn.canterbury.ac.uk/bbcswebdav/pid-2803763-dt-content-rid-4229027_1/courses/E20MAPIN4ETE/SEDA%20Special%2044%20Artwork_FINAL%20Pre-reading.PDF)
 * [PLANNING ACADEMIC ORIENTATIONAND STUDENT TRANSITION ACTIVITIES. BEST PRACTICE GUIDE2020](https://learn.canterbury.ac.uk/bbcswebdav/pid-2374366-dt-content-rid-3654967_1/orgs/OC18RETENTION/TOI%20Best%20Practice%20Guide%20V8%202020%281%29.pdf)
 * OfS [Access and participation data dashboard](https://www.officeforstudents.org.uk/data-and-analysis/access-and-participation-data-dashboard/)
-  
+
+* [OfS Transparancy statistics](https://www.canterbury.ac.uk/about-us/ofs-transparency-return.aspx)
+* OfS [Securing student success:Regulatory framework for higher education in England](https://www.officeforstudents.org.uk/media/1406/ofs2018_01.pdf) 2018
+* OfS [Consultation on regulating qualityand standardsin higher education](https://www.officeforstudents.org.uk/media/7bc6b90d-95c6-40e5-a4c6-a485a08e4d9f/consultation-on-quality-final-for-web.pdf) 2020
+
 Session 3
 ---------
 

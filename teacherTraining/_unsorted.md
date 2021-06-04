@@ -519,3 +519,6 @@ Bennet and Dojee 2015 mindfullness-based stress reduction course revealed that s
     * > I'm getting stressed more than getting smarter
     * > Students have a problem when schools care more about grades than actual learning.
 
+
+* [Why become a teacher? Student teachers’ perceptions of the teaching profession and motives for career choice](https://www.tandfonline.com/doi/full/10.1080/02619768.2018.1448784)
+    * todo - read

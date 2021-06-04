@@ -48,6 +48,12 @@ Visual Thumb-up-o-meter
 * Version control
 * Linux
 
+### Perceived expectations
+
+In the first session collect the students perceived expectations about the upcoming course. Attempt to correct misunderstandings early.
+
+### Student rep
+
 ### Lighthouse statement
 
 You've made a lighthouse statement about _who you are_ and _why you want to teach_.

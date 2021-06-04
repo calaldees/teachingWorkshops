@@ -506,7 +506,8 @@ If they don't get a career and contribute back to society they are going to have
 * [Least advantaged students gain a lot from going to university – compared to what they would earn if they didn't](https://www.ifs.org.uk/publications/15382) - Institute of Fisical Studies - March 2021
     * 1 in 5 would not benefit from university
 
-
+* Chapter 6 [‘I have had to tap around in the dark’: Exploring how first in family students navigate the transition out of university and into employment](https://learn.canterbury.ac.uk/bbcswebdav/pid-2803763-dt-content-rid-4229027_1/courses/E20MAPIN4ETE/SEDA%20Special%2044%20Artwork_FINAL%20Pre-reading.PDF) Sarah O’Shea and Olivia Groves 2020
+    * > Provide a realistic cost-benefit analysis from different fields of study, so that students can make informed choices about the qualifications they pursue.
 
 
 Teaching for Character (in progress)

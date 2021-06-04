@@ -265,3 +265,7 @@ Remote Computer Science Accelerator (CSA) courses
 Online course
 
 TinkerCAD - 
+
+
+[Somerset.org.uk: Subject KNowleg audit for the teaching of computing](https://www.somerset.org.uk/sites/edtech/Secondary%20Computing/Subject%20knowledge%20audit%20for%20Computing%20teachers.docx)
+[google cached html](https://webcache.googleusercontent.com/search?q=cache:JEDGAPVt0DUJ:https://www.somerset.org.uk/sites/edtech/Secondary%2520Computing/Subject%2520knowledge%2520audit%2520for%2520Computing%2520teachers.docx+&cd=6&hl=en&ct=clnk&gl=uk&client=firefox-b-d)

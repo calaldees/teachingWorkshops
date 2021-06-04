@@ -41,3 +41,8 @@ Family planing and support
     * Rise of geek being acceptable
     * [A Psychological Exploration of Engagement in Geek Culture](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0142200)
     * As a teacher be alert to tackle comments
+
+
+* [Technology and sexuality – what's the connection? Addressing youth sexualities in efforts to increase girls' participation in computing](https://www.tandfonline.com/doi/abs/10.1080/17439884.2014.933847)
+    * > Concerns about this under representation have sparked a wealth of educational efforts to promote girls’ participation in computing, but these programs have demonstrated limited impact on reversing current trends. This paper argues that this is, in part, because these programs tend to take a narrow view of their purpose, ignoring important factors that shape girls’ identities and education/career choices – not least broader narratives around gender, race, and sexuality.
+    * TODO read
