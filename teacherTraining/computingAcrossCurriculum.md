@@ -252,6 +252,12 @@ Group Task: Design a Cross curricular Lesson (1 hour)
 Computing Across The Curriculum (1 hour)
 -------------------------------
 
+TODO:
+* [CodeHSCoding Exploration SyllabusMini Course (40 Contact Hours)](https://codehs.com/course/5194/overview) [sylibus](https://codehs.com/uploads/0af7654eb54e711b44fb039503eecead)
+    * Coding Music
+    * Generative Art
+    * Golf game - sports
+
 Showcase of ideas.
 The subjects here are _loose_.
 I'm going to get really exited here.

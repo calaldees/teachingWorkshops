@@ -104,10 +104,13 @@ Browser Based - Development environments
     * Must have a (good) web connection
 
 * Technologies
+    * see mapOfComputing for more
     * Browser
         * [repl.it](https://repl.it/)
             * Discussed in previous sessions - an education revolution
             * (Has a paid-for school class system for projects/sumbissions/annotations/feedback $1000 per year per school)
+        * [CodeHS](https://codehs.com/) - Code Highschool
+            * Computer science classroom in a box - lessons, courses, videos, management system, online browser ide, submission
         * [trinket.io](https://trinket.io/)
         * [sharepad.io](https://www.sharepad.io/) - python, java, c, c++ - live share + link share
         * [SmallBASIC](https://SmallBASIC.com/) [live](https://superbasic-v2.azurewebsites.net/) - Microsoft
@@ -117,6 +120,7 @@ Browser Based - Development environments
                 * [w3schools tryit svg example](https://www.w3schools.com/graphics/tryit.asp?filename=trysvg_circle)
         * Other
             * [gist.cafe](https://gist.cafe/) - runnable snippets on the web
+        * [play.golang.org](https://play.golang.org/)
     * Online IDE
         * [CodeTasty](https://codetasty.com/)
         * [GitPod](https://www.gitpod.io/)

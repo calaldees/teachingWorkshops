@@ -28,3 +28,6 @@ Teaching Tools
 
 * [Classroom Response Systems](https://www.canterbury.ac.uk/learning-and-teaching-enhancement/learning-platform-suite/classroom-response-systems.aspx)
     * Menti, padlet, kahoot,
+
+
+* [mastershot](https://mastershot.app/) - video editing in browser
