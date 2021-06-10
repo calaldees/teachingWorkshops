@@ -481,6 +481,7 @@ Timebox to one hour ... you may be sent links in the chat to try
         * Physics/Electronics analog synths - sawtooth waves
     * [Sonic Pi](https://sonic-pi.net/)
         * Example lessons and teacher resources
+        * [Interdisciplinary computational thinking with music and programming: a case study on algorithmic music composition with Sonic Pi](https://www.tandfonline.com/doi/full/10.1080/08993408.2021.1935603) 2021 Petrie
     * [Synthesizer Basics: Amplitude, Oscillators, Timbre](https://www.youtube.com/watch?v=c3udLCvoCC0)
     * [Digital sound processing tutorial for the braindead!](http://yehar.com/blog/?p=121)
     * [An Interactive Introduction to Fourier Transforms](http://www.jezzamon.com/fourier/index.html)

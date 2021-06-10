@@ -26,3 +26,10 @@ People
                 * ski game
                 * multi-agent asteroids
                 * (see code snake?)
+
+* [@ChrisSheltonUK](https://twitter.com/chrissheltonuk)
+    * [Dr Chris Shelton](https://www.chi.ac.uk/staff/dr-chris-shelton) University of Chichester
+
+
+* [Professor Christina Preston](https://www.dmu.ac.uk/about-dmu/academic-staff/health-and-life-sciences/christina-preston/christina-preston.aspx)
+    * Started mirandanet.ac.uk

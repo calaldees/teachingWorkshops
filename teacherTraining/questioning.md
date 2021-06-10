@@ -28,6 +28,7 @@ ITT CCF 3.3
 TASK: Async - 1 hour
 * Read [Oiling the hinges – refining my construction of hinge questions](https://improvingteaching.co.uk/2013/11/03/oiling-the-hinges-refining-my-construction-of-hinge-question/)
     * History
+* TODO - [Building a responsive teaching culture by designing and using hinge questions](https://impact.chartered.college/article/building-responsive-teaching-culture-hinge-questions/)
 * Watch [Diagnostic Questions Pedagogy Videos](https://www.youtube.com/watch?v=HlRJIsZnITs&list=PL7BJ-1MkmUZ90bnxd_e-AsIgIsJEGOkC0&index=1)
     * All videos are 40min in total - You can get the majority of information in the first 30min
 * Find/Browse examples of Computing [Diagnostic Questions](https://diagnosticquestions.com/) on the the site

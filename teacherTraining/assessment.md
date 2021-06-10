@@ -1116,3 +1116,6 @@ Unsorted
 
 * [CAS Assessment working group ](https://community.computingatschool.org.uk/resources/5304/single#)
     * How do we see what the group have produced?
+
+Set the same test again - tell the students this - give them time to prepare - you can measure the improvement
+This can be the same for interleived questions

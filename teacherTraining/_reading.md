@@ -16,6 +16,7 @@ Journals
 * [TPE: Technology, Pedagogy and Education](https://www.tandfonline.com/toc/rtpe20/current)
   * [tpea.ac.uk researh](https://tpea.ac.uk/research-hub/journal/)
 * [CSE: Computer Science Education](https://www.tandfonline.com/loi/ncse20)
+    * [rss](https://www.tandfonline.com/feed/rss/ncse20)
 * [ILE: Interactive Learning Environments](https://www.tandfonline.com/toc/nile20/current)
 * [Teachers and Teaching: theory and practice](https://www.tandfonline.com/toc/ctat20/current) - International Study Association on Teachers and Teaching (ISATT)
 * [CAS: Research in Computer Science Education](https://community.computingatschool.org.uk/resources/46/single)
@@ -27,10 +28,11 @@ Journals
 * [JSTOR: Education technology](https://www.jstor.org/journal/eductech)
 * [SAGE: Journal of Educational Computing Research](https://journals.sagepub.com/loi/jeca) 1985sent
 * [SAGE: Journal of Educational Computing Research](https://journals.sagepub.com/home/JEC)
+    * [rss](https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=jeca&type=axatoc&feed=rss)
 * [SAGE: Journal of Educational Computing Research](https://uk.sagepub.com/en-gb/eur/journal-of-educational-computing-research/journal202399)
 * [Elsevier: Computers and Education](https://www.journals.elsevier.com/computers-and-education)
 * [ScienceDirect: Computers and Education](https://www.sciencedirect.com/journal/computers-and-education)
-* [Taylor Frances Online: Computer Science Education](https://www.tandfonline.com/toc/ncse20/current)
+    * [rss](http://rss.sciencedirect.com/publication/science/03601315)
 * [Springer: Journal of Computers in Education](https://link.springer.com/journal/40692/volumes-and-issues)
 
 

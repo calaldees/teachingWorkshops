@@ -20,3 +20,6 @@ See [[Knowledge Organisers]]
         * Connect ideas together
         * Build upon the ideas
     * [digital gardening](https://nesslabs.com/mind-garden) consists in crafting and connecting evergreen notes in a non-hierarchical repository, similar to a personal wiki
+* [(Trying To) Study Textbooks Effectively: A Year of Experimentation](https://www.lesswrong.com/posts/79dP94fEhGGcGmyDE/trying-to-study-textbooks-effectively-a-year-of)
+    * just-reading, Flash-cards, obsidian notes, visualising
+    * writing down a question that each paragraph answers

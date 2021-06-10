@@ -9,6 +9,11 @@ State, Claim, Argues, Hypothesises
 
 Narriative, journy, headings 
 
+* Formal language
+    * Don't use phrases like 'hatred of learning'
+    * Low ability (don't ever use the term ability. Use them term low attainment)
+
+
 ---
 
 * [Moving from Level 6 to Level 7](https://cccu.yuja.com/V/Video?v=64503&node=291431&a=237116047&autoplay=1)

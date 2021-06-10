@@ -22,10 +22,23 @@ Activity: What can you expect someone with Digital Literacy to be able to do?
 * Plain text passwords [Plain Text Offenders](http://plaintextoffenders.com/)
 * Differentiate between phishing and spam (your responsibility to report)
     * https://www.gov.uk/report-suspicious-emails-websites-phishing
+    * [Action Fraud - Report a phishing attempt](https://www.actionfraud.police.uk/report-phishing)
+        * Online form for phone calls, texts or social media
+        * report@phishing.gov.uk to forward spam to
+        * `7726` to forward texts to
+        * `0300 123 2040` to report breach of details
+    * [who-called.co.uk](https://who-called.co.uk/)
+    * Fly tipping
+    * abandoned trollys
+    * dead swans
+    * bust watermain
+    * Tree route breaking pavement - disability
 * Electoral role (edited register)
 * Cookies (What they are and why they are used)
 * Domain/typo squatting
 * Diagnosing network - ping router - traceroute - packetloss
+    * [DownDetector.co.uk](https://downdetector.co.uk/)
+    * FaslyCDN
 * whois - traceroute
 * Distinguish between a Web or Native mobile app
 * Https + certificates + RSA Key Pairs
@@ -95,6 +108,8 @@ This is agnostic of Computing?
 
 [Trust of sources of Corona information](https://www.bbc.co.uk/news/technology-53050959)
 
+* [Getting Started with Content Curation in the Classroom](https://spencerauthor.com/content-curation/)
+    * relevant to students interests
 
 ## Why is Digital Literacy important?
 
