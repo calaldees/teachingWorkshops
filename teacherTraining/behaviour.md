@@ -561,3 +561,14 @@ TODO
 
 
 Elis and Tod's 2015 Behaviour for leaning framework - trio of factors
+
+
+* [Ofsted: Review of sexual abuse in schools and colleges ](https://www.gov.uk/government/publications/review-of-sexual-abuse-in-schools-and-colleges/review-of-sexual-abuse-in-schools-and-colleges)
+    * > It is concerning that for some children, incidents are so commonplace that they see no point in reporting them.
+      > It recommends that schools, colleges and multi-agency partners act as though sexual harassment and online sexual abuse are happening, even when there are no specific reports.
+    * > girls told us that sexual harassment and online sexual abuse, such as being sent unsolicited explicit sexual material and being pressured to send nude pictures (‘nudes’), are much more prevalent than adults realise. For example, nearly 90% of girls, and nearly 50% of boys, said being sent explicit pictures or videos of things they did not want to see happens a lot or sometimes to them or their peers.
+      > Children and young people told us that sexual harassment occurs so frequently that it has become ‘commonplace’. For example, 92% of girls, and 74% of boys, said sexist name-calling happens a lot or sometimes to them or their peers. The frequency of these harmful sexual behaviours means that some children and young people consider them normal.
+      * > When we asked children and young people where sexual violence occurred, they typically talked about unsupervised spaces outside of school, such as parties or parks without adults present, although some girls told us they also experienced unwanted touching in school corridors.
+      * > Children and young people, especially girls, told us that they do not want to talk about sexual abuse for several reasons, even where their school encourages them to. For example, the risk of being ostracised by peers or getting peers into trouble is not considered to be worth it for something perceived by children and young people to be commonplace. They worry about how adults will react, because they think they will not be believed, or that they will be blamed. They also think that once they talk to an adult, the process will be out of their control.
+      * > Children and young people were rarely positive about the RSHE they had received. They felt that it was too little, too late and that the curriculum was not equipping them with the information and advice they needed to navigate the reality of their lives. Because of these gaps, they told us they turned to social media or their peers to educate each other, which understandably made some feel resentful. As one girl put it, ‘It shouldn’t be our responsibility to educate boys’.
+      * > In the schools and colleges we visited, some teachers and leaders underestimated the scale of the problem. They either did not identify sexual harassment and sexualised language as problematic or they were unaware they were happening.

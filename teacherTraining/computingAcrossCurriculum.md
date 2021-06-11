@@ -226,6 +226,10 @@ We sometimes steamroller this in striving for our examinable/measurable grades.
             * social cohesion
 
 
+TODO: 
+
+[Blending Content Areas Through Problem-Based Learning](https://www.csforallteachers.org/index.php/blog/blending-content-areas-through-problem-based-learning)
+
 Group Task: Design a Cross curricular Lesson (1 hour)
 --------------------------------------------
 
@@ -273,6 +277,7 @@ Timebox to one hour ... you may be sent links in the chat to try
     * Create a webpage with a world map and use absolute positioning to embed videos from [skylinewebcams](https://www.skylinewebcams.com)
     * [ancient-earth 3D globe](https://dinosaurpictures.org/ancient-earth)
 * History
+    * [OpenHistoricalMap](https://www.openhistoricalmap.org/)
     * [Canterbury High Street](http://www.hillside.co.uk/tour/tour.html) - Homemade Canterbury High Street Streetview from 1990
         * Activity for class to create school tour
             * Code to navigate (arrow keys?)

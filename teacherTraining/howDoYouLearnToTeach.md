@@ -611,3 +611,7 @@ Learning theory's
 * [lumenlearning.com/educationalpsychology](https://courses.lumenlearning.com/educationalpsychology/)
     * [Major theories and models of learning](https://courses.lumenlearning.com/educationalpsychology/chapter/major-theories-and-models-of-learning/)
 
+Other?
+-----
+
+* TES [5 ways to cope with compassion fatigue](https://www.tes.com/news/5-ways-cope-compassion-fatigue) 2021 - If you find yourself close to your emotional limit, keep these wellbeing tips in mind
