@@ -16,7 +16,9 @@ Femen-isum, class-isum
     * [TED Talk: The Danger of a Single Story](https://www.ted.com/talks/chimamanda_ngozi_adichie_the_danger_of_a_single_story?language=en)
     * [What is Critical Race Theory?](https://twitter.com/a_centrism/status/1398156157349416964)
         * > Influenced by neo-Marxist critical theory, CRT argues that the essence of America it its systematic racism (or "white supremacy"), and that liberal notions of individualism, merit, equality of opportunity, and color-blindness must be rejected in factor of race-based approaches that use activism, school curricula, institutional power, and, if necessary, governmental coercion to transform the society and economy in order to remove "whiteness" from america's organising systems and structures and culture, and ultimately produce the equal outcomes ("equity") for all groups.
-
+    * Education Week - [The Right and Wrong Way to Address Concerns About Critical Race Theory](https://www.edweek.org/policy-politics/opinion-the-right-and-wrong-way-to-address-concerns-about-critical-race-theory/2021/06) Rick Hess 2021
+        * > “individual should feel discomfort, guilt, anguish, or any other form of psychological distress on account of his or her race or sex.” While I wholly agree that elementary school students shouldn’t be sent home in tears by educators more focused on ideological crusades than student well-being, ... Expecting teachers not to consciously inflict emotional pain is one thing; suggesting that they steer around all such topics is quite another.
+        * > “be clear enough to be understood by persons of ordinary intelligence. Instead, these laws are broad and vague enough to create an extraordinary chilling effect on classroom speech.”
 
 * _Old_ Racisum is things that we _do_
 * _Modern_ racisum is things that we _don't_ do

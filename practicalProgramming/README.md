@@ -362,6 +362,26 @@ Objects and Class's Stars example
 Session 44 (8 Sessions remaining)
 ----------
 
+Sina Guest speaker - BluePrints Unreal4
+
+
+Session 45 (7 Sessions remaining)
+----------
+
+Vector Graphics Format (theory)
+Bit Shift Operations
+Network Theory - basic - SubnetMask, IPv4-Class
+
+
+Session 46 (6 Sessions remaining)
+----------
+
+Canvas shapes js + py/tiketer
+
+
+Session 47 (one to one)
+----------
+
 
 
 Upcoming
@@ -369,5 +389,26 @@ Upcoming
 
 Game Framework Base - Pygame
  tweens?
-Shapes in tk/pygame
 
+
+Season 2
+--------
+
+4 Weeks (once a month) - 6 hour workshop - time to put it into practice
+
+Simple game
+Continue another persons program
+Voice UI - picture of a cat
+AI - Machine learning to recognise Square, Circle and Triangle
+Gameboy Rom programming
+Docker & Containers for CI systems
+Unity?
+Rainbow tabels -> keylogger
+algorithums
+    isprime optimisation
+    levenstine?
+    search in pi
+    .. more?
+    power of 3 triangle?
+Make a satnav? djistaks shortest path - graph?
+Tweens and animations on canvas

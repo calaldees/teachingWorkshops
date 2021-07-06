@@ -112,3 +112,22 @@ TODO
 
 [Metacognition](https://en.wikipedia.org/wiki/Metacognition) thinking about thinking
 [Getting started with Metacognition](https://cambridge-community.org.uk/professional-development/gswmeta/index.html)
+
+> Higher order thinking which involives active control over the cognative process engaged in learning
+Livingstone 2003
+
+Perkins 1992 referenced in camberate internation education 2021
+* Tacit
+    * They know or dont know and how no idea why
+* Aware
+    * identify some of their thinking process haphazardly
+* Strategic
+    * apply stratergies they have been presribed but have difficulty doing this in new sitations
+* Reflective
+    * critically monitor
+
+
+Discuss with then - How are we going to learn something effectivly? concreat preparation
+Ask them "why did you get it wrong"? 
+"how could this be corrected"
+"how could you avoid this mistake in future topics"?

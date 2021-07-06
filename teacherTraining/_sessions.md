@@ -1,3 +1,20 @@
+Sessions
+========
+
+Key Questions
+-------------
+1. Who are we?
+2. How do you learn how to teach?
+3. What is a teacher?
+4. What is education
+5. How do children learn?
+6. What does inclusion really mean?
+7. How do you plan and assess for learning?
+8. What is a broad and balanced curriculum?
+9. How do you lead learning?
+10. What is my impact?
+
+
 Who are we?
 -----------
 Orientation to programme requirements, culture and expectations

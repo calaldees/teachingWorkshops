@@ -6,6 +6,8 @@ Jornals
 -------
 
 * [Computational Thinking Educational Policy Initiatives (CTEPI) Across the Globe](https://link.springer.com/article/10.1007/s11528-019-00384-4)
+* [“It Must Include Rules”: Middle School Students’ Computational Thinking with Computer Models in Science](https://dl.acm.org/doi/10.1145/3415582)
+    * Using computational thinking in science
 * [Measuring Success in Education: The Role of Effort on the Test Itself](https://www.aeaweb.org/articles?id=10.1257/aeri.20180633) Comparison of Shanghi and US Math tests with effort
 
 Use of technology report and recomendations
@@ -96,7 +98,9 @@ Blended Learning
 
 
 
-[VPL: Visual Programming Language](https://en.wikipedia.org/wiki/Visual_programming_language)
+* [VPL: Visual Programming Language](https://en.wikipedia.org/wiki/Visual_programming_language)
+    * [Hacker News folk wisdom on visual programming](https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming/)
+        * Comments and commentary
 
 [What makes a good teacher: opinions from around the world](https://www.unicef.org/teachers/teacher/teacher.htm)
 
@@ -522,3 +526,8 @@ Bennet and Dojee 2015 mindfullness-based stress reduction course revealed that s
 
 * [Why become a teacher? Student teachers’ perceptions of the teaching profession and motives for career choice](https://www.tandfonline.com/doi/full/10.1080/02619768.2018.1448784)
     * todo - read
+
+---
+
+* Support for student teachers
+    * [futurelearn.com - learn-english](https://www.futurelearn.com/subjects/language-courses/learn-english)

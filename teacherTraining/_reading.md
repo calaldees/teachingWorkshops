@@ -13,6 +13,8 @@ Research
     * Research concepts broken into chunks
 
 Journals
+* [OLYMPIADS IN INFORMATICS](https://ioinformatics.org/page/ioi-journal-index/)
+    * No RSS! damnit!
 * [TPE: Technology, Pedagogy and Education](https://www.tandfonline.com/toc/rtpe20/current)
   * [tpea.ac.uk researh](https://tpea.ac.uk/research-hub/journal/)
 * [CSE: Computer Science Education](https://www.tandfonline.com/loi/ncse20)

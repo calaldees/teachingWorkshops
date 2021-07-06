@@ -225,3 +225,18 @@ These are part of _unplugged_ because you can use them to create paper based the
 
 [30min Segment](./_diagrams.md)
 
+
+
+
+TODO
+====
+
+* [Tabletop games designed to promote computational thinking](https://www.tandfonline.com/doi/full/10.1080/08993408.2021.1947642) Poole et al 2021
+    * Evaluate a range of comercial tabeltop games to promote computational thinking
+        * categories
+            * Code building games
+            * Code executions games
+            * Puzzle games
+* [Computational Thinking Education through Creative Unplugged Activities](https://ioinformatics.org/journal/v13_2019_171_192.pdf)
+    * Move Baberas tasks away form computer
+    * Exhibitions

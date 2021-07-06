@@ -29,6 +29,10 @@ Today
 * Subject specific information and tasks for starting the course in September
 * General discussion and opportunity to ask questions
 
+TODO: LSP Apply for
+Student lead - profetional
+Portfolio for you (wanting it to be marked )
+If asked to teach a lesson in html - you are capable - you do
 
 Who
 ---

@@ -103,6 +103,14 @@ Venn diagram of
 
 > Pedagogical Content Knowledge (PCK) conceptualises both the link and the distinction between knowing something for yourself and being able to enable others to know it.
 
+
+Magnusson et al. (1999)
+* knowledge of goals and objectives for teaching a specific topic in the curriculum, (GO)
+* knowledge of students’ understanding of this topic, (SU)
+* knowledge of instructional strategies concerning this topic, (IS)
+* knowledge of ways to assess students’ understanding of this topic (AS)
+combinations of PKC in the form GO-IS
+
 * [Pedagogical Content Knowledge: Teachers' Integration of Subject Matter, Pedagogy, Students, and Learning Environments](https://narst.org/research-matters/pedagogical-content-knowledge) Shulman, 1986
     * TODO
 * [Those Who Understand: Knowledge Growth in Teaching](https://www.wcu.edu/WebFiles/PDFs/Shulman.pdf)
@@ -540,6 +548,12 @@ TASK: SD email me your tutors name, email, school. I would like to email them a 
 TODO
 
 [Teacher professional learning and development](https://www.iaoed.org/downloads/EdPractices_18.pdf) Helen Timperley - INTERNATIONAL ACADEMY OF EDUCATION
+
+
+* [What are we doing? Are we all doing it?](https://bennewmark.wordpress.com/2021/06/22/what-are-we-doing-are-we-all-doing-it/)
+    * Lesson observations are not sufficient for knowing is teahcing is effective
+    * Observers look for a focused environment where student know what they are doing
+    * This is a poor proxy for "learning", but it is an effective proxy
 
 
 Things people bugger up with teacher training

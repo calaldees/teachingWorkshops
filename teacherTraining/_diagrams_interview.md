@@ -11,9 +11,6 @@ Computer Science Diagram Tooling
 ## Formal Computer Science diagram notations
 
 * [FlowChart](https://en.wikipedia.org/wiki/Flowchart)
-    * A flowchart can also be defined as a diagrammatic representation of an algorithm
-    * Any drawing program can be used to create flowchart diagrams, but these will have no underlying data model
-    * Many software packages exist that can create flowcharts ... from a flowchart description language
 * [State Diagram](https://en.wikipedia.org/wiki/State_diagram) is a type of diagram used in computer science and related fields to describe the behaviour of systems
 * [UML](https://en.wikipedia.org/wiki/Unified_Modeling_Language) (Unified Modelling Language)
     * [Class Diagram](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-class-diagram/)
@@ -24,24 +21,26 @@ Computer Science Diagram Tooling
 How many of these have you heard of?
 
 * Computing textbooks are full of these formal notations
-* In an exam, students could be asked to:
+* As students, you could be asked to:
     * Translate a flowchart into code
     * Complete a state transition diagram
     * Create SQL statements from an ER Diagram
     * Follow a tree with a depth first search algorithm
     * etc
-* As computing teachers:
-    * We regularly need to create activities with these diagrams
-    * We need tools to make creating these diagrams swifter
+* As a software engineer:
+    * Notations for design proposals or system documentations
+    * Collaborate on diagrams as part of a design meeting (possibly online remotely)
+
 
 ## General purpose drawing tools
 
-* General freeform vector shapes/text - often connectable with lines (sometimes anchorage to shapes)
+* General free-form vector shapes/text - often connectable with lines (sometimes anchorage to shapes)
+    * Just shapes - no underlying data model
 * Examples
     * Drawing tools in Microsoft Office (desktop)
     * [diagrams.net](https://app.diagrams.net/)
 * Problems
-    * Time consuming
+    * Time consuming (to create an modify)
     * Inconsistent layout
     * Difficult to enforce consistent style
 
@@ -49,12 +48,13 @@ How many of these have you heard of?
 * Less human time required
 * Accessibility
 * Consistent styling
-* Trivially distributable and modifiable
+* Trivially distributable, modifiable and version controllable
 
 ## Technology example `Mermaid`
 
 * [Mermaid](https://mermaid-js.github.io/mermaid/)
     * [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/)
+        * Demo diagram types
 
 ### Tutor Demo 1 - Basic syntax
 ```mermaid
@@ -76,59 +76,68 @@ graph TD
     hungry -- No --> stop
 ```
 
-### Task: Create a mermaid flowchart
+### Task: Create a mermaid flowchart (5min)
 
-* Reproduce the following program as a flowchart using [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/) (7 min)
-* Paste your solutions into the chat
-
+* Attempt to reproduce the following program as a flowchart using [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/)
+* I will ask you to _paste your WIP into the chat_ in 5 min
 
 ```
-start program
-init sum to 0 and count to 0
-ask user for a number `n`
-sum=sum+n
-count=count+1
-if count < 5 then ask for the user for another number
-print sum
-stop program
+ask user for username
+if username not exist then
+   ask for username
+init count to 0
+ask user for password
+if password correct then
+    grant access
+if password incorrect then
+    add to count
+    if count < 3 then
+        ask user for password
 ```
 
 (copy and paste this to start)
 ```
 graph TD
     start(Start)
-    init[sum=0 <br> count=0]
-    %% complete this?
-    stop(Stop)
+    input_username[Ask user for username]
+    username_exists{Does the username exist}
+    init_variables[Count = 0]
 
-    start --> init --> stop
+    start --> input_username --> username_exists
+    username_exists -- no --> input_username
+    username_exists -- yes --> init_variables
+
+    %% complete this?
 ```
 
-## Use
+* (Extension: Attempt to reverse engineer the other Mermaid diagram types by observation)
+
+
+## Use (5min)
 
 * Trivially export SVG's
-* Mermaid (and other tech) can be embedded in Markdown
+* Mermaid (and other text) Diagram can be embedded in Markdown documents
+    * [GitLab supports mermaid](https://docs.gitlab.com/ee/user/markdown.html#diagrams-and-flowcharts)
     * [HackMD](https://hackmd.io/) supports mermaid + other renderers
     * [HackMD plugin for vscode](https://marketplace.visualstudio.com/items?itemName=HackMD.vscode-hackmd)
-    * [GitLab supports mermaid](https://docs.gitlab.com/ee/user/markdown.html#diagrams-and-flowcharts)
     * GitHub - does not support mermaid - [Mermaid Support ticket](https://github.community/t/feature-request-support-mermaid-markdown-graph-diagrams-in-md-files/1922/42)
+* [My HackMD Examples](https://hackmd.io/FBO5lLHhQkeWApUisqAHRQ?view)
+    * graphviz, PlantUML, ABC, etc
 
-## Summary
 
-* Learning objective
+## Summary (5min)
+
+* Recap - Learning objective
     * Understand that _formal technical computer science diagrams_ can be represented in _plain text_ and rendered as diagrams
-* Questions?
-* Do you think you will use these tools in future?
-* Next 15min - self exploration ...
-    * Consolidate mermaid flowcharts?
-    * Try another mermaid variant?
-    * Explore other technology's feature-set?
+* We could go on to discuss ...
+    * Advantages/Disadvantages of text based representation
+
 
 ## Further Reading
 
 Explore some of the other diagram tech and types
 
-* Other tech
+* Other text to diagram tech
     * [Mermaid](https://mermaid-js.github.io/mermaid/)
     * [PlantUML](https://plantuml.com/) - text rendering for [UML](https://en.wikipedia.org/wiki/Unified_Modeling_Language) diagrams and more
         * some examples
@@ -140,8 +149,6 @@ Explore some of the other diagram tech and types
         * [Drawing Graphs using Dot and Graphviz](https://www.tonyballantyne.com/graphs.html)
         * [WebGraphViz](http://www.webgraphviz.com/)
         * [create diagrams with code using graphviz](https://ncona.com/2020/06/create-diagrams-with-code-using-graphviz/)
-* All these technologies can be embed in Markdown
-    * [My HackMD Examples](https://hackmd.io/FBO5lLHhQkeWApUisqAHRQ?view)
 * Discussions about why diagrams as code is useful
     * [Filling the void of a physical whiteboard](https://blog.tawhidhannan.co.uk/practices/fill-void-physical-whiteboard/)
 

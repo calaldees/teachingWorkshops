@@ -88,3 +88,12 @@ Use box for inserting(on Blackboard – Assessments) sign the ethical clearance 
 
 What Dunning Kruger is and isnt
 People misinterperit it - critique
+
+---
+
+* Show you are aware of context and limitations of the sources you use
+
+* Critical evaluation - say why
+    * Why choose methodology
+    * Why use source
+    * Why 

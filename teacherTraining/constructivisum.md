@@ -99,6 +99,9 @@ Working with tangible real world objects is a central tenet of Papert’s constr
     * > Tasks need to be designed carefully so that working together is effective and efficient, otherwise some pupils will try to work on their own.
     * > overemphasis on competition can cause learners to focus on winning rather than succeeding in their learning.
 
+Aggerholm, Standal and Hordvik
+low level competition in pe can provide students with meaningful posetive experiences. (small groups)
+Give _option_ for competition gives sense of ownership of their leaning
 
 ### Consider the phrase 'Asking not telling'
 

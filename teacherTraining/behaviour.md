@@ -554,6 +554,8 @@ TODO
 * [A systematic review of how theories explain learning behaviour in school contexts](http://eppi.ioe.ac.uk/cms/Portals/0/PDF%20reviews%20and%20summaries/BM(CCC)_2004review.pdf?ver=2006-03-02-125203-580) Powell, Tod 2004
 * [Behaviour for Learning: Proactive approaches to behaviour management](https://www.tandfonline.com/doi/abs/10.1080/19415250903457687?src=recsys&journalCode=rjie20) Book review 2011
 
+> A fence at the top of a cliff is better than an ambulance at the bottom
+
 * #morethanajob 
     * [anchor.fm/morethanajob](https://anchor.fm/morethanajob/)
     * 3 educators & friends discussing education, current affairs and all the things that make teaching
@@ -572,3 +574,6 @@ Elis and Tod's 2015 Behaviour for leaning framework - trio of factors
       * > Children and young people, especially girls, told us that they do not want to talk about sexual abuse for several reasons, even where their school encourages them to. For example, the risk of being ostracised by peers or getting peers into trouble is not considered to be worth it for something perceived by children and young people to be commonplace. They worry about how adults will react, because they think they will not be believed, or that they will be blamed. They also think that once they talk to an adult, the process will be out of their control.
       * > Children and young people were rarely positive about the RSHE they had received. They felt that it was too little, too late and that the curriculum was not equipping them with the information and advice they needed to navigate the reality of their lives. Because of these gaps, they told us they turned to social media or their peers to educate each other, which understandably made some feel resentful. As one girl put it, ‘It shouldn’t be our responsibility to educate boys’.
       * > In the schools and colleges we visited, some teachers and leaders underestimated the scale of the problem. They either did not identify sexual harassment and sexualised language as problematic or they were unaware they were happening.
+* [EveryonesInvited.uk](https://www.everyonesinvited.uk/read-testimonies-page-1)
+    * List of all schools in the country
+    * This is a wider societal issue

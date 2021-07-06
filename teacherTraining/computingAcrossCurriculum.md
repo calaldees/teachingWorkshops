@@ -523,6 +523,7 @@ Timebox to one hour ... you may be sent links in the chat to try
         * [langauge_frequeny.py](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/data/langauge_frequeny.py)
     * Use application/operating-systems in different languages
 * Textiles
+    * [Knitters and Coders: separated at birth?](https://cs4fn.blog/2021/06/11/knitters-and-coders-separated-at-birth/)
     * Embroidery (cad/cam printers)
         * [A Beginner's Guide to SVGs and machine embroidery applique cutters](https://youtu.be/LBbx-MSjdjU)
         * [Brother Innovis F440 Embroidery Machine](https://www.amazon.co.uk/Brother-Innovis-F440-Embroidery-Machine-White/dp/B01LX9PS2K/)

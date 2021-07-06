@@ -544,6 +544,19 @@ Things I try to avoid:
     * "Add these number together" "Why" "Because it's the task"
     * (This is less of a problem for A-Level as they have chosen the subject)
 
+
+* [Pete Dring](https://twitter.com/pddring/status/1405890060013146118)
+    * > So proud of Holly and Kiri from @fulfordschool
+      > who have just submitted their #MentalHealth app for the @AmazonUK
+      > #LongitudeExplorerPrize. Can you spare a minute to vote for LESLI in the people's choice award? https://longitudeexplorer.challenges.org/vote/ 
+      > #STEM @Stemettes #Tech4Good #CASChat
+    * [longitudeexplorer.challenges.org/finalists-2021](https://longitudeexplorer.challenges.org/finalists-2021/)
+        * Living Better: How can technology to help us stay happy and healthy in our day to day lives, and improve the lives of others?
+        * Living Greener: How can technology help us protect our planet?
+        * Living Together: How can technology help us live together and stay connected in a way that is easy, safe and environmentally friendly?
+        * Living Longer: How can technology meet the needs of an ageing society?
+
+
 ### Real World Context for the Pen/Turtle skills learnt above
 * Decomposition of geomentirc artwork - cultural context
     * [Theo van Doesburg](https://www.google.com/search?q=Theo+van+Doesburg&tbm=isch) (artist using geometric squares and lines)
