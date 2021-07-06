@@ -28,8 +28,10 @@ How many of these have you heard of?
     * Follow a tree with a depth first search algorithm
     * etc
 * As a software engineer:
-    * Notations for design proposals or system documentations
+    * Create design proposals
+    * System Documentation
     * Collaborate on diagrams as part of a design meeting (possibly online remotely)
+        * [Filling the void of a physical whiteboard](https://blog.tawhidhannan.co.uk/practices/fill-void-physical-whiteboard/)
 
 
 ## General purpose drawing tools
@@ -81,6 +83,9 @@ graph TD
 * Attempt to reproduce the following program as a flowchart using [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/)
 * I will ask you to _paste your WIP into the chat_ in 5 min
 
+* (Minimum: Experiment with drawing box's and lines)
+* (Extension: Attempt to reverse engineer the other Mermaid diagram types by observation)
+
 ```
 ask user for username
 if username not exist then
@@ -96,21 +101,19 @@ if password incorrect then
 ```
 
 (copy and paste this to start)
-```
+```mermaid
 graph TD
     start(Start)
     input_username[Ask user for username]
     username_exists{Does the username exist}
-    init_variables[Count = 0]
+    reset_count[Count = 0]
 
     start --> input_username --> username_exists
     username_exists -- no --> input_username
-    username_exists -- yes --> init_variables
+    username_exists -- yes --> reset_count
 
     %% complete this?
 ```
-
-* (Extension: Attempt to reverse engineer the other Mermaid diagram types by observation)
 
 
 ## Use (5min)
@@ -119,7 +122,7 @@ graph TD
 * Mermaid (and other text) Diagram can be embedded in Markdown documents
     * [GitLab supports mermaid](https://docs.gitlab.com/ee/user/markdown.html#diagrams-and-flowcharts)
     * [HackMD](https://hackmd.io/) supports mermaid + other renderers
-    * [HackMD plugin for vscode](https://marketplace.visualstudio.com/items?itemName=HackMD.vscode-hackmd)
+    * [vscode plugin](https://marketplace.visualstudio.com/items?itemName=HackMD.vscode-hackmd)
     * GitHub - does not support mermaid - [Mermaid Support ticket](https://github.community/t/feature-request-support-mermaid-markdown-graph-diagrams-in-md-files/1922/42)
 * [My HackMD Examples](https://hackmd.io/FBO5lLHhQkeWApUisqAHRQ?view)
     * graphviz, PlantUML, ABC, etc
