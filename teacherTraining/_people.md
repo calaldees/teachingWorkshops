@@ -33,3 +33,5 @@ People
 
 * [Professor Christina Preston](https://www.dmu.ac.uk/about-dmu/academic-staff/health-and-life-sciences/christina-preston/christina-preston.aspx)
     * Started mirandanet.ac.uk
+
+* [teacherofsci.com](https://teacherofsci.com/) [@TeacherOfSci1](https://twitter.com/TeacherOfSci1)

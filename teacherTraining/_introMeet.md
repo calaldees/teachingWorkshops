@@ -1,14 +1,14 @@
 Computing: Welcome Meeting
 ==========================
 
-An introduction to the
-  PGCE 7-14,
-  PGCE Secondary and
-  School Direct programmes
-in Computing 2020 - 2021
-
 Subject Tutor for Computing for Secondary ITE, Canterbury Christ Church University
 Allan Callaghan - allan.callaghan@canterbury.ac.uk
+
+An introduction to 
+  PGCE 7-14
+  Secondary
+  School Direct
+Computing
 
 
 Blackboard Collaborate - Etiquette
@@ -25,14 +25,10 @@ Today
 
 * An introduction from/to Allan
 * An opportunity to get to know your peers and create support networks
-* An overview of our new Curriculum for 2020/21
+* An overview of our new Curriculum for 2021/22
 * Subject specific information and tasks for starting the course in September
 * General discussion and opportunity to ask questions
 
-TODO: LSP Apply for
-Student lead - profetional
-Portfolio for you (wanting it to be marked )
-If asked to teach a lesson in html - you are capable - you do
 
 Who
 ---
@@ -41,17 +37,32 @@ Who
 * Who are you?
     * Introductions
 
+Pathways
+--------
+
+* An introduction to the pathways
+    * PGCE 7-14
+    * PGCE Secondary (university managed/focused)
+    * School Direct (school managed/focused)
+        * Salaried
+        * Non-Salaried
+        * Optional: PGCE Enhancement (extra PGCE work)
+* PGce (Postgraduate Certificate of Education) or pgce (Professional graduate certificate of Education)
+* At the end of the course we recommend you to the _Department for Education_ (DfE) for Qualified Teacher Status (QTS)
+
 
 Subject Pedagogy Sessions
 -------------------------
+
+4 days a week in school (subject mentor) + 1 Day a week in university (subject tutor)
 
 * Subject Pedagogy: _How_ to teach Computing
     * > the method and practice of teaching, especially as an academic subject or theoretical concept
     * We will not give you
         * Resources to teach with (no lesson plans, no mark schemes)
 * Reflective Practice
-    * Once you have completed an activity, ask yourself the magical question: So what?
-        * What you have learned,
+    * Once you have completed an activity, ask yourself the magical question: So what ...
+        * what you have learned,
         * what do you now know more about
         * and how might that learning go on to influence your own future practice in the classroom?
     * You will make mistakes (continuously)
@@ -77,34 +88,64 @@ Support
 
 No Teacher is an island - You wont make this journey alone
 
-* University
+* You wont have a frame of reference for what 'normal' looks like.
+* You wont know what support you are entitled to, or what support you might me lacking.
+* Multiple people will be looking out for your and supporting your first teaching steps.
+
+
+* University (as a whole)
 * Subject Tutor
-* School Mentor
+    * Professional Academic Tutor (PAT) - that's me!
+* Subject Mentor (school)
+    * Multiple mentor visits from subject tutor
+* Professional Mentor (school)
 * Peers
-    * 'social coordinators' Organise a WhatAspp group/Facebook page?
-    * Pre-course [Padlet](https://cccu.padlet.org/allancallaghan/sz340htxrake670t)
-        * Some of the other groups have setup a Padlet
 
-You wont have a frame of reference for what 'normal' looks like.
-You wont know what support you are entitled to, or what support you might me lacking.
 
-Multiple people looking out for your and supporting your first teaching steps.
+* Pre-course [Padlet](https://cccu.padlet.org/allancallaghan/sz340htxrake670t)
+    * Some of the other groups have setup a Padlet
 
-* _Expert Beginner_ (A huge change)
-    * You are an accomplished expert and respected in a particular field
-    * Teaching is a different fields
-    * Changing your role/status is hard and unsettling
-        * Age? You may have a mentor younger than you
+* Types of trainees (A wide spectrum)
+    * Your _First Professional Role_ (A huge change)
+        * Moving on from the student/university mindset
+        * What is the expected behaviour of a profession?
+    * _Expert Beginner_ (A huge change)
+        * You are an accomplished expert and respected in a particular field
+        * Teaching is a different fields
+        * Changing your role/status is hard and unsettling
+            * Age? You may have a mentor younger than you
+* Identified formal support process (you, tutor, mentor can raise at any time)
+    * Targetted support plan
+    * Identified concern plan
+
+
+Professionalism
+---------------
+
+Mindset
+
+* Postgraduate Study
+    * You are in the drivers seat
+    * There is no right/wrong mark
+        * some students have the misconception of wanting their folder to be marked
+    * No linear path (no spoon feed)
+    * Your Portfolio is for you - You develop you
+    * You drive mentor meetings
+* You ARE a professional
+    * If asked to teach a lesson on html - you are capable - you do - you ask for guidance if needed.
+* Everyone on your course does not have to be "Your friend" - you are all at differnt points in your lives with differnt attitudes and interests - you don't have to _like_ your colleagues or classmates - you do need to collaborate and communicate professionally (as a requirement of the course - see targeted support plan)
+
+* Professional identity
+    * [The personal and professional selves of teachers: stable and unstable identities](https://www2.uwe.ac.uk/services/Marketing/students/NewStudents%202017%20onwards/PGCE%20Secondary%20reading%20-%20personal%20and%20professional%20selves.pdf) (C.Day et al 2005)
 
 
 What schooling might look like next year?
 -----------------------------------------
 
 * How do we deliver a course _remotely_ or with limited contact?
+    * Plan to have face to face university sessions - but that could change
 
-We had our big staff meeting the other day with regards to the next academic year.
-It’s very interesting and very different indeed.
-
+Education is has been disrupted due to covid ...
 * The idea of dedicated teacher classrooms or even subject areas are a thing of the past
 * No text books
 * No hand-outs
@@ -116,7 +157,7 @@ It’s very interesting and very different indeed.
 * Only examine a random sample and rely on teacher moderation
     * [GCSE reform: a modest proposal](https://learningspy.co.uk/assessment/gcse-reform-a-modest-proposal/) David Didau
 
-It’s all change, and all for at least the next academic year and possibly longer.
+This could be for the next academic year and possibly longer.
 
 
 What can you prepare
@@ -142,8 +183,6 @@ What I can tell you:
 
 What I can’t tell you:
 * Where your placement school(s) will be (for PGCE students)
-* How much of my teaching will be face to face and how much online
-    * (NB you will be sent an update on this to clarify the position later in the summer)
 * What your school experience will “look like”
 
 
@@ -159,8 +198,8 @@ I look forward to seeing you in September.
 
 Dates
 -----
-* 10th September Induction day
-* 11th September Subject Pedagogy Day One
+* 22nd September Induction day
+* 24th September Subject Pedagogy Day One
 
 
 IMPORTANT ACTIONS
@@ -176,8 +215,14 @@ Please note that as part of the enrolment procedure to the programme it is essen
 
 Please note that you are responsible for initiating both the Occupational Health Check and the DBS clearance.
 
-It is important that you are aware now that any student who has not passed through all three checks by the end of registration day in early September 2020 will not be able to start the programme.
+It is important that you are aware now that any student who has not passed through all three checks by the end of registration day in early September 2021 will not be able to start the programme.
 Your place is in jeopardy unless you achieve all three actions above by that date.
+
+## Learning Support Plan (LSP)
+
+You will be assessed/supported with any additional learning needs. 
+This is not automatic. You need to apply for this.
+* [Disability and mental health](https://www.canterbury.ac.uk/study-here/student-life/supporting-you-to-succeed/disability-and-mental-health)
 
 
 Pre-Course Activities
@@ -200,10 +245,14 @@ If you do engage with the activities, then you might want to collate some reflec
 but, again, this is not a requirement.
 It would however help you get into the habit of undertaking professional reflection which will be key to your success next year.
 
+
 NCCE Courses
 ------------
 
-Register for NCCE courses
+* Register for [NCCE courses](https://teachcomputing.org/courses)/CS-Acceslerator-Programme 
+* accrue a [bursary](https://teachcomputing.org/bursary) (for all trainee teachers)
+* Build evidence for subject knowledge development for portfolio
+* Understand what is on the curriculum
 
 
 General Information and Pre Reading
@@ -221,7 +270,7 @@ General Information and Pre Reading
         * CPD, research, best practice
         * Technology, Pedagogy and Education Journal
     * [Education Endowment Foundation](https://educationendowmentfoundation.org.uk/)
-    * [Computer Science Teachers Association](https://www.csteachers.org/) US
+        * Research lead national recommendations for schools
 * Understanding education in the UK
     * [Understanding the UK education system](https://www.schoolswork.co.uk/media/files/Undestanding_the_UK_education_system.pdf) Types of schools
     * [Education system in the uk](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/219167/v01-2012ukes.pdf)
@@ -231,6 +280,15 @@ General Information and Pre Reading
     * [National curriculum in England: computing programmes of study](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study)
     * [Ofsted annual report](https://www.gov.uk/government/collections/ofsted-annual-reports)
     * [AQA GCSE Computing Specification](https://filestore.aqa.org.uk/resources/computing/specifications/AQA-8520-SP-2016.PDF)
+    * [OCR: Computing Qualifications](https://www.ocr.org.uk/Images/268867-computing-qualifications-summary-brochure.pdf) Summary Brochure od types of qualifications
+* New Teacher _Dunk Tank_
+    * [The New Teacher Mega Guide. Everything you need in 10 Videos](https://teacherofsci.com/new-teacher-mega-guide/)
+    * [CAS: Computing in the national curriculum - A guide for secondary teachers](https://www.computingatschool.org.uk/data/uploads/cas_secondary.pdf)
+    * Basic Learning theories
+        * [15 Learning Theories in Education (A Complete Summary)](https://teacherofsci.com/learning-theories-in-education/)
+            * [An Introduction to Learning Theories.: 15 of the most influential learning theories, simplified and explained](https://www.amazon.co.uk/gp/product/B084QDNWVJ/)
+        * [lumenlearning.com/educationalpsychology](https://courses.lumenlearning.com/educationalpsychology/)
+            * [Major theories and models of learning](https://courses.lumenlearning.com/educationalpsychology/chapter/major-theories-and-models-of-learning/)
 * eBooks
     * [Handbook for Education Professionals](https://www.amazon.co.uk/Handbook-Education-Professionals-University-Bristol-ebook/dp/B07W7DGG5X/) £5 eBook
         * [printed copy](http://bristol.ac.uk/education/expertiseandresources/bristolguide/) £9
@@ -239,14 +297,11 @@ General Information and Pre Reading
         * Demystifying our traditional approaches to teaching and learning and why they might be wrong
     * [Computer Science Education: Perspectives on Teaching and Learning in School](https://www.amazon.co.uk/Computer-Science-Education-Erik-Barendsen/dp/135005710X/) Sue Sentence
         * Targeted perspectives for teaching Computing
-* Teaching Resources
+* Computing Teaching Resources
     * [AQA AS and A Level Computer Science](https://www.amazon.co.uk/AQA-AS-Level-Computer-Science/dp/1910523070/) PM Heathcoat
         * Good A-Level reference
     * [Craig and Dave](https://craigndave.org/)
     * [Microbit](https://microbit.org/)
-* Online Courses
-    * [OpenLearn](https://www.open.edu/openlearn/free-courses/full-catalogue) OpenUniversity free courses
-    * [The Open University: How to Learn Online: Getting Started](https://www.futurelearn.com/courses/online-learning)
 * News Sources
     * [News and communications: Department for Education](https://www.gov.uk/search/news-and-communications?organisations%5B%5D=department-for-education)
     * [BBC News: Education](http://www.bbc.co.uk/news/education/)
@@ -257,8 +312,10 @@ General Information and Pre Reading
     * [TeacherTapp](https://teachertapp.co.uk/)
         * > three quick multiple choice questions about their day or their opinions on teaching
         * See results, Access ongoing CPD
-* Qualification Overviews
-    * [OCR: Computing Qualifications](https://www.ocr.org.uk/Images/268867-computing-qualifications-summary-brochure.pdf) Summary Brochure
+* Other institutions pre-course recommendations
+    * [Preparing for a PGCE in secondary computing](http://milesberry.net/2020/07/preparing-for-a-pgce/) Mile Berry 2020
+    * [UWE Bristol: Secondary PGCE pre-course information Computer Science](https://www2.uwe.ac.uk/services/Marketing/students/NewStudents%202017%20onwards/PGCE%20Computer%20Science.pdf)
+
 
 
 Your Computing Skills
@@ -266,7 +323,7 @@ Your Computing Skills
 
 * As the course concentrates on teaching pedagogies, rather than spending time on improving your computing skills, you should take the opportunity ‘brush up’ your subject knowledge.
     * Once the course starts your time will be significantly limited
-* You've all done a subject knowledge audit with your application. We will revisit this multiple times throughout the course
+* You've all done a subject knowledge audit with your application. This document will be reworked before September. We will track your subject knowledge development.
 
 Suggested activities
 
@@ -279,12 +336,14 @@ Suggested activities
 * Have access to multiple programming languages
     * Create _Hello World_ in a couple of languages
     * Heavily used
-        * [Python]
+        * [Python](https://www.python.org/)
         * [Scratch](https://scratch.mit.edu/)
     * Other suggestions
         * [Visual Studio Community: Visual Basic or C#](https://visualstudio.microsoft.com/vs/community/)
         * [Java](https://adoptopenjdk.net/)
         * Other (I don't mind)
+    * [replit](https://replit.com/)
+        * Browser based instant collaborative development environment for a large variety of languages.
 * Experiment with a piece of hardware
     * [RaspberryPi](https://www.raspberrypi.org/)
     * [Microbit](https://microbit.org/)
@@ -304,17 +363,3 @@ Additional Resources
     * By the end of term, however, even Wiliam is surprised by the impact the experiment has had on the students' academic achievement.
     * [Part 1](https://www.youtube.com/watch?v=J25d9aC1GZA) 1 hour
     * [Part 2](https://www.youtube.com/watch?v=1iD6Zadhg4M) 1 hour
-
-
-TODO
-====
-
-* [teacherofsci.com](https://teacherofsci.com/) [@TeacherOfSci1](https://twitter.com/TeacherOfSci1)
-    * [15 Learning Theories in Education (A Complete Summary)](https://teacherofsci.com/learning-theories-in-education/)
-        * [An Introduction to Learning Theories.: 15 of the most influential learning theories, simplified and explained](https://www.amazon.co.uk/gp/product/B084QDNWVJ/)
-    * [The New Teacher Mega Guide. Everything you need in 10 Videos](https://teacherofsci.com/new-teacher-mega-guide/)
-* [lumenlearning.com/educationalpsychology](https://courses.lumenlearning.com/educationalpsychology/)
-    * [Major theories and models of learning](https://courses.lumenlearning.com/educationalpsychology/chapter/major-theories-and-models-of-learning/)
-* [UWE Bristol: Secondary PGCE pre-course information Computer Science](https://www2.uwe.ac.uk/services/Marketing/students/NewStudents%202017%20onwards/PGCE%20Computer%20Science.pdf)
-* [University of Southampton: Computing interview process](https://www.efolio.soton.ac.uk/blog/itcs/what-is-the-interview-process/)
-* [Preparing for a PGCE in secondary computing](http://milesberry.net/2020/07/preparing-for-a-pgce/) Mile Berry 2020

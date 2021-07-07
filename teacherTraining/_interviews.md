@@ -153,3 +153,9 @@ Tracking Spreadsheet has different criteria:
 * Resilience, dedication, sense of purpose
 * Creative and critical thinking
 * Reflective in response to feedback
+
+
+Other Institutions Interview Reference
+--------------------------------------
+
+* [University of Southampton: Computing interview process](https://www.efolio.soton.ac.uk/blog/itcs/what-is-the-interview-process/)
