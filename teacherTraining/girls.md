@@ -46,3 +46,36 @@ Family planing and support
 * [Technology and sexuality – what's the connection? Addressing youth sexualities in efforts to increase girls' participation in computing](https://www.tandfonline.com/doi/abs/10.1080/17439884.2014.933847)
     * > Concerns about this under representation have sparked a wealth of educational efforts to promote girls’ participation in computing, but these programs have demonstrated limited impact on reversing current trends. This paper argues that this is, in part, because these programs tend to take a narrow view of their purpose, ignoring important factors that shape girls’ identities and education/career choices – not least broader narratives around gender, race, and sexuality.
     * TODO read
+
+
+---
+
+
+Charlene Hunter
+---------------
+
+Founder of Coding Black Females
+
+* [codingblackfemales.com](https://codingblackfemales.com)
+    * Podcasts, bootcamps, mentors, showcase, free events and training, community.
+    * 2 events a month
+        * Talk about what it's like being in tech
+    * 1 day workshops
+        * intro to coding
+        * intro to cybersecurity
+    * Courses for community
+        * Leadership
+    * Free training if income less than £25,000pa
+    * Mock interviews
+    * Support recruitment
+    * Community network (to support retention in smaller companies that may not have many black women)
+    * 3500 members (2021)
+    * Train them to code while building an actual business
+    * Working with jamaica + other countries
+* [Black CodHer](https://blackcodher.com)
+    * Free laptops and training bootcamps
+    * Black women make up 0.7%
+* [blackdevs.uk](https://www.blackdevs.uk/)
+    * Young men
+
+

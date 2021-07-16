@@ -428,6 +428,8 @@ Timebox to one hour ... you may be sent links in the chat to try
 * Languages
     * English Grammar
         * [grammar.py](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/data/grammar.py)
+    * Language detection (by letter frequency)
+    * Insult generator
     * Phonetic Name Generator
         * [Generating Names Phonetically](https://www.flipcode.com/archives/Generating_Names_Phonetically.shtml)
     * [Botnik](https://botnik.org/)

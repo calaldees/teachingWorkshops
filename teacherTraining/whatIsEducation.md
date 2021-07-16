@@ -746,3 +746,19 @@ School isnt going to tell you how to get to where you want to be in life - you n
 * [officeforstudents.org.uk - young-participation-by-area](https://www.officeforstudents.org.uk/data-and-analysis/young-participation-by-area/)
     * Interactive maps
         * See how likely young people are to participate in higher education according to where they live
+
+
+---
+
+How is knowing how computer work worthwhile for these students?
+
+Computer Science is one size fits all - no founcadtion paper, no double GCSE module.
+The paper is science, smart, hard, are you good enough?
+(How do we foster creativity?)
+
+Hard for stdents to learn by themselfs - lots of abstract content
+
+Pipeline problem with minorities
+Inclusion
+
+Not enough ICT - digital content creator

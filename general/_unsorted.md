@@ -71,3 +71,9 @@
 
 > I wish people wouldn't say "everyone is X" (in this case, "everyone is excited by AI", which they're not).
 > It's a huge "I buy into this group bias thing and so should you" bit of peer pressure.
+
+* [Is Geothermal Really Going to be a Thing?](https://austinvernon.eth.link/blog/geothermal.html)
+    * Really good breakdown of how geothermal works
+
+
+

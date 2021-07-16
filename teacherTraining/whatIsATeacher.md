@@ -50,8 +50,11 @@ Society bundles Computer Science, ICT, Digital Literacy into the same pot.
 
 [The Distribution of Users’ Computer Skills: Worse Than You Think](https://www.nngroup.com/articles/computer-skill-levels/)
 
+TODO: https://www.manchesterdigital.com/talent-and-skills/digital-skills-audit
+
 * Some year 7's have never used a keyboard
     * Logging on is a lesson (tears/frustration)
+* Don't know how to turn a computer on
 
 
 ### Recent influences in Computing teaching

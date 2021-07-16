@@ -116,6 +116,24 @@ combinations of PKC in the form GO-IS
 * [Those Who Understand: Knowledge Growth in Teaching](https://www.wcu.edu/WebFiles/PDFs/Shulman.pdf)
     * TODO
 
+
+Hidson. E 2020
+
+* PCK by proxy
+* There is an unheard commentary that is a part of any shared lesson resource.
+    * You would normally have this by talking to the other teacher
+* Lesson resources are missing _pedagogical metadata_
+* _Why_ we do what we do
+
+* Pedagogical reasoning - Know how to:
+    * Know what you need to be able to teach
+    * Know how to find it
+    * How to repurpose it
+    * How to teach with it
+
+* [European Framework for the Digital Competence of Educators: DigCompEdu](https://publications.jrc.ec.europa.eu/repository/handle/JRC107466)
+
+
 ### Your development phases
 
 * Unconscious incompetence
@@ -629,3 +647,8 @@ Other?
 -----
 
 * TES [5 ways to cope with compassion fatigue](https://www.tes.com/news/5-ways-cope-compassion-fatigue) 2021 - If you find yourself close to your emotional limit, keep these wellbeing tips in mind
+
+
+* [Teacher Training Resource Bank](https://webarchive.nationalarchives.gov.uk/20101008123030/http://www.ttrb.ac.uk//index.aspx) 2010
+    * A consortium of universities created resources for national strategy
+    * This includes things like "How do you tackle racism in the classroom"

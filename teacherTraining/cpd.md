@@ -572,3 +572,9 @@ Some of my thoughts:
     * Busy work - treading water - at your limit
 * Do their objectives align with yours?
 * Coaching/Collaboration (less didactic)
+
+
+---
+
+* TPEA Grants for early carrer teachers wanting to do action research
+
