@@ -48,7 +48,9 @@ Pre-Reading
 -----------
 
 * [The genius of DT Willingham and WDSLS](https://teacherhead.com/2021/06/22/the-genius-of-dt-willingham-and-wdsls/) - Tom Sherrington 2021
+    * [Why Don’t Students Like School](https://www.aft.org/sites/default/files/periodicals/WILLINGHAM%282%29.pdf) - as featured in American Educator
     * [Why Don′t Students Like School?: A Cognitive Scientist Answers Questions About How the Mind Works and What It Means for the Classroom](https://www.amazon.co.uk/Why-Don′t-Students-Like-School/dp/1119715660/) 2nd Edition June 2021 - 1st Edition Feb 2010
+    
 
 [Understanding How we Learn - A visual guide](https://www.learningscientists.org/book) 2018
 [visuals by oliver calgary](https://www.olicav.com/#/understanding-how-we-learn/)

@@ -292,6 +292,9 @@ General Information and Pre Reading
 * eBooks
     * [Handbook for Education Professionals](https://www.amazon.co.uk/Handbook-Education-Professionals-University-Bristol-ebook/dp/B07W7DGG5X/) £5 eBook
         * [printed copy](http://bristol.ac.uk/education/expertiseandresources/bristolguide/) £9
+    * [Teaching Tech Together: How to create and deliver lessons that work and build a teaching community around them](https://teachtogether.tech/) 2019 Greg Wilson
+        * Outstanding Computing pedagogical advice
+        * Free eBook or [paperback](https://www.routledge.com/Teaching-Tech-Together-How-to-Make-Your-Lessons-Work-and-Build-a-Teaching/Wilson/p/book/9780367352974)
 * Books
     * [What If Everything You Knew About Education Was Wrong?](https://www.amazon.co.uk/Everything-About-Education-Wrong-Paperback/dp/1785831577/) David Didau
         * Demystifying our traditional approaches to teaching and learning and why they might be wrong

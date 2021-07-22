@@ -652,3 +652,7 @@ Other?
 * [Teacher Training Resource Bank](https://webarchive.nationalarchives.gov.uk/20101008123030/http://www.ttrb.ac.uk//index.aspx) 2010
     * A consortium of universities created resources for national strategy
     * This includes things like "How do you tackle racism in the classroom"
+
+* [The Biggest Myth In Education](https://www.youtube.com/watch?v=rhgwIhB58PA) - learning styles
+    * you are not a visual learner
+    * be critical
