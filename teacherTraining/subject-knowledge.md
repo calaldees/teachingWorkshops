@@ -259,6 +259,9 @@ Remote Computer Science Accelerator (CSA) courses
 14. Introduction to algorithms, programming and data for D&T teachers - Learn how to use programming techniques using VEX, Crumble or Micro:bits. Create simple block-based computer programs, discover how to create algorithms and how computers use data.
 15. Maths in computer science - Mathematics is firmly embedded at the core of computer science, during this course you’ll explore the foundational topics at the heart of mathematics and computer science.
 
+* [Computer Science Accelerator - Programme evaluation: Cohort 2 - Research conducted by Rachel Dunford Consulting Ltd](https://static.teachcomputing.org/Computer_Science_Accelerator_Cohort_2_Evaluation.pdf) July 2021
+    * Evidence of effectiveness of program
+
  Cisco Packet Tracer
 --------------------
 

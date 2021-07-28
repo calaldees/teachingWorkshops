@@ -46,13 +46,16 @@ V: Successful incorporation of subject and pedagogical research and/or scholarsh
 The use of learning technology (700 words)
 ------------------------------
 
-One of the barriers for students to engage with computer programming is setup of a software development environment. Developments environments are complex to setup and often have many 'moving parts'. Because most software projects are complex, most modern tools ask a range of questions about the project setup. If a novice programmer wants to experiment with a 3 or 4 line program, they have to navigate multiple dialogues with terminology the learner is not yet familiar with. This is daunting and unsettling for learners. It also creates a barrier in class when as a teacher I need to demo a concept quickly.
+Using industry standard software tooling to teach introductory programming has benefits and drawbacks.
 
-To tackle this problem, Cloud/web-browser based development environments are becoming more common in education settings. These are systems where learners can be given a URL and they can begin coding with zero setup time. 
+One of the barriers for students to engage with computer programming is setup of a software development environment. Professional software development environments are complex to setup and often have many 'moving parts' (Choy & Kwan 2005). When starting a new software project, because most industry software projects are complex, most modern tools ask a range of questions about the project setup. If a novice programmer who's objective is to  experiment with a 3 or 4 line program, they have to navigate multiple dialogues with terminology that the learner is not yet familiar with. This is daunting and unsettling for learners. 
 
-* [The Potentials of Using Cloud Computing in Schools: A Systematic Literature Review](https://eric.ed.gov/?id=EJ1124903) Hartmann, et al 2017
-    * Codifys the theams that barriers for cloud computing in education
-        * technical, admistrative, economy, timesaving, collaboration, flexability, easyer access to education
+This setup issue is also problematic for lecturers. Demoing simple concepts quickly is contaminated by slow arduous setup steps. These are especially noticeable when demonstrating these concepts live.
+
+To tackle this problem, Cloud/web-browser based development environments are becoming more common in education settings. 
+50% of development environments used in HE education are now accessible online through a web-browser (Sim & Lau 2018).
+Learners can be given a URL and they can begin coding with reduced setup time.
+
 
 
 https://replit.com/teams-for-education
@@ -76,7 +79,7 @@ https://replit.com/teams-for-education
 https://codetasty.com/
 https://www.gitpod.io/
 
-[CrownLabs—A Collaborative Environment toDeliver Remote Computing Laboratories](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9136697) MARCO IORIO May 2020
+[CrownLabs—A Collaborative Environment to Deliver Remote Computing Laboratories](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9136697) MARCO IORIO May 2020
 Department of Computer and Control Engineering, Politecnico di Torino, 10129 Turin, Italy
 
 
@@ -98,6 +101,15 @@ k4 The use and value of appropriate learning technologies
 program to generate individual questions for students
 
 
+* [A Web-Based Environment to Improve Teaching and Learning of Computer Programming in Distance Education](https://link.springer.com/chapter/10.1007/11528043_28) 2005     S. C. Ng S. O. Choy R. Kwan S. F. Chan
+* [Online Tools to Support Novice Programming: A Systematic Review](https://ieeexplore.ieee.org/abstract/document/8632649) 2018 Sim & Lau
+
+* [The Potentials of Using Cloud Computing in Schools: A Systematic Literature Review](https://eric.ed.gov/?id=EJ1124903) Hartmann, et al 2017
+    * Codifys the theams that barriers for cloud computing in education
+        * technical, admistrative, economy, timesaving, collaboration, flexability, easyer access to education
+
+
+
 Assessment and feedback practice (700 words)
 --------------------------------
 A3 assessment give feedback
@@ -117,42 +129,47 @@ subject knowledge audit revamp
 * [Aligning software engineering education with industrial needs: A meta-analysis](https://www.sciencedirect.com/science/article/pii/S0164121219301347)
     * requirements, design and testing, SE process)
 
-Other (700 words)
------
+
+Other - Enhancing Recruitment Practice (700 words)
+--------------------------------------
 
 
 I am part of Initial Teacher Training and Education (ITTE) and deliver the PGCE in Secondary Computing for Canterbury Christ Church University. I'm going to discuss students retention in the context of teacher training. I will describe the withdrawals from the course this year as a case study and attempt to analyse possible actions to improve retention in future years.
 
-* > Every student that drops out of their higher education course is a loss: a loss to their university or college, a loss to the future economy and, above all, a loss to that individual. <sub>Professor Patricia Broadfoot 2017</sub>
+As educators we are under pressure to recruit for our courses. Without enrolment our courses and organisation are not financially viable. We are also accountable for our retention rates. If our retention rates are not in-line with the national average, the OfS may suspend our ability to deliver our courses. (OfS 2018) (D2 V)
 
-From a cohort of 9 candidates, 4 completed, 5 withdrew/interrupted/extended. That's over 50% loss.
-
-### Equity of School Experience
-
-(Paul Hamlyn Foundation 2017) states "feeling a part of your course of study and the institution" is one of the biggest drivers of retention.
-
-(Velle 2020) highlights the challenges with teacher training during a pandemic. "both schools and universities, raised significant issues of both equity and pedagogy". Some schools felt burdened by student teachers. One candidate of mine had a placement terminated quite quickly. They were alienated and alone until a second placement was organised. The second school welcomed the students Computing expertise. The student felt valued and needed. "That was exactly want I wanted, to feel needed". It transformed that students engagement with the course.
-
-In conventional courses, the delivery of all aspects of a course are controlled by the delivery team. The PGCE differers because the majority of time is actively training in schools. We are not in control of entire experience of the students. Each school experience is unique. How can we give our students an equitable experience with so many elements being outside of our direct sphere of influence? In my role of QAing school mentors, I will ask them to emphasise a sense of belonging for their placement students as a priority.
-
-### Recruitment
-
-As educators we are under pressure to recruit for our courses. Without enrolment our courses and organisation are not financially viable. We are also accountable for our retention rates. If our retention rates are not in-line with the national average, the OfS may suspend our ability to deliver our courses.
-
-I am involved in interviewing candidates for the Secondary Computing PGCE course. I am supported in these interviews by subject mentors that are active teachers from our partnership of local schools. There is ongoing QA of our interview process from other teacher trainers. 
-
-We support a diverse range of learners (V1 Individual Learners). (Osher 2020) describes how university leavers are 'left in the dark' and are not provided appropriate guidance with transitioning to the world of professional work. One of my young candidates that withdrew stated in an exit interview "I don't know where I fit-in in the world". The student cited that as there were only a few years in age difference between them and the secondary school students, they felt like they were misplaced as a member of teaching staff. (V4 Wider Context). 
-
+In a drive to recruit more teachers the DfE stated:
 > The process to become a teacher is too complicated and burdensome. We will radically simplify the process for becoming a teacher
 DfE [Teacher Recruitment and Retention Strategy](https://www.gov.uk/government/publications/teacher-recruitment-and-retention-strategy) 2019
-
 As an institution we are no longer able to mandate experience in schools as a requirement. Could we be removing needed barriers for candidates to consider the gravity of the profession?
-My new strategy when conducting my PGCE interviews is I describe the historical situation that younger students have found themselves in and ask the interview candidate to describe why they might succeed where others have not. We should recognise potential, but we should not knowingly entice candidates that we suspect might be not understand the realities of the profession. I will be more discerning in future and specifically prompt for my co-interviewers opinion about the candidates rational for enrolling on the course. (K6 QA)
 
-According to (Vare, et al 2003). The biggest predictors of success in Initial Teacher Education was candidates SAT's scores from secondary school. IQ and academic achievement are important factors but this cannot be taken in isolation.
+My statistics for my cohort of trainee computing teachers. 9 students. 6 PGCE, 3 School Direct (see Hodgson J 2013). Only 4 students completed (44%). This is unacceptable. Recruitment of candidates plays a role in these figures. Other factors such as availably of student support would need also need to be investigated.
+
+At CCCU we support a diverse range of learners (V1 Individual Learners). (Osher 2020) describes how university leavers are 'left in the dark' and are not provided appropriate guidance with transitioning to the world of professional work. One of my young candidates that withdrew stated in an exit interview "I don't know where I fit-in in the world". The student cited that as there were only a few years in age difference between them and the secondary school students, they felt like they were misplaced as a member of teaching staff. (V4 Wider Context). 
+
+Multiple of the PGCE students that withdrew were young and had the relevant entry qualifications. According to (Vare, et al 2003). The biggest predictors of success in Initial Teacher Education was candidates SAT's scores from secondary school. IQ and academic achievement are important factors but this cannot be taken in isolation. I think this is only part of the story. If candidates do not posses the correct rational for training to teach, it is unlikely they will be successful. Young (1995) comments that aspiring trainees could have a 'distorted view' of what teaching entailed, leaving the profession as they began to understand the reality's of the role.
+
+My new strategy when conducting my PGCE interviews is I describe the historical situation that younger students have found themselves in and ask the interview candidate to describe why they might succeed where others have not. We should recognise potential, but we should not knowingly entice candidates that we suspect might be not understand the realities of the profession. I have vetted this question with the 'secondary teacher training lead' as part of ongoing QA of our process (K6 QA).
+
+Mullinix 2002, highlights the importance of 'retaining teacher mentors'. If are mentors are active participants in the recruitment process xxx. As part of my role I have contacted computing teacher mentors across our partnership schools. We have rearranged our interview times so that school mentors can participate in our PGCE trainee recruitment. When discussing the candidates after interview I ask them; "Would you be happy mentoring this applicant in your school? Why? Or why not?". I also confer with mentors about the nature of the candidates motivation and their suitability for the profession.
+
+By including mentors in the process of recruitment I hope to build a stronger bond with the training process in schools. By understanding both the individual students and the mentors backgrounds and strengths, I should be able to collaborate with mentors when allocating school placements. By enhancing the personalised allocation of placements and giving the mentor some ownership of the placment student xxx learning will be more personalised . I expect to see retention rates improve.
 
 
 
+
+
+<!--
+good mentor guide - book  https://ulms.ent.sirsidynix.net.uk/client/en_GB/CCCU/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:1194782/ada?qu=teacher+education+mentor&if=el%09edsSelectFacet%09FT&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1194782%7EILS%7E3&ir=Both&h=8
+-->
+
+
+
+* [OfS: Regulatory Advice 3: Registration of new providers for 2019-20](https://www.officeforstudents.org.uk/media/1100/ofs2018_05.pdf) Item 65 pg 15
+* [Selecting and Retaining Teacher Mentors](http://www.vtaide.com/png/ERIC/Selecting-n-Retaining-Teacher-Mentors.htm) Mullinix, Bonnie B. 2002
+* [Surveying the wreckage: the professional response to changes to initial teacher training in the UK]() Hodgson J, 2013
+Yong, B.C.S. (1995) Teacher trainees’ motives for entering into a teaching career in Brunei
+Darussalam. Teaching and Teacher Education 11 (3), 275– 80
 
 ### (TODO? remove?) Professional Communication Skills
 
@@ -212,6 +229,20 @@ sutability to teach pannel
 
 [Making the Grade: Predicting Retention in Undergraduate Teacher Education](https://journals.sagepub.com/doi/abs/10.2190/D0M6-GH6Y-9WT9-RKN7) Jonatha W. Vare, et al 2003
 600 students sat scores and origin school
+
+
+
+* > Every student that drops out of their higher education course is a loss: a loss to their university or college, a loss to the future economy and, above all, a loss to that individual. <sub>Professor Patricia Broadfoot 2017</sub>
+
+From a cohort of 9 candidates, 4 completed, 5 withdrew/interrupted/extended. That's over 50% loss.
+
+### Equity of School Experience
+
+(Paul Hamlyn Foundation 2017) states "feeling a part of your course of study and the institution" is one of the biggest drivers of retention.
+
+(Velle 2020) highlights the challenges with teacher training during a pandemic. "both schools and universities, raised significant issues of both equity and pedagogy". Some schools felt burdened by student teachers. One candidate of mine had a placement terminated quite quickly. They were alienated and alone until a second placement was organised. The second school welcomed the students Computing expertise. The student felt valued and needed. "That was exactly want I wanted, to feel needed". It transformed that students engagement with the course.
+
+In conventional courses, the delivery of all aspects of a course are controlled by the delivery team. The PGCE differers because the majority of time is actively training in schools. We are not in control of entire experience of the students. Each school experience is unique. How can we give our students an equitable experience with so many elements being outside of our direct sphere of influence? In my role of QAing school mentors, I will ask them to emphasise a sense of belonging for their placement students as a priority.
 
 
 

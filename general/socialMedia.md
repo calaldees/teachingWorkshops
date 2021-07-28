@@ -101,3 +101,6 @@ Social Media
 
 * [How to have better arguments online](https://www.theguardian.com/society/2021/feb/16/how-to-have-better-arguments-social-media-politics-conflict)
     * The troubled times we live in, and the rise of social media, have created an age of endless conflict. Rather than fearing or avoiding disagreement, we need to learn to do it well
+
+* [Historical language records reveal a surge of cognitive distortions in recent decades](https://www.pnas.org/content/118/30/e2102061118.full)
+    * > Can entire societies become more or less depressed over time? Here, we look for the historical traces of cognitive distortions, thinking patterns that are strongly associated with internalizing disorders such as depression and anxiety, in millions of books published over the course of the last two centuries in English, Spanish, and German. We find a pronounced “hockey stick” pattern: Over the past two decades the textual analogs of cognitive distortions surged well above historical levels, including those of World War I and II, after declining or stabilizing for most of the 20th century. Our results point to the possibility that recent socioeconomic changes, new technology, and social media are associated with a surge of cognitive distortions.

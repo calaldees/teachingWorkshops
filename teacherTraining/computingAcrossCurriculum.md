@@ -345,6 +345,8 @@ Timebox to one hour ... you may be sent links in the chat to try
         * [Scale the Universe 2](https://www.htwins.net/scale2/)
         * [Powers of 10](https://www.youtube.com/watch?v=0fKBhvDjuy0) - 1977
 * Biology
+    * [BirdNET](https://birdnet.cornell.edu/) - The easiest way to identify birds by sound.
+        * Audio analysis for bird recognition
     * [BioNumbers](https://bionumbers.hms.harvard.edu/) - a database of useful biological numbers
     * Conways game of life? - Emergent behaviour from simple rules
         * [conway.md](https://github.com/ComputingTeachers/mapOfComputing/blob/main/computing/conway.md)

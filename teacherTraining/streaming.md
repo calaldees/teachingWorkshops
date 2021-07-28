@@ -1,6 +1,15 @@
 Streaming
 =========
 
+Percieved performance
+ fontend - progress bars - loading animations - active ui
+Percieved intenigence audio quality
+
+Pereived profetionalisum of our offering
+National student survey
+
+
+
 A little goes a long way
 
 https://cccu.canterbury.ac.uk/marketing-and-communications/services/corporate-identity.aspx
@@ -31,7 +40,11 @@ Audio Software
 Camera
 ------
 
-https://www.amazon.co.uk/Microphone-Privacy-Streaming-Webcams-Conference/dp/B08SLWH6L9/ref=sr_1_18?dchild=1&keywords=webcam+usb-c&qid=1626451015&sr=8-18
+https://www.amazon.co.uk/Microphone-Privacy-Streaming-Webcams-Conference/dp/B08SLWH6L9/
+
+* [How To REMOVE GO PRO FISHEYE LENS In OBS - Fisheye Correction Filter](https://www.youtube.com/watch?v=O_gUKXpmjZ4)
+    * [OBS Shaderfilter Version 1.21](https://obsproject.com/forum/resources/obs-shaderfilter.775/)
+    * [fisheye.shader](https://raw.githubusercontent.com/exeldro/obs-lua/master/fisheye.shader)
 
 
 Open Broadcast Studio (OBS)
@@ -49,3 +62,8 @@ https://www.amazon.co.uk/s?k=diffuse+lighting
 
 
 
+Visualiser
+----------
+
+* [Laboratory Stand Clamp 30cm](https://www.amazon.co.uk/gp/product/B07P6V7VW5/)
+* 
