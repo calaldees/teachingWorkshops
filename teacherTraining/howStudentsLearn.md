@@ -601,7 +601,8 @@ Bastow 2020
 Student who have a study session followed by a session retrival proacice did at least 30 better in final examinations
 Bastow and Watson 2019-2020
 Moreira, Pinto, Starling and Jaeger "retreval yields greater long term retention fo the studied material than just restuying"
-
+* [Does research on retrieval practice translate into classroom practice?](https://impact.chartered.college/article/does-research-retrieval-practice-translate-classroom-practice/) Robert Coe 2020
+    * yes and no ...
 
 Sweller 2011 - "transient information effect" - loose key information due to overwelming cognitive loads
 
