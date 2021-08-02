@@ -46,31 +46,47 @@ V: Successful incorporation of subject and pedagogical research and/or scholarsh
 The use of learning technology (700 words)
 ------------------------------
 
+(K4 The use and value of appropriate learning technologies)
+
 Using industry standard software tooling to teach introductory programming has benefits and drawbacks.
 
-One of the barriers for students to engage with computer programming is setup of a software development environment. Professional software development environments are complex to setup and often have many 'moving parts' (Choy & Kwan 2005). When starting a new software project, because most industry software projects are complex, most modern tools ask a range of questions about the project setup. If a novice programmer who's objective is to  experiment with a 3 or 4 line program, they have to navigate multiple dialogues with terminology that the learner is not yet familiar with. This is daunting and unsettling for learners. 
+One of the barriers for students to engage with computer programming is setup of a software development environment. Professional software development environments are complex to setup and often have many 'moving parts' (Choy & Kwan 2005). When starting a new software project, most modern tools ask a range of questions about the project setup. If a novice programmer who's objective is to  experiment with a 3 or 4 line program, they have to navigate multiple dialogues with terminology that the learner is not yet familiar with. This is daunting and unsettling for learners.
 
-This setup issue is also problematic for lecturers. Demoing simple concepts quickly is contaminated by slow arduous setup steps. These are especially noticeable when demonstrating these concepts live.
+This setup issue is also problematic for lecturers. Demoing simple concepts quickly is contaminated by slow arduous setup steps. These are especially noticeable when demonstrating these concepts live to class's.
 
 To tackle this problem, Cloud/web-browser based development environments are becoming more common in education settings. 
 50% of development environments used in HE education are now accessible online through a web-browser (Sim & Lau 2018).
 Learners can be given a URL and they can begin coding with reduced setup time.
 
+At Canterbury Christ Church University we teach using "Microsoft Visual Studio". While teaching "Application Development with C#" I found I repeatedly wanted to demo techniques without disrupting the students actively loaded project. I also wanted to give students a constrained sandbox to focus/develop one technique. 
 
+ I was able to create a url with a working C# programming environment and an example of a bubble-sort algorithm written in another language (in this case Java). 
+
+Using a service called "repl.it", I constructed a coding exercise (A1 Design and Plan). I listed a complete 'Java' program to implement a bubble-sort algorithm. I also created a stub starter scaffold for a bubble-sort in the the target language for the learner of 'C#' (K1 Subject Knowledge). The task was to implement bubble-sort in C#. As I identified students that needed extra support, I was able to direct them to my additional support activity. With one url students had a code environment presented to them with supporting text.
+
+Student feedback was excellent. Once students completed the support task they were able to integrate the solutions into their project. Out of a class size of 68 students, I refereed 20 of them to my support activity. Some remarked "why didn't we start with this". This was fed back to the module lead. 
+
+Next year we intend to use an extended period of training material. Rather than relying on an external service like "repl.it", we should be able to house something similar internally using "jupyter.org". Jupyter notebooks would allow code examples to be displayed interactively as a development environment embedded in a webpage. Jupyter notebooks have successfully been used in some select education settings (Johson 2020). I am working with the wider School of Computing to develop our use of Jupyter notebooks. (A1 design and plan, K1 Subject knowledge)
+
+The pandemic this year has amplified the disadvantage of some students. During my delivery of Application Development in C# (MCOMD1ADC)
+Students that had 'Apple mac' or lower spec computers were unable to participate at home as they required a Windows 10 PC to use Microsoft Visual Studio. These students has had limited access to campus and struggled to participate remotely. (V2 promote participation, V4 Wider context, K6 quality enhancement)
+
+I have begun to experiment with 'Cloud' based development environments. The development environment would run remotely on the cloud and allowing students with low spec machines to access the tooling. IORIO 2020, describes how the Politecnico di Torino in Italy have provided cloud based development environments to their entire Computing cohort. I am in the process of designing an upcoming module "Frameworks and Languages" that is constructed with a 'Cloud first' mentality to give a consistent experience to all students. (A1 design and plan, K1 Subject knowledge). I am investigating "codetasty.com" and "gitpod.io". (Hartmann 2017, Antonova 2020) consider cloud based development environments the way forward for education as it removes technical, administrative and economic barriers. It is also time-saving, flexible and facilitates new modes of realtime collaboration between students.
+
+Cloud based development environments look to be the next big disruptive technology in Computer Science education. 
+
+---
 
 https://replit.com/teams-for-education
 
 repl.it
 
-To trial this technology I constructed a coding exercise (A1 Design and Plan). I listed a complete 'Java' program to implement a bubble-sort algorithm. I also created a stub starter scaffold for a bubble-sort in the the target language for the learner of 'C#' (K1 Subject Knowledge). The task was to implement bubble-sort in C#. When I identified students struggling with this concept, I could send them a link to my repl activity. With one click of the link they had a code environment presented to them with support text.
 
 The technology barrier to engaging with a coding task had been dramatically reduced.
 
 Remote Desktop staff only
 https://cccu.canterbury.ac.uk/information-technology/working-off-campus/remote-desktop-service.aspx
 
-During the delivery of Application Development in C# (MCOMD1ADC)
-Students that had macs unable to participate at home
 
 Equity to all students
 Cloud based development environments
@@ -78,6 +94,8 @@ Cloud based development environments
 https://replit.com/teams-for-education
 https://codetasty.com/
 https://www.gitpod.io/
+
+[Benefits and Pitfalls of Jupyter Notebooks in the Classroom](https://dl.acm.org/doi/epdf/10.1145/3368308.3415397) Johnson 2020
 
 [CrownLabs—A Collaborative Environment to Deliver Remote Computing Laboratories](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9136697) MARCO IORIO May 2020
 Department of Computer and Control Engineering, Politecnico di Torino, 10129 Turin, Italy
@@ -87,7 +105,7 @@ An overview of the advantages of cloud computing and online IDE
 Antonova, Аlfiia. Avtomatizaciâ Tehnologičeskih I Biznes-Processov Volume: 12 Issue 3 (2020) ISSN: 2312-3125 Online ISSN: 2312-931X
 
 
-A1 design and plan
+
 
 juyter notebox for teaching
 mooshack
@@ -96,14 +114,13 @@ Atrimus
 regex crossword
 
 K1 subject
-k4 The use and value of appropriate learning technologies
+
 
 program to generate individual questions for students
 
 
 * [A Web-Based Environment to Improve Teaching and Learning of Computer Programming in Distance Education](https://link.springer.com/chapter/10.1007/11528043_28) 2005     S. C. Ng S. O. Choy R. Kwan S. F. Chan
 * [Online Tools to Support Novice Programming: A Systematic Review](https://ieeexplore.ieee.org/abstract/document/8632649) 2018 Sim & Lau
-
 * [The Potentials of Using Cloud Computing in Schools: A Systematic Literature Review](https://eric.ed.gov/?id=EJ1124903) Hartmann, et al 2017
     * Codifys the theams that barriers for cloud computing in education
         * technical, admistrative, economy, timesaving, collaboration, flexability, easyer access to education
@@ -130,9 +147,8 @@ subject knowledge audit revamp
     * requirements, design and testing, SE process)
 
 
-Other - Enhancing Recruitment Practice (700 words)
+Other - Enhancing PGCE Recruitment Practice (700 words)
 --------------------------------------
-
 
 I am part of Initial Teacher Training and Education (ITTE) and deliver the PGCE in Secondary Computing for Canterbury Christ Church University. I'm going to discuss students retention in the context of teacher training. I will describe the withdrawals from the course this year as a case study and attempt to analyse possible actions to improve retention in future years.
 

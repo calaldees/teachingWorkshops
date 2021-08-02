@@ -382,6 +382,8 @@ Timebox to one hour ... you may be sent links in the chat to try
 * Economics
     * [rolesia.com](https://www.rolesia.com/) - Country Economics Simulator
     * [visualcapitalist.com](https://www.visualcapitalist.com/) Visualisae our economy
+    * [profitful](https://profitful.online/) - Online tutorials for aspiring wealth creators
+        * Start building yourself a brighter future by investing in greater financial knowledge. Learn how to create and manage wealth from those who do. 
 * Art
     * [10 innovative creative coding examples that are redefining programming](https://www.editorx.com/shaping-design/article/creative-coding)
         * Live performances and art exabits
