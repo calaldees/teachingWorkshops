@@ -504,6 +504,10 @@ As well as free resources teachers share online. There are also paid for resourc
         * [Compute-IT 1: Unit 3 Lesson 3](http://my.dynamic-learning.co.uk/ViewLesson.aspx?i=DC06DC60-5268-417B-98AF-E81CE0E4B5D7&l=2556999&u=e27bc3ac-2aa5-4aa7-8601-b58991e957e9&vle=true)
     * [CPD Video Lessons](https://www.youtube.com/watch?v=A0rxQnxEdiI&list=PL_8st1egDh7av261LnYKAe1guRlM1M9eB&index=3)
 
+* [Textbooks for the teaching of computing](https://eprints.soton.ac.uk/441674/1/Textbooks.pdf)  John.Woollard@computingatschool.org.uk 2020
+    * Why use textbooks
+    * Why not use textbooks
+
 #### [Scratch](https://scratch.mit.edu/)
 
 15min

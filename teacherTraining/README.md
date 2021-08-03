@@ -3,6 +3,7 @@ Teacher Training
 
 Resources for PGCE/SchoolDirect Secondary Computing.
 
+[Canterbury Christ Church University - Computing (2BSJ) - PGCE with QTS full time](https://www.find-postgraduate-teacher-training.service.gov.uk/course/C10/2BSJ)
 
 * Are not focused on subject knowledge but on subject pedagogy, and a broad spectrum of pedagogical practice
     * however much they make demands for ‘tips for teaching’ – our position is meta-pedagogy and androgogy to facilitate a greater ability to critically and creatively develop their own pedagogical judgement in the classroom

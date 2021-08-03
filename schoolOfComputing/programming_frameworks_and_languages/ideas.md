@@ -126,14 +126,22 @@ useable on both desktop and mobile device
 Lambda
 
 
+https://expressjs.com/
+
+Python
+* [Sanic Framework](https://sanic.readthedocs.io/en/stable/)
+    * https://github.com/MagicStack/uvloop
+
  uptime sclaine request 
  session - user state
 
  Graph QL
+ https://graphql.org/
 
  Separation of concerns
 
  React "context" replacement for redux
+ https://reactjs.org/docs/context.html
 
  Preact vs react
  https://preactjs.com/guide/v8/differences-to-react/
@@ -163,3 +171,47 @@ React native
 
 
 Hyperapp - Shish - <1k js
+
+
+https://www.gitpod.io/
+https://codetasty.com/
+
+https://codesandbox.io/
+
+https://betterprogramming.pub/my-favorite-cloud-ides-e6afaa94d96b
+
+https://www.codeply.com/
+All the frameworks!! live in browser 
+
+https://glitch.com/
+Node, React, Eleventy (static)
+
+
+https://runkit.com/home
+instant api - workbook
+
+
+Some aforementioned links:
+
+Client side:
+https://preactjs.com/
+https://mithril.js.org/  <- pretty fringe
+https://vuejs.org/        <- pretty popular
+
+Server side:
+https://sanicframework.org/en/
+https://fastapi.tiangolo.com/
+
+I haven't used Fast API in production, but it looks well thought out and brings together some previously disparate tooling.
+Sanic is essentially like Flask in that it's up to you to decide a lot of things.
+
+Rollback in fighting games:
+https://arstechnica.com/gaming/2019/10/explaining-how-fighting-games-use-delay-based-and-rollback-netcode/
+
+
+gitpod docker support
+https://github.com/gitpod-io/gitpod/issues/52#issuecomment-738629624
+https://community.gitpod.io/t/running-docker-within-gitpod/538/8
+https://github.com/shaal/ddev-gitpod
+
+

@@ -129,20 +129,72 @@ program to generate individual questions for students
 
 Assessment and feedback practice (700 words)
 --------------------------------
-A3 assessment give feedback
 
+In the PGCE in Secondary Computing course that I deliver, I provide a framework for trainee teachers to perform a gap analysis of their subject knowledge and track their subject knowledge development throughout the course. As a postgraduate qualification, a trainee teachers subject knowledge is not formally assessed as part of the course. Students are required to self assess their skills and identify their subject knowledge gaps (Rhoades 2014). Rhoades states "any overestimation or even underestimation of your knowledge will be counter productive". Trainee's self assessment of subject knowledge is varied and inaccurate as they have no benchmark or reference point to based their skills assessment upon (Schmid 2021 1.1). Trainees lack the knowledge of the curriculum to judge if their stills are sufficient. Jones (2021) cited McNamara (1991) in stating; a teachers' restricted subject knowledge affects the quality of teaching and causes serious deficiencies in student learning, this deficiency is not immediately identifiable
+
+Currently trainees are asked to rate their knowledge category's on a scale of 1 (insecure knowledge) to 4 (I could teach this) each school term.
+Some examples of the current categories:
+* Understand why computer hardware needs computer software (programs)
+* Know what computer programming syntax is
+* Explain what a computer is
+How could a trainee identify that they have moved between a 2 to 3 this term in the categories above? Without the context of the level of curriculum that is being taught (Keystage 2, 3, 4 or 5) and the curriculum content knowledge, the answer trainees might give could vary significantly.
+
+> Existing questionnaires have been criticized regarding the fuzzy, technology-unspecific, and content-agnostic wording of questionnaire items, which ask participants to rate the “appropriateness” of their competencies
+Schmid et al 2021
+
+When assessing my trainees I have asked "can you justify/evidence the growth in your subject knowledge". It has been difficult for them to provide evidence of their growth. (A3 assessment give feedback)
+
+I propose two changes to enhance the effectiveness of the skills audit. We could tighten the scope of the categories and clarify the level criteria. This would allow for more accurate self assessment and in turn enhance their effectiveness as teachers.
+
+My re-worked subject knowledge audit proposes a new level system:
+1. Theoretical understanding (evidence - maybe past exam question or previous degree module grade)
+2. Have implemented on computer (evidence - link to github? screenshot?)
+3. Have taught (evidence resources created or lesson plans)
+It is clear to the trainee which level they are operating at as they will be able to cite evidence.
+The categories will all be taken from the Keystage 5 curriculum. The earlier keystage's are a subset of this knowledge.
+The categories will be correlated with industry practice. e.g.
+* Algorithms: Sorting: bubble, quick, merge, selection, insertion (2 of)
+* Use of remote pair-programming live coding tool
+* Use of unit-tests
+This new system is much clearer and precise. The ambiguity has been removed and the categories relate directly to practical skills required in the classroom. This impact of this alteration will be assessed in more details as part of the SSPI module next term.
+
+Ultimately assessing subject knowledge for trainee teachers is a secondary concern. What matters is that they can deliver good lessons (V4 wider context). Subject knowledge could ultimately be assessed through the lesson content that the trainees create and deliver. This approach is confirmed by Blömeke & Delaney, 2014 who state that we should be moving beyond self-reported subject knowledge audits.
+
+
+
+
+Technological Pedagogical Content Knowledge
+
+
+* [Self-reported technological pedagogical content knowledge (TPACK) of pre-service teachers in relation to digital technology use in lesson plans](https://www.sciencedirect.com/science/article/pii/S0747563220303332) Mirjam Schmid, Eliana Brianza, Dominik Petko
+* [The effect of teacher's confidence on technology and engineering curriculum provision](https://link.springer.com/article/10.1007/s10798-019-09542-4) Lewis C. R. Jones, Hilary J. McDermott, John R. Tyrer & Nigel P. Zanker  2021
+
+Drummond and Sweeney (2017) and Maderick, Zhang, Hartley, and Marchand (2016) showed that self-reported TPACK of pre-service teachers revealed only a weak correlation with a more objective, fact-based knowledge test on TPACK.
+
+research on teacher professional knowledge has moved beyond self-reports and focused on actual classroom performance (Blömeke & Delaney, 2014; Hill, Loewenberg-Ball, & Schilling, 2008).
+
+[A Practical Guide to Teaching Computing and ICT in the Secondary School](https://www.routledge.com/A-Practical-Guide-to-Teaching-Computing-and-ICT-in-the-Secondary-School/Connell-Edwards-Hramiak-Rhoades-Stanley/p/book/9780415819466)  2014 by Routledge 
+By Andrew Connell, Anthony Edwards, Alison Hramiak, Gavin Rhoades, Neil Stanley
+Gavin Rhoades "Auditing your subject knowlge, skills and understanding" pg10
+Gap anlysis
+Concienciously and honestly, any overestimation or even understimation of your knowlege will be counter productive
+[google book snippet](https://books.google.co.uk/books?hl=en&lr=&id=rxccBQAAQBAJ&oi=fnd&pg=PP1&dq=teacher+training+subject+knowledge+computing&ots=einUnsGODf&sig=pe97p_7LhUzkNDPpoIWt0YnV9Po&redir_esc=y#v=onepage&q&f=false)
+
+
+* [In-Service Teacher Training and Self-efficacy](https://link.springer.com/chapter/10.1007/978-3-030-63212-0_13) -     Jørgen Thorsnes, Majid Rouhani, Monica Divitini 2020
+
+A3 assessment give feedback
 SCITT Marking
 Joseph - fail
-
 3rd year programming project supervision
-
 V4 wider context
+K6: The implications of quality assurance and quality enhancement for academic practice – particularly teaching
 
-subject knowledge audit revamp
+
+
 
 * [Students Perception on the use of Project-Based Learning in Software Engineering Education](https://dl.acm.org/doi/abs/10.1145/3350768.3352457) 2019
 * [PBL Integration into a Software Engineering Undergraduate Degree Program Curriculum: An Analysis of the Students' Perceptions](https://dl.acm.org/doi/abs/10.1145/3131151.3131178)
-
 * [Aligning software engineering education with industrial needs: A meta-analysis](https://www.sciencedirect.com/science/article/pii/S0164121219301347)
     * requirements, design and testing, SE process)
 
@@ -274,6 +326,6 @@ Push beyond
 Networks -
 I like people who can get things done
 
-build comunity
+build community
 
-guest speakers
+guest speakers in education
