@@ -3,6 +3,9 @@ Research
 
 * [gov.uk - A self-improving school system: towards maturity](https://www.gov.uk/government/publications/a-self-improving-school-system-towards-maturity) - A look at the progress that has been made towards a self-improving school system since 2010
 * [Action research in the classroom](https://www.vlebooks.com/Vleweb/Product/Index/45610) 2011 Baumfield, Dr Vivienne
+* [Education Endowment Foundation](https://educationendowmentfoundation.org.uk)
+    * [Blog](https://educationendowmentfoundation.org.uk/news/blog/)
+    * [Guidance Reports](https://educationendowmentfoundation.org.uk/tools/guidance-reports/)
 
 Teaching Profession
 --------------------

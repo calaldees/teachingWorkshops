@@ -107,3 +107,6 @@ Social Media
 
 * [Redit nosurf](https://www.reddit.com/r/nosurf/top/) group
     * stories from people distancing themselfs from social media
+
+* [Normal People are Beginning to Acknowledge Their Loss of Free Speech on the Internet](https://cheapskatesguide.org/articles/normals-free-speech.html)
+    * The damage of shadow banning

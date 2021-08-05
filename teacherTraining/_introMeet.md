@@ -353,6 +353,32 @@ Suggested activities
     * [Adafruit Circuit Playground](https://learn.adafruit.com/introducing-circuit-playground/overview) Arduino
     * [Lego Mindstorms](https://education.lego.com/en-gb/support/mindstorms-ev3/getting-started)
 
+Equipment
+---------
+
+Will you need a personal laptop?
+
+You will be put in a range of different environments at short notice.
+* You may be mandated to use a school machine.
+* You me be required to provide your own machine.
+You should probably have a personal machine of some form ready-to-use in your back pocket.
+
+Spec wise ... you will not need anything special.
+
+Operating system should not matter to a Computing specialist. Use whatever you need to do the job you need.
+E.g
+* You could use Linux and use a VM or WINE for some Windows applications.
+* You could use Windows and use Docker or WSL when you need nix based stuff
+* Use OSx (again visualising when you need to)
+
+Few thoughts
+* Your placement school will have limited resources
+* A provided laptop will have a 'spin-up time' as you figure out how it is setup or perform your required setup yourself
+* As a computer scientist you will need the ability to self manage your machine and install whatever crazy stuff you need. (A provided laptop may not have these rights)
+* Every school is different
+* Your personal device may not be covered by your insurance or the schools insurance
+* Your personal device may not even be allowed to connect to a school network
+
 
 Additional Resources
 --------------------

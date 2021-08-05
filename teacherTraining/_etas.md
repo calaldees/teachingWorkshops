@@ -183,6 +183,9 @@ Concienciously and honestly, any overestimation or even understimation of your k
 
 * [In-Service Teacher Training and Self-efficacy](https://link.springer.com/chapter/10.1007/978-3-030-63212-0_13) -     Jørgen Thorsnes, Majid Rouhani, Monica Divitini 2020
 
+
+* [Factors Affecting Practical Knowledge Acquisition of Pre-service Computer Science Teachers During the Practicum: A Multiple Regression Analysis](https://doi.org/10.26803/ijlter.19.2.13) Song Pu, Nor Aniza Ahmad*  and Mas Nida Md. Khambari  2020
+
 A3 assessment give feedback
 SCITT Marking
 Joseph - fail
@@ -317,15 +320,145 @@ In conventional courses, the delivery of all aspects of a course are controlled 
 Reflection on an authentic practice observation (2000 words)
 -----------------------------------------------
 
+
+
+
 Students smaller groups
 "I'm waffling" "thats what we've come for"
+"We want to be in your class"
+Solidarity with other staff
+
+Engagement
 
 Push beyond
 
 
-Networks -
-I like people who can get things done
+I am going to use Tripp's critical indigent framework to analyse issues with the delivery of "Network of Operating Systems" module. After describing the setting I will reflect but using Dilemma Identification and Personal Theory Analysis (Ayres 2017)
+
+In term 1 (September 2020) I was allocated a number of hours to support the School of Computing. This was a turbulent time as students were to be taught on campus during the sars-cov-2 pandemic. Students were to be taught in computer labs in group size of the stated room capacity (between 14 and 20)). Lectures could no longer be given to the whole cohort of 180 students. As a supporting member of staff I had to deliver the lecture material and labs for the "Introduction to C#" module.
+
+In term 2 (January 2021) it was identified that I had a good ongoing rapport with students and solid subject knowledge. I was allocated to support "Application Development in C#". During this period, another module was facing difficulties and I was allocated at short notice to support the delivery of "Network and Operating Systems".
+
+Multiple members of the Computing team were applied at short notice to support "Network and Operating Systems". An external candidate was selected to lead the remainder of the module. We requested the lecture materials and assessment from the module lead. These were significantly delayed. The materials that we received were incomplete. More worryingly the materials were hours of solid lectures with no interaction by the students. This breaks the departments goal of being a CDIO institution (cdio.org 2021).
+> CDIO is based on a commonly shared premise that engineering graduates should be able to: Conceive – Design — Implement — Operate complex value-added engineering systems in a modern team-based engineering environment to create systems and products.
+
+The lab material provided required the students to use "Cisco Packet Tracer" as a simulated network environment. This was _free_ software but would require installation. Installing this on the normal CCCU campus machines required a lengthly process of approval (CCCU - New Software Request). The computing department had their own machines and network, but this is an isolated network. "Cisco Packet Tracer" required a cisco login and required an internet connection to startup, even though this was not required for the softwares main operation. It was not possible to use "Cisco Packat Tracer" given the time we had available. (A1 Design and Plan, K1 Subject Material)
+
+Communication with the external module lead was difficult with lengthly delays. As a team we collectivly took the initiative to rework the lectures to have student interactions and provide an alternative lab with software approriate to our environement restrictions. Included in the evidence section are the lesson plans and labs we developed. We modifed the lecture slides to include group discussion and research activites to match the department requirements for CDIO, CCCU graduate attributes and Dialogic Teaching Practice (xxx 20xx).
+
+My colleages behaviour was exemplary. There was no talk of acusing other staff or negative tone. Conversations were profetional and focused on resolving the problem with the resources and time availalble. Empathy was shown to the module lead. The lead had been placed at short notice in a situation they appears unprepared for. Maybe the module lead had not been breifed aquiquarely about their role and requirements. There had possiblely been a fiauliure of communcation. My team were role models of profetionalisum.
+
+Planning took an additional time overhead. It was raised that we were going beyond our responsibilityes. I stated "We do this because we care about the students". Another colleage replied "Therein lyes another problem, we can be exploited". This is a view I had not considered before. By taking action at a personal time cost to ourselfs, are we preventing the natural failure of a system. Without visible failiute issues may not be identified. Our attempt to resolve this situation may have been hiding/masking and underlying organiational issue that needed to be exposed. Our pride as profetionals may have been preventing long term imporvements.
+
+The lecture/lab was run multiple times because of the room size restrictions. The first time the lab was run the module lead delivered the material. I was present to observe the delivery as I am not a network specalist and was due to deliver the same workshop in the afternoon session. The module lead was not comfortable delivering online and in-person at the same time and opted to teach the physically present students. The delivery was stilted and dry. The oppertunites for discusion and research activities were not explained or described to students. Students were left confused. Many of them were stressed and paniced as they were due to submit an assessment from the earlyer "Operating Systems" part of the module. Using Brookfields lenses (Bookfield 2005) from my lense I could see how the organisation of the module was impacting on the students focus. From the student lense there was genuine stress. The students were looking at their mobile phones and not engaging with the module leads material. From the lense of colleagues, another compting peers was present in part of the session. They also expressed concern as they too were fielding questions from distracted paniced students during the groupwork segments.
+
+The afternoon session that I delivered was recorded and broadcast live online as well as delivered to phsycally present students. I followed best practice of online pedagogy by facilitating breakout groups for online participants while physically present students engaged in group work. The labs were used to break up the theory material (V2 Promote participation). A comment at the of of the lecture by a physically present student was "That was the best lecture we have ever had". Similar prase was given on the online chat. This sentiment was relayed at a later date to multiple other colleages in the school of computing from multiple students. (K6 Implications of quality assurance)
+
+The response from the students was surising. The session was constucted in a rush. It was not exemplary. From my lense was that it was adiquate. Form the lense of scholarship (Sell 2020, Barbour 2020) it followed identified remote practice. From the lense of the students and colleages it was highly valued. There we clearly historical organisational issues that were being worked though. I was very happy with the emotional response of my immediate team.
+
+After two session my involvement with the Networks module ended and other staff took over the assessment. I was conratuated by the head of Computing who remarked "I like people who can get the job done". Following this the deparment opened 4 new lecturing positions to bring new skills into the department. I have now been appointed "Lecturer in Computing" for 2021/2022 and have my own module "Frameworks and Langauges" to prepare. 
+
+I am aware of the panic and frustration I saw in students undertaking the Networks module. As an insitution student welbeing is part of CCCU's Learning and Teaching Stratergy. We should be mindful of students wellbeing as this implcats on CCCU's Retention and Success Framework.
+
+
+* [Cantebury Christ Chuch - Learning and Teaching Strategy](https://www.canterbury.ac.uk/learning-and-teaching-enhancement/strategies/learning-and-teaching-strategy.aspx) 2015 to 2022
+* [Student Retention and Success Framework](https://cccu.canterbury.ac.uk/education-enhancement-and-student-experience/docs/Retention-and-Success-Framework-June-2018.pdf) 2018
+
+* [Understanding pandemic pedagogy: Differences between emergency remote, remote, and online teaching](https://vtechworks.lib.vt.edu/handle/10919/101905) Barbour, Michael K et al 2020 Virginia Tech University Libraries
+* [Inductive Teaching and Learning in Engineering Pedagogy on the Example of Remote Labs ](https://online-journals.org/index.php/i-jep/article/view/3828) Raivo Sell, Tiia Rüütmann, Sven Seiler 2020
+
+
+* [Critical Incidents in Teaching](https://www.researchgate.net/publication/318430010_Critical_Incidents_in_Teaching) Ayres D, 2017
+    * Tripp D, 2012
+* [New Software Request](https://cccu.canterbury.ac.uk/information-technology/purchasing/new-software-request.aspx)
+* [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer)
+* [NetSimK](http://netsimk.com/)
+
+http://cdio.org/content/cdio-standards-30
+http://cdio.org/cdio-vision
+
+
+slide 6 slide 14
+
+
 
 build community
 
 guest speakers in education
+
+
+
+I will be using the four lenses model developed by Brookfield (2005) to reflect on my teaching observations
+
+
+
+
+
+```csharp
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Calc
+{
+    public partial class Form1 : Form
+    {
+        string mem = "";
+        string operation = "";
+
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            textBox1.Text += "1";
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            textBox1.Text += "2";
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            operation = "+";
+            mem = textBox1.Text;
+            textBox1.Text = "";
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            operation = "-";
+            mem = textBox1.Text;
+            textBox1.Text = "";
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            double num1 = double.Parse(mem);
+            double num2 = double.Parse(textBox1.Text);
+            double ans = 0;
+            switch (operation) {
+                case "+":
+                    ans = num1 + num2;
+                    break;
+                case "-":
+                    ans = num1 - num2;
+                    break;
+
+            }
+            textBox1.Text = $"{ans}";
+        }
+    }
+}
+
+```
