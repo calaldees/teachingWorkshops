@@ -18,18 +18,18 @@ Learners can be given a URL and they can begin coding with reduced setup time.
 
 At Canterbury Christ Church University we teach using "Microsoft Visual Studio". While teaching "Application Development with C#" I found I repeatedly wanted to demo techniques without disrupting the students actively loaded project. I also wanted to give students a constrained sandbox to focus/develop one technique. 
 
- I was able to create a url with a working C# programming environment and an example of a bubble-sort algorithm written in another language (in this case Java). 
+ I was able to create a url with a working C# programming environment and an example of a bubble-sort algorithm written in another language (in this case Java). (A1 design and plan, K1 subject material)
 
 Using a service called "repl.it", I constructed a coding exercise (A1 Design and Plan). I listed a complete 'Java' program to implement a bubble-sort algorithm. I also created a stub starter scaffold for a bubble-sort in the the target language for the learner of 'C#' (K1 Subject Knowledge). The task was to implement bubble-sort in C#. As I identified students that needed extra support, I was able to direct them to my additional support activity. With one url students had a code environment presented to them with supporting text.
 
-Student feedback was excellent. Once students completed the support task they were able to integrate the solutions into their project. Out of a class size of 68 students, I refereed 20 of them to my support activity. Some remarked "why didn't we start with this". This was fed back to the module lead. 
+Student feedback was excellent. Once students completed the support task they were able to integrate the solutions into their project. Out of a class size of 68 students, I refereed 20 of them to my support activity. Some remarked "why didn't we start with this". This was fed back to the module lead. (K6 quality assurance)
 
 Next year we intend to use an extended period of training material. Rather than relying on an external service like "repl.it", we should be able to house something similar internally using "jupyter.org". Jupyter notebooks would allow code examples to be displayed interactively as a development environment embedded in a webpage. Jupyter notebooks have successfully been used in some select education settings (Johnson, 2020). I am working with the wider School of Computing to develop our use of Jupyter notebooks. (A1 design and plan, K1 Subject knowledge)
 
 The pandemic this year has amplified the disadvantage of some students. During my delivery of Application Development in C# (MCOMD1ADC)
 Students that had 'Apple mac' or lower spec computers were unable to participate at home as they required a Windows 10 PC to use Microsoft Visual Studio. These students has had limited access to campus and struggled to participate remotely. (V2 promote participation, V4 Wider context, K6 quality enhancement)
 
-I have begun to experiment with 'Cloud' based development environments. The development environment would run remotely on the cloud and allowing students with low spec machines to access the tooling. (Iorio, Palesandro and Risso, 2020), describes how the Politecnico di Torino in Italy have provided cloud based development environments to their entire Computing cohort. I am in the process of designing an upcoming module "Frameworks and Languages" that is constructed with a 'Cloud first' mentality to give a consistent experience to all students. (A1 design and plan, K1 Subject knowledge). I am investigating "codetasty.com" and "gitpod.io". (Hartmann et al., 2017) and (Antonova and Bartkova, 2020) consider cloud based development environments the way forward for education as it removes technical, administrative and economic barriers. It is also time-saving, flexible and facilitates new modes of realtime collaboration between students.
+I have begun to experiment with 'Cloud' based development environments. The development environment would run remotely on the cloud and allowing students with low spec machines to access the tooling. (Iorio, Palesandro and Risso, 2020), describes how the Politecnico di Torino in Italy have provided cloud based development environments to their entire Computing cohort. I am in the process of designing an upcoming module "Frameworks and Languages" that is constructed with a 'Cloud first' mentality to give a consistent experience to all students. (A1 design and plan, K1 Subject knowledge). I am investigating "codetasty.com" and "gitpod.io". (Hartmann et al., 2017) and (Antonova and Bartkova, 2020) consider cloud based development environments the way forward for education as it removes technical, administrative and economic barriers. It is also time-saving, flexible and facilitates new modes of realtime collaboration between students (V2 promote participation). (D2 IV appropriate teaching practices, K4 appropriate technologies)
 
 Cloud based development environments look to be the next big disruptive technology in Computer Science education. 
 
@@ -61,7 +61,7 @@ Sim, T.Y. and Lau, S.L. (2018). Online Tools to Support Novice Programming: A Sy
 Assessment and feedback practice (700 words)
 --------------------------------
 
-In the PGCE in Secondary Computing course that I deliver, I provide a framework for trainee teachers to perform a gap analysis of their subject knowledge and track their subject knowledge development throughout the course. As a postgraduate qualification, a trainee teachers subject knowledge is not formally assessed as part of the course. Students are required to self assess their skills and identify their subject knowledge gaps (Rhoades 2014). Rhoades states "any overestimation or even underestimation of your knowledge will be counter productive". Trainee's self assessment of subject knowledge is varied and inaccurate as they have no benchmark or reference point to based their skills assessment upon (Schmid 2021 1.1). Trainees lack the knowledge of the curriculum to judge if their stills are sufficient. (Jones et al., 2019) cited McNamara (1991) in stating; a teachers' restricted subject knowledge affects the quality of teaching and causes serious deficiencies in student learning, this deficiency is not immediately identifiable
+In the PGCE in Secondary Computing course that I deliver, I provide a framework for trainee teachers to perform a gap analysis of their subject knowledge and track their subject knowledge development throughout the course. As a postgraduate qualification, a trainee teachers subject knowledge is not formally assessed as part of the course. Students are required to self assess their skills and identify their subject knowledge gaps (Rhoades 2014). Rhoades states "any overestimation or even underestimation of your knowledge will be counter productive". Trainee's self assessment of subject knowledge is varied and inaccurate as they have no benchmark or reference point to based their skills assessment upon (Schmid 2021 1.1). Trainees lack the knowledge of the curriculum to judge if their stills are sufficient. (Jones et al., 2019) cited McNamara (1991) in stating; a teachers' restricted subject knowledge affects the quality of teaching and causes serious deficiencies in student learning, this deficiency is not immediately identifiable. (D2 V pedagogical research)
 
 Currently trainees are asked to rate their knowledge category's on a scale of 1 (insecure knowledge) to 4 (I could teach this) each school term.
 Some examples of the current categories:
@@ -87,9 +87,11 @@ The categories will be correlated with industry practice. e.g.
 * Algorithms: Sorting: bubble, quick, merge, selection, insertion (2 of)
 * Use of remote pair-programming live coding tool
 * Use of unit-tests
-This new system is much clearer and precise. The ambiguity has been removed and the categories relate directly to practical skills required in the classroom. This impact of this alteration will be assessed in more details as part of the SSPI module next term.
+This new system is much clearer and precise. The ambiguity has been removed and the categories relate directly to practical skills required in the classroom. This impact of this alteration will be assessed in more details as part of the SSPI module next term. (D2 V pedagogical research)
 
-Ultimately assessing subject knowledge for trainee teachers is a secondary concern. What matters is that they can deliver good lessons (V4 wider context). Subject knowledge could ultimately be assessed through the lesson content that the trainees create and deliver. This approach is confirmed by (Blömeke and Delaney, 2014) who state that we should be moving beyond self-reported subject knowledge audits.
+My proposed subject knowledge audit is only designed to address 'Technological Knowledge' and not the other strands of 'Content Knowledge' and 'Pedagogical Knowledge' from the prominent model of teacher expertise Technological Pedagogical Content Knowledge (TPACK) model (Koehler and Mishra, 2014) (D2 V pedagogical research)
+
+Ultimately assessing subject knowledge for trainee teachers is a secondary concern. What matters is that they can deliver good lessons (V4 wider context). Subject knowledge could ultimately be assessed through the lesson content that the trainees create and deliver. This approach is confirmed by (Blömeke and Delaney, 2014) who state that we should be moving beyond self-reported subject knowledge audits. (K1 subject material)
 
 
 ### Reference list
@@ -100,6 +102,8 @@ Connell, A., Edwards, A.D. and Hramiak, A. (2015). A practical guide to teaching
 
 Jones, L.C.R., McDermott, H.J., Tyrer, J.R. and Zanker, N.P. (2019). The effect of teacher’s confidence on technology and engineering curriculum provision. International Journal of Technology and Design Education.
 
+Koehler, M.J. and Mishra, P. (2014). Handbook of Technological Pedagogical Content Knowledge (TPCK) for Educators. [online] : Routledge. Available at: https://doi.org/10.4324/9781315759630 [Accessed 10 Aug. 2021].
+‌
 Pu, S., Ahmad, N.A., Khambari, M.N.M. and Yap, N.K. (2020). Factors Affecting Practical Knowledge Acquisi-tion of Pre-service Computer Science Teachers During the Practicum: A Multiple Regression Analysis. International Journal of Learning, Teaching and Educational Research, 19(2), pp.214–230.
 
 Schmid, M., Brianza, E. and Petko, D. (2021). Self-reported technological pedagogical content knowledge (TPACK) of pre-service teachers in relation to digital technology use in lesson plans. Computers in Human Behavior, 115, p.106586.
@@ -113,7 +117,7 @@ Other - Enhancing PGCE Recruitment Practice (700 words)
 
 I am part of Initial Teacher Training and Education (ITTE) and deliver the PGCE in Secondary Computing for Canterbury Christ Church University. I'm going to discuss students retention in the context of teacher training. I will describe the withdrawals from the course this year as a case study and attempt to analyse possible actions to improve retention in future years.
 
-As educators we are under pressure to recruit for our courses. Without enrolment our courses and organisation are not financially viable. We are also accountable for our retention rates. If our retention rates are not in-line with the national average, the OfS may suspend our ability to deliver our courses. (OfS 2018) (D2 V)
+As educators we are under pressure to recruit for our courses. Without enrolment our courses and organisation are not financially viable. We are also accountable for our retention rates. If our retention rates are not in-line with the national average, the OfS may suspend our ability to deliver our courses. (OfS 2018) (D2 IV teaching practice)
 
 In a drive to recruit more teachers the DfE stated:
 > The process to become a teacher is too complicated and burdensome. We will radically simplify the process for becoming a teacher
@@ -124,13 +128,13 @@ My statistics for my cohort of trainee computing teachers. 9 students. 6 PGCE, 3
 
 At CCCU we support a diverse range of learners (V1 Individual Learners). (O’Shea and Groves 2020) describes how university leavers are 'left in the dark' and are not provided appropriate guidance with transitioning to the world of professional work. One of my young candidates that withdrew stated in an exit interview "I don't know where I fit-in in the world". The student cited that as there were only a few years in age difference between them and the secondary school students, they felt like they were misplaced as a member of teaching staff. (V4 Wider Context). 
 
-Multiple of the PGCE students that withdrew were young and had the relevant entry qualifications. According to (Vare, Dewalt and Dockery, 2003). The biggest predictors of success in Initial Teacher Education was candidates SAT's scores from secondary school. IQ and academic achievement are important factors but this cannot be taken in isolation. I think this is only part of the story. If candidates do not posses the correct rational for training to teach, it is unlikely they will be successful. (Yong, 1995) comments that aspiring trainees could have a 'distorted view' of what teaching entailed, leaving the profession as they began to understand the reality's of the role.
+Multiple of the PGCE students that withdrew were young and had the relevant entry qualifications. According to (Vare, Dewalt and Dockery, 2003). The biggest predictors of success in Initial Teacher Education was candidates SAT's scores from secondary school. IQ and academic achievement are important factors but this cannot be taken in isolation. I think this is only part of the story. If candidates do not posses the correct rational for training to teach, it is unlikely they will be successful. (Yong, 1995) comments that aspiring trainees could have a 'distorted view' of what teaching entailed, leaving the profession as they began to understand the reality's of the role. (V4 wider context)
 
 My new strategy when conducting my PGCE interviews is I describe the historical situation that younger students have found themselves in and ask the interview candidate to describe why they might succeed where others have not. We should recognise potential, but we should not knowingly entice candidates that we suspect might be not understand the realities of the profession. I have vetted this question with the 'secondary teacher training lead' as part of ongoing QA of our process (K6 QA).
 
 (Mullinix, 2002), highlights the importance of 'retaining teacher mentors'. If are mentors are active participants in the recruitment process xxx. As part of my role I have contacted computing teacher mentors across our partnership schools. We have rearranged our interview times so that school mentors can participate in our PGCE trainee recruitment. When discussing the candidates after interview I ask them; "Would you be happy mentoring this applicant in your school? Why? Or why not?". I also confer with mentors about the nature of the candidates motivation and their suitability for the profession.
 
-By including mentors in the process of recruitment I hope to build a stronger bond with the training process in schools. By understanding both the individual students and the mentors backgrounds and strengths, I should be able to collaborate with mentors when allocating school placements. By enhancing the personalised allocation of placements and giving the mentor some ownership of the placement student xxx learning will be more personalised . I expect to see retention rates improve.
+By including mentors in the process of recruitment I hope to build a stronger bond with the training process in schools. By understanding both the individual students and the mentors backgrounds and strengths, I should be able to collaborate with mentors when allocating school placements. By enhancing the personalised allocation of placements and giving the mentor some ownership of the placement student, learning will be more personalised with the students background and needs considered. I expect to see retention rates improve. (K6 implications of quality enhancement)
 
 
 ### Reference list
@@ -159,18 +163,18 @@ Yong, B.C.S. (1995). Teacher trainees’ motives for entering into a teaching ca
 Reflection on an authentic practice observation (2000 words)
 -----------------------------------------------
 
-### Reflections on teaching stratergies for class size
+### Reflections on teaching strategies for class size
 
 While supporting the module "Application Development in C#" we were unable to accommodate the whole class in one computer room. I physically managed one room while the module lead gave the lecture and demoded their programming environment next door. It was difficult for us to hear and see the material due to the quality of the AV equipment. I could see students struggling. Being familiar with the material I switched to delivering the material myself. The students were immediately more engaged. I broke the tasks up into short busts of lecture and practical activities. See appendix for my FormCalc example. Gordon Aiken (Senior Lecturer) observed my delivery. He remarked at how personal I made the interactions and I was able to match the pace of learners through ongoing formative assessment as I was able to circulate the room.
 
 The next week I delivered the next segment of the course. There was some confusion about wether we would be delivering in two separate rooms again. We had to wait until we knew the total student attendance. Many of the students were deliberately being non committal about which room they were allocating themselves too as they were waiting to see which room I would be lecturing in. I raised this with the senior lecturer. He remarked that this was because the students who had been taught in my smaller group last session had mistook the smaller more intimate class size as more productive. We eventually allocate all students to a single room and I began to deliver the material. My feedback was good. I attempted to make the learning personal. It was much harder to circulate and formatively assess with a bigger class size. The observation highlighted that with my current technique I was unable to help each student personally.
 
-In "The Class Size Debate" (Mishel et al., 2002); Krueger argues that smaller class sizes improve students performance.  Hanushek suggests that the quality of the teaching is more impactful. (Ehrenberg et al., 2001) state that there is little evidence of class size affecting student attainment but different instructional strategies must be employed to cater for different class sizes. The Education Endowment Foundation (EEF) commissions studies to investigate the effectiveness of teaching strategies against cost. In their 2018 report the EEF identify that reduced class sizes are only effective if the instructional strategies is aligned with that group size. My technique of allocating time to individuals was sufficient for class sizes below 15 but was insufficient to cater for the larger class sizes I was experiencing.
+In "The Class Size Debate" (Mishel et al., 2002); Krueger argues that smaller class sizes improve students performance.  Hanushek suggests that the quality of the teaching is more impactful. (Ehrenberg et al., 2001) state that there is little evidence of class size affecting student attainment but different instructional strategies must be employed to cater for different class sizes. The Education Endowment Foundation (EEF) commissions studies to investigate the effectiveness of teaching strategies against cost. In their 2018 report the EEF identify that reduced class sizes are only effective if the instructional strategies is aligned with that group size. My technique of allocating time to individuals was sufficient for class sizes below 15 but was insufficient to cater for the larger class sizes I was experiencing. (D2 IV Engagement with appropriate teaching practice)
 
-In his book "Embedded Formative Assessment" (Wiliam, 2018) talks about a range of formative assessment techniques for larger class sizes. Wiliam suggests that 'mini whiteboards' could be used to solicit responses from a whole class. This strategy would allow me as a practitioner to assess students understanding in much more effect way than my previous strategy of individually engaging students in conversation. When delivering lessons simultaneously remotely and in person, I could utilise systems like "whiteboard.fi" to provide digital mini whiteboards for a whole class. My remote students have an internet connection to participate and physically present students are already using a networked computer.
+In his book "Embedded Formative Assessment" (Wiliam, 2018) talks about a range of formative assessment techniques for larger class sizes. Wiliam suggests that 'mini whiteboards' could be used to solicit responses from a whole class. This strategy would allow me as a practitioner to assess students understanding in much more effect way than my previous strategy of individually engaging students in conversation. When delivering lessons simultaneously remotely and in person, I could utilise systems like "whiteboard.fi" to provide digital mini whiteboards for a whole class. My remote students have an internet connection to participate and physically present students are already using a networked computer. (A3 Assessment and feedback, K4 Appropriate technologies)
 
 
-### Reflections on critical incident - networks module
+### Reflections on critical incident - Networks module
 
 I am going to use Tripp's critical indigent framework to analyse issues with the delivery of "Network of Operating Systems" module. After describing the setting I will reflect but using Dilemma Identification and Personal Theory Analysis (Ayres, 2017)
 
@@ -287,6 +291,26 @@ V: Successful incorporation of subject and pedagogical research and/or scholarsh
 Evidence
 ========
 
+Observation
+-----------
+
+* In what ways did the observed session incorporate an identified enhancement to learning, teaching or assessment?  How could this be improved?
+  * Allan’s engagement with the material and the students was extremely personal, he made fantastic connections with the students, making sure that learning was active rather than passive. Visual examples produced by Allan in real time were used to guide students through their challenges with enough ‘scaffolding’ that they could navigate their own path. 
+  * The enhancement of real time programming support, rather than a direction to passive examples was well received by students, and furthermore, identifying this with industrial experience assisted the students in seeing why these concepts are valuable, not just in a university lecture but as a key skill in their future careers.
+  * In an ideal world this would have been better as a fully immersive session, but as the class was separated into on premises and remote learners there were challenges that can be resolved in the future.
+* In what ways did the observed session make use of the chosen enhancement to promote learning of the subject discipline?  How could this be improved?
+  * Active learning is a far better method of teaching in a technical subject such as programming. The majority of learners are ‘doers’ and have to engage in practical learning to commit the concepts to long term memory. By engaging them in a tutorial format (very short 5-minute ‘lectures’, with longer active learning practicals) the students remained engaged, and did not get tired or distracted with what is a very challenging subject. As previously mentioned, this could be improved with additional support for those interacting online.
+  * How well did the chosen enhancement meet the requirements of an inclusive curriculum?  How could this be improved?
+  * As each student was able to interact with the tutor to the level that they needed, this very much meets the requirements of an inclusive curriculum. The tutorial style also encourages pair programming, synonymous in academia with peer learning. Rather than a structure that the students have no control over, this style of teaching can be led by the class at the speed and depth needed. 
+  * Smaller group sizes would speed this up if the resource was available.
+
+
+
+
+Application Development in C#
+-----------------------------
+
+![FormCalc Framework](./images/visual-studio-calc-example.gif)
 ```csharp
 using System;
 using System.Collections.Generic;
@@ -354,7 +378,70 @@ namespace Calc
     }
 }
 
+
 ```
+
+![BubbleSort in repl.it](./images/replit_bubble.gif)
+```csharp
+/*
+https://replit.com/@calaldees/BubbleSortTask
+
+Below is an example of a bubblesort in `java`.
+Try to implement this in C#
+
+class Main {
+
+  public static void main(String[] args) {new Main();}
+  Main() {
+    String[] data = new String[]{"b", "d", "c", "a"};
+    data = bubbleSort(data);
+    System.out.println(String.join(",", data));
+  }
+
+  String[] bubbleSort(String[] data) {
+    //System.out.println("bubbleSort");
+    Boolean has_changed = true;
+    while (has_changed) {
+      //System.out.println(String.join(",", data));
+      has_changed = false;
+      for (Integer i=0 ; i < data.length-1 ; i++) {
+        String a = data[i];
+        String b = data[i+1];
+        //System.out.println("comparing "+i+":"+a+" with "+(i+1)+":"+b);
+        if (a.compareTo(b) > 0) {
+          //System.out.println("swap");
+          data[i] = b;
+          data[i+1] = a;
+          has_changed = true;
+        }
+      }
+    }
+    return data;
+  }
+
+}
+*/
+
+using System;
+
+class MainClass {
+
+  public static void Main (string[] args) {new MainClass();}
+  public MainClass() {
+    string[] data = new string[]{"b", "d", "c", "a"};
+    data = bubbleSort(data);
+    Console.WriteLine(String.Join(",", data));
+  }
+
+  String[] bubbleSort(String[] data) {
+    Console.WriteLine("bubbleSort");
+    // CODE GOES HERE!
+    return data;
+  }
+
+}
+```
+
 
 Notes
 =====
