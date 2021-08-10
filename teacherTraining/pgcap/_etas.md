@@ -1,7 +1,7 @@
 ETAS
 ====
 
-The use of learning technology (700 words)
+The use of learning technology (702 words)
 ------------------------------
 
 Using industry standard software tooling to teach introductory programming has benefits and drawbacks.
@@ -52,9 +52,77 @@ replit (n.d.). Teams for Education. [online] replit. Available at: https://repli
 
 Sim, T.Y. and Lau, S.L. (2018). Online Tools to Support Novice Programming: A Systematic Review. [online] IEEE Xplore. Available at: https://ieeexplore.ieee.org/abstract/document/8632649 [Accessed 10 Aug. 2021].
 ‌
+### Appendix: Learning Technology
 
 
-Assessment and feedback practice (700 words)
+![Example of a cloud based code environment. BubbleSort in repl.it](./images/replit_bubble.gif)
+```csharp
+/*
+https://replit.com/@calaldees/BubbleSortTask
+
+Below is an example of a bubblesort in `java`.
+Try to implement this in C#
+
+class Main {
+
+  public static void main(String[] args) {new Main();}
+  Main() {
+    String[] data = new String[]{"b", "d", "c", "a"};
+    data = bubbleSort(data);
+    System.out.println(String.join(",", data));
+  }
+
+  String[] bubbleSort(String[] data) {
+    //System.out.println("bubbleSort");
+    Boolean has_changed = true;
+    while (has_changed) {
+      //System.out.println(String.join(",", data));
+      has_changed = false;
+      for (Integer i=0 ; i < data.length-1 ; i++) {
+        String a = data[i];
+        String b = data[i+1];
+        //System.out.println("comparing "+i+":"+a+" with "+(i+1)+":"+b);
+        if (a.compareTo(b) > 0) {
+          //System.out.println("swap");
+          data[i] = b;
+          data[i+1] = a;
+          has_changed = true;
+        }
+      }
+    }
+    return data;
+  }
+
+}
+*/
+
+using System;
+
+class MainClass {
+
+  public static void Main (string[] args) {new MainClass();}
+  public MainClass() {
+    string[] data = new string[]{"b", "d", "c", "a"};
+    data = bubbleSort(data);
+    Console.WriteLine(String.Join(",", data));
+  }
+
+  String[] bubbleSort(String[] data) {
+    Console.WriteLine("bubbleSort");
+    // CODE GOES HERE!
+    return data;
+  }
+
+}
+```
+
+![GitPod Banner](./images/gitpod_banner.gif)
+
+![A clound based development environment running in a browser on GitPod](./images/gitpod_example.gif)
+
+
+
+Assessment and feedback practice (642 words)
 --------------------------------
 
 I deliver the PGCE in Secondary Computing course. I provide a framework for trainee teachers to perform a gap analysis of their subject knowledge and track their subject knowledge development throughout the course. Trainee teachers subject knowledge is not assessed in isolation and is instead assessed by proxy of evidence to meet the UK Teacher Standards. 
@@ -114,7 +182,7 @@ Thorsnes, J., Rouhani, M. and Divitini, M. (2020). In-Service Teacher Training a
 ‌
 
 
-Other - Enhancing PGCE Recruitment Practice (700 words)
+Other - Enhancing PGCE Recruitment Practice (713 words)
 --------------------------------------
 
 I am part of Initial Teacher Training and Education (ITTE) and deliver the PGCE in Secondary Computing for Canterbury Christ Church University. I'm going to discuss students retention in the context of teacher training. I will describe the withdrawals from the course this year as a case study and attempt to analyse possible actions to improve retention in future years.
@@ -165,7 +233,7 @@ Vare, J.W., Dewalt, M.W. and Dockery, E.R. (2003). Making the Grade: Predicting 
 Yong, B.C.S. (1995). Teacher trainees’ motives for entering into a teaching career in Brunei Darussalam. Teaching and Teacher Education, 11(3), pp.275–280.
 ‌
 
-Reflection on an authentic practice observation (2000 words)
+Reflection on an authentic practice observation (1774 words)
 -----------------------------------------------
 
 In term 1 (September 2020) I was allocated a number of hours to support the School of Computing. This was a turbulent time as students were to be taught on campus during the sars-cov-2 pandemic. Students were to be taught in computer labs in group size of the stated room capacity (between 14 and 20). Lectures could no longer be given to the whole cohort of 180 students. As a supporting member of staff I had to deliver the lecture material and labs for the "Introduction to C#" module.
@@ -244,77 +312,8 @@ Tripp, D. (2012). Critical incidents in teaching : developing professional judge
 
 Wiliam, D. (2018). Embedded Formative Assessment. 2nd ed. Bloomington, Indiana Solution Tree Press.
 ‌
+### Appendix‌ - Reflections Evidence
 
-
-Brief
-=====
-
-
-The assessment for this module will take the form of a teaching portfolio.
-The portfolio will be made up of 4 sections on the following topics:
-
-
-1. The use of learning technology
-2. Assessment and feedback practice
-3. Other 
-    * (participant’s choice of focus e.g. students as partners in learning, reflective practice in the classroom, use of Academic Peer Mentors etc.)
-(All three sections will add up to a total of 2000 words or each of the three parts equivalent in total e.g. 4 minutes of an alternative such as video or voiced PowerPoint - X 3 would be a total of 12-13 minutes)
-
-4. A reflection on an authentic practice observation and feedback activity
-(2000 words or equivalent - e.g. 12-13 minutes voiced PowerPoint recording, video with annotations)
-
-Two things to keep at the front of your mind are REFLECT CONSTANTLY and EVALUATE YOUR OWN PRACTICE - so everything you do is about recognising, developing and enhancing your practice and linking it to the activities and research that you do for this module. This does need to be linked to research in the field so try to draw links between what yo read and what you do. 
-
-UKPSF Descriptors that should be covered on this module's summative assessment:
-D2.I: A1 and A3 must be achieved. Other As can be achieved between ETAS and SSPI
-D2.II: K1, K4 and K6 must be achieved. Others Ks can be achieved between ETAS and SSPI
-D2.III: V2 and V4 must be achieved. Other Vs can be achieved between ETAS and SSPI
-D2.IV: must be partially achieved in relation to the use of learning technologies and QAE processes
-D2.V: must be partially achieved in relation to specific scholarship discussed in the module
-D2.VI: does not need to be achieved yet
-
-
-Use the table below to check that you have met the necessary D2 descriptors in your summative assessment and tick them off as you achieve them:
-
-
-
-D2 descriptors checklist
-
-A1: Design and plan learning activities/ and or programmes of study
-A3: Assess and give feedback to learners
-K1: The subject material
-K4: The use and value of appropriate technologies
-K6: The implications of quality assurance and quality enhancement for academic practice – particularly teaching
-V2: Promote participation in higher education and equality of opportunity for learners
-V4: Acknowledge the wider context in which higher education operates recognising the implications for professional practice
-
-IV: Successful engagement in appropriate teaching practices related to the Areas of Activity
-V: Successful incorporation of subject and pedagogical research and/or scholarship within the above activities, as part of an integrated approach to academic practice
-
-
-
-
-Evidence
-========
-
-Observation
------------
-
-* In what ways did the observed session incorporate an identified enhancement to learning, teaching or assessment?  How could this be improved?
-  * Allan’s engagement with the material and the students was extremely personal, he made fantastic connections with the students, making sure that learning was active rather than passive. Visual examples produced by Allan in real time were used to guide students through their challenges with enough ‘scaffolding’ that they could navigate their own path. 
-  * The enhancement of real time programming support, rather than a direction to passive examples was well received by students, and furthermore, identifying this with industrial experience assisted the students in seeing why these concepts are valuable, not just in a university lecture but as a key skill in their future careers.
-  * In an ideal world this would have been better as a fully immersive session, but as the class was separated into on premises and remote learners there were challenges that can be resolved in the future.
-* In what ways did the observed session make use of the chosen enhancement to promote learning of the subject discipline?  How could this be improved?
-  * Active learning is a far better method of teaching in a technical subject such as programming. The majority of learners are ‘doers’ and have to engage in practical learning to commit the concepts to long term memory. By engaging them in a tutorial format (very short 5-minute ‘lectures’, with longer active learning practicals) the students remained engaged, and did not get tired or distracted with what is a very challenging subject. As previously mentioned, this could be improved with additional support for those interacting online.
-  * How well did the chosen enhancement meet the requirements of an inclusive curriculum?  How could this be improved?
-  * As each student was able to interact with the tutor to the level that they needed, this very much meets the requirements of an inclusive curriculum. The tutorial style also encourages pair programming, synonymous in academia with peer learning. Rather than a structure that the students have no control over, this style of teaching can be led by the class at the speed and depth needed. 
-  * Smaller group sizes would speed this up if the resource was available.
-
-
-
-
-Application Development in C#
------------------------------
 
 ![FormCalc Framework](./images/visual-studio-calc-example.gif)
 ```csharp
@@ -387,67 +386,77 @@ namespace Calc
 
 ```
 
-![BubbleSort in repl.it](./images/replit_bubble.gif)
-```csharp
-/*
-https://replit.com/@calaldees/BubbleSortTask
 
-Below is an example of a bubblesort in `java`.
-Try to implement this in C#
 
-class Main {
+Brief
+=====
 
-  public static void main(String[] args) {new Main();}
-  Main() {
-    String[] data = new String[]{"b", "d", "c", "a"};
-    data = bubbleSort(data);
-    System.out.println(String.join(",", data));
-  }
 
-  String[] bubbleSort(String[] data) {
-    //System.out.println("bubbleSort");
-    Boolean has_changed = true;
-    while (has_changed) {
-      //System.out.println(String.join(",", data));
-      has_changed = false;
-      for (Integer i=0 ; i < data.length-1 ; i++) {
-        String a = data[i];
-        String b = data[i+1];
-        //System.out.println("comparing "+i+":"+a+" with "+(i+1)+":"+b);
-        if (a.compareTo(b) > 0) {
-          //System.out.println("swap");
-          data[i] = b;
-          data[i+1] = a;
-          has_changed = true;
-        }
-      }
-    }
-    return data;
-  }
+The assessment for this module will take the form of a teaching portfolio.
+The portfolio will be made up of 4 sections on the following topics:
 
-}
-*/
 
-using System;
+1. The use of learning technology
+2. Assessment and feedback practice
+3. Other 
+    * (participant’s choice of focus e.g. students as partners in learning, reflective practice in the classroom, use of Academic Peer Mentors etc.)
+(All three sections will add up to a total of 2000 words or each of the three parts equivalent in total e.g. 4 minutes of an alternative such as video or voiced PowerPoint - X 3 would be a total of 12-13 minutes)
 
-class MainClass {
+4. A reflection on an authentic practice observation and feedback activity
+(2000 words or equivalent - e.g. 12-13 minutes voiced PowerPoint recording, video with annotations)
 
-  public static void Main (string[] args) {new MainClass();}
-  public MainClass() {
-    string[] data = new string[]{"b", "d", "c", "a"};
-    data = bubbleSort(data);
-    Console.WriteLine(String.Join(",", data));
-  }
+Two things to keep at the front of your mind are REFLECT CONSTANTLY and EVALUATE YOUR OWN PRACTICE - so everything you do is about recognising, developing and enhancing your practice and linking it to the activities and research that you do for this module. This does need to be linked to research in the field so try to draw links between what yo read and what you do. 
 
-  String[] bubbleSort(String[] data) {
-    Console.WriteLine("bubbleSort");
-    // CODE GOES HERE!
-    return data;
-  }
+UKPSF Descriptors that should be covered on this module's summative assessment:
+D2.I: A1 and A3 must be achieved. Other As can be achieved between ETAS and SSPI
+D2.II: K1, K4 and K6 must be achieved. Others Ks can be achieved between ETAS and SSPI
+D2.III: V2 and V4 must be achieved. Other Vs can be achieved between ETAS and SSPI
+D2.IV: must be partially achieved in relation to the use of learning technologies and QAE processes
+D2.V: must be partially achieved in relation to specific scholarship discussed in the module
+D2.VI: does not need to be achieved yet
 
-}
-```
 
+Use the table below to check that you have met the necessary D2 descriptors in your summative assessment and tick them off as you achieve them:
+
+
+
+D2 descriptors checklist
+
+A1: Design and plan learning activities/ and or programmes of study
+A3: Assess and give feedback to learners
+K1: The subject material
+K4: The use and value of appropriate technologies
+K6: The implications of quality assurance and quality enhancement for academic practice – particularly teaching
+V2: Promote participation in higher education and equality of opportunity for learners
+V4: Acknowledge the wider context in which higher education operates recognising the implications for professional practice
+
+IV: Successful engagement in appropriate teaching practices related to the Areas of Activity
+V: Successful incorporation of subject and pedagogical research and/or scholarship within the above activities, as part of an integrated approach to academic practice
+
+
+
+
+Evidence
+========
+
+Observation
+-----------
+
+* In what ways did the observed session incorporate an identified enhancement to learning, teaching or assessment?  How could this be improved?
+  * Allan’s engagement with the material and the students was extremely personal, he made fantastic connections with the students, making sure that learning was active rather than passive. Visual examples produced by Allan in real time were used to guide students through their challenges with enough ‘scaffolding’ that they could navigate their own path. 
+  * The enhancement of real time programming support, rather than a direction to passive examples was well received by students, and furthermore, identifying this with industrial experience assisted the students in seeing why these concepts are valuable, not just in a university lecture but as a key skill in their future careers.
+  * In an ideal world this would have been better as a fully immersive session, but as the class was separated into on premises and remote learners there were challenges that can be resolved in the future.
+* In what ways did the observed session make use of the chosen enhancement to promote learning of the subject discipline?  How could this be improved?
+  * Active learning is a far better method of teaching in a technical subject such as programming. The majority of learners are ‘doers’ and have to engage in practical learning to commit the concepts to long term memory. By engaging them in a tutorial format (very short 5-minute ‘lectures’, with longer active learning practicals) the students remained engaged, and did not get tired or distracted with what is a very challenging subject. As previously mentioned, this could be improved with additional support for those interacting online.
+  * How well did the chosen enhancement meet the requirements of an inclusive curriculum?  How could this be improved?
+  * As each student was able to interact with the tutor to the level that they needed, this very much meets the requirements of an inclusive curriculum. The tutorial style also encourages pair programming, synonymous in academia with peer learning. Rather than a structure that the students have no control over, this style of teaching can be led by the class at the speed and depth needed. 
+  * Smaller group sizes would speed this up if the resource was available.
+
+
+
+
+Application Development in C#
+-----------------------------
 
 Notes
 =====
