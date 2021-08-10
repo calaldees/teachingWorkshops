@@ -75,5 +75,6 @@
 * [Is Geothermal Really Going to be a Thing?](https://austinvernon.eth.link/blog/geothermal.html)
     * Really good breakdown of how geothermal works
 
-
+* [Wealth shown to scale](https://mkorostoff.github.io/1-pixel-wealth/)
+    * The 400 richest americans own unimaginable amount of wealth. Even to the biggest popstars
 

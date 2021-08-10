@@ -320,7 +320,33 @@ In conventional courses, the delivery of all aspects of a course are controlled 
 Reflection on an authentic practice observation (2000 words)
 -----------------------------------------------
 
+While supporting the module "Application Development in C#" we were unable to accomadate the whole class in one computer room. I physically managed one room while the module lead gave the lecture and demo'ed their programming environment next door. It was difficult for us to hear and see the material due to the quality of the AV equipment. I could see students struggling. Being familar with the material I switched to delivering the material myself. The students were immedaitly more engaged. I broke the tasks up into short busts of lecture and practical activities. See appendix for my FormCalc example. Gordon Aiken (Senior Lecturer) observed my delivery. He remarked at how personal I made the interactions and I was able to match the pace of learners through ongoing formative assessment as I was able to circulate the room.
 
+The next week I delivered the next segment of the course. There was some confusion about wether we would be delivering in two separate rooms again. We had to wait until we knew the total student attendence. Many of the students were deliberatly being non commital about which room they were allocating themselfs too as they were waiting to see which room I would be lecturing in. I raied this with the seniro lecturer. He remarked that this was because the students who had been taught in my smaller group last sesson had mistook the smaller more intimate class size as more productive. We eventually allocate all students to a single room and I began to deliver the material. My feedback was good. I attempted to make the learning personal. It was much harder to circulate and formativly assess with a bigger class size. The observation highlighted that with my current technique I was unable to help each student personally.
+
+In "The Class Size Debate" 2002; Krueger argues that smaller class sizes improve students performance.  Hanushek suggests that the quality of the teaching is more impactful. Ronald et al (2001) state that there is little evidence of class size affacting student attainment but different instructional strategies must be employed to cater for different class sizes. The Education Endowment Foundation (EEF) commisions studies to investigate the efectivness of teaching stratergies against cost. In their 2018 report the EEF identify that reduced class sizes are only effective if the intructional stratergies is aligned with that group size. My techniqie of allocating time to individuals was sufficent for class sizes below 15 but was insuffecnt to cater for the larger class sizes I was experiencing.
+
+In his book "Embedded Formative Assessment" Wiliam talks about a range of formative assessment techniques for larger class sizes. Wiliam suggests that 'mini whiteboards' could be used to solicit responses from a whole class. This stratergy would allow me as a practictioner to assess students understanding in much more effect way than my previous stratergy of individually engaging studenst in conversation. When delivering lessons similtaniously remotly and in person, I could utilise systems like "whiteboard.fi" to provide digital mini whiteboards for a whole class. My remote students have an internet connection to participate and physicaly present students are already using a networked computer.
+
+
+
+* [Embedded Formative Assessment] Wiliam D, 2011
+
+* [The Class Size Debate](http://hanushek.stanford.edu/sites/default/files/publications/Hanushek 2002 ClassSizeDebate.pdf) Economic Policy institute 2002 ISBN 0-944826-92-X
+
+
+
+The finding that teaching practices do not vary with class size is consistent with recent work on school restructuring
+
+Reflecting on 
+(Shapson 1980) found no relations between class size and student engagement or “classroom atmosphere.”
+
+* [Class Size and Student Achievement](https://journals.sagepub.com/doi/full/10.1111/1529-1006.003) 2001
+Ronald G. Ehrenberg, Dominic J. Brewer, Adam Gamoran, J. Douglas Willms
+
+* Education Endowment Foundation [Reducing class size](https://educationendowmentfoundation.org.uk/evidence-summaries/teaching-learning-toolkit/reducing-class-size/) 2018
+    * Moderate impact for high cost, based on moderate evidence.
+		
 
 
 Students smaller groups
@@ -344,7 +370,7 @@ Multiple members of the Computing team were applied at short notice to support "
 
 The lab material provided required the students to use "Cisco Packet Tracer" as a simulated network environment. This was _free_ software but would require installation. Installing this on the normal CCCU campus machines required a lengthly process of approval (CCCU - New Software Request). The computing department had their own machines and network, but this is an isolated network. "Cisco Packet Tracer" required a cisco login and required an internet connection to startup, even though this was not required for the softwares main operation. It was not possible to use "Cisco Packat Tracer" given the time we had available. (A1 Design and Plan, K1 Subject Material)
 
-Communication with the external module lead was difficult with lengthly delays. As a team we collectivly took the initiative to rework the lectures to have student interactions and provide an alternative lab with software approriate to our environement restrictions. Included in the evidence section are the lesson plans and labs we developed. We modifed the lecture slides to include group discussion and research activites to match the department requirements for CDIO, CCCU graduate attributes and Dialogic Teaching Practice (xxx 20xx).
+Communication with the external module lead was difficult with lengthly delays. As a team we collectivly took the initiative to rework the lectures to have student interactions and provide an alternative lab with software approriate to our environement restrictions. Included in the evidence section are the lesson plans and labs we developed. We modifed the lecture slides to include group discussion and research activites (see slide 6 slide 14) to match the department requirements for CDIO, CCCU graduate attributes and Dialogic Teaching Practice (xxx 20xx).
 
 My colleages behaviour was exemplary. There was no talk of acusing other staff or negative tone. Conversations were profetional and focused on resolving the problem with the resources and time availalble. Empathy was shown to the module lead. The lead had been placed at short notice in a situation they appears unprepared for. Maybe the module lead had not been breifed aquiquarely about their role and requirements. There had possiblely been a fiauliure of communcation. My team were role models of profetionalisum.
 
@@ -358,7 +384,7 @@ The response from the students was surising. The session was constucted in a rus
 
 After two session my involvement with the Networks module ended and other staff took over the assessment. I was conratuated by the head of Computing who remarked "I like people who can get the job done". Following this the deparment opened 4 new lecturing positions to bring new skills into the department. I have now been appointed "Lecturer in Computing" for 2021/2022 and have my own module "Frameworks and Langauges" to prepare. 
 
-I am aware of the panic and frustration I saw in students undertaking the Networks module. As an insitution student welbeing is part of CCCU's Learning and Teaching Stratergy. We should be mindful of students wellbeing as this implcats on CCCU's Retention and Success Framework.
+I am aware of how unsettled and frustratated the students undertaking the Networks module were. As an insitution, student welbeing is part of CCCU's Learning and Teaching Stratergy. We should be mindful of students wellbeing as this implcats on CCCU's Retention and Success Framework. Organistional issues will arrise as part of normal operation. As profetionals it is our responsibility to continue to improve the experience of our students.
 
 
 * [Cantebury Christ Chuch - Learning and Teaching Strategy](https://www.canterbury.ac.uk/learning-and-teaching-enhancement/strategies/learning-and-teaching-strategy.aspx) 2015 to 2022
@@ -378,7 +404,8 @@ http://cdio.org/content/cdio-standards-30
 http://cdio.org/cdio-vision
 
 
-slide 6 slide 14
+
+
 
 
 

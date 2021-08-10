@@ -28,10 +28,20 @@ Python + PHP
 
 DB, Templates, Routing
 
-CodIgnitor PHP
+CGI-BIN - write a script in any labnagueg as long as it printed html response
+PHP lowered barrier to entry to server - get people started
+
+Wordpress - Framework? Lots of plugs
+No other frameworks at the time
+
+CodIgnitor PHP - Laravell (new) PHP
 Node.js
 Rails (Ruby)
 Falcon
+
+Shimmi - own framework - 
+v1 hardcoded for one use - image board - could not do anything else with it
+v2 others interested but wanted differnt features - started plugings - made a minimum engine. Everything was a plugin that spoke to each other. Event system page event kicks it off - login plugin 
 
 #### Django
 
@@ -63,7 +73,18 @@ Historical JQuery
 
 #### React
 
+Reuseable components 
+  calendar (like any other html tag)
+
 #### Angular
+
+Elm
+Vue.js
+   wikipedia redo frontend with vue
+
+HyperApp
+
+
 
 ### Style
 
@@ -213,5 +234,7 @@ gitpod docker support
 https://github.com/gitpod-io/gitpod/issues/52#issuecomment-738629624
 https://community.gitpod.io/t/running-docker-within-gitpod/538/8
 https://github.com/shaal/ddev-gitpod
+
+
 
 
