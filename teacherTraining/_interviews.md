@@ -111,7 +111,7 @@ General Teaching (12 min)
 * Provide examples of times when workload and numerous tasks have been managed concurrently?
 * You have prepared an amazing lesson with guidance from theory and the university. You present the lesson plan to your mentor who is no convinced and does not want you to run the lesson. How do you respond?
 * Can you give an example of where you changed your opinion?
-* TODO: SEN Students - not engaged - is that important?
+* In a GCSE class, you have 2 very slow students with special needs. They are never interested or engaged with computing. You have 28 other students that need your attention. Are those two important?
 
 
 Questions (5 min)

@@ -298,6 +298,7 @@ General Information and Pre Reading
 * Books
     * [What If Everything You Knew About Education Was Wrong?](https://www.amazon.co.uk/Everything-About-Education-Wrong-Paperback/dp/1785831577/) David Didau
         * Demystifying our traditional approaches to teaching and learning and why they might be wrong
+    * [How to Teach Computer Science: Parable, practice and pedagogy](https://www.amazon.co.uk/How-Teach-Computer-Science-practice/dp/1913622576/) July 2021 £12
     * [Computer Science Education: Perspectives on Teaching and Learning in School](https://www.amazon.co.uk/Computer-Science-Education-Erik-Barendsen/dp/135005710X/) Sue Sentence
         * Targeted perspectives for teaching Computing
 * Computing Teaching Resources
