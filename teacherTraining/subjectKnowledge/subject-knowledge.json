@@ -1,0 +1,464 @@
+[
+    {
+        "id": "",
+        "tags": ["theory"],
+        "title": "Reason about complexity O(n)",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": [],
+        "title": "FTP, POP, IMAP, SMTP",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": ["practical"],
+        "title": "Subnet mask, Gateway, DNS, Routing, Packet Switching",
+        "description": "Use/setup/configure a network simulator"
+    },
+    {
+        "id": "",
+        "tags": ["theory"],
+        "title": "Operating system, virtual memory, scheduling, sandbox, drivers, filesystems, userlevels",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": ["theory"],
+        "title": "interpreter/compiler",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": ["code"],
+        "title": "bubble, quick, merge, selection, insertion",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": ["code"],
+        "title": "list, stack, queue with static array",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": ["code"],
+        "title": "tree (priority queue)",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": ["code"],
+        "title": "Convert base (binary2, oct8, hex16, denery10)",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": ["code"],
+        "title": "Check Digit",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": ["code"],
+        "title": "Compression (RLE, Huffman)",
+        "description": "RLE Image?"
+    },
+    {
+        "id": "",
+        "tags": ["code"],
+        "title": "TCP + UDP",
+        "description": "Send and receive a TCP + UDP packet"
+    },
+    {
+        "id": "",
+        "tags": ["code"],
+        "title": "HTTP GET & POST",
+        "description": "Respond to GET and POST requests"
+    },
+    {
+        "id": "",
+        "tags": ["code"],
+        "title": "Cookie",
+        "description": "Set and retrieve"
+    },
+    {
+        "id": "",
+        "tags": ["practical"],
+        "title": "Full Adder, Flip-Flop, Multiplexor",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": ["code", "practical"],
+        "title": "Assembler",
+        "description": "LoadRegister, Addition, StoreRegister. Extension: generate fibonacci. Try LittleManComputer"
+    },
+    {
+        "id": "",
+        "tags": ["code"],
+        "title": "Audio: Square, Triangle, Saw, Sine wave",
+        "description": "Generate a raw binary file from code that produces a waveform"
+    },
+
+    {
+        "id": "",
+        "tags": ["code"],
+        "title": "Concurrency",
+        "description": "Data passing between process's"
+    },
+
+    {
+        "id": "",
+        "tags": ["code"],
+        "title": "Cypher",
+        "description": "Implement vinurette cypher encode/decode"
+    },
+    {
+        "id": "",
+        "tags": ["practical"],
+        "title": "Remote pair live coding tool",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": ["practical"],
+        "title": "Code Review",
+        "description": "evidence of what was suggested"
+    },
+    {
+        "id": "",
+        "tags": ["practical"],
+        "title": "Version control (git)",
+        "description": "Comment + approve a pull request. (evidence: url to public repo)"
+    },
+    {
+        "id": "",
+        "tags": ["code", "practical"],
+        "title": "Text Formatting: Markdown or LaText",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": ["code"],
+        "title": "Unit Tests",
+        "description": "generate a report from a series of tests"
+    },
+    {
+        "id": "",
+        "tags": ["practical"],
+        "title": "Performance profile",
+        "description": "e.g. compare two sorting algorithums (average time to complete over 100 runs with random data?)"
+    },
+    {
+        "id": "",
+        "tags": ["practical"],
+        "title": "Virtualisation",
+        "description": "Create a VM"
+    },
+    {
+        "id": "",
+        "tags": ["practical"],
+        "title": "Containerisation",
+        "description": "Create a container"
+    },
+    {
+        "id": "",
+        "tags": ["code"],
+        "title": "Dynamic Language",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": ["code"],
+        "title": "Static Language",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": ["code"],
+        "title": "Function Language",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": ["practical"],
+        "title": "Visual/Block Language",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": ["code"],
+        "title": "Webpage in text editor",
+        "description": "links, images, forms, events, animation, colour, HTML, Css, js"
+    },
+    {
+        "id": "",
+        "tags": ["code"],
+        "title": "Micro-controller",
+        "description": "program one#. Microbit? Arduino?"
+    },
+    {
+        "id": "",
+        "tags": ["code"],
+        "title": "Draw geometric shapes with recursion",
+        "description": "Tree?"
+    },
+    {
+        "id": "",
+        "tags": ["practical"],
+        "title": "Register a domain name",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": ["code"],
+        "title": "SQL",
+        "description": "SELECT, INSERT, UPDATE, JOIN"
+    },
+    {
+        "id": "",
+        "tags": ["code", "practical"],
+        "title": "GUI",
+        "description": "Create a GUI (with code or graphical tool)"
+    },
+    {
+        "id": "",
+        "tags": ["practical"],
+        "title": "MailMerge",
+        "description": "email"
+    },
+    {
+        "id": "",
+        "tags": ["practical"],
+        "title": "3D Printer + Model",
+        "description": "Print a 3D model"
+    },
+    {
+        "id": "",
+        "tags": ["code", "practical"],
+        "title": "Train an AI classifier",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": ["code"],
+        "title": "json, xml, yaml, toml",
+        "description": "Use of some of these formats"
+    },
+
+    {
+        "id": "",
+        "tags": ["code"],
+        "title": "Simple Model",
+        "description": "Create a simple computer model. e.g. sea level hight image, estimate number of customers with tickets and drinks"
+    },
+
+    {
+        "id": "",
+        "tags": [],
+        "title": "",
+        "description": ""
+    },
+
+    {
+        "id": "",
+        "tags": ["practical"],
+        "title": "Use a keylogger",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": ["social"],
+        "title": "GDPR",
+        "description": "what, why, how, rational, cookie (any why)"
+    },
+    {
+        "id": "",
+        "tags": ["social"],
+        "title": "Privacy",
+        "description": "Biometrics, Geo-Location, Accelerometer"
+    },
+    {
+        "id": "",
+        "tags": ["practical"],
+        "title": "Setup Email Rules",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": ["social"],
+        "title": "Careers",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": ["social"],
+        "title": "Tomorrows Tools",
+        "description": "Almost all current tech will be evolved/changed in 10/20 years. What is the future workplace"
+    },
+    {
+        "id": "",
+        "tags": ["code", "practical"],
+        "title": "Wiki Syntax",
+        "description": "Update a wiki"
+    },
+    {
+        "id": "",
+        "tags": [],
+        "title": "User interface design",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": ["social"],
+        "title": "Societal impact",
+        "description": "AI, self driving cars, economy, implants, rising automation"
+    },
+    {
+        "id": "",
+        "tags": ["social"],
+        "title": "Economics - Why are some web services free?",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": ["practical", "ict"],
+        "title": "Advanced Web Search: AND, OR, NOT, Date",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": ["practical"],
+        "title": "Pishing",
+        "description": "(maybe create a mock login? branded email?)"
+    },
+    {
+        "id": "",
+        "tags": ["code", "practical", "ict"],
+        "title": "Draw a graph from a dataset",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": ["ict"],
+        "title": "Styles + Slide Master",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": ["practical"],
+        "title": "Unreal 4: Blueprints",
+        "description": "simple logic e.g. collect + count coins"
+    },
+    {
+        "id": "",
+        "tags": ["ict"],
+        "title": "Record Video Presentation with subtitles and host publicly visible",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": ["code"],
+        "title": "Modify an SVG image from text",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": [],
+        "title": "",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": [],
+        "title": "",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": [],
+        "title": "",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": [],
+        "title": "",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": [],
+        "title": "",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": [],
+        "title": "",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": [],
+        "title": "",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": [],
+        "title": "",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": [],
+        "title": "",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": [],
+        "title": "",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": [],
+        "title": "",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": [],
+        "title": "",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": [],
+        "title": "",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": [],
+        "title": "",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": [],
+        "title": "",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": [],
+        "title": "",
+        "description": ""
+    }
+
+]

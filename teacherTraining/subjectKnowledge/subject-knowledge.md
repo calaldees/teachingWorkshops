@@ -37,35 +37,51 @@ Suggestion
 * Computing Theory
     * Implement
         * bubble, quick, merge, selection, insertion
-        * array, list, tree, stack, queue, priority queue
+        * list, tree, stack, queue with static array
         * Number bases (binary2, oct8, hex16, denery10)
         * ASCII, Unicode
         * Create a simple model
     * Compression, RLE, Huffman coding
     * Reason about time complexity O(n)
+    * priority queue
+    * a Square, Triangle or Sine wave
+        * Generate a raw binary file from code that produces
+            *  (that can be opened in audacity)
     * Binary representation of audio, images (raster, vector), video
-    * TPC, UDP, Subnet mask, DNS, Packet Switching, Circuit Switching
+    * TPC, UDP
+    * Subnet mask, DNS, Packet 8Switching
     * HTTP, HTTPS, FTP, POP, IMAP, SMTP
-    * Transistors, logic gates, full adder, multiplexor, flip-flips, clock, register, fetch-execute-cycle
+    * cookie
+    * Transistors, logic gates, full adder, multiplexor, flip-flips
+    * assembler, clock, register, fetch-execute-cycle
     * Operating system, virtual memory, scheduling, sandbox, drivers, filesystems, userlevels
-    * Interpreter, Compiler, Assembler
-* Engineering (Practical programming) - Tools, Code review, practical system design
+    * cypher (encoder/decoder)
+    * Concurrency
+* Engineering (Practical use) - Tools, Code review, practical system design
     * Use of remote pair live coding tool
     * Code Review
     * Debugger, callstack, scope, step-into, step-over, postmortem
+    * Use of a package manger
     * Version control (git)
         * Comment and approve a pull request
-        * Readme in Markdown
+    * Markdown or LaTex
     * Automated tests, unittests
+    * Profile/compare performance of two sorting algorithms in two languages
     * Use virtualisation
     * Use containers
     * Static, Dynamic, Functional, Visual language
-    * Webpage in text editor, links, images, colors, events, animation, HTML, Css
+        * use of interperetor, compiler
+    * Webpage in text editor, 
+        * links, images, colors, events, animation, HTML, Css, js
     * Micro-controllers + input + output
-    * Use of a package manger
     * Code to draw geometric shapes with recursion
     * Register a domain name - host content
     * SQL - mailmerge pdf?
+    * GUI
+    * Mailmerge
+    * Print a 3D model
+    * Train an AI (classifyer)
+    * json, xml, yaml, toml
 * Societal
     * Laws, Ethics, Digital Literacy
     * Find a dataset, draw a graph from dataset
@@ -88,6 +104,7 @@ Suggestion
     * Societal impact - AI, self driving cars, economy, implants, rising automation
     * Wiki Syntax / update
     * Password manager, 2uf, authenticator app
+    * User Interface Design
 
 
 Other skills

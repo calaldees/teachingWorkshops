@@ -1,0 +1,139 @@
+<!DOCTYPE html><html>
+<head>
+    <meta charset="utf-8" />
+    <link id="favicon" rel="shortcut icon" type="image/png" href="data:image/png;base64,....==" />
+    <title>Subject Knowledge Audit</title>
+    <style>
+        #source {
+            position: absolute;
+            right: 0;
+            top: 0;
+        }
+        #navigation a {
+            margin-right: 1em;
+        }
+
+        pre {
+            margin: 0em;
+        }
+
+        table {
+            border-spacing: 0;
+            border-collapse: collapse;
+            border:solid #000 !important;
+            border-width:1px 0 0 1px !important;
+        }
+        table td, th {
+            /* border: 1px solid black; */
+            border:solid #000 !important;
+            border-width:0 1px 1px 0 !important;
+            vertical-align: top;
+        }
+
+        @media print {
+            @page {
+                margin: 1em;
+            }
+            #navigation, #source {  /* and (min-width: 500px) */
+                display: none;
+            }
+            table { 
+                page-break-inside:auto;
+            }
+            tr {
+                page-break-inside:avoid; 
+                page-break-after:auto;
+            }
+        }
+    </style>
+</head>
+<body>
+<a id="source" href="https://github.com/calaldees/">source todo</a>
+<div id="navigation"></div>
+<div id="main"></div>
+<script type="module">
+
+
+//const QUERY_STRING_project = 'project';
+//const urlParams = new URLSearchParams(window.location.search);
+
+const navigationElement = document.getElementById('navigation');
+const mainElement = document.getElementById('main') || document.getElementsByTagName('body').item(0);
+
+let _data;
+window.onhashchange = function() {
+    renderData(_data);
+}
+
+function renderData(data) {
+    const languages = window.location.hash.replace('#','').split(',').filter((i)=>typeof(i)==="string" && i.length);
+
+    // Clear existing html
+    navigationElement.innerHTML = '';
+    mainElement.innerHTML = '';
+
+    let tags = data.reduce(
+        (acc, item) => {
+            for (let tag of item.tags) {acc.add(tag);}
+            return acc;
+        },
+        new Set(),
+    );
+    console.log(tags);
+    
+
+    // Build navigation
+    /*
+    function nav_a(language, languages) {
+        const a = document.createElement('a');
+        a.href = `#${languages.join(",")}`;
+        a.textContent = language;
+        return a;
+    }
+    for (let language of Object.keys(data.languages)) {
+        navigationElement.appendChild(nav_a(
+            language,
+            languages.indexOf(language) < 0 ? languages.concat([language]) : languages.filter((i)=>i!=language),
+        ));
+    }
+    */
+
+    let keys = ["", "Theory", "Practical", "Taught"]
+
+    // Build Table
+    const table = document.createElement('table');
+
+    // Table - Heading
+    const table_headings = document.createElement('thead');
+    
+    //table_headings.appendChild(document.createElement('th'));
+    for (let key of keys) {
+        const table_heading = document.createElement('th');
+        table_heading.textContent = key;
+        table_headings.appendChild(table_heading);
+    }
+    table.appendChild(table_headings);
+
+    // Table - Body
+    for (let item of data) {
+        const table_row = document.createElement('tr');
+
+        const table_item = document.createElement('td');
+        //table_row_name.textContent = `<>`
+        table_item.innerHTML = `<p>${item['title']}</p><p>${item['description']}</p>`;
+        table_row.appendChild(table_item);
+
+        table.appendChild(table_row);
+    }
+
+    mainElement.appendChild(table);
+}
+
+
+fetch(`subject-knowledge.json`)
+    .then(response => response.json())
+    .then((data)=>_data=data)
+    .then(renderData)
+.catch(err => console.error(err));
+
+</script></body></html>
