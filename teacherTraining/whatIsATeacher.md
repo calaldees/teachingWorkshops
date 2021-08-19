@@ -284,3 +284,7 @@ Final note
 
 * Action points?
 * Reflection?
+
+
+* [Teacher quality: how to get more of it (Spectator ‘Schools Revolution’ conference, March)](https://www.dylanwiliam.org/Dylan_Wiliams_website/Papers_files/Spectator%20talk.doc) 2010
+* [researchED Durrington Dylan Wiliam:Teacher quality-What it is; why it matters;how to get more of it?](https://www.youtube.com/watch?v=BacHtPrh-qQ) YouTube 22min 2020

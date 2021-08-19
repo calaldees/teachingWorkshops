@@ -78,3 +78,5 @@
 * [Wealth shown to scale](https://mkorostoff.github.io/1-pixel-wealth/)
     * The 400 richest americans own unimaginable amount of wealth. Even to the biggest popstars
 
+* [Burning buried sunshine](https://plus.maths.org/content/burning-buried-sunshine)
+    * > over 23 tonnes of plants to produce each and every litre of petrol 

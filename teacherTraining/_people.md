@@ -29,9 +29,37 @@ People
 
 * [@ChrisSheltonUK](https://twitter.com/chrissheltonuk)
     * [Dr Chris Shelton](https://www.chi.ac.uk/staff/dr-chris-shelton) University of Chichester
+    * Head of TPEC
 
 
 * [Professor Christina Preston](https://www.dmu.ac.uk/about-dmu/academic-staff/health-and-life-sciences/christina-preston/christina-preston.aspx)
     * Started mirandanet.ac.uk
 
 * [teacherofsci.com](https://teacherofsci.com/) [@TeacherOfSci1](https://twitter.com/TeacherOfSci1)
+* [](teachwithict.com)
+* [Sammy_b9](https://twitter.com/Sammy_b9/status/1427247989723222017)
+    * > Pleased to announce that from September I will be becoming a trainee computer science teacher. Please point me in the right direction of anyone to follow #teachertwitter
+ @MrAHarrisonCS
+ @sjrADA
+ @makercupboard
+ @WeAreComputing
+ @Raspberry_Pi
+ @clcsimon
+ @advanced_ict
+ @teknoteacher
+ @MrAColley
+ @crossbynameonly
+ @CodeBoom
+ @FranksberryPi
+ @BenberryPi
+ @MrLauLearning
+ @LegoJames
+ @MrAColley
+ @tough_miss
+ @teknoteacher
+ @clcsimon
+ @MrLauLearning
+ @suesentance
+ @Baggiepr
+ @caschat_uk
+ @HelloWorld_Edu)
