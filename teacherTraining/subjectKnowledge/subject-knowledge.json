@@ -1,6 +1,30 @@
 [
     {
         "id": "",
+        "tags": ["code"],
+        "title": "Dynamic Language",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": ["code"],
+        "title": "Static Language",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": ["code"],
+        "title": "Function Language",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": ["practical"],
+        "title": "Visual/Block Language",
+        "description": ""
+    },
+    {
+        "id": "",
         "tags": ["theory"],
         "title": "Reason about complexity O(n)",
         "description": ""
@@ -50,20 +74,20 @@
     {
         "id": "",
         "tags": ["code"],
-        "title": "Convert base (binary2, oct8, hex16, denery10)",
-        "description": ""
+        "title": "Convert number base (binary2, oct8, hex16, denery10)",
+        "description": "Write code to convert from one number base to another"
     },
     {
         "id": "",
         "tags": ["code"],
         "title": "Check Digit",
-        "description": ""
+        "description": "Implement an ISBN check digit formula"
     },
     {
         "id": "",
         "tags": ["code"],
         "title": "Compression (RLE, Huffman)",
-        "description": "RLE Image?"
+        "description": "encode and/or decode an RLE format (conway wiki?). Huffman theory."
     },
     {
         "id": "",
@@ -81,13 +105,13 @@
         "id": "",
         "tags": ["code"],
         "title": "Cookie",
-        "description": "Set and retrieve"
+        "description": "Set and retrieve a cookie"
     },
     {
         "id": "",
         "tags": ["practical"],
         "title": "Full Adder, Flip-Flop, Multiplexor",
-        "description": ""
+        "description": "Use a circuit simulator"
     },
     {
         "id": "",
@@ -98,8 +122,8 @@
     {
         "id": "",
         "tags": ["code"],
-        "title": "Audio: Square, Triangle, Saw, Sine wave",
-        "description": "Generate a raw binary file from code that produces a waveform"
+        "title": "Audio: Square, Triangle, Saw, Sine waves",
+        "description": "Generate a raw binary file from code that produces a waveform. Load + Play in audacity?"
     },
 
     {
@@ -125,7 +149,7 @@
         "id": "",
         "tags": ["practical"],
         "title": "Code Review",
-        "description": "evidence of what was suggested"
+        "description": "comments/annotations to evidence what was suggested/discussed"
     },
     {
         "id": "",
@@ -135,7 +159,7 @@
     },
     {
         "id": "",
-        "tags": ["code", "practical"],
+        "tags": ["code"],
         "title": "Text Formatting: Markdown or LaText",
         "description": ""
     },
@@ -143,7 +167,7 @@
         "id": "",
         "tags": ["code"],
         "title": "Unit Tests",
-        "description": "generate a report from a series of tests"
+        "description": "generate a test report from a series of tests"
     },
     {
         "id": "",
@@ -155,37 +179,13 @@
         "id": "",
         "tags": ["practical"],
         "title": "Virtualisation",
-        "description": "Create a VM"
+        "description": "Create a VM. Install a linux distro?"
     },
     {
         "id": "",
         "tags": ["practical"],
         "title": "Containerisation",
         "description": "Create a container"
-    },
-    {
-        "id": "",
-        "tags": ["code"],
-        "title": "Dynamic Language",
-        "description": ""
-    },
-    {
-        "id": "",
-        "tags": ["code"],
-        "title": "Static Language",
-        "description": ""
-    },
-    {
-        "id": "",
-        "tags": ["code"],
-        "title": "Function Language",
-        "description": ""
-    },
-    {
-        "id": "",
-        "tags": ["practical"],
-        "title": "Visual/Block Language",
-        "description": ""
     },
     {
         "id": "",
@@ -344,7 +344,7 @@
         "id": "",
         "tags": ["ict"],
         "title": "Styles + Slide Master",
-        "description": ""
+        "description": "Anyone that manually changes the size of a font in a wisiwig editor is not a computing specialist"
     },
     {
         "id": "",
@@ -363,102 +363,5 @@
         "tags": ["code"],
         "title": "Modify an SVG image from text",
         "description": ""
-    },
-    {
-        "id": "",
-        "tags": [],
-        "title": "",
-        "description": ""
-    },
-    {
-        "id": "",
-        "tags": [],
-        "title": "",
-        "description": ""
-    },
-    {
-        "id": "",
-        "tags": [],
-        "title": "",
-        "description": ""
-    },
-    {
-        "id": "",
-        "tags": [],
-        "title": "",
-        "description": ""
-    },
-    {
-        "id": "",
-        "tags": [],
-        "title": "",
-        "description": ""
-    },
-    {
-        "id": "",
-        "tags": [],
-        "title": "",
-        "description": ""
-    },
-    {
-        "id": "",
-        "tags": [],
-        "title": "",
-        "description": ""
-    },
-    {
-        "id": "",
-        "tags": [],
-        "title": "",
-        "description": ""
-    },
-    {
-        "id": "",
-        "tags": [],
-        "title": "",
-        "description": ""
-    },
-    {
-        "id": "",
-        "tags": [],
-        "title": "",
-        "description": ""
-    },
-    {
-        "id": "",
-        "tags": [],
-        "title": "",
-        "description": ""
-    },
-    {
-        "id": "",
-        "tags": [],
-        "title": "",
-        "description": ""
-    },
-    {
-        "id": "",
-        "tags": [],
-        "title": "",
-        "description": ""
-    },
-    {
-        "id": "",
-        "tags": [],
-        "title": "",
-        "description": ""
-    },
-    {
-        "id": "",
-        "tags": [],
-        "title": "",
-        "description": ""
-    },
-    {
-        "id": "",
-        "tags": [],
-        "title": "",
-        "description": ""
     }
-
 ]

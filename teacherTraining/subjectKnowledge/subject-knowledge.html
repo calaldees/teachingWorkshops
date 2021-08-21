@@ -3,52 +3,21 @@
     <meta charset="utf-8" />
     <link id="favicon" rel="shortcut icon" type="image/png" href="data:image/png;base64,....==" />
     <title>Subject Knowledge Audit</title>
+    <link rel="stylesheet" href="_base.css">
     <style>
-        #source {
-            position: absolute;
-            right: 0;
-            top: 0;
+        td .title {
+            font-weight: bold;
         }
-        #navigation a {
-            margin-right: 1em;
-        }
-
-        pre {
-            margin: 0em;
+        td .description {
+            color: grey;
+            font-size: smaller;
         }
 
-        table {
-            border-spacing: 0;
-            border-collapse: collapse;
-            border:solid #000 !important;
-            border-width:1px 0 0 1px !important;
-        }
-        table td, th {
-            /* border: 1px solid black; */
-            border:solid #000 !important;
-            border-width:0 1px 1px 0 !important;
-            vertical-align: top;
-        }
-
-        @media print {
-            @page {
-                margin: 1em;
-            }
-            #navigation, #source {  /* and (min-width: 500px) */
-                display: none;
-            }
-            table { 
-                page-break-inside:auto;
-            }
-            tr {
-                page-break-inside:avoid; 
-                page-break-after:auto;
-            }
-        }
     </style>
 </head>
 <body>
 <a id="source" href="https://github.com/calaldees/">source todo</a>
+<div id="markdown"></div>
 <div id="navigation"></div>
 <div id="main"></div>
 <script type="module">
@@ -59,6 +28,24 @@
 
 const navigationElement = document.getElementById('navigation');
 const mainElement = document.getElementById('main') || document.getElementsByTagName('body').item(0);
+
+
+// Markdown
+function renderMarkdown(data) {
+    console.log(data);
+    const markdown = document.getElementById("markdown");
+    const pre = document.createElement('pre');
+    pre.append(document.createTextNode(data));
+    markdown.append(pre);
+}
+fetch(`subject_knowledge.md`)
+    .then(response => response.body)
+    .then(renderMarkdown)
+.catch(err => console.error(err));
+
+
+
+
 
 let _data;
 window.onhashchange = function() {
@@ -80,7 +67,7 @@ function renderData(data) {
         new Set(),
     );
     console.log(tags);
-    
+
 
     // Build navigation
     /*
@@ -98,7 +85,7 @@ function renderData(data) {
     }
     */
 
-    let keys = ["", "Theory", "Practical", "Taught"]
+    let keys = ["", "", "Tags", "1 Theory", "2 Practical", " 3 Taught"]
 
     // Build Table
     const table = document.createElement('table');
@@ -115,13 +102,40 @@ function renderData(data) {
     table.appendChild(table_headings);
 
     // Table - Body
+    let item_count = 0;
     for (let item of data) {
         const table_row = document.createElement('tr');
+        const el_count = document.createElement('td');
+        el_count.textContent = ++item_count;
+        table_row.appendChild(el_count);
 
+        // Item
         const table_item = document.createElement('td');
+
+        const el_title = document.createElement('p');
+        const el_description = document.createElement('p');
+        el_title.className = "title";
+        el_description.className = "description";
+        table_item.appendChild(el_title);
+        table_item.appendChild(el_description);
+        el_title.textContent = item.title;
+        el_description.textContent = item.description;
+
         //table_row_name.textContent = `<>`
-        table_item.innerHTML = `<p>${item['title']}</p><p>${item['description']}</p>`;
+        //table_item.innerHTML = `<p>${}</p><p>${item['description']}</p>`;
         table_row.appendChild(table_item);
+
+
+        const el_tags = document.createElement('td');
+        const el_tags_list = document.createElement('ul');
+        for (let tag of item.tags) {
+            const _li = document.createElement('li');
+            _li.textContent = tag;
+            _li.className = `tag_${tag}`;
+            el_tags_list.appendChild(_li);
+        }
+        el_tags.appendChild(el_tags_list);
+        table_row.appendChild(el_tags);
 
         table.appendChild(table_row);
     }
@@ -135,5 +149,8 @@ fetch(`subject-knowledge.json`)
     .then((data)=>_data=data)
     .then(renderData)
 .catch(err => console.error(err));
+
+
+
 
 </script></body></html>

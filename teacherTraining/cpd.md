@@ -69,6 +69,8 @@ Personal Development / Actions for next year (30min async + 30min lecture)
             * [The Periodic Table of Educational Tweeters to follow](https://www.thinglink.com/scene/963119398753665025)
         * [Google Search: Influential Teachers on Twitter](https://www.google.com/search?q=influential+teachers+on+twitter)
         * [Mrs Whittaker](https://twitter.com/Mrs_G33k) Kent Computing Twitter Hero!
+    * [The Ultimate Guide to Twitter for Teachers](https://searchality.com/discover/teaching/the-ultimate-guide-to-twitter-for-teachers/)
+        * [#FFed](https://twitter.com/hashtag/FFed) – Friday Followback education: You @name a teacher you Follow in your tweet on Friday and they Follow you back.
 4. Read a book about teaching (minimum of 1 book a year baseline)
     * TASK: Add one book to your _Amazon Wishlist_ or equivalent
         * [Effective Teaching: Evidence and Practice](https://www.amazon.co.uk/Effective-Teaching-Evidence-Daniel-Muijs/dp/1473944430/)

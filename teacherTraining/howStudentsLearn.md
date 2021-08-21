@@ -108,6 +108,9 @@ TASK: From our reading - Discuss
     * Any retrieval practice is good (it feels hard)
     * Avoid 'feel good' learning
 
+
+* [retrieval starters](https://twitter.com/MissHudsonHist/status/1370781735319957507) [googleDrive](https://drive.google.com/file/d/1jfO1pgCXXGCmUlZ28XW08Z0lENwNhAph/view) i saved the pptx
+
 ### How will this affect planning our computing lessons?
 
 * Test/Quiz == Retrieval/Recall == better learning

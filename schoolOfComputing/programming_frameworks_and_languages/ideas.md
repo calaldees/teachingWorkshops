@@ -36,6 +36,9 @@ Kubenettes?
 
 Docker would be difficult to run at a user level on campus
 
+Ian's link
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio-code
+
 
 Languages
 ---------
