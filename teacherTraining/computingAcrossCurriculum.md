@@ -568,6 +568,13 @@ Discipline's related to computing that are universal (demo 15min)
 ----------------------------------------------------
 
 Not directly related to an existing established school subject.
+* [Open Data Interface (ODI) for secondary school education](https://www.sciencedirect.com/science/article/pii/S0360131521001718) 2021
+    * Danish experiment to create _ODI Prototype_ for secondary schools
+    * > teachers lack information about openly available data sets and their potential use in education. 
+    * > Teachers with little expertise in data analytics require extra time and effort, e.g., to identify and visualize data sets as part of their subjects. Thus, strategies are needed to govern open data use in education by addressing these challenges
+    * > The studies indicated that for facilitating open data use in schools, a platform is needed that allows teachers to access suitable open data sets for educational purposes.
+    * > students might be motivated personally at the prospect of learning more about their own neighborhoods
+    * > They need hands-on experience with data collection to understand the data concept and how to use open data
 
 * Data Science
     * [datacamp.com](https://www.datacamp.com/) - Build data skills online

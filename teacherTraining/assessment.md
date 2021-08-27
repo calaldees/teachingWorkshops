@@ -1122,3 +1122,14 @@ Unsorted
 
 Set the same test again - tell the students this - give them time to prepare - you can measure the improvement
 This can be the same for interleived questions
+
+
+* [TASK-BASED ASSESSMENT OF STUDENTS’ COMPUTATIONAL THINKING SKILLS DEVELOPED THROUGH VISUAL PROGRAMMING OR TANGIBLE CODING ENVIRONMENTS](https://files.eric.ed.gov/fulltext/ED571389.pdf) Takam Djambong and Viktor Freiman 2016 - 13th International Conference on Cognition and Exploratory Learning in Digital Age (CELDA 2016)
+* [Computational Thinking Test (CTT) for Middle School Students](https://www.researchgate.net/publication/324680249_Computational_Thinking_Test_CTT_for_Middle_School_Students)
+* [COMPUTATIONAL THINKING TEST: DESIGN GUIDELINES AND CONTENT VALIDATION](https://www.researchgate.net/publication/290391277_COMPUTATIONAL_THINKING_TEST_DESIGN_GUIDELINES_AND_CONTENT_VALIDATION)
+    * [Bebras Quizs](http://www.cs.nuim.ie/~amooney/CS2Go/) pdf
+* [Computer Science To Go (CS2Go): Developing a course to introduce and teach Computer Science and Computational Thinking to secondary school students ](http://mural.maynoothuniversity.ie/11015/) 2019 James Lockwood
+    * Creating the Cs2Go course/system
+* [Developing a Computational Thinking Test using Bebras problems](https://core.ac.uk/download/pdf/297030171.pdf) 2019 James Lockwood, Aidan Mooney,  - Maynooth University, Maynooth, Co. Kildare, Ireland
+* [Which cognitive abilities underlie computational thinking? Criterion validity of the Computational Thinking Test](https://www.computacional.com.br/files/Gerais/ROMAN%20-%20Which%20cognitive%20abilities%20underlie%20computational%20thinking.pdf) 2016 - Marcos Roman-Gonzalez*, Juan-Carlos Perez-Gonzalez, Carmen Jimenez-Fernandez
+    * breakdown of what is being assessed with Computation Thinking

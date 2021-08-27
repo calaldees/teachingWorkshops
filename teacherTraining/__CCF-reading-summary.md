@@ -1,6 +1,8 @@
 Core Content Framework - Reading Summary
 ========================================
 
+Here are my notes. You can just read my _headline summary's_
+
 Why don’t students like school?
 -------------------------------
 

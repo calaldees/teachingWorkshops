@@ -27,6 +27,15 @@ People
                 * multi-agent asteroids
                 * (see code snake?)
 
+* [James Lockwood](https://scholar.google.com/citations?user=m4tvBksAAAAJ&hl=en) Ireland
+    * CS2Go
+    * [Computational Thinking in Education: Where does it Fit? A systematic literary review](https://arxiv.org/abs/1703.07659)
+        * Good summary of computational thinking
+James Lockwood
+Dept. of Computer Science
+Maynooth University, Maynooth, Co. Kildare, Ireland
+james.lockwood@mu.ie
+
 * [@ChrisSheltonUK](https://twitter.com/chrissheltonuk)
     * [Dr Chris Shelton](https://www.chi.ac.uk/staff/dr-chris-shelton) University of Chichester
     * Head of TPEC
@@ -62,4 +71,4 @@ People
  @suesentance
  @Baggiepr
  @caschat_uk
- @HelloWorld_Edu)
+ @HelloWorld_Edu

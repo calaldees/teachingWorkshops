@@ -42,6 +42,7 @@ Investigate
 * Consider possible activities/use in the classroom to be discussed with group
 
 TODO [xod.io](https://xod.io/) - A visual programming language for microcontrollers - browser IDE
+TODO [webduino.io](https://webduino.io/en/) - chinese microbit - much more versatile
 
 ### Task 3 - Virtualisation (30min to 1hour)
 

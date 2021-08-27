@@ -226,3 +226,7 @@ The defined trait of a professional is someone that can
 ---
 
 > A strong sense of teacher _professional identity_ is linked to the retention of teachers within the profession <sub>Jim Zimmer - Dean, Facalty of Teaching and Learning</sub>
+
+
+* [What informs mentors' practice when working with trainees and newly qualified teachers? An investigation into mentors' professional knowledge base](https://www.tandfonline.com/doi/abs/10.1080/02607470600655227) 2007 Jones M, Straker K
+    * > (mentors) described as challenging working with ‘weak’ or ‘unwilling’ trainees, dealing with trainees' personal stress and mediating between trainee and colleagues

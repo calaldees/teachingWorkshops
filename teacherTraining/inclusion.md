@@ -594,6 +594,11 @@ This is a _possible concept_ it is not a fully formed or trailed idea.
     * Demo at open evening?
 
 
+* [Combining Webduino Programming With Situated Learning to Promote Computational Thinking, Motivation, and Satisfaction Among High School Students](https://journals.sagepub.com/doi/full/10.1177/07356331211039961)
+    * Situated learning was proposed by Lave and Wenger (1991), who stated that learning is a psychological process of individual meaning construction and a participatory process of surrounding situations. Learning situations are the key to stimulating learners’ internal and external learning motivations and to enabling learners to transform abstract perceptions into concrete thinking (Clancey, 1995)
+    * Bebras competitions
+    * Assistive Devices Project
+
 
 ---
 
