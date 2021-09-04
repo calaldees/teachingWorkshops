@@ -1,8 +1,9 @@
 Sessions
 ========
 
-* EP are optional
-    * Strongly recommend EP's to all up until christmas
+* Thursday Evenings: Enriching Pedagogy (EP) or General Pedagogy (GP)
+    * EP are optional - GP days are not
+        * Strongly recommend EP's to all up until christmas as these build your academic writing skills for your assignments
 
 
 Key Spotlight Questions
@@ -50,8 +51,11 @@ Induction to programme resources, structure and professional engagement
     * Identify and understand expectations regarding professionalism and professionality, the underlying research and their role in education and teacher development
     * Recognise the key role that critical reflection plays in teacher development
 
+### EP1, EP2 and EP3 (SD Only)
+Thursday 9th, 16th, 24th September
+Induction for School Direct
 
-### Ind 1 (PGCE)
+### I1 (PGCE Only)
 Wednesday 22nd September
 
 * Welcome PGCE and BSc 
@@ -60,7 +64,7 @@ Wednesday 22nd September
 * What do we know about the process of becoming a teacher? What is a professional? What if I don’t agree? 
 * Self-selected workshops – ‘learning to teach when…’ 
 
-### Ind 2 (PGCE/SD)
+### I2 (Online)
 Thursday 23rd September
 
 * Welcome SD
@@ -75,7 +79,7 @@ Thursday 23rd September
 * Building relationships and collaborating with others
 
 
-### SP1 (PGCE/SD)
+### SP1
 Friday 24th September
 
 * What is Computing?
@@ -105,7 +109,7 @@ Beginning to identify values and ideals, core knowledge and essential characteri
     * Introduce key essential successful subject teacher characteristics including development of subject; SK and PCK
     * Explore a range of pedagogical approaches and related theories and understand the key components of educational research
 
-### Ind 3 (PGCE only) (Pre-Planned)
+### I3 (PGCE only)
 Monday 27th September
 
 * Teacher identity – an example of a key term in educational research
@@ -139,7 +143,7 @@ Beginning to understand the curriculum, educational diversity and the factors th
     * Develop an understanding of how to use educational research to think, read and write critically
 
 
-### GP1
+### EP4/GP1
 Thursday 30th September - 18:00
 * What is education in my setting?
 * CTP introduction
@@ -155,11 +159,16 @@ Friday 1st October - 11:00
 * Key influential subject documents, reports and research; current and over time
 * How has the subject of Computing has changed in education over the years (in school and society)
 
-* PGCE are going into school after this session
+PGCE: Begin _Collaborative teaching phase_ (CTP). (in school from Monday)
+Set information gathering tasks for SP4
 
+
+### EP5
+Thursday 7th October
+REE1
 
 ### SP4
-Friday 8th October - 09:00
+Friday 8th October - 09:00?
 
 * What, and how, has teaching and learning of subject been affected in this area/my placement school?
 * What are current subject practices?
@@ -182,7 +191,7 @@ Developing an understanding of how children learn and the key barriers to learni
 
 
 
-### GP2
+### EP6/GP2
 Thursday 14th October - 18:00
 * How does learning happen?
 * Theory, research, science, psychology, constructivism, motivation
@@ -207,7 +216,7 @@ Friday 15th October - 11:00
             * concrete and abstract examples
 * Task: PGCE Only Prepare for Microteaching SP7
 
-### GP3
+### EP7/GP3
 Thursday 21st October - 18:00
 * Behaviour for Learning and behaviour management; 
 * Child and adolescent behaviour
@@ -267,6 +276,9 @@ Thursday 11th November - 18:00
 * Writing critically
 * Assignment writing workshop
 
+### (PGCE SP1 Due)
+Monday 15th November - 14:00
+
 ### EP10 (Optional)
 Thursday 18th November - 18:00
 * How can education research help me and my learners?
@@ -285,8 +297,8 @@ Friday 19th November - 09:00
 ?
 * eLearning environments and tools
 
-End of _Collaborative teaching phase_ (CTP).
-Begin _Developing teaching phase_ (DTP).
+PGCE: End of _Collaborative teaching phase_ (CTP).
+PGCE: Begin _Developing teaching phase_ (DTP).
 
 
 KSQ 6: How do you plan and assess for learning?
@@ -299,7 +311,7 @@ Structuring learning that is informed and supported by assessment
     * Sequencing and structuring learning over time to secure learning and progress for all learners
     * Recognise key ways of thinking in educational research
 
-### GP3
+### EP11/GP4
 Thursday 25th November - 18:00
 * Key influential research and strategies for  AfL AofL and AofL used formatively
 * Data and evaluation of learning; Being busy v learning
@@ -363,6 +375,9 @@ Friday 17th December - 09:00
 
 Christmas Break
 
+### (PGCE SP2 Due)
+Thurs 23rd December - 14:00
+
 ---
 
 
@@ -415,6 +430,9 @@ Friday 4th February - 09:00
     * Technologies for teaching Computing
         * Microbits, Arduino, Raspberry Pi, Linux and Machine Virtualisation
     * Access to computing tools (the class divide and resourcing)
+
+PGCE: End of Placement 1. Wednesday 9th February.
+
 
 ### SP15
 Friday 4th March - 09:00

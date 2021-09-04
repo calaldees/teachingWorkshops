@@ -69,6 +69,7 @@ Visual Thumb-up-o-meter
 
 In the first session collect the students perceived expectations about the upcoming course. Attempt to correct misunderstandings early.
 
+
 ### Student rep
 
 ### Lighthouse statement
@@ -83,7 +84,7 @@ I could not believe how much the year had changed me.
 This year will change you.
 
 This is a wonderful example of
-> When you learn something, you are perminatly changed.
+> When you learn something, you are permanently changed.
 
 <sub>David Didau</sub>
 
@@ -93,12 +94,17 @@ The Course
 
 > Understand the route through training and education that is prepared for them, and their role in that training and education
 
-From the [CCCU Computer Science Curriculm Guidance](https://learn.canterbury.ac.uk/bbcswebdav/pid-2664627-dt-content-rid-3988355_1/xid-3988355_1)
-
-> All sessions are designed to develop your pedagogy and have been devised by your University tutors in consultation with mentors from partnership schools that includes input from previous student teachers. 
-> Sessions, underpinned by research and theory, will explore a wide range of teaching and learning strategies and resources and identify and make use of a variety of best practice ideologies.
+* From the [CCCU Computer Science Curriculum Guidance](https://learn.canterbury.ac.uk/bbcswebdav/pid-2664627-dt-content-rid-3988355_1/xid-3988355_1)
+    * > All sessions are designed to develop your pedagogy and have been devised by your University tutors in consultation with mentors from partnership schools that includes input from previous student teachers. 
+    * > Sessions, underpinned by research and theory, will explore a wide range of teaching and learning strategies and resources and identify and make use of a variety of best practice ideologies.
 
 The purpose of this course is to challenge you and challenge your thinking
+
+### Average Case
+
+Agile in software engineering
+The importance of process
+I am average - you are average
 
 ### Aims and purposes of our teaching and learning
 
@@ -190,7 +196,7 @@ tpck4	I can select technologies to use in my classroom that enhance what I teach
 
 * [Pedagogy by proxy: developing computing PCK through shared lesson resources](https://sure.sunderland.ac.uk/id/eprint/13728/) Hidson, Elizabeth (2021)
     * PCK by proxy
-    * There is an unheard commentary that is a part of any shared lesson resource.
+    * There is an unheard commentary that is a part of any shared lesson resource
         * You would normally have this by talking to the other teacher
     * Lesson resources are missing _pedagogical metadata_
     * _Why_ we do what we do
@@ -230,90 +236,43 @@ tpck4	I can select technologies to use in my classroom that enhance what I teach
 ### Course Requirements
 
 * Experience teaching 4 year groups
+    * Across two key stages
 * In 2 Schools
 * With 120 Days teaching
 
-With Covid, some of these requirement may not be possible.
-This comes down to assessment from your Mentors and your Subject Tutor.
-
 ### Assessment
 
-* Teaching Portfolio (physical or digital)
-    * Single document to print/reference/archive
-    * Lesson plans
-    * Lesson observations
-    * Examples of pupil work
-    * Reflections
+* Teaching Portfolio (digital)
+    * A Single repository to reference/archive
+        * Available on request to external examiner
+    * Mentor Meeting notes
+        * Evidence for every week
+    * Lesson Packs
+        * 1 Lesson pack ==
+            * Lesson plan
+            * Lesson observation
+            * Lesson Evaluation
+        * 20(?) are required
+    * 3 _Bundles_
+        * Covering two key stages
+        * Lesson packs
+        * Examples of pupil work
+        * Reflections
+    * Subject Knowledge Tracker and evidence of progress
 * 2 Academic Assignments
-    * Subject
+    * Subject Pedagogy
+        * Literature Review
+        * Reflection Presentation (at Master level)
     * Active Research + Presentation
+* 1 Academic Professional presentation
+    * of one of your _Bundles_
 
 ### Subject Sessions
 
-Post Covid - Blended Learning - Flipped Learning
-
-Same Course -> New ways of delivery
-
-* Blended learning
-    * Traditional: All learning done in the same classroom with the same teacher
-    * Blended: The deliberate planning for different methods of delivery
-        * Async/Synchronous 
-        * Rotating, rooms, labs, equipment, teachers
-* Flipped learning
-    * Traditional: Lower order knowlege skills in lessons. Higher order skills (like evaluating) done at home
-    * Flipped: Lower order knowlege skills at home (async). Higher order evaluation/discussion (sync) in class
-
-![Here's What's Wrong With Bloom's Taxonomy: A Deeper Learning Perspective](https://blogs.edweek.org/edweek/learning_deeply/Blooms%20graphic.png)
-> The problem is that both versions present a false vision of learning. 
-> Learning is not a hierarchy or a linear process. 
-> This graphic gives the mistaken impression that these cognitive processes are discrete, that it's possible to perform one of these skills separately from others. 
-> It also gives the mistaken impression that some of these skills are more difficult
-
-![What, why, and how to implement a flipped classroom model](https://omerad.msu.edu/images/teaching/blooms_taxonomy.png)
-> In traditional learning, lower level of learning such as remembering and understanding is happening in class, while students are usually left to work on activities that involve higher level of learning outside of classroom.
-> However, in the flipped classroom model, learning is flipped. 
-> As you can see from the pyramid, students can finish the lower level of cognitive work before class. And when they come to class, they can engage in higher cognitive levels of learning with peers and teacher present.
-
-* 50% of Subject Sessions == On Campus - Face-to-face
-    * 6 hours (+1 hour lunch) 9:00 to 16:00
-* 50% of Subject Session == Online - Teams/BlackBoardCollaborate
-    * Monday before a workshop
-        * Sent 3 hours worth of async reading/videos/investigation
-        * Collaboration with async tools - wikis, padlets
-    * Friday (Subject Session Days)
-        * AM - ad-hock space for 1-to-1 catchup with subject tutor
-        * PM - 13:00 to 16:00 BlackBoardCollaborate/MSTeams
-
-### Remote working/learning
-
-#### The bad
-
-* Not the same as face-to-face
-* Lack of engagement
-* Lack of socialisation and community
-* How can you learn to teach if you cant see your students or be in a school?
-
-TASK: What are you concerns?
-
-#### Fall _Up_ (not down)
-
-One Piece - Episode 119 - Secret of Powerful Swordplay!
-> Zoro: (is heavily wounded)
->
-> Mr1: My body is made of steel. I can turn any part of my body into a blade. You cannot win.
->
-> Mr1: Why are you smiling?
->
-> Zoro: Because when I finish this fight, I will be a man that can cut steel.
-
-By the end of this year, we will have gained experience with a host of new tools that could have significant impact on our ability to teach more effectively. 
-
-This could be one of the biggest evolutions in education for 100's of years.
-
-### Ways of working (our group)
-
-* How are we (as a group) going to embrace this remote learning?
-* How are we going to ensure these session have impact and value for you?
+* Thursday Evening (online)
+    * EP/GP
+* Friday (on campus)
+    * Subject Pedagogy
 
 
 Resources
@@ -324,11 +283,14 @@ Resources
 * [BlackBoard](https://learn.canterbury.ac.uk/)
 * [Teacher Standards](https://www.gov.uk/government/publications/teachers-standards)
 * [Initial teacher training (ITT): core content framework](https://www.gov.uk/government/publications/initial-teacher-training-itt-core-content-framework)
-* [Curriculum Handbook](https://learn.canterbury.ac.uk/bbcswebdav/pid-2664627-dt-content-rid-3988355_1/courses/E20MTETT4SPD/Computer%20Science%20Curriculum%20Guidance.pdf)
+* [Curriculum Handbook](todo)
     * Structure of course + mentor
+* [Subject Knowledge Tracker](https://computingteachers.uk/subjectKnowledge/subject-knowledge.html)
 * Core templates
     * Lesson Observation
     * Lesson Planning Pro-forma
+    * Lesson Evaluation
+    * Mentor Meeting
 
 
 * SKA and development
@@ -739,3 +701,60 @@ Allocate reps?
 
 Placement 1: CTP + DTP
 Placement 2: ITP
+
+---
+
+Old
+===
+
+
+* Blended learning
+    * Traditional: All learning done in the same classroom with the same teacher
+    * Blended: The deliberate planning for different methods of delivery
+        * Async/Synchronous 
+        * Rotating, rooms, labs, equipment, teachers
+* Flipped learning
+    * Traditional: Lower order knowledge skills in lessons. Higher order skills (like evaluating) done at home
+    * Flipped: Lower order knowledge skills at home (async). Higher order evaluation/discussion (sync) in class
+
+![Here's What's Wrong With Bloom's Taxonomy: A Deeper Learning Perspective](https://blogs.edweek.org/edweek/learning_deeply/Blooms%20graphic.png)
+> The problem is that both versions present a false vision of learning. 
+> Learning is not a hierarchy or a linear process. 
+> This graphic gives the mistaken impression that these cognitive processes are discrete, that it's possible to perform one of these skills separately from others. 
+> It also gives the mistaken impression that some of these skills are more difficult
+
+![What, why, and how to implement a flipped classroom model](https://omerad.msu.edu/images/teaching/blooms_taxonomy.png)
+> In traditional learning, lower level of learning such as remembering and understanding is happening in class, while students are usually left to work on activities that involve higher level of learning outside of classroom.
+> However, in the flipped classroom model, learning is flipped. 
+> As you can see from the pyramid, students can finish the lower level of cognitive work before class. And when they come to class, they can engage in higher cognitive levels of learning with peers and teacher present.
+
+### Remote working/learning
+
+#### The bad
+
+* Not the same as face-to-face
+* Lack of engagement
+* Lack of socialisation and community
+* How can you learn to teach if you cant see your students or be in a school?
+
+TASK: What are you concerns?
+
+#### Fall _Up_ (not down)
+
+One Piece - Episode 119 - Secret of Powerful Swordplay!
+> Zoro: (is heavily wounded)
+>
+> Mr1: My body is made of steel. I can turn any part of my body into a blade. You cannot win.
+>
+> Mr1: Why are you smiling?
+>
+> Zoro: Because when I finish this fight, I will be a man that can cut steel.
+
+By the end of this year, we will have gained experience with a host of new tools that could have significant impact on our ability to teach more effectively. 
+
+This could be one of the biggest evolutions in education for 100's of years.
+
+### Ways of working (our group)
+
+* How are we (as a group) going to embrace this remote learning?
+* How are we going to ensure these session have impact and value for you?

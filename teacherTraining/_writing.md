@@ -15,6 +15,14 @@ Narriative, journy, headings
     * Don't use phrases like 'hatred of learning'
     * Low ability (don't ever use the term ability. Use them term low attainment)
 
+* Literature Review (example)
+    * [Software Piracy and IP Management Practices](https://poseidon01.ssrn.com/delivery.php?ID=243069124094101103021085097112118007000076081034060007022064070097005097122019080119005102039099016121119028123080104065077099020045006069064005106095014093067124076040065013111093116024010121086025114123116014006090098067005066115075071007006126022085&EXT=pdf&INDEX=TRUE)
+        * Read Section 2 - pg5 to pg8
+    * Notice how each statement refers to peer reviewed theory
+
+* References
+    * Harvard
+    * https://www.mybib.com/
 
 ---
 
