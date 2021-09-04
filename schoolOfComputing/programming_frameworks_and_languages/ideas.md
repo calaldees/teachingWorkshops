@@ -40,6 +40,7 @@ Ian's link
 https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio-code
 
 
+
 Languages
 ---------
 
@@ -67,6 +68,7 @@ Languages
 * Prolog
 * Erlang
   * Live updates
+  * [Why Erlang?](https://www.fredrikholmqvist.com/posts/why-erlang/)
 * Elixir
 * Haskell
 * PureScript
@@ -107,6 +109,9 @@ CoPilot - scandle of open source
 
 Andorid App lifecycle
 
+Operator overloading
+side-effects
+C++ get operation modifys the dictionary
 
 
 Server Side
@@ -362,7 +367,7 @@ Initial audit
   1. C#
   2. Java
   3. Python
-  4. Php
+  4m. Php
   5. Golang
   6. C
   7. C++
@@ -414,3 +419,107 @@ https://stackoverflow.com/questions/4099975/difference-between-a-module-library-
 framework is inversion of control
 
 
+Structure
+=========
+
+1. Introduction
+  1. Theory
+    1. Assignments
+      1. Writeup justification
+      2. OpenAPI + Tests + Containers
+    2. Languages
+    3. Frameworks
+  2. Practical
+    3. Clone and commit
+    4. gitpod
+    5. Containers
+    6. HTTP Server
+  4. Homework: 
+2. Languages
+  5. Historical
+  6. Static/Dynamic/Functional
+  7. Event loop, deployment, channels/concurrency
+  8. Employment, fads
+  9. Use containers to run language code
+  10. Homework: Investigate a language to present next time
+3. Server Frameworks
+  11. History
+    1. cgi-bin
+    2. templates server side
+    3. request/response (no realtime)
+  12. Modern
+    4. scale, realtime
+  13. Django/Pyramid/Sanic
+  14. Node.js
+  15. Homework: Investigate a server framework to present next time
+4. Client Frameworks
+  17. web
+    2.  Structure
+    3.  Layout
+  16. History
+    1. jquery
+  19. HyperApp
+  20. React
+  21. Homework: Investigate a client framework to present next time
+5.  Web Layout
+  22. Bootstrap
+  23. Tailwind
+  24. Homework: Assignment justify the frameworks you will use
+6. Testing
+  25. Unit
+    1.  xunit reports
+  26. Server
+    2.  
+  27. Client
+    3.  selenium
+    4.  cypress
+7. Frameworks in other domains
+  28. serverless
+  29. GraphQL
+  30. Crypto frameworks
+  31. mobile
+    1. Android app lifecycle
+  32. game
+8. ?
+9.  ?
+10. ?
+
+
+
+### Framework Evaluation
+> The assessment will made available using one or more software applications that is already built using a framework. 
+> Students will evaluate the implementation in a report using an evaluation template included in the assignment brief. 
+
+You have been employed by FreeCycle-Inc as a Lead Engineer. Your role is to technically advise and implement FreeCycle's digital products on web and mobile platforms.
+
+Freecycle-Inc have a working prototype for their free cycle platform.
+
+Your task is to write a 1600 word technical summary report to the directors. The report should contain:
+* A description of what and why the current prototype implementation is not fit/modifiable for business use (300 words)
+* You are required to produce a deployable/working version of the system within 3 months (See part 2 of the assessment)
+* A recommendation about the proposed technical direction:
+  * Languages to be used + justification (600 words - 300 for each server/client)
+  * Framework to be used + justification (600 words - 300 for each server/client)
+* Consider a 3 year technical roadmap for this implementation (timeframes) (100 words)
+
+
+#### Guidance
+* Expectation:
+  * This is a scenario for a learning exercise.
+  * This mimics a genuine task that might be required of you as a software engineer.
+  * Although a realistic task; You are not a lead developer. You do not have the experience to write this to an industry standard. 
+  * You are trying to demonstrate to an external examiner your knowledge and understanding
+* It is perfectly acceptable to consider interim solutions/technology
+  * e.g. 
+    * We will use Python/Django for the next 3 months as this will allow us to bring the product to market quickly. As we will have an admin panel and will easily be able to hire this skill-set cheaply at short notice.
+    * We will be working on a scaleable Golang/MongoDB solution to replace this implementation for version 2 of the API in 9 months time.
+* Technical reports heavily used bullet points. You do not need to write in full english paragraphs all the time.
+* Your reading/examples need to be justified with references. Show links to blog articles and case studies that support your technical assessment/recommendations
+
+
+#### Marking Criteria
+TODO?
+* Quality of justification
+  * Wide range of technical and business factors are considered (skills marketplace, lead time, scale, maintainability, deployment)
+* Referencing/Supporting Evidence
+* Quality of written communication

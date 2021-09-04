@@ -547,7 +547,20 @@ High behaviour needs
 
 
 TODO
-----
+====
+
+
+
+Anxiety
+-------
+
+* [How can teachers increase students' confidence and reduce anxiety in problem-solving in the computing classroom?](https://blog.teachcomputing.org/how-can-teachers-increase-students-confidence-and-reduce-anxiety-in-problem-solving-in-the-computing-classroom/)
+    * Interactivity to help ease performance anxiety
+        * Live coding - reading question slowly - reasoning - tackel "asking for help" before attempting the question.
+        * Ease cognative load - parsons problems
+
+
+
 
 * [Behaviour for Learning: Promoting Positive Relationships in the Classroom ](https://www.amazon.co.uk/Behaviour-Learning-Simon-Ellis-dp-1138293075/dp/1138293075/)
     * [vlebooks](https://www.vlebooks.com/Vleweb/Product/Index/2013366) complete book for CCCU students
@@ -565,7 +578,7 @@ TODO
 Elis and Tod's 2015 Behaviour for leaning framework - trio of factors
 
 
-* [Ofsted: Review of sexual abuse in schools and colleges ](https://www.gov.uk/government/publications/review-of-sexual-abuse-in-schools-and-colleges/review-of-sexual-abuse-in-schools-and-colleges)
+* [Ofsted: Review of sexual abuse in schools and colleges](https://www.gov.uk/government/publications/review-of-sexual-abuse-in-schools-and-colleges/review-of-sexual-abuse-in-schools-and-colleges)
     * > It is concerning that for some children, incidents are so commonplace that they see no point in reporting them.
       > It recommends that schools, colleges and multi-agency partners act as though sexual harassment and online sexual abuse are happening, even when there are no specific reports.
     * > girls told us that sexual harassment and online sexual abuse, such as being sent unsolicited explicit sexual material and being pressured to send nude pictures (‘nudes’), are much more prevalent than adults realise. For example, nearly 90% of girls, and nearly 50% of boys, said being sent explicit pictures or videos of things they did not want to see happens a lot or sometimes to them or their peers.

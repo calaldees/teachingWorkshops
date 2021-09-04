@@ -5,8 +5,25 @@ Induction to programme materials, structure and professional engagement
 
 
 * Christ Church: course overview, resources, paperwork, support
-* Reflection, tooling and ways of working this year
-* High level overview of Computing and perceptions
+
+
+
+
+* What is Computing?
+    * 3 strands Computer Science, ICT, Digital Literacy
+* What are the expectations/misconceptions teaching Computer Science?
+    * Explore the backlash and confusion about computer science in education and wider society
+        * The rise of STEM
+        * Perceptions of gender and ethnicity in Computing
+    * Preparing students for a future we are unsure of
+* Aims and purposes of our teaching and learning
+    * Reflection, tooling and ways of working this year
+    * meta-pedagogy (not _tips for teaching_)
+    * Tacit knowledge transfer - e.g. Riding Bike, Learning to read
+    * Training _you_ to _reinvent the profession_
+* Accessing and understanding research in subject
+* SKA and development
+
 
 
 Introductions
@@ -314,6 +331,9 @@ Resources
     * Lesson Planning Pro-forma
 
 
+* SKA and development
+
+
 * [Registering as a student](https://www.canterbury.ac.uk/new-students/before-you-arrive/registering-as-a-student)
 * [Registration Update](https://blogs.canterbury.ac.uk/studentnews/registration-update/)
     1. Upload my ID and qualifications
@@ -345,7 +365,7 @@ Your note taking system should be online and transparent.
     * My records
         * Comments on each student for each session
         * Monitor Engagement
-            * If I was asked 'How is StudentX engaging with the subject sessions'. I could respond by pointing them at your action points and reflections for each session.
+            * If I was asked 'How is StudentX engaging with the subject sessions'. I could respond by pointing them at your action points and reflections for 'each session.
         * I could be asked to justify your progress
             * e.g last year when lockdown happened - educators asked to predict on trajectory
             * I will be part of a panel of professionals that could be asked about your progress
@@ -708,3 +728,14 @@ Other?
 * [The Biggest Myth In Education](https://www.youtube.com/watch?v=rhgwIhB58PA) - learning styles verbasium YouYube 15min?
     * you are not a visual learner
     * be critical
+
+
+Allocate reps?
+
+* [Quality teacher educators = quality teachers? Conceptualizing essential domains of knowledge for those who teach teachers](https://www.tandfonline.com/doi/full/10.1080/13664530.2013.813766?src=recsys)
+    * > (teacher education is) preparing teachers to remake the profession,
+    * > Teaching has always been about changing the world; it has never been about changing the world alone
+
+
+Placement 1: CTP + DTP
+Placement 2: ITP

@@ -27,10 +27,13 @@ Basics
 
 * Be punctual and reliable
 * Dressed appropriately
+    * Hair well kept
 * Keep your phone off
     * Focus on your role (There is little _downtime_ in schools)
 * Do not discuss politics or religion at your place of work
-    * This will likely alienate people. It is not relevant to your role
+    * This will likely alienate people. It is not relevant to your role.
+* Your colleagues do not need to be your friends
+    * You can respect them as professionals effectively and interact with them but still not like them
 
 
 Personal Attitude
@@ -61,7 +64,7 @@ Your have some element of control over your teams emotional state.
 * Be mindful of cyclic negativity. Don't _whinge_.
     * Identify problems - collate/suggest solutions - take action points
 * Identify the *spirit* of conversations
-    * Are you colleages being offensive? or are they expressing frustration?
+    * Are you colleagues being offensive? or are they expressing frustration?
 
 
 Language
@@ -141,7 +144,7 @@ As a member of staff you are expected to know all of it.
 Ignorance is not an excuse.
 
 Many organisations have online e-learning. 
-You have to tick a box to say I've read this. 
+You have to tick a box to say I've read this.
 
 Is it the _organisations_ fault or _your_ fault?
 
@@ -164,7 +167,7 @@ If you feel the business process has treated you unfairly and you need further a
 
 After this talk read up on what the unions stand for.
 Some unions believe that _striking_ is too aggressive and considers _chalk-downs_.
-Research what they stand for.
+Research your unions principles.
 
 ### Rules
 
@@ -176,6 +179,8 @@ Answers in the chat
     * Across a large geographic area
 * The presence of a rule (hopefully) creates a better outcome (than no rule)
 * As an individual you may not be aware of all possible situations and their knock-on effects.
+    * You can't do this deep thinking in the spur of the moment
+    * You can't have the understanding or perspective of all stakeholders at all times
 
 
 Formal Communication
@@ -212,12 +217,15 @@ Stories from my early teaching career
 * 6th form group complaint discussion
 
 
+
+
 Summary
 -------
 
 * Use _precise_ language
-* Conduct your action with _integrity_
+* Conduct your actions with _integrity_
 * Have knowledge of your role/organisation
+    * Understand business process
 * _Actively_ Perform your expected _role_
 
 The defined trait of a professional is someone that can 
@@ -225,8 +233,15 @@ The defined trait of a professional is someone that can
 
 ---
 
+Unsorted Notes
+==============
+
 > A strong sense of teacher _professional identity_ is linked to the retention of teachers within the profession <sub>Jim Zimmer - Dean, Facalty of Teaching and Learning</sub>
 
 
+Interacting with your mentor
+----------------------------
+
 * [What informs mentors' practice when working with trainees and newly qualified teachers? An investigation into mentors' professional knowledge base](https://www.tandfonline.com/doi/abs/10.1080/02607470600655227) 2007 Jones M, Straker K
     * > (mentors) described as challenging working with ‘weak’ or ‘unwilling’ trainees, dealing with trainees' personal stress and mediating between trainee and colleagues
+* Mentors are not your agony aunt or therapist. You have a professional role to perform.

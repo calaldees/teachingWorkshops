@@ -57,3 +57,8 @@ Speak to Text
 * https://dictation.io/
 * https://speechnotes.co/
 
+Text to Speach
+--------------
+
+* [voicera.co](https://www.voicera.co/)
+    * One click AI voice narration for your blogs
