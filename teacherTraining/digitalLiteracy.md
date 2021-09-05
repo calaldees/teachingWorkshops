@@ -8,6 +8,9 @@ Digital Literacy
 
 British Computer Society 2016
 
+TODO:
+* [Digital literacy within the computing curriculum](https://blog.teachcomputing.org/digital-literacy-within-the-computing-curriculum/) NCCE Report 2021
+
 Activity: What can you expect someone with Digital Literacy to be able to do?
 
 ## What can you expect someone with Digital Literacy to be able to do?

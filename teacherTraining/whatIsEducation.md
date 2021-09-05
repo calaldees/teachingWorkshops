@@ -49,6 +49,8 @@ What is a curriculum/subject curriculum?
 
 The entire ethos/goals of a course of education.
 
+* [Statutory guidance - National curriculum in England: framework for key stages 1 to 4](https://www.gov.uk/government/publications/national-curriculum-in-england-framework-for-key-stages-1-to-4/the-national-curriculum-in-england-framework-for-key-stages-1-to-4) 2014
+
 * [The National Curriculum: subjects](https://www.gov.uk/national-curriculum/key-stage-3-and-4)
     * Computing is a Foundation subject
     * Academies/Public/Private/Independent don't need to teach computing

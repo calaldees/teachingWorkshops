@@ -1,3 +1,16 @@
+Reading
+=======
+
+Reading List
+------------
+
+
+General Teaching
+----------------
+
+* [Learning to Teach in the Secondary School: A Companion to School Experience (Learning to Teach Subjects in the Secondary School Series) Paperback](https://www.amazon.co.uk/Learning-Teach-Secondary-School-Experience/dp/1138307599/) - 8th edition 30 April 2019
+    * [vle books](https://www.vlebooks.com/Vleweb/Product/Index/2050600) 6th edition
+
 [PGCE secondary booklist](https://community.computingatschool.org.uk/resources/1787/single)
 
 * [Teach Like A Champion](https://www.amazon.co.uk/Teach-Like-Champion-Techniques-Students/dp/0470550473/ref=sr_1_8?crid=3OEG5MFXMGY1V&dchild=1&keywords=teach+like+a+champion&qid=1614713652&sprefix=teach+like+%2Caps%2C176&sr=8-8)

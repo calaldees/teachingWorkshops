@@ -208,6 +208,16 @@ tpck4	I can select technologies to use in my classroom that enhance what I teach
 
 * [European Framework for the Digital Competence of Educators: DigCompEdu](https://publications.jrc.ec.europa.eu/repository/handle/JRC107466)
 
+* [Disconnected? Exploring the digital skills gap](https://learningandwork.org.uk/resources/research-and-reports/disconnected-exploring-the-digital-skills-gap/) Learning and Work Institute - 2021
+    * 92% of businesses say that having a basic level of digital skills is important for employees
+    * 76% of businesses say that a lack of digital skills would affect the profitability of their business
+    * 88% of young people say that digital skills will be essential for their career
+    * Computing has a 20% female uptake
+    * “[Many young people] aren’t given the information required to truly understand  what the opportunities associated with a career with digital skills is about”
+    * > Young people are confident in their basic digital skills but less confident they have the advanced skills employers need
+    * 40% drop in the number of GCSE entries in moving from ICT to Computing
+    * University entries have declined
+    * 34% of jobs in London require advanced digital skills
 
 ### Your development phases
 
@@ -260,12 +270,14 @@ tpck4	I can select technologies to use in my classroom that enhance what I teach
         * Reflections
     * Subject Knowledge Tracker and evidence of progress
 * 2 Academic Assignments
-    * Subject Pedagogy
+    * SP1
         * Literature Review
+    * SP2
         * Reflection Presentation (at Master level)
-    * Active Research + Presentation
 * 1 Academic Professional presentation
     * of one of your _Bundles_
+* RE&E Module
+    * Active research
 
 ### Subject Sessions
 
@@ -484,7 +496,20 @@ You need to construct the interactions with your mentors deliberately
 * If the communication is less then ideal ...
     * Do not panic
     * Communicate concerns clearly
-    * You will not be penalised unduely or unfairly
+    * You will not be penalised un-duely or unfairly
+
+
+Criticality and learning to think
+---------------------------------
+
+* Snake in the grass?
+    * evolution makes us not hang around to find out
+    * routing around in the grass to find out is dangerous
+* When we are certain - we dont think
+* Duck or rabbit?
+    * We are debating over interpretation. It is not either, it's just lines
+
+* Someone's _fault_ or _process is at fault_?
 
 
 Emotional Health 
@@ -558,6 +583,12 @@ Computing in the curriculum has been criticized for not being relevant for all s
 
 
 
+* BSC [The Roehampton annual computing education report](https://www.bcs.org/more/bcs-academy-of-computing/the-roehampton-annual-computing-education-report/) 2018
+    * Statistics on GCSE computing across the country
+    * Number are dropping
+    * Time allocated is dropping
+
+
 Closing remarks
 ===============
 
@@ -610,6 +641,14 @@ TODO
 
 Things people bugger up with teacher training
 ----------------------------------------------
+
+* collate information from multiple sources
+    * multiple schools, multiple university modules
+    * mechanical dates and locations
+        * look at the calendar
+    * keep group wiki (between you can collate information)
+    * Emails will be sent to mandatory surveys
+        * "I didnt get it"
 
 * Accusational tone -> problem solving
     * I have tried
@@ -667,15 +706,6 @@ Up until now you have been taught
 At postgraduate level - there are 'no answers'
 
 
-Learning theory's
------------------
-
-* [teacherofsci.com](https://teacherofsci.com/) [@TeacherOfSci1](https://twitter.com/TeacherOfSci1)
-    * [15 Learning Theories in Education (A Complete Summary)](https://teacherofsci.com/learning-theories-in-education/)
-        * [An Introduction to Learning Theories.: 15 of the most influential learning theories, simplified and explained](https://www.amazon.co.uk/gp/product/B084QDNWVJ/)
-    * [The New Teacher Mega Guide. Everything you need in 10 Videos](https://teacherofsci.com/new-teacher-mega-guide/)
-* [lumenlearning.com/educationalpsychology](https://courses.lumenlearning.com/educationalpsychology/)
-    * [Major theories and models of learning](https://courses.lumenlearning.com/educationalpsychology/chapter/major-theories-and-models-of-learning/)
 
 Other?
 -----
@@ -697,7 +727,7 @@ Allocate reps?
 * [Quality teacher educators = quality teachers? Conceptualizing essential domains of knowledge for those who teach teachers](https://www.tandfonline.com/doi/full/10.1080/13664530.2013.813766?src=recsys)
     * > (teacher education is) preparing teachers to remake the profession,
     * > Teaching has always been about changing the world; it has never been about changing the world alone
-
+    * Do we need teacher educators?
 
 Placement 1: CTP + DTP
 Placement 2: ITP

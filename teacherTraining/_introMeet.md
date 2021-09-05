@@ -265,6 +265,7 @@ General Information and Pre Reading
     * [TeachComputing](https://teachcomputing.org/) (Previously NCCE)
     * [Computing at School](https://www.computingatschool.org.uk/)
     * [British Computer Society](https://www.bcs.org/policy-and-influence/education/)
+    * [Raspberry Pi Foundation](https://www.raspberrypi.org/)
     * [Technology, Pedagogy & Education Association](https://tpea.ac.uk/)
         * The voice of digital technology and computing in education
         * CPD, research, best practice
@@ -296,11 +297,16 @@ General Information and Pre Reading
         * Outstanding Computing pedagogical advice
         * Free eBook or [paperback](https://www.routledge.com/Teaching-Tech-Together-How-to-Make-Your-Lessons-Work-and-Build-a-Teaching/Wilson/p/book/9780367352974)
 * Books
-    * [What If Everything You Knew About Education Was Wrong?](https://www.amazon.co.uk/Everything-About-Education-Wrong-Paperback/dp/1785831577/) David Didau
-        * Demystifying our traditional approaches to teaching and learning and why they might be wrong
+    * [What If Everything You Knew About Education Was Wrong?](https://www.amazon.co.uk/Everything-About-Education-Wrong-Paperback/dp/1785831577/) David Didau 2016
+        * Excellent criticality. Demystifying our traditional approaches to teaching and learning and why they might be wrong
     * [How to Teach Computer Science: Parable, practice and pedagogy](https://www.amazon.co.uk/How-Teach-Computer-Science-practice/dp/1913622576/) July 2021 £12
-    * [Computer Science Education: Perspectives on Teaching and Learning in School](https://www.amazon.co.uk/Computer-Science-Education-Erik-Barendsen/dp/135005710X/) Sue Sentence
+        * Short snappy book that describes the computing curriculum and relates it to PCK
+    * [Computer Science Education: Perspectives on Teaching and Learning in School](https://www.amazon.co.uk/Computer-Science-Education-Erik-Barendsen/dp/135005710X/) Sue Sentence 2018
         * Targeted perspectives for teaching Computing
+    * [Mindstorms (Revised): Children, Computers, And Powerful Ideas](https://www.amazon.co.uk/Mindstorms-Revised-Children-Computers-Powerful/dp/1541675126/) Seymour Papert 1980, (2nd edition) 1993, Republished 2020
+        * A classic that formed the basis of much of the principles of Computing education
+    * [Computer Science K-12: Imagining the possibilities!: Bringing creative and innovative Computer Science to your school](https://www.amazon.co.uk/Computer-Science-K-12-possibilities-innovative/dp/1986171817/) Doug Bergman 2018
+        * Immensely creative ideas for Computing from the US
 * Computing Teaching Resources
     * [AQA AS and A Level Computer Science](https://www.amazon.co.uk/AQA-AS-Level-Computer-Science/dp/1910523070/) PM Heathcoat
         * Good A-Level reference
