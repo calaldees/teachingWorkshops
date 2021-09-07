@@ -4,6 +4,15 @@ Frameworks and Languages
 50 hours instruction
 150 hours independent
 
+
+## Intended Learning Outcomes 
+By the end of the module students should be able to:
+1. Demonstrate an understanding of the concept of a Framework in general, a Framework used for Programming, and a Framework used for software 
+Testing. 
+2. Critically evaluate the effectiveness of a particular framework for an application and platform.
+3. Synthesise a small digital artefact using a well-formed programming framework.
+
+
 Frameworks for what?
 
 AWS Lambda?
@@ -422,73 +431,111 @@ framework is inversion of control
 Structure
 =========
 
-1. Introduction
-  1. Theory
+## Intended Learning Outcomes 
+By the end of the module students should be able to:
+1. Demonstrate an understanding of the concept of a Framework in general, a Framework used for Programming, and a Framework used for software 
+Testing.
+2. Critically evaluate the effectiveness of a particular framework for an application and platform.
+3. Synthesise a small digital artefact using a well-formed programming framework.
+
+
+* Week 1 (Online) 27/09/2021: Introduction
+  1. Module overview
     1. Assignments
       1. Writeup justification
       2. OpenAPI + Tests + Containers
     2. Languages
     3. Frameworks
+    4. Tests
   2. Practical
-    3. Clone and commit
-    4. gitpod
-    5. Containers
-    6. HTTP Server
-  4. Homework: 
-2. Languages
-  5. Historical
-  6. Static/Dynamic/Functional
-  7. Event loop, deployment, channels/concurrency
-  8. Employment, fads
-  9. Use containers to run language code
-  10. Homework: Investigate a language to present next time
-3. Server Frameworks
-  11. History
+    5. Clone and commit
+    6. gitpod
+    7. Containers
+      1. build/run
+      2. compose
+    8. Make HTTP Server
+      3. python/java
+  3. Homework: 
+* Week 2 (Online) 2	04/10/2021: Languages
+  1. Historical
+  2. Static/Dynamic/Functional
+  3. Event loop, deployment, channels/concurrency
+  4. Employment, fads
+  5. Use containers to run language code
+  6. Homework: Investigate a language to present next time
+* Week 3 (Campus) 11/10/2021: Server Frameworks
+  7.  History
     1. cgi-bin
     2. templates server side
     3. request/response (no realtime)
-  12. Modern
+  8.  Modern
     4. scale, realtime
-  13. Django/Pyramid/Sanic
-  14. Node.js
-  15. Homework: Investigate a server framework to present next time
-4. Client Frameworks
-  17. web
-    2.  Structure
-    3.  Layout
-  16. History
-    1. jquery
-  19. HyperApp
-  20. React
-  21. Homework: Investigate a client framework to present next time
-5.  Web Layout
-  22. Bootstrap
-  23. Tailwind
-  24. Homework: Assignment justify the frameworks you will use
-6. Testing
-  25. Unit
-    1.  xunit reports
-  26. Server
-    2.  
-  27. Client
-    3.  selenium
-    4.  cypress
-7. Frameworks in other domains
-  28. serverless
-  29. GraphQL
-  30. Crypto frameworks
-  31. mobile
+  9.  Django/Pyramid/Sanic
+  10. Node.js
+  11. Homework: Investigate a server framework to present next time
+* Week 4 (Campus) 18/10/2021: Client Frameworks
+  * note: CORS headers
+  12. web
+    1.  Structure
+    2.  Layout
+  13. History
+    3. jQuery
+  14. HyperApp
+  15. React
+    4.  Context (live reload with state)
+  16. Homework: Investigate a client framework to present next time
+* Week 5 ACW
+  * !!!
+* Week 6 (Online) 01/11/2021: Web Layout
+  * Assignment 1 due
+  1.  Bootstrap
+  2.  Tailwind
+  3.  Homework: Assignment justify the frameworks you will use
+* Week 7 (Online) 08/11/2021: Testing
+  * Tests in CI
+    * Github actions
+    * Pre commit hooks?
+  20. Unit
+    1. xunit reports
+  21. Server
+    2. pytest
+      1. Fixtures
+      2. Plugins
+    3. Karma/Jasmine
+  22. Client/Browser (End-to-End)
+    4.  selenium
+    5.  cypress
+  * Homework: Investigate a client framework to present next time
+* Week 8 (Campus) 15/11/2021: Frameworks in other domains
+  1.  serverless
+  2.  GraphQL
+  3.  Crypto frameworks
+  4.  mobile
     1. Android app lifecycle
-  32. game
-8. ?
-9.  ?
-10. ?
+  5.  game
+* Week 9 (Campus) 22/11/2021
+  * Assignment workshop
+* Week 10 (Online) 29/11/2021
+  * Engineering war stories
+* Week 11 (Online) 06/12/2021
+* Week 12 (Campus) 13/12/2021
+  * Module review
 
 
+Assignments
+===========
+
+* Assignment 1 01/11/2021
+* Assignment 2 10/01/2022
+
+Assignment 1 - Technical Report
+------------
 
 ### Framework Evaluation
 > The assessment will made available using one or more software applications that is already built using a framework. 
 > Students will evaluate the implementation in a report using an evaluation template included in the assignment brief. 
+
+40%
 
 You have been employed by FreeCycle-Inc as a Lead Engineer. Your role is to technically advise and implement FreeCycle's digital products on web and mobile platforms.
 
@@ -523,3 +570,15 @@ TODO?
   * Wide range of technical and business factors are considered (skills marketplace, lead time, scale, maintainability, deployment)
 * Referencing/Supporting Evidence
 * Quality of written communication
+
+
+Assignment 2 - Digital Artifact
+------------
+
+* 30% Server side automated REST tests
+* 30% Client side automated browser tests
+* 10% Visual usability
+* 10% Server Unittests
+* 10% Client Unittests
+* 10% Comments/Documentation/Readability/ReadableGitLog
+

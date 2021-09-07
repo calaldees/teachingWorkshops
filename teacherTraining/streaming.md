@@ -5,6 +5,7 @@ Streaming
 https://www.tenforums.com/tutorials/89548-set-cpu-process-priority-applications-windows-10-a.html
 ```
 wmic process where name="Teams.exe" CALL setpriority 16384
+
 wmic process where name="obs64.exe" CALL setpriority 16384
 ```
 

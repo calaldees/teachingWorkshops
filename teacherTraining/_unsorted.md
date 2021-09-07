@@ -531,3 +531,8 @@ Bennet and Dojee 2015 mindfullness-based stress reduction course revealed that s
 
 * Support for student teachers
     * [futurelearn.com - learn-english](https://www.futurelearn.com/subjects/language-courses/learn-english)
+
+---
+
+* [ukpowernetworks.co.uk/power-cut/map](https://www.ukpowernetworks.co.uk/power-cut/map)
+* [istheservicedown.co.uk/](https://istheservicedown.co.uk/)

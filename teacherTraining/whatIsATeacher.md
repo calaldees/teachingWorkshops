@@ -13,6 +13,8 @@ PGCE Only - Academic Edition!
     * Subject Pedagogy Assignment
 * (Bonus) Education Inspection Framework
 
+TODO:
+* [Pedagogical content knowledge in computing education: a review of the research literature](https://www.tandfonline.com/doi/full/10.1080/08993408.2018.1509580)
 
 What is a Computer Science teacher?
 -----------------------------------
@@ -276,7 +278,7 @@ Ofsted Inspection Criteria
 --------------------------
 
 * [Education inspection framework](https://www.gov.uk/government/collections/education-inspection-framework) EIF
-    * [Inspecting schools: guide for maintained and academy schools ](https://www.gov.uk/guidance/inspecting-schools-guide-for-maintained-and-academy-schools)
+    * [Inspecting schools: guide for maintained and academy schools](https://www.gov.uk/guidance/inspecting-schools-guide-for-maintained-and-academy-schools)
     * [Research_for_EIF_framework](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/813228/Research_for_EIF_framework_100619__16_.pdf) 2019
 
 

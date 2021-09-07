@@ -84,20 +84,20 @@ Friday 24th September
 
 * Introduction to Subject Pedagogy
     * Course overview and expectations
+    * Reflection, tooling and ways of working this year
+    * Meta-pedagogy (not _tips for teaching_)
+    * Tacit knowledge transfer - e.g. Riding Bike, Learning to read
+    * Training _you_ as teachers to _reinvent the profession_
+    * SKA and development
 * What is Computing?
     * 3 strands Computer Science, ICT, Digital Literacy
 * Aims and purposes of our teaching and learning
-    * Reflection, tooling and ways of working this year
-    * meta-pedagogy (not _tips for teaching_)
-    * Tacit knowledge transfer - e.g. Riding Bike, Learning to read
-    * Training _you_ to _reinvent the profession_
-* Accessing and understanding research in subject
-* SKA and development
+* What is a Computer Science teacher?
 * What are the expectations/misconceptions teaching Computer Science?
     * Explore the backlash and confusion about computer science in education and wider society
         * The rise of STEM
         * Perceptions of gender and ethnicity in Computing
-    * Preparing students for a future we are unsure of
+* Preparing students for a future we are unsure of
 
 
 
@@ -124,12 +124,13 @@ Monday 27th September
 ### SP2 (PGCE only)
 Tuesday 28th September - 09:00
 
-* What is a Computer Science teacher?
+
 * What is Computer Science specific pedagogy and how is it defined in subject research?
 * Differences between _subject knowledge_ and _subject pedagogy_
 * What is Computing education?
-    * Introduction to Shulman’s SK and PCK theory – an example of theory used in educational research and practice
-* Identifying conceptions of SK and PCK and own development
+* Introduction to Shulman’s SK and PCK theory – an example of theory used in educational research and practice
+    * Identifying conceptions of SK and PCK and own development
+* Accessing and understanding research in Computing
 * Academic ethos, academic writing and academic research
 * Set SP assignment + deadlines
 
@@ -336,8 +337,8 @@ Thursday 2nd December - 18:00
 
 ### SP10
 Friday 3rd December
-* Formative assessment to inform planning and teaching in subject
-* Sequencing and structuring learning in subject
+* Formative assessment to inform planning and teaching in Computing
+* Sequencing and structuring learning in Computing
 
 ### EP13 (Optional)
 Thursday 9th December - 18:00

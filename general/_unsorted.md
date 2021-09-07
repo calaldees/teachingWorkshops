@@ -80,3 +80,10 @@
 
 * [Burning buried sunshine](https://plus.maths.org/content/burning-buried-sunshine)
     * > over 23 tonnes of plants to produce each and every litre of petrol 
+
+* [The hidden signs that can reveal a fake photo](https://www.bbc.com/future/article/20170629-the-hidden-signs-that-can-reveal-if-a-photo-is-fake)
+    * Shadows
+
+* [Can Progressives Be Convinced That Genetics Matters?](https://www.newyorker.com/magazine/2021/09/13/can-progressives-be-convinced-that-genetics-matters)
+    * > The behavior geneticist Kathryn Paige Harden is waging a two-front campaign: on her left are those who assume that genes are irrelevant, on her right those who insist that they’re everything.
+    * [A Conversation with Kathryn Paige Harden (Episode #212)](https://www.youtube.com/watch?v=EEwj5avKmtU) 48min

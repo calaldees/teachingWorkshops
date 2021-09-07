@@ -72,6 +72,53 @@ In the first session collect the students perceived expectations about the upcom
 
 ### Student rep
 
+### Learning Support Plan
+
+* You need to request this through student support services - this is student activated
+* Any disability or mental health issue can be identified
+
+### Extensions
+
+* Student initiated to admin team
+    * Self certification request (14 days before deadline)
+    * Evidence based request (up to 7 days after deadline)
+
+### Academic Marks
+
+* _PGCE_ and _pgce_
+* Masters Level 50%+
+* Level 6 40%
+* 2/3 modules must be Masters level
+
+### Interruptions and Withdrawals
+
+* Financial
+* Withdrawals VERY bad for us - interruptions are much better
+
+### Weekley meeting
+
+with mentors - targets - lead by you!
+mentoring (term1) -> coaching (term2)
+
+Session notes on weekley meetings - actions?
+Discuss your weekley targets and reflections with peer each session
+
+
+### CCF EFC
+
+* Core content framework
+* early-career-framework [Core induction programme](https://www.early-career-framework.education.gov.uk/)
+
+
+### My Role
+
+QA Mentors
+    NOT assess you teach
+Support you - PAT
+mark academic assignments
+Assess folders at end
+
+
 ### Lighthouse statement
 
 You've made a lighthouse statement about _who you are_ and _why you want to teach_.
@@ -205,6 +252,15 @@ tpck4	I can select technologies to use in my classroom that enhance what I teach
         * Know how to find it
         * How to repurpose it
         * How to teach with it
+
+https://twitter.com/mikercameron/status/1435123936962940929
+Mike Cameron @mikercameron
+New rule:-
+All materials produced in school are Crown Copyright and must be made available on a public facing website in an editable format.
+If DfE is serious about reducing teacher workload this would do it.
+
+Mark Enser @EnserMark
+I'm not sure this would help workload. Geography teachers are great at uploading their resources on to free sharing sites but the time it has taken me to find something I want to use is always more than the time it would take me to produce it myself.
 
 * [European Framework for the Digital Competence of Educators: DigCompEdu](https://publications.jrc.ec.europa.eu/repository/handle/JRC107466)
 
@@ -589,6 +645,7 @@ Computing in the curriculum has been criticized for not being relevant for all s
     * Time allocated is dropping
 
 
+
 Closing remarks
 ===============
 
@@ -600,6 +657,8 @@ TASK: Read [last years students comments](./_advice_from_past_students.md) these
 
 TASK: SD email me your tutors name, email, school. I would like to email them a hello
 
+* [Why I Teach](https://teachtogether.tech/en/index.html#s:finale) Chapter 15 - Greg Wilson
+    * Short snippet about why teach Computing
 
 
 ---

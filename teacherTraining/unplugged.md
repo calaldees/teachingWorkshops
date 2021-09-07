@@ -240,3 +240,5 @@ TODO
 * [Computational Thinking Education through Creative Unplugged Activities](https://ioinformatics.org/journal/v13_2019_171_192.pdf)
     * Move Baberas tasks away form computer
     * Exhibitions
+
+* [A critical review of literature on “unplugged” pedagogies in K-12 computer science and computational thinking education](https://www.tandfonline.com/doi/full/10.1080/08993408.2020.1789411) 2020

@@ -41,7 +41,8 @@ https://en.wikipedia.org/wiki/Anaglyph_3D
         * [Skyrim](https://www.youtube.com/watch?v=Bs9qqcR3x5g&t=295s)
 * Live
     * [3D Video: Test footage](https://www.youtube.com/watch?v=7pA6CvF4BEU)
-    * [Butterfly's](https://www.youtube.com/watch?v=aJ9tsb2yqUc&t=54s)
+    * [Skydiving at Parasummer 3D (AudioSwapped)](https://www.youtube.com/watch?v=NwzXL6joZjw)
+    * [Butterfly's](https://www.youtube.com/watch?v=aJ9tsb2yqUc)
 * Space
     * [NASA Space Station: Tour](https://www.youtube.com/watch?v=MQEkFppWaRI)
     * [NASA Mars](https://www.youtube.com/watch?v=RGpVNQfwyrE&t=818s)
