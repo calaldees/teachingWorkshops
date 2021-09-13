@@ -109,6 +109,31 @@ Discuss your weekley targets and reflections with peer each session
 * Core content framework
 * early-career-framework [Core induction programme](https://www.early-career-framework.education.gov.uk/)
 
+### Language
+
+* Children (<10?)
+* Kids?
+* Young People
+* "Low _ability_" !!!?!!
+    * "Low attainment"
+
+* Listen to the language the professionals use around you
+
+### Judging other teachers
+
+* You simply do not know enough about the role to make a judgement on other teachers
+* Bite your tongue
+* The education you observe WILL be different from your personal experience of education. You are a sample-size of 
+    * There are millions of different classrooms. You don't know.
+
+### Be a _net positive_
+
+### Transport to placements
+
+### Group Wiki
+
+### Your professional conduct has consequences
+Schools have opted out of taking students because 
 
 ### My Role
 
@@ -351,9 +376,12 @@ Resources
 * [BlackBoard](https://learn.canterbury.ac.uk/)
 * [Teacher Standards](https://www.gov.uk/government/publications/teachers-standards)
 * [Initial teacher training (ITT): core content framework](https://www.gov.uk/government/publications/initial-teacher-training-itt-core-content-framework)
+* [Education Development Trust’s Core Induction Programme](https://www.early-career-framework.education.gov.uk/edt/)
 * [Curriculum Handbook](todo)
     * Structure of course + mentor
 * [Subject Knowledge Tracker](https://computingteachers.uk/subjectKnowledge/subject-knowledge.html)
+    * Master investigation - opt out
+    * Questionnaire
 * Core templates
     * Lesson Observation
     * Lesson Planning Pro-forma
@@ -528,6 +556,15 @@ See my Session on [_firstProfetionalRole.md](./_firstProfetionalRole.md)
     * when relaying problems - suggest solutions
     * identify/call-out good progress
 
+### Evidence informed / Evidence based
+Right/Wrong
+Open mindedness
+
+### Like?
+
+"Why do you want 13 year old friends"?
+Your their to teach them, not be their friend
+
 ### My Role as course tutor (the reality)
 * Line manager-esk?
 * Every interaction is an assessment
@@ -536,6 +573,26 @@ See my Session on [_firstProfetionalRole.md](./_firstProfetionalRole.md)
     * Language/demeanour
     * Punctuality
     * Contributions
+
+* support action plan
+    * Professional communication (to me or between each other)
+        * > 8.3 ... supporting and developing effective professional relationships with colleagues.
+    * Attendance (inform ahead)
+        * You are expected to be there to legaly supervise 30 young people
+        * Unless you have been incapacitated - YOU COMMUICATE!
+
+Attendance
+----------
+
+* You have a duty of care for 30 young people at 8:45
+* It's not a normal office job where you can just take a day off if you're not feeling _up to it_
+* "I don't really feel like it today" - find a new profession
+    * Image these roles using that phrase
+        * Surgeon
+        * Lawyer
+        * Policemen
+        * 
+
 
 Some of you may have had a drink in a pub with your line manager at the end of the week. You can be friends. But they are still your line manager. They have the power to invoke disciplinary procedures and formally report progress.
 
@@ -701,22 +758,26 @@ TODO
 Things people bugger up with teacher training
 ----------------------------------------------
 
+* Read the handbook
 * collate information from multiple sources
     * multiple schools, multiple university modules
     * mechanical dates and locations
         * look at the calendar
     * keep group wiki (between you can collate information)
     * Emails will be sent to mandatory surveys
-        * "I didnt get it"
+        * "I didnt get it" - not an excuse
 
 * Accusational tone -> problem solving
     * I have tried
 * Email rules - take notes - don't be told things twice
 * Don't say "I will not be attending" ask permission
 * Your classmates are not your friends, they are other professionals you work with
-* tackle language swiftly (this is to help you develop and prevent issues later)
 
+* tackle language + attendance swiftly (this is to help you develop and prevent issues later)
 
+* Don't talk about your finances
+* Don't talk about your career aspirations, etc as a trainee
+    * You simply don't know the domain yet
 * You don't need to personal friends with colleagues to be able to work with them professionally
     * There are age and cultural differences
 * Get out of the mindset of being "a student at uni"
@@ -737,7 +798,6 @@ Things people bugger up with teacher training
 * There are not absolutes - much is unknown - Nobody _knows_ how to teach
 * Attendance
     * Just don't really feel up to it (the growth story - lack of sleep but still went it) - other jobs 'take the day off' sounds reasonable
-    * 
 * Your students are NOT you - stop using yourself as a benchmark
     * How you learned
     * your interests are not their interests "learn by making games; Who doesn't like games"
@@ -790,6 +850,20 @@ Allocate reps?
 
 Placement 1: CTP + DTP
 Placement 2: ITP
+
+### Transport
+
+* Car share with colleagues from that school
+    * Contact other trainees?
+    * staff at school
+* Rent tue/wed/thur
+
+### Be open?
+
+* [They are not the baddies](https://teachreal.wordpress.com/2021/09/11/they-are-not-the-baddies/)
+    * A youthful perception of school is not always accurate (even adults remembering)
+    * Don't jump to conclusions about rules being setup
+    * schools (and their employees) are the the baddies
 
 ---
 

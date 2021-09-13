@@ -87,3 +87,13 @@
 * [Can Progressives Be Convinced That Genetics Matters?](https://www.newyorker.com/magazine/2021/09/13/can-progressives-be-convinced-that-genetics-matters)
     * > The behavior geneticist Kathryn Paige Harden is waging a two-front campaign: on her left are those who assume that genes are irrelevant, on her right those who insist that they’re everything.
     * [A Conversation with Kathryn Paige Harden (Episode #212)](https://www.youtube.com/watch?v=EEwj5avKmtU) 48min
+
+* [Putting Mental Models to Practice Part 5: Skill Extraction](https://commoncog.com/blog/putting-mental-models-to-practice-part-5-skill-extraction/)
+    * Exercise to be 'Joe'. A project lead. given a set of 26 events, can you spot the problems with the project.
+    * 
+
+* [Flatland])(https://en.wikipedia.org/wiki/Flatland)
+    * Fictional story about a 2d creature coming into the 3d world and trying to explain it
+
+* [What is ‘Elite Overproduction’?](https://www.overcomingbias.com/2021/08/what-is-elite-overproduction.html)
+    * > Elite overproduction … describes the condition of a society which is producing too many potential elite-members relative to its ability to absorb them into the power structure. … a cause for social instability, as those left out of power feel aggrieved by their relatively low status

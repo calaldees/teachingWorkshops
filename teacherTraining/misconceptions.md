@@ -132,3 +132,16 @@ Other
 
     Compilers produce assembly code which is then converted to machine code.
     Detecting errors is the same as correcting errors.
+
+
+---
+
+Parameter variable names and postion - students don't understand they do not need to match
+e.g.
+```python
+def thing(c, d):  # These do not have be called `i` and `j`
+    print(f'{d}-{c}')
+for i in range(3):
+    for j in range(2):
+        thing(i, j)
+```

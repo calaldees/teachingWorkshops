@@ -1,9 +1,29 @@
 Frameworks and Languages
 ========================
 
+
+MCOMD3PFL Programming Frameworks and Languages
+
 50 hours instruction
 150 hours independent
 
+* [GitHub List - Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
+* [mapOfComputing](https://github.com/ComputingTeachers/mapOfComputing/)
+* [computingteachers.uk/langauge_reference](https://computingteachers.uk/static/langauge_reference.html)
+
+
+[](https://twitter.com/b0rk/status/1436703520560910337)
+  * > when you learn an abstraction first (like Rails), it can be hard to go learn about what's underneath (like TCP) and understand how it relates to the abstraction
+    * @b0rk
+  * > I really like that you jumped from Rails all the way to TCP in this tweet. People sometimes only think about a single layer of abstraction when the whole technology stack is important 
+    * @garethadams
+
+* [View Components, Storybook and Tailwind: The Holy Trinity? Learn how to setup View Components and Storybook for Ruby on Rails.](https://finnian.io/blog/view-components-storybook-tailwind-the-holy-trinity/)
+* [Pagnination in openapi](https://github.com/OAI/OpenAPI-Specification/issues/1835)
+* [replace-jquery](https://github.com/sachinchoolur/replace-jquery)
+  * Automatically finds jQuery methods from existing projects and generates vanilla js alternatives. 
+
+one reason I love debugging is that bugs often break through abstraction layers! they help you learn what's underneath
 
 ## Intended Learning Outcomes 
 By the end of the module students should be able to:
@@ -444,16 +464,18 @@ Testing.
     1. Assignments
       1. Writeup justification
       2. OpenAPI + Tests + Containers
-    2. Languages
-    3. Frameworks
-    4. Tests
+    2. What level 6 means
+    3. How do you alayise a framework (explicit)
+    4. Languages
+    5. Frameworks
+    6. Tests
   2. Practical
-    5. Clone and commit
-    6. gitpod
-    7. Containers
+    7. Clone and commit
+    8. gitpod
+    9. Containers
       1. build/run
       2. compose
-    8. Make HTTP Server
+    10. Make HTTP Server
       3. python/java
   3. Homework: 
 * Week 2 (Online) 2	04/10/2021: Languages
@@ -557,10 +579,11 @@ Your task is to write a 1600 word technical summary report to the directors. The
   * Although a realistic task; You are not a lead developer. You do not have the experience to write this to an industry standard. 
   * You are trying to demonstrate to an external examiner your knowledge and understanding
 * It is perfectly acceptable to consider interim solutions/technology
-  * e.g. 
-    * We will use Python/Django for the next 3 months as this will allow us to bring the product to market quickly. As we will have an admin panel and will easily be able to hire this skill-set cheaply at short notice.
-    * We will be working on a scaleable Golang/MongoDB solution to replace this implementation for version 2 of the API in 9 months time.
+  * example 
+    * We will use xyz for the next 3 months as this will allow us to bring the product to market quickly. As we will have an admin panel and will easily be able to hire this skill-set cheaply at short notice.
+    * We will be working on a scaleable xxyyzz solution to replace this implementation for version 2 of the API in 9 months time.
 * Technical reports heavily used bullet points. You do not need to write in full english paragraphs all the time.
+  * Lean documentation (web dev project last year)
 * Your reading/examples need to be justified with references. Show links to blog articles and case studies that support your technical assessment/recommendations
 
 
@@ -577,8 +600,6 @@ Assignment 2 - Digital Artifact
 
 * 30% Server side automated REST tests
 * 30% Client side automated browser tests
-* 10% Visual usability
-* 10% Server Unittests
-* 10% Client Unittests
-* 10% Comments/Documentation/Readability/ReadableGitLog
+* 20% Visual usability
+* 20% Comments/Documentation/Readability/ReadableGitLog
 

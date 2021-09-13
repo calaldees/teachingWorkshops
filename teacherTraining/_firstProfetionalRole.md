@@ -33,7 +33,8 @@ Basics
 * Do not discuss politics or religion at your place of work
     * This will likely alienate people. It is not relevant to your role.
 * Your colleagues do not need to be your friends
-    * You can respect them as professionals effectively and interact with them but still not like them
+    * You can respect them as professionals effectively and interact with them but still not _like_ them
+    * How much _you like them_ is not an indicator of their professional worth
 
 
 Personal Attitude
@@ -43,6 +44,7 @@ Personal Attitude
     * You can be a professional *and* still be a badass
 * Be proactive
     * Don't expect somebody else to fix your problems automatically
+* Be a _net positive_ to your organisation
 
 
 Courageous Leadership
@@ -65,6 +67,7 @@ Your have some element of control over your teams emotional state.
     * Identify problems - collate/suggest solutions - take action points
 * Identify the *spirit* of conversations
     * Are you colleagues being offensive? or are they expressing frustration?
+* Be mindful of gossip and boundaries
 
 
 Language
@@ -93,6 +96,7 @@ Possible suggestions
 Summary
 * If you talk like a child you will be treated like child
 * If you talk like a professional you will be treated like professional
+* Listen to the language the professionals around you use
 
 
 ### Plain English
@@ -114,6 +118,8 @@ It will take time to master.
         * The police stopped the riot. (Active)
         * The mine had to be closed by the authority. (Passive)
         * The authority had to close the mine. (Active)
+    * [hemingwayapp.com](https://hemingwayapp.com/)
+        * Online _plain english_ hints
 
 
 Business Process
@@ -143,12 +149,14 @@ You will have induction packs/training.
 As a member of staff you are expected to know all of it.
 Ignorance is not an excuse.
 
-Many organisations have online e-learning. 
+Many organisations have online e-learning.
 You have to tick a box to say I've read this.
 
 Is it the _organisations_ fault or _your_ fault?
 
 If you've ticked the box - then you should know - It's your fault.
+
+(This is an important semantic requirement. Some trainee teachers have been barred from school sites until they had completed this _online training_ + clicked 'I understand')
 
 ### Summary of national process's for schools
 
@@ -180,7 +188,7 @@ Answers in the chat
 * The presence of a rule (hopefully) creates a better outcome (than no rule)
 * As an individual you may not be aware of all possible situations and their knock-on effects.
     * You can't do this deep thinking in the spur of the moment
-    * You can't have the understanding or perspective of all stakeholders at all times
+    * You can't have the understanding or perspective of all/more stakeholders rather than just your perspective
 
 
 Formal Communication
@@ -192,6 +200,8 @@ Email is a _formal_ means of communication.
 * It is recorded.
 * It is evidence.
 * It is tracked.
+* Don't use emoji's or slang in emails. It is not a chat system.
+
 
 Why is email so important?
 * Verbally - things get lost/forgotten/don't-exist
@@ -200,11 +210,13 @@ Why is email so important?
 Tips:
 * Learn how to use _cc_ and _bcc_ effectively
 * Use 'reply' and 'replyall' effectively
-* You need to be able to cope with significant volumes of email with limited time
+* You need to be able to cope with significant volumes of email from multiple sources with limited time
     * Setup email filter rules to automatically sort incoming email into folders
 * Consider every single email _public domain_. Anyone can make a GDPR subject access request and demand all the data an organisation holds on them (including every email ever sent)
     * Do not make snide/condescending comments or jokes about children/staff/parents/ANYONE with your work email address. Keep EVERY message professional.
         * (Convey sensitive information or voice your internal emotional state to other staff verbally)
+
+
 
 
 My Stories
@@ -245,3 +257,13 @@ Interacting with your mentor
 * [What informs mentors' practice when working with trainees and newly qualified teachers? An investigation into mentors' professional knowledge base](https://www.tandfonline.com/doi/abs/10.1080/02607470600655227) 2007 Jones M, Straker K
     * > (mentors) described as challenging working with ‘weak’ or ‘unwilling’ trainees, dealing with trainees' personal stress and mediating between trainee and colleagues
 * Mentors are not your agony aunt or therapist. You have a professional role to perform.
+* Respect professional boundaries with all staff
+
+
+Judging other professionals
+--------------------------
+* As a novice - Bite your tongue
+* You simply DO NOT have the knowledge/experience to make any judgement at all
+* Ask questions to investigate your concerns, but DO NOT PASS JUDGEMENT
+* _Listen_ more than talk
+

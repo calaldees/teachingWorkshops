@@ -611,6 +611,21 @@ Questioning and the use of Blooms
 TODO
 -----
 
+* [The 6 most common mistakes students make when mind mapping](https://blog.innerdrive.co.uk/6-common-mind-mapping-mistakes)
+    * Mistake 1 – Using only words
+        * Dual coding - diagrams/pictographs
+    * Mistake 2 - Using too many words
+        * Redundancy effect
+    * Mistake 3 - Wasting time making it too pretty
+        * form of procrastination
+    * Mistake 4 – Not using Elaborative Interrogation
+        * Re-reading is insufficent revison
+        * "why is this true?" or "why might this be the case?"
+    * Mistake 5 – Not utilising Retrieval Practice
+        * they don’t actually test whether they understand what they’re written
+        * try 15min timebox to replicate mindmap from memory
+    * Mistake 6 - Not transferring mind map knowledge
+
 * CPA (often used in primary)
     * Concrete (physical props)
     * Presentation (visual)

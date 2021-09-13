@@ -1,11 +1,15 @@
 # Academic Writing
 
-https://www.mybib.com/
+
+
+
 
 > Provide specific examples to support claims, retaining an evaluative rather than emotive stance. Avoid hyperbole such as ‘incredibly creative’ unless you can provide specific evidence to support the statement.
 
 > Unpick the references you draw on to make them fully work for your developing argument.
 
+
+You are writing this for other masters level Computing teachers to read. Your audience are already domain experts. Use a single sentence + reference to set context.
 
 State, Claim, Argues, Hypothesises
 
@@ -107,3 +111,5 @@ People misinterperit it - critique
     * Why choose methodology
     * Why use source
     * Why 
+
+* [Aims and Objectives – A Guide for Academic Writing](https://www.discoverphds.com/advice/doing/research-aims-and-objectives)

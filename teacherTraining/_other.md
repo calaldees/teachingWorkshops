@@ -1,4 +1,4 @@
-* [DfE Announce: New Institute of Teaching set to be established ](https://www.gov.uk/government/news/new-institute-of-teaching-set-to-be-established) Jan 2021
+* [DfE Announce: New Institute of Teaching set to be established](https://www.gov.uk/government/news/new-institute-of-teaching-set-to-be-established) Jan 2021
     * launching in September 2022
     * Institute of Teaching to provide lifelong training and development for teachers
     * 4 regional campus's
@@ -7,8 +7,10 @@
 
 [Teacher Effects on Student Achievement and Height: A Cautionary Tale](https://www.nber.org/papers/w26480)
 
-Lost CGA game: [Golden Flute](https://twitter.com/rickbrewpdn/status/1210023029087985664) found after 40 years
 
+
+* [InnerDrive Education Blog](https://blog.innerdrive.co.uk/)
+    * CPD articles and posters
 
 [Sequencing](https://improvingteaching.co.uk/2016/08/14/practice-based-teacher-training-a-framework-for-design-and-facilitation/)
 Essential
