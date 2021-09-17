@@ -340,6 +340,8 @@ Friday 3rd December
 * Formative assessment to inform planning and teaching in Computing
 * Sequencing and structuring learning in Computing
 
+NCCE Assessment and GCSE
+
 ### EP13 (Optional)
 Thursday 9th December - 18:00
 * How can I research and evaluate my own practice?

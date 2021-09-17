@@ -22,6 +22,10 @@ MCOMD3PFL Programming Frameworks and Languages
 * [Pagnination in openapi](https://github.com/OAI/OpenAPI-Specification/issues/1835)
 * [replace-jquery](https://github.com/sachinchoolur/replace-jquery)
   * Automatically finds jQuery methods from existing projects and generates vanilla js alternatives. 
+* [High-Performance-Organizations-Reading-List](https://github.com/pdfernhout/High-Performance-Organizations-Reading-List#decreasing-cognitive-load)
+  * Paragraph summarising the books/articles - AMAZING!
+  * Programmers hit walls of complexity 3,000 30,000 and 300,000
+* [FORTRAN.io](https://fortran.io/) - finally, a Fortran Web Framework
 
 one reason I love debugging is that bugs often break through abstraction layers! they help you learn what's underneath
 
@@ -547,44 +551,55 @@ Testing.
 Assignments
 ===========
 
+* Set 27/09/2021
 * Assignment 1 01/11/2021
 * Assignment 2 10/01/2022
 
 Assignment 1 - Technical Report
 ------------
 
-### Framework Evaluation
-> The assessment will made available using one or more software applications that is already built using a framework. 
-> Students will evaluate the implementation in a report using an evaluation template included in the assignment brief. 
+### Overview
+Create a 1600 word technical report. This will be 40% of this module.
 
-40%
+* A repository has been setup with an existing prototype implementation with working test suites.
+* [github.com/calaldees/frameworks_and_languages_module](https://github.com/calaldees/frameworks_and_languages_module)
+* Clone this repository and inspect it's functionally.
+* In assignment 1 (this assignment) you will be asked to justify a choice of tooling
+* In assignment 2 (next assignment) you will be using the tools you have chosen in assignment 1 to implement a new server and client
 
-You have been employed by FreeCycle-Inc as a Lead Engineer. Your role is to technically advise and implement FreeCycle's digital products on web and mobile platforms.
 
-Freecycle-Inc have a working prototype for their free cycle platform.
+### Scenario
+* You have been employed by FreeCycle-Inc as a Lead Engineer
+* Your role is to technically advise and implement FreeCycle's digital products on web and mobile platforms
+* Freecycle-Inc have an existing working prototype for their FreeCycle platform with tests. (see assessment 2 - example)
+* The business requires you to implement a deployable/working version of the system within 3 months (see assessment 2 - deadline)
 
-Your task is to write a 1600 word technical summary report to the directors. The report should contain:
-* A description of what and why the current prototype implementation is not fit/modifiable for business use (300 words)
-* You are required to produce a deployable/working version of the system within 3 months (See part 2 of the assessment)
+### Task
+Produce a summary technical report to the business directors (1600 words total)
+The report should contain:
+* A description of why the existing prototype implementation is not fit for business use (300 words)
 * A recommendation about the proposed technical direction:
-  * Languages to be used + justification (600 words - 300 for each server/client)
-  * Framework to be used + justification (600 words - 300 for each server/client)
-* Consider a 3 year technical roadmap for this implementation (timeframes) (100 words)
+  * Server Implementation (600 words)
+    * Language justification
+    * Framework justification
+  * Client Implementation (600 words)
+    * Language justification
+    * Framework justification
+* Consider a 2 year technical roadmap for this implementation (timeframes) (100 words)
+* Provide a set of references for your justification (references do not count towards word count)
 
-
-#### Guidance
-* Expectation:
-  * This is a scenario for a learning exercise.
-  * This mimics a genuine task that might be required of you as a software engineer.
-  * Although a realistic task; You are not a lead developer. You do not have the experience to write this to an industry standard. 
-  * You are trying to demonstrate to an external examiner your knowledge and understanding
+### Guidance
+* Level of Expectation:
+  * This task is intended to mimics a genuine task that might be required of you as a software engineer. This is a scenario for a learning exercise and lacks some of nuance of a real problem.
+  * Realistically; You are not a lead developer. You are not expected to write this to a true industry standard. You are trying to demonstrate to an external examiner your knowledge and understanding.
+* You are being assessed on your justification/critique of the technical implementation and technology. You are not marked on critique of the user functionality that has been proposed.
 * It is perfectly acceptable to consider interim solutions/technology
-  * example 
-    * We will use xyz for the next 3 months as this will allow us to bring the product to market quickly. As we will have an admin panel and will easily be able to hire this skill-set cheaply at short notice.
-    * We will be working on a scaleable xxyyzz solution to replace this implementation for version 2 of the API in 9 months time.
+  * example:
+    * > We will use XYZ for the next 3 months as this will allow us to bring the product to market quickly. We will automatically have an admin panel for data and will easily be able to hire/contact this skill-set cheaply at short notice.
+    * > We will then focus on a scaleable THINGY solution to replace the XYZ implementation for version 2 of the API in 9 months time.
 * Technical reports heavily used bullet points. You do not need to write in full english paragraphs all the time.
-  * Lean documentation (web dev project last year)
-* Your reading/examples need to be justified with references. Show links to blog articles and case studies that support your technical assessment/recommendations
+  * Consider 'Lean documentation'
+* Your justifications need to be supported with references. Show links to blog articles and case studies that support your technical assessment/recommendations. It is an institutional policy to use Harvard style referencing.
 
 
 #### Marking Criteria
@@ -598,8 +613,50 @@ TODO?
 Assignment 2 - Digital Artifact
 ------------
 
-* 30% Server side automated REST tests
-* 30% Client side automated browser tests
-* 20% Visual usability
-* 20% Comments/Documentation/Readability/ReadableGitLog
+Freecycle-Inc have a working prototype implementation of their proposed service.
 
+https://github.com/calaldees/frameworks_and_languages_module
+
+The repository provides:
+* An OpenAPI3 Specification for the server service
+* A reference server implementation that runs in a container (you will replace this implementation)
+* An automated test container that tests the server implementation's conformance to the OpenAPI3 spec. These test run as GitHub actions as part of CI
+* A reference client implementation (that uses the OpenAPI3 service server container)
+* A set of browser tests (cypress), to document the expected client/user flows
+
+### Task
+* You are to replace the example server and client implementations with new implementations that pass the server and client automated test suites
+* Your solutions must run in containers on CI
+* Your solutions must use the frameworks you researched and justified in assignment 1
+
+### Mark Breakdown
+
+* 35% Server side implementation passing automated REST tests
+* 35% Client side implementation passing automated browser tests
+* 16% Visual usability (use of visual framework)
+* 14% Comments/Markdown-Documentation/Readability/Readable-Git-Log
+  * Documentation for a developer to run and debug each container
+  * 7% for server
+  * 7% for client
+
+
+### Guidance
+
+* It is not required for your server service to have a persistent data model
+  * You can use a data persistence model if desired. There are no extra marks allocated to this.
+* There is no requirement for any user authentication
+* There is no requirement for scale
+  * The system will be operating with less than 100 items
+
+
+| Assignment | Section | Marks (Total 100) |
+|---|--------------------------------|---:|
+| 1 | Critique of prototype          |  7 |
+| 1 | Server framework justification | 15 |
+| 1 | Client framework justification | 15 |
+| 1 | Roadmap                        |  3 |
+| 2 | Server implementation          | 21 |
+| 2 | Server documentation           |  4 |
+| 2 | Client implementation          | 21 |
+| 2 | Client documentation           |  4 |
+| 2 | Visual usability               | 10 |

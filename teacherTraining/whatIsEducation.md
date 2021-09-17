@@ -153,6 +153,9 @@ TASK: Visit the LASAR Site ... thoughts? comments?
 Can Science and Religion be taught together?
 
 * [LASAR (Learning about Science and Religion](https://www.canterbury.ac.uk/education/our-work/research-enterprise/learning-about-science-and-religion/learning-about-science-and-religion.aspx)
+    * Big questions
+    * [Chapter 12: Developing a Workshop for Secondary School Students that Provides a Space to Explore Questions About Human Personhood Through the Context of Human-like Machines](http://www.epistemicinsight.com/wp-content/uploads/2020/04/Book-Chapter-Developing-a-workshop-for-secondary-school-students.pdf) [doi](https://doi.org/10.1007/978-3-030-17234-3_12) 2020 Berry Billingsley and Mehdi Nassaji
+        * Science and Religion in Education, Contemporary Trends and Issues in Science Education 48
     * [Introducing epistemic insight into a PGCE course](https://www.epistemicinsight.com/introducing-epistemic-insight-into-a-pgce-course/)
         * Linking subject to _bigger questions_
     * [National Institute for Christian Education Research](https://blogs.canterbury.ac.uk/nicer/)

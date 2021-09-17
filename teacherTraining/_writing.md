@@ -1,5 +1,26 @@
 # Academic Writing
 
+### Comedy enactment to convey synthesis and reflective models
+
+"I think that;"
+<BUZZER>Citation needed
+"What the!? It's my own thought"
+<BUZZER>Untrustworthy source
+"Can't I express even a little bit of my opinion?"
+<BUZZER>Only via synthesis
+"Sythe-what?"
+<BUZZER>Summarise a range of conflicting (pier reviewed) sources to identify the gaps or uncertainties between them and suggest synthesised/informed alternative
+"You mean I have to read a lot"
+<BUZZER>Yes
+"But I can reflect on my own experience and write about that right?"
+<BUZZER>No. You are not allowed to have free-form thought (unless it's structured though a known documented reflection process)
+"That's restrictive"
+<BUZZER>
+"Why do you keep using the buzzer?"
+<BUZZER>Because I am the voice of truth and reason
+"Citation needed"
+<BUZZER>**** you!
+
 
 
 

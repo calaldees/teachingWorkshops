@@ -4,7 +4,7 @@ Programming Frameworks and Languages
 | | |
 |-|-|
 | Parent Programme | Undergraduate Computing Suite |
-| Module Title | Programming Frameworks and Languages  |
+| Module Title | Programming Frameworks and Languages |
 |Level| 6| 
 |Credit Rating & Duration | 20 credits (10 ECTS credits) |
 |                          | 50 hours academic direction | 
@@ -19,8 +19,7 @@ This module supports the Implement and Operate elements of the CDIO model.
  
 ## Intended Learning Outcomes 
 By the end of the module students should be able to:
-1. Demonstrate an understanding of the concept of a Framework in general, a Framework used for Programming, and a Framework used for software 
-Testing. 
+1. Demonstrate an understanding of the concept of a Framework in general, a Framework used for Programming, and a Framework used for software Testing.
 2. Critically evaluate the effectiveness of a particular framework for an application and platform.
 3. Synthesise a small digital artefact using a well-formed programming framework.
  

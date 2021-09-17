@@ -368,6 +368,19 @@ I'm not sure this would help workload. Geography teachers are great at uploading
     * Subject Pedagogy
 
 
+### Abcense
+
+* 1-5 Letter
+* 120 days in school
+* missed session 500 words
+    * reflective peice on key question
+    * NOT a punishment
+    * Spreadsheets to fill in centrally?
+    * NOT an alternative
+* missed session == not meet teaching standards
+* Engagement
+
+
 Resources
 ---------
 
@@ -400,6 +413,13 @@ Resources
 * Problems?
     * email i-zone@canterbury.ac.uk
 
+* [Free software.](https://www.canterbury.ac.uk/our-students/ug-current/it-services/software-and-online-services/free-software) and remote desktop
+* 
+
+
+### TODO:
+every session swap mentor meeting sheets - discuss
+Add action points from end of uni session - discuss
 
 Reflective practice
 -------------------
@@ -578,8 +598,12 @@ Your their to teach them, not be their friend
     * Professional communication (to me or between each other)
         * > 8.3 ... supporting and developing effective professional relationships with colleagues.
     * Attendance (inform ahead)
-        * You are expected to be there to legaly supervise 30 young people
+        * You are expected to be there to legally supervise 30 young people
         * Unless you have been incapacitated - YOU COMMUICATE!
+
+* PGCE Mark final folder (or SD Final assessment panel) + Assignment (Not SD) + Reference (Not SD)
+* You fill in my exit survey
+
 
 Attendance
 ----------
@@ -648,6 +672,17 @@ TASK: Setup an informal communications channel
 NOW: Group email with all members of the group
 
 
+### Work Life Balance
+
+Teacher reform
+* [@CajunMSTeacher](https://twitter.com/CajunMSTeacher/status/1437181184988094466)
+    * > @CajunMSTeacher: Apparently I upset some people with my post about not bringing work home. I’m sorry, but this ongoing acceptance by teachers that we’re supposed to work 60+ hours a week because we love our jobs is why we’re in the position we’re in. Stop letting it be acceptable. Force change.
+        * > @fatbadger442: Do you give children homework? If so, you do know that all you are doing is modelling unpaid overtime, don't you? Do you oppose children's excessive workloads that impinge upon time at home as much as you do teachers'?
+        * > @CajunMSTeacher: I’ve already adressed this twice, but I’ll say it again. I do not assign hw for my students. It would be a double standard for me to give them work and then say I shouldn’t have to work at home. I structure my classes so that they hve time needed to complete everything in class.
+        * > @MrsLansdell: But I just don’t understand how to do this. I’ve been teaching 25+ years. I cannot get everything done without either staying late or taking work home. If I don’t, I don’t have everything ready and I HAVE to have it ready to go for kindergarten. I’m the one who suffers.
+        * > @jenlowejohnson: We talk about leaving work at work frequently in the Teacher Care Network Support Community. If we want teacher retention to improve, we have to stop acting like it's normal to work that much for so little money. Teachers are humans with human needs, one of them being rest.
+
+
 Computer Science
 ----------------
 
@@ -706,6 +741,10 @@ Computing in the curriculum has been criticized for not being relevant for all s
 Closing remarks
 ===============
 
+I will do everything I can to help you succeed.
+Some of the things I do you may not _like_, but I assure your, it is to help you be successful.
+
+
 TASK: Read [last years students comments](./_advice_from_past_students.md) these are wholesale unedited
 
 * Preparing students for a future we are unsure of
@@ -746,6 +785,9 @@ TASK: SD email me your tutors name, email, school. I would like to email them a 
 
 TODO
 
+* CCCU Student [free-software](https://www.canterbury.ac.uk/our-students/ug-current/it-services/software-and-online-services/free-software)
+    * Student desktop
+
 [Teacher professional learning and development](https://www.iaoed.org/downloads/EdPractices_18.pdf) Helen Timperley - INTERNATIONAL ACADEMY OF EDUCATION
 
 
@@ -757,6 +799,8 @@ TODO
 
 Things people bugger up with teacher training
 ----------------------------------------------
+
+Calm down
 
 * Read the handbook
 * collate information from multiple sources

@@ -1,3 +1,11 @@
+From Ofsted Reports - The Solent SCITT ​
+> Mentors are regarded as good role models rather than trained to be experts. ​
+> Mentors are not seen as, or trained to be, the expert colleagues the core content framework demands.
+
+Mentor are expected as part of the ECF to use research readings.
+
+
+
 Space to try things their own way and come to their own conclusions
 Sometimes have to say hard things
 

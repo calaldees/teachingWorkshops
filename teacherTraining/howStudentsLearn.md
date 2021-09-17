@@ -304,6 +304,8 @@ Help sheets or Knowledge Organisers can help reduce cognitive load
 * Pedagogy Quick Reads [cognitive load in computing](https://raspberrypi-education.s3-eu-west-1.amazonaws.com/Quick+Reads/Pedagogy+Quick+Read+1+-+Cognitive+Load+Theory.pdf)
 * Parsons Problems [TODO: nCCE quick reads]()
 
+* wonkhe.com [problem based learning](https://wonkhe.com/blogs/challenger-institutions-focus-on-problem-based-learning/)
+
 TASK: What does this mean for your planning?
 
 ### More
