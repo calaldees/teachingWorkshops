@@ -189,12 +189,7 @@ On BlackBoard
 Subject Pedagogy (SP) Assignment
 --------------------------------
 
-
-WARNING: The Subject Pedagogy Assignment will be set formally soon.
-This is a PREVIEW. There may be minor changes. (To my knowledge there are no major changes planned)
-[Subject Pedagogy (SP) Assignment 2019/2020](https://cccu.padlet.org/sharron_mackenzie1/mhqf3wfen2yb)
-* Exemplar posters
-* Mark-grid
+[Padlet: Subject Pedagody - The Assignment Guidance 2021/2022](https://cccu.padlet.org/sharron_mackenzie1/mhqf3wfen2yb?utm_campaign=added_post&utm_medium=desktop&utm_source=notifications)
 
 ### Submission
 

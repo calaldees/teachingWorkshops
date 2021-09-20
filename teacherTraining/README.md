@@ -13,6 +13,8 @@ Resources for PGCE/SchoolDirect Secondary Computing.
 * ITT (DfE) == ITE (Ofstead)
 * [Teacher Standards](https://www.gov.uk/government/publications/teachers-standards)
 * [Initial teacher training (ITT): core content framework](https://www.gov.uk/government/publications/initial-teacher-training-itt-core-content-framework)
+* [early-career-framework](https://www.gov.uk/government/publications/early-career-framework)
+* early-career-framework [Core induction programme](https://www.early-career-framework.education.gov.uk/)
 * [Initial teacher education (ITE) inspection framework and handbook](https://www.gov.uk/government/publications/initial-teacher-education-ite-inspection-framework-and-handbook)
 * [Ofsted annual report](https://www.gov.uk/government/collections/ofsted-annual-reports)
 

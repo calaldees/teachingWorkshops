@@ -35,6 +35,10 @@ Basics
 * Your colleagues do not need to be your friends
     * You can respect them as professionals effectively and interact with them but still not _like_ them
     * How much _you like them_ is not an indicator of their professional worth
+    * Don't expect them to be _you're mates_
+* Your students do not need to be your friends
+    * They don't have to like you. They HAVE to respect you.
+    * "Why do you want a bunch of 13 year-old friends?"
 
 
 Personal Attitude
@@ -45,6 +49,7 @@ Personal Attitude
 * Be proactive
     * Don't expect somebody else to fix your problems automatically
 * Be a _net positive_ to your organisation
+* Get out of the mindset of being "a student at uni". 
 
 
 Courageous Leadership

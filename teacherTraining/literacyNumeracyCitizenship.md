@@ -681,6 +681,10 @@ Citizenship
             * [Dankula Appeal](https://www.gofundme.com/f/fund-the-count-dankula-appeal)
             * All funds now ceased and held as case was dismissed by court
             * Freedom of speech? or Hate Crime?
+            * [It’s not funny anymore. Far-right extremists’ use of humour](https://ec.europa.eu/home-affairs/system/files/2021-03/ran_ad-hoc_pap_fre_humor_20210215_en.pdf)
+                * Recruit young people into extremist views
+                * > discuss how  extremists conceal their misanthropic messages in order to deny ill intention or purposeful harm. These recent developments pose major  challenges  for  practitioners:  As  a  new  generation  of  violent  extremists  emerges  from  digital subcultures without a clear organisational centre, prevention strategies need to renew focus and cope with the intangible nature of online cultures.
+            * Who is right?
 * Democracy
     * [Marcus J Ball](https://www.marcusjball.com/) suggests that if politicians are allowed to lie to us then democracy dies
         * If a CEO lies to their shareholders, they go to prison for fraud. If a politicians lies to a country, that's _fair game_
@@ -691,7 +695,12 @@ Citizenship
     * [citizenlab.co](https://www.citizenlab.co/) - An e-democracy platform for stronger communities
     * Reach more of your residents, engage with their ideas efficiently, and make decisions based on real-time data.
         * [github](https://github.com/CitizenLabDotCo)
-
+* Voluntourism
+    * [The business of voluntourism: do western do-gooders actually do harm?](https://www.theguardian.com/news/2018/sep/13/the-business-of-voluntourism-do-western-do-gooders-actually-do-harm)
+        * Orphanges are proven to be ineffective. Yet are funded and kept open by volenteer aid
+        * Importing unskilled labour harms local economies and local people viaing for jobs
+        * > not much money was being spent on its most vulnerable, disabled residents, while a lot of investment has gone towards making the volunteer experience as comfortable as possible
+        * > voluntourism gets in the way of recognising the structural issues that create humanitarian crises
 
 ### PREVENT Duty
 

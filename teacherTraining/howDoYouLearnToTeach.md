@@ -8,21 +8,25 @@ Induction to programme materials, structure and professional engagement
 
 
 
-
+* Introduction to Subject Pedagogy
+    * Course overview and expectations
+    * Reflection, tooling and ways of working this year
+    * Meta-pedagogy (not _tips for teaching_)
+    * Tacit knowledge transfer - e.g. Riding Bike, Learning to read
+    * Training _you_ as teachers to _reinvent the profession_
+    * SKA and development
 * What is Computing?
     * 3 strands Computer Science, ICT, Digital Literacy
+* Aims and purposes of our teaching and learning
+* What is a Computer Science teacher?
 * What are the expectations/misconceptions teaching Computer Science?
     * Explore the backlash and confusion about computer science in education and wider society
         * The rise of STEM
         * Perceptions of gender and ethnicity in Computing
-    * Preparing students for a future we are unsure of
-* Aims and purposes of our teaching and learning
-    * Reflection, tooling and ways of working this year
-    * meta-pedagogy (not _tips for teaching_)
-    * Tacit knowledge transfer - e.g. Riding Bike, Learning to read
-    * Training _you_ to _reinvent the profession_
-* Accessing and understanding research in subject
-* SKA and development
+* Preparing students for a future we are unsure of
+
+
+
 
 
 
@@ -34,114 +38,32 @@ Introductions
 My background
 * 7 years teaching ICT and Computing in secondary schools - Practical battle experience
 * 10 years as a senior developer in central London across a range of domains
-* 2 years (part-time) supporting CCCU Computing subject sessions
+* (2 years sessions) + 1 year formally as Lecturer in Education.
 * My weakness is _cutting edge research_ and _teaching theory_
-    * I will be working towards this throughout the year
+    * I will constantly working towards this the rest of my career
 
 I have my own ideas about how to teach computing
 * Multiple languages at once
-* Freedom (self direct-ish)/project based
-* Unit tests
-* Pair programming (talking about code and collaborating)
-* Version control
-But this course is not about my _opinions_ about my preferred teaching methods, 
-it is about critically developing your own subject pedagogy knowledge.
+* Freedom (self direct-ish)/project based/Creativity (removal of hierarchy)
+* Unit tests, Pair programming (talking about code and collaborating), Version control
+But this course is not about my _opinions_ or about my preferred teaching methods.
+You must develop your own critically to develop your own subject pedagogy knowledge.
 
 ### Who are you?
 
 TASK: 120 second summary
 * Rough background (education, work)
 * Course: PGCE, 7-14 or SchoolDirect?
+* What are you exited about this year
+* What are you fearful about this year (we are all vulnerable)
 
-<sub>side-note: Computing teachers mindsets - compared to other subject practitioners - feel trapped</sub>
+<sub>side-note: Computing teachers mindsets - tech workers? - be mindful - other subject practitioners can feel trapped in the profession</sub>
 
 The burden of learning to teach - the _expert beginner_
 Primary->Secondary->Uni->Carear1Employment1->Carear2Employment2->Retraining->Carear2Employment1
 
-### Mini survey
-
-Visual Thumb-up-o-meter
-* Multiple programming languages (to an autonomous level)
-* Version control
-* Linux
-
-### Perceived expectations
-
-In the first session collect the students perceived expectations about the upcoming course. Attempt to correct misunderstandings early.
 
 
-### Student rep
-
-### Learning Support Plan
-
-* You need to request this through student support services - this is student activated
-* Any disability or mental health issue can be identified
-
-### Extensions
-
-* Student initiated to admin team
-    * Self certification request (14 days before deadline)
-    * Evidence based request (up to 7 days after deadline)
-
-### Academic Marks
-
-* _PGCE_ and _pgce_
-* Masters Level 50%+
-* Level 6 40%
-* 2/3 modules must be Masters level
-
-### Interruptions and Withdrawals
-
-* Financial
-* Withdrawals VERY bad for us - interruptions are much better
-
-### Weekley meeting
-
-with mentors - targets - lead by you!
-mentoring (term1) -> coaching (term2)
-
-Session notes on weekley meetings - actions?
-Discuss your weekley targets and reflections with peer each session
-
-
-### CCF EFC
-
-* Core content framework
-* early-career-framework [Core induction programme](https://www.early-career-framework.education.gov.uk/)
-
-### Language
-
-* Children (<10?)
-* Kids?
-* Young People
-* "Low _ability_" !!!?!!
-    * "Low attainment"
-
-* Listen to the language the professionals use around you
-
-### Judging other teachers
-
-* You simply do not know enough about the role to make a judgement on other teachers
-* Bite your tongue
-* The education you observe WILL be different from your personal experience of education. You are a sample-size of 
-    * There are millions of different classrooms. You don't know.
-
-### Be a _net positive_
-
-### Transport to placements
-
-### Group Wiki
-
-### Your professional conduct has consequences
-Schools have opted out of taking students because 
-
-### My Role
-
-QA Mentors
-    NOT assess you teach
-Support you - PAT
-mark academic assignments
-Assess folders at end
 
 
 ### Lighthouse statement
@@ -157,228 +79,62 @@ This year will change you.
 
 This is a wonderful example of
 > When you learn something, you are permanently changed.
-
 <sub>David Didau</sub>
 
+#### You will outgrow my support
+Right now I might look to you like some super-human teaching deity. By the end of this course you will feel completely differently. I'm just some dude doing a job I like. By the end of this year you will have outgrown the support I can give you. At the celebration day at the end of the course we will just be a bunch of people sitting around and talking about education.
 
-The Course
+
+
+Meta-pedagogy (not _tips for teaching_)
+-------------
+What is Subject Pedagogy?
+You already have foundation subject knowledge.
+We are learning HOW to teach someone about Computing.
+I will not be showing you tips for teaching. 
+I will not give you resources.
+
+Your students are NOT you
+--------------------------
+
+* Your students are NOT you - stop using yourself as a benchmark
+    * How you learned
+    * your interests are not their interests "learn by making games; Who doesn't like games"
+    * What % of your students will get a degree in Computing?
+
+
+
+Research
+--------
+
+https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit
+https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/
+Meta anlysis
+Rating of interventions
+John Hattie's 'Visible Learning' - Distill it to a number
+
+Where do you start your measuing?
+Asumptions
+
+Maths behind meta alysis is not great
+"Compare apples and oranges"
+
+* CCCU [Meta Analysis Effect Sizes](https://cccu.yuja.com/V/Video?v=53836&node=264665&a=701464625&autoplay=1) Karl Bentley
+* [John Hattie: Visible Learning Pt1. Disasters and below average methods.](https://www.youtube.com/watch?v=sng4p3Vsu7Y)
+* [John Hattie, Visible Learning. Pt 2: effective methods.](https://www.youtube.com/watch?v=3pD1DFTNQf4)
+* [Effect Sizes - SAGE Research Methods](https://methods.sagepub.com/reference/the-sage-encyclopedia-of-communication-research-methods/i4505.xml)
+* [Dylan Wiliam: Feedback on learning](https://www.youtube.com/watch?v=n7Ox5aoZ4ww)
+
+
+Why Teach?
 ----------
 
-> Understand the route through training and education that is prepared for them, and their role in that training and education
-
-* From the [CCCU Computer Science Curriculum Guidance](https://learn.canterbury.ac.uk/bbcswebdav/pid-2664627-dt-content-rid-3988355_1/xid-3988355_1)
-    * > All sessions are designed to develop your pedagogy and have been devised by your University tutors in consultation with mentors from partnership schools that includes input from previous student teachers. 
-    * > Sessions, underpinned by research and theory, will explore a wide range of teaching and learning strategies and resources and identify and make use of a variety of best practice ideologies.
-
-The purpose of this course is to challenge you and challenge your thinking
-
-### Average Case
-
-Agile in software engineering
-The importance of process
-I am average - you are average
-
-### Aims and purposes of our teaching and learning
-
-* Meta-pedagogy (not _tips for teaching_, not pre-prepared-lessons)
-* Tacit knowledge transfer - e.g. Riding Bike, Learning to read
-    * Can you write down the steps to ride a bike?
-* 10,000 hours
-    * How long have you spent driving? Why are you not a world class driver?
-    * You're operating without reflection/feedback mechanisms
-
-TASK: How would you teach someone to ride a bike?
-120 seconds - Write down - the phases/notes
-Describe verbally to group
-
-Venn diagram of
-* Subject Knowledge
-* Pedagogical Knowledge
-* Context Knowledge
-
-> Pedagogical Content Knowledge (PCK) conceptualises both the link and the distinction between knowing something for yourself and being able to enable others to know it.
-
-
-Magnusson et al. (1999)
-* knowledge of goals and objectives for teaching a specific topic in the curriculum, (GO)
-* knowledge of students’ understanding of this topic, (SU)
-* knowledge of instructional strategies concerning this topic, (IS)
-* knowledge of ways to assess students’ understanding of this topic (AS)
-combinations of PKC in the form GO-IS
-
-* [Pedagogical Content Knowledge: Teachers' Integration of Subject Matter, Pedagogy, Students, and Learning Environments](https://narst.org/research-matters/pedagogical-content-knowledge) Shulman, 1986
-    * TODO
-* [Those Who Understand: Knowledge Growth in Teaching](https://www.wcu.edu/WebFiles/PDFs/Shulman.pdf)
-    * TODO
-
-* [Self-reported technological pedagogical content knowledge (TPACK) of pre-service teachers in relation to digital technology use in lesson plans](https://www.sciencedirect.com/science/article/pii/S0747563220303332) Mirjam Schmid Eliana Brianza, Dominik Petko 2021
-    * Technological Pedagogical Content Knowledge (TPACK; Koehler & Mishra, 2008; Mishra & Koehler, 2006) is probably the most prominent model of teacher expertise regarding the educational use of digital technologies 
-    * Knowledge framework proposed by Shulman (1986, 1987), teachers need to combine different knowledge dimensions to effectively teach with technology. These include the three core components of 
-        * pedagogical knowledge (PK)
-        * content knowledge (CK)
-        * technological knowledge (TK)
-    * In addition, there are three first level hybrid components formed at their intersections, namely 
-        * pedagogical content knowledge (PCK), 
-        * technological pedagogical knowledge (TPK), 
-        * technological content knowledge (TCK). 
-    * These combine into the second level hybrid component, technological pedagogical content knowledge (TPCK)
-    * Existing questionnaires have been criticized regarding the fuzzy, technology-unspecific, and content-agnostic wording of questionnaire items, which ask participants to rate the “appropriateness” of their competencies 
-    * self-evaluated knowledge is relative to the extent of a person's knowledge itself.
-    * This “unskilled and unaware” bias has been recognized in research on TPACK as well: 
-    * Drummond and Sweeney (2017) showed that self-reported TPACK of pre-service teachers revealed only a weak correlation with a more objective, fact-based knowledge test on TPACK
-    *  Starkey (2019) points out, TPACK needs to be enacted by three different types of competencies: the ability to use particular technologies as a teacher, the ability to decide which technology to use for a specific teaching purpose, and the ability to guide and support students when learning with digital tools.
-    * Krauskopf and Forssell (2018) propose that self-report questionnaires are more likely to measure confidence and self-efficacy with regard to the TPACK domains rather than actual knowledge
-
-pk1	I can adapt my teaching based upon what students currently understand or do not understand.
-pk2	I can adapt my teaching style to different learners.
-pk3	I can use a wide range of teaching approaches in a classroom setting.
-pk4	I can assess student learning in multiple ways.
-
-ck1	I have sufficient knowledge about my teaching subject.
-ck2	I can use a subject-specific way of thinking in my teaching subject.
-ck3	I know the basic theories and concepts of my teaching subject.
-ck4	I know the history and development of important theories in my teaching subject.
-
-tk1	I keep up with important new technologies.
-tk2	I frequently play around with the technology.
-tk3	I know about a lot of different technologies.
-tk4	I have the technical skills I need to use technology.
-
-pck1	I know how to select effective teaching approaches to guide student thinking and learning in my teaching subject.
-pck2	I know how to develop appropriate tasks to promote students complex thinking of my teaching subject.
-pck3	I know how to develop exercises with which students can consolidate their knowledge of my teaching subject.
-pck4	I know how to evaluate students' performance in my teaching subject.
-
-tpk1	I can choose technologies that enhance the teaching approaches for a lesson.
-tpk2	I can choose technologies that enhance students' learning for a lesson.
-tpk3	I can adapt the use of the technologies that I am learning about to different teaching activities.
-tpk4	I am thinking critically about how to use technology in my classroom.
-
-tck1	I know how technological developments have changed the field of my subject.
-tck2	I can explain which technologies have been used in research in my field.
-tck3	I know which new technologies are currently being developed in the field of my subject.
-tck4	I know how to use technologies to participate in scientific discourse in my field.
-
-tpck1	I can teach lessons that appropriately combine my teaching subject, technologies, and teaching approaches.
-tpck2	I can use strategies that combine content, technologies, and teaching approaches that I learned about in my coursework in my classroom.
-tpck3	I can choose technologies that enhance the content of a lesson.
-tpck4	I can select technologies to use in my classroom that enhance what I teach, how I teach, and what students learn.
 
 
 
-* [Pedagogy by proxy: developing computing PCK through shared lesson resources](https://sure.sunderland.ac.uk/id/eprint/13728/) Hidson, Elizabeth (2021)
-    * PCK by proxy
-    * There is an unheard commentary that is a part of any shared lesson resource
-        * You would normally have this by talking to the other teacher
-    * Lesson resources are missing _pedagogical metadata_
-    * _Why_ we do what we do
-    * Pedagogical reasoning - Know how to:
-        * Know what you need to be able to teach
-        * Know how to find it
-        * How to repurpose it
-        * How to teach with it
+* [Why I Teach](https://teachtogether.tech/en/index.html#s:finale) Chapter 15 - Greg Wilson
+    * Short snippet about why teach Computing
 
-https://twitter.com/mikercameron/status/1435123936962940929
-Mike Cameron @mikercameron
-New rule:-
-All materials produced in school are Crown Copyright and must be made available on a public facing website in an editable format.
-If DfE is serious about reducing teacher workload this would do it.
-
-Mark Enser @EnserMark
-I'm not sure this would help workload. Geography teachers are great at uploading their resources on to free sharing sites but the time it has taken me to find something I want to use is always more than the time it would take me to produce it myself.
-
-* [European Framework for the Digital Competence of Educators: DigCompEdu](https://publications.jrc.ec.europa.eu/repository/handle/JRC107466)
-
-* [Disconnected? Exploring the digital skills gap](https://learningandwork.org.uk/resources/research-and-reports/disconnected-exploring-the-digital-skills-gap/) Learning and Work Institute - 2021
-    * 92% of businesses say that having a basic level of digital skills is important for employees
-    * 76% of businesses say that a lack of digital skills would affect the profitability of their business
-    * 88% of young people say that digital skills will be essential for their career
-    * Computing has a 20% female uptake
-    * “[Many young people] aren’t given the information required to truly understand  what the opportunities associated with a career with digital skills is about”
-    * > Young people are confident in their basic digital skills but less confident they have the advanced skills employers need
-    * 40% drop in the number of GCSE entries in moving from ICT to Computing
-    * University entries have declined
-    * 34% of jobs in London require advanced digital skills
-
-### Your development phases
-
-* Unconscious incompetence
-* Concious incompetence
-* Concious competence
-* Unconscious competence
-
-1. Early idealism
-2. Personal survival
-3. Dealing with difficulties
-4. Hitting a plateau
-5. Moving on
-
-### Strands
-
-1. Criticality
-    * conflict - alternate view - sources of information
-2. Creativity
-    * Can we teach concepts of computing with playdough?
-3. Inclusion
-    * Catering for everybody (not just a subset of society)
-4. Subject Knowledge
-    * Passion and Skill
-
-### Course Requirements
-
-* Experience teaching 4 year groups
-    * Across two key stages
-* In 2 Schools
-* With 120 Days teaching
-
-### Assessment
-
-* Teaching Portfolio (digital)
-    * A Single repository to reference/archive
-        * Available on request to external examiner
-    * Mentor Meeting notes
-        * Evidence for every week
-    * Lesson Packs
-        * 1 Lesson pack ==
-            * Lesson plan
-            * Lesson observation
-            * Lesson Evaluation
-        * 20(?) are required
-    * 3 _Bundles_
-        * Covering two key stages
-        * Lesson packs
-        * Examples of pupil work
-        * Reflections
-    * Subject Knowledge Tracker and evidence of progress
-* 2 Academic Assignments
-    * SP1
-        * Literature Review
-    * SP2
-        * Reflection Presentation (at Master level)
-* 1 Academic Professional presentation
-    * of one of your _Bundles_
-* RE&E Module
-    * Active research
-
-### Subject Sessions
-
-* Thursday Evening (online)
-    * EP/GP
-* Friday (on campus)
-    * Subject Pedagogy
-
-
-### Abcense
-
-* 1-5 Letter
-* 120 days in school
-* missed session 500 words
-    * reflective peice on key question
-    * NOT a punishment
-    * Spreadsheets to fill in centrally?
-    * NOT an alternative
-* missed session == not meet teaching standards
-* Engagement
 
 
 Resources
@@ -393,17 +149,21 @@ Resources
 * [Curriculum Handbook](todo)
     * Structure of course + mentor
 * [Subject Knowledge Tracker](https://computingteachers.uk/subjectKnowledge/subject-knowledge.html)
-    * Master investigation - opt out
-    * Questionnaire
 * Core templates
     * Lesson Observation
     * Lesson Planning Pro-forma
     * Lesson Evaluation
     * Mentor Meeting
+* [Teacher Training Resource Bank](https://webarchive.nationalarchives.gov.uk/20101008123030/http://www.ttrb.ac.uk//index.aspx) 2010
+    * A consortium of universities created resources for national strategy
+    * This includes things like "How do you tackle racism in the classroom"
 
 
 * SKA and development
+    * Master investigation - opt out
+    * [Questionnaire](https://forms.office.com/Pages/ResponsePage.aspx?id=2rIgA90iq02MIW5kS6FPE4bZosdBzY5AvRurHpjUivVURjROUExKR1VVVlU3UlJOUURIOFIxUTdFVS4u)
 
+NCCE
 
 * [Registering as a student](https://www.canterbury.ac.uk/new-students/before-you-arrive/registering-as-a-student)
 * [Registration Update](https://blogs.canterbury.ac.uk/studentnews/registration-update/)
@@ -421,367 +181,27 @@ Resources
 every session swap mentor meeting sheets - discuss
 Add action points from end of uni session - discuss
 
-Reflective practice
--------------------
 
-(Model possible process)
 
-* Actions (leaver)
-    * Immediate actions
-    * Future points (How will you come back to these?)
-        * Behaviours? Cumulative?
-* Measure impact (how will you know it has had an effect)
-    * Cross-reference your actions
 
-You need a note taking system.
-Your note taking system should be online and transparent.
 
-* Every subject session has progress, evidence and actions
-    * You record
-        * Action points
-        * Reflections
-    * My records
-        * Comments on each student for each session
-        * Monitor Engagement
-            * If I was asked 'How is StudentX engaging with the subject sessions'. I could respond by pointing them at your action points and reflections for 'each session.
-        * I could be asked to justify your progress
-            * e.g last year when lockdown happened - educators asked to predict on trajectory
-            * I will be part of a panel of professionals that could be asked about your progress
 
-* [Blogging while on professional placement: explaining the diversity in student attitudes and engagement](https://www.tandfonline.com/doi/abs/10.1080/1475939X.2013.847481?journalCode=rtpe20) Dalgarno (2013)
-    * > The use of journals by students while on placement is a well-accepted strategy for encouraging reflection on practice, with the use of online blogs for this purpose potentially providing additional benefits through shared reflection and peer support. The aim of this study was to explore the effectiveness of an online blogging activity by teacher education students while on professional placement in schools.
-* [Blogs in pre-service teacher education: exploring the participation issue](https://www.tandfonline.com/doi/abs/10.1080/1475939X.2013.802990) Deng 2012
-    * > conceptualise the participation issue central to blogs through examining the factors that hinder student teachers from writing academic blogs and exchanging comments
-* []() TODO Jimerson, Camps and Grief 2003 - engagement is multifaceted - affective behavioural and cognative
-    * Volentary interactions with content and teachers
-    * Samuelson 2012 measurements of engagement constructs
-    * Subtype should be specifed to deepen understanding and to avoid vague classifications (Christerson, Reshly, ylie, 2012)
-    * Finn and Zimmer (2012) behavioural components as academic and social
 
-How we will reflect? Tooling
-----------------------------
 
-The other subjects will be looking at us technologists as beacons of good technology practice
-
-* Screen Capture
-    * [Snaggit](https://www.techsmith.com/screen-capture.html) (paid)
-        * YouTube unlisted
-        * Onedrive, GoogleDrive, Dropbox
-    * [Screencast-O-Matic](https://screencast-o-matic.com/)
-    * [screencastify](https://www.screencastify.com/)
-        * Web based screen recorder
-            * Download or post to YouTube
-
-* [Markdown](../other/markdown.md)
-    * It has semantic meaning
-    * It can be version controlled
-    * It can be converted as slides, html, pdf
-
-* Possible Workflows
-    * Text file and public DropBox folder
-    * Google Sites
-        * Invite others to collaborate in realtime
-    * BlackBoard Wiki/Blog
-    * GitHub + Markdown
-        * [github.com/ComputingTeachers](https://github.com/ComputingTeachers)
-            * Do you want full admin rights?
-
-TASKS:
-* Understand MarkDown
-    * Create a file with 
-        * 3 Levels of headings
-        * Bullets/numbered lists
-        * Links
-        * Images
-* Trial Screen Capture solutions
-    * Be comfortable with recording and sharing 60 second
-        * Segments of screens
-        * Vlog entries
-* Get a YouTube Account
-    * Create + Upload an unlisted video and share it with the group
-* Construct a workflow to share your action points and reflections with the group
-    * Actions points should have dates
-    * This should to be a cumulative record-keeping solution for the year
-
-Feel free to skip tasks if you have mastered them. I will expect you to be able to perform these skills from this point onwards.
-
-TASK: For SP3
-Create a screen capture video that is less than 2min, demoing your reflection workflow
-Reflection workflow requirements:
-* Active/Current actions/tasks + Archived actions/tasks
-* Group have access to some of your actions/reflections/resources
-* Linked from the course blackboard wiki
-
-Next session we will be consolidating as a group how we reflect and collaborate online.
-
-
-### My Example Workflows
-* My notebook method
-* Plain textfile synced
-* MarkDown (teaching knowlege-base - unfinished)
-
-
-### Notes about tooling
-
-* Do not suffer dataloss.
-    * Use the right tools.
-    * There will be little excuse for you as Computing professionals to loose data.
-    * Dropbox, OneDrive, GoogleDrive, Google Docs, Microsoft Office 365
-
-* Use Styles
-    * If I ever see anyone changing the size of a font freehand in a document or slideshow, I will loose my ****!
-
-### Online Sessions
-
-Choice
-* Blackboard
-    * Breakout feature + polls
-* MSTeams
-    * Better adaptive streaming
-
-Both can be recorded
-
-### Recording Sessions
-
-* ReCap
-    * If we record a 7 hour video
-        * This is hard to access/find/seek information
-        * It discourages some people to participate because it will be set in stone
-    * I will record segments of sessions
-    * The _YouTube_ effect
-        * We are all exposed to exceptionally high quality online videos
-        * Pro video equipment, lighting, editing, scripting, info-graphics
-    * In reality - it is hard to extract meaningful information from a video
-
-
-Professionalism and conduct
----------------------------
-
-> Identify and understand expectations regarding professionalism and professionality
-
-### Discuss
-
-> Teachers are pillars of society
-
-<sub>Anon</sub>
-
-See my Session on [_firstProfetionalRole.md](./_firstProfetionalRole.md)
-
-### Recommendations
-
-* Be punctual
-* Do not discuss politics or religion with school colleagues
-* Be 100% yourself, but watch your terminology/language
-* Be mindful of ongoing negativity
-    * when relaying problems - suggest solutions
-    * identify/call-out good progress
-
-### Evidence informed / Evidence based
-Right/Wrong
-Open mindedness
-
-### Like?
-
-"Why do you want 13 year old friends"?
-Your their to teach them, not be their friend
-
-### My Role as course tutor (the reality)
-* Line manager-esk?
-* Every interaction is an assessment
-* I will keep records
-    * Engagement
-    * Language/demeanour
-    * Punctuality
-    * Contributions
-
-* support action plan
-    * Professional communication (to me or between each other)
-        * > 8.3 ... supporting and developing effective professional relationships with colleagues.
-    * Attendance (inform ahead)
-        * You are expected to be there to legally supervise 30 young people
-        * Unless you have been incapacitated - YOU COMMUICATE!
-
-* PGCE Mark final folder (or SD Final assessment panel) + Assignment (Not SD) + Reference (Not SD)
-* You fill in my exit survey
-
-
-Attendance
-----------
-
-* You have a duty of care for 30 young people at 8:45
-* It's not a normal office job where you can just take a day off if you're not feeling _up to it_
-* "I don't really feel like it today" - find a new profession
-    * Image these roles using that phrase
-        * Surgeon
-        * Lawyer
-        * Policemen
-        * 
-
-
-Some of you may have had a drink in a pub with your line manager at the end of the week. You can be friends. But they are still your line manager. They have the power to invoke disciplinary procedures and formally report progress.
-
-As a result of my role, you need to construct your interactions with me deliberately.
-
-You need to construct the interactions with your mentors deliberately
-
-### University Communication
-
-* Complaints in the past that communication has been fragmented, late or mistimed
-* Lots of moving parts
-    * Tutor, School Mentor, Uni Admin, Uni Program Directors, Students, School Admin, PGCE-topup Tutor
-* I am not on the same email lists as you (This is being discussed/rectified)
-* If the communication is less then ideal ...
-    * Do not panic
-    * Communicate concerns clearly
-    * You will not be penalised un-duely or unfairly
-
-
-Criticality and learning to think
----------------------------------
-
-* Snake in the grass?
-    * evolution makes us not hang around to find out
-    * routing around in the grass to find out is dangerous
-* When we are certain - we dont think
-* Duck or rabbit?
-    * We are debating over interpretation. It is not either, it's just lines
-
-* Someone's _fault_ or _process is at fault_?
-
-
-Emotional Health 
-----------------
-
-(terminology; not mental health)
-
-Peers important support
-Informal whatssapp group
-Without me
-
-You want to know that someone cares about you and your progress
-
-Friday morning (on online days) - 1 to 1 catchup sessions
-
-Express concern in a professional problem solving context
-
-TASK: Setup an informal communications channel
-* separate from the uni systems
-* It is important that I am not part of this external group
-* ideas: whatsapp? discord? You decide/discuss the technology
-
-NOW: Group email with all members of the group
-
-
-### Work Life Balance
-
-Teacher reform
-* [@CajunMSTeacher](https://twitter.com/CajunMSTeacher/status/1437181184988094466)
-    * > @CajunMSTeacher: Apparently I upset some people with my post about not bringing work home. I’m sorry, but this ongoing acceptance by teachers that we’re supposed to work 60+ hours a week because we love our jobs is why we’re in the position we’re in. Stop letting it be acceptable. Force change.
-        * > @fatbadger442: Do you give children homework? If so, you do know that all you are doing is modelling unpaid overtime, don't you? Do you oppose children's excessive workloads that impinge upon time at home as much as you do teachers'?
-        * > @CajunMSTeacher: I’ve already adressed this twice, but I’ll say it again. I do not assign hw for my students. It would be a double standard for me to give them work and then say I shouldn’t have to work at home. I structure my classes so that they hve time needed to complete everything in class.
-        * > @MrsLansdell: But I just don’t understand how to do this. I’ve been teaching 25+ years. I cannot get everything done without either staying late or taking work home. If I don’t, I don’t have everything ready and I HAVE to have it ready to go for kindergarten. I’m the one who suffers.
-        * > @jenlowejohnson: We talk about leaving work at work frequently in the Teacher Care Network Support Community. If we want teacher retention to improve, we have to stop acting like it's normal to work that much for so little money. Teachers are humans with human needs, one of them being rest.
-
-
-Computer Science
-----------------
-
-### What is Computing?
-
-3 strands: Computer Science (CS), Information Communication Technology (IT), [Digital Literacy](./digitalLiteracy.md) (DL)
-* [Fulford School: What is Computing](https://fulford.york.sch.uk/computing/)
-
-* Computer Science
-    * involves understanding how computers work and how to use them to solve problems with algorithms and code.
-* Information Technology	
-    * involves processing data and using a variety of hardware & software to create digital media that is suitable for different audiences and purposes.
-* Digital Literacy	
-    * involves understanding how to use technology safely, respectfully, responsibly and securely
-
-* 82% of all job vacancies require digital skills[1]
-* Roles requiring digital skills pay 29% more than those that don’t[2]
-* In recent years, the number of digital jobs grew almost three times as quickly as other occupations[3]
-
-TASK: 
-* What's the difference between Computing and ICT?
-* Why have we switched focus from ICT to Computing?
-
-### What are the expectations/misconceptions teaching Computer Science?
-
-* "Young people are so good. All that clicking around so fast"
-* I'm not going to be a software developer this is pointless
-
-* Actually work with data
-* as
-
-More
-* Perceptions of gender and ethnicity in Computing
-
-### Explore the backlash and confusion about computer science in education and wider society
-
-TASK: Background reading
-
-Why our subject has friction with society
-
-Computing in the curriculum has been criticized for not being relevant for all students.
-* [Coding the curriculum: new computer science GCSE fails to make the grade](https://theconversation.com/coding-the-curriculum-new-computer-science-gcse-fails-to-make-the-grade-79780) 2017
-* [Backlash against computing curriculum misses the point](https://theconversation.com/backlash-against-computing-curriculum-misses-the-point-22380) 2014
-* [Rotten STEM: How Technology Corrupts Education](https://americanaffairsjournal.org/2019/08/rotten-stem-how-technology-corrupts-education/)
-* [Internet use reduces study skills in university students](https://www.sciencedaily.com/releases/2020/01/200117085321.htm)
-
-
-
-* BSC [The Roehampton annual computing education report](https://www.bcs.org/more/bcs-academy-of-computing/the-roehampton-annual-computing-education-report/) 2018
-    * Statistics on GCSE computing across the country
-    * Number are dropping
-    * Time allocated is dropping
 
 
 
 Closing remarks
 ===============
 
-I will do everything I can to help you succeed.
-Some of the things I do you may not _like_, but I assure your, it is to help you be successful.
 
-
-TASK: Read [last years students comments](./_advice_from_past_students.md) these are wholesale unedited
 
 * Preparing students for a future we are unsure of
 
-* Prepare questions for Giles
 
-TASK: SD email me your tutors name, email, school. I would like to email them a hello
+Unsorted
+========
 
-* [Why I Teach](https://teachtogether.tech/en/index.html#s:finale) Chapter 15 - Greg Wilson
-    * Short snippet about why teach Computing
-
-
----
-
-[Are We Preparing or Training Teachers? Developing Professional Judgement in and Beyond Teacher Preparation Programs](https://journals.sagepub.com/doi/10.1177/0022487117702584) [padlet](https://padlet-uploads.storage.googleapis.com/620776567/c1f78b95d4d4ba6b8911b4ea271a0184/Are_we_preparing_or_training_teachers.pdf) Scales 2018
-
-> "Pedagogy does not often survive contact with the classroom" (Lynch, 2013, p. xv).
-> Lynch suggests learning to teach must be a combination of views about teaching that candidates bring to programs along with experience.
-> Lynch calls this the Tuesday morning question:
-> What will teachers do after they have had the experience of Monday?
-> He asserts that
-> learning from experience is possible through theories of pedagogy,
-> but pedagogy without experience is meaningless
-
-> How can programs prepare candidates for complex teaching situations that may not match coursework exactly? 
-> Learning to teach literacy is not simply learning content, skills, and strategies, 
-> but a way to think about teaching as a flexible, adaptive process 
-> that takes into account district requirements, school culture, teacher expertise, curricular demands, and students’ needs.
-> Teachers need to make professional judgements during teaching, 
-> and perhaps even become subversive in adaptations, depending on their teaching contexts.
->
-> This begins in coursework where teacher educators should help candidates understand when, where, and how to be advocates for a different stance. 
-> Indeed, we are not advocates of replicating program instructors or a “Clone Army” (McCallum & Lucas, 2002) of teachers who compliantly do as they are told.
-
-
-
----
 
 TODO
 
@@ -791,98 +211,19 @@ TODO
 [Teacher professional learning and development](https://www.iaoed.org/downloads/EdPractices_18.pdf) Helen Timperley - INTERNATIONAL ACADEMY OF EDUCATION
 
 
-* [What are we doing? Are we all doing it?](https://bennewmark.wordpress.com/2021/06/22/what-are-we-doing-are-we-all-doing-it/)
-    * Lesson observations are not sufficient for knowing is teahcing is effective
-    * Observers look for a focused environment where student know what they are doing
-    * This is a poor proxy for "learning", but it is an effective proxy
 
 
-Things people bugger up with teacher training
-----------------------------------------------
-
-Calm down
-
-* Read the handbook
-* collate information from multiple sources
-    * multiple schools, multiple university modules
-    * mechanical dates and locations
-        * look at the calendar
-    * keep group wiki (between you can collate information)
-    * Emails will be sent to mandatory surveys
-        * "I didnt get it" - not an excuse
-
-* Accusational tone -> problem solving
-    * I have tried
-* Email rules - take notes - don't be told things twice
-* Don't say "I will not be attending" ask permission
-* Your classmates are not your friends, they are other professionals you work with
-
-* tackle language + attendance swiftly (this is to help you develop and prevent issues later)
-
-* Don't talk about your finances
-* Don't talk about your career aspirations, etc as a trainee
-    * You simply don't know the domain yet
-* You don't need to personal friends with colleagues to be able to work with them professionally
-    * There are age and cultural differences
-* Get out of the mindset of being "a student at uni"
-* Organise your time
-    * You don't have a linear set of assignments to do
-* Organise information from a variety of sources
-    * Multiple emails accounts (student, school1, school2, personal) - you need email rules/forwarding
-    * Takes notes, your mentors don't like telling you multiple times
-* Communicate professionally
-    * Use email formally
-    * Ask for the support you need clearly - problem solve
-    * Don't blame others and whinge constantly "you do not give me the link"
-    * Don't use Unneeded micro aggression phase's "Beyond belief"
-    * legal action is not your first option
-    * I will raise a support plan quickly
-* The course is not subservient to you - you need your mentors/school to collect the evidence you need to pass
-* You are a rank armature - don't be condescending to your school mentors
-* There are not absolutes - much is unknown - Nobody _knows_ how to teach
-* Attendance
-    * Just don't really feel up to it (the growth story - lack of sleep but still went it) - other jobs 'take the day off' sounds reasonable
-* Your students are NOT you - stop using yourself as a benchmark
-    * How you learned
-    * your interests are not their interests "learn by making games; Who doesn't like games"
-    * What % of your students will get a degree in Computing?
-
-playing games when in remote sessions
-Doing other tasks and only responding when needed
 
 
-The most important subject
----------------------------
-
-Every subject is the most important subject
-
-* English
-* History
-* PE
-* RE
-* Computing
-
-Postgrad
---------
-
-Up until now you have been taught
-At postgraduate level - there are 'no answers'
 
 
 
 Other?
 -----
 
-* TES [5 ways to cope with compassion fatigue](https://www.tes.com/news/5-ways-cope-compassion-fatigue) 2021 - If you find yourself close to your emotional limit, keep these wellbeing tips in mind
 
 
-* [Teacher Training Resource Bank](https://webarchive.nationalarchives.gov.uk/20101008123030/http://www.ttrb.ac.uk//index.aspx) 2010
-    * A consortium of universities created resources for national strategy
-    * This includes things like "How do you tackle racism in the classroom"
 
-* [The Biggest Myth In Education](https://www.youtube.com/watch?v=rhgwIhB58PA) - learning styles verbasium YouYube 15min?
-    * you are not a visual learner
-    * be critical
 
 
 Allocate reps?
@@ -895,19 +236,13 @@ Allocate reps?
 Placement 1: CTP + DTP
 Placement 2: ITP
 
-### Transport
-
-* Car share with colleagues from that school
-    * Contact other trainees?
-    * staff at school
-* Rent tue/wed/thur
 
 ### Be open?
 
 * [They are not the baddies](https://teachreal.wordpress.com/2021/09/11/they-are-not-the-baddies/)
     * A youthful perception of school is not always accurate (even adults remembering)
     * Don't jump to conclusions about rules being setup
-    * schools (and their employees) are the the baddies
+    * schools (and their employees) are the baddies
 
 ---
 

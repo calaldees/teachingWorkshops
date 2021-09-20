@@ -141,8 +141,7 @@ Physical
 A different slant on computing. Away from the screen, keyboard and mouse
 Manifest your code in the real world!
 
-> Look past the flesh. Look through the soft gelatin of these dull cow eyes and see your enemy!
-<sub>Agent Smith - The Matrix Revolutions</sub>
+* [NCCE - Quick Read: Physical computing](https://blog.teachcomputing.org/quick-read-physical-computing/)
 
 ### Lego Mindstorms - Robotics
 

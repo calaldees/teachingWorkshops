@@ -26,15 +26,46 @@ MCOMD3PFL Programming Frameworks and Languages
   * Paragraph summarising the books/articles - AMAZING!
   * Programmers hit walls of complexity 3,000 30,000 and 300,000
 * [FORTRAN.io](https://fortran.io/) - finally, a Fortran Web Framework
+* [TI4 Map Generator](https://github.com/DerekPPeterson/ti4-map-generator) - Generate balanced ti4 maps
+  * cgi-bin python wrapper to c++ commandline
 
 one reason I love debugging is that bugs often break through abstraction layers! they help you learn what's underneath
 
+    Generic functionality
+    Built-in solutions to a number of common programming problems
+    Structure for organizing code
+    A development philosophy or an architectural paradigm
+
+    URL routing
+    Templating / views
+    Database interaction
+    Form controls
+    DOM manipulation
+    Asynchronous requests
+    Input validation
+    User management
+    Session management
+
+Organisation
+  MVC
+  Model–View–ViewModel 
+        Prism
+    MCCM Light
+    Caliburn Micro
+
+  Model-View-Presenter
+        Atom
+    Ionic
+    React-Native
+
+plugins
+
+
 ## Intended Learning Outcomes 
 By the end of the module students should be able to:
-1. Demonstrate an understanding of the concept of a Framework in general, a Framework used for Programming, and a Framework used for software 
-Testing. 
-2. Critically evaluate the effectiveness of a particular framework for an application and platform.
-3. Synthesise a small digital artefact using a well-formed programming framework.
+1. Demonstrate an understanding of the concept of a Framework in general, a Framework used for Programming, and a Framework used for software Testing
+2. Critically evaluate the effectiveness of a particular framework for an application and platform
+3. Synthesise a small digital artefact using a well-formed programming framework
 
 
 Frameworks for what?
@@ -42,6 +73,9 @@ Frameworks for what?
 AWS Lambda?
     SMTP in lambda
 Crypto processing
+
+* [Building apps in minutes, not months](https://alexanderobenauer.com/labnotes/001/) - Conductor Framework Demo
+* Django 4 [Fixed #33012 -- Added Redis cache backend. #14437](https://github.com/django/django/pull/14437)
 
 Define vocab + terms - draw the scope
 
@@ -647,6 +681,7 @@ The repository provides:
 * There is no requirement for any user authentication
 * There is no requirement for scale
   * The system will be operating with less than 100 items
+* You do not need a complete working server and client to pass this module. You should be able to pass this module with a good write-up (assignment 1) and one good working implementation (server or client).
 
 
 | Assignment | Section | Marks (Total 100) |
