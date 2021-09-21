@@ -94,6 +94,15 @@ We are learning HOW to teach someone about Computing.
 I will not be showing you tips for teaching. 
 I will not give you resources.
 
+
+Maynard and Furlong
+   * Early Idealism
+   * Personal Survival
+   * Dealing with Difficulties
+   * Hitting a Platu
+   * Moving on
+
+
 Your students are NOT you
 --------------------------
 

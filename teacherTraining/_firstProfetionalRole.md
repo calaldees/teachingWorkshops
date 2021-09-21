@@ -1,6 +1,6 @@
 Learning to teach - in your first professional role
 ===================================================
-https://cccu.padlet.org/emilysmith35/2rjfupxewvm4v47u
+
 Supplemental discussion session
 1 Hour
 
@@ -38,7 +38,8 @@ Basics
     * Don't expect them to be _you're mates_
 * Your students do not need to be your friends
     * They don't have to like you. They HAVE to respect you.
-    * "Why do you want a bunch of 13 year-old friends?"
+        * "Why do you want a bunch of 13 year-old friends?"
+    * Your role is to support ALL students in making progress (however nice or horrible they are)
 
 
 Personal Attitude
@@ -49,7 +50,7 @@ Personal Attitude
 * Be proactive
     * Don't expect somebody else to fix your problems automatically
 * Be a _net positive_ to your organisation
-* Get out of the mindset of being "a student at uni". 
+* Get out of the mindset of being "a student at uni". You are NOT a _student_, you are a professional in training.
 
 
 Courageous Leadership
@@ -61,8 +62,14 @@ You have a duty of care over your team (this includes your colleges).
 Your have some element of control over your teams emotional state.
 
 > Let's all choose to be the leaders we wish we had
-
 <sub>Simon Sinek</sub>
+
+
+TASK: Word Vomit Whiteboard
+* What words would you use to describe 
+    * the professionals that you have admired
+    * the kind of professionals that you want to become
+
 
 * Conduct yourself properly
     * Who would you trust
@@ -80,7 +87,6 @@ Language
 
 > I'm disinclined to acquiesce your request.
 > It means "No"
-
 <sub>Pirates of the Caribbean</sub>
 
 
@@ -89,19 +95,29 @@ TASK: What alternate language could we use to relay these feelings in a professi
 * Doing this takes too long
 * X is an idiot!
 * I can't do this
-* he doesn't like me 
+* he doesn't like me
+* I did it because YOLO
 
 Possible suggestions
-* This is not optimal/ideal
-* I feel the time I am spending on X is disproportionate
-* X struggles with Y
-* I'm struggling with X
-* there is a failure of trust in this relationship
+* It's shit -> This is not optimal/ideal
+* Doing this takes too long -> I feel the time I am spending on X is disproportionate
+* X is an idiot! -> X might have misunderstood the objectives of Y
+* I can't do this -> I'm struggling with X
+* he doesn't like me -> there is a failure of trust in this relationship
+* I did it because YOLO -> I took this action because the short term risk was low
 
 Summary
 * If you talk like a child you will be treated like child
 * If you talk like a professional you will be treated like professional
 * Listen to the language the professionals around you use
+
+Professionals in their domain can convey a lot with very few words.
+e.g. In my domain of software engineering the senior developers used phrases like
+* Developer experience
+* Anti-pattern
+* Problem space
+* Remove the intermediary (variable)
+
 
 
 ### Plain English

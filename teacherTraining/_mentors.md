@@ -9,12 +9,13 @@ Mentor are expected as part of the ECF to use research readings.
 Space to try things their own way and come to their own conclusions
 Sometimes have to say hard things
 
-mentoring? -> coaching?
-coach has some some great questions for your answers
-mentor has some great answers for your questions
+* mentoring? -> coaching?
+   * > coach has some some great questions for your answers
+   * > mentor has some great answers for your questions
+   * be specific as to which mode you are operating in
 
 skilled in deconstructing and explaining their practice
-outstanding teachers are not nesisarilly outsanding mentors
+outstanding teachers are not necessarily outstanding mentors
 carter review 2014
 
 concious competence == saying "mirror signal manurer"
@@ -257,7 +258,12 @@ Is mentor ok - is student ok
    * Are they aware of the 10 key questions?
    * Are they aware of uni sessions each week? [Subject Handbook](https://learn.canterbury.ac.uk/bbcswebdav/pid-2664627-dt-content-rid-3988355_1/xid-3988355_1) [doc](http://ccccumentors.org.uk/files/secondary/Documentation/subject-documentation/computing/Computer%20Science%20Curriculum%20Guidance.docx)
 * Explain that the grading system is changing; no grading against the Standards; just the need to meet them holistically by the end of the programme; MPR/PPR stage checks will be in place
-* Where is the student on [Furlong and Maynard (1995): Five stages of pre-service teacher learning](http://ccccumentors.org.uk/files/secondary/Documentation/programme-handbooks/school-direct/Subject%20mentor%20and%20tutor%20visits%20and%20support%20F&M%20model%202020-21.pdf)?
+* Where is the student on [Furlong and Maynard (1995): Five stages of pre-service teacher learning](http://ccccumentors.org.uk/files/secondary/Documentation/general-advice-and-guidance/Subject%20Mentor%20and%20Tutor%20Visits%20and%20Support%202021-22.docx)?
+   * Early Idealism
+   * Personal Survival
+   * Dealing with Difficulties
+   * Hitting a Platu
+   * Moving on
    * Quickly: Students strengths? Next steps for development?
    * On track? or Not on track? (support for student)
 * The timetable that they have devised for the student (check it provides coverage of both KS3 and KS4 and ascertain if access to KS5 is at all possible).

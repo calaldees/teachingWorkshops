@@ -139,6 +139,17 @@ TASK: Skim read (10min) - As a group - relay anything that we as teachers need t
 TASK: Copy/Paste some text you have written (maybe one of your reflections?) into hemingwayapp.com
 
 
+### What would you do to
+
+* Really short sighted student?
+    * ?
+* Limited english skills
+    * ?
+
+
+---
+
+
 ### Metrics (to assist your planning)
 
 * Free School Meals - FSM

@@ -16,6 +16,14 @@ PGCE Only - Academic Edition!
 TODO:
 * [Pedagogical content knowledge in computing education: a review of the research literature](https://www.tandfonline.com/doi/full/10.1080/08993408.2018.1509580)
 
+
+* [Subject Pedagogy Research Proposal](https://forms.office.com/Pages/DesignPage.aspx?lang=en-GB&origin=OfficeDotCom&route=Start#FormId=2rIgA90iq02MIW5kS6FPE4bZosdBzY5AvRurHpjUivVUQ0JRMFNOREUwNlBTVkxLREQ5UDFQVDVaRC4u)
+    * Area of the investigation - Keep this quite broad
+    * Key reading related to the area - Outline at least three or four key texts that you have looked at for this. Ideally, this should include specific research articles
+    * Focus of the area of enquiry/specific research question - What is the precise question or key issue that you wish to explore? Can you phrase it as a research question?
+    * Possible ethical issues - The key ethical issues are informed consent, protection of children, anonymity and confidentiality, and payment of research participants. In the case of a literature review, as you are only using secondary data and that there are no participants involved, ethical clearance is not required. However, it is good practice to make a general statement to show that you have considered ethics in light of the research you are carrying out.
+
+
 What is a Computer Science teacher?
 -----------------------------------
 

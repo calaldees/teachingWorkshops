@@ -28,6 +28,7 @@ MCOMD3PFL Programming Frameworks and Languages
 * [FORTRAN.io](https://fortran.io/) - finally, a Fortran Web Framework
 * [TI4 Map Generator](https://github.com/DerekPPeterson/ti4-map-generator) - Generate balanced ti4 maps
   * cgi-bin python wrapper to c++ commandline
+* [Structural pattern matching in Python 3.10](https://benhoyt.com/writings/python-pattern-matching/)
 
 one reason I love debugging is that bugs often break through abstraction layers! they help you learn what's underneath
 

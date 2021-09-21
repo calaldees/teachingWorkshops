@@ -387,7 +387,125 @@ Further Reading
 
 
 
----
+Unsorted
+========
+
+* Criteria set in advance
+* Fair
+* Feedback
+* 
+
+
+* Why
+    * Measure learning
+    * Certify Learning
+    * Improve Learning
+        * If the whole group fails a segment?
+    * Promote sustainable learning
+* QA of process
+    * Equitable, reliable, valid, fair
+* Think of types of assessment
+    * brainstorm ..
+    * Different for every subject and domain
+* Formative/Summative
+    * Formative assessment
+        * Low stakes
+        * Only purpose to help improve
+    * Summative assessment
+        * High stakes
+        * The higher the stakes means students will go to great lengths to gain an advantage by cheating
+* Types of Assessment Activity
+    1.  Traditional Exams
+    2.  Short-answer exams
+    3.  Multiple-choice exams
+    4.  Essays
+    5.  Annotated bibliographies
+    6.  Reports
+    7.  Portfolios of evidence
+    8.  Oral exams
+    9.  Individual presentations
+    10.  Posters
+* Rate (the above) on
+    * Validity
+    * Fairness
+    * Whodunit
+    * Real world
+    * Feedback to learners
+    * Advantages
+    * Disadvantages
+* Principles of design
+    * Align with learning objectives
+    * Reliable, fair valid
+    * inclusive and equitable
+    * Feedback is purposeful and supports learning process
+        * Referring to learning objectives
+    * Timely
+    * Efficient and manageable
+        * How long will it take to mark? Is the feedback worth it?
+* Something to ponder
+    * Should students design the learning outcomes? Or is that just for teachers?
+    * If students can select their method of assessment is that more inclusive (essay or poster?)
+    * How could you ensure that students understand the marking criteria?
+    * Most students don't like formative assessment because it dosnt count
+    * Rather than _punishing_ plagerisum. How can students be encaruaged to not want to plagerise?
+
+### Feedback
+
+Student survey "Was your feedback helpful"
+
+* What is it? Can you define it?
+    * Communicating how they can improve the quality of their work
+
+* Good feedback
+    * Timely
+    * Facilitate self assessment
+    * Delivers high quality information about their learning
+    * encourages teacher and peer dialogue
+    * Encourages positivity and self-esteem
+    * Helps close the gap between current and desired performance
+    * provides valuable information to teachers
+        * To improve delivery?
+    * How is feedback used?
+        * Direct instruction
+        * Reflective practice
+        * 1 to 1 discussion?
+        * 'Feed forward' targeting specific areas for improvement
+        * Develops students "appraisal expertise"
+        * Include students in the process
+            * If feedback is _one way_ students don't take it in. Actively engage students with the feedback.
+        * Constructive rather than descriptive
+            * Just praising does not help growth mindset
+                * "Praise makes you feel good, critique makes you better"
+        * Something they got right can be built on
+    * Anonymous marking
+        * The marker does not have any identifying aspects of the students
+    
+* Bad feedback
+
+* Principles of assessment design (Gibbs and Simpson, 2004)
+    * Number of assessments should be proportional to the amount of study time and love
+    * Assessment demands should be designed/communicated so students can allocate time/effort
+    * Assessment should engage students in producing learning activity of an appropriate kind
+    * Sufficient feedback needs to be provided, both often and in enough detail
+    * Feedback should focus on students performance and actions the students can control
+    * Timely (the feedback should still matter)
+    * Feedback needs to match the grade
+    * Feedback need to be actionable
+
+### Assessment Literacy
+* Students need to know what each of the assessment types are for (summative/formative). They have to see the value.
+    * Some students don't see the point in formative assessment (only look at the grade)
+    * Some students don't see the point in summative assessment (only care about personal progress and little for the course direction)
+    * Some think they know the content already
+* Feedback prior to summative assessment is vital
+
+### Bias
+
+* Assessments are a social construct
+    * There is bias involved
+        * What we think students _deserve_ (antonymous marking is better but sometimes not possible)
+    * They are not an exact science
+
 
 
 Assessment (Old Notes)

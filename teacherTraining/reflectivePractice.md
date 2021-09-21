@@ -26,7 +26,16 @@ Reflective practice
 * Education is a new thing; We've only been sitting at desks for 100 years. Before that EVERYTHGIN was apprenticeships
 
 
+Rolf
+* What
+* So What
+* Now What
 
+Kolb
+* Experience
+* Reflection
+* Theorising
+* Experimenting
 
 
 Criticality and learning to think
