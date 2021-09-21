@@ -9,48 +9,77 @@ I'm Allan (Subject Tutor for Computing)
 
 (A link to this document will be provided at the end of the session)
 
-While others are joining ...
-
-TASK: What is professional?
-Type in the chat - words/phases/behaviours you would associate with being a  _professional_.
 
 
-I have heard the phrase
+I have heard the phrase:
 > Teachers are pillars of our society
 
 We are *role models for our society's future*
 ... that's a fairly significant responsibility
 
 
+Learning Objectives
+-------------------
+
+* Consider how your personal perception of yourself and your role in society may need to change
+* Understand the concept/role of "Organisation/Business Process"
+* Reminder of the distinction of "Formal Communication"
+
+Times
+-----
+
+* Your changing role in society (15min)
+* Business Process (15min)
+* Formal communication (10min)
+* My stories highlighting the above (20min)
+
+
+One of the biggest transitions in your life
+-------------------------------------------
+
+Transitioning from "being provided for" to "providing".
+YOUR ROLE IS SOCIETY IS ABOUT TO CHANGE!
+Have you thought about the impact of this ... 
+One of the biggest transitions in your life
+
+* Get out of the mindset of being "a student at uni". You are NOT a _student_, you are a professional in training.
+    * Some young student teachers struggle with being close in age but having a full professional role
+
+* Be 100% yourself, don't change who you are, but watch your terminology/language
+    * You can be a professional *and* still be a badass
+
+
+
 Basics
 ------
 
+(repeat of earlier sessions, but I can't stress this enough!)
+
 * Be punctual and reliable
+    * "Sorry I'm late" is not acceptable now that you have a duty of care over 30 young people
 * Dressed appropriately
     * Hair well kept
-* Keep your phone off
+* Be proactive
+    * Don't expect somebody else to fix your problems automatically
+    * Be a _net positive_ to your organisation
+* Keep your phone off!!!
     * Focus on your role (There is little _downtime_ in schools)
 * Do not discuss politics or religion at your place of work
     * This will likely alienate people. It is not relevant to your role.
+* Be mindful of gossip and boundaries
+
+
+Friends?
+--------
+
 * Your colleagues do not need to be your friends
     * You can respect them as professionals effectively and interact with them but still not _like_ them
     * How much _you like them_ is not an indicator of their professional worth
-    * Don't expect them to be _you're mates_
+    * Don't expect them to be _your mates_
 * Your students do not need to be your friends
     * They don't have to like you. They HAVE to respect you.
         * "Why do you want a bunch of 13 year-old friends?"
-    * Your role is to support ALL students in making progress (however nice or horrible they are)
-
-
-Personal Attitude
------------------
-
-* Be 100% yourself, but watch your terminology/language
-    * You can be a professional *and* still be a badass
-* Be proactive
-    * Don't expect somebody else to fix your problems automatically
-* Be a _net positive_ to your organisation
-* Get out of the mindset of being "a student at uni". You are NOT a _student_, you are a professional in training.
+    * Your role is to support ALL students in making progress (however nice or horrible they are. Take your bias out)
 
 
 Courageous Leadership
@@ -71,56 +100,116 @@ TASK: Word Vomit Whiteboard
     * the kind of professionals that you want to become
 
 
-* Conduct yourself properly
+TASK: Do your identified traits align with my list?
+
+* Be calm and purposeful
     * Who would you trust
         * Heart surgeon flapping arms around and shouting 'oh no there is blood everywhere'
         * Heart surgeon calming explaining the breach and asking for the next tool
 * Be mindful of cyclic negativity. Don't _whinge_.
     * Identify problems - collate/suggest solutions - take action points
-* Identify the *spirit* of conversations
+* Identify the *spirit* of conversations/actions
     * Are you colleagues being offensive? or are they expressing frustration?
-* Be mindful of gossip and boundaries
 
 
-Language
---------
+Business Process
+----------------
 
-> I'm disinclined to acquiesce your request.
-> It means "No"
-<sub>Pirates of the Caribbean</sub>
+### Why do we need Process/Rules/Systems?
+
+TASK: Why do we have rules exist?
+Answers in the chat - (If we have a small enough group breakout groups?)
 
 
-TASK: What alternate language could we use to relay these feelings in a professional context?
-* It's shit
-* Doing this takes too long
-* X is an idiot!
-* I can't do this
-* he doesn't like me
-* I did it because YOLO
+* The presence of a rule (hopefully) creates a better outcome (than no rule)
+* As an individual you may not be aware of all possible situations and their knock-on effects.
+    * You can't do this deep thinking in the spur of the moment
+    * You can't have the understanding or perspective of all/more stakeholders rather than just your perspective
+* Consistency
+    * Across a large geographic area
 
-Possible suggestions
-* It's shit -> This is not optimal/ideal
-* Doing this takes too long -> I feel the time I am spending on X is disproportionate
-* X is an idiot! -> X might have misunderstood the objectives of Y
-* I can't do this -> I'm struggling with X
-* he doesn't like me -> there is a failure of trust in this relationship
-* I did it because YOLO -> I took this action because the short term risk was low
 
-Summary
-* If you talk like a child you will be treated like child
-* If you talk like a professional you will be treated like professional
-* Listen to the language the professionals around you use
-
-Professionals in their domain can convey a lot with very few words.
-e.g. In my domain of software engineering the senior developers used phrases like
-* Developer experience
-* Anti-pattern
-* Problem space
-* Remove the intermediary (variable)
+TASK: Why do organisations have _process's_
+Answers in the chat - (If we have a small enough group breakout groups?)
+* e.g. 
+    * Why do we have chain's of command?
+    * Why do we have lists of steps to perform for some of our tasks?
+    * Why do we have an absence process?
+    * What incidents should you report? and to who?
+        * Accidents? behaviour?
+    * Why do we train people to sit at a computer?
+    * Why is their a process for handling peoples names, address genders?
 
 
 
-### Plain English
+* (All of the rational for rules)
+* Organisations are accountable for their actions
+    * (Imagine a world where an organisation was continuously using bad practice and each time this is unveiled an individual is just fired and the organisation continue making the same mistake)
+
+
+* Organisations could metaphorically be described as living breathing things
+
+There are established
+* Process's
+    * When/how you can search a child? or confiscate their items?
+    * What behaviour should you report, and to who?
+* Channels of communication
+    * How do you report your absence?
+    * One does not simply - send an email to headteacher?
+* Codes of conduct
+    * What standards are you required to hold?
+
+### Example of a high level process
+
+[Bianca Williams: Sprinter says 'I've never had to experience anything like this'](https://www.bbc.co.uk/sport/athletics/53305712)
+> Officers from the Directorate of Professional Standards have reviewed both footage from social media, and the body-worn video of the officers, and are satisfied that there is no concern around the officers' conduct.
+(But that did'nt stick
+[Bianca Williams stop-and-search: Met PCs face probe](https://www.bbc.co.uk/news/uk-england-london-54466254))
+
+*Key Point*
+* When you tackle _issues_, you should consider if issue is with the _process_ or the issue is with the _individual_.
+    * When we fail, we fail as a team - When we fail, we fail as an organisation.
+    * In the majority of cases altering the process is the best course of action.
+
+
+### Business Comms/Handbooks/Training
+
+You will have induction packs/training.
+As a member of staff you are expected to know all of it.
+Ignorance is not an excuse.
+
+Many organisations have online e-learning.
+You have to tick a box to say I've read this.
+
+Is it the _organisations_ fault or _your_ fault?
+
+If you've ticked the box - then you should know - It's your fault.
+
+(This is an important semantic requirement. Some trainee teachers have been barred from school sites until they had completed this _online training_ + clicked 'I understand')
+
+### Summary of national process's for schools
+
+* Handbook for Educational Professionals: The Bristol Guide 2020/21
+    * [Printed](https://bristoluniversitypress.co.uk/handbook-for-education-bristol-guide-2021-2022) £6.50
+    * [Amazon Kindle](https://www.amazon.co.uk/Handbook-Education-Bristol-Guide-2021-2022-ebook/dp/B09BNMR129/) £5
+
+* When/how is appropriate to search a student?
+* Is the school responsible for bullying outside the school premises?
+
+### Problems with business process?
+
+If you feel the business process has treated you unfairly and you need further advice. This is what a union is for. Join one!
+
+* [Teacher Unions](https://en.wikipedia.org/wiki/Teachers%27_trade_unions_in_the_United_Kingdom)
+
+ACTION: After this talk read up on what the unions stand for.
+* Research your unions principles.
+* Some unions believe that _striking_ is too aggressive and considers _chalk-downs_.
+
+
+
+Written Communication - Use _Plain English_
+-------------------------------------------
 
 *Everyone* should read this.
 It will take time to master.
@@ -142,74 +231,7 @@ It will take time to master.
     * [hemingwayapp.com](https://hemingwayapp.com/)
         * Online _plain english_ hints
 
-
-Business Process
-----------------
-
-Business's are living breathing systems.
-There are established
-* Process's
-    * When/how you can search a child? or confiscate their items?
-    * What behaviour should you report, and to who?
-* Channels of communication
-    * How do you report your absence?
-    * One does not simply - send an email to headteacher?
-* Codes of conduct
-    * What standards are you required to hold?
-
-[Bianca Williams: Sprinter says 'I've never had to experience anything like this'](https://www.bbc.co.uk/sport/athletics/53305712)
-> Officers from the Directorate of Professional Standards have reviewed both footage from social media, and the body-worn video of the officers, and are satisfied that there is no concern around the officers' conduct.
-(But that did'nt stick
-[Bianca Williams stop-and-search: Met PCs face probe](https://www.bbc.co.uk/news/uk-england-london-54466254))
-
-When you tackle _issues_, you should consider if issue is with the _process_ or the issue is with the _individual_.
-
-### Business Comms/Handbooks/Training
-
-You will have induction packs/training.
-As a member of staff you are expected to know all of it.
-Ignorance is not an excuse.
-
-Many organisations have online e-learning.
-You have to tick a box to say I've read this.
-
-Is it the _organisations_ fault or _your_ fault?
-
-If you've ticked the box - then you should know - It's your fault.
-
-(This is an important semantic requirement. Some trainee teachers have been barred from school sites until they had completed this _online training_ + clicked 'I understand')
-
-### Summary of national process's for schools
-
-* Handbook for Educational Professionals: The Bristol Guide 2020/21
-    * [Printed](https://bristoluniversitypress.co.uk/handbook-for-educational-professionals-the-bristol-guide-202021) £6.50
-    * [Amazon Kindle](https://www.amazon.co.uk/Handbook-Education-Professionals-2020-21-ebook/dp/B08DYGBCHR/) £5
-
-* When/how is appropriate to search a student?
-* Is the school responsible for bullying outside the school premises?
-
-### Problems with business process?
-
-If you feel the business process has treated you unfairly and you need further advice. This is what a union is for. Join one!
-
-* [Teacher Unions](https://en.wikipedia.org/wiki/Teachers%27_trade_unions_in_the_United_Kingdom)
-
-After this talk read up on what the unions stand for.
-Some unions believe that _striking_ is too aggressive and considers _chalk-downs_.
-Research your unions principles.
-
-### Rules
-
-TASK: Why do rules/process/systems exist?
-Answers in the chat
-
-
-* Consistency
-    * Across a large geographic area
-* The presence of a rule (hopefully) creates a better outcome (than no rule)
-* As an individual you may not be aware of all possible situations and their knock-on effects.
-    * You can't do this deep thinking in the spur of the moment
-    * You can't have the understanding or perspective of all/more stakeholders rather than just your perspective
+TASK: Take 120 seconds to look at `hemingwayapp.com`. Hover over the colours.
 
 
 Formal Communication
@@ -239,7 +261,6 @@ Tips:
 
 
 
-
 My Stories
 ----------
 
@@ -248,6 +269,7 @@ Stories from my early teaching career
 * "Do not refer to students as Dude", "Yes Master"
 * "No you muppet, you've got the CD"
 * 6th form group complaint discussion
+* Mr X deleted my work
 
 
 
@@ -255,16 +277,24 @@ Stories from my early teaching career
 Summary
 -------
 
-* Use _precise_ language
-* Conduct your actions with _integrity_
+* Learning Objectives
+    * Consider how your personal perception of yourself and your role in society may need to change
+    * Understand the concept/role of "Organisation/Business Process"
+    * Reminder of the distinction of "Formal Communication"
+
+
 * Have knowledge of your role/organisation
     * Understand business process
-* _Actively_ Perform your expected _role_
+
 
 The defined trait of a professional is someone that can 
 > exercise discretionary judgement
 
+
+
 ---
+
+
 
 Unsorted Notes
 ==============
@@ -287,4 +317,46 @@ Judging other professionals
 * You simply DO NOT have the knowledge/experience to make any judgement at all
 * Ask questions to investigate your concerns, but DO NOT PASS JUDGEMENT
 * _Listen_ more than talk
+
+
+Verbal Language
+---------------
+
+(Skip to email as this was covered in earlier session)
+
+> I'm disinclined to acquiesce your request.
+> It means "No"
+<sub>Pirates of the Caribbean</sub>
+
+
+TASK: What alternate language could we use to relay these feelings in a professional context?
+* It's shit
+* Doing this takes too long
+* X is an idiot!
+* I can't do this
+* he doesn't like me
+* I did it because YOLO
+
+
+
+Possible suggestions
+* It's shit -> This is not optimal/ideal
+* Doing this takes too long -> I feel the time I am spending on X is disproportionate
+* X is an idiot! -> X might have misunderstood the objectives of Y
+* I can't do this -> I'm struggling with X
+* he doesn't like me -> there is a failure of trust in this relationship
+* I did it because YOLO -> I took this action because the short term risk was low
+
+Summary
+* If you talk like a child you will be treated like child
+* If you talk like a professional you will be treated like professional
+* Listen to the language the professionals around you use
+
+Professionals in their domain can convey a lot of meaning with very few words.
+
+e.g. In my domain of software engineering the senior developers used phrases like
+* This improves the Developer experience
+* Watch out, this is an _Anti-pattern_
+* We need to segment then _Problem space_
+* Remove the intermediary (...variable)
 
