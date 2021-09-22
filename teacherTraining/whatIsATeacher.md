@@ -13,6 +13,50 @@ PGCE Only - Academic Edition!
     * Subject Pedagogy Assignment
 * (Bonus) Education Inspection Framework
 
+
+Research
+--------
+
+https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit
+https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/
+Meta anlysis
+Rating of interventions
+John Hattie's 'Visible Learning' - Distill it to a number
+
+Where do you start your measuing?
+Asumptions
+
+Maths behind meta alysis is not great
+"Compare apples and oranges"
+
+* CCCU [Meta Analysis Effect Sizes](https://cccu.yuja.com/V/Video?v=53836&node=264665&a=701464625&autoplay=1) Karl Bentley
+* [John Hattie: Visible Learning Pt1. Disasters and below average methods.](https://www.youtube.com/watch?v=sng4p3Vsu7Y)
+* [John Hattie, Visible Learning. Pt 2: effective methods.](https://www.youtube.com/watch?v=3pD1DFTNQf4)
+* [Effect Sizes - SAGE Research Methods](https://methods.sagepub.com/reference/the-sage-encyclopedia-of-communication-research-methods/i4505.xml)
+* [Dylan Wiliam: Feedback on learning](https://www.youtube.com/watch?v=n7Ox5aoZ4ww)
+
+
+Criicality
+
+* Blended learning
+    * Traditional: All learning done in the same classroom with the same teacher
+    * Blended: The deliberate planning for different methods of delivery
+        * Async/Synchronous 
+        * Rotating, rooms, labs, equipment, teachers
+* Flipped learning
+    * Traditional: Lower order knowledge skills in lessons. Higher order skills (like evaluating) done at home
+    * Flipped: Lower order knowledge skills at home (async). Higher order evaluation/discussion (sync) in class
+
+![Here's What's Wrong With Bloom's Taxonomy: A Deeper Learning Perspective](https://blogs.edweek.org/edweek/learning_deeply/Blooms%20graphic.png)
+> The problem is that both versions present a false vision of learning. 
+> Learning is not a hierarchy or a linear process. 
+> This graphic gives the mistaken impression that these cognitive processes are discrete, that it's possible to perform one of these skills separately from others. 
+> It also gives the mistaken impression that some of these skills are more difficult
+
+
+
+
+
 TODO:
 * [Pedagogical content knowledge in computing education: a review of the research literature](https://www.tandfonline.com/doi/full/10.1080/08993408.2018.1509580)
 

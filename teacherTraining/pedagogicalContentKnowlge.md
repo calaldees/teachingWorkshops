@@ -1,39 +1,3 @@
-Course Overview
----------------
-
-> Understand the route through training and education that is prepared for them, and their role in that training and education
-
-* From the [CCCU Computer Science Curriculum Guidance](https://learn.canterbury.ac.uk/bbcswebdav/pid-2664627-dt-content-rid-3988355_1/xid-3988355_1)
-    * > All sessions are designed to develop your pedagogy and have been devised by your University tutors in consultation with mentors from partnership schools that includes input from previous student teachers. 
-    * > Sessions, underpinned by research and theory, will explore a wide range of teaching and learning strategies and resources and identify and make use of a variety of best practice ideologies.
-
-The purpose of this course is to challenge you and challenge your thinking
-
-### Average Case
-
-Agile in software engineering
-The importance of process
-I am average - you are average
-
-### Aims and purposes of our teaching and learning
-
-* Meta-pedagogy (not _tips for teaching_, not pre-prepared-lessons)
-* Tacit knowledge transfer - e.g. Riding Bike, Learning to read
-    * Can you write down the steps to ride a bike?
-* 10,000 hours
-    * How long have you spent driving? Why are you not a world class driver?
-    * You're operating without reflection/feedback mechanisms
-
-TASK: How would you teach someone to ride a bike?
-120 seconds - Write down - the phases/notes
-Describe verbally to group
-
-Venn diagram of
-* Subject Knowledge
-* Pedagogical Knowledge
-* Context Knowledge
-
-> Pedagogical Content Knowledge (PCK) conceptualises both the link and the distinction between knowing something for yourself and being able to enable others to know it.
 
 
 Magnusson et al. (1999)
@@ -124,18 +88,7 @@ If DfE is serious about reducing teacher workload this would do it.
 Mark Enser @EnserMark
 I'm not sure this would help workload. Geography teachers are great at uploading their resources on to free sharing sites but the time it has taken me to find something I want to use is always more than the time it would take me to produce it myself.
 
-* [European Framework for the Digital Competence of Educators: DigCompEdu](https://publications.jrc.ec.europa.eu/repository/handle/JRC107466)
 
-* [Disconnected? Exploring the digital skills gap](https://learningandwork.org.uk/resources/research-and-reports/disconnected-exploring-the-digital-skills-gap/) Learning and Work Institute - 2021
-    * 92% of businesses say that having a basic level of digital skills is important for employees
-    * 76% of businesses say that a lack of digital skills would affect the profitability of their business
-    * 88% of young people say that digital skills will be essential for their career
-    * Computing has a 20% female uptake
-    * “[Many young people] aren’t given the information required to truly understand  what the opportunities associated with a career with digital skills is about”
-    * > Young people are confident in their basic digital skills but less confident they have the advanced skills employers need
-    * 40% drop in the number of GCSE entries in moving from ICT to Computing
-    * University entries have declined
-    * 34% of jobs in London require advanced digital skills
 
 ### Your development phases
 
@@ -160,4 +113,5 @@ I'm not sure this would help workload. Geography teachers are great at uploading
     * Catering for everybody (not just a subset of society)
 4. Subject Knowledge
     * Passion and Skill
+
 

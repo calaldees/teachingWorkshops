@@ -221,12 +221,6 @@ https://treenotation.org/designer/
 
 
 
-* [Tacit Knowledge](https://en.wikipedia.org/wiki/Tacit_knowledge)
-    * Tacit knowledge example - riding bike
-    * hunch - feels right, creative problem solving
-    * We don't get better by 10,000 hours - we get better by osmosis, feedback, mentoring
-    * [Why Tacit Knowledge is More Important Than Deliberate Practice](https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/)
-* [Knowledge Illusion: People think they know more than they do - draw a bike](http://www.gianlucagimini.it/prototypes/velocipedia.html)
 
 
 

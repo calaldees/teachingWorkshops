@@ -1,98 +1,80 @@
-Session 1 - How do you learn to teach
-=====================================
+How do you learn to teach
+=========================
 
-Induction to programme materials, structure and professional engagement
-
-
-* Christ Church: course overview, resources, paperwork, support
-
-
-
-* Introduction to Subject Pedagogy
-    * Course overview and expectations
-    * Reflection, tooling and ways of working this year
-    * Meta-pedagogy (not _tips for teaching_)
-    * Tacit knowledge transfer - e.g. Riding Bike, Learning to read
-    * Training _you_ as teachers to _reinvent the profession_
-    * SKA and development
-* What is Computing?
-    * 3 strands Computer Science, ICT, Digital Literacy
 * Aims and purposes of our teaching and learning
-* What is a Computer Science teacher?
-* What are the expectations/misconceptions teaching Computer Science?
-    * Explore the backlash and confusion about computer science in education and wider society
-        * The rise of STEM
-        * Perceptions of gender and ethnicity in Computing
-* Preparing students for a future we are unsure of
+* Meta-pedagogy (not _tips for teaching_)
+* Tacit knowledge transfer - e.g. Riding Bike, Learning to read
+* Reflection
 
+Aims of Subject Pedagogy
+------------------------
 
-
-
-
-
-Introductions
--------------
-
-### Who am I?
-
-My background
-* 7 years teaching ICT and Computing in secondary schools - Practical battle experience
-* 10 years as a senior developer in central London across a range of domains
-* (2 years sessions) + 1 year formally as Lecturer in Education.
-* My weakness is _cutting edge research_ and _teaching theory_
-    * I will constantly working towards this the rest of my career
-
-I have my own ideas about how to teach computing
-* Multiple languages at once
-* Freedom (self direct-ish)/project based/Creativity (removal of hierarchy)
-* Unit tests, Pair programming (talking about code and collaborating), Version control
-But this course is not about my _opinions_ or about my preferred teaching methods.
-You must develop your own critically to develop your own subject pedagogy knowledge.
-
-### Who are you?
-
-TASK: 120 second summary
-* Rough background (education, work)
-* Course: PGCE, 7-14 or SchoolDirect?
-* What are you exited about this year
-* What are you fearful about this year (we are all vulnerable)
-
-<sub>side-note: Computing teachers mindsets - tech workers? - be mindful - other subject practitioners can feel trapped in the profession</sub>
-
-The burden of learning to teach - the _expert beginner_
-Primary->Secondary->Uni->Carear1Employment1->Carear2Employment2->Retraining->Carear2Employment1
-
-
-
-
-
-### Lighthouse statement
-
-You've made a lighthouse statement about _who you are_ and _why you want to teach_.
-I made a lighthouse statement at the start of my teacher training PGCE.
-I read it back at the end of my PGCE year.
-I could not identify with it.
-It was some words that babaled about _making a difference_. It was unstructured idealist nonsense.
-I could not believe how much the year had changed me.
-
-This year will change you.
-
-This is a wonderful example of
-> When you learn something, you are permanently changed.
-<sub>David Didau</sub>
-
-#### You will outgrow my support
-Right now I might look to you like some super-human teaching deity. By the end of this course you will feel completely differently. I'm just some dude doing a job I like. By the end of this year you will have outgrown the support I can give you. At the celebration day at the end of the course we will just be a bunch of people sitting around and talking about education.
-
-
-
-Meta-pedagogy (not _tips for teaching_)
--------------
 What is Subject Pedagogy?
 You already have foundation subject knowledge.
 We are learning HOW to teach someone about Computing.
 I will not be showing you tips for teaching. 
 I will not give you resources.
+
+Venn diagram of
+* Subject Knowledge
+* Pedagogical Knowledge
+* Context Knowledge
+
+> Pedagogical Content Knowledge (PCK) conceptualises both the link and the distinction between knowing something for yourself and being able to enable others to know it.
+Shulman
+
+
+Meta-pedagogy
+-------------
+
+* Meta-pedagogy (not _tips for teaching_, not pre-prepared-lessons)
+
+* Training _you_ as teachers to _reinvent the profession_
+* Preparing students for a future we are unsure of
+
+### Your students are NOT you
+
+* Your students are NOT you - stop using yourself as a benchmark
+    * How you learned
+    * your interests are not their interests "learn by making games; Who doesn't like games"
+    * What % of your students will get a degree in Computing?
+
+
+
+Tacit Knowledge
+---------------
+
+* 10,000 hours
+    * How long have you spent driving? Why are you not a world class driver?
+    * You're operating without reflection/feedback mechanisms
+
+
+* Tacit knowledge transfer - e.g. Riding Bike, Learning to read
+    * Can you write down the steps to ride a bike?
+
+TASK: How would you teach someone to ride a bike?
+120 seconds - Write down - the phases/notes
+Describe verbally to group
+
+
+* [Tacit Knowledge](https://en.wikipedia.org/wiki/Tacit_knowledge)
+    * Tacit knowledge example - riding bike
+    * hunch - feels right, creative problem solving
+    * We don't get better by 10,000 hours - we get better by osmosis, feedback, mentoring
+    * [Why Tacit Knowledge is More Important Than Deliberate Practice](https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/)
+* [Knowledge Illusion: People think they know more than they do - draw a bike](http://www.gianlucagimini.it/prototypes/velocipedia.html)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Maynard and Furlong
@@ -103,76 +85,149 @@ Maynard and Furlong
    * Moving on
 
 
-Your students are NOT you
---------------------------
 
-* Your students are NOT you - stop using yourself as a benchmark
-    * How you learned
-    * your interests are not their interests "learn by making games; Who doesn't like games"
-    * What % of your students will get a degree in Computing?
-
-
-
-Research
---------
-
-https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit
-https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/
-Meta anlysis
-Rating of interventions
-John Hattie's 'Visible Learning' - Distill it to a number
-
-Where do you start your measuing?
-Asumptions
-
-Maths behind meta alysis is not great
-"Compare apples and oranges"
-
-* CCCU [Meta Analysis Effect Sizes](https://cccu.yuja.com/V/Video?v=53836&node=264665&a=701464625&autoplay=1) Karl Bentley
-* [John Hattie: Visible Learning Pt1. Disasters and below average methods.](https://www.youtube.com/watch?v=sng4p3Vsu7Y)
-* [John Hattie, Visible Learning. Pt 2: effective methods.](https://www.youtube.com/watch?v=3pD1DFTNQf4)
-* [Effect Sizes - SAGE Research Methods](https://methods.sagepub.com/reference/the-sage-encyclopedia-of-communication-research-methods/i4505.xml)
-* [Dylan Wiliam: Feedback on learning](https://www.youtube.com/watch?v=n7Ox5aoZ4ww)
-
-
-Why Teach?
+Reflection
 ----------
 
+Reflective practice
+===================
+
+* We are not training you to teach like us
+* We are training you to redefine the professions
 
 
 
-* [Why I Teach](https://teachtogether.tech/en/index.html#s:finale) Chapter 15 - Greg Wilson
-    * Short snippet about why teach Computing
+* Up until now you have been _taught at_. You've been told what to learn and how to learn it.
+* At postgraduate level - there are 'no answers'
 
 
 
-Resources
----------
-
-> Identify the core paperwork, key resources (inc BB) and wider support
-
-* [BlackBoard](https://learn.canterbury.ac.uk/)
-* [Teacher Standards](https://www.gov.uk/government/publications/teachers-standards)
-* [Initial teacher training (ITT): core content framework](https://www.gov.uk/government/publications/initial-teacher-training-itt-core-content-framework)
-* [Education Development Trust’s Core Induction Programme](https://www.early-career-framework.education.gov.uk/edt/)
-* [Curriculum Handbook](todo)
-    * Structure of course + mentor
-* [Subject Knowledge Tracker](https://computingteachers.uk/subjectKnowledge/subject-knowledge.html)
-* Core templates
-    * Lesson Observation
-    * Lesson Planning Pro-forma
-    * Lesson Evaluation
-    * Mentor Meeting
-* [Teacher Training Resource Bank](https://webarchive.nationalarchives.gov.uk/20101008123030/http://www.ttrb.ac.uk//index.aspx) 2010
-    * A consortium of universities created resources for national strategy
-    * This includes things like "How do you tackle racism in the classroom"
+* [The Biggest Myth In Education](https://www.youtube.com/watch?v=rhgwIhB58PA) - learning styles verbasium YouYube 15min?
+    * you are not a visual learner
+    * be critical
 
 
-* SKA and development
-    * Master investigation - opt out
-    * [Questionnaire](https://forms.office.com/Pages/ResponsePage.aspx?id=2rIgA90iq02MIW5kS6FPE4bZosdBzY5AvRurHpjUivVURjROUExKR1VVVlU3UlJOUURIOFIxUTdFVS4u)
+* [What are we doing? Are we all doing it?](https://bennewmark.wordpress.com/2021/06/22/what-are-we-doing-are-we-all-doing-it/)
+    * Lesson observations are not sufficient for knowing is teaching is effective
+    * Observers look for a focused environment where student know what they are doing
+    * This is a poor proxy for "learning", but it is an effective proxy
 
-NCCE
+
+* So much of what we know about education is incomplete and possibly wrong
+* Education is a new thing; We've only been sitting at desks for 100 years. Before that EVERYTHGIN was apprenticeships
+
+
+Rolf
+* What
+* So What
+* Now What
+
+Kolb
+* Experience
+* Reflection
+* Theorising
+* Experimenting
+
+
+Criticality and learning to think
+---------------------------------
+
+* Metaphor "routing around in the grass"
+    * Snake in the grass?
+    * evolution makes us not hang around to find out
+    * We know!! The risk/cost of investigating is too high
+    * When we are certain - we don't think
+    * "routing around in the grass" to find out is dangerous
+    * Modern society (mostly) is not instant death.
+    * If we even see people routing around in the grass we tut and sigh and roll our eye's because we know that it could be a snake.
+    * Don't stop other for routing around in the grass. Start digging yourself.
+
+* Duck or rabbit?
+    * ![Duck or Rabbit](https://www.researchgate.net/profile/Shane-Oneill-5/publication/232927441/figure/fig1/AS:669948519120911@1536739582541/Duck-rabbit-drawing.png)
+    * We are debating over interpretation. It is not either, it's just some lines
+
+If we cant agree what education is for, then we will be unable to agree on how to improve it.
+David Daiau 
+
+* Someone's _fault_ or _process is at fault_?
+
+
+
+
+
+[Are We Preparing or Training Teachers? Developing Professional Judgement in and Beyond Teacher Preparation Programs](https://journals.sagepub.com/doi/10.1177/0022487117702584) [padlet](https://padlet-uploads.storage.googleapis.com/620776567/c1f78b95d4d4ba6b8911b4ea271a0184/Are_we_preparing_or_training_teachers.pdf) Scales 2018
+
+> "Pedagogy does not often survive contact with the classroom" (Lynch, 2013, p. xv).
+> Lynch suggests learning to teach must be a combination of views about teaching that candidates bring to programs along with experience.
+> Lynch calls this the Tuesday morning question:
+> What will teachers do after they have had the experience of Monday?
+> He asserts that
+> learning from experience is possible through theories of pedagogy,
+> but pedagogy without experience is meaningless
+
+> How can programs prepare candidates for complex teaching situations that may not match coursework exactly? 
+> Learning to teach literacy is not simply learning content, skills, and strategies, 
+> but a way to think about teaching as a flexible, adaptive process 
+> that takes into account district requirements, school culture, teacher expertise, curricular demands, and students’ needs.
+> Teachers need to make professional judgements during teaching, 
+> and perhaps even become subversive in adaptations, depending on their teaching contexts.
+>
+> This begins in coursework where teacher educators should help candidates understand when, where, and how to be advocates for a different stance.
+> Indeed, we are not advocates of replicating program instructors or a “Clone Army” (McCallum & Lucas, 2002) of teachers who compliantly do as they are told.
+
+
+
+
+
+
+(Model possible process)
+
+Kolb
+Brockfield lense
+
+
+* Actions (leaver)
+    * Immediate actions
+    * Future points (How will you come back to these?)
+        * Behaviours? Cumulative?
+* Measure impact (how will you know it has had an effect)
+    * Cross-reference your actions
+
+You need a note taking system.
+Your note taking system should be online and transparent.
+
+* Every subject session has progress, evidence and actions
+    * You record
+        * Action points
+        * Reflections
+    * My records
+        * Comments on each student for each session
+        * Monitor Engagement
+            * If I was asked 'How is StudentX engaging with the subject sessions'. I could respond by pointing them at your action points and reflections for 'each session.
+        * I could be asked to justify your progress
+            * e.g last year when lockdown happened - educators asked to predict on trajectory
+            * I will be part of a panel of professionals that could be asked about your progress
+
+* [Blogging while on professional placement: explaining the diversity in student attitudes and engagement](https://www.tandfonline.com/doi/abs/10.1080/1475939X.2013.847481?journalCode=rtpe20) Dalgarno (2013)
+    * > The use of journals by students while on placement is a well-accepted strategy for encouraging reflection on practice, with the use of online blogs for this purpose potentially providing additional benefits through shared reflection and peer support. The aim of this study was to explore the effectiveness of an online blogging activity by teacher education students while on professional placement in schools.
+* [Blogs in pre-service teacher education: exploring the participation issue](https://www.tandfonline.com/doi/abs/10.1080/1475939X.2013.802990) Deng 2012
+    * > conceptualise the participation issue central to blogs through examining the factors that hinder student teachers from writing academic blogs and exchanging comments
+* []() TODO Jimerson, Camps and Grief 2003 - engagement is multifaceted - affective behavioural and cognative
+    * Volentary interactions with content and teachers
+    * Samuelson 2012 measurements of engagement constructs
+    * Subtype should be specifed to deepen understanding and to avoid vague classifications (Christerson, Reshly, ylie, 2012)
+    * Finn and Zimmer (2012) behavioural components as academic and social
+
+
+
+
+
+
+
+
+
+
+
 
 * [Registering as a student](https://www.canterbury.ac.uk/new-students/before-you-arrive/registering-as-a-student)
 * [Registration Update](https://blogs.canterbury.ac.uk/studentnews/registration-update/)
@@ -186,26 +241,6 @@ NCCE
 * 
 
 
-### TODO:
-every session swap mentor meeting sheets - discuss
-Add action points from end of uni session - discuss
-
-
-
-
-
-
-
-
-
-
-
-Closing remarks
-===============
-
-
-
-* Preparing students for a future we are unsure of
 
 
 Unsorted
@@ -221,29 +256,15 @@ TODO
 
 
 
-
-
-
-
-
-
 Other?
 -----
 
-
-
-
-
-
-Allocate reps?
 
 * [Quality teacher educators = quality teachers? Conceptualizing essential domains of knowledge for those who teach teachers](https://www.tandfonline.com/doi/full/10.1080/13664530.2013.813766?src=recsys)
     * > (teacher education is) preparing teachers to remake the profession,
     * > Teaching has always been about changing the world; it has never been about changing the world alone
     * Do we need teacher educators?
 
-Placement 1: CTP + DTP
-Placement 2: ITP
 
 
 ### Be open?
@@ -253,59 +274,20 @@ Placement 2: ITP
     * Don't jump to conclusions about rules being setup
     * schools (and their employees) are the baddies
 
+
 ---
 
-Old
-===
 
+> Understand the route through training and education that is prepared for them, and their role in that training and education
 
-* Blended learning
-    * Traditional: All learning done in the same classroom with the same teacher
-    * Blended: The deliberate planning for different methods of delivery
-        * Async/Synchronous 
-        * Rotating, rooms, labs, equipment, teachers
-* Flipped learning
-    * Traditional: Lower order knowledge skills in lessons. Higher order skills (like evaluating) done at home
-    * Flipped: Lower order knowledge skills at home (async). Higher order evaluation/discussion (sync) in class
+* From the [CCCU Computer Science Curriculum Guidance](https://learn.canterbury.ac.uk/bbcswebdav/pid-2664627-dt-content-rid-3988355_1/xid-3988355_1)
+    * > All sessions are designed to develop your pedagogy and have been devised by your University tutors in consultation with mentors from partnership schools that includes input from previous student teachers. 
+    * > Sessions, underpinned by research and theory, will explore a wide range of teaching and learning strategies and resources and identify and make use of a variety of best practice ideologies.
 
-![Here's What's Wrong With Bloom's Taxonomy: A Deeper Learning Perspective](https://blogs.edweek.org/edweek/learning_deeply/Blooms%20graphic.png)
-> The problem is that both versions present a false vision of learning. 
-> Learning is not a hierarchy or a linear process. 
-> This graphic gives the mistaken impression that these cognitive processes are discrete, that it's possible to perform one of these skills separately from others. 
-> It also gives the mistaken impression that some of these skills are more difficult
+The purpose of this course is to challenge you and challenge your thinking
 
-![What, why, and how to implement a flipped classroom model](https://omerad.msu.edu/images/teaching/blooms_taxonomy.png)
-> In traditional learning, lower level of learning such as remembering and understanding is happening in class, while students are usually left to work on activities that involve higher level of learning outside of classroom.
-> However, in the flipped classroom model, learning is flipped. 
-> As you can see from the pyramid, students can finish the lower level of cognitive work before class. And when they come to class, they can engage in higher cognitive levels of learning with peers and teacher present.
+### Average Case
 
-### Remote working/learning
-
-#### The bad
-
-* Not the same as face-to-face
-* Lack of engagement
-* Lack of socialisation and community
-* How can you learn to teach if you cant see your students or be in a school?
-
-TASK: What are you concerns?
-
-#### Fall _Up_ (not down)
-
-One Piece - Episode 119 - Secret of Powerful Swordplay!
-> Zoro: (is heavily wounded)
->
-> Mr1: My body is made of steel. I can turn any part of my body into a blade. You cannot win.
->
-> Mr1: Why are you smiling?
->
-> Zoro: Because when I finish this fight, I will be a man that can cut steel.
-
-By the end of this year, we will have gained experience with a host of new tools that could have significant impact on our ability to teach more effectively. 
-
-This could be one of the biggest evolutions in education for 100's of years.
-
-### Ways of working (our group)
-
-* How are we (as a group) going to embrace this remote learning?
-* How are we going to ensure these session have impact and value for you?
+Agile in software engineering
+The importance of process
+I am average - you are average

@@ -29,6 +29,8 @@ MCOMD3PFL Programming Frameworks and Languages
 * [TI4 Map Generator](https://github.com/DerekPPeterson/ti4-map-generator) - Generate balanced ti4 maps
   * cgi-bin python wrapper to c++ commandline
 * [Structural pattern matching in Python 3.10](https://benhoyt.com/writings/python-pattern-matching/)
+* [Improve Your Life with Long Error Messages](https://blog.appsignal.com/2021/09/22/improve-your-life-with-long-error-messages.html)
+  * Plugin for Ruby to collect error report data from users
 
 one reason I love debugging is that bugs often break through abstraction layers! they help you learn what's underneath
 

@@ -33,20 +33,48 @@ Times
 * Formal communication (10min)
 * My stories highlighting the above (20min)
 
+Look out for the 10 revelation, mind blown bombshells!
+If you think it's a valid point - hit the 'like' (demo)
+
 
 One of the biggest transitions in your life
 -------------------------------------------
 
-Transitioning from "being provided for" to "providing".
-YOUR ROLE IS SOCIETY IS ABOUT TO CHANGE!
-Have you thought about the impact of this ... 
-One of the biggest transitions in your life
+* Bombshell 1
+    * Transitioning from "being provided for" to "providing".
+    * YOUR ROLE IS SOCIETY IS ABOUT TO CHANGE!
+    * Have you thought about the impact of this ... 
+    * This is one of the biggest transitions in your life!
 
-* Get out of the mindset of being "a student at uni". You are NOT a _student_, you are a professional in training.
-    * Some young student teachers struggle with being close in age but having a full professional role
+* Bombshell 2
+    * Get out of the mindset of being "a student at uni". You are NOT a _student_, you are a professional in training.
+        * Some young student teachers struggle with being close in age but having a full professional role
 
-* Be 100% yourself, don't change who you are, but watch your terminology/language
+My commentary
+> I wanted to do a meaningful job. 
+> When I started teaching; I had passion and energy, but it was wild passion and energy, I did not really have the skills or focus to back up what I wanted to do. 
+> I felt conflict between my ideals as a teacher and the other staff. 
+> Could I do this profession? 
+> Could I still be me and do this job?
+
+Where do you feel you stand on this?
+
+POLL: With the burden of being a _professional_ do you think you will:
+1. Have to hide/conceal your true self
+2. Fear that you will have to change into a different person
+3. Exited that you will change into a different person
+4. Don't know
+
+My conclusion
+> Spoiler alert:
+> There was no _conflict_ with other staff
+> Of course I could still be me and teach
+
+* Bombshell 3
+    * Be 100% yourself, don't change who you are, but watch your terminology/language/conduct
     * You can be a professional *and* still be a badass
+
+Anecdotal Story: Asked a friend asked at a family christmas meal "I'm 18, but I don't feel like an an adult. When will I know I'm an adult?"
 
 
 
@@ -72,44 +100,48 @@ Basics
 Friends?
 --------
 
-* Your colleagues do not need to be your friends
-    * You can respect them as professionals effectively and interact with them but still not _like_ them
-    * How much _you like them_ is not an indicator of their professional worth
-    * Don't expect them to be _your mates_
-* Your students do not need to be your friends
-    * They don't have to like you. They HAVE to respect you.
-        * "Why do you want a bunch of 13 year-old friends?"
-    * Your role is to support ALL students in making progress (however nice or horrible they are. Take your bias out)
+* Bombshell 4
+    * Your colleagues do not need to be your friends
+        * You can respect them as professionals effectively and interact with them but still not _like_ them
+        * How much _you like them_ is not an indicator of their professional worth
+        * Don't expect them to be _your mates_
+    * Your students do not need to be your friends
+        * They don't have to like you. They HAVE to respect you.
+            * "Why do you want a bunch of 13 year-old friends?"
+        * Your role is to support ALL students in making progress (however nice or horrible they are. Take your bias out)
 
 
 Courageous Leadership
 ---------------------
-
-You have a duty of care over your students.
-I would like to extend that to.
-You have a duty of care over your team (this includes your colleges).
-Your have some element of control over your teams emotional state.
-
-> Let's all choose to be the leaders we wish we had
-<sub>Simon Sinek</sub>
-
 
 TASK: Word Vomit Whiteboard
 * What words would you use to describe 
     * the professionals that you have admired
     * the kind of professionals that you want to become
 
+### Let's choose ...
 
-TASK: Do your identified traits align with my list?
+* You have a duty of care over your students.
+* I would like to extend that to.
+* Bombshell 5
+    * You have a duty of care over your team (this includes your colleges).
+    * Your have some element of control over your teams emotional state.
+
+> Let's all choose to be the leaders we wish we had
+<sub>Simon Sinek</sub>
+
+
+### My notes
 
 * Be calm and purposeful
     * Who would you trust
         * Heart surgeon flapping arms around and shouting 'oh no there is blood everywhere'
         * Heart surgeon calming explaining the breach and asking for the next tool
-* Be mindful of cyclic negativity. Don't _whinge_.
+* Be mindful of cyclic negativity. Don't _whinge_
     * Identify problems - collate/suggest solutions - take action points
 * Identify the *spirit* of conversations/actions
     * Are you colleagues being offensive? or are they expressing frustration?
+
 
 
 Business Process
@@ -120,6 +152,7 @@ Business Process
 TASK: Why do we have rules exist?
 Answers in the chat - (If we have a small enough group breakout groups?)
 
+---
 
 * The presence of a rule (hopefully) creates a better outcome (than no rule)
 * As an individual you may not be aware of all possible situations and their knock-on effects.
@@ -146,8 +179,10 @@ Answers in the chat - (If we have a small enough group breakout groups?)
 * Organisations are accountable for their actions
     * (Imagine a world where an organisation was continuously using bad practice and each time this is unveiled an individual is just fired and the organisation continue making the same mistake)
 
-
-* Organisations could metaphorically be described as living breathing things
+* Bombshell 6
+    * Organisations could metaphorically be described as living breathing things
+* Bombshell 7
+    * Rules and Process make things better
 
 There are established
 * Process's
@@ -166,7 +201,7 @@ There are established
 (But that did'nt stick
 [Bianca Williams stop-and-search: Met PCs face probe](https://www.bbc.co.uk/news/uk-england-london-54466254))
 
-*Key Point*
+* Bombshell 8
 * When you tackle _issues_, you should consider if issue is with the _process_ or the issue is with the _individual_.
     * When we fail, we fail as a team - When we fail, we fail as an organisation.
     * In the majority of cases altering the process is the best course of action.
@@ -233,6 +268,9 @@ It will take time to master.
 
 TASK: Take 120 seconds to look at `hemingwayapp.com`. Hover over the colours.
 
+* Bombshell 9
+    * You probably need to upskill in your ability to write _Plain English_
+
 
 Formal Communication
 --------------------
@@ -255,10 +293,25 @@ Tips:
 * Use 'reply' and 'replyall' effectively
 * You need to be able to cope with significant volumes of email from multiple sources with limited time
     * Setup email filter rules to automatically sort incoming email into folders
-* Consider every single email _public domain_. Anyone can make a GDPR subject access request and demand all the data an organisation holds on them (including every email ever sent)
+* Bombshell 10
+* Consider every single email _public domain_
+    * Anyone can make a GDPR subject access request and demand all the data an organisation holds on them (including every email ever sent)
     * Do not make snide/condescending comments or jokes about children/staff/parents/ANYONE with your work email address. Keep EVERY message professional.
         * (Convey sensitive information or voice your internal emotional state to other staff verbally)
 
+
+Bombshell Summary
+-----------------
+
+1. One of the biggest transitions of your life
+2. Wakeup call - You're not a student any more
+3. You can still be a professional and still be yourself
+4. You don't have to be friends with your colleagues
+5. You have a duty of care for your colleagues as much as you students
+7. Rules and Process make things better
+8. When we fail, we fail together
+9. You probably need to upskill in your ability to write _Plain English_
+10. Consider every single email _public domain_
 
 
 My Stories

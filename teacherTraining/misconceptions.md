@@ -145,3 +145,20 @@ for i in range(3):
     for j in range(2):
         thing(i, j)
 ```
+
+are the charcaters you type the same as copy and paste?
+
+Inverted assignment
+Wrong branch
+exeution function insted of defining it
+
+mismatched brackets
+Wrong type of brackets
+
+= and == not nearly as common as teachers belived
+
+Greg Wilson
+* Novice misconception categories
+    * Factual Errors
+    * Broken Models
+    * Fundamental beliefs

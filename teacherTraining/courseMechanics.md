@@ -1,21 +1,120 @@
-Course Mechanics (1 hour)
+Course Mechanics (2 hours)
 ================
 
 Mechanical overview. Sorry, this is very one-way and will not be overly interactive.
 
 
+
 ### Course Handbook and Curriculum Handbook
 
-* [PGCE_Secondary_Course_Handbook_2021_22.pdf](https://padlet-uploads.storage.googleapis.com/318269245/2b4d302640ce01aaa24e43b53134bf89/PGCE_Secondary_Course_Handbook_2021_22.pdf)
-* 
+* [BlackBoard - https://learn.canterbury.ac.uk/](https://learn.canterbury.ac.uk/)
+    * [2021-22 Secondary Student Teachers' Blackboard (P1054) A21P1054](https://learn.canterbury.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_3148947_1&course_id=_17992_1)
+    * [2021-22 (S1) Subject Pedagogy (U13460) A21U13460S1 / Learning Resources / Computer Science](https://learn.canterbury.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_3144223_1&course_id=_17983_1)
+        * [PGCE_Secondary_Course_Handbook_2021_22.pdf](https://padlet-uploads.storage.googleapis.com/318269245/2b4d302640ce01aaa24e43b53134bf89/PGCE_Secondary_Course_Handbook_2021_22.pdf)
+        * [Subject Curriculum Guidance 2021 Computing.docx](https://learn.canterbury.ac.uk/bbcswebdav/pid-3195780-dt-content-rid-4560474_1/xid-4560474_1)
 
-### REE choices (move)
+
+### Assessment
+
+* Teaching Portfolio (digital)
+    * A Single repository to reference/archive
+        * Available on request to external examiner
+    * Mentor Meeting notes
+        * Evidence for every week
+    * Lesson Packs
+        * 1 Lesson pack ==
+            * Lesson plan
+            * Lesson observation
+            * Lesson Evaluation
+        * 20(?) are required (one a week from DTP?)
+    * 3 _Bundles_
+        * Covering two key stages (year 9 doing gcse DO NOT COUNT)
+        * Lesson packs
+        * Examples of pupil work
+        * Reflections
+    * Subject Knowledge Tracker and evidence of progress (more about this later)
+* 2 Academic Assignments
+    * SP1
+        * Literature Review
+    * SP2
+        * Reflection Presentation (at Master level)
+* 1 Academic Professional presentation
+    * of one of your _Bundles_
+* RE&E Module
+    * Active research
+
+### Course Requirements
+
+* Experience teaching 4 year groups
+    * Across two key stages
+* In 2 Schools
+* With 120 Days teaching
 
 
-### Attendence - beep cards
+### Academic Marks
+
+* _PGCE_ and _pgce_
+* Masters Level 50%+
+* Level 6 (degree level) 40%
+* 2/3 modules must be Masters level
+
+
+### Core Documents
+
+Find them? Where? How?
+
+Student charter
+Course handbook
+
+
+### BlackBoard Collaborate
+
+* Finding sessions
+* Finding recordings
+
+### ePortfolio
+
+* OneDrive Folder
+* Find the Portfolio Checklist
+* Create the folders for the segments
+* Name your root portfolio folder "QTS ePortfolio - NAME"
+    * I can't rename the folders when shared with me
+* Share with me
+
+
+### Weekley Mentor Meeting
+
+* Put first weekley meeting sheet in ePortfolio
+    * With reflections for today
+
+Targets - join the dots
+with mentors - targets - lead by you!
+mentoring (term1) -> coaching (term2)
+
+Session notes on weekley meetings - actions?
+* Discuss your weekley targets and reflections with peer at begining of each session (15min)
+* End of session - TODO's, Action points, Reflections (15min)
+
+
+
+
+
+### Attendance - beep cards
 9:15 Late
 No card - nothing I can do
-Beep in second session
+
+### Absence
+
+* 5 days == Letter
+* 120 days in school
+* missed session 500 words
+    * reflective piece on key question
+    * NOT a punishment
+    * Spreadsheets to fill in centrally?
+    * NOT an alternative to attending sessions
+* missed session == not meet teaching standards
+
+
 
 ### Student rep
 
@@ -35,34 +134,29 @@ You lead the assessment!
 
 ### Thursday General Pedagogy (GP) and  Enriching Pedagogy (EP) Days
 
+### CTP, DTP, ITP
 
-### Extensions
+1.) Collaborative Teaching Phase
+2.) Developing Teaching Phrase
+3.) Independent Teaching Phrase
+
+Placement 1: CTP + DTP
+Placement 2: ITP
+
+
+### Extensions to Assignments
 
 * Student initiated to admin team
     * Self certification request (14 days before deadline)
     * Evidence based request (up to 7 days after deadline)
 
-### Academic Marks
-
-* _PGCE_ and _pgce_
-* Masters Level 50%+
-* Level 6 (degree level) 40%
-* 2/3 modules must be Masters level
 
 ### Interruptions and Withdrawals
 
-* Financial
+* I am not allowed to give financial advice
+    * Withdrawing before christmas has less financial impact than after
 * Withdrawals VERY bad for us - interruptions are much better
 
-### Weekley meeting
-
-(First one reflections on induction)
-
-with mentors - targets - lead by you!
-mentoring (term1) -> coaching (term2)
-
-Session notes on weekley meetings - actions?
-Discuss your weekley targets and reflections with peer each session
 
 
 ### The path to QTS
@@ -114,63 +208,17 @@ See my Session on [_firstProfetionalRole.md](./_firstProfetionalRole.md)
 
 ### Transport to placements
 
-* Public transport + folding bike
+* Public transport (+ folding bike)?
 * Contact other students that are going to that school
     * TODO: Can CCCU assist by facilitating students contact at the same school?
 * On arrival at school: contact other staff from your area
 * Invest in transport Motorbike/Car
 * Worst case: Rent B&B or other accommodation during the week.
 
-<sub>sidenote: we have no schools accpting Computing placements in Canterbury. One possibility if the conduct of previous PGCE students. Your relationship with your school has a wider impact than just you.</sub>
-
-### Your professional conduct has consequences
-Schools have opted out of taking students because 
-
-### My Role
-
-* QA Mentors
-    * NOT assess you teach
-* Support you - PAT
-* mark academic assignments
-* Assess folders at end
+<sub>sidenote: we have no schools accepting Computing placements in Canterbury. One possibility if the conduct of previous PGCE students. Your relationship with your school has a wider impact than just you.</sub>
 
 
 
-### Course Requirements
-
-* Experience teaching 4 year groups
-    * Across two key stages
-* In 2 Schools
-* With 120 Days teaching
-
-### Assessment
-
-* Teaching Portfolio (digital)
-    * A Single repository to reference/archive
-        * Available on request to external examiner
-    * Mentor Meeting notes
-        * Evidence for every week
-    * Lesson Packs
-        * 1 Lesson pack ==
-            * Lesson plan
-            * Lesson observation
-            * Lesson Evaluation
-        * 20(?) are required
-    * 3 _Bundles_
-        * Covering two key stages
-        * Lesson packs
-        * Examples of pupil work
-        * Reflections
-    * Subject Knowledge Tracker and evidence of progress
-* 2 Academic Assignments
-    * SP1
-        * Literature Review
-    * SP2
-        * Reflection Presentation (at Master level)
-* 1 Academic Professional presentation
-    * of one of your _Bundles_
-* RE&E Module
-    * Active research
 
 ### Subject Sessions
 
@@ -180,21 +228,20 @@ Schools have opted out of taking students because
     * Subject Pedagogy
 
 
-### Abcense
-
-* 1-5 Letter
-* 120 days in school
-* missed session 500 words
-    * reflective peice on key question
-    * NOT a punishment
-    * Spreadsheets to fill in centrally?
-    * NOT an alternative
-* missed session == not meet teaching standards
-* Engagement
 
 
+### My Role
 
-
+* QA Mentors
+    * NOT assess you teach
+* Support you - PAT
+* Mark academic assignments
+* Assess folders at end
+* PGCE
+    * Write your reference
+    * Mark your ePortfolios
+* SD
+    * Final assessment
 
 ### My Role as course tutor (the reality)
 
@@ -265,6 +312,9 @@ Schools have opted out of taking students because
 
 
 ### Handling the tidal-wave of Communication
+
+* Setup email rules
+* Setup account as a _forwarding account_?
 
 * Complaints in the past that communication has been fragmented, late or mistimed
 * Lots of moving parts
