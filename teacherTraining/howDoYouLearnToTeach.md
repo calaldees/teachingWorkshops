@@ -9,11 +9,19 @@ How do you learn to teach
 Aims of Subject Pedagogy
 ------------------------
 
-What is Subject Pedagogy?
-You already have foundation subject knowledge.
-We are learning HOW to teach someone about Computing.
-I will not be showing you tips for teaching. 
-I will not give you resources.
+* What is Subject Pedagogy?
+* You already have foundation subject knowledge
+* We are learning HOW to teach someone about Computing
+* I will not be showing you tips for teaching
+* I will not give you resources
+* I don't know the 'right' way to teach. Nobody does. It's contextual.
+* Training _you_ as teachers to _reinvent the profession_ (and not be cones of us teacher trainers)
+* Preparing students for a future we are unsure of
+    * spellcheck story
+
+
+Pedagogical Content Knowledge (PCK)
+-----------------------------------
 
 Venn diagram of
 * Subject Knowledge
@@ -21,32 +29,18 @@ Venn diagram of
 * Context Knowledge
 
 > Pedagogical Content Knowledge (PCK) conceptualises both the link and the distinction between knowing something for yourself and being able to enable others to know it.
-Shulman
+<sub>Shulman</sub>
 
-
-Meta-pedagogy
--------------
-
-* Meta-pedagogy (not _tips for teaching_, not pre-prepared-lessons)
-
-* Training _you_ as teachers to _reinvent the profession_
-* Preparing students for a future we are unsure of
-
-### Your students are NOT you
-
-* Your students are NOT you - stop using yourself as a benchmark
-    * How you learned
-    * your interests are not their interests "learn by making games; Who doesn't like games"
-    * What % of your students will get a degree in Computing?
-
-
+Imagine if I started talking to you and as long as I kept talking, then by the time I stopped talking you would would know everything about computing that I do. Simple right!
+We need PCK.
 
 Tacit Knowledge
 ---------------
 
-* 10,000 hours
-    * How long have you spent driving? Why are you not a world class driver?
-    * You're operating without reflection/feedback mechanisms
+* [Tacit Knowledge](https://en.wikipedia.org/wiki/Tacit_knowledge)
+    * tacit knowledge feel like _a hunch_ - feels right. it enabled creative problem solving
+    * Some people argue that tacit knowledge does not exist - everything can be quantified and deliberately taught
+
 
 
 * Tacit knowledge transfer - e.g. Riding Bike, Learning to read
@@ -57,65 +51,54 @@ TASK: How would you teach someone to ride a bike?
 Describe verbally to group
 
 
-* [Tacit Knowledge](https://en.wikipedia.org/wiki/Tacit_knowledge)
-    * Tacit knowledge example - riding bike
-    * hunch - feels right, creative problem solving
-    * We don't get better by 10,000 hours - we get better by osmosis, feedback, mentoring
-    * [Why Tacit Knowledge is More Important Than Deliberate Practice](https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/)
+* We don't get better by just doing a task for 10,000 hours
+    * How long have you spent driving? Why are you not a world class driver?
+    * You're operating without reflection/feedback mechanisms
+* we get better by observation, analysis, feedback, mentoring
+
+* [Why Tacit Knowledge is More Important Than Deliberate Practice](https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/)
 * [Knowledge Illusion: People think they know more than they do - draw a bike](http://www.gianlucagimini.it/prototypes/velocipedia.html)
 
 
 
 
 
+Maynard and Furlong - development
+-------------------
+
+* Early Idealism
+* Personal Survival
+* Dealing with Difficulties
+* Hitting a Platu
+* Moving on
 
 
+We don't really know much about education
+-----------------------------------------
+
+* [The Biggest Myth In Education](https://www.youtube.com/watch?v=rhgwIhB58PA) veretasium 2021 - learning styles YouYube 15min
+    * you are not a visual learner
+    * be critical
+
+* [What are we doing? Are we all doing it?](https://bennewmark.wordpress.com/2021/06/22/what-are-we-doing-are-we-all-doing-it/) 5min
+    * Lesson observations are not sufficient for knowing is teaching is effective
+    * Observers look for a focused environment where student know what they are doing
+    * This is a poor proxy for "learning", but it is an effective proxy
+    * Necessary but _not sufficient_, but very necessary.
+
+* So much of what we know about education is incomplete and possibly wrong
+* Education is a new thing; We've only been sitting at desks for 100 years. Before that EVERYTHING was apprenticeships
 
 
-
-
-
-
-
-Maynard and Furlong
-   * Early Idealism
-   * Personal Survival
-   * Dealing with Difficulties
-   * Hitting a Platu
-   * Moving on
-
-
-
-Reflection
-----------
 
 Reflective practice
 ===================
 
-* We are not training you to teach like us
-* We are training you to redefine the professions
+* Up until now, (level 6 and below) you have been _taught at_. You've been told what to learn and how to learn it.
+* At postgraduate level - there are 'no answers'.
+* We have take information from a range of sources and structure our thinking in a particular way that allows us to critically inspect and challenges our beliefs/assumptions
 
-
-
-* Up until now you have been _taught at_. You've been told what to learn and how to learn it.
-* At postgraduate level - there are 'no answers'
-
-
-
-* [The Biggest Myth In Education](https://www.youtube.com/watch?v=rhgwIhB58PA) - learning styles verbasium YouYube 15min?
-    * you are not a visual learner
-    * be critical
-
-
-* [What are we doing? Are we all doing it?](https://bennewmark.wordpress.com/2021/06/22/what-are-we-doing-are-we-all-doing-it/)
-    * Lesson observations are not sufficient for knowing is teaching is effective
-    * Observers look for a focused environment where student know what they are doing
-    * This is a poor proxy for "learning", but it is an effective proxy
-
-
-* So much of what we know about education is incomplete and possibly wrong
-* Education is a new thing; We've only been sitting at desks for 100 years. Before that EVERYTHGIN was apprenticeships
-
+"I'm just going to think lots and get better" - not that simple
 
 Rolf
 * What
@@ -128,6 +111,12 @@ Kolb
 * Theorising
 * Experimenting
 
+Brockfield's 4 lenses
+* Autobiographical lens
+* Learners lens
+* Colleague lens
+* Scholarship lens
+
 
 Criticality and learning to think
 ---------------------------------
@@ -139,21 +128,23 @@ Criticality and learning to think
     * When we are certain - we don't think
     * "routing around in the grass" to find out is dangerous
     * Modern society (mostly) is not instant death.
-    * If we even see people routing around in the grass we tut and sigh and roll our eye's because we know that it could be a snake.
-    * Don't stop other for routing around in the grass. Start digging yourself.
+    * If we even see people routing around in the grass we tut and sigh and roll our eye's. We feel like we know the answer.
+    * Don't stop others for routing around in the grass. Start digging yourself.
 
 * Duck or rabbit?
     * ![Duck or Rabbit](https://www.researchgate.net/profile/Shane-Oneill-5/publication/232927441/figure/fig1/AS:669948519120911@1536739582541/Duck-rabbit-drawing.png)
-    * We are debating over interpretation. It is not either, it's just some lines
+        * Which is it?
 
-If we cant agree what education is for, then we will be unable to agree on how to improve it.
+
+
+* We are debating over interpretation. It is not either, it's just some lines
+
+> If we cant agree what education is for, then we will be unable to agree on how to improve it.
 David Daiau 
 
-* Someone's _fault_ or _process is at fault_?
 
-
-
-
+Pedagogy and Practice
+---------------------
 
 [Are We Preparing or Training Teachers? Developing Professional Judgement in and Beyond Teacher Preparation Programs](https://journals.sagepub.com/doi/10.1177/0022487117702584) [padlet](https://padlet-uploads.storage.googleapis.com/620776567/c1f78b95d4d4ba6b8911b4ea271a0184/Are_we_preparing_or_training_teachers.pdf) Scales 2018
 
@@ -176,42 +167,82 @@ David Daiau
 > Indeed, we are not advocates of replicating program instructors or a “Clone Army” (McCallum & Lucas, 2002) of teachers who compliantly do as they are told.
 
 
+Research informed Practice
+--------------------------
+
+Even if you've taught full time for 3 years.
+How many young people have you taught? Maybe 1000? for a few hours each ... maybe some of them 60 hours in a year.
+How many young people are in the country? the world? how many other techniques do you think there are?
+Even with 3 years of battle experience, without research and scholarship you have no idea how your ideals compare to the planet.
+
+
+Stop working on hunches and things that feel right.
+Remember "poor proxies for learning", just because they are quiet, does not mean that leaning is happening.
+So we combine "Practice with Scholarship"
+
+
+* [Teaching and Learning Toolkit](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit) - An accessible summary of education evidence
+
+DISCUSSION: Is the EEF the final word on this? Is there more to the story? Criticality (more on this tuesday)?
+
+
+Public Blog Concept?
+-------------------
+
+* To enhance your reflections this year you could have them publicly visible and blog about your experiences and growth.
+* This could be too much for some
+
+* [Blogging while on professional placement: explaining the diversity in student attitudes and engagement](https://www.tandfonline.com/doi/abs/10.1080/1475939X.2013.847481?journalCode=rtpe20) Dalgarno (2013)
+    * > The use of journals by students while on placement is a well-accepted strategy for encouraging reflection on practice, with the use of online blogs for this purpose potentially providing additional benefits through shared reflection and peer support. The aim of this study was to explore the effectiveness of an online blogging activity by teacher education students while on professional placement in schools.
+* [Blogs in pre-service teacher education: exploring the participation issue](https://www.tandfonline.com/doi/abs/10.1080/1475939X.2013.802990) Deng 2012
+    * > conceptualise the participation issue central to blogs through examining the factors that hinder student teachers from writing academic blogs and exchanging comments
+
+
+My technique/approach to Student teacher reflections
+----------------------------------------------------
+
+* Students have limited time. The activity has to feel worthwhile.
+* Students don't want to show others their "incorrect and floundering" inner monologue and scribbles
+    * But without an audience/viewer they see little point in doing it
+* Student feel threatened when big scary tutor demands to see their reflections. It's too much like marking and judgment.
+
+So!
+
+* At the beginning of every subject session. We will spend 15min to 30min showing another member of the group your weekly mentor sheet and talking about the targets and reflections.
+    * Pair up with different people each week (I hopefully don't need to define a rota)
+    * I may circulate and pop into some of the discussions
+* Your reflections/action points from subject sessions will also go on the weekly mentor meeting sheet.
+* Your targets on your weekly mentor meeting sheet are your _leavers_
+    * [Leverage observations](https://improvingteaching.co.uk/2014/12/15/archimedean-leadership-2-what-are-leverage-observations-or-how-would-yo-yo-ma-feed-back/) 2014 Harry Fletcher-Wood
+* One document. One place. Consistent "judgment free" low stakes discussion.
 
 
 
 
-(Model possible process)
 
-Kolb
-Brockfield lense
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unsorted
+========
 
 
 * Actions (leaver)
     * Immediate actions
     * Future points (How will you come back to these?)
         * Behaviours? Cumulative?
-* Measure impact (how will you know it has had an effect)
-    * Cross-reference your actions
 
-You need a note taking system.
-Your note taking system should be online and transparent.
-
-* Every subject session has progress, evidence and actions
-    * You record
-        * Action points
-        * Reflections
-    * My records
-        * Comments on each student for each session
-        * Monitor Engagement
-            * If I was asked 'How is StudentX engaging with the subject sessions'. I could respond by pointing them at your action points and reflections for 'each session.
-        * I could be asked to justify your progress
-            * e.g last year when lockdown happened - educators asked to predict on trajectory
-            * I will be part of a panel of professionals that could be asked about your progress
-
-* [Blogging while on professional placement: explaining the diversity in student attitudes and engagement](https://www.tandfonline.com/doi/abs/10.1080/1475939X.2013.847481?journalCode=rtpe20) Dalgarno (2013)
-    * > The use of journals by students while on placement is a well-accepted strategy for encouraging reflection on practice, with the use of online blogs for this purpose potentially providing additional benefits through shared reflection and peer support. The aim of this study was to explore the effectiveness of an online blogging activity by teacher education students while on professional placement in schools.
-* [Blogs in pre-service teacher education: exploring the participation issue](https://www.tandfonline.com/doi/abs/10.1080/1475939X.2013.802990) Deng 2012
-    * > conceptualise the participation issue central to blogs through examining the factors that hinder student teachers from writing academic blogs and exchanging comments
 * []() TODO Jimerson, Camps and Grief 2003 - engagement is multifaceted - affective behavioural and cognative
     * Volentary interactions with content and teachers
     * Samuelson 2012 measurements of engagement constructs
@@ -221,38 +252,12 @@ Your note taking system should be online and transparent.
 
 
 
-
-
-
-
-
-
-
-
-* [Registering as a student](https://www.canterbury.ac.uk/new-students/before-you-arrive/registering-as-a-student)
-* [Registration Update](https://blogs.canterbury.ac.uk/studentnews/registration-update/)
-    1. Upload my ID and qualifications
-    2. Create my computing account
-    3. Confirm my details and upload my photo
-* Problems?
-    * email i-zone@canterbury.ac.uk
-
-* [Free software.](https://www.canterbury.ac.uk/our-students/ug-current/it-services/software-and-online-services/free-software) and remote desktop
-* 
-
-
-
-
-Unsorted
-========
-
-
 TODO
 
 * CCCU Student [free-software](https://www.canterbury.ac.uk/our-students/ug-current/it-services/software-and-online-services/free-software)
     * Student desktop
 
-[Teacher professional learning and development](https://www.iaoed.org/downloads/EdPractices_18.pdf) Helen Timperley - INTERNATIONAL ACADEMY OF EDUCATION
+* [Teacher professional learning and development](https://www.iaoed.org/downloads/EdPractices_18.pdf) Helen Timperley - INTERNATIONAL ACADEMY OF EDUCATION
 
 
 
@@ -273,21 +278,3 @@ Other?
     * A youthful perception of school is not always accurate (even adults remembering)
     * Don't jump to conclusions about rules being setup
     * schools (and their employees) are the baddies
-
-
----
-
-
-> Understand the route through training and education that is prepared for them, and their role in that training and education
-
-* From the [CCCU Computer Science Curriculum Guidance](https://learn.canterbury.ac.uk/bbcswebdav/pid-2664627-dt-content-rid-3988355_1/xid-3988355_1)
-    * > All sessions are designed to develop your pedagogy and have been devised by your University tutors in consultation with mentors from partnership schools that includes input from previous student teachers. 
-    * > Sessions, underpinned by research and theory, will explore a wide range of teaching and learning strategies and resources and identify and make use of a variety of best practice ideologies.
-
-The purpose of this course is to challenge you and challenge your thinking
-
-### Average Case
-
-Agile in software engineering
-The importance of process
-I am average - you are average

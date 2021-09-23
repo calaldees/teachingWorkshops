@@ -97,3 +97,9 @@
 
 * [What is ‘Elite Overproduction’?](https://www.overcomingbias.com/2021/08/what-is-elite-overproduction.html)
     * > Elite overproduction … describes the condition of a society which is producing too many potential elite-members relative to its ability to absorb them into the power structure. … a cause for social instability, as those left out of power feel aggrieved by their relatively low status
+
+* [Lab-grown meat is supposed to be inevitable. The science tells a different story.](https://thecounter.org/lab-grown-cultivated-meat-cost-at-scale/)
+    * It's vulnerable to ANY contamination
+    * If powered by fosil fules would be more harful than meet
+    * There still needs to be _initial_ cells (from fetus's)
+    * There is no know tech or process to make it cheaper

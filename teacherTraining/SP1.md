@@ -1,29 +1,32 @@
 SP1
 ===
 
-* Introduction to Subject Pedagogy (2.5 hours)
-    * Introductions: (15 min)
-        * Who am I?
-        * Who are you?
-    * Know thyself (10min)
-    * Why learn computing? (15min)
+* Introduction to Subject Pedagogy (2.5 hours + 0.5 hours breaks)
+    * Introductions: (45min)
+        * Who am I? (5min)
+        * Who are you? (10min)
+        * Know thyself (10min)
+        * Why teach computing (5min)
+        * Why learn computing? (15min)
+        * Who are you teaching?
     * [Course overview and expectations](./courseMechanics.md) (1 hours)
         * Reflection, tooling and ways of working this year
     * [Subject Knowledge Development](./subjectKnowledgeDevelopment.md) (45 min)
 * Reading time (30min)
     * Computing in the curriculum has been criticized for not being relevant for all students
-    * We will draw upon these in our afternoon session (keep this room as a quiet reading space over lunch)
+    * We will draw upon these in our afternoon session (keep this room as a 'quiet reading space' over lunch)
         * Make some notes to facilitate a discussion after lunch
     * 5min [Backlash against computing curriculum misses the point](https://theconversation.com/backlash-against-computing-curriculum-misses-the-point-22380) 2014
         * Should the computing curriculum mention _the internet_?
     * 5min [Coding the curriculum: new computer science GCSE fails to make the grade](https://theconversation.com/coding-the-curriculum-new-computer-science-gcse-fails-to-make-the-grade-79780) 2017
     * 3min [Internet use reduces study skills in university students](https://www.sciencedaily.com/releases/2020/01/200117085321.htm) Swansea University ScienceDaily 2020
     * 20min+ [Rotten STEM: How Technology Corrupts Education](https://americanaffairsjournal.org/2019/08/rotten-stem-how-technology-corrupts-education/) 2019 Jared Woodard
-* [How do you learn to teach](./howDoYouLearnToTeach.md)
+* [How do you learn to teach](./howDoYouLearnToTeach.md) (1 hour)
     * Aims and purposes of our teaching and learning
+        * Training _you_ as teachers to _reinvent the profession_
     * Meta-pedagogy (not _tips for teaching_)
     * Tacit knowledge transfer - e.g. Riding Bike, Learning to read
-    * Training _you_ as teachers to _reinvent the profession_
+    * Reflection
 * [What is Computing](./whatIsComputing.md)?
     * 3 strands Computer Science, ICT, Digital Literacy
     * What is a Computer Science teacher?
@@ -32,7 +35,8 @@ SP1
             * The rise of STEM
             * Perceptions of gender and ethnicity in Computing
     * Preparing students for a future we are unsure of
-
+* Action points (15min)
+    * What are you going to follow up after this session
 
 Introductions
 -------------
@@ -87,6 +91,9 @@ This year will change you.
 > When you learn something, you are permanently changed.
 <sub>David Didau</sub>
 
+#### You will outgrow my support
+
+Right now I might look to you like some super-human teaching deity. By the end of this course you will feel completely differently. I'm just some dude doing a job I like. By the end of this year you will have outgrown the support I can give you. At the celebration day at the end of the course we will just be a bunch of professionals sitting around and talking about education.
 
 ### Know Thyself (10min)
 
@@ -98,13 +105,14 @@ This year will change you.
     * What do you most want to learn about teaching and learning
     * What is one specific thing you believe about teaching and learning?
 
-TASK: answer the questions above - save them safley - we will reflect on these at the end of the course
+TASK: answer the questions above - save them safely - I will hear some of your points, but we are not going to debate them here - we will reflect on these at the end of the course
 
+Why Teach Computing? (5min)
+-------------------
 
-#### You will outgrow my support
-
-Right now I might look to you like some super-human teaching deity. By the end of this course you will feel completely differently. I'm just some dude doing a job I like. By the end of this year you will have outgrown the support I can give you. At the celebration day at the end of the course we will just be a bunch of people sitting around and talking about education.
-
+READ: 5min
+* [Why I Teach](https://teachtogether.tech/en/index.html#s:finale) Chapter 15 - Greg Wilson
+    * Short snippet about why teach Computing
 
 
 Why learn computing (10min)
@@ -132,11 +140,21 @@ Why learn computing (10min)
 
 TASK: Complete the grid
 
-* Which points are closely aligned in importance (i.e. on the diagonal in your grid)?
+* Which points are closely aligned in importance for you and your learners (i.e. on the diagonal in your grid)?
 * Which points are misaligned (i.e. in the off-diagonal corners)?
 * How should this affect what you teach?
 
 
-* [Why I Teach](https://teachtogether.tech/en/index.html#s:finale) Chapter 15 - Greg Wilson
-    * Short snippet about why teach Computing
+Who are you teaching?
+---------------------
+
+* Your students are NOT you - stop using yourself as a benchmark
+    * How you learned
+    * your interests are not their interests "learn by making games; Who doesn't like games"
+    * What % of your students will get a degree in Computing?
+* "Please don't suggest _make a game_"
+    * Female, ethnicity
+    * PhD in Physics
+    * Code bootcamp -> professional programmer
+    * Looking for projects
 
