@@ -17,6 +17,7 @@ Welcome!
         *  _chat_ as a tool to to aid engagement
         * This is not a social twitch stream
         * Avoid unneeded distractors (we don't need rotfl pogchamps)
+    * Recording (start now)
 
 Setting the scene
 -----------------

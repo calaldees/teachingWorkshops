@@ -25,6 +25,8 @@ Every subject is the most important subject
 
 
 
+
+
 Computer Science
 ----------------
 
@@ -83,8 +85,8 @@ TASK: Background reading
 Why our subject has friction with society
 
 Computing in the curriculum has been criticized for not being relevant for all students.
-* [Coding the curriculum: new computer science GCSE fails to make the grade](https://theconversation.com/coding-the-curriculum-new-computer-science-gcse-fails-to-make-the-grade-79780) 2017
 * [Backlash against computing curriculum misses the point](https://theconversation.com/backlash-against-computing-curriculum-misses-the-point-22380) 2014
+* [Coding the curriculum: new computer science GCSE fails to make the grade](https://theconversation.com/coding-the-curriculum-new-computer-science-gcse-fails-to-make-the-grade-79780) 2017
 * [Rotten STEM: How Technology Corrupts Education](https://americanaffairsjournal.org/2019/08/rotten-stem-how-technology-corrupts-education/) 2019 Jared Woodard
 * [Internet use reduces study skills in university students](https://www.sciencedaily.com/releases/2020/01/200117085321.htm) Swansea University ScienceDaily 2020
 

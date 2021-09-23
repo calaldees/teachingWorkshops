@@ -42,6 +42,7 @@ Mechanical overview. Sorry, this is very one-way and will not be overly interact
     * of one of your _Bundles_
 * RE&E Module
     * Active research
+    * [REE 2021-2022](https://sites.google.com/view/ree-options-2021/home)
 
 ### Course Requirements
 
@@ -176,6 +177,7 @@ Placement 2: ITP
     * Young People
     * "Low _ability_" !!!?!!
         * "Low attainment"
+    * (Verbal) You _Just_, _Simply_ (Don't trivialise)
 * Action Point
     * Listen to the language the professionals use around you
     * Make notes on phrases you hear

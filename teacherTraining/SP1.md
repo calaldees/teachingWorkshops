@@ -1,13 +1,24 @@
 SP1
 ===
 
-* Introduction to Subject Pedagogy
+* Introduction to Subject Pedagogy (2.5 hours)
     * Introductions: (15 min)
-        * Who am I? 
-        * Who are you? 
-    * [Course overview and expectations](./courseMechanics.md) (2 hour)
+        * Who am I?
+        * Who are you?
+    * Know thyself (10min)
+    * Why learn computing? (15min)
+    * [Course overview and expectations](./courseMechanics.md) (1 hours)
         * Reflection, tooling and ways of working this year
     * [Subject Knowledge Development](./subjectKnowledgeDevelopment.md) (45 min)
+* Reading time (30min)
+    * Computing in the curriculum has been criticized for not being relevant for all students
+    * We will draw upon these in our afternoon session (keep this room as a quiet reading space over lunch)
+        * Make some notes to facilitate a discussion after lunch
+    * 5min [Backlash against computing curriculum misses the point](https://theconversation.com/backlash-against-computing-curriculum-misses-the-point-22380) 2014
+        * Should the computing curriculum mention _the internet_?
+    * 5min [Coding the curriculum: new computer science GCSE fails to make the grade](https://theconversation.com/coding-the-curriculum-new-computer-science-gcse-fails-to-make-the-grade-79780) 2017
+    * 3min [Internet use reduces study skills in university students](https://www.sciencedaily.com/releases/2020/01/200117085321.htm) Swansea University ScienceDaily 2020
+    * 20min+ [Rotten STEM: How Technology Corrupts Education](https://americanaffairsjournal.org/2019/08/rotten-stem-how-technology-corrupts-education/) 2019 Jared Woodard
 * [How do you learn to teach](./howDoYouLearnToTeach.md)
     * Aims and purposes of our teaching and learning
     * Meta-pedagogy (not _tips for teaching_)
@@ -73,11 +84,11 @@ I could not believe how much the year had changed me.
 
 This year will change you.
 
-This is a wonderful example of
 > When you learn something, you are permanently changed.
 <sub>David Didau</sub>
 
-TASK:
+
+### Know Thyself (10min)
 
 * [Know Thyself](https://teachtogether.tech/en/index.html#s:intro-exercises) Chapter 1 - Greg Wilson
     * What do you most want to teach?
@@ -87,7 +98,22 @@ TASK:
     * What do you most want to learn about teaching and learning
     * What is one specific thing you believe about teaching and learning?
 
+TASK: answer the questions above - save them safley - we will reflect on these at the end of the course
 
+
+#### You will outgrow my support
+
+Right now I might look to you like some super-human teaching deity. By the end of this course you will feel completely differently. I'm just some dude doing a job I like. By the end of this year you will have outgrown the support I can give you. At the celebration day at the end of the course we will just be a bunch of people sitting around and talking about education.
+
+
+
+Why learn computing (10min)
+-------------------
+
+* [Why learn computing](https://teachtogether.tech/en/index.html#s:intro-exercises) Chapter 1 - Greg Wilson
+    * > Politicians, business leaders, and educators often say that people should learn to program because the jobs of the future will require it. 
+      > However, as Benjamin Doxtdator pointed out, many of those claims are built on shaky ground. 
+      > Even if they were true, education shouldn’t prepare people for the jobs of the future: it should give them the power to decide what kinds of jobs there are and to ensure that those jobs are worth doing. And as Mark Guzdial points out, there are actually many reasons to learn how to program:
 
 * To understand our world.
 * To study and understand processes.
@@ -98,18 +124,13 @@ TASK:
 * To use computers better.
 * As a medium in which to learn problem-solving.
 
-
-* Why learn computing
-    * > Politicians, business leaders, and educators often say that people should learn to program because the jobs of the future will require it. 
-      > However, as Benjamin Doxtdator pointed out, many of those claims are built on shaky ground. 
-      > Even if they were true, education shouldn’t prepare people for the jobs of the future: it should give them the power to decide what kinds of jobs there are and to ensure that those jobs are worth doing. And as Mark Guzdial points out, there are actually many reasons to learn how to program:
-
-
 | | low importance to you | medium importance to you | high importance to you |
 |-|-|-|-|
 | Low importance to learners | | | |
 | med importance to learners | | | |
 | high importance to learners | | | |
+
+TASK: Complete the grid
 
 * Which points are closely aligned in importance (i.e. on the diagonal in your grid)?
 * Which points are misaligned (i.e. in the off-diagonal corners)?
@@ -118,10 +139,4 @@ TASK:
 
 * [Why I Teach](https://teachtogether.tech/en/index.html#s:finale) Chapter 15 - Greg Wilson
     * Short snippet about why teach Computing
-
-
-#### You will outgrow my support
-
-Right now I might look to you like some super-human teaching deity. By the end of this course you will feel completely differently. I'm just some dude doing a job I like. By the end of this year you will have outgrown the support I can give you. At the celebration day at the end of the course we will just be a bunch of people sitting around and talking about education.
-
 
