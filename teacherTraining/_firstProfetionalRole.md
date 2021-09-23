@@ -5,16 +5,26 @@ Supplemental discussion session
 1 Hour
 
 Welcome!
-I'm Allan (Subject Tutor for Computing)
+* I'm Allan (Subject Tutor for Computing)
+* Joined by my colleague Nick (Subject Tutor for MFL)
 
-(A link to this document will be provided at the end of the session)
+* Housekeeping
+    * Session Notes (Paste link into chat)
+        * [_firstProfetionalRole.md](https://github.com/calaldees/teachingWorkshops/blob/master/teacherTraining/_firstProfetionalRole.md#learning-to-teach---in-your-first-professional-role)
+        * This is provided for accessibility if needed.
+        * These notes contain _answers_ and _spoilers_. It is a reference for later.
+    * Professional use of _chat_
+        *  _chat_ as a tool to to aid engagement
+        * This is not a social twitch stream
+        * Avoid unneeded distractors (we don't need rotfl pogchamps)
 
-
+Setting the scene
+-----------------
 
 I have heard the phrase:
 > Teachers are pillars of our society
 
-We are *role models for our society's future*
+You are *role models for our society's future*
 ... that's a fairly significant responsibility
 
 
@@ -34,11 +44,11 @@ Times
 * My stories highlighting the above (20min)
 
 Look out for the 10 revelation, mind blown bombshells!
-If you think it's a valid point - hit the 'like' (demo)
+If you think it's a valid point - hit the 'like/reaction' (demo)
 
 
-One of the biggest transitions in your life
--------------------------------------------
+Personal and Professional Identity
+----------------------------------
 
 * Bombshell 1
     * Transitioning from "being provided for" to "providing".
@@ -53,9 +63,10 @@ One of the biggest transitions in your life
 My commentary
 > I wanted to do a meaningful job. 
 > When I started teaching; I had passion and energy, but it was wild passion and energy, I did not really have the skills or focus to back up what I wanted to do. 
+> I wanted to stand on desks and use humour in my lessons.
 > I felt conflict between my ideals as a teacher and the other staff. 
 > Could I do this profession? 
-> Could I still be me and do this job?
+> Could I still be me *and* do this job?
 
 Where do you feel you stand on this?
 
@@ -74,6 +85,12 @@ My conclusion
     * Be 100% yourself, don't change who you are, but watch your terminology/language/conduct
     * You can be a professional *and* still be a badass
 
+At the moment you have a strong _personal identity_. In time you will develop a _professional identity_
+
+> A strong sense of teacher _professional identity_ is linked to the retention of teachers within the profession 
+> <sub>Jim Zimmer - Dean, Facalty of Teaching and Learning</sub>
+
+
 Anecdotal Story: Asked a friend asked at a family christmas meal "I'm 18, but I don't feel like an an adult. When will I know I'm an adult?"
 
 
@@ -90,7 +107,7 @@ Basics
 * Be proactive
     * Don't expect somebody else to fix your problems automatically
     * Be a _net positive_ to your organisation
-* Keep your phone off!!!
+* Keep your phone off!!! (SERIOUSLY!!!)
     * Focus on your role (There is little _downtime_ in schools)
 * Do not discuss politics or religion at your place of work
     * This will likely alienate people. It is not relevant to your role.
@@ -130,7 +147,6 @@ TASK: Word Vomit Whiteboard
 > Let's all choose to be the leaders we wish we had
 <sub>Simon Sinek</sub>
 
-
 ### My notes
 
 * Be calm and purposeful
@@ -143,13 +159,12 @@ TASK: Word Vomit Whiteboard
     * Are you colleagues being offensive? or are they expressing frustration?
 
 
-
 Business Process
 ----------------
 
 ### Why do we need Process/Rules/Systems?
 
-TASK: Why do we have rules exist?
+TASK: Why do we have rules. Why do they exist?
 Answers in the chat - (If we have a small enough group breakout groups?)
 
 ---
@@ -209,16 +224,16 @@ There are established
 
 ### Business Comms/Handbooks/Training
 
-You will have induction packs/training.
-As a member of staff you are expected to know all of it.
-Ignorance is not an excuse.
+* You will have induction packs/training.
+* As a member of staff you are expected to know all of it.
+* Ignorance is not an excuse.
 
-Many organisations have online e-learning.
-You have to tick a box to say I've read this.
+* Many organisations have online e-learning.
+* You have to tick a box to say I've read this.
 
-Is it the _organisations_ fault or _your_ fault?
+* Is it the _organisations_ fault or _your_ fault?
 
-If you've ticked the box - then you should know - It's your fault.
+* If you've ticked the box - then you should know - It's your fault.
 
 (This is an important semantic requirement. Some trainee teachers have been barred from school sites until they had completed this _online training_ + clicked 'I understand')
 
@@ -237,7 +252,7 @@ If you feel the business process has treated you unfairly and you need further a
 
 * [Teacher Unions](https://en.wikipedia.org/wiki/Teachers%27_trade_unions_in_the_United_Kingdom)
 
-ACTION: After this talk read up on what the unions stand for.
+ACTION POINT: After this talk read up on what the unions stand for.
 * Research your unions principles.
 * Some unions believe that _striking_ is too aggressive and considers _chalk-downs_.
 
@@ -313,6 +328,8 @@ Bombshell Summary
 9. You probably need to upskill in your ability to write _Plain English_
 10. Consider every single email _public domain_
 
+TASK: In the chat, put the number(s) of the items that resonated most with you.
+
 
 My Stories
 ----------
@@ -352,7 +369,6 @@ The defined trait of a professional is someone that can
 Unsorted Notes
 ==============
 
-> A strong sense of teacher _professional identity_ is linked to the retention of teachers within the profession <sub>Jim Zimmer - Dean, Facalty of Teaching and Learning</sub>
 
 
 Interacting with your mentor
