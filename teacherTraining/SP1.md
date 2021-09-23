@@ -27,7 +27,7 @@ SP1
     * Meta-pedagogy (not _tips for teaching_)
     * Tacit knowledge transfer - e.g. Riding Bike, Learning to read
     * Reflection
-* [What is Computing](./whatIsComputing.md)?
+* [What is Computing](./whatIsComputing.md)? (1.5 hours)
     * 3 strands Computer Science, ICT, Digital Literacy
     * What is a Computer Science teacher?
     * What are the expectations/misconceptions teaching Computer Science?
@@ -37,6 +37,8 @@ SP1
     * Preparing students for a future we are unsure of
 * Action points (15min)
     * What are you going to follow up after this session
+    * Discuss with peers - give me some highlights
+
 
 Introductions
 -------------
@@ -46,9 +48,9 @@ Introductions
 My background
 * 7 years teaching ICT and Computing in secondary schools - Practical battle experience
 * 10 years as a senior developer in central London across a range of domains
-* (2 years sessions) + 1 year formally as Lecturer in Education.
+* (2 years sessions) + 1 year formally as Lecturer in Education. (You are my 4th cohort)
 * My weakness is _cutting edge research_ and _teaching theory_
-    * I will constantly working towards this the rest of my career
+    * I will constantly upskilling this for the rest of my career
 
 I have my own ideas about how to teach computing
 * Multiple languages at once

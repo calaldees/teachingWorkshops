@@ -38,6 +38,7 @@ Tacit Knowledge
 ---------------
 
 * [Tacit Knowledge](https://en.wikipedia.org/wiki/Tacit_knowledge)
+    * Tacit knowledge is knowledge that cannot be captured through words alone.
     * tacit knowledge feel like _a hunch_ - feels right. it enabled creative problem solving
     * Some people argue that tacit knowledge does not exist - everything can be quantified and deliberately taught
 

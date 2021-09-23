@@ -4,7 +4,6 @@ Course Mechanics (2 hours)
 Mechanical overview. Sorry, this is very one-way and will not be overly interactive.
 
 
-
 ### Course Handbook and Curriculum Handbook
 
 * [BlackBoard - https://learn.canterbury.ac.uk/](https://learn.canterbury.ac.uk/)
@@ -332,3 +331,7 @@ See my Session on [_firstProfetionalRole.md](./_firstProfetionalRole.md)
 * Take group responsibility for organising your important information
 * By pro-actively managing this you will be much more aware of the important information
 
+
+### Your schools?
+
+Have you been informed about "meet the mentor"?
