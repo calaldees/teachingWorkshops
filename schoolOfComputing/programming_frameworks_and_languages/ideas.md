@@ -12,11 +12,11 @@ MCOMD3PFL Programming Frameworks and Languages
 * [computingteachers.uk/langauge_reference](https://computingteachers.uk/static/langauge_reference.html)
 
 
-[](https://twitter.com/b0rk/status/1436703520560910337)
-  * > when you learn an abstraction first (like Rails), it can be hard to go learn about what's underneath (like TCP) and understand how it relates to the abstraction
-    * @b0rk
-  * > I really like that you jumped from Rails all the way to TCP in this tweet. People sometimes only think about a single layer of abstraction when the whole technology stack is important 
-    * @garethadams
+* [twitter - professional developers conversation](https://twitter.com/b0rk/status/1436703520560910337)
+    * > when you learn an abstraction first (like Rails), it can be hard to go learn about what's underneath (like TCP) and understand how it relates to the abstraction
+      * @b0rk
+    * > I really like that you jumped from Rails all the way to TCP in this tweet. People sometimes only think about a single layer of abstraction when the whole technology stack is important 
+      * @garethadams
 
 * [View Components, Storybook and Tailwind: The Holy Trinity? Learn how to setup View Components and Storybook for Ruby on Rails.](https://finnian.io/blog/view-components-storybook-tailwind-the-holy-trinity/)
 * [Pagnination in openapi](https://github.com/OAI/OpenAPI-Specification/issues/1835)
@@ -64,11 +64,6 @@ Organisation
 plugins
 
 
-## Intended Learning Outcomes 
-By the end of the module students should be able to:
-1. Demonstrate an understanding of the concept of a Framework in general, a Framework used for Programming, and a Framework used for software Testing
-2. Critically evaluate the effectiveness of a particular framework for an application and platform
-3. Synthesise a small digital artefact using a well-formed programming framework
 
 
 Frameworks for what?
@@ -422,55 +417,6 @@ Node microservices developer, Vue/Angular hater, and Docker lover.
 
 ---
 
-Initial audit
-
-1. What is this? (not including subsets)
-  * ```json
-      {"code": 200, "message": "something happened", "payload": ["a", "b", "c"]}
-      ```
-  1. python
-  2. javascript
-  3. json
-  4. yml
-  5. toml
-2. Which languages have you used
-  1. C#
-  2. Java
-  3. Python
-  4m. Php
-  5. Golang
-  6. C
-  7. C++
-  8. Javascript
-  9. Ruby
-3. What are these?
-  * GET, POST, DELETE, PUT
-  1. Database operations
-  2. Common language commands
-  3. HTTP request methods
-  4. Part of the OpenAPI spec
-4. What is the difference between virtualisation and containerisation?
-  * Virtualisation is simulating an entire machine, Containerisation is an isolated environment managed by the kernel
-  * Virtualisation is the emulation of an operating system, Containerisation is a virtual system
-  * Virtualisation runs inside another process, Containerisation is running on the host
-  * Virtualisation runs on your local machine, Containerisation runs remotely
-5. What is an event loop?
-  1. A `while` loop
-  2. A core game/ui loop that process's each frame in realtime
-  3. A technique for handling user input efficiently at a low level
-  4. A way for single threaded languages to mimic/utilise concurrency
-6. Which of these are _functional_ languages
-  1. PureScript
-  2. TypeScript
-  3. C#
-  4. Haskell
-  5. Elm
-  6. Prolog
-  7. Java
-
-
-
-Notional machine of how twitter works?
 
 
 Other courses
@@ -506,7 +452,7 @@ Testing.
       1. Writeup justification
       2. OpenAPI + Tests + Containers
     2. What level 6 means
-    3. How do you alayise a framework (explicit)
+    3. How do you analyse a framework (explicit)
     4. Languages
     5. Frameworks
     6. Tests
@@ -521,11 +467,15 @@ Testing.
   3. Homework: 
 * Week 2 (Online) 2	04/10/2021: Languages
   1. Historical
-  2. Static/Dynamic/Functional
+  2. Static/Dynamic/Functional / Visual
+    1. meta (can write/alter itself), garbage collection, interpreted, embeddable, hybryd (partially compiled), concurrentcy, macro (text subsitution), multiparadime, reflection, repl, c-bindings, large number abstraction, Error handling
+    2. https://en.wikipedia.org/wiki/List_of_programming_languages_by_type
+    3. see mapOfComputing for evluation critera link
   3. Event loop, deployment, channels/concurrency
-  4. Employment, fads
-  5. Use containers to run language code
-  6. Homework: Investigate a language to present next time
+  4. Decorators, pattern matching
+  5. Employment, fads
+  6. Use containers to run language code
+  7. Homework: Investigate a language to present next time
 * Week 3 (Campus) 11/10/2021: Server Frameworks
   7.  History
     1. cgi-bin
