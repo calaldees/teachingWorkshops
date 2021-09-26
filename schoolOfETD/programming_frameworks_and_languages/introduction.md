@@ -1,5 +1,11 @@
-Introduction
+* Introduction (2 hours) 10:00 to 12:00
+* IDE + Containers (2 hours) 13:00 to 15:00
+
+Introduction (2 hours)
 ============
+
+* Learning Objectives
+  * Understand the module content and assessment content
 
 Who am I?
 ---------
@@ -14,6 +20,11 @@ Who am I?
 * 3 years Lecturer in Education (teacher training)
 * Now - Lecturer in Computing
 
+* Side projects
+  * DMX Stage lighting and projectior sys (with 3d stage visualiser)
+  * Karaoke System for mobile phones
+  * Lots of other rubbish
+
 
 New Module
 ----------
@@ -26,6 +37,12 @@ New Module
 Module Overview
 ---------------
 
+<sub>Hint: Take notes .... seriously! ... get a notepad, or open a text document. Get ready!</sub>
+
+TASK: (10min) 
+* Find - the module handbook - read
+* Whiteboard - What do you think is in this module?
+
 ## Module Aims
 To develop the student’s understanding of the fundamental concepts of Programming Frameworks and Languages. 
 This module supports the Implement and Operate elements of the CDIO model.
@@ -36,7 +53,7 @@ By the end of the module students should be able to:
 2. Critically evaluate the effectiveness of a particular framework for an application and platform
 3. Synthesise a small digital artefact using a well-formed programming framework
 
-Whiteboard in half:
+Whiteboard in half: words to describe
 * What is a [programming language](https://en.wikipedia.org/wiki/Programming_language)?
 * What is a [software framework](https://en.wikipedia.org/wiki/Software_framework)?
 
@@ -45,22 +62,31 @@ The sign of an armature:
 This module will help develop an important part of your professional skill-set: 
 > The ability to discuss and reason about technology choices
 
+* Language
+  * A formal structure to describe machine behaviour
+* Framework
+  * Inversion of control
+    * It calls you, rather than you call it
+
 ### How will we learn
 
 1. Focus on a business engineering problem with real industry tools
     * Hand on each week with a range of tools
 2. Discussion
     * Real researchers and engineers can discuss/reason about technology
+    * (Hack time, coffee-area chat)
 
 #### Level 6
 * Level 4 - You are told what to do
 * Level 5 - Supported developing competency in a range of problem domains
 * Level 6 - You are able to self direct
 
-My role is NOT to have all the answers. 
-My role is to facilitate your transition towards a skilled professional.
+* My role is NOT to have all the answers. 
+* My role is to facilitate your transition towards a skilled professional.
 
-#### Online/Campus
+#### Session Overview - Online/Campus
+
+Task: Look on blackboard at session list
 
 * 2 weeks online
     * Blackboard
@@ -69,26 +95,98 @@ My role is to facilitate your transition towards a skilled professional.
     * 14:00 - 18:00 (optional lab support)
 
 
-Assessment
-----------
+Assessment Demo
+----------------
 
-Web Framework
+* Demo: The simple app
 
-DEMO: The simple program
+* Implement Web App
+  * Server Framework (data api service)
+  * Client Framework (browser app logic)
+  * Client Layout Framework (styles + visuals)
 
 
 * Set 27/09/2021
 * Assignment 1 01/11/2021
 * Assignment 2 10/01/2022
 
+* GitPod + containers
+* OpenAPI Spec
 
-Starting point
---------------
+| Assignment | Section | Marks (Total 100) |
+|---|--------------------------------|---:|
+| 1 | Critique of prototype          |  7 |
+| 1 | Server framework justification | 15 |
+| 1 | Client framework justification | 15 |
+| 1 | Roadmap                        |  3 |
+| 2 | Server implementation          | 21 |
+| 2 | Server documentation           |  4 |
+| 2 | Client implementation          | 21 |
+| 2 | Client documentation           |  4 |
+| 2 | Visual usability               | 10 |
+
+
+
+### Run it yourself (1 hour)
+
+* Demo: (15min)
+* Task: (30min)
+* QA
+
+<sub>Seriously ... make notes ... </sub>
+
+Demo:
+* Fork
+* The IDE
+* The Interaction (public port)
+* The tests
+
+
+1. Fork and run the project on GitPod
+2. Add an item with the web interface
+3. Run the tests
+
+
+### Public Repo?
+* Will confer with course directors
+
+
+
+
+Starting point Quiz (15min)
+-------------------
 
 How much do you as a class know already?
+(They are deliberately challenging questions)
 
 https://b.socrative.com/login/student/
 CALLAGHAN1818
+
+
+
+Development Environment + Containers (2 hours)
+====================================
+
+<sub>Seriously ... take notes ... </sub>
+
+* Learning Objective
+  * Build Fundamental Skills
+    * Setup new GitPod environment bound to new repo
+    * Understand how to Build a container
+      * Starting layer
+      * Layers and Cache
+      * Entrypoint
+    * Understand how to Run a container
+      * Ports
+      * Volume mounts
+      * Clean container state
+    * Commit via commandline
+    * Orchestrate multiple containers
+
+
+
+
+
 
 ---
 
