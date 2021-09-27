@@ -1,57 +1,41 @@
-# Academic Writing
-
-### Terminology
-
-* [Ontology](https://en.wikipedia.org/wiki/Ontology_(information_science))
-    * > formal naming and definition of the categories, properties and relations between the concepts
-    * Ontological argument
-        * Should number base's (base 2, binary) be in Mathematics rather than Computer Science?
-        * Platypus? Mammal that lays eggs
-* [Epistemology](https://en.wikipedia.org/wiki/Epistemology)
-    * The theory/nature of knowledge
-        * arrived at independent of experience (e.g. through logic - rationalist, intuition - non-rational)
-        * empirical (verifiable by observation), or arrived at through experience
-* [Autoethnography](https://en.wikipedia.org/wiki/Autoethnography)
-    * a form of qualitative research in which an author uses self-reflection and writing to explore anecdotal and personal experience and connect this autobiographical story to wider cultural, political, and social meanings and understandings
-    * > autoethnographers are themselves the primary participant/subject of the research
+Academic Writing
+================
 
 
+## Comedy enactment to convey academic writing
 
-### Comedy enactment to convey synthesis and reflective models
-
-"I think that;"
-<BUZZER>Citation needed
-"What the!? It's my own thought"
-<BUZZER>Untrustworthy source
-"Can't I express even a little bit of my opinion?"
-<BUZZER>Only via synthesis
-"Sythe-what?"
-<BUZZER>Summarise a range of conflicting (pier reviewed) sources to identify the gaps or uncertainties between them and suggest synthesised/informed alternative
-"You mean I have to read a lot"
-<BUZZER>Yes
-"But I can reflect on my own experience and write about that right?"
-<BUZZER>No. You are not allowed to have free-form thought (unless it's structured though a known documented reflection process)
-"That's restrictive"
-<BUZZER>
-"Why do you keep using the buzzer?"
-<BUZZER>Because I am the voice of truth and reason
-"Citation needed"
-<BUZZER>**** you!
+* "I think that;"
+* `<BUZZER>` Citation needed
+* "What the!? It's my own thought"
+* `<BUZZER>` Untrustworthy source
+* "Can't I express even a little bit of my opinion?"
+* `<BUZZER>` Only via synthesis
+* "Sythe-what?"
+* `<BUZZER>` Summarise a range of conflicting (pier reviewed) sources to identify the gaps or uncertainties between them and suggest synthesised/informed alternative
+* "You mean I have to read a lot"
+* `<BUZZER>` Yes
+* "But I can reflect on my own experience and write about that right?"
+* `<BUZZER>` No. You academic writing has to be structured. Free-form rambling thoughts are not academic. You should use structured reflective models to reflect on your experiences
+* "That's restrictive. I just want to think"
+* `<BUZZER>`
+* "Why do you keep using the buzzer?"
+* `<BUZZER>`Because I am the voice of truth and reason
+* "Citation needed"
+* `<BUZZER>` **** you!
 
 
 
 
+### Academic Writing Tips
 
-> Provide specific examples to support claims, retaining an evaluative rather than emotive stance. Avoid hyperbole such as ‘incredibly creative’ unless you can provide specific evidence to support the statement.
+* Provide specific examples to support claims, retaining an evaluative rather than emotive stance. Avoid hyperbole such as ‘incredibly creative’ unless you can provide specific evidence to support the statement.
+* Unpick the references you draw on to make them fully work for your developing argument.
+* Show you are aware of context and limitations of the sources you use
+* You are writing this for other masters level Computing teachers to read. Your audience are already domain experts. Use a single sentence + reference to set context. (refer to pre-existing codified knowledge)
 
-> Unpick the references you draw on to make them fully work for your developing argument.
-
-
-You are writing this for other masters level Computing teachers to read. Your audience are already domain experts. Use a single sentence + reference to set context.
 
 State, Claim, Argues, Hypothesises
-
-Narriative, journy, headings 
+Narrative, journey, headings 
 
 * Formal language
     * Don't use phrases like 'hatred of learning'
@@ -61,21 +45,34 @@ Narriative, journy, headings
     * [Software Piracy and IP Management Practices](https://poseidon01.ssrn.com/delivery.php?ID=243069124094101103021085097112118007000076081034060007022064070097005097122019080119005102039099016121119028123080104065077099020045006069064005106095014093067124076040065013111093116024010121086025114123116014006090098067005066115075071007006126022085&EXT=pdf&INDEX=TRUE)
         * Read Section 2 - pg5 to pg8
         * Notice how each statement refers to peer reviewed theory
+        * (this is professional level but) Look at the density of referencing
 
-* References
-    * Harvard
+
+Referencing
+-----------
+
+* Harvard
+    * OpenUniversity: [Quick guide to Harvard referencing (Cite Them Right)](https://www.open.ac.uk/library/help-and-support/quick-guide-to-harvard-referencing-cite-them-right)
     * https://www.mybib.com/
+
 
 Assignment
 ----------
 
+TASK: Read the Assignment from last year (CAUTION! This may change)
+Start to consider areas of focus
+
 * [(Old) Assignment Brief Subject Pedagogy 2020-21.docx](https://learn.canterbury.ac.uk/bbcswebdav/pid-3204960-dt-content-rid-4570592_1/xid-4570592_1)
     * 2000 Word literature review on Computing Subject Pedagogy
 
+I am genuinely interested in the reading you are about to do. Teach me something about Computing pedagogy.
+
+* Due Monday 15th November 2021 14:00 - 7 weeks from now
 
 Proposal for Literature Review
 ------------------------------
 
+* In SP5 - I will ask
 * A tool with questions to help you think about project proposals
 * [Subject Pedagogy Research Proposal: Microsoft Form](https://forms.office.com/Pages/DesignPage.aspx?lang=en-GB&origin=OfficeDotCom&route=Start#FormId=2rIgA90iq02MIW5kS6FPE4bZosdBzY5AvRurHpjUivVUQ0JRMFNOREUwNlBTVkxLREQ5UDFQVDVaRC4u)
     * Area of the investigation - Keep this quite broad
@@ -129,6 +126,13 @@ You will be given a marking grid
     * Example search [Computing Education](https://ulms.ent.sirsidynix.net.uk/client/en_GB/CCCU/search/results?qu=computing+education&te=&ir=Both) - 58699 Results Found 
         * "Identifying embodied metaphors for computing education" (show example of access the journal)
 
+### Tips: How to find material
+
+One of the main tips I can give for research is find the names of the big players in an area and 
+1.) Look at the other work they have done. It will probably be in a similar area.
+2.) Follow their references. What previous research are they inspired by and building on.
+3.) Some online services show links/references to papers that reference the one you are reading. This is great to help you find more recent sources that build on a seminal paper/topic.
+
 
 
 Education Research
@@ -138,15 +142,6 @@ Education Research
     * Yuja CCCU internal video
 * [Aims and Objectives – A Guide for Academic Writing](https://www.discoverphds.com/advice/doing/research-aims-and-objectives)
 
----
-
-One of the main tips I can give for research is find the names of the big players in an area and 
-1.) Look at the other work they have done. It will probably be in a similar area.
-2.) Follow their references. What previous research are they inspired by and building on.
-3.) Some online services show links/references to papers that reference the one you are reading. This is great to help you find more recent sources that build on a seminal paper/topic.
-
-
----
 
 Content
 Identify relevant issues that justify your choice of research. Refer to current literature, research and policy (search for ‘critique of…’ to check any key theories are relevant that underpin your study).
@@ -210,7 +205,7 @@ People misinterperit it - critique
 
 ---
 
-* Show you are aware of context and limitations of the sources you use
+
 
 * Critical evaluation - say why
     * Why choose methodology

@@ -227,6 +227,7 @@ Friday 15th October - 11:00
 * Notional machine
 
 * Task: (PGCE Only) Prepare for Microteaching SP7
+* Subject Pedagogy Research Proposal: Microsoft Form
 
 ### EP7/GP3
 Thursday 21st October - 18:00
