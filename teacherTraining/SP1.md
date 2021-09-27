@@ -79,20 +79,6 @@ Primary->Secondary->Uni->Carear1Employment1->Carear2Employment2->Retraining->Car
 * Linux?
 
 
-### Lighthouse statement
-
-You've made a lighthouse statement about _who you are_ and _why you want to teach_.
-I made a lighthouse statement at the start of my teacher training PGCE.
-I read it back at the end of my PGCE year.
-I could not identify with it.
-It was some words that babaled about _making a difference_. It was unstructured idealist nonsense.
-I could not believe how much the year had changed me.
-
-This year will change you.
-
-> When you learn something, you are permanently changed.
-<sub>David Didau</sub>
-
 #### You will outgrow my support
 
 Right now I might look to you like some super-human teaching deity. By the end of this course you will feel completely differently. I'm just some dude doing a job I like. By the end of this year you will have outgrown the support I can give you. At the celebration day at the end of the course we will just be a bunch of professionals sitting around and talking about education.
@@ -108,6 +94,40 @@ Right now I might look to you like some super-human teaching deity. By the end o
     * What is one specific thing you believe about teaching and learning?
 
 TASK: answer the questions above - save them safely - I will hear some of your points, but we are not going to debate them here - we will reflect on these at the end of the course
+
+
+Unused
+======
+
+
+### Strands
+
+1. Criticality
+    * conflict - alternate view - sources of information
+2. Creativity
+    * Can we teach concepts of computing with playdough?
+3. Inclusion
+    * Catering for everybody (not just a subset of society)
+4. Subject Knowledge
+    * Passion and Skill
+
+
+
+### Lighthouse statement
+
+You've made a lighthouse statement about _who you are_ and _why you want to teach_.
+I made a lighthouse statement at the start of my teacher training PGCE.
+I read it back at the end of my PGCE year.
+I could not identify with it.
+It was some words that babaled about _making a difference_. It was unstructured idealist nonsense.
+I could not believe how much the year had changed me.
+
+This year will change you.
+
+> When you learn something, you are permanently changed.
+<sub>David Didau</sub>
+
+
 
 Why Teach Computing? (5min)
 -------------------

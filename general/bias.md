@@ -17,7 +17,7 @@ TASK 2: Compare your list to these lists
 ![Cognative Bias Codex](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg) 
 from [designhacks.co](https://designhacks.co/)
 
-Survivorship bias - the ones that survive tell the story and give advice - the ones that don't survive dont
+Survivorship bias - the ones that survive tell the story and give advice - the ones that don't survive don't
 
 Logical Fallacies
 =================
@@ -29,7 +29,12 @@ Logical Fallacies
 https://www.schoolofthought.org/
 
 
+Other
+=====
+
+
 * [20 months in, 2K hours spent and 200K € lost. A story about resilience and the sunk cost fallacy](https://dsebastien.medium.com/20-months-in-2k-hours-spent-and-200k-lost-a-story-about-resilience-and-the-sunk-cost-fallacy-69fd4f61ef59)
+    * > TL;DR: It can be really hard to know if we’re just resilient or falling for the sunk cost fallacy.
     * Startups, burnout, context switching
 
 
@@ -45,4 +50,5 @@ https://www.schoolofthought.org/
     * Anecdotal evidence
         * > This is a difficult discussion to have. I think that another reason that we keep returning to the same controversies is that we mostly rely on anecdotal evidence. As we progress through our careers, we observe what works and what doesn't, but it's likely that confirmation bias makes us remember the results that we already favour, whereas we conveniently forget about the outcomes that don't fit our preferred narrative.
         * > Could we settle these discussions with more science? Alas, that's difficult.
-        * > I can't think of anything better, then, than keep having the same discussions over and over. I try hard to overcome my biases to understand the other side, and now and then, I learn something that I find illuminating. It doesn't seem to be a particularly efficient way to address these difficult questions, but I don't know what else to do. What's the alternative to discussion? To not discuss? To not exchange ideas? That seems worse. 
+        * > I can't think of anything better, then, than keep having the same discussions over and over. I try hard to overcome my biases to understand the other side, and now and then, I learn something that I find illuminating. It doesn't seem to be a particularly efficient way to address these difficult questions, but I don't know what else to do. What's the alternative to discussion? To not discuss? To not exchange ideas? That seems worse.
+

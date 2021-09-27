@@ -156,6 +156,11 @@ Assessment Demo
 * https://gitpod.io/ create account with GutHub login
 * https://gitpod.io/#https://github.com/calaldees/frameworks_and_languages_module
 
+* Signup to GitPod
+  * DO NOT use `vscode-latest` it's broken
+  * GitPod -> Stop Container !important
+  * GitPod -> Color Theme -> Dark+ (recommended)
+
 Demo:
 * Fork (description)
 * The IDE

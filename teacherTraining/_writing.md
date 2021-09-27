@@ -1,5 +1,22 @@
 # Academic Writing
 
+### Terminology
+
+* [Ontology](https://en.wikipedia.org/wiki/Ontology_(information_science))
+    * > formal naming and definition of the categories, properties and relations between the concepts
+    * Ontological argument
+        * Should number base's (base 2, binary) be in Mathematics rather than Computer Science?
+        * Platypus? Mammal that lays eggs
+* [Epistemology](https://en.wikipedia.org/wiki/Epistemology)
+    * The theory/nature of knowledge
+        * arrived at independent of experience (e.g. through logic - rationalist, intuition - non-rational)
+        * empirical (verifiable by observation), or arrived at through experience
+* [Autoethnography](https://en.wikipedia.org/wiki/Autoethnography)
+    * a form of qualitative research in which an author uses self-reflection and writing to explore anecdotal and personal experience and connect this autobiographical story to wider cultural, political, and social meanings and understandings
+    * > autoethnographers are themselves the primary participant/subject of the research
+
+
+
 ### Comedy enactment to convey synthesis and reflective models
 
 "I think that;"
@@ -38,21 +55,88 @@ Narriative, journy, headings
 
 * Formal language
     * Don't use phrases like 'hatred of learning'
-    * Low ability (don't ever use the term ability. Use them term low attainment)
+    * Low ability (don't ever use the phrase. Use 'low attainment')
 
-* Literature Review (example)
+* Literature Review (example from another domain)
     * [Software Piracy and IP Management Practices](https://poseidon01.ssrn.com/delivery.php?ID=243069124094101103021085097112118007000076081034060007022064070097005097122019080119005102039099016121119028123080104065077099020045006069064005106095014093067124076040065013111093116024010121086025114123116014006090098067005066115075071007006126022085&EXT=pdf&INDEX=TRUE)
         * Read Section 2 - pg5 to pg8
-    * Notice how each statement refers to peer reviewed theory
+        * Notice how each statement refers to peer reviewed theory
 
 * References
     * Harvard
     * https://www.mybib.com/
 
----
+Assignment
+----------
 
-* [Moving from Level 6 to Level 7](https://cccu.yuja.com/V/Video?v=64503&node=291431&a=237116047&autoplay=1)
+* [(Old) Assignment Brief Subject Pedagogy 2020-21.docx](https://learn.canterbury.ac.uk/bbcswebdav/pid-3204960-dt-content-rid-4570592_1/xid-4570592_1)
+    * 2000 Word literature review on Computing Subject Pedagogy
+
+
+Proposal for Literature Review
+------------------------------
+
+* A tool with questions to help you think about project proposals
+* [Subject Pedagogy Research Proposal: Microsoft Form](https://forms.office.com/Pages/DesignPage.aspx?lang=en-GB&origin=OfficeDotCom&route=Start#FormId=2rIgA90iq02MIW5kS6FPE4bZosdBzY5AvRurHpjUivVUQ0JRMFNOREUwNlBTVkxLREQ5UDFQVDVaRC4u)
+    * Area of the investigation - Keep this quite broad
+    * Key reading related to the area - Outline at least three or four key texts that you have looked at for this. Ideally, this should include specific research articles
+    * Focus of the area of enquiry/specific research question - What is the precise question or key issue that you wish to explore? Can you phrase it as a research question?
+    * Possible ethical issues - The key ethical issues are informed consent, protection of children, anonymity and confidentiality, and payment of research participants. In the case of a literature review, as you are only using secondary data and that there are no participants involved, ethical clearance is not required. However, it is good practice to make a general statement to show that you have considered ethics in light of the research you are carrying out.
+
+
+
+### National qualifications framework
+
+* [NQF: National qualifications frameworks in the United Kingdom](https://en.wikipedia.org/wiki/National_qualifications_frameworks_in_the_United_Kingdom)
+    * [FHEQ: Frameworks for Higher Education Qualifications of UK Degree-Awarding Bodies](https://www.qaa.ac.uk/docs/qaa/quality-code/qualifications-frameworks.pdf)
+    * [seec](https://seec.org.uk/resources/)
+* FHEQ Levels
+    * Level 8 (PhD)
+    * Level 7 (Masters)
+    * Level 6 (BSc Hons, PGCE)
+    * Level 5 (Foundation Degree)
+    * Level 3 (ALevel)
+    * Level 2 (GCSE grade 4-9 A->C)
+    * Level 1 (GCSE grade 1-3 D->G)
+    * Entrylevel (pre-gcse)
+
+### Levels (oversimplification)
+
+* Level 6
+    * You reflect and refer to a few sources (books) from educational theory
+* Level 7
+    * You reflect critically to recent journals from an international context from relevant educational theory
+
+You will be given a marking grid
+
+
+### [TurnItIn](https://www.turnitin.com/regions/uk)
+
+> Ensure academic integrity through plagiarism prevention by fostering critical thinking and help students self-identify and correct issues with their paraphrasing and citations. 
+>
+> Streamline the feedback process and help to develop students' academic writing by allowing instructors to quickly provide formative feedback beyond a simple mark or grade.
+
+* Draft Submissions - See BlackBoard
+* [Similarity Report](https://learn.canterbury.ac.uk/bbcswebdav/pid-822284-dt-content-rid-1590521_1/orgs/OCCLTE2014TELSUPPORT/Turnitin%20Guidance/Students/Turnitin%20-%20Similarity%20Reports%20-%20Accessing%20and%20Interpreting%20your%20Similarity%20Report.pdf) example
+    * Every essay submitted across the country
+    * Every published journal (don't quote large chunks, write your own interpretation)
+
+
+### Use of the Library
+
+* [CCCU Library Augustine House](https://www.canterbury.ac.uk/current-students/library/borrowing-returning-and-reservations)
+* [CCCU Library Search](https://ulms.ent.sirsidynix.net.uk/client/en_GB/CCCU)
+    * Example search [Computing Education](https://ulms.ent.sirsidynix.net.uk/client/en_GB/CCCU/search/results?qu=computing+education&te=&ir=Both) - 58699 Results Found 
+        * "Identifying embodied metaphors for computing education" (show example of access the journal)
+
+
+
+Education Research
+------------------
+
+* [Education Research Projects: Moving from Level 6 to Level 7](https://cccu.yuja.com/V/Video?v=64503&node=291431&a=237116047&autoplay=1)
     * Yuja CCCU internal video
+* [Aims and Objectives – A Guide for Academic Writing](https://www.discoverphds.com/advice/doing/research-aims-and-objectives)
 
 ---
 
@@ -133,4 +217,3 @@ People misinterperit it - critique
     * Why use source
     * Why 
 
-* [Aims and Objectives – A Guide for Academic Writing](https://www.discoverphds.com/advice/doing/research-aims-and-objectives)

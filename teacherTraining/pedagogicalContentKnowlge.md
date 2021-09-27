@@ -1,3 +1,32 @@
+Pedagogical Content Knowledge
+=============================
+
+* What is Computer Science specific pedagogy and how is it defined in subject research?
+* Differences between _subject knowledge_ and _subject pedagogy_
+* Introduction to Shulman’s SK and PCK theory – an example of theory used in educational research and practice
+    * Identifying conceptions of SK and PCK and own development
+
+
+
+* National Curriculum
+    * > high-quality computing education equips pupils to use computational thinking and creativity to understand and change the world
+    * > able to use, and express themselves and develop their ideas through, information and communication technology
+
+https://teachcomputing.org/pedagogy
+
+* [Pedagogy in teaching Computer Science in schools: A Literature Review](https://royalsociety.org/~/media/policy/projects/computing-education/literature-review-pedagogy-in-teaching.pdf) 2017 Jane Waite QMUL + Kings College London
+    * See Figure 1 pg 8 for map
+
+* [You Can’t Think About Thinking Without Thinking About Thinking About Something](https://www.citejournal.org/wp-content/uploads/2016/04/v5i3seminal4.pdf) Seymour Papert MIT 2005 (author of Mindstorms 1980)
+    * > the child could be in charge of the machine not the machine in charge of the child by offering what was the a new image of children using computers as tools for creativity
+    * > The idea that “teaching thinking” is appropriate in elementary school does have some antecedents but in 1970 it was certainly not current in the mainstream of American education circles
+        * Abstraction, Decomposition
+
+* [What makes great pedagogy? Nine claims from research](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/329746/what-makes-great-pedagogy-nine-claims-from-research.pdf) 2012 - Chris Husbands and Jo Pearce - National College for School Leadership
+
+
+* [Pedagogical content knowledge in computing education: a review of the research literature](https://www.tandfonline.com/doi/full/10.1080/08993408.2018.1509580) 2018 Aleata Hubbard
+    * > they remind us that PCK does not exist or operate in isolation by calling our attention to the influence of an individual’s beliefs and motivations
 
 
 Magnusson et al. (1999)
@@ -90,28 +119,5 @@ I'm not sure this would help workload. Geography teachers are great at uploading
 
 
 
-### Your development phases
-
-* Unconscious incompetence
-* Concious incompetence
-* Concious competence
-* Unconscious competence
-
-1. Early idealism
-2. Personal survival
-3. Dealing with difficulties
-4. Hitting a plateau
-5. Moving on
-
-### Strands
-
-1. Criticality
-    * conflict - alternate view - sources of information
-2. Creativity
-    * Can we teach concepts of computing with playdough?
-3. Inclusion
-    * Catering for everybody (not just a subset of society)
-4. Subject Knowledge
-    * Passion and Skill
 
 
