@@ -18,6 +18,9 @@ https://teachcomputing.org/pedagogy
 * [Pedagogy in teaching Computer Science in schools: A Literature Review](https://royalsociety.org/~/media/policy/projects/computing-education/literature-review-pedagogy-in-teaching.pdf) 2017 Jane Waite QMUL + Kings College London
     * See Figure 1 pg 8 for map
     * Breifly describe Unplugged and Physical (makeymakey.org?)
+* [Pedagogical content knowledge in computing education: a review of the research literature](https://www.tandfonline.com/doi/full/10.1080/08993408.2018.1509580) 2018 Aleata Hubbard
+    * More about computing PCK - Good historical
+    * > they remind us that PCK does not exist or operate in isolation by calling our attention to the influence of an individual’s beliefs and motivations
 
 * [You Can’t Think About Thinking Without Thinking About Thinking About Something](https://www.citejournal.org/wp-content/uploads/2016/04/v5i3seminal4.pdf) Seymour Papert MIT 2005 (author of Mindstorms 1980)
     * > the child could be in charge of the machine not the machine in charge of the child by offering what was the a new image of children using computers as tools for creativity
@@ -32,8 +35,6 @@ General Pedagogy
 * [What makes great pedagogy? Nine claims from research](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/329746/what-makes-great-pedagogy-nine-claims-from-research.pdf) 2012 - Chris Husbands and Jo Pearce - National College for School Leadership
 
 
-* [Pedagogical content knowledge in computing education: a review of the research literature](https://www.tandfonline.com/doi/full/10.1080/08993408.2018.1509580) 2018 Aleata Hubbard
-    * > they remind us that PCK does not exist or operate in isolation by calling our attention to the influence of an individual’s beliefs and motivations
 
 
 Magnusson et al. (1999)
