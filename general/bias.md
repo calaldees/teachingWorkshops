@@ -28,12 +28,14 @@ Logical Fallacies
 * [logicalfallacies.org](https://www.logicalfallacies.org/)
     * A misconception resulting from flaw in reasoning, or a trick or illusion in thoughts that often succeeds in obfuscating facts/truth.
 
-https://www.schoolofthought.org/
+* https://www.schoolofthought.org/
+    * Posters for bias and fallacies
+
+Meta Question: How will these fit into your Computing teaching? (if at all?) What can we do with this knowledge?
 
 
-Other
-=====
-
+Observations from others
+========================
 
 * [20 months in, 2K hours spent and 200K € lost. A story about resilience and the sunk cost fallacy](https://dsebastien.medium.com/20-months-in-2k-hours-spent-and-200k-lost-a-story-about-resilience-and-the-sunk-cost-fallacy-69fd4f61ef59)
     * > TL;DR: It can be really hard to know if we’re just resilient or falling for the sunk cost fallacy.

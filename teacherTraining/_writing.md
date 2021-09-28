@@ -32,6 +32,8 @@ Academic Writing
 * Unpick the references you draw on to make them fully work for your developing argument.
 * Show you are aware of context and limitations of the sources you use
 * You are writing this for other masters level Computing teachers to read. Your audience are already domain experts. Use a single sentence + reference to set context. (refer to pre-existing codified knowledge)
+* Recent references carry more weight (Especially in Computing Education)
+    * The world has changed since 1990, since 2010, etc ..
 
 
 State, Claim, Argues, Hypothesises
@@ -129,9 +131,9 @@ You will be given a marking grid
 ### Tips: How to find material
 
 One of the main tips I can give for research is find the names of the big players in an area and 
-1.) Look at the other work they have done. It will probably be in a similar area.
-2.) Follow their references. What previous research are they inspired by and building on.
-3.) Some online services show links/references to papers that reference the one you are reading. This is great to help you find more recent sources that build on a seminal paper/topic.
+1. Look at the other work they have done. It will probably be in a similar area.
+2. Follow their references. What previous research are they inspired by and building on.
+3. Some online services show links/references to papers that reference the one you are reading. This is great to help you find more recent sources that build on a seminal paper/topic.
 
 
 

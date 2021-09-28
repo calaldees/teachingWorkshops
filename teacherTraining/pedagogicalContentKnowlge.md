@@ -6,7 +6,8 @@ Pedagogical Content Knowledge
 * Introduction to Shulman’s SK and PCK theory – an example of theory used in educational research and practice
     * Identifying conceptions of SK and PCK and own development
 
-
+What is Computer Science Pedagogy
+---------------------------------
 
 * National Curriculum
     * > high-quality computing education equips pupils to use computational thinking and creativity to understand and change the world
@@ -16,11 +17,17 @@ https://teachcomputing.org/pedagogy
 
 * [Pedagogy in teaching Computer Science in schools: A Literature Review](https://royalsociety.org/~/media/policy/projects/computing-education/literature-review-pedagogy-in-teaching.pdf) 2017 Jane Waite QMUL + Kings College London
     * See Figure 1 pg 8 for map
+    * Breifly describe Unplugged and Physical (makeymakey.org?)
 
 * [You Can’t Think About Thinking Without Thinking About Thinking About Something](https://www.citejournal.org/wp-content/uploads/2016/04/v5i3seminal4.pdf) Seymour Papert MIT 2005 (author of Mindstorms 1980)
     * > the child could be in charge of the machine not the machine in charge of the child by offering what was the a new image of children using computers as tools for creativity
     * > The idea that “teaching thinking” is appropriate in elementary school does have some antecedents but in 1970 it was certainly not current in the mainstream of American education circles
         * Abstraction, Decomposition
+
+
+General Pedagogy
+----------------
+
 
 * [What makes great pedagogy? Nine claims from research](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/329746/what-makes-great-pedagogy-nine-claims-from-research.pdf) 2012 - Chris Husbands and Jo Pearce - National College for School Leadership
 
@@ -36,21 +43,43 @@ Magnusson et al. (1999)
 * knowledge of ways to assess students’ understanding of this topic (AS)
 combinations of PKC in the form GO-IS
 
-* [Pedagogical Content Knowledge: Teachers' Integration of Subject Matter, Pedagogy, Students, and Learning Environments](https://narst.org/research-matters/pedagogical-content-knowledge) Shulman, 1986
-    * TODO
-* [Those Who Understand: Knowledge Growth in Teaching](https://www.wcu.edu/WebFiles/PDFs/Shulman.pdf)
-    * TODO
+
+* [Teacher pedagogical constructions: A reconfiguration of pedagogical content knowledge](https://www.researchgate.net/publication/289963334_Teacher_pedagogical_constructions_A_reconfiguration_of_pedagogical_content_knowledge) Hashweh 2005 [ResearchGate](https://www.researchgate.net/publication/289963334_Teacher_pedagogical_constructions_A_reconfiguration_of_pedagogical_content_knowledge)
+    * pg 6
+        1. PCK represents personal and private knowledge.
+        2. PCK is a collection of basic units called teacher pedagogical constructions.
+        3. Teacher  pedagogical  constructions  result  mainly  from  planning,  but  also  from
+        the interactive and post-active phases of teaching.
+        1. Pedagogical constructions result from an inventive process that is influenced by
+        the interaction of knowledge and beliefs from different categories.
+        1. Pedagogical constructions constitute both a generalized event-based and a story-
+        based kind of memory.
+        1. Pedagogical constructions are topic specific.
+        2. Pedagogical constructions are (or ideally should be) labeled in multiple interest-
+        ing  ways  that  connect  them  to  other  categories  and  subcategories  of  teacher
+        knowledge and beliefs.
+    * Teacher pedagogical constructions develop through experience (pg 7 examples)
+    * See Figure 2 - pg11
+        * TODO Mermaid diagram
+
+
+
+Let's attempt to build TPACK
+----------------------------
+
+This is going to be hard ...
 
 * [Self-reported technological pedagogical content knowledge (TPACK) of pre-service teachers in relation to digital technology use in lesson plans](https://www.sciencedirect.com/science/article/pii/S0747563220303332) Mirjam Schmid Eliana Brianza, Dominik Petko 2021
-    * Technological Pedagogical Content Knowledge (TPACK; Koehler & Mishra, 2008; Mishra & Koehler, 2006) is probably the most prominent model of teacher expertise regarding the educational use of digital technologies 
+    * Technological Pedagogical Content Knowledge (TPACK; Koehler & Mishra, 2008; Mishra & Koehler, 2006) is probably the most prominent model of teacher expertise regarding the educational use of digital technologies
+        * [Technological Pedagogical Content Knowledge: A Framework for Teacher Knowledge](https://d1wqtxts1xzle7.cloudfront.net/38568379/mishra_koehler_2006-with-cover-page-v2.pdf?Expires=1632810628&Signature=UHvKBN~VKVKNxBafpcHenWUAzCPpBvgtK0sdz5wjzufxdZODdJDVrJt1jko5zV5sWjUsEbla6FfAf6g~ErS4nPs~H~NfA2klC~Z~Yqwt5FHlOrsRInWBHDnNAH9RWN8JCs-UEMHwX6~WvX8LVVBxlcH~izmK5vD-6LxD5tcAXXCPfUmGsM5rRulaMTem0Uj2YG86oA7L423acSoLZvSj3kQb5dakSKl3nzgZEDfUWivRL-EbM-Tg8tZqQO85ccsowS-Hm3oVny7eLln~IJDvr9E00eVhR~3PalvwjHbHZDwUIx1zUch3sdxO4FN2yY4AGEUicbGOc9vQAge~dtK3qw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) Matthew J Koehler 2008
     * Knowledge framework proposed by Shulman (1986, 1987), teachers need to combine different knowledge dimensions to effectively teach with technology. These include the three core components of 
         * pedagogical knowledge (PK)
         * content knowledge (CK)
         * technological knowledge (TK)
     * In addition, there are three first level hybrid components formed at their intersections, namely 
-        * pedagogical content knowledge (PCK), 
-        * technological pedagogical knowledge (TPK), 
-        * technological content knowledge (TCK). 
+        * pedagogical content knowledge (PCK),
+        * technological pedagogical knowledge (TPK),
+        * technological content knowledge (TCK).
     * These combine into the second level hybrid component, technological pedagogical content knowledge (TPCK)
     * Existing questionnaires have been criticized regarding the fuzzy, technology-unspecific, and content-agnostic wording of questionnaire items, which ask participants to rate the “appropriateness” of their competencies 
     * self-evaluated knowledge is relative to the extent of a person's knowledge itself.
@@ -58,6 +87,11 @@ combinations of PKC in the form GO-IS
     * Drummond and Sweeney (2017) showed that self-reported TPACK of pre-service teachers revealed only a weak correlation with a more objective, fact-based knowledge test on TPACK
     *  Starkey (2019) points out, TPACK needs to be enacted by three different types of competencies: the ability to use particular technologies as a teacher, the ability to decide which technology to use for a specific teaching purpose, and the ability to guide and support students when learning with digital tools.
     * Krauskopf and Forssell (2018) propose that self-report questionnaires are more likely to measure confidence and self-efficacy with regard to the TPACK domains rather than actual knowledge
+    * [table1](https://www.sciencedirect.com/science/article/pii/S0747563220303332#tbl1)
+
+TASK: Let's build the model as a group
+* For each area, ask "What would I be able to do? What would this look like"
+* Reveal slowly
 
 pk1	I can adapt my teaching based upon what students currently understand or do not understand.
 pk2	I can adapt my teaching style to different learners.
@@ -95,6 +129,8 @@ tpck3	I can choose technologies that enhance the content of a lesson.
 tpck4	I can select technologies to use in my classroom that enhance what I teach, how I teach, and what students learn.
 
 
+How do we develop PCK?
+----------------------
 
 * [Pedagogy by proxy: developing computing PCK through shared lesson resources](https://sure.sunderland.ac.uk/id/eprint/13728/) Hidson, Elizabeth (2021)
     * PCK by proxy
@@ -108,16 +144,37 @@ tpck4	I can select technologies to use in my classroom that enhance what I teach
         * How to repurpose it
         * How to teach with it
 
-https://twitter.com/mikercameron/status/1435123936962940929
-Mike Cameron @mikercameron
-New rule:-
-All materials produced in school are Crown Copyright and must be made available on a public facing website in an editable format.
-If DfE is serious about reducing teacher workload this would do it.
+TASK: Look at ks3 computing books. In pairs select a topic. Ask yourself the questions
+1. What is being taught (surface)
+2. How is it being taught
+3. Why is it being taught like that
 
-Mark Enser @EnserMark
-I'm not sure this would help workload. Geography teachers are great at uploading their resources on to free sharing sites but the time it has taken me to find something I want to use is always more than the time it would take me to produce it myself.
+Key point
+> Lesson resources are missing _pedagogical metadata_
+
+### Cited conversation
+
+* [twitter](https://twitter.com/mikercameron/status/1435123936962940929)
+    * Mike Cameron @mikercameron
+        * > New rule:-
+          > All materials produced in school are Crown Copyright and must be made available on a public facing website in an editable format.
+          > If DfE is serious about reducing teacher workload this would do it.
+    * Mark Enser @EnserMark
+        * > I'm not sure this would help workload. Geography teachers are great at uploading their resources on to free sharing sites but the time it has taken me to find something I want to use is always more than the time it would take me to produce it myself.
+
+### How do we get this lesson metadata?
+
+* [Pedagogical Content Knowledge: Teachers' Integration of Subject Matter, Pedagogy, Students, and Learning Environments](https://narst.org/research-matters/pedagogical-content-knowledge) NARST 1997
+    * Recomendations from Shulman, 1986
+
+TASK: Read the recomendations
+How is Item 3 relevent when you enter school?
+(reminder missing lessonplan metadata)
+What questions would you ask
 
 
+Unsorted
+========
 
-
-
+* [Those Who Understand: Knowledge Growth in Teaching](https://www.wcu.edu/WebFiles/PDFs/Shulman.pdf) Shulman 1986
+    * TODO
