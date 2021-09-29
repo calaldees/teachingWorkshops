@@ -832,6 +832,16 @@ David Andrews
 [EEF: Using Digital Technology to Improve Learning](https://educationendowmentfoundation.org.uk/tools/guidance-reports/using-digital-technology-to-improve-learning/)
 
 
+Gender
+------
+
+* [Female Performance and Participation in Computer Science: A National Picture](https://dl.acm.org/doi/10.1145/3366016) Kemp 2019
+    * > Female participation remains a concern in most jurisdictions, but female attainment in CS is relatively unstudied
+    * > we find that females from the poorest areas were more likely to take CS than those from the richest areas and that CS was more popular among ethnic minority females than white females
+    * > CS females typically got better grades than their male peers. However, when controlling for average attainment in other subjects, males got 0.31 of a grade higher. Female relative underperformance in CS was most acute among large female cohorts and with girls studying in mixed-gender schools
+    * > The move to introduce CS into the English curriculum and the removal of the ICT qualifications look to be having a negative impact on female participation and attainment in computing. Using the theory of self-efficacy, we argue that the shift towards CS might decrease the number of girls choosing further computing qualifications or pursuing computing as a career. Computing curriculum designers and teachers need to carefully consider the inclusive nature of their computing courses.
+* [Why are women underrepresented in Computer Science? Gender differences in stereotypes, self-efficacy, values, and interests and predictors of future CS course-taking and grades](https://www.tandfonline.com/doi/abs/10.1080/08993408.2014.963363) Beyer 2014
+
 
 
 

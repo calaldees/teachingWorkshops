@@ -18,15 +18,22 @@ KSQ 4: What is education?
 
 PGCE: Begin _Collaborative teaching phase_ (CTP). (in school from Monday)
 Set information gathering tasks for SP4
+Rep
 
+Reminders
+---------
+
+* Subject knowledge audit completed + consent form + questionnaire
+* Dress smartly (not trainers, shirt+tie or equivalent)
+* Subject mentor name
 
 
 First school observations
 -------------------------
 
 * How do teachers transition to/from using computers
-* What well displays are in place - are they activly used in lessons?
-* What % of the time are students using computers? is this differnet from differnet year groups?
+* What wall displays are in place - are they actively used in lessons?
+* What % of the time are students using computers? is this different from different year groups?
 
 
 Mentor Website login

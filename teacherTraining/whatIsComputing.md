@@ -53,7 +53,7 @@ What is the National Curriculum? (15min)
 
 The subjects have been chosen by government policy.
 
-* [Curriculum](https://en.wikipedia.org/wiki/Curriculum) Wikipdia
+* [Curriculum](https://en.wikipedia.org/wiki/Curriculum) Wikipedia
     * > Curriculum is broadly defined as the totality of student experiences that occur in the educational process.
     * > The term often refers specifically to a planned sequence of instruction, or to a view of the student's experiences in terms of the educator's or school's instructional goals
 
@@ -181,11 +181,6 @@ Our technology/society is changing fast
 * > Low level coding jobs will be the first to go. Sysadmin, network architect, computer support. <sub>Rotten STEM</sub>
 
 
----
-
----
-
-
 Computing Teacher: your role in a wider context
 -----------------------------------------------
 
@@ -220,23 +215,16 @@ Can Science and Religion be taught together?
         * Equity & Social Justice
     * Unplugged activity for considering the purpose of CS education
 
-[see inclusion.md](./inclusion.md)
-* [Female Performance and Participation in Computer Science: A National Picture](https://dl.acm.org/doi/10.1145/3366016) Kemp 2019
-    * > Female participation remains a concern in most jurisdictions, but female attainment in CS is relatively unstudied
-    * > we find that females from the poorest areas were more likely to take CS than those from the richest areas and that CS was more popular among ethnic minority females than white females
-    * > CS females typically got better grades than their male peers. However, when controlling for average attainment in other subjects, males got 0.31 of a grade higher. Female relative underperformance in CS was most acute among large female cohorts and with girls studying in mixed-gender schools
-    * > The move to introduce CS into the English curriculum and the removal of the ICT qualifications look to be having a negative impact on female participation and attainment in computing. Using the theory of self-efficacy, we argue that the shift towards CS might decrease the number of girls choosing further computing qualifications or pursuing computing as a career. Computing curriculum designers and teachers need to carefully consider the inclusive nature of their computing courses.
-* [Why are women underrepresented in Computer Science? Gender differences in stereotypes, self-efficacy, values, and interests and predictors of future CS course-taking and grades](https://www.tandfonline.com/doi/abs/10.1080/08993408.2014.963363) Beyer 2014
 
 
 The attitude of the Teacher
 ---------------------------
 
-* [The role of beliefs in teacher agency](https://www.tandfonline.com/doi/full/10.1080/13540602.2015.1044325)
+* [The role of beliefs in teacher agency](https://www.tandfonline.com/doi/full/10.1080/13540602.2015.1044325) Gert Biesta 2015
     * > The comparative lack of a clear vision about what education is for seems to seriously limit the possibilities for action to develop a good education
 
-TASK: From todays session. 
-1. Reflect on "clear vision about what education is"
+TASK: From today's session. 
+1. Reflect on "clear vision about what education is for"
 2. Articulate how this will impact your teaching (actions/next-steps)
 5min thinking/preparing.
 Round-robin the group. 
@@ -248,12 +236,10 @@ Closing thoughts
 ### Access to information
 
 
-We dreamed of a future where everyone had access to information. It would liberate the working class's.
-
-We now have access ubiquitous to high quality information: YouTube, Learn-to-code resources, Wikipedia.
-
-Is the average person smarter, better informed, more skilled?
-The problem is not _access to information_.
+* We dreamed of a future where everyone had access to information. It would liberate the working class's.
+* We now have access ubiquitous to high quality information: YouTube, Learn-to-code resources, Wikipedia.
+* Is the average person smarter, better informed, more skilled?
+* The problem is not _access to information_.
 
 
 ---
@@ -298,17 +284,14 @@ Computing in the curriculum has been criticized for not being relevant for all s
 
 
 
----
-
+National Curriculum Assessment
+------------------------------
 
 TASK: The National Curriculum is a page of A4? How would you report a grade to your school and to parents?
 Discussion
 
 (Many people have spent 100's of hours deliberating over mechanisms to do this. I'm asking you, as beginners to do this in 10min. It's a deliberately overwhelming task to get you to understand the magnitude of the problem)
 
-### National Curriculum Assessment
-
-More on assessment in a later session
 
 "How do you report grades/progress in KS3" - however you like - it's the wild west!
 

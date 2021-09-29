@@ -1,63 +1,10 @@
 
-### What is Education?
+What is Education?
+=================
 
 
 
 
-Guest Speaker
--------------
-
-* What is Education?
-* What is Computing Education?
-
-* Giles.
-* Remotely joining from Spain
-* Educated at Eton. A VERY different education environment
-* Computing professional (BSc in Computer Science)
-* Runs a european shipping and logistics company
-* Will describe what his secondary education was like
-
-1. 15min: Describing education at A private boarding school.
-    * The average day
-    * The subjects
-    * The support outside of lessons
-    * The attitude of your peers
-2. 5min: "What do you think education is for"
-3. 5min: "What should be taught to young people about Computing"
-4. 20min: Taking questions from the students teachers
-
-
-Tasks
------
-
-* How has this session changed you?
-    * Action points? Impact? Reflections? What are you going to do now!?
-* You've got plenty of reading inspired by this session.
-* Task for SP4: School research. Preparation for SP4 (POSTPONED)
-
-
-Tools
------
-
-1. You need to be able to share content with the class
-2. I need to be able to see your reflections
-3. I would like to see an example of your capturing a 60 second video and sharing it with the group
-
-TASK: Can anyone share a 60 second video of their workflow now? 
-Link in the chat for us to watch?
-
-* [Blackboard Wiki](https://learn.canterbury.ac.uk/webapps/Bb-wiki-BBLEARN/wikiView?course_id=_14776_1&wiki_id=_16147_1&on_error_uri=%2Fwebapps%2Fblackboard%2Fcontent%2FlistContentEditable.jsp%3Fcontent_id%3D_2641259_1%26course_id%3D_14776_1&content_id=_2664670_1)
-* [Blackboard Blog](https://learn.canterbury.ac.uk/webapps/blogs-journals/execute/blogTopicList?course_id=_14776_1&content_id=_2664671_1&blog_id=_23666_1&action=contentList&mode=cpview)
-* [PebblePad](https://v3.pebblepad.co.uk/) [In a nutshell (video)](https://v3.pebblepad.co.uk/spa/#/learningCentre?type=start)
-
-* [Kaltura](https://learn.canterbury.ac.uk/webapps/osv-kaltura-BBLEARN/jsp/myMediaLTI.jsp)
-
-Replacement for Placement .. if you think you're not going to be busy ...
-A wakeup call ... _GiT GuD!_
-[AQA A-Level Computing](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517) [assessment resources](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517/assessment-resources)
-
-
----
 
 Session 4: What is Education (Part 2)
 =====================================
@@ -74,131 +21,11 @@ Session 4: What is Education (Part 2)
 
 ### Parts
 
-1. 
-    * Remote lessons until Christmas (discussion)
-    * Clarification from feedback
-        * Documents + Links
-        * Reflections
-        * Sharing content
-2. 
-    * School Direct Experience share - Teaching in school
-        * What are current subject practices?
-3. 
-    * Subject knowledge audit + target
-4. 
     * Computing in School
     * Schemes of Work
     * Context Based Learning and Relevancy
     * Metaphors
     * Create a lesson concept
-
-
-Remote until christmas
-----------------------
-
-Discuss
-
-
-Clarification from feedback
----------------------------
-
-It's become clear from talking to some of you. There are some misconceptions. I will clarify some of these points.
-
-### Computer Science Curriculum Guidance - Document
-
-[Computer Science Curriculum Guidance.pdf](https://learn.canterbury.ac.uk/bbcswebdav/pid-2664627-dt-content-rid-3988355_1/xid-3988355_1)
-
-The Curriculum Guidance document contains
-* Session Overviews (for the entire year)
-    * Subject sessions at uni + dates + content
-    * Discussions with Mentor + dates + content
-* Reading lists
-* Descriptions of reflective models
-* Proformas (these are on the general Blackboard)
-    * Lessons plans
-    * Lesson observations
-    * Lesson evaluation
-    * Weekley mentor meeting sheet
-
-This document is available and blackboard and sent to all students via email as an attachment.
-Email: Tue 08/09/2020 18:40 "PGCE/SD Computer Science - First week information"
-
-### Links to documents
-
-* [Secondary Student Teachers' Blackboard](https://learn.canterbury.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_2635847_1&course_id=_15049_1&mode=reset)
-    * [Welcome Main Padlet](https://learn.canterbury.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_2635847_1&course_id=_15049_1&mode=reset)
-        * [All Key Paperwork](https://cccu.padlet.org/sharron_mackenzie1/nsp03wkvd1u5zx0z)
-            * Lesson Planning Form
-            * Lesson Observation Form
-            * Lesson Evaluation Form
-            * Weekley Mentor Meeting Sheet
-    * [Find your pathway](https://learn.canterbury.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_2646081_1&course_id=_15049_1&mode=reset)
-        * [PGCE](https://cccu.padlet.org/sharron_mackenzie1/vbi7l6nrkl8cvb0d)
-            * [PGCE Secondary Programme Handbook](https://learn.canterbury.ac.uk/bbcswebdav/pid-2663980-dt-content-rid-3988115_1/xid-3988115_1)
-            * [PGCE 7-14 Student Programme Handbook](https://learn.canterbury.ac.uk/bbcswebdav/pid-2664422-dt-content-rid-3993940_1/xid-3993940_1)
-        * [School Direct](https://cccu.padlet.org/sharron_mackenzie1/p1a4z1962tc7k08i)
-* [Subject Pedagogy (MTETT4SPD) E20MTETT4SPD - Computer Science](https://learn.canterbury.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_2641259_1&course_id=_14776_1)
-    * [Curriculum Guidance 2020/2021for Secondary Students and School Mentors](https://learn.canterbury.ac.uk/bbcswebdav/pid-2664627-dt-content-rid-3988355_1/xid-3988355_1)
-    * [Subject Knowledge Audit](https://learn.canterbury.ac.uk/bbcswebdav/pid-2669165-dt-content-rid-3995226_1/xid-3995226_1)
-
-
-### Clarification of reflection requirements
-
-I used the term _assessment_ when I refereed to your reflections. This word has hard connotations that is not inline with the spirit of this initial communication.
-
-To clarify: Your formal assessments for your course are detailed in your respective _Programme Handbook_ (see link above)
-
-I have re-worded the segment below (from SP1) to reflect the original intention.
-
----
-You need a note taking system.
-Your note taking system should be online and transparent.
-* Every subject session
-    * You record - progress, evidence and actions
-        * Action points
-        * Reflections
-    * Tutor records
-        * Comments on each student for each session
-        * Monitor Engagement
-            * If I was asked 'How is StudentX engaging with the subject sessions'. I could respond by pointing them at your action points and reflections for each session.
-        * I could be asked to justify your progress
-            * e.g last year when lockdown happened - educators asked to predict on trajectory
-            * I will be part of a panel of professionals that could be asked about your progress
----
-
-In the context of blended/remote learning; I have no conventional feedback mechanisms for analysing engagement. I can't see facial expressions, I can't circulate round the room and see progress, I can't have causal/impromptu chats/catchups.
-These reflections are a vital feedback mechanism for the analysis of a sessions impact.
-
-
-### Clarification of reflection sharing workflow
-
-Sharing resources/reflections
-Blackboard Wiki Link
-
-* Active/Current actions/tasks + Archived actions/tasks
-* Group has access to your actions/reflections/resources
-* Linked from the course blackboard wiki
-
-DEMO Example
-
-
-School Direct Experience share
-------------------------------
-
-PGCE students have not experienced a school setting.
-
-> learning from experience is possible through theories of pedagogy,
-> but pedagogy without experience is meaningless
-
-Scales 2018
-
-
-Subject Knowledge Audit
------------------------
-
-TASK: Set a personal target for one aspect of subject knowledge. We will come back to this at the end of the session.
-
-* [Subject Knowledge Audit](https://learn.canterbury.ac.uk/bbcswebdav/pid-2669165-dt-content-rid-3995226_1/xid-3995226_1)
 
 
 Computing in schools
@@ -262,6 +89,9 @@ Questions:
 
 TASK 2: 30min Discuss your findings with group, paste links in chat, share screens, talk about what you've found
 
+* [teachcomputing.org: Key stage 3 resources](https://teachcomputing.org/curriculum/key-stage-3/)
+    * [Teach Computing Curriculum Journey](https://static.teachcomputing.org/curriculum_journey.pdf)
+        * Hundreds of KS3 and KS4 lessons
 * [interactiveclassroom.net](https://www.interactiveclassroom.net/?page_id=163)
 * [CAS - community contribution](https://community.computingatschool.org.uk/files/5130/original.pdf)
 * [KS3 Computing and GCSE Computer Science](https://www.advanced-ict.info/theory/NC/index.html)
@@ -275,6 +105,7 @@ TASK 2: 30min Discuss your findings with group, paste links in chat, share scree
     * [gdown3](https://www.tes.com/teaching-resource/complete-ks3-sow-for-computer-science-11345328)
 * [Google: ks3 computing scheme of work](https://www.google.com/search?q=ks3+computing+scheme+of+work)
     * There is a wealth of resources out there! Go and explore!
+
 
 
 ### Scheme of work - example
@@ -545,13 +376,25 @@ School isnt going to tell you how to get to where you want to be in life - you n
 
 How is knowing how computer work worthwhile for these students?
 
-Computer Science is one size fits all - no founcadtion paper, no double GCSE module.
+Computer Science is one size fits all - no foundation paper, no double GCSE module.
 The paper is science, smart, hard, are you good enough?
 (How do we foster creativity?)
 
-Hard for stdents to learn by themselfs - lots of abstract content
+Hard for students to learn by themselves - lots of abstract content
 
 Pipeline problem with minorities
 Inclusion
 
 Not enough ICT - digital content creator
+
+
+* [twitter](https://twitter.com/dylanwiliam/status/1442590272370606080)
+    * @WeinsteinEdu
+        * > Employers: We need workers that can think creatively and collaborate well with others.
+          > Government: Let's prioritize standardized tests. 
+          > Make it make sense. 
+    * @Miss_Snuffy
+        * > I can make it make sense.
+          > Without testing, the kids won’t learn anything, which means they won’t know anything to be creative with
+    * @dylanwiliam
+        * > A real problem with a lot of writing on creativity is that it  ignores the second part of the standard defintion: having novel ideas that have value. Blowing through the wrong end of a trumpet is not creative; Miles Davis is. Creativity almost always requires disciplinary mastery

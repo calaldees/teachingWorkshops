@@ -5,15 +5,38 @@ Digital Literacy
 
 > Those capabilities that mean an individual is fit for living, learning and working in a digital society.
 > Digital literacy is about being able to make use of technologies to participate in and contribute to the modern social, cultural, philosophical, and economic life.
+<sub>British Computer Society 2016</sub>
 
-British Computer Society 2016
 
-TODO:
+## Why is Digital Literacy important?
+
+Imagine the world you would live in if you were not literate?
+It would be s strange scary place
+
+Now imagine we live in a digitally dominated world.
+Imagine the world you would live in if you were not digitally literate?
+
+Digital Literacy is the power to understanding and influence the modern world
+
+ACTIVITY: 
+* (4min) What can you expect someone with Digital Literacy to be able to do?
+* (4min) HINT: Reveal categories below
+
+
 * [Digital literacy within the computing curriculum](https://blog.teachcomputing.org/digital-literacy-within-the-computing-curriculum/) NCCE Report 2021
+    * Use of devices and applications 
+    * Handling and storing data and information 
+    * Design, creation, and editing of content 
+    * Communication using technology 
+    * Online safety 
+    * Moral and ethical behaviour relating to technology
 
-Activity: What can you expect someone with Digital Literacy to be able to do?
+
 
 ## What can you expect someone with Digital Literacy to be able to do?
+
+### My List
+
 * Where are your files: Cloud? Local Disk? USB?
 * Backup effectively
 * [2 factor authentication](https://www.youtube.com/watch?v=hGRii5f_uSc&list=PL96C35uN7xGLLeET0dOWaKHkAlPsrkcha&index=16)
@@ -78,12 +101,51 @@ Activity: What can you expect someone with Digital Literacy to be able to do?
     * WhatsApp is end to end encrypted (not centrally stored)
     * "Nothing to hide" only works if you trust the government, all your friends and everyone in socity and anways will
     * The "Bitter Ex test" could someone abuse this information
+* Understand when AI has made a mistake, it is due to the training dataset and not the _algorithm writers_
+* Know to always have their data secure and be immune to ransomware attacks with backups
+* Understand how the current legislation allows some services (the jobcentre and food agency groups) to view households internet request history
+    * [OpenRightsGroup.org](https://www.opemnrightsgroup.org/)
+* Be able to made a _subject access request_ if needed
+* Understand that biometric data such as access to accelerometer can give companies (or attackers) access to gender, age, fitness, and even decipher passwords
+
+### DigiComp
+
+* [DigComp 2.1: The Digital Competence Framework for Citizens with eight proficiency levels and examples of use](https://publications.jrc.ec.europa.eu/repository/handle/JRC106281) 2017
+    * European Commission Introduced 2013
+    * Competence area 1: Information and data literacy
+        * 1.1 Browsing, searching, filtering data, information and digital content
+        * 1.2 Evaluating data, information and digital content
+        * 1.3 Managing data, information and digital content
+    * Competence area 2: Communication and collaboration
+        * 2.1 Interacting through digital technologies
+        * 2.2 Sharing throught digital technologies
+        * 2.3 Engaging in citizenship through digital technologies
+        * 2.4 Collaborating through digital technologies
+        * 2.5 Netiquette
+        * 2.6 Managing digital identity
+    * Competence area 3: Digital content creation
+        * 3.1 Developing digital content
+        * 3.2  Integrating and re-elaborating digital content
+        * 3.3 Copyright and licences
+        * 3.4 Programming
+    * Competence area 4: Safety
+        * 4.1 Protecting devices
+        * 4.2 Protecting personal data and privacy
+        * 4.3 Protecting health and well-being
+        * 4.4 Protecting the environment
+    * Competence area 5: Problem solving
+        * 5.1 Solving technical problems
+        * 5.2 Identifying needs and technological responses
+        * 5.3 Creatively using digital technologies
+        * 5.4 Identifying digital competence gap
+
+### Other Digital Literacy lists, definitions and justifications
 
 * [South West Grid For Learning - Digital Literacy](https://digital-literacy.org.uk/curriculum-overview.aspx/#yr7)
-* [RageRank Algorithm](https://en.wikipedia.org/wiki/PageRank)
+* [PageRank Algorithm](https://en.wikipedia.org/wiki/PageRank)
 * [Barefoot: Search Technologies](https://www.barefootcomputing.org/concepts-and-approaches/search-technologies)
 * [Evaluating Digital Sources](https://www.library.georgetown.edu/tutorials/research-guides/evaluating-internet-content)
-* [Digital Literacies and Learning:Designing a Path Forwar](https://www.fi.ncsu.edu/wp-content/uploads/2013/05/digital-literacies-and-learning.pdf) 2012
+* [Digital Literacies and Learning: Designing a Path Forward](https://www.fi.ncsu.edu/wp-content/uploads/2013/05/digital-literacies-and-learning.pdf) 2012 North Carolina State University College of Education
 * [CRAAP Test](https://ucsd.libguides.com/preuss/webeval)
     * Current? Relevant? Authority? Accuracy? Purpose?
 * [Why we need a new approach to teaching digital literacy](https://journals.sagepub.com/doi/full/10.1177/0031721718762419) Breakstone 2018
@@ -94,8 +156,9 @@ Most of the education about digital literacy focus on information analysis.
 
 The English curriculum doesn't mention the internet, source, digital or media.
 'Assessing the quality of an information source' is now been moved into the realm of the Computing curriculum.
+'attention to trustworthiness'
 
-Access to information is not a problem anymore - how to find and use it IS.
+Access to information is not a problem any more - how to find and use it IS.
 Regardless of subject, the skill is how to locate and use information.
 
 * [evaluating-internet-content](https://www.library.georgetown.edu/tutorials/research-guides/evaluating-internet-content)
@@ -105,28 +168,23 @@ Regardless of subject, the skill is how to locate and use information.
 > However, the checklist approach is outdated. 
 > It would be far better to teach young people to follow the lead of professional fact-checkers: When confronted by a new and unfamiliar website, they begin by looking elsewhere on the web, searching for any information that might shed light on who created the site in question and for what purpose.
 
-[Google, the Stupidity Amplifier](http://www.gregegan.net/ESSAYS/GOOGLE/Google.html): Greg Egan is an Australian science fiction writer
-
-This is agnostic of Computing?
-
-[Trust of sources of Corona information](https://www.bbc.co.uk/news/technology-53050959)
-
-* [Getting Started with Content Curation in the Classroom](https://spencerauthor.com/content-curation/)
+* [Google, the Stupidity Amplifier](http://www.gregegan.net/ESSAYS/GOOGLE/Google.html): Greg Egan is an Australian science fiction writer
+* [Trust of sources of Corona information](https://www.bbc.co.uk/news/technology-53050959)
+* [Getting Started with Content Curation in the Classroom](https://spencerauthor.com/content-curation/) John Spencer 2021
+    * If we want students to become critical thinkers we need to teach them to become curators
+    * We Need Critical Consumers
     * relevant to students interests
+    * Make them blog/podcast curate content for ANY domain they are interested in
+    * Searching, Organising, making connections, finding trends, adding a unique lens, sharing content
+    * How?
+        1. Model content curation.
+        2. Let students geek out.
+        3. Spend more time on it.
+        4. Begin earlier.
+        5. Let students own the process.
 
-## Why is Digital Literacy important?
-
-Imagine the world you would live in if you were not literate?
-It would be s strange scary place
-
-Now imagine we live in a digitally dominated world.
-Imagine the world you would live in if you were not digitally literate?
-
-Digital Literacy is the power to understanding and influence the modern world
 
 # ICT
-
-The Digital Competence Framework for Citizens (DigiComp) introduced by the european commission in 2013
 
 Largest working age study in the world 215,942 participants (5000 from each country)
 [The Distribution of Users’ Computer Skills: Worse Than You Think](https://www.nngroup.com/articles/computer-skill-levels/)

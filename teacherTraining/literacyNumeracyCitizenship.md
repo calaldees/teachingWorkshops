@@ -9,30 +9,7 @@ What is a broad and balanced curriculum?
 * Careers Guidance in the area of computing
 * Revisit literacy, numeracy, digital-literacy in Computing
 
-Next week
-* Personal and Professional Development Day 12th March 2021
-* The Hidden Curriculum, Mental health and Well-being.
 
-Session Format
---------------
-
-* Many of the activities today will be discussion and group based
-* We will split into two groups and at milestone points each group will share their ideas
-* I have created two GoogleDoc Workspaces
-    * [PGCE/SD Computing SP16 - Group1 - Workspace](https://docs.google.com/document/d/1kaJpm1PFdPKAlH-m3MSNmTnugCwqx1ascYt_jGdgd24/edit?usp=sharing)
-    * [PGCE/SD Computing SP16 - Group2 - Workspace](https://docs.google.com/document/d/1wNbc2odbQvAssrwSxgm2VH5dHbK_bUW25CrV33kz-Zk/edit?usp=sharing)
-* Groups
-    * There will be _breakout rooms_ setup that you should be able to freely move between (see the _people_ tab for an entrance arrow to each room)
-    * I will ask for one member of each group to rotate/move group each activity (I will leave you to self organise)
-    * The groups should be evenly balanced (as possible)
-
-### Timing
-
-* 09:00 - Introduction - GoogleDoc Groups Setup
-* 9:15 to 12:00 - AM Session
-* 13:00 to 16:00 - PM Session
-
-### Content
 
 Objective: What is a broad and balanced curriculum?
 
@@ -96,7 +73,6 @@ ITT Core Framework
 > Instead, what’s needed is for teachers to explicitly teach the language of their subject alongside their subject content.
 > My slightly surprising insight is that if this is done well, the fact that children’s reading and writing improves is almost trivial.
 > What really matters is that students get better at thinking.
-
 [The Secret of Literacy: making the implicit explicit](https://www.amazon.co.uk/Secret-Literacy-Making-implicit-explicit/dp/1781351279/) - [David Didau](https://learningspy.co.uk/literacy/what-to-do-about-literacy/) 2014 978-1781351277
 
 
@@ -108,6 +84,7 @@ What is the tipping point from _'just using words that scientists use'_ and _'ta
 
 * active/expressive vocabulary (words that are used autonomously)
 * passive/receptive vocabulary (words that are understood and can be responded)
+* unknown vocabulary
 
 Figures (need to correlate exact source - these are from David Didau's book)
 * Age 7 - top 25% have vocabulary of 7,100 words - bottom 25% 3,000 (parents?)
@@ -121,13 +98,13 @@ Figures (need to correlate exact source - these are from David Didau's book)
 
 > Some words have specific meaning in the computer science community, but a slightly or sometimes completely different meaning in everyday discourse (e.g. nouns like code, memory, address, folder, loop, bug, value, or verb to save, to code, to retrieve, to submit)
 
-TASK: In your groups - expand the following table (15min group) + (5min whole class)
+TASK: In your groups - add rows to the following table (10min group) + (5min whole class)
 (My hope is that the list you generate could a useful resource for your future teaching)
 
 | Computing Term | Possible connotation | Technical interpretation |
 |-|-|-|
-| Hot Key | The colour key on a graph referring to temperature | ? |
-| Address | Where I live | ? |
+| Hot Key | The colour key on a graph that is referring to temperature | todo? |
+| Address | Where I live | todo? |
 | Inspect a log | From a tree, maybe it has ants | Filter/inspect historical system activity for diagnosis of issues |
 | Submit a request | to kneel before an oppressor | A data request to an external/separate system |
 | | _Expand this list_ | |
@@ -155,7 +132,7 @@ Professional developer interviewing for a position last week
 ### Examples of subject specific language
 * General language
     * I'll try -> I'll attempt
-    * we'll talk -> we'll deliberate
+    * we'll talk -> we'll deliberate, we'll confer
     * he doesn't like me -> there is a failure of trust in this relationship
     * I can't do this -> I'm struggling with these concepts
 * Vocabulary
@@ -174,7 +151,7 @@ Professional developer interviewing for a position last week
 * Biology
     * Cross contamination, Semi permeable membrane
 * Teacher
-    * Disaffected, target grade, value added, syllabus, curriculum, Threshold concept, senco, peer learning
+    * Disaffected, target grade, value added, syllabus, curriculum, Threshold concept, senco, peer learning, pedagogical approach.
 
 
 ### Computer Science Phrases (20min)
@@ -233,7 +210,7 @@ Elect a spokesperson to report back (10min).
 #### Pop culture aside - StarTrek (as social commentary)
 
 * Original StarTrek episode [Mirror, Mirror](http://www.chakoteya.net/StarTrek/39.htm) with a parallel universe evil enterprise. 
-* A few of our original crew end up on the _evil enterprise_. They blended in by acting like assholes. 
+* A few of our original crew end up on the _evil enterprise_. They blended in by pretending to behave like assholes. 
 * Meanwhile, the evil crew attempted to infiltrate the _good enterprise_ were immediately put in the brig.
 * > KIRK: What I don't understand is how were you able to identify our counterparts so quickly?
 * > SPOCK: It was far easier for you as civilised men to behave like barbarians, than it was for them as barbarians to behave like civilised men.
