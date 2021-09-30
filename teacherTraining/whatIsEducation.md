@@ -98,7 +98,6 @@ TASK 2: 30min Discuss your findings with group, paste links in chat, share scree
     * > buying, or using, someone else's scheme of work makes teachers less effective because they spend less time thinking about the curriculum as a whole, and that teachers and departments that create their own curriculum or scheme of work have more "impact".
     * [KS3 Computing Scheme of Work - Year 1](https://www.advanced-ict.info/theory/NC/scheme_1.html)
     * [KS3 Computing Scheme of Work - Year 2](https://www.advanced-ict.info/theory/NC/scheme_2.html)
-    * [The representation of data links the whole of Computing](https://www.tes.com/blog/representation-data-links-whole-computing)
 * TES Teaching Resources (free low res preview are readable - login required for download)
     * [WHHS_ICT](https://www.tes.com/teaching-resource/key-stage-3-computing-scheme-of-work-11304686)
     * [BrianUK](https://www.tes.com/teaching-resource/key-stage-3-ks3-computing-scheme-of-work-6181029)

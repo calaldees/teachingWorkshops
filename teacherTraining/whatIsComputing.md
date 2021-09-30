@@ -1,6 +1,8 @@
 What is Computing?
 ==================
 
+* What is a curriculum. What is a subject curriculum?
+* NC and recent policy
 * What is Computing?
     * 3 strands Computer Science, ICT, Digital Literacy
     * What is a Computer Science teacher?
@@ -9,6 +11,17 @@ What is Computing?
             * The rise of STEM
             * Perceptions of gender and ethnicity in Computing
     * Preparing students for a future we are unsure of
+* Digital-literacy
+* Literacy and numeracy in Computing
+* Literacy in Computing and technical language
+    * vocabulary to facilitate thinking about Computing
+* Key influential subject documents, reports and research; current and over time
+* How has the subject of Computing has changed in education over the years (in school and society)
+
+
+
+* [The role of beliefs in teacher agency](https://www.tandfonline.com/doi/full/10.1080/13540602.2015.1044325) Gert Biesta 2015
+    * > The comparative lack of a clear vision about what education is for seems to seriously limit the possibilities for action to develop a good education
 
 
 
@@ -63,36 +76,11 @@ The entire roadmap for state education.
     * Computing is a Foundation subject
     * Academies/Public/Private/Independent don't need to teach computing
 
-TASK: Look at the NC overview - Other than subjects, what ELSE is in there?
-Whiteboard - collect ideas ...
+TASK: Read the National Curriculum (10min) Make notes in shared document about the things you as a Computing teacher need to actively engage with.
+(5min summary with class)
 
 
-History of Computing education in the UK (10min)
-----------------------------------------
 
-Commentary
-
-* [the state of the nation - CAS Community 2009](https://community.computingatschool.org.uk/files/6714/original.pdf)
-* [Restart: The Resurgence of Computer Science in UK Schools](https://core.ac.uk/download/pdf/79655562.pdf) Brown 2014
-    * > Computer science in UK schools has gone from almost extinct to mandatory in the space of a five year period
-    * > The A-Level qualification offered there now overlaps substantially with the new GCSE qualification (which precedes it), and numbers taking the A-Level are still in decline
-* [Shut down or restart? The way forward for computing in UK schools](https://royalsociety.org/~/media/education/computing-in-schools/2012-01-12-summary.pdf) 2012 Recommended reforms
-* [School ICT to be replaced by computer science programme](https://www.bbc.co.uk/news/education-16493929) 2012 'Slaves to the interface'
-* [Bricklayers to Architects](https://learn.canterbury.ac.uk/bbcswebdav/pid-2641359-dt-content-rid-3959448_1/courses/E20MTETT4SPD/Bricklayers%20to%20Architects%20-%20Jones.pdf) Page 7/8
-    *   > We have many individuals who are able to use applications to varying degrees of proficiency (bricklayers) 
-        > but do we have enough people capable of building the applications and hardware for the next generation of users (architects)? 
-        > From the UK government’s perspective, we do not produce a sufficient number of programmers and hardware engineers. 
-    *   > The future looks to be interesting. 
-        > Already there are rumblings that there are woefully small numbers of suitable graduates entering CS teacher training.
-        > Even if the number were to rise substantially, 
-        > it would take some years for expertise to be built and suggested syllabi to embed
-
-* Most Computing teachers have not come from a Computing background. They have come from other subjects.
-* 2014 All _ICT teachers_ in the country were told "You now teach Computing".
-* The first GCSE computing students have been though university and are now entering the workforce 2021
-
-WE WON!! WE GOT COMPUTING ON THE CURRICULUM!
-... but you know where this goes ... you've done the pre-reading.
 
 
 National Curriculum - Computing (30min)
@@ -150,6 +138,34 @@ Science Vs Engineering
     * > neither kind of course (academic or vocational) can be characterised simply in terms of equipping students with knowledge or skills.
 
 
+History of Computing education in the UK (10min)
+----------------------------------------
+
+Commentary
+
+* [the state of the nation - CAS Community 2009](https://community.computingatschool.org.uk/files/6714/original.pdf)
+* [Restart: The Resurgence of Computer Science in UK Schools](https://core.ac.uk/download/pdf/79655562.pdf) Brown 2014
+    * > Computer science in UK schools has gone from almost extinct to mandatory in the space of a five year period
+    * > The A-Level qualification offered there now overlaps substantially with the new GCSE qualification (which precedes it), and numbers taking the A-Level are still in decline
+* [Shut down or restart? The way forward for computing in UK schools](https://royalsociety.org/~/media/education/computing-in-schools/2012-01-12-summary.pdf) 2012 Recommended reforms
+* [School ICT to be replaced by computer science programme](https://www.bbc.co.uk/news/education-16493929) 2012 'Slaves to the interface'
+* [Bricklayers to Architects](https://learn.canterbury.ac.uk/bbcswebdav/pid-2641359-dt-content-rid-3959448_1/courses/E20MTETT4SPD/Bricklayers%20to%20Architects%20-%20Jones.pdf) Page 7/8 2013
+    *   > We have many individuals who are able to use applications to varying degrees of proficiency (bricklayers) 
+        > but do we have enough people capable of building the applications and hardware for the next generation of users (architects)? 
+        > From the UK government’s perspective, we do not produce a sufficient number of programmers and hardware engineers. 
+    *   > The future looks to be interesting. 
+        > Already there are rumblings that there are woefully small numbers of suitable graduates entering CS teacher training.
+        > Even if the number were to rise substantially, 
+        > it would take some years for expertise to be built and suggested syllabi to embed
+
+* Most Computing teachers have not come from a Computing background. They have come from other subjects.
+* 2014 All _ICT teachers_ in the country were told "You now teach Computing".
+* The first GCSE computing students have been though university and are now entering the workforce 2021
+
+WE WON!! WE GOT COMPUTING ON THE CURRICULUM!
+... but you know where this goes ... you've done the pre-reading ... there is a backlash
+
+
 
 Friction with Society (30min)
 ---------------------
@@ -187,6 +203,8 @@ Computing Teacher: your role in a wider context
 TASK: Visit the LASAR Site ... thoughts? comments?
 Can Science and Religion be taught together?
 
+* [Epistemic insight: engaging with life's Big Questions](https://www.ted.com/talks/berry_billingsley_epistemic_insight_engaging_with_life_s_big_questions) 2021 TEDxFolkstone Berry Billingsley 11min video
+
 * [LASAR (Learning about Science and Religion](https://www.canterbury.ac.uk/education/our-work/research-enterprise/learning-about-science-and-religion/learning-about-science-and-religion.aspx)
     * Big questions
     * [Chapter 12: Developing a Workshop for Secondary School Students that Provides a Space to Explore Questions About Human Personhood Through the Context of Human-like Machines](http://www.epistemicinsight.com/wp-content/uploads/2020/04/Book-Chapter-Developing-a-workshop-for-secondary-school-students.pdf) [doi](https://doi.org/10.1007/978-3-030-17234-3_12) 2020 Berry Billingsley and Mehdi Nassaji
@@ -199,11 +217,13 @@ Can Science and Religion be taught together?
         * 00:26:00, 01:56:00 The turing test - is a recursive test - it's a question for us to define ourselves
         * 01:14:00 The observation of _spirit as an operating system for an autonomous robot_ - plants - humans
         * 02:30:00 Study of _religion as software_ - rules/structure that lead to better outcomes
-* Fundamental British Values (mentioned last week)
+        * The legal system is an interesting piece of software - it's based on exceptional handling
+* Fundamental British Values
+    * Requirement
 
 * [CSForAll: CS Visions Toolkit](https://www.csforall.org/visions/)
     * > There is not one purpose for education, and there should not be one purpose for computer science education either. 
-    * [CS for What? Diverse Visions of Computer Science Education in Practice](https://firebasestorage.googleapis.com/v0/b/summit-website-production.appspot.com/o/visions%2FSanto_Vogel_Ching_2019_CS4What_Diverse_Visions_of_Computer_Science_Education_in_Practice.pdf?alt=media&token=cd892dba-2859-4793-9250-59cda95e02bf)
+    * [CS for What? Diverse Visions of Computer Science Education in Practice](https://academicworks.cuny.edu/gc_pubs/562/)
         * Lots of links to social context case studies and projects
     * core purposes
         * Personal Agency, Joy & Fulfilment

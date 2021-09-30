@@ -270,7 +270,8 @@ Other?
     * > (teacher education is) preparing teachers to remake the profession,
     * > Teaching has always been about changing the world; it has never been about changing the world alone
     * Do we need teacher educators?
-
+* [Teach Teachers how to create magic](https://www.ted.com/talks/christopher_emdin_teach_teachers_how_to_create_magic) 6min TED Talk 2013
+    * Engage students like rappers and pastors do
 
 
 ### Be open?

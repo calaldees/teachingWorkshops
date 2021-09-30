@@ -210,20 +210,15 @@ fandom - make memes, videos, mods, skins
 (my c&c disk system, school tour)
 
 
-https://treenotation.org/designer/
+* https://treenotation.org/
+    * TODO: Some kind of language definition language
+    * It looks awesome .. need more time to digest it
 
 
 
 
 
 [Released jailed hacker comments about how society moved in 10 years](https://forklog.media/after-10-years-in-tech-isolation-im-now-outsider-to-things-i-once-had-mastered/)
-
-
-
-
-
-
-
 
 
 
@@ -534,4 +529,32 @@ Bennet and Dojee 2015 mindfullness-based stress reduction course revealed that s
 ---
 
 * [techmums.co](https://techmums.co/)
-* 
+
+
+---
+
+
+
+
+Promoting Self-efficacy in attitude - your learning is your responsibility
+
+[Self-efficacy and social action](https://impact.chartered.college/article/self-efficacy-and-social-action/) Impact Nov 2020 Chris Baker
+
+[Emotions matter: Adapting RULER for UK schools to build emotional intelligence in children](https://impact.chartered.college/article/emotions-matter-adapting-ruler-uk-schools-emotional-intelligence-children/) Impact Nov 2020 - Michael Eggleton
+
+* plesentness +5-5 Energy +5-5
+critial thinking
+ identifying assumptions, assessing credabiklity, constuct counter exaples, consistenct/conmtradiction, ifentifying fallacies, join and indipendent reasoning
+
+Youth social action - what are the benefits for careers education? - impact 2020
+* gatsby benchmarks
+    1. Linking curriculum learning to carers
+
+[You peoples mental and emotional health - Trajectories and drivers in adulthood and adolescence](https://epi.org.uk/wp-content/uploads/2021/01/EPI-PT_Young-people%E2%80%99s-wellbeing_Jan2021.pdf)
+
+* [Let's save Maya Angelou from fake quotes](https://www.bbc.co.uk/news/41913640) BBC 2017 Rebecca Seales
+> They may forget what you said - but they will never forget how you made them feel.
+<sub>Carl W. Buehner</sub>
+
+
+

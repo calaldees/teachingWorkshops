@@ -24,6 +24,15 @@ Differed to later
     * Considering 'Meaningful success' from pupils perspective
 
 
+ITT Core Content Framework - TODO?
+    * [Preventing behaviour problems: what works](https://www.iaoed.org/downloads/prac08e.pdf)
+
+> 7.5. Building effective relationships is easier when pupils believe that their feelings will be considered and understood.
+
+> 7.6. Pupils are motivated by intrinsic factors (related to their identity and values) and extrinsic factors (related to reward).
+
+
+
 Pre-Reading
 ------------
 

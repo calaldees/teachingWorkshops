@@ -4,6 +4,7 @@ Digital Literacy
 'Digital Literacy' is a term for the competence/skill we expect with everyday use of a computer.
 
 > Those capabilities that mean an individual is fit for living, learning and working in a digital society.
+> ...
 > Digital literacy is about being able to make use of technologies to participate in and contribute to the modern social, cultural, philosophical, and economic life.
 <sub>British Computer Society 2016</sub>
 
@@ -24,13 +25,12 @@ ACTIVITY:
 
 
 * [Digital literacy within the computing curriculum](https://blog.teachcomputing.org/digital-literacy-within-the-computing-curriculum/) NCCE Report 2021
-    * Use of devices and applications 
-    * Handling and storing data and information 
-    * Design, creation, and editing of content 
-    * Communication using technology 
-    * Online safety 
+    * Use of devices and applications
+    * Handling and storing data and information
+    * Design, creation, and editing of content
+    * Communication using technology
+    * Online safety
     * Moral and ethical behaviour relating to technology
-
 
 
 ## What can you expect someone with Digital Literacy to be able to do?
@@ -62,6 +62,7 @@ ACTIVITY:
 * Electoral role (edited register)
 * Cookies (What they are and why they are used)
 * Domain/typo squatting
+* How to buy a domain name
 * Diagnosing network - ping router - traceroute - packetloss
     * [DownDetector.co.uk](https://downdetector.co.uk/)
     * FaslyCDN
@@ -70,7 +71,6 @@ ACTIVITY:
 * Https + certificates + RSA Key Pairs
 * Use Hotkeys
 * Understand filetypes/extensions
-* How to buy a domain name
 * Install applications from trusted sources
     * Package management
 * Understand what operations to allow admin rights
@@ -84,16 +84,20 @@ ACTIVITY:
     * Your personal view (search history profile)
     * Location (physical connection)
     * Social interactions (email contacts, same physical connection)
+    * [PageRank Algorithm](https://en.wikipedia.org/wiki/PageRank)
+    * How many people have clicked on it in the past (see 'Google The Stupidity Amplifier' below)
+    * Number of DNS requests?
 * Lossy and lossless compression
 * Reply, Reply All, cc, bcc
 * Use the right technology
     * Don't send massive files as email attachments
+        * Don't be surprised when you cant Email 30 of your 3mb DSL camera jpegs
     * Use doc sharing for collaboration rather than a word doc on dropbox
         * There should never be an excuse for loosing work (it's 2020)
 * What is a keylogger
 * Duplex printing
 * Copying a URL (remove the tracking query string)
-* [Why The Government Shouldn't Break WhatsApp](https://www.youtube.com/watch?v=CINVwWHlzTY&list=PL96C35uN7xGLLeET0dOWaKHkAlPsrkcha&index=1)
+* [Why The Government Shouldn't Break WhatsApp](https://www.youtube.com/watch?v=CINVwWHlzTY&list=PL96C35uN7xGLLeET0dOWaKHkAlPsrkcha&index=1) Tom Scott 10min video
     * Government Backdoors
     * Encryption
     * SSL general web
@@ -142,7 +146,6 @@ ACTIVITY:
 ### Other Digital Literacy lists, definitions and justifications
 
 * [South West Grid For Learning - Digital Literacy](https://digital-literacy.org.uk/curriculum-overview.aspx/#yr7)
-* [PageRank Algorithm](https://en.wikipedia.org/wiki/PageRank)
 * [Barefoot: Search Technologies](https://www.barefootcomputing.org/concepts-and-approaches/search-technologies)
 * [Evaluating Digital Sources](https://www.library.georgetown.edu/tutorials/research-guides/evaluating-internet-content)
 * [Digital Literacies and Learning: Designing a Path Forward](https://www.fi.ncsu.edu/wp-content/uploads/2013/05/digital-literacies-and-learning.pdf) 2012 North Carolina State University College of Education

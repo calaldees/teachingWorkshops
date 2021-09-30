@@ -1,6 +1,23 @@
 People
 ======
 
+General
+-------
+
+* [Good education in an age of measurement: on the need to reconnect with the question of purpose in education](https://link.springer.com/article/10.1007/s11092-008-9064-9) Gert Biesta 2009
+    * Qualification
+        * Certify skills
+    * Socialisation (it happens, even if it's not explicitly listed)
+    * Subjectification
+        * Individual as autonomous and free thinking
+    * What role could/should you play in young peoples education
+* [Applying the ‘powerful knowledge’ principle to curriculum development in disadvantaged contexts](https://impact.chartered.college/article/applying-powerful-knowledge-principle-curriculum-development-disadvantaged-contexts/) Michael Young 2014
+    * Powerful Knowledge
+        * Knowledge that young people can't get form family or general community
+
+Computing
+---------
+
 * Peter E J Kemp -       University of Roehampton
     * [@peterejkemp](https://twitter.com/peterejkemp)
     * [Dr Peter Kemp](https://www.kcl.ac.uk/people/peter-kemp) Lecturer in Computing Education - King's College London
