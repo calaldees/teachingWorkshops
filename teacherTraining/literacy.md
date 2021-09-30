@@ -59,16 +59,20 @@ Figures (need to correlate exact source - these are from David Didau's book)
 TASK: In your groups - add rows to the following table (10min group) + (5min whole class)
 (My hope is that the list you generate could a useful resource for your future teaching)
 
-| Computing Term | Possible connotation | Technical interpretation |
+| Computing Term | Possible interpretation | Technical interpretation |
 |-|-|-|
 | Hot Key | The colour key on a graph that is referring to temperature | todo? |
 | Address | Where I live | todo? |
 | Inspect a log | From a tree, maybe it has ants | Filter/inspect historical system activity for diagnosis of issues |
-| Submit a request | to kneel before an oppressor | A data request to an external/separate system |
-| | _Expand this list_ | |
+| Submit a request | Have to ask for something from someone in authority | A data request to an external/separate system |
+| add more | _Expand this list_ | add more |
 
+(more of mine at bottom of document)
 
 ### Computing Vocabulary
+
+Specifically plan keywords/vocabulary in your lesson plans and schemes of work. This could be a useful exercise to run with your department.
+
 Facilitating Meta-Discourse - Computer Science Education - Sentence 2019
 1. Clarify meaning in other non-cs contexts
 2. Speculation about possible meanings (what it could or could not be)
@@ -77,7 +81,6 @@ Facilitating Meta-Discourse - Computer Science Education - Sentence 2019
 > Metaphors: The data is transferred -> I will move the file to another folder
 > Computer is a living being: it fell asleep and woke up
 > Always be explicit that these are metaphors!!!
-
 
 Busch 1998
 
@@ -132,7 +135,7 @@ I want explicitly incite you to explore/exercise your Computer Science terminolo
     * [wikipedia List_of_algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
 
 TASK: Can you create a list of Computing phrases. Some that are _real_ and some that are _fake_. You could possible use this as a fun starter with your groups. Can they identify the nonsense from the real computer talk. You can then follow up with the class what the real ones mean. This is explicit vocabulary exercise.
-* In your group breakout rooms: Add them to the Google Doc (15min)
+* In your group breakout rooms: Add them to the Google Doc (10min)
     * It may be worth you categorising some of these with a difficulty level (maybe KS3, KS4, KS5)?
 * Present to whole group (5min)
 
@@ -151,7 +154,7 @@ Terminology example - [Premiere Pro - Ease In and Ease Out](https://youtu.be/vup
 
 An Ofsted inspector has asked you "What strategies do you have in place to integrate _literacy_ into our classroom practice?"
 
-In breakout groups consider strategies that you might be able to use (20min):
+In breakout groups consider strategies that you might be able to use (15min):
 
 Think about:
 * Assessment?
@@ -198,9 +201,6 @@ Unsorted
 ========
 
 
-Literacy
---------
-
 Hirsch
 reading should not be used to teach new topics - too much cgnative load - use reading to improve vocabulary and knowlege of existing are
 cunninghan and stanovich - read volume in early years to improve
@@ -230,4 +230,12 @@ vocabulary development should be a mixture of indipendent and collaborative lear
 
 
 
+More of my ideas for exercises above
+------------------------------------
 
+| Python | A snake that is poisonous |
+| Secondary Storage | My nans garage |
+| Code review | A friend checking my secret message before I send it |
+| I created a code | 
+| Save | Money at the bank |
+| Search | Like hide and seek |

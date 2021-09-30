@@ -2,7 +2,7 @@
     * the uk's quality body for higher education
 * [Digital lens on the UK Professional Standards Framework (UKPSF)](https://www.heacademy.ac.uk/system/files/downloads/digital_lens_on_the_ukpsf.pdf) - Supporting the digital capabilities of teaching staffin UK higher education
 
-Jornals
+Journal articles
 -------
 
 * [Computational Thinking Educational Policy Initiatives (CTEPI) Across the Globe](https://link.springer.com/article/10.1007/s11528-019-00384-4)
@@ -12,7 +12,6 @@ Jornals
 
 Use of technology report and recomendations
 
-https://educationendowmentfoundation.org.uk/public/files/Publications/Behaviour/EEF_Improving_behaviour_in_schools_Report.pdf
 
 https://educationendowmentfoundation.org.uk/public/files/Publications/digitalTech/EEF_Digital_Technology_Guidance_Report.pdf
 

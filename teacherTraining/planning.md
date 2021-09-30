@@ -1,13 +1,5 @@
-
-What is Education?
-=================
-
-
-
-
-
-Session 4: What is Education (Part 2)
-=====================================
+Planning
+========
 
 ### Objectives
 

@@ -1,5 +1,5 @@
-What is Computing?
-==================
+Curriculum
+==========
 
 * What is a curriculum. What is a subject curriculum?
 * NC and recent policy

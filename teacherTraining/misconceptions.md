@@ -1,14 +1,8 @@
 Misconceptions
 ==============
 
-TODO: Vocabulary
+TODO: See Vocabulary in literacy
 
-| Python | A snake that is poisonous |
-| Secondary Storage | My nans garage |
-| Code review | A friend checking my secret message before I send it |
-| I created a code | 
-| Save | Money at the bank |
-| Search | Like hide and seek |
 
 
 * [computer science: student myths and misconceptions](https://www.researchgate.net/publication/234832735_Computer_science_student_myths_and_misconceptions) of the field in general (Beaubouef, McDowell 2008)

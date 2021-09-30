@@ -9,15 +9,17 @@ KSQ 4: What is education?
     * Knowledge share from GTP session (yesterday/Thursday evening)
         * What do you think education is for?
 
-* NC and recent policy
-* Key influential subject documents, reports and research; current and over time
-* Digital-literacy
-* Literacy and numeracy in Computing
-* Literacy in Computing and technical language
+* [National Curriculum](./curriculum.md) and recent policy
+    * Key influential subject documents, reports and research; current and over time
+    * How has the subject of Computing has changed in education over the years (in school and society)
+* [Literacy](./literacy.md) in Computing
+    * technical language
     * vocabulary to facilitate thinking about Computing
+* [Digital literacy](./digitalLiteracy.md)
+* [Numeracy](./numeracy.md) in Computing
 
 
-* How has the subject of Computing has changed in education over the years (in school and society)
+
 
 PGCE: Begin _Collaborative teaching phase_ (CTP). (in school from Monday)
 Set information gathering tasks for SP4
