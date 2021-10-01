@@ -25,6 +25,7 @@ PGCE: Begin _Collaborative teaching phase_ (CTP). (in school from Monday)
 Reminders
 ---------
 
+* SP1+2 Assignment formally set!
 * We need to elect a subject rep
 * Subject knowledge audit completed + consent form + questionnaire
 * Dress smartly (not trainers, shirt+tie or equivalent)

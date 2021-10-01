@@ -111,7 +111,7 @@ TASK: Look at the National Curriculum and categorise the points into the table b
 
 * [National curriculum in England: computing programmes of study](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study#key-stage-3)
 
-| Computing | ICT | DigitalLiteracy |
+| Computer Science | ICT | DigitalLiteracy |
 |-----------|-----|-----------------|
 | | | |
 
