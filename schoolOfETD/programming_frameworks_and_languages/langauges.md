@@ -3,14 +3,17 @@ Languages
 
 Objective:
 * Understand a range of programming language features
+* Be able to reason about the choice of a language for particular tasks
 
 * Next week:
-    * 5min example language feature - Weblink + talk
+    * Come prepared to give a mini verbal 5min example/explanation of language feature you have researched
+        * Weblink + few sentences of what it is and why it might be useful
 
 
 https://www.tutorialspoint.com/codingground.htm
 
-“Yeah, but your scientists were so preoccupied with whether or not they could that they didn’t stop to think if they should.” Jeff Goldblum - Jurassic Park
+> Yeah, but your scientists were so preoccupied with whether or not they could that they didn’t stop to think if they should.
+<sub>Jeff Goldblum - Jurassic Park</sub>
 
 
 History
@@ -188,6 +191,57 @@ Some criteria
 
 https://redmonk.com/dberkholz/2013/03/25/programming-languages-ranked-by-expressiveness/
 
+
+Language Cheat Sheet and Pair Programming
+-----------------------------------------
+
+* Task: 30min
+    * With the _Visual Basic_ reference for a bubbelsort (below)
+    * You are to use the _language_reference.html_ tool to attempt to convert this algorithm to another language
+        * (starting points for a range of languages has been provided)
+    * You are to use an online collaborative tool to attempt to pair program a solution
+        * Possible technologies
+            * https://replit.com/ + _Create repl_ + share link
+            * GitPod https://gitpod.io/workspaces + start any workspace + share invite (share is located bottom middle of the screen)
+
+* [langauge_reference.html](https://computingteachers.uk/static/langauge_reference.html)
+* Starting stubs [bubbelsort.md](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/data/bubbelsort.md)
+
+### Reference Implementation
+This can be copy/paste/run at
+https://www.tutorialspoint.com/compile_vb.net_online.php
+```vb
+Module VisualBasic
+
+    Sub Main()
+        Dim data() as String = {"b", "d", "c", "a"}
+        data = bubbleSort(data)
+        Console.WriteLine(Join(data, ","))
+    End Sub
+
+    Function bubbleSort(data as String()) As String()
+        Console.WriteLine("bubbleSort")
+        Dim has_changed as Boolean = True
+        Do While has_changed
+            Console.WriteLine(Join(data, ","))
+            has_changed = False
+            For i As Integer = 0 To data.Length - 2
+                Dim a as String = data(i)
+                Dim b as String = data(i+1)
+                Console.WriteLine("comparing "+i.toString()+":"+a+" with "+(i+1).toString()+":"+b)
+                If a > b Then
+                    Console.WriteLine("swap")
+                    data(i) = b
+                    data(i+1) = a
+                    has_changed = True
+                End If
+            Next
+        Loop
+        bubbleSort = data
+    End Function
+
+End Module
+```
 
 Number Handling
 ---------------
@@ -429,6 +483,54 @@ const person3 = new Person("Nicolas", Date.now());
 
 Decorators
 ----------
+
+```python
+# TASK:
+# Attempt to modify this decorator to:
+#   1. print to the screen the arguments that the decorated function was called with
+#   2. modify the returned result by adding 10
+# e.g. When run the output should be
+#   called with (1, 2) {}
+#   13
+
+from functools import wraps
+
+def example_decorator(original_function=None, add_your_args=None):
+    """
+    This pattern works for defining decorators with and without params.
+        (Positional arguments to the decorator are not supported by this pattern)
+    Use with 
+        @example_decorator
+        def my_func(a, b):
+            return a + b
+    or
+        def my_func(a, b):
+            return a + b
+        my_func = example_decorator(my_func)
+    """
+    def _decorate(function):
+        @wraps(function)
+        def wrapped_function(*args, **kwargs):
+            pass  # replace this line with - pre function code
+            _return = function(*args, **kwargs)
+            pass  # replace this line with - post function code
+            return _return
+        return wrapped_function
+    return _decorate(original_function) if callable(original_function) else _decorate
+
+
+@example_decorator
+def my_func(a, b):
+    return a + b
+
+
+if __name__ == "__main__":
+    print(my_func(1,2))
+```
+
+* What is the point of this technique?
+* When/Why would you ever use it?
+* Is this good? or bad?
 
 
 Operator Overloading
