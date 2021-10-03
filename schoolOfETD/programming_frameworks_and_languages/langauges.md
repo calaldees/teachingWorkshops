@@ -1,25 +1,59 @@
-Languages
-=========
+Session 2: Languages
+====================
 
-Objective:
+Recap
+-----
+QUESTION: 
+* What did we cover last week?
+* Why are we doing this?
+
+Announcements
+-------------
+* Attempting to book campus rooms
+* Extending Assignment 1 by one week to 08/11/2021
+    * Results of quiz showed weakness in understanding of anatomy of a web service - extra session
+
+Objective
+---------
 * Understand a range of programming language features
 * Be able to reason about the choice of a language for particular tasks
 
-* Next week:
-    * Come prepared to give a mini verbal 5min example/explanation of language feature you have researched
-        * Weblink + few sentences of what it is and why it might be useful
+Next week
+---------
+* Professional developers are always talking informally about languages and tools
+* Come prepared to give a mini verbal 5min example/explanation of language feature you have researched
+    * Weblink + few sentences of what it is and why it might be useful
+    * What problem is the language trying to solve? (why was it created?)
+    * (brilliant if) Can you show/demo "hello world" + simple function running in the language?
+    * I will pick 5 of you at random
+* Some possible languages to research
+    * [PureScript](https://www.purescript.org/)
+    * [TypeScript](https://www.typescriptlang.org/)
+    * [Elm](https://elm-lang.org/)
+    * [Elixir](https://elixir-lang.org/)
+    * [Kotlin](https://kotlinlang.org/)
+    * other ...
+* Level 6: Read and think for yourself
 
 
 https://www.tutorialspoint.com/codingground.htm
 
-> Yeah, but your scientists were so preoccupied with whether or not they could that they didn’t stop to think if they should.
-<sub>Jeff Goldblum - Jurassic Park</sub>
+
+TASK: Whiteboard
+Name as many languages as you can
+
+Can you categorise them?
+
+
 
 
 History
 -------
 
-### Basic
+### BASIC
+
+* BASIC was on ROM and loaded on power on with most retro computers in the 80s.
+* Most manufacturers had a slightly different dialects that created fragmentation
 
 ```basic
 05 HOME : TEXT : REM Fibonacci numbers 
@@ -34,20 +68,32 @@ History
 90 GOTO 30
 100 END
 ```
-http://www.hoist-point.com/applesoft_basic_tutorial.htm
+example from http://www.hoist-point.com/applesoft_basic_tutorial.htm
+
+* Slow
+* No named functions - just goto numbers
+* Adding new intermediary lines was a pain
+* Utterly unfathomable for anything other than the tiniest programmes
 
 ### PERL
 
+* Practical Extraction and Report Language (text processing)
+* As HTML was just text, it became the first widley adopted for server side scripting
+    * templating
+* PERL is considered a "write only" language
+* Also used in early bioinfomatics tools because the data was just
+
 ```perl
+# https://www.geeksforgeeks.org/perl-array-slices/
 @array = ('Geeks', 'for', 'Geek');
 @extracted_elements = @array[1, 2];
 print"Extracted elements: "."@extracted_elements";
+# What does this print?
 ```
 https://www.tutorialspoint.com/execute_perl_online.php
-https://www.geeksforgeeks.org/perl-array-slices/
 
-Perl is considered a "write only" langauge
 
+An excerpt from one of my programs from years ago
 ```perl
 sub print_control_buttons {
   if (defined $prev_id && $prev_id ne "") {print "<A TARGET=_top HREF='$script?file=$file&command=$command&search_field=id&search_string=$record->{prev_id}&id=$prev_id'>Previous</A>\n";}
@@ -57,78 +103,69 @@ sub print_control_buttons {
 }
 ```
 
-It was good for text templateing. When generating html ment manipulating text perl was king. It was also used in early bioinfomatics tools because the data was just
-
+TASk: Take a peek at a few examples here
 https://learn.perl.org/examples/
-Look how succinct the examples are? is perl good?
+* Look how succinct the examples are? is perl good?
+* Is the language good? or are the libraries good?
 
-
-Librarys are good
 
 ### PHP
 
-Was not designed. It was organicly developed and gained opularity. As a result it has internal inconstancies.
-Easy to build and deploy. Runs on everything. Just copy a file in the right folder and it just works.
+* Was not designed. It was organically developed and gained popularity. As a result it has internal inconstancies.
+* Easy to build and deploy. Runs on everything. Just copy a file in the right folder and it just works.
 
 
+New(ish) Languages
+------------------
 
-### GoLang
+### [GoLang](https://golang.org/)
 
-Google's static typed, compiled performant systems level, concurrency primitives.
-Compiling C was too slow. They wanted something that compiles FAST.
-Modern language features
-Readability
-Very well designed standard library - fewer external librarys (including few gui)
-builtin formatter
-Not OO
-
-Java has explicit class: the Rectangle class declares it implements Shape. 
-Go’s approach is implicit. A structure that implements all functions of an interface implicitly implements this interface.
-
+* Google's static typed, compiled performant systems level, concurrency primitives.
+* Compiling C was too slow. They wanted something that compiles FAST.
+* Modern language features
+* Readability
+* Very well designed standard library - fewer external libraries (including few gui)
+* builtin formatter
+* Not OO
 
 
-* [6 interesting features in programming languages](https://blog.frankel.ch/six-interesting-features-programming-languages/)
-    * JavaScript: prototypes
-        * JavaScript dynamic’s nature, it’s possible do add properties and functions to an existing instance.
-    * Kotlin: extension functions/properties
-    * Go: implicit interface implementation
-    * Clojure: "dependent types"
-    * Elixir: pattern matching
-    * Python: for-comprehensions
-* [The Coolest Programming Language Features](https://therenegadecoder.com/code/the-coolest-programming-language-features/) Jeremy Grifski 2021
-    * Extension Methods
-    * Macros
-    * Automatic Properties
-    * Optional Chaining
-    * Lambda Expressions
-    * Immutability
-    * Multiple Dispatch
-    * Destructuring
-    * Inline Testing
-    * Inline Assemblers
-    * Library Naming Conventions
+> Java has explicit class: the Rectangle class declares it implements Shape. 
+> Go’s approach is implicit. A structure that implements all functions of an interface implicitly implements this interface.
 
 
-MetaProgaramming
+### [Erlang](https://www.erlang.org/)
+
+* > Erlang is a programming language used to build massively scalable soft real-time systems with requirements on high availability. Some of its uses are in telecoms, banking, e-commerce, computer telephony and instant messaging. Erlang's runtime system has built-in support for concurrency, distribution and fault tolerance.
+* Rolling live deployment
+    * Used for upgrading system while they are running
+        * Used for Final Fantasy Online
+    * Each distributed module can restart/clear/fix itself
+    * Data can run though converters/channels
+* Unlike anything you have ever used before
+
+
+Language Features
+-----------------
+
+* Common features
+    * Type checking
+    * data structures
+    * abstraction
+    * error handling
+    * concurrency
+
+### Meta Programming
+
  reflection - programm inspecting itself while running
  some say this is unneeded as the language could support this itself
  changing the structure of the programm while running (is this a good thing?)
 
 
-garbage collection
+### garbage collection
 
-TASK: Whiteboard
-Name as many languages as you can
 
-Can you categorise them?
 
-Type checking
-data structures
-abstraction
-error handling
-concurrency
 
-Lower level languages reveal a lot of things behind the sceens in other langauges
 
 
 * [Less is more: language features](https://blog.ploeh.dk/2015/04/13/less-is-more-language-features/) Mark Seemann 2015
@@ -136,22 +173,27 @@ Lower level languages reveal a lot of things behind the sceens in other langauge
 
 
 * [The Most Popular Programming Languages & Their Uses (2020)](https://www.youtube.com/watch?v=rd6SgAIvGjw) Youtube 10min Tech with Tim
-    * JS
-    * Python
-    * Java
-    * Golang
-    * C++
-    * Typescript
-    * Ruby
-    * PHP
-    * C
+    1. JS
+    2. Python
+    3. Java
+    4. Golang
+    5. C++
+    6. Typescript
+    7. Ruby
+    8. PHP
+    9. C
 
 Low Level
 High Level
+Lower level languages reveal a lot of things behind the scenes in other languages
 
 * [4 Programming Paradigms In 40 Minutes](https://www.youtube.com/watch?v=cgVVZMfLjEI) Coding Tech 40min RubyConf 2017 Aja Hammerly
     * Object oriented (example in Ruby)
     * Functional (example in Racket)
+        * Pure == never store state, never modify inputs
+        * Data and procedures are separate - oo data and procedures are intertwined
+        * Prefix notation (rather than infix) - allow single operator to operate on a list
+        * Easy to test, reuse components and concurrency
     * Logical (example in Prolog)
         * Describe _what_ not _how_
         * Variables/Constants, Facts, Rules (specify relationships between facts)
@@ -164,13 +206,8 @@ High Level
         * Jump if eq, lt, gt
     
 
-Functional
-Pure == never store state, never modify inputs
-Data and procedures are separate - oo data and procedures are intertwined
-Prefix notiation - allow sinlge operator to operate on a list
-Concurrency!
-Easy to test
-Reuseabliliy
+
+
 
 https://www.amazon.co.uk/Concepts-Programming-Languages-Robert-Sebesta/dp/0321509684/
 
@@ -198,11 +235,13 @@ Language Cheat Sheet and Pair Programming
 * Task: 30min
     * With the _Visual Basic_ reference for a bubbelsort (below)
     * You are to use the _language_reference.html_ tool to attempt to convert this algorithm to another language
-        * (starting points for a range of languages has been provided)
+        * starting stub programs for a range of languages has been provided
+        * Try to use a language that you are both unfamiliar with
     * You are to use an online collaborative tool to attempt to pair program a solution
         * Possible technologies
             * https://replit.com/ + _Create repl_ + share link
             * GitPod https://gitpod.io/workspaces + start any workspace + share invite (share is located bottom middle of the screen)
+        * Remote pair programming is an important skill for any professional developer (post covid)
 
 * [langauge_reference.html](https://computingteachers.uk/static/langauge_reference.html)
 * Starting stubs [bubbelsort.md](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/data/bubbelsort.md)
@@ -623,4 +662,42 @@ class Rectangle():
 
 Async + await
 -------------
+
+
+
+
+Recommended Reading
+-------------------
+
+These will help you with your research task and serve as a refresher from some of today's workshops
+
+* [6 interesting features in programming languages](https://blog.frankel.ch/six-interesting-features-programming-languages/)
+    * JavaScript: prototypes
+        * JavaScript dynamic’s nature, it’s possible do add properties and functions to an existing instance.
+    * Kotlin: extension functions/properties
+    * Go: implicit interface implementation
+    * Clojure: "dependent types"
+    * Elixir: pattern matching
+    * Python: for-comprehensions
+* [The Coolest Programming Language Features](https://therenegadecoder.com/code/the-coolest-programming-language-features/) Jeremy Grifski 2021
+    * Extension Methods
+    * Macros
+    * Automatic Properties
+    * Optional Chaining
+    * Lambda Expressions
+    * Immutability
+    * Multiple Dispatch
+    * Destructuring
+    * Inline Testing
+    * Inline Assemblers
+    * Library Naming Conventions
+
+Final Thoughts
+--------------
+
+Many language features seem like good ideas, after years of use and scrutiny people begin to know the impact of the feature. Once it's part of a language features can rarely ever be removed as so much code is written to use them.
+Languages fall out of favour and new ones are always trying new ideas.
+
+> ... your scientists were so preoccupied with whether or not they could that they didn’t stop to think if they should.
+<sub>Jeff Goldblum - Jurassic Park</sub>
 
