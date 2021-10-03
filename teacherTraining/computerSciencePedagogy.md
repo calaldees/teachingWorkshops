@@ -338,6 +338,14 @@ Unsorted
         * https://flowchart.js.org/
         * https://mermaid-js.github.io/mermaid-live-editor/
 
+* [The Computer Science Student-Centred Instructional Continuum - CS-SCIC](https://blog.teachcomputing.org/the-computer-science-student-centred-instructional-continuum/) NCCE citing (Waite & Liebe, 2021)
+    1. Copy code: students are given step-by-step instructions to follow, e.g. copy an example program;
+    2. Targeted tasks: students are given a short task, e.g. fix buggy code, Parsons problems;
+    3. Shared coding: the teacher thinks aloud as they design and write code, sometimes called demonstrating or live coding, e.g. teacher models how to write a program;
+    4. Project-based: students are provided with a project goal and create a solution, e.g.create a quiz in Scratch;
+    5. Inquiry-based: students consider a scenario or question and create a solution, e.g. explore a set of code commands and discover ways to use them;
+    6. Tinkering: completely unstructured student-led exploration, e.g. explore a software”
+
 
 Autonmy over - academic railroad
 Creativity

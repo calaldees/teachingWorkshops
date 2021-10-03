@@ -239,3 +239,14 @@ More of my ideas for exercises above
 | I created a code | 
 | Save | Money at the bank |
 | Search | Like hide and seek |
+| Library | 
+| Jesus Saves |
+| Memory | Ho wmuch can 
+| Network | Friendship - building nets
+| Windows | cant see though it
+| Apple Mac | Coat for frut
+| Praommy on TV |
+| Cloud | up therir
+| Directory | Telephone or direction guide 
+| Fishing emails | I dont want to eat thing
+| Web| Spider web |

@@ -166,7 +166,7 @@ Java programers are typically weaker programmers - because that is what they hav
 Mainstream languages (support existing business tools)
 Find programmers that have the esoteric skill (less of them)
 Companies training their emploees from scratch.
-Norte Networks had their own language/tools for telephone switches.
+Nortel Networks had their own language/tools for telephone switches.
 
 Fads
 
@@ -176,7 +176,7 @@ Andorid App lifecycle
 
 Operator overloading
 side-effects
-C++ get operation modifys the dictionary
+
 
 
 Server Side

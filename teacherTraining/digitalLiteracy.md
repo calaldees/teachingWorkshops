@@ -25,13 +25,15 @@ ACTIVITY:
 
 
 * [Digital literacy within the computing curriculum](https://blog.teachcomputing.org/digital-literacy-within-the-computing-curriculum/) NCCE Report 2021
-    * Use of devices and applications
-    * Handling and storing data and information
-    * Design, creation, and editing of content
-    * Communication using technology
-    * Online safety
-    * Moral and ethical behaviour relating to technology
-
+    * Digital Literacy
+        * Use of devices and applications
+        * Handling and storing data and information
+        * Design, creation, and editing of content
+        * Communication using technology
+        * Online safety
+        * Moral and ethical behaviour relating to technology
+    * NCCE program Taxonomy - pg 9 + pg 10 - radar chart
+        * TODO
 
 ## What can you expect someone with Digital Literacy to be able to do?
 

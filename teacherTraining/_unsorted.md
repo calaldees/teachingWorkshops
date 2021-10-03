@@ -557,3 +557,7 @@ Youth social action - what are the benefits for careers education? - impact 2020
 
 
 
+---
+
+* [Wordsworth Rap - Class Dismissed - CBBC](https://www.youtube.com/watch?v=QzkubS3z3TE) 2016 1min
+    * Comedy clip of how you can make lesson too hip
