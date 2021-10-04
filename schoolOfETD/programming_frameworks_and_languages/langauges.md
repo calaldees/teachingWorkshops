@@ -221,6 +221,15 @@ aa = {'e':[13,14,15], 'f':[16,17,18]}
 # Question: Where is the data from the first `aa`? Where did it go?
 ```
 
+```python
+import sys
+a = []
+b = a
+sys.getrefcount(a)
+# The reference count for the empty list object [] was 3. 
+# The list object was referenced by a, b and the argument passed to sys.getrefcount().
+```
+
 Whiteboard/Visualiser: Demo?
 
 Memory management is dangerous to get wrong. 
@@ -716,8 +725,8 @@ class Rectangle():
     # Is operator overloading good? or bad? why?
 ```
 
-Async + await
--------------
+Async + await and the Event Loop
+--------------------------------
 
 ```javascript
 // Part 1: ---
@@ -779,6 +788,10 @@ async function do_steps() {
 const promise = do_steps();
 // Now imagine if `sleep(1000)` was replaced with `fetch("http://my.service.com/api/v1/do_stuff?name=me")`
 ```
+
+* Python and Javascript are "single process" technologies. They simply cannot support concurrency (without spawning more process's)
+* [What Is the Python Global Interpreter Lock (GIL)?](https://realpython.com/python-gil/)
+* We can augment these single process languages to be utilising that single process as much as possible by using an event loop. This helps with blocking IO.
 
 
 Recommended Reading
