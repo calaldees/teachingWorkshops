@@ -713,7 +713,7 @@ class Rectangle():
     def __add__(self, other):
         """
         This is a doctest - you can run this from the command line with
-        python3 -m doctest -o ELLIPSIS NAME_OF_FILE.py
+        python3 -m doctest -v -o ELLIPSIS NAME_OF_FILE.py
 
         >>> r1 = Rectangle(0,0,10,10)
         >>> r2 = Rectangle(5,5,20,20)
