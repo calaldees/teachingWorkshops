@@ -3,7 +3,7 @@ Session 2: Languages
 
 Recap
 -----
-QUESTION: 
+QUESTION: Whiteboard?
 * What did we cover last week?
 * Why are we doing this?
 
@@ -17,6 +17,13 @@ Objective
 ---------
 * Understand a range of programming language features
 * Be able to reason about the choice of a language for particular tasks
+
+Overview
+--------
+
+* Lecture (1 hour)
+* Pair Programming (30min)
+* Coding Exercises (2.5 hours)
 
 Next week
 ---------
@@ -36,19 +43,56 @@ Next week
 * Level 6: Read and think for yourself
 
 
-https://www.tutorialspoint.com/codingground.htm
-
+What do you know already?
+-------------------------
 
 TASK: Whiteboard
-Name as many languages as you can
-
-Can you categorise them?
-
+* TASK1: Name as many languages _features_ as you can
+* TASK2: Can you categorise them? (!)
 
 
+Every Language is good for something
+------------------------------------
 
-History
--------
+What should you learn?
+> Lower level languages reveal a lot of things behind the scenes in other languages
+
+* [The Most Popular Programming Languages & Their Uses (2020)](https://www.youtube.com/watch?v=rd6SgAIvGjw) Youtube 10min Tech with Tim
+    1. JS
+    2. Python
+    3. Java
+    4. Golang
+    5. C++
+    6. Typescript
+    7. Ruby
+    8. PHP
+    9. C
+
+Running Code this session
+-------------------------
+
+* [tutorialspoint.com/codingground](https://www.tutorialspoint.com/codingground.htm)
+    * Good
+        * Run code for MANY languages in the browser
+        * No login required
+    * Bad
+        * Mostly synchronous (no interaction or sleep)
+        * No live share
+* [replit.com](https://replit.com/)
+    * Good
+        * Live share support
+        * VERY fully featured
+            * Interaction (actual repl)
+            * Graphics (frame served)
+            * Ports (externally visible)
+    * Bad
+        * Login with GitHub account
+        * Must create a named workspace
+
+
+
+Old(ish) Languages
+------------------
 
 ### BASIC
 
@@ -156,78 +200,81 @@ Language Features
 
 ### Meta Programming
 
- reflection - programm inspecting itself while running
- some say this is unneeded as the language could support this itself
- changing the structure of the programm while running (is this a good thing?)
+* [Metaprogramming](https://en.wikipedia.org/wiki/Metaprogramming) Wikipedia
+    * > a program can be designed to read, generate, analyze or transform other programs, and even modify itself while running
 
+* Reflection - program inspecting itself while running
+    * Some say this is unneeded as the language could support this itself
+* Changing the structure of the program while running (is this a good thing?)
 
-### garbage collection
+* [Macro](https://en.wikipedia.org/wiki/Macro_(computer_science)#Parameterized_macro)
+    * Static languages
 
+### Garbage Collection
 
-### internationalisation
+Manual memory management or Automatic memory management
 
+```python
+aa = {'a':[1,2,3], 'b':[4,5,6]}
+bb = {'c':[7,8,9], 'd':[10,11,12]}
+aa = {'e':[13,14,15], 'f':[16,17,18]}
+# Question: Where is the data from the first `aa`? Where did it go?
+```
 
+Whiteboard/Visualiser: Demo?
 
+Memory management is dangerous to get wrong. 
+Most programmers mess this up because we are only human. 
+So most languages prefer automattic memory management.
+
+* Reference counting
+* You don't have control over the garbage collection thread
+    * This is an issue for hard realtime systems (one of the biggest complaints of java)
+    * (I think) Java has 30 different garbage collection methods/strategies
+* C, C++, Rust have manual memory management model
+    * Memory leaks
+    * Rust has excellent primitives for this
+
+### Internationalisation
+
+* Some older languages only support `bytes` and don't handle `unicode` as part of the language.
+* This was THE major issue in moving from python2 to python3 and caused lots of compatibility issues.
+
+### Less is more?
 
 * [Less is more: language features](https://blog.ploeh.dk/2015/04/13/less-is-more-language-features/) Mark Seemann 2015
     * Venn diagrams visualising languages features compared to possible errors and valid code
 
+### Language Evaluation Criteria
 
-* [The Most Popular Programming Languages & Their Uses (2020)](https://www.youtube.com/watch?v=rd6SgAIvGjw) Youtube 10min Tech with Tim
-    1. JS
-    2. Python
-    3. Java
-    4. Golang
-    5. C++
-    6. Typescript
-    7. Ruby
-    8. PHP
-    9. C
-
-Low Level
-High Level
-Lower level languages reveal a lot of things behind the scenes in other languages
-
-* [4 Programming Paradigms In 40 Minutes](https://www.youtube.com/watch?v=cgVVZMfLjEI) Coding Tech 40min RubyConf 2017 Aja Hammerly
-    * Object oriented (example in Ruby)
-    * Functional (example in Racket)
-        * Pure == never store state, never modify inputs
-        * Data and procedures are separate - oo data and procedures are intertwined
-        * Prefix notation (rather than infix) - allow single operator to operate on a list
-        * Easy to test, reuse components and concurrency
-    * Logical (example in Prolog)
-        * Describe _what_ not _how_
-        * Variables/Constants, Facts, Rules (specify relationships between facts)
-        * _ancestors_ example
-        * programs can run backwards and forwards finding missing value
-    * Procedural (example in Assembler)
-        * two register A and D
-        * no multiplication, devision
-        * constants go to A
-        * Jump if eq, lt, gt
-    
-
-
-
-
-https://www.amazon.co.uk/Concepts-Programming-Languages-Robert-Sebesta/dp/0321509684/
-
-[Design Criteria for Programming Languages](http://jcsites.juniata.edu/faculty/rhodes/lt/plcriteria.htm) 2015
-https://progr-harrykar.blogspot.com/2018/11/language-evaluation-criteria.html
+* [Evaluating Programming Languages](https://cs.lmu.edu/~ray/notes/evaluatingprogramminglanguages/)
+    * > So, if you ever get into an argument about programming languages, what should you say?
+    * Criteria for Evaluation • Popularity • Understanding Evaluation Tradeoffs
+* [Language Evaluation Criteria](https://progr-harrykar.blogspot.com/2018/11/language-evaluation-criteria.html) 2018
+* [Design Criteria for Programming Languages](http://jcsites.juniata.edu/faculty/rhodes/lt/plcriteria.htm) 2015
 
 Some criteria
+* Read-ability
+* Writ-ability
+* Reliability
+* Cost
+* Generality
+* Extensibility
+* Standard-ability
+* Support for internationalization
 
-    Readability
-    Writability
-    Reliability
-    Cost
-    Generality
-    Extensibility
-    Standardability
-    Support for internationalization
 
+### Complexity?
 
-https://redmonk.com/dberkholz/2013/03/25/programming-languages-ranked-by-expressiveness/
+```c
+for (i = 0; i < 100; i++) printf("hello"); /* How many lines of code is this? */
+```
+https://en.wikipedia.org/wiki/Source_lines_of_code
+
+Measures of complexity
+* [Halstead_complexity_measures](https://en.wikipedia.org/wiki/Halstead_complexity_measures) Wikipedia
+* [Cyclomatic_complexity](https://en.wikipedia.org/wiki/Cyclomatic_complexity) Wikipedia
+
 
 
 Language Cheat Sheet and Pair Programming
@@ -286,6 +333,10 @@ End Module
 Number Handling
 ---------------
 
+Static/Compiled seem to be different to Dynamic/Interpreted. Let's look.
+
+Run all of these
+
 ```java
 int a = Integer.MAX_VALUE;
 System.out.println(a);
@@ -311,7 +362,8 @@ Number.MAX_SAFE_INTEGER+1 === Number.MAX_SAFE_INTEGER+2
 https://en.wikipedia.org/wiki/Nuclear_Gandhi
 
 
-Dynamic/Static
+### Typing
+Static languages it's explicit
 ```python
 ll = [4,5,6,7]
 type(ll)
@@ -320,6 +372,7 @@ type(ll)
 const ll = [4,5,6,7];
 typeof(ll);
 ```
+
 
 Missing basic language features - IndexOf item in array
 -------------------------------------------------------
@@ -398,8 +451,10 @@ class Main {
 
 * [Java Collections Framework](https://docs.oracle.com/javase/8/docs/technotes/guides/collections/overview.html)
     * Ability to abstract the implementation from the interface
-    * https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Collection.html
+    * [java.util.Collection](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Collection.html)
+        * List, Set, Map
 
+Whiteboard/Visualiser?
 
 * Arrays
     * Performant random access
@@ -751,6 +806,45 @@ These will help you with your research task and serve as a refresher from some o
     * Inline Testing
     * Inline Assemblers
     * Library Naming Conventions
+* [Programming languages ranked by expressiveness](https://redmonk.com/dberkholz/2013/03/25/programming-languages-ranked-by-expressiveness/)
+    * Some data analysis of the expressiveness of languages
+    * Interesting to see categorisation of languages
+* Video [4 Programming Paradigms In 40 Minutes](https://www.youtube.com/watch?v=cgVVZMfLjEI) Coding Tech 40min RubyConf 2017 Aja Hammerly
+    * Object oriented (example in Ruby)
+    * Functional (example in Racket)
+        * Pure == never store state, never modify inputs
+        * Data and procedures are separate - oo data and procedures are intertwined
+        * Prefix notation (rather than infix) - allow single operator to operate on a list
+        * Easy to test, reuse components and concurrency
+    * Logical (example in Prolog)
+        * Describe _what_ not _how_
+        * Variables/Constants, Facts, Rules (specify relationships between facts)
+        * _ancestors_ example
+        * programs can run backwards and forwards finding missing value
+    * Procedural (example in Assembler)
+        * two register A and D
+        * no multiplication, division
+        * constants go to A
+        * Jump if eq, lt, gt
+* Books
+    * [Seven Languages in Seven Weeks - A Pragmatic Guide to Learning Programming Languages](https://pragprog.com/titles/btlang/seven-languages-in-seven-weeks/) 2010 by Bruce A. Tate
+        * ISBN 9781934356593
+        * Ruby, IO, Prolog, Scala, Clojure, Haskell
+    * [Exercises in Programming Style](https://www.routledge.com/Exercises-in-Programming-Style/Lopes/p/book/9780367350208) 2020 Cristina (Crista) Lopes
+        * ISBN 9780367350208
+        * Part 1 Historical
+        * Part 2 Basic Styles
+        * Part 3 Function Composition
+        * Part 4 Objects and Object Interaction
+        * Part 5 Reflection and Metaprogramming
+        * Part 6 Adversity
+        * Part 7 Data-Centric
+        * Part 8 Concurrency
+        * Part 9 Interactivity
+        * Part 10 Neural Networks
+    * [Concepts of Programming Languages: International Edition](https://www.amazon.co.uk/Concepts-Programming-Languages-Robert-Sebesta/dp/0321509684/)
+        * ISBN-13 978-0321509680
+
 
 Final Thoughts
 --------------

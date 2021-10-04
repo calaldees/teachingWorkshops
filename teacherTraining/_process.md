@@ -14,6 +14,8 @@ Learning Support Plan (LSP) - Long Term
 Temporary Learning Agreement (TLA) - More than 14 days up to end of academic year
 -----------------------------------
 
+* [temporary-learning-agreement](https://www.canterbury.ac.uk/our-students/ug-current/academic-services/assessments/temporary-learning-agreement)
+
 * Student initiated
 * Developed with PAT and then agreed by Programme Director
     * PAT may need to see evidence but this does not need to be forwarded on
