@@ -10,8 +10,10 @@ QUESTION: Whiteboard?
 Announcements
 -------------
 * Attempting to book campus rooms
+    * Next week on campus VH.1.26 (morning), VH.1.02 (afternoon)
 * Extending Assignment 1 by one week to 08/11/2021
     * Results of quiz showed weakness in understanding of anatomy of a web service - extra session
+
 
 Objective
 ---------
