@@ -308,6 +308,7 @@ Language Cheat Sheet and Pair Programming
 ### Reference Implementation
 This can be copy/paste/run at
 https://www.tutorialspoint.com/compile_vb.net_online.php
+visual basic .net
 ```vb
 Module VisualBasic
 
@@ -348,22 +349,26 @@ Static/Compiled seem to be different to Dynamic/Interpreted. Let's look.
 
 Run all of these
 
+java
 ```java
 int a = Integer.MAX_VALUE;
 System.out.println(a);
 System.out.println(a+1);
 ```
+csharp
 ```csharp
 int a = Int32.MaxValue;
 Console.WriteLine(a);
 Console.WriteLine(a+1);
 ```
+python
 ```python
 import sys
 a = sys.maxsize
 print(a)
 print(a+1)
 ```
+javascript
 ```javascript
 let a = Number.MAX_SAFE_INTEGER;
 console.log(a);
@@ -375,10 +380,12 @@ https://en.wikipedia.org/wiki/Nuclear_Gandhi
 
 ### Typing
 Static languages it's explicit
+python
 ```python
 ll = [4,5,6,7]
 type(ll)
 ```
+javascript
 ```javascript
 const ll = [4,5,6,7];
 typeof(ll);
@@ -391,19 +398,23 @@ Missing basic language features - IndexOf item in array
 * Run these examples
 * Briefly scan the stackoverflow pages
 
+javascript
 ```javascript
 const ll = [4,5,6,7];
 ll.indexOf(6);
 ```
+python
 ```python
 ll = [4,5,6,7]
 ll.index(6)
 ```
+java
 ```java
 int[] ll = new int[]{4,5,6,7};
 // ???
 // https://stackoverflow.com/questions/1522108/how-to-find-the-index-of-an-element-in-an-array-in-java
 ```
+golang
 ```golang
 ll := []int{4,5,6,7}
 // ???
@@ -417,6 +428,7 @@ ll := []int{4,5,6,7}
 Implementation Abstraction
 --------------------------
 
+java
 ```java
 // Predict what this program should print (preferably discuss your idea with another person)
 // then run it
@@ -488,6 +500,7 @@ In high level languages, we don't know what the system is doing. We use whatever
 Mutability
 ----------
 
+javascript
 ```javascript
 // Predict what this program should print (preferably discuss your idea with another person)
 // then run it
@@ -520,6 +533,7 @@ console.log(ll);
 Reference Equality by default
 -----------------------------
 
+java
 ```java
 // Predict what this program should print (preferably discuss your idea with another person)
 // then run it
@@ -540,6 +554,7 @@ class Main {
 Prototypical Inheritance
 ------------------------
 
+javascript
 ```javascript
 // from https://blog.frankel.ch/six-interesting-features-programming-languages/
 
@@ -590,6 +605,7 @@ const person3 = new Person("Nicolas", Date.now());
 Decorators
 ----------
 
+python
 ```python
 # TASK:
 # Attempt to modify this decorator to:
@@ -642,6 +658,7 @@ if __name__ == "__main__":
 Operator Overloading
 --------------------
 
+python
 ```python
 # Predict what this program should print (preferably discuss your idea with another person)
 # then run it
@@ -681,6 +698,7 @@ if __name__ == "__main__":
     )
 ```
 
+python
 ```python
 class Rectangle():
     def __init__(self, x1, y1, x2, y2):
@@ -730,6 +748,7 @@ class Rectangle():
 Async + await and the Event Loop
 --------------------------------
 
+javascript
 ```javascript
 // Part 1: ---
 // Predict what this program should print (preferably discuss your idea with another person)
