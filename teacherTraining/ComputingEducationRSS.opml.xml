@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>ComputingTeachers.uk Computing Education - subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Redit: Computing Education" title="Redit: Computing Education">
+            <outline type="rss" text="computer science education Reddit Alert" title="computer science education Reddit Alert" xmlUrl="https://api.reddit.com/search/computer%20science%20education;relevance/b47d857d-96e5-4873-bb45-fe580fa510b5" htmlUrl="https://www.reddit.com/search/?q=computer%20science%20education&amp;type=link&amp;sort=relevance"/>
+            <outline type="rss" text="Computer Science Educators" title="Computer Science Educators" xmlUrl="http://www.reddit.com/r/CSEducation/.rss" htmlUrl="https://www.reddit.com/r/CSEducation/"/>
+        </outline>
+        <outline text="Education (general)" title="Education (general)">
+            <outline type="rss" text="News and communications from Department for Education (DfE)" title="News and communications from Department for Education (DfE)" xmlUrl="http://www.education.gov.uk/inthenews/inthenews.rss" htmlUrl="https://www.gov.uk"/>
+            <outline type="rss" text="impact.chartered.college" title="impact.chartered.college" xmlUrl="https://impact.chartered.college/feed/" htmlUrl="https://impact.chartered.college"/>
+            <outline type="rss" text="David Didau" title="David Didau" xmlUrl="http://learningspy.co.uk/feed/" htmlUrl="https://learningspy.co.uk"/>
+            <outline type="rss" text="News and communications from Ofsted" title="News and communications from Ofsted" xmlUrl="http://www.ofsted.gov.uk/news/rss/" htmlUrl="https://www.gov.uk"/>
+            <outline type="rss" text="Ofsted: schools, early years, further education and skills" title="Ofsted: schools, early years, further education and skills" xmlUrl="https://educationinspection.blog.gov.uk/feed/atom/" htmlUrl="https://educationinspection.blog.gov.uk"/>
+        </outline>
+        <outline text="Computing Education" title="Computing Education">
+            <outline type="rss" text="Computing At School News" title="Computing At School News" xmlUrl="http://community.computingatschool.org.uk/news_items/rss" htmlUrl="https://community.computingatschool.org.uk/news_items"/>
+            <outline type="rss" text="forward thinking in learning" title="forward thinking in learning" xmlUrl="http://innovativeteacher.org/?feed=rss2" htmlUrl="http://innovativeteacher.org"/>
+            <outline type="rss" text="CSE: Computer Science Education" title="CSE: Computer Science Education" xmlUrl="https://www.tandfonline.com/feed/rss/ncse20" htmlUrl="https://www.tandfonline.com/loi/ncse20?af=R"/>
+            <outline type="rss" text="NCCE: National Centre for Computing Education" title="NCCE: National Centre for Computing Education" xmlUrl="https://blog.teachcomputing.org/rss/" htmlUrl="https://blog.teachcomputing.org/"/>
+            <outline type="rss" text="Educational Tech Ideas" title="Educational Tech Ideas" xmlUrl="http://blogs.dickinson.edu/edtech/feed/" htmlUrl="https://blogs.dickinson.edu/edtech"/>
+            <outline type="rss" text="John Spencer" title="John Spencer" xmlUrl="http://www.educationrethink.com/feeds/posts/default" htmlUrl="https://spencerauthor.com"/>
+            <outline type="rss" text="JEC: Journal of Educational Computing Research" title="JEC: Journal of Educational Computing Research" xmlUrl="https://journals.sagepub.com/action/showFeed?ui=0&amp;mi=ehikzz&amp;ai=2b4&amp;jc=jeca&amp;type=etoc&amp;feed=rss"/>
+            <outline type="rss" text="DfE Digital and Technology" title="DfE Digital and Technology" xmlUrl="https://dfedigital.blog.gov.uk/feed/" htmlUrl="https://dfedigital.blog.gov.uk"/>
+            <outline type="rss" text="Computers &amp; Education" title="Computers &amp; Education" xmlUrl="http://rss.sciencedirect.com/publication/science/03601315" htmlUrl="https://www.sciencedirect.com/journal/computers-and-education"/>
+            <outline type="rss" text="Computing Education Research Blog" title="Computing Education Research Blog" xmlUrl="http://computinged.wordpress.com/feed/" htmlUrl="https://computinged.wordpress.com"/>
+            <outline type="rss" text="TPEA" title="TPEA" xmlUrl="https://tpea.ac.uk/feed/" htmlUrl="https://tpea.ac.uk"/>
+            <outline type="rss" text="Innovation in Teaching and Learning in Information and Computer Sciences" title="Innovation in Teaching and Learning in Information and Computer Sciences" xmlUrl="https://www.tandfonline.com/feed/rss/rhep14" htmlUrl="https://www.tandfonline.com/loi/rhep14?af=R"/>
+            <outline type="rss" text="Technology in Education" title="Technology in Education" xmlUrl="http://zumpanotechlab.blogspot.com/feeds/posts/default" htmlUrl="http://zumpanotechlab.blogspot.com/"/>
+            <outline type="rss" text="JoCHE: Journal of Computing in Higher Education" title="JoCHE: Journal of Computing in Higher Education" xmlUrl="http://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=12528&amp;channel-name=Journal+of+Computing+in+Higher+Education" htmlUrl="http://link.springer.com"/>
+        </outline>
+    </body>
+</opml>

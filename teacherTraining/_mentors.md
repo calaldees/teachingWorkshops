@@ -64,6 +64,8 @@ You are a pivotal character in their career
 Mentor Email Templates
 ----------------------
 
+### 2020
+
 Subject: Christ Church - Subject Tutor - Introductions
 
 My name is Allan Callaghan.
@@ -88,8 +90,36 @@ Feel free to contact me to discuss anything if needed.
 I'm looking forward to working with you.
 
 
-Allan Callaghan
-Subject Tutor for PGCE/SD Computing
+### 2021
+
+Hi YYYY,
+(XXXX: Thanks for the introduction)
+(CC'ing in ZZZZ as Professional Mentor as part of process)
+
+I am XXXX's Subject Tutor at Canterbury Christ Church University (CCCU).
+Thank you so much for being part of our partnership and taking on-board a trainee teacher.
+
+I wanted to extend an offer of support to assist you with your mentoring.
+Ofted have identified that across the country there is often a disconnect between the mentoring in school and guidance from university's. 
+As part of my role at at CCCU I am to support mentors with the mentoring process by providing guidance and collaboration to support our trainees.
+
+It would be good to meet you over the next couple of months to discuss in more detail our training curriculum and collaborate on ideas to support XXXX.
+I can visit your school in person or we can arrange a 'virtual visit' via MSTeams.
+This visit/support is optional, but generally encouraged.
+
+If you want to book a 'quick chat' video meeting with me or book a longer 'remote mentor visit' you can use my online booking link (also in my footer).
+https://outlook.office365.com/owa/calendar/PGCESDComputing@cccu.onmicrosoft.com/bookings/
+
+We have a range of mentor resources to support you at:
+http://ccccumentors.org.uk
+username: cccu-mentors
+password: CCCUmentors
+
+Have you mentored before or are you a veteran mentor?
+Are you aware of the subject curriculum XXXX is following at uni?
+
+I'm looking forward to working with you this year.
+Let's keep in touch.
 
 
 Mentor Visit Email Templates

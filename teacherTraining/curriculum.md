@@ -324,7 +324,11 @@ Some just use GCSE grades for KS3. This is not what GCSE grades were designed fo
     * [Life without levels](https://teacher.computerscienceuk.com/life-without-levels/)
     * [KS3 Curriculum Maps](https://computerscienceuk.com/ks3-curriculum-maps/) per year and assessment
     * [blog](https://teacher.computerscienceuk.com/blog/)
-
+* [CSTA K–12 CS Standards](https://www.csteachers.org/page/standards) US 2017
+    * [K-12 Computer Science Standards](https://drive.google.com/file/d/1-dPTAI1yk2HYPKUWZ6DqaM6aVUDa9iby/view)
+        * Long list of level descriptors
+        * Specifically lists cyber security and culture as topics - pretty interesting
+    * [Progression of Computer Science Teachers Association (CSTA) K-12 Computer Science Standards, Revised 2017](https://csteachers.org/documents/en-us/d227e2a4-ce35-434e-a20b-24355d11b015/1/)
 
 School inspection criteria for Computing (10min)
 -----------------------------------------

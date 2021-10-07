@@ -91,6 +91,7 @@ Computing in Education (5 min)
 
 * Tell me about the current Computing syllabus in schools
     * What books/articles/blogs/videos have you encountered about teaching Computing?
+* How do you think computer science could/should be taught in the classroom?
 * What do you think young people will find the most challenging aspect of learning computing?
 * How would teaching Computing differ from other subjects?
 * Can you envisage a problematic scenario in a computing classroom?
