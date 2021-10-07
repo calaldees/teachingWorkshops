@@ -172,6 +172,10 @@ Don't wait for leadership to tell you what to do.
 Get involved with other subjects teachers!
 
 
+TODO:
+Loads of Computing subject crossover here
+https://teachinglondoncomputing.org/interdisciplinary-computational-thinking/
+
 
 Model: Example Cross Curricular Lesson (lecture 30min)
 -------------------------------

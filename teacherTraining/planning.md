@@ -13,15 +13,15 @@ Planning
 
 ### Parts
 
-    * Computing in School
-    * Schemes of Work
-    * Context Based Learning and Relevancy
-    * Metaphors
-    * Create a lesson concept
+* Computing in School
+* Schemes of Work
+* Context Based Learning and Relevancy
+* Metaphors
+* Create a lesson concept
 
 
-Computing in schools
---------------------
+Computational Thinking
+----------------------
 
 What are the skills of reasoning and problem solving in Computer Science and how are computing departments addressing these?
 
@@ -29,8 +29,8 @@ What are the skills of reasoning and problem solving in Computer Science and how
 * Computational Thinking
     * Components
         * Decomposition
-        * Pattern Recognition
-        * Abstraction
+        * Pattern Recognition/DataOrganisation
+        * Generalisation/Abstraction
         * Algorithms
     * Info
         * [BBC Bitesize](https://www.bbc.co.uk/bitesize/guides/zp92mp3/revision/1)
@@ -48,8 +48,8 @@ A scheme of work implements a syllabus.
 * [Scheme of work](https://en.wikipedia.org/wiki/Scheme_of_work)
     * > the structure and content of an academic course (syllabus). 
       > It splits an often-multi-year curriculum into deliverable units of work,
-    * may include
-        * Content 1
+    * May include
+        * Content
         * Objectives or Outcomes
         * Methods of delivery (student and teacher activity)
         * Assessment strategies
@@ -68,18 +68,23 @@ Reminder:
 * KS3 == Year 7 to Year 9 (Level 0 to 1)
 * KS4 == Year 10 and Year 11 (Level 1 to 2)
 
-Pre-Task: Read the [KS3 Computing National Curriculum](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study#key-stage-3)
+Your familiar with [KS3 Computing National Curriculum](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study#key-stage-3)
 
-TASK 1: 30min Find, Read, Analyse a number of KS3 Computing Schemes of work. Some examples are given below
-Questions: 
-1. How do the topics map to the National Curriculum?
+TASK 1: In pairs, compare the KS3 SOW from your schools. (20min)
+
+Make notes on + be prepared to present
+1. How do the topics map to the National Curriculum? (is this specified?)
 2. What are the links between topics for year 1, 2, 3? 
     * What kind of progression are the creators thinking about?
 3. What similarities/differences are there between the schemes of work?
-4. Other than the sequence of content, what other teaching resources are provided?
-5. Would you be able to teach any of these units with the resources provided?
 
-TASK 2: 30min Discuss your findings with group, paste links in chat, share screens, talk about what you've found
+(10min group confer)
+
+TASK 2: Explore other KS3 SOW online (20min)
+1. Other than the sequence of content, what other teaching resources are provided?
+2. Would you be able to teach any of these units with the resources provided?
+
+(10min group confer)
 
 * [teachcomputing.org: Key stage 3 resources](https://teachcomputing.org/curriculum/key-stage-3/)
     * [Teach Computing Curriculum Journey](https://static.teachcomputing.org/curriculum_journey.pdf)
@@ -90,14 +95,10 @@ TASK 2: 30min Discuss your findings with group, paste links in chat, share scree
     * > buying, or using, someone else's scheme of work makes teachers less effective because they spend less time thinking about the curriculum as a whole, and that teachers and departments that create their own curriculum or scheme of work have more "impact".
     * [KS3 Computing Scheme of Work - Year 1](https://www.advanced-ict.info/theory/NC/scheme_1.html)
     * [KS3 Computing Scheme of Work - Year 2](https://www.advanced-ict.info/theory/NC/scheme_2.html)
-* TES Teaching Resources (free low res preview are readable - login required for download)
-    * [WHHS_ICT](https://www.tes.com/teaching-resource/key-stage-3-computing-scheme-of-work-11304686)
-    * [BrianUK](https://www.tes.com/teaching-resource/key-stage-3-ks3-computing-scheme-of-work-6181029)
-    * [gdown3](https://www.tes.com/teaching-resource/complete-ks3-sow-for-computer-science-11345328)
 * [Google: ks3 computing scheme of work](https://www.google.com/search?q=ks3+computing+scheme+of+work)
     * There is a wealth of resources out there! Go and explore!
 
-
+> Hattie also makes the point that buying, or using, someone else's scheme of work makes teachers less effective because they spend less time thinking about the curriculum as a whole, and that teachers and departments that create their own curriculum or scheme of work have more "impact".
 
 ### Scheme of work - example
 Let's get some hands on!
@@ -115,9 +116,28 @@ As well as free resources teachers share online. There are also paid for resourc
         * [Compute-IT 1: Unit 3 Lesson 3](http://my.dynamic-learning.co.uk/ViewLesson.aspx?i=DC06DC60-5268-417B-98AF-E81CE0E4B5D7&l=2556999&u=e27bc3ac-2aa5-4aa7-8601-b58991e957e9&vle=true)
     * [CPD Video Lessons](https://www.youtube.com/watch?v=A0rxQnxEdiI&list=PL_8st1egDh7av261LnYKAe1guRlM1M9eB&index=3)
 
-* [Textbooks for the teaching of computing](https://eprints.soton.ac.uk/441674/1/Textbooks.pdf)  John.Woollard@computingatschool.org.uk 2020
-    * Why use textbooks
-    * Why not use textbooks
+* [Textbooks for the teaching of computing](https://eprints.soton.ac.uk/441674/1/Textbooks.pdf) John.Woollard CAS 2020
+    * Objectives
+        1. To what extent would high-quality textbooks raise the quality of teaching and learning in computing at school?
+        2. Is it advantageous to have such books available in physical hard copy?
+        3. Is there a shortage of such textbooks?
+        4. Where would lack of textbooks sit in a priority list of obstacles to high quality computing education at school?
+        5. How can publishers be encouraged to produce materials for teaching computing?
+    * Good
+        * impact (statistically significant at the 5%)
+        * makes authoritative, higher degree of quality assurance. 
+        * out-of-school learning
+        * independent learning, behaviour management (isolation activities)
+        * Cognitive benefit of tangible textbooks. Ability to flip back and forth between pages. Provides more mental clarity.
+        * act as the programme of learning
+    * Against
+        * Outdate (external links)
+        * Physical books no active element
+        * Requires literacy
+        * Teachers can edit/adapt
+        * Cost
+
+
 
 #### [Scratch](https://scratch.mit.edu/)
 
@@ -135,12 +155,16 @@ Can't fill shapes
 import turtle
 t = turtle.Pen()
 t.forward(100)
+
+def example_function(my_para1, my_param2):
+    t.fd(my_para1)
+    t.rt(my_param2)
 ```
 
-* Tasks - important personal exploration? Plan your shapes
-    * House
-    * Tree (filled circles or triangles)
-    * Snowman
+* Tasks - Personal exploration? Attempt to build a function that draws ...
+    * House?
+    * Snowman?
+    * Tree (filled circles or triangles)?
 
 
 Context Based Learning and Relevancy
@@ -155,8 +179,9 @@ Things I try to avoid:
     * Ponys
 * Try to avoid computer games as a theme
     * These can alienate some demographics immediately
+    * > Games are pointless, they don't do anything (for the world)
 * Tasks for the sake of a task
-    * "Add these number together" "Why" "Because it's the task"
+    * "Add these number together", "Why", "Because it's the task"
     * (This is less of a problem for A-Level as they have chosen the subject)
 
 
@@ -178,9 +203,22 @@ Things I try to avoid:
     * [Simple Celtic artwork](https://www.google.com/search?q=simple+celtic+artwork&tbm=isch) (circles)
     * [Simple Islamic artwork](https://www.google.com/search?q=simple+islamic+artwork&tbm=isch) (repeating geometric patterns/colors)
 
+By adding context you immediately unlock further computational thinking skills: analysis, decomposition, algorithms
+
 ### Relevancy/Context Reading
 
 * [Top 12 Ways to Bring the Real World into Your Classroom](https://www.teachhub.com/classroom-activities/2010/05/top-12-ways-to-bring-the-real-world-into-your-classroom/)
+    * Invite guest speakers
+    * Developing empathy for others (societal)
+    * Current events, Use the news
+    * Social justice (standing up for what is right. peacefully protest)
+    * Field trips
+    * Manners and etiquette
+    * Finance training (understand basic societal economics) classroom economy?
+    * Primary source documents
+    * Simulate a real-world experience
+    * Community work
+    * Life skills
 * [Connecting Science Class to the Real-World](https://www.3plearning.com/blog/connecting-science-class-real-world/)
 
 TASK: Now we have explored the skills and the context. Refer back to the Compute-IT teaching resource examples
@@ -210,12 +248,40 @@ DEMO: box's metaphors
 Plan a lesson - concept
 -----------------------
 
+Are you ready for something cognately HARD ... so far you have been given information .. now it's time to generate it! You don't have enough experience to tackel this yet. It is just an introduction.
+
+Anatomy of a lesson
+* previous lesson
+* Objectives (what do you want students to learn - not do)
+* Entry + task routines?
+* Keywords
+* Outcome: All/Most/Some?
+* Interventions: Indipendent/misconceptions,hurdles/not quite got the core concept
+* Differenceiation: stretch the more able, support the weaker
+* Transitions (How you move from one mode/task to the next)
+* Check their understanding of the task + where the support is
+* Plenary
+* How will you know they have made progress?
+
+write it, say it to peer, say it to me
+hook, storytell
+what did we learn last lesson
+new material (heres one I made earlyer)
+Saffolding and fading (when do you remove the support)
+
+* Starter/Plenary?
+    * [Mike Gershon - Resources for teachers](https://mikegershon.com/resources/) - free powerpoint on starters plenerys and afl tools
+        * "The Starter Generator: KS2, KS3, KS4 Starters" + "Plenaries on a Plate"
+
+[5min Lesson Plan 2021](https://youtu.be/mBWK2AsnFjU?t=349)
+
 TASK 1: 30min
 
 * You've heard about National Curriculum, Context based learning, Metaphors
 * Pick a concept from the KS3 National Curricumum (Some topic ideas are listed below)
 * With that topic - come up with a _concept_ for a sequence of 2 or 3 tasks that convey a computing concept with a relevant context and/or a physical metaphors
-* Can you highlight 2 or 3 technical computing terms you would convey in this lesson/
+* Can you highlight 2 or 3 technical computing terms you would convey in this lesson?
+
 * Have a look at the "Lesson Planning Form"
     * [All Documentation (Padlet)](https://cccu.padlet.org/sharron_mackenzie1/nsp03wkvd1u5zx0z) Lesson Planning Form
     * Using the columns headings on page 2 - Can you put describe you 2 or 3 tasks
@@ -288,18 +354,21 @@ Teacher Standards
 
 
 
-Reading for this session
-------------------------
+Computing Pedagogy
+------------------
 
-To complement this session please read the following items:
-
+* [Hello World — Issue 0](https://helloworld.raspberrypi.org/issues/0) Sep 2021
 * [CAS - Computing in the national curriculum - A guide for secondary teachers](https://www.computingatschool.org.uk/data/uploads/cas_secondary.pdf)
     * Skim this document - It's the CAS overview of delivering Computing
 * [Computing in the curriculum: Challenges and strategies from a teacher’s perspective](https://link.springer.com/article/10.1007/s10639-016-9482-0) 2016 Sue Sentance and Andrew Csizmadia
     * (Quick note about - research sample methods and codification)
-    * (This is a superb item of research. Please read in detail)
     * Asked 300 active Computing teachers how they recommend teaching the subject
-    * five key themes
+    * Questions asked
+        1. What good techniques/strategies have you found for helping students to understand programming?
+        2. Please describe any good techniques/strategies you use for helping students to understand other aspects of Computing?
+        3. What difficulties, if any, have you experienced teaching programming?
+        4. What difficulties, if any, have you experienced teaching other aspects of Computing
+    * Five key themes
         * unplugged type activities
         * contextualisation of tasks
         * collaborative learning
@@ -308,10 +377,6 @@ To complement this session please read the following items:
 
 
 
-
-
-
-PGCE: Subject Pedagogy Assignment has been finalised
 
 
 
