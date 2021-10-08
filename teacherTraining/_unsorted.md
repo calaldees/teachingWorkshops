@@ -561,3 +561,94 @@ Youth social action - what are the benefits for careers education? - impact 2020
 
 * [Wordsworth Rap - Class Dismissed - CBBC](https://www.youtube.com/watch?v=QzkubS3z3TE) 2016 1min
     * Comedy clip of how you can make lesson too hip
+
+
+
+---
+
+
+Metaphors
+---------
+
+Physical metaphors are powerful links to the world-view of the student.
+Always be 
+
+* Computer Science Education: Perspectives on Teaching and Learning (2018): Sentance Sue, Barendsen Erik, Schulte Carsten
+    * Computing can be very abstract subject
+        * We can use Metaphors and Analogies
+            * Physical tactile manifestation
+    * We are trying to build _Competency Model_ rather than _tickbox objectives_
+        * _Comprehension oriented_ not _Creation oriented_
+    * To plan a lesson: start with _required competencies_ and work backwards from there
+
+DEMO: box's metaphors
+
+
+
+* [The Case Against Education](https://learningspy.co.uk/featured/the-case-against-education/) David Didau
+    * Education dose not help economically in the long term
+
+* [Computer Science Unplugged](https://csunplugged.org/en/)
+
+
+[Computing at School: Resources List](https://community.computingatschool.org.uk/resources/list)
+
+
+[complete lesson observation form example](https://community.computingatschool.org.uk/files/8251/original.pdf)
+
+
+
+
+Types of school
+* [UK School Types](https://www.careerteachers.co.uk/blog/uk-school-types)
+* [Independent school system in a nutshell](https://www.goodschoolsguide.co.uk/choosing-a-school/independent-schools/uk-independent-schools-explained)
+
+
+Learned helpness - what are we teaching young people? is the school system outside of their influence? or are they part of it? How can they change the world?
+School isnt going to tell you how to get to where you want to be in life - you need to do that (and more imprtantly, think about where you want to go, but have a backup plan)
+
+* [The Parity Of Zero](https://www.solipsys.co.uk/new/TheParityOfZero.html)
+    * > all the patterns say that the number zero is even
+    * > They don't believe that the number zero is neither even nor odd because they are stupid, but because (a) they have been told so, or (b) they don't think it matters and have guessed, and (c) they have no reason to believe otherwise
+    * >> Does the Earth go around the Sun, or does the Sun go around the Earth?
+      >> Roughly how long does it take?
+      > Of those people who answered the first question correctly, about 80% of them then said:
+      > About a day
+      > They don't care
+    * >> People don't want to be educated, they want to be entertained
+    * > if we can provoke a degree of curiosity, get people involved with a story, then provide an immensely satisfying denouement, then perhaps we can both educate and entertain, and leave them with more knowledge, understanding, and skill
+
+* [Do Adults Really Not Remember School Sucked?](https://www.ianwelsh.net/do-adults-really-not-remember-school-sucked/)
+    * During the pandemic 'Kids miss school' - do they? - do they just miss their friends? that's not school related, that's pandemic related. Do adults just want daycare?
+
+* [officeforstudents.org.uk - young-participation-by-area](https://www.officeforstudents.org.uk/data-and-analysis/young-participation-by-area/)
+    * Interactive maps
+        * See how likely young people are to participate in higher education according to where they live
+
+
+---
+
+How is knowing how computer work worthwhile for these students?
+
+Computer Science is one size fits all - no foundation paper, no double GCSE module.
+The paper is science, smart, hard, are you good enough?
+(How do we foster creativity?)
+
+Hard for students to learn by themselves - lots of abstract content
+
+Pipeline problem with minorities
+Inclusion
+
+Not enough ICT - digital content creator
+
+
+* [twitter](https://twitter.com/dylanwiliam/status/1442590272370606080)
+    * @WeinsteinEdu
+        * > Employers: We need workers that can think creatively and collaborate well with others.
+          > Government: Let's prioritize standardized tests. 
+          > Make it make sense. 
+    * @Miss_Snuffy
+        * > I can make it make sense.
+          > Without testing, the kids won’t learn anything, which means they won’t know anything to be creative with
+    * @dylanwiliam
+        * > A real problem with a lot of writing on creativity is that it  ignores the second part of the standard defintion: having novel ideas that have value. Blowing through the wrong end of a trumpet is not creative; Miles Davis is. Creativity almost always requires disciplinary mastery
