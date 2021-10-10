@@ -224,11 +224,17 @@ Run my example_server. Either with raw python or starting container.
 Automated Tests and CI
 ----------------------
 
+### Server Tests
+
 ```bash
+# Start a second terminal and drag to a second columb
 # Run server_example with
 make run_example_server
-
-
+# or
+cd server_example && python3 main.py
+```
+```bash
+# Start a second terminal and drag to a second column
 cd server_test
 pip install pytest
 
@@ -246,7 +252,19 @@ pytest test_api.py::test_item_post
 URI_SERVER=https://long_thing pytest test_api.py::test_FUNCTION_NAME
 ```
 
-Demo GitPod server and local cypress client
+TASK: 
+* Run the example_server and run the tests against it.
+* Run a single test
+* Drop into a debugger with `breakpoint()`
+
+### Client
+
+* Run headless (on GitPod)
+    * Download/See video
+* Demo GitPod server and local cypress client
+    * Electron and rewind
+* More in future lectures
+
 
 Language Features (cont)
 =================
