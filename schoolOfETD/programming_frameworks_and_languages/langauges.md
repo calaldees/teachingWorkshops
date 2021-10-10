@@ -813,6 +813,7 @@ const promise = do_steps();
 * Python and Javascript are "single process" technologies. They simply cannot support concurrency (without spawning more process's)
 * [What Is the Python Global Interpreter Lock (GIL)?](https://realpython.com/python-gil/)
 * We can augment these single process languages to be utilising that single process as much as possible by using an event loop. This helps with blocking IO.
+    * The languages have new features `async` and `await` to support this
 
 
 Recommended Reading

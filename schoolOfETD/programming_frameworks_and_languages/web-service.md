@@ -159,32 +159,94 @@ const data2 = JSON.parse(string_data);
 * In most cases JSON handling is not built into the base language and needs and external library.
 
 
-### Other data formats
+### Further thoughts
+
+#### Other data formats
 * XML (legacy 2005)
 * Protobuff
 * GraphQL
 * YAML (superset)
 * TOML
 
-### JSON Schema
+#### JSON Schema
+
+JSON is by default totally unstructured. We can use additional tools to ensure that output meets a know structure or specification
 * [json-schema](https://json-schema.org/)
 
 
-OpenAPI
+OpenAPI (30min)
 -------
 
-[redocly - FreeCycle](https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/calaldees/frameworks_and_languages_module/main/openapi.yml)
+* [redocly - FreeCycle](https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/calaldees/frameworks_and_languages_module/main/openapi.yml)
+* [OpenAPI Sample Pet Store](https://redocly.github.io/redoc/)
+* use OpenAPI plugin in GitPod (auto generated from yml)
+* https://swagger.io/specification/
 
 
-Understanding the Assignment lab
---------------------------------
+### using curl to perform HTTP posts
 
 * `POST` example (with JSON data)
     * ```bash
         curl -d '{"key1":"value1", "key2":"value2"}' -H "Content-Type: application/json" -X POST http://localhost:3000/data
         ```
 
+### cURL commands to add an item and read it back
+```bash
+curl -d '{"user_id": "user1234", "keywords": ["hammer", "nails", "tools"], "description": "A hammer and nails set. In canterbury", "lat": 51.2798438, "lon": 1.0830275}' -H "Content-Type: application/json" -X POST curl http://localhost:8000/item
+# for GitPod - https://8000-aaa-bbb-1234abcd.ws-eu00.gitpod.io/
+# for local - http://localhost:8000/
+# notice the http(s) differences and where the port is
+curl http://localhost:8000/items
+curl http://localhost:8000/item/1
+curl http://localhost:8000/items?user_id=user1234
+```
 
+### Task
+
+Run my example_server. Either with raw python or starting container.
+
+* Using cURL
+    * reminder - use `-vvv` to see more debug details
+* Add 4 items
+    * with different lat/lon and user_id
+    * use /items/? to query different items
+* Open the port - get a friend to add an item to your server
+    * Read another servers list of items
+* (Advanced) do this in javascript (see notes below)
+
+
+### Further API Practice
+* [JSONPlaceholder/guide](https://jsonplaceholder.typicode.com/guide/)
+    * Paste into browser or use with other languages
+    * This shows how to do exactly what you've done in `curl` (GET, POST with json) with javascript
+
+
+Automated Tests and CI
+----------------------
+
+```bash
+# Run server_example with
+make run_example_server
+
+
+cd server_test
+pip install pytest
+
+# run all tests
+pytest test_api.py
+
+# run all tests and drop into debugger on fail
+pytest test_api.py --pdb
+
+# run single test
+pytest test_api.py::test_item_post
+# add `breakpoint()` into python code to debug
+
+# Example of running tests an a server other than localhost:8000
+URI_SERVER=https://long_thing pytest test_api.py::test_FUNCTION_NAME
+```
+
+Demo GitPod server and local cypress client
 
 Language Features (cont)
 =================
@@ -197,6 +259,8 @@ Async/await
 -----------
 
 
-Assignment Dissection
-=====================
+Next Week
+=========
+
+Server Frameworks
 
