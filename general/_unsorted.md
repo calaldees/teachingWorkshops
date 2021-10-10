@@ -103,3 +103,9 @@
     * If powered by fosil fules would be more harful than meet
     * There still needs to be _initial_ cells (from fetus's)
     * There is no know tech or process to make it cheaper
+
+* [From the comments, on nuclear waste storage](https://marginalrevolution.com/marginalrevolution/2021/10/from-the-comments-on-nuclear-waste-storage.html)
+    * > “Nuclear has a waste storage problem that remains largely unaddressed .”
+    * > Not so. The first, and easiest way to address it is to reprocess spent fuel as France does. The next is to use modern reactor designs that actually clean up old fuel from light water reactors. For example, Canada’s CANDU reactor, a proven common design, can burn the fuel from U.S. LWR reactors, and its own spent fuel is only dangerous for on the order of a thousand years (600-1200), instead of the 30,000 from current US designs. Maintaining waste for hundreds of years is feasible, and on a whole different scale than a 30,000 year storage plan.
+    * > Another plan for the waste problem os small modular reactors, which are never refueled onsite. You bring in the fueled reactor, run it for 10 years, then exchange it for a new one and take the old one back to the factory to be refueled. That centralizes waste and prevents all the problems with on-site storage. With waste reprocessing, 90% of it goes back into the reactor for the next decade.
+    * > There are known, robust solutions to these problems. Anti-nuke types just ignore them

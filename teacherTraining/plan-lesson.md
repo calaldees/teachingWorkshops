@@ -26,7 +26,9 @@ Saffolding and fading (when do you remove the support)
     * [Mike Gershon - Resources for teachers](https://mikegershon.com/resources/) - free powerpoint on starters plenerys and afl tools
         * "The Starter Generator: KS2, KS3, KS4 Starters" + "Plenaries on a Plate"
 
-[5min Lesson Plan 2021](https://youtu.be/mBWK2AsnFjU?t=349)
+* [Welcome to The 5 Minute Lesson Plan](https://www.teachertoolkit.co.uk/5minplan/)
+    * A way of thinking about lessons
+    * [5min Lesson Plan 2021](https://youtu.be/mBWK2AsnFjU?t=349) video 10min
 
 TASK 1: 1 hour
 

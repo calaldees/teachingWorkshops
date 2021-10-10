@@ -74,7 +74,7 @@ Overview
     * Textbooks
     * Shape tools
     * Context
-* [plan-lesson.md](./plan-lesson.md) (1.5 hours)
+* [plan-lesson.md](./plan-lesson.md) (1.5 hours) workshop
 * Action points and reflection (15min)
 
 Next week
