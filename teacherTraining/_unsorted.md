@@ -95,6 +95,7 @@ Blended Learning
     * This course provides supplemental information
 
 
+* wonkhe.com [problem based learning](https://wonkhe.com/blogs/challenger-institutions-focus-on-problem-based-learning/)
 
 
 * [VPL: Visual Programming Language](https://en.wikipedia.org/wiki/Visual_programming_language)
@@ -104,7 +105,7 @@ Blended Learning
 [What makes a good teacher: opinions from around the world](https://www.unicef.org/teachers/teacher/teacher.htm)
 
 
-    * Interesting project.. [PhysicsTravelGuide](https://physicstravelguide.com/) - phyics concepts at 3 levels
+* Interesting project.. [PhysicsTravelGuide](https://physicstravelguide.com/) - phyics concepts at 3 levels
 
 
 
@@ -652,3 +653,14 @@ Not enough ICT - digital content creator
           > Without testing, the kids won’t learn anything, which means they won’t know anything to be creative with
     * @dylanwiliam
         * > A real problem with a lot of writing on creativity is that it  ignores the second part of the standard defintion: having novel ideas that have value. Blowing through the wrong end of a trumpet is not creative; Miles Davis is. Creativity almost always requires disciplinary mastery
+
+
+* [US schools gave kids laptops during the pandemic. Then they spied on them](https://www.theguardian.com/commentisfree/2021/oct/11/us-students-digital-surveillance-schools) Jessa Crispin - Guardian Oct 2021
+    * According to one survey, 81% of teachers in America said their schools monitor devices. Students are not always aware 
+
+* Parental Involvement? Character education?
+    * CCF research "Who is a _good_ person" research with american children
+        * They did not pick rappers or teachers
+        * Are celebrities _good_?
+        * They picked family members
+            * Does this mean parents are really influential

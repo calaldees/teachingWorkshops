@@ -1,51 +1,18 @@
 How Students Learn
 ==================
 
-
-* AM (Pre-Planned)
-    * How does learning happen?
-    * Theory, research, science, psychology, constructivism, motivation
-* PM
-    * Novice v experts (schemata)
-        * explicit, direct instruction with guided practice and relevant feedback
-    * Scaffolding learning for prior knowledge, working memory and long-term memory
-        * Retrieve information from memory, and spacing practice
-        * Interleaving
-        * Concrete (real life) and Abstract examples
-    * Threshold (foundational) concepts in Computing
-        * Liminal space
-    * Task: PGCE Prepare for Microteaching SP7
-* (Moved to future sessions)
-    * Planning to aid learning in Computing
-        * School’s curriculum materials inform lesson preparation
-        * coherent wider vision for successful learning
-    * Literacy in Computing and technical language
-        * vocabulary to think critically about Computing
-
-
-Housekeeping
-------------
-
-* [Initial Feedback - Online Learning ITE](https://forms.office.com/Pages/ResponsePage.aspx?id=2rIgA90iq02MIW5kS6FPE8lJZLSaBldPvBgO8beJg0VUREhFSkUzUEozRjBOUUZaWklFQVBBT1dUQi4u)
-    * Please complete if you have not already filled this in
-
-
-Upcomming Task
---------------
-
-* Friday 16th October
-* PGCE Only 
-* [Microteaching](https://en.wikipedia.org/wiki/Microteaching)
-* You are to plan and deliver 20 min computing lesson to the group as if we were KS3 or KS4 students
-* The lesson can be any topic of computing in KS3 or KS4
-* We will present in a Blackboard Collaborate session
-* We will then discuss/comment on the lesson (10min)
-
-Theories from this session could give you ideas about how to structure this task.
+One way data blast.
+You need to build a range of names theories to give context to your reflections and your SP1 writeup.
 
 
 Pre-Reading
 -----------
+
+* Summaries/References (will return to these)
+    * [Learning theories Poster](http://blog.richardmillwood.net/2013/05/10/learning-theory/) Big names in learning theory and their ideas
+        * Poster with hyperlinks to main theories
+    * [Summary of Learning infographic](https://twitter.com/MissH_biology/status/1356344242642288643) Feb 01 2021
+        * (twitter post, I downloaded the pdf)
 
 * [The genius of DT Willingham and WDSLS](https://teacherhead.com/2021/06/22/the-genius-of-dt-willingham-and-wdsls/) - Tom Sherrington 2021
     * [Why Don’t Students Like School](https://www.aft.org/sites/default/files/periodicals/WILLINGHAM%282%29.pdf) - as featured in American Educator
@@ -76,7 +43,7 @@ Pre-Reading
         * > their _important teacher_ set high standards and believed that they could meet those standards.
         * > be wary of praising second-rate work
     * [Why Don′t Students Like School?: A Cognitive Scientist Answers Questions About How the Mind Works and What It Means for the Classroom](https://www.amazon.co.uk/Why-Don′t-Students-Like-School/dp/1119715660/) 2nd Edition June 2021 - 1st Edition Feb 2010
-    
+
 
 [Understanding How we Learn - A visual guide](https://www.learningscientists.org/book) 2018
 [visuals by oliver calgary](https://www.olicav.com/#/understanding-how-we-learn/)
@@ -154,13 +121,13 @@ All of this theory is useful. To make it have real world application in your tea
 
 After each theory chunk, I will ask the question. 
 What does this mean for your computing planning?
-We will use breakout rooms of 2/3 for you to quickly discuss what actions you will take when planning a lesson.
+Pairs after each segment
 
 
 Have the [Computing National Curriculum](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study#key-stage-3) to hand
 
 
-Old Theories 
+Old Theories
 ------------
 
 * Understanding How We Learn - Chapter 1 - Communication Breakdown Between Science and Practice in Education
@@ -173,6 +140,10 @@ Old Theories
             > learning styles has been repeatedly tested and shown not to improve learning.
 * Video [Howard Gardner on Multiple Intelligences](https://www.youtube.com/watch?v=iYgO8jZTFuQ) Gardener 1997
     * In 20 years - education has moved on. The idea that _individuals learn in different ways_ has largely been debunked. Much more is now known about the way we encode, chunk and schema knowledge.
+    * For follow-up later
+        * [The Biggest Myth In Education](https://www.youtube.com/watch?v=rhgwIhB58PA) veretasium 2021 - learning styles YouTube 15min
+            * you are not a visual learner
+            * be critical
 
 TASK: 
 1. Watch the first 2min of the video - 
@@ -196,6 +167,52 @@ TASK: What does this mean for your planning?
 * [Oliver Caviglioli - Visual Clarity](https://www.olicav.com/#/posters/)
     * visual diagrams about teaching
 He has illustrated many of the theories we are looking at today
+
+
+
+Cognitive load theory
+---------------------
+
+* [Cognitive Load](https://en.wikipedia.org/wiki/Cognitive_load) John Sweller 198x?
+* [Cognitive Load Theory and its application in the classroom](https://impact.chartered.college/article/shibli-cognitive-load-theory-classroom/) Chartered College of Teaching Journal 2020
+
+> Dylan Wiliam tweeted on 26 January 2017 that he had ‘come to the conclusion Sweller’s Cognitive Load Theory is the single most important thing for teachers to know
+
+Attention is a finite resource and can be depleted quickly.
+
+> Working memory should be seen as short term and finite, 
+> whereas long-term memory can be seen as infinite. 
+>
+> The aim should be to move knowledge to long-term memory 
+> because when a student is exposed to new material, 
+> they can draw on this previous knowledge and the cognitive load is reduced.
+>
+> However, if subject knowledge is incomplete, 
+> the student is unable to fall back on the long-term memory and the working memory becomes overloaded, 
+> leading to working memory failures. 
+(Gathercole and Alloway, 2007),
+
+> Be wary of reducing cognitive load too much – the learning process should be manageable, but not overly fragmented.
+
+
+
+> Gesturing is a technique children use to reduce cognitive load while speaking
+
+Help sheets or Knowledge Organisers can help reduce cognitive load
+
+* DfE [Cognitive load theory in practice Examples for the classroom](https://khsbpp.files.wordpress.com/2018/11/cognitive_load_theory_practice_guide_aa.pdf)
+* NCCE
+    * [Pedagogy Quick Read #1 : Cognitive Load Theory](https://blog.teachcomputing.org/pedagogy-bytes-quick-reads-for-busy-educators/)
+    * [Quick Read: Improving program comprehension through Parson’s Problems](https://blog.teachcomputing.org/quick-read-improving-program-comprehension-throughparsons-problems/)
+        * Learner rearranges the lines of code to solve the task
+        * benefit of Parson’s Problems is that the learner is focusing on the structure and logic of blocks of code, rather than the syntax of individual text elements (atoms). The process reduces the cognitive load experienced by learners, allowing them to practise sequencing and problem-solving with code. 
+        * [js-parsons.github.io](https://js-parsons.github.io/)
+
+TASK: What does this mean for your planning?
+
+### More
+See Expertise Reversal Effect in [inclusion.md](./inclusion.md) - too much support cases lack of engagement and inattention
+
 
 
 A Mental Model of the Learner - Daniel Willingham
@@ -231,6 +248,7 @@ Brings together many other modern working theories.
     * [PRINCIPLES OF INSTRUCTION - A thematic interpretation for teachers by Tom Sherrington](https://www.olicav.com/s/Rosenshine-Principles-red-anke.pdf) Oliver Caviglioli Visualisation
 
 * You only remember something is you've encountered it 3 times encounter (Nutall)
+* Gibbs 2020 - cautioned about Rosenshines principles being used in every classroom ever lesson limited the teachers creativity
 
 TASK: What does this mean for your planning?
 
@@ -272,59 +290,6 @@ Constructing quality questions that give you meaningful data (e.g the incorrect 
 TASK: What does this mean for your planning?
 
 
-Cognitive load theory
----------------------
-
-[Cognitive Load Theory and its application in the classroom](https://impact.chartered.college/article/shibli-cognitive-load-theory-classroom/) Chartered College of Teaching Journal 2020
-
-> Dylan Wiliam tweeted on 26 January 2017 that he had ‘come to the conclusion Sweller’s Cognitive Load Theory is the single most important thing for teachers to know
-
-Attention is a finite resource and can be depleted quickly.
-
-> Working memory should be seen as short term and finite, 
-> whereas long-term memory can be seen as infinite. 
->
-> The aim should be to move knowledge to long-term memory 
-> because when a student is exposed to new material, 
-> they can draw on this previous knowledge and the cognitive load is reduced.
->
-> However, if subject knowledge is incomplete, 
-> the student is unable to fall back on the long-term memory and the working memory becomes overloaded, 
-> leading to working memory failures. 
-(Gathercole and Alloway, 2007),
-
-> Be wary of reducing cognitive load too much – the learning process should be manageable, but not overly fragmented.
-
-[Cognitive Load](https://en.wikipedia.org/wiki/Cognitive_load) John Sweller 198x?
-
-> Gesturing is a technique children use to reduce cognitive load while speaking
-
-Help sheets or Knowledge Organisers can help reduce cognitive load
-
-* DfE [Cognitive load theory in practice Examples for the classroom](https://khsbpp.files.wordpress.com/2018/11/cognitive_load_theory_practice_guide_aa.pdf)
-* Pedagogy Quick Reads [cognitive load in computing](https://raspberrypi-education.s3-eu-west-1.amazonaws.com/Quick+Reads/Pedagogy+Quick+Read+1+-+Cognitive+Load+Theory.pdf)
-* Parsons Problems [TODO: nCCE quick reads]()
-* wonkhe.com [problem based learning](https://wonkhe.com/blogs/challenger-institutions-focus-on-problem-based-learning/)
-
-TASK: What does this mean for your planning?
-
-### More
-See Expertise Reversal Effect in [inclusoon.md](./inclusion.md) - too much support cases lack of engagement and inattention
-
-
-TODO Jameson 2020
-* intrinsic load
-    * the difficulty of the tasl
-* Extrainious load
-    * how presented
-* germaine load
-    * elements that aid informatio nprocessing
-
-Walkergrove 2014 critisised CLT
-    Measur to detemine CLT will affect individuals - argues reliability
-
-Kinsella 2012 CLT for prorgamming - has business - TODO reference?
-
 Liminal Space
 -------------
 
@@ -342,13 +307,34 @@ Liminal Space
         * If statements
         * For loops
         * Variables
+        * Functions and parameters
     * Once we understand those threshold concepts, we can move on to Algorithms
+    * Once we understand there are different algorithms to solve the same problem we can can deliberate which may be the most appropriate and why
 
 TASK: What does this mean for your planning?
 
+Build a tree of knowledge for computing, what are some of the threshold concept that unlock other skills
 
-Knowledge Organisers
+
+Teaching for Mastery
 --------------------
+* [Secondary Mathematics Teaching for Mastery: Some themes and key principles](https://www.ncetm.org.uk/media/q0ykgtje/secondary-teaching-for-mastery-march-2021.pdf)
+    * > Lessons are designed to have a high-level of teacher-student and student-student interaction where all students 
+    in the class are thinking about, working on, and discussing the same mathematical content. Challenge and the 
+    opportunity to deepen understanding of the key mathematical ideas is provided for all.
+    * > Every attempt is made to keep the whole class learning together. Differentiation is achieved, not through offering 
+    different content, but through paying attention to the levels of support and challenge needed to allow every 
+    student to fully grasp the concepts and ideas being studied.
+    * > For those students who grasp ideas quickly, acceleration into new content is avoided. Instead, these students are 
+    challenged by deeper analysis of the lesson content and by applying the content in new and unfamiliar problem-
+    solving situations. If some students fail to grasp an important aspect of the lesson, this is identified quickly, and 
+    early intervention ensures that they are ready to move forward with the whole class in the next lesson.
+    * > Teachers use well-crafted examples and exercises which, through careful use of variation (including what to keep 
+    the same) focuses students’ attention on the key learning point.
+
+
+Knowledge Organisers and Mind Maps
+----------------------------------
 
 * [Organising knowledge: The purpose and pedagogy of knowledge organisers](https://impact.chartered.college/article/organising-knowledge-purpose-pedagogy-knowledge-organisers/) MARK MILLER September 2018 [BlackBoard pdf](https://learn.canterbury.ac.uk/bbcswebdav/pid-2681383-dt-content-rid-4010508_1/xid-4010508_1)
     * > A knowledge organiser (KO) sets out the important, useful and powerful knowledge on a topic on a single page (Kirby, 2015). With the content demands of new courses, and schools adopting a knowledge-based curriculum, these are becoming increasingly popular in schools
@@ -356,10 +342,24 @@ Knowledge Organisers
     * > “My students just keep forgetting everything - even though I’ve taught it to them over and over again!”
     * > Knowledge Organisers are an increasingly popular teaching method in schools and simply involve distilling the key information for a term’s teaching, or a topic, onto 1 side of A4 – similar to a graphic organiser.
       > This Knowledge Organiser is given to students as homework on Show My Homework with instructions for students and parents on how the students can test themselves, and how the parents can test their children, to memorise as much of the key information as possible.
-* [Are knowledge organisers flawed?](https://learningspy.co.uk/psychology/are-knowledge-organisers-flawed/)
+* [Are knowledge organisers flawed?](https://learningspy.co.uk/psychology/are-knowledge-organisers-flawed/) David Daidu
     * > most schools don’t have self-quizzing cultures built in. Students don’t use them effectively and just copy words across blindly without self-quizzing.
       > Worse than that, the KO’s are just stuck into students’ books (or reside at the bottom of their bags) and are never looked at again. 
       > This is a waste of time, but it certainly doesn’t mean that KOs are a bad idea. All it means is that – like everything else – inventions work best when resources, practice and purpose are aligned.
+* [The 6 most common mistakes students make when mind mapping](https://blog.innerdrive.co.uk/6-common-mind-mapping-mistakes)
+    * Mistake 1 – Using only words
+        * Dual coding - diagrams/pictographs
+    * Mistake 2 - Using too many words
+        * Redundancy effect
+    * Mistake 3 - Wasting time making it too pretty
+        * form of procrastination
+    * Mistake 4 – Not using Elaborative Interrogation
+        * Re-reading is insufficient revision
+        * "why is this true?" or "why might this be the case?"
+    * Mistake 5 – Not utilising Retrieval Practice
+        * they don’t actually test whether they understand what they’re written
+        * try 15min time-box to replicate mind-map from memory
+    * Mistake 6 - Not transferring mind map knowledge
 * Examples of computing knowledge organisers
     * [Google: computing+knowlege+organiser+ks3](https://www.google.com/search?q=computing+knowlege+organiser+ks3)
         * [george-eliot](http://www.george-eliot.warwickshire.sch.uk/knowledge-organisers)
@@ -378,8 +378,7 @@ Generative Learning
 Fiorella & Mayer 2015
 
 > ... look at the process from the other side of the desk. Generative learning considers the learning experience from the point of view not of the teacher, but of the learner. It asks what should they do with instruction ... to really make sense of it and lean in a way that allows them to apply it to new situations in the future
-
---- generative learning in action - forward - Fiorella 2020
+<sub> generative learning in action - forward - Fiorella 2020</sub>
 
 Merlin C Wittrock
 > People tend to generate ... meanings that are consistent with prior knowledge
@@ -405,26 +404,6 @@ TASK: What does this mean for your planning?
     * > The findings suggest there isn’t a definitive answer to whether coding should be taught as a math-based skill or a language-based skill. In part, that’s because learning to program may draw on both language and multiple demand systems, even if — once learned — programming doesn’t rely on the language regions, the researchers say.
 
 
-Closing Thoughts
-----------------
-
-* Knowledge is always built on previous knowledge
-    * As a teacher - if you are aware of the actual previous knowledge (and not just because _you've covered_ it) you can create meaningful sequence
-* As a learner - If you're not aware of your knowledge gaps, you assume you don't have them
-    * Recall and Evaluation are key
-* Train students to check their own knowledge and train them to check each others knowledge
-* Idea: Ask students to 'Describe a concept with a picture/diagram/visual'. great retrieval practice
-
-Feedback:
-* You are now on your way to become professional educations.
-* Given the material I have just introduced you to, how could this online 3 hours could have been constructed to cement these concepts in more detail? More active learning? how? was it appropriate to introduce you to these topics and allow you to explore them?
-
----
-
-[Pupil Progress Bundles](https://learn.canterbury.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_2635853_1&course_id=_15049_1&mode=reset) Early Guidance
-
-
----
 
 
 High Expectations
@@ -450,8 +429,8 @@ Growth Mindset
     * [The one variable that makes growth mindset interventions work](https://russellwarne.com/2020/01/03/the-one-variable-that-makes-growth-mindset-interventions-work/) Russell T. Warne 2020
         * > Then I discovered the one characteristic that the studies that support mindset theory share and that all the studies that contradict the theory lack: Carol Dweck. Dweck is a coauthor on all three studies that show that teaching a growth mindset can improve students’ school performance. She is also not a coauthor on all of the studies that cast serious doubt on mindset theory.
     * [Debate Arises over Teaching “Growth Mindsets” to Motivate Students](https://www.scientificamerican.com/article/debate-arises-over-teaching-growth-mindsets-to-motivate-students/)
+    * [In the Know: Debunking 35 Myths about Human Intelligence](https://www.amazon.co.uk/Know-Debunking-Myths-about-Intelligence/dp/1108717810/) Russell T Warne 2020
 
-* [In the Know: Debunking 35 Myths about Human Intelligence](https://www.amazon.co.uk/Know-Debunking-Myths-about-Intelligence/dp/1108717810/) Russell T Warne 2020
 
 Theory of Disuse
 ----------------
@@ -463,17 +442,10 @@ Theory of Disuse
     * Input less, output more (more generative learning)
 
 
+MARGE
+-----
 
-
-Summary
--------
-
-* [Summary of Learning infographic](https://twitter.com/MissH_biology/status/1356344242642288643) Feb 01 2021
-    * (twitter post, I downloaed the pdf)
-
-
-### Further Reading
-
+* (M)otivate, (A)ttend, (R)elate, (G)enerate, (E)valuate
 * [MARGE: A Whole-Brain Learning Approach for Students and Teachers](https://shimamurapubs.wordpress.com/marge-a-whole-brain-learning-approach-for-students-and-teachers/) Shimamura 2018 - 50page free ebook
     * Motivate
     * Attend
@@ -482,56 +454,52 @@ Summary
     * Generate
     * Evaluate
 * [Introducing MARGE: A superb ebook about learning by Arthur Shimamura](https://teacherhead.com/2018/10/03/introducing-marge-a-superb-ebook-about-learning-by-arthur-shimamura/)
+    
     * > The book is full of references to brain structures and neurological experiments that link brain activity to various inputs in different trials.
       > It gives some easy-to-understand structural biological models to help make sense of some common cognitive science concepts.
     * [poster](https://headguruteacher.files.wordpress.com/2018/10/marge.pdf)
 
 
-
-https://www.5minutelessonplan.co.uk/
-
-
-* [Learning theories Poster](http://blog.richardmillwood.net/2013/05/10/learning-theory/) Big names in learning theory and their ideas
+Further Reading
+---------------
 
 * [We Learn Faster When We Aren’t Told What Choices to Make](https://www.scientificamerican.com/article/we-learn-faster-when-we-arent-told-what-choices-to-make/)
-
 
 * [On Learning Chess as an Adult – From 650 to 1750 in Two Years](https://jacobbrazeal.wordpress.com/2020/11/16/on-learning-chess-as-an-adult-from-650-to-1750-in-two-years/)
     * Learning measured in adulthood - chess every day for 2+ years - mapped
 
+* Zone of Proximal Development
+    * Scaffolding originated Vygotsky 1981
+    * incremental social contact - what they can do unaided and what they can do with contact with others
+    * What the learner can do, what the learner can do with support, what the learnner cannot do.
+    * Didau - "Goldylocks Zone" - not too hard, not too easy
+    * [What Is the zone of proximal development?. Simply psychology.](https://www.simplypsychology.org/Zone-of-Proximal-Development.html) McLeod, S. A. (2019)
+        * > problem-solving under adult guidance, or in collaboration with more capable peers <sub>Vygotsky, 1978</sub>
+        * The distance between what the learner is able to do unaided, compared to with expert or advanced peer support
+        * According to Vygotsky (1978), much important learning by the child occurs through social interaction with a skillful tutor. The tutor may model behaviors and/or provide verbal instructions for the child. Vygotsky refers to this as cooperative or collaborative dialogue. 
+        * Scaffolding consists of the activities provided by the educator, or more competent peer, to support the student as he or she is led through the zone of proximal development.
+        * Support is tapered off (i.e. withdrawn) as it becomes unnecessary, much as a scaffold is removed from a building during construction. The student will then be able to complete the task again on his own.
+        * Scaffolding vs. Discovery Learning
+            * Freund (1990) wanted to investigate if children learn more effectively via Piaget's concept of discovery learning or by guided learning via the ZPD. 
+        > From a Vygotskian perspective, the teacher's role is mediating the child's learning activity as they share knowledge through social interaction' (Dixon-Krauss, 1996)
+        * Consider these guidelines for scaffolding instruction (Silver, 2011)
+            * Assess the learner's current knowledge and experience for the academic content
+            * Relate content to what students already understand or can do
+            * Break a task into small, more manageable tasks with opportunities for intermittent feedback
+            * Use verbal cues and prompts to assist students
 
-Zone of Proximal Development
-* Scaffolding originated Vygotsky 1981
-* incremental social contact - what they can do unaided and what they can do with contact with others
-* What the learner can do, what the learner can do with support, what the learnner cannot do.
-* Didau - "Goldylocks Zone" - not too hard, not too easy
-* [What Is the zone of proximal development?. Simply psychology.](https://www.simplypsychology.org/Zone-of-Proximal-Development.html) McLeod, S. A. (2019)
-    * > problem-solving under adult guidance, or in collaboration with more capable peers <sub>Vygotsky, 1978</sub>
-    * The distance between what the learner is able to do unaided, compared to with expert or advanced peer support
-    * According to Vygotsky (1978), much important learning by the child occurs through social interaction with a skillful tutor. The tutor may model behaviors and/or provide verbal instructions for the child. Vygotsky refers to this as cooperative or collaborative dialogue. 
-    * Scaffolding consists of the activities provided by the educator, or more competent peer, to support the student as he or she is led through the zone of proximal development.
-    * Support is tapered off (i.e. withdrawn) as it becomes unnecessary, much as a scaffold is removed from a building during construction. The student will then be able to complete the task again on his own.
-    * Scaffolding vs. Discovery Learning
-        * Freund (1990) wanted to investigate if children learn more effectively via Piaget's concept of discovery learning or by guided learning via the ZPD. 
-    > From a Vygotskian perspective, the teacher's role is mediating the child's learning activity as they share knowledge through social interaction' (Dixon-Krauss, 1996)
-    * Consider these guidelines for scaffolding instruction (Silver, 2011)
-        * Assess the learner's current knowledge and experience for the academic content
-        * Relate content to what students already understand or can do
-        * Break a task into small, more manageable tasks with opportunities for intermittent feedback
-        * Use verbal cues and prompts to assist students
 
-
-Howland, J. L., Jonassen, D. H. and Marra, R. M., Meaningful Learning with Technology (Pearson, 2011)
-* Active
-    * Pupils should be actively engaged in their learning – typically this will be doing something on a computer, but it could also be taking part in a discussion or an activity away from the computer, such as role-play to illustrate how packets of data travel across the internet.
-* Constructive
-    * This can be understood both in the sense of constructing meaning, developing pupils’ mental model of computation and technologies, and in the sense of making something, whether this is a computer program, a presentation or a blog post.
-* Intentional
-    * Ideally, pupils should have some degree of choice over how they tackle a task or project, or perhaps even over the task or project itself. It is unlikely they will learn much from copying a worked solution off an IWB screen, and many projects can be constructed or adapted to allow plenty of scope for individual creativity.
-* Authentic
-    * Wherever possible, try to link activities with pupils’ own experiences, both within and beyond school: cross-curricular projects work very well, as do those linked to the life of the school itself, or to pupils’ experiences of technology.
-* Cooperative
-    * Computing, in both industrial and academic contexts, is a collaborative endeavour. Where possible, construct activities so that pupils can work together, supporting one another in their learning
+* [Meaningful Learning with Technology](https://www.pearson.com/store/p/meaningful-learning-with-technology/P100000899534/9780132565585) (Pearson, 2011) - Howland, J. L., Jonassen, D. H. and Marra, R. M.
+    * Active
+        * Pupils should be actively engaged in their learning – typically this will be doing something on a computer, but it could also be taking part in a discussion or an activity away from the computer, such as role-play to illustrate how packets of data travel across the internet.
+    * Constructive
+        * This can be understood both in the sense of constructing meaning, developing pupils’ mental model of computation and technologies, and in the sense of making something, whether this is a computer program, a presentation or a blog post.
+    * Intentional
+        * Ideally, pupils should have some degree of choice over how they tackle a task or project, or perhaps even over the task or project itself. It is unlikely they will learn much from copying a worked solution off an IWB screen, and many projects can be constructed or adapted to allow plenty of scope for individual creativity.
+    * Authentic
+        * Wherever possible, try to link activities with pupils’ own experiences, both within and beyond school: cross-curricular projects work very well, as do those linked to the life of the school itself, or to pupils’ experiences of technology.
+    * Cooperative
+        * Computing, in both industrial and academic contexts, is a collaborative endeavour. Where possible, construct activities so that pupils can work together, supporting one another in their learning
 
 
 * [Education Research: The evidence](https://gregashman.wordpress.com/2020/11/13/education-research-the-evidence/) Greg Ashman 2020
@@ -543,38 +511,6 @@ Howland, J. L., Jonassen, D. H. and Marra, R. M., Meaningful Learning with Techn
     * Broad world knowledge is essential to reading comprehension
     * You cannot just Google facts when you need them
     * Achievement boosts motivation
-
-
-
-* [@rclutterbuckED](https://twitter.com/rclutterbuckED/status/1366801316622831626)
-    * > I've put together a CPD plan PPT which may help academies and schools shape their post-remote teaching CPD: 'cos everyone's rusty... Download here if you want a copy: https://rclutterbucked.com/resources Below is a 2 minute video explaining what I've done.
-    * Omega ppt hyperlinked - rosenshine - teach like a champion
-    * [rclutterbucked.com/resources](https://rclutterbucked.com/resources/)
-    * [CPD structure and resources for post-remote learning hyperlinked](https://rclutterbucked.files.wordpress.com/2021/03/downloadable-version-of-post-remote-learning-cpd-hyperlinked.pptx)
-
-
-Willingham 2009 pg03  "People are naturally curious, but we are not naturally good thinkers; unless the cognitive conditions are right, we will avoid thinking"
-pg88 "Abstraction is the goal of schooling, evidence shows that abstract ideas in generall difficult to understand 
-
-
-sweller - hold for few seconds unless refreshed within 20 seconds for short term memory
-no known limit for long term memory
-hattie and yates - learning starts from what we already know and proceeds towards where we want to be
-
-vygotsky 2970 p92 most of what a child learns occurs though 'social interactions with a skilful tutor'
-
-Gibbs 2020 - cautioned about Rosenshines principles being used in every classroom ever lesson limited the teachers creativity
-
-Didau 2015 - scaffolds should be used to make the impossible possible and not making easy work easier
-'never put up scaffolds unless we a plan for taking it down, if we leave it there, students will become dependent on it'
-
-Carnegie Mellon University 2021 - value what they are learning or consider it significant
-
-* Do we need to make lessons 'Fun' to be effective?
-    * [Are we having fun?](https://bennewmark.edublogs.org/2016/11/28/are-we-having-fun/)
-    * [[literacyNumeracyCitizenship]] See careers - "Job Interest Not a Big Predictor of Job Satisfaction"
-* [Why Fun in Learning Works Better Than Dull Learning](https://www.growthengineering.co.uk/why-fun-in-learning-is-important/)
-    * 68% more active whiles having fun
 
 * [Mode A + Mode B = Effective teaching and a rich enacted curriculum](https://teacherhead.com/2018/04/22/mode-a-mode-b-effective-teaching-and-a-rich-enacted-curriculum/) 2018 @teacherhead Tom Sherrington
     * We need a balanced diet of Mode A and Mode B
@@ -590,6 +526,62 @@ Carnegie Mellon University 2021 - value what they are learning or consider it si
         * Inspire some awe
         * Go off piste (pi-st: a ski run of compacted snow)
         * Make things; do projects; set open-ended tasks, give choices
+
+
+
+* [@rclutterbuckED](https://twitter.com/rclutterbuckED/status/1366801316622831626)
+    * > I've put together a CPD plan PPT which may help academies and schools shape their post-remote teaching CPD: 'cos everyone's rusty... Download here if you want a copy: https://rclutterbucked.com/resources Below is a 2 minute video explaining what I've done.
+    * Omega ppt hyperlinked - rosenshine - teach like a champion
+    * [rclutterbucked.com/resources](https://rclutterbucked.com/resources/)
+    * [CPD structure and resources for post-remote learning hyperlinked](https://rclutterbucked.files.wordpress.com/2021/03/downloadable-version-of-post-remote-learning-cpd-hyperlinked.pptx)
+
+
+
+
+
+Closing Thoughts
+----------------
+
+* Knowledge is always built on previous knowledge
+    * As a teacher - if you are aware of the actual previous knowledge (and not just because _you've covered_ it) you can create meaningful sequence
+* As a learner - If you're not aware of your knowledge gaps, you assume you don't have them
+    * Recall and Evaluation are key
+* Train students to check their own knowledge and train them to check each others knowledge
+* Idea: Ask students to 'Describe a concept with a picture/diagram/visual/mime'. great retrieval practice
+
+Feedback:
+* You are now on your way to become professional educations.
+* Given the material I have just introduced you to, how could this online 3 hours could have been constructed to cement these concepts in more detail? More active learning? how? was it appropriate to introduce you to these topics and allow you to explore them?
+
+
+Unsorted
+========
+
+
+Willingham 2009 pg03  "People are naturally curious, but we are not naturally good thinkers; unless the cognitive conditions are right, we will avoid thinking"
+pg88 "Abstraction is the goal of schooling, evidence shows that abstract ideas in generall difficult to understand 
+
+
+sweller - hold for few seconds unless refreshed within 20 seconds for short term memory
+no known limit for long term memory
+hattie and yates - learning starts from what we already know and proceeds towards where we want to be
+
+vygotsky 2970 p92 most of what a child learns occurs though 'social interactions with a skilful tutor'
+
+
+
+Didau 2015 - scaffolds should be used to make the impossible possible and not making easy work easier
+'never put up scaffolds unless we a plan for taking it down, if we leave it there, students will become dependent on it'
+
+
+Carnegie Mellon University 2021 - value what they are learning or consider it significant
+
+* Do we need to make lessons 'Fun' to be effective?
+    * [Are we having fun?](https://bennewmark.edublogs.org/2016/11/28/are-we-having-fun/)
+    * [[literacyNumeracyCitizenship]] See careers - "Job Interest Not a Big Predictor of Job Satisfaction"
+* [Why Fun in Learning Works Better Than Dull Learning](https://www.growthengineering.co.uk/why-fun-in-learning-is-important/)
+    * 68% more active whiles having fun
+
 
 Summary
 -------
@@ -615,20 +607,6 @@ TODO
 
 * [How children learn](https://www.iaoed.org/downloads/prac07e.pdf) Stella Vosniadou
 
-* [The 6 most common mistakes students make when mind mapping](https://blog.innerdrive.co.uk/6-common-mind-mapping-mistakes)
-    * Mistake 1 – Using only words
-        * Dual coding - diagrams/pictographs
-    * Mistake 2 - Using too many words
-        * Redundancy effect
-    * Mistake 3 - Wasting time making it too pretty
-        * form of procrastination
-    * Mistake 4 – Not using Elaborative Interrogation
-        * Re-reading is insufficent revison
-        * "why is this true?" or "why might this be the case?"
-    * Mistake 5 – Not utilising Retrieval Practice
-        * they don’t actually test whether they understand what they’re written
-        * try 15min timebox to replicate mindmap from memory
-    * Mistake 6 - Not transferring mind map knowledge
 
 * CPA (often used in primary)
     * Concrete (physical props)
@@ -637,21 +615,28 @@ TODO
 
 Lamb 2017 -> Dorinyes? Taxonomy of motivational strategies 2001
 * Generate basic motivation conditions
-* Generate internal movivation
-* Maintaining and protecting movitvation
+* Generate internal motivation
+* Maintaining and protecting motivation
 * Encouraging positive retrospective self evaluation
-* 
 
-Jones 2021
-Students are incline to resort to cramming or re-reading as this is as reuireing less effor t and energy in comparison to self- testing when examinatinonas are imminent.
-Giving a false sense of confidence
+
+* [Retrieval Practice 2: Implementing, embedding & reflecting](https://books.google.co.uk/books?id=1oM7EAAAQBAJ&dq=jones+2021+Students+are+incline+to+resort+to+cramming+or+re-reading+as+this+is+as+requiring+less+effort+and+energy+in+comparison+to+self-testing+when+examination%27s+are+imminent.+Giving+a+false+sense+of+confidence&lr=&source=gbs_navlinks_s) Kate Jones 2021
+    * Students are incline to resort to cramming or re-reading as this is as requiring less effort and energy in comparison to self-testing when examination's are imminent. Giving a false sense of confidence
+    * ISBN 9781914351013
+    * Moreira, Pinto, Starling and Jaeger "retrieval yields greater long term retention fo the studied material than just restudying"
 
 Bastow 2020
-Student who have a study session followed by a session retrival proacice did at least 30 better in final examinations
+Student who have a study session followed by a session retrieval practice did at least 30 better in final examinations
 Bastow and Watson 2019-2020
-Moreira, Pinto, Starling and Jaeger "retreval yields greater long term retention fo the studied material than just restuying"
+
 * [Does research on retrieval practice translate into classroom practice?](https://impact.chartered.college/article/does-research-retrieval-practice-translate-classroom-practice/) Robert Coe 2020
     * yes and no ...
+    * Why might retrieval practice fail?
+        * Retrieval questions might be generated that focus solely on factual recall (these questions are easier to generate) rather than requiring higher-order thinking
+        * Questions might be too easy and boost confidence without providing real challenge, which is likely to be a key ingredient for generating the kind of learning hoped for
+        * Too much time could be allocated to the quizzes, effectively losing the time that students need to cover new material.
+    * Just quizzing may not be enough
+
 
 Sweller 2011 - "transient information effect" - loose key information due to overwelming cognitive loads
 
@@ -679,6 +664,19 @@ Executive function skills are a fundation of learning Marc North 2020
 Personalisaing Wei Ung 2020
 
 
+TODO Jameson 2020
+* Intrinsic load
+    * the difficulty of the task
+* Extraneous load
+    * how presented
+* Germain load
+    * elements that aid information processing
+
+Walkergrove 2014 critisised CLT
+    Measur to detemine CLT will affect individuals - argues reliability
+
+Kinsella 2012 CLT for prorgamming - has business - TODO reference?
+
 
 
 
@@ -695,7 +693,7 @@ The basic model of Working memory and Long term memory felt very much like 1970�
 
 
 Learning theory summarys
------------------
+------------------------
 
 * [teacherofsci.com](https://teacherofsci.com/) [@TeacherOfSci1](https://twitter.com/TeacherOfSci1)
     * [15 Learning Theories in Education (A Complete Summary)](https://teacherofsci.com/learning-theories-in-education/)

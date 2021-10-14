@@ -166,3 +166,8 @@ Greg Wilson
     * Factual Errors
     * Broken Models
     * Fundamental beliefs
+
+
+
+["fish", "hoarse", "shark", "polar bear"]
+   [5] is "bear" 

@@ -379,14 +379,15 @@ Concept Maps
 Parson Problems
 ---------------
 
-* Learner organises 
+* Learner orders provided complete lines
 * [Quick Read: Improving program comprehension through Parson’s Problems](https://blog.teachcomputing.org/quick-read-improving-program-comprehension-throughparsons-problems/)
     * Learner rearranges the lines of code to solve the task
     * benefit of Parson’s Problems is that the learner is focusing on the structure and logic of blocks of code, rather than the syntax of individual text elements (atoms). The process reduces the cognitive load experienced by learners, allowing them to practise sequencing and problem-solving with code. 
     * [js-parsons.github.io](https://js-parsons.github.io/)
 
-Algorithum PCK
---------------
+
+Algorithm PCK
+-------------
 
 * [Teaching algorithms in upper secondary education: a study of teachers’ pedagogical content knowledge](https://www.tandfonline.com/doi/full/10.1080/08993408.2021.1935554)
 

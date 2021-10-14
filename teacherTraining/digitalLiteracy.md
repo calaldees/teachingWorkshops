@@ -113,6 +113,11 @@ ACTIVITY:
     * [OpenRightsGroup.org](https://www.opemnrightsgroup.org/)
 * Be able to made a _subject access request_ if needed
 * Understand that biometric data such as access to accelerometer can give companies (or attackers) access to gender, age, fitness, and even decipher passwords
+* Purposefully save a file from a website to your local filesystem
+    * Mac users in Safari struggle - really ...
+    * iPads have no filesystem can cant save
+    * Understand your filesystem
+
 
 ### DigiComp
 

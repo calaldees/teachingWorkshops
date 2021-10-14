@@ -109,3 +109,6 @@
     * > Not so. The first, and easiest way to address it is to reprocess spent fuel as France does. The next is to use modern reactor designs that actually clean up old fuel from light water reactors. For example, Canada’s CANDU reactor, a proven common design, can burn the fuel from U.S. LWR reactors, and its own spent fuel is only dangerous for on the order of a thousand years (600-1200), instead of the 30,000 from current US designs. Maintaining waste for hundreds of years is feasible, and on a whole different scale than a 30,000 year storage plan.
     * > Another plan for the waste problem os small modular reactors, which are never refueled onsite. You bring in the fueled reactor, run it for 10 years, then exchange it for a new one and take the old one back to the factory to be refueled. That centralizes waste and prevents all the problems with on-site storage. With waste reprocessing, 90% of it goes back into the reactor for the next decade.
     * > There are known, robust solutions to these problems. Anti-nuke types just ignore them
+
+* [Woman rocked awake by meteorite chunk crashing into her bedroom](https://www.cbc.ca/news/canada/british-columbia/meteorite-crashes-into-womans-bedroom-golden-bc-1.6207904)
+    * meteorite gently landed on her pillow ... you've won the lottery!
