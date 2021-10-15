@@ -1,10 +1,6 @@
 How Students Learn
 ==================
 
-One way data blast.
-You need to build a range of names theories to give context to your reflections and your SP1 writeup.
-
-
 Theory to Practice
 ------------------
 

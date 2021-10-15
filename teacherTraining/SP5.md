@@ -10,12 +10,22 @@ Developing an understanding of how children learn and the key barriers to learni
     * Recognise the key significant barriers and the key strategies, from theory to practice, that support learning
 
 
+* Objectives Abridged
+    * Build knowledge of a range education theories 
+        * to give context to your future reflections and your SP1 writeup
+    * No silver bullet
+    * ePortfolio Support
+        * Look at reflections
+        * Look at subject knowledge audit - ask about your planned areas
+        * Ask about SP1 topic
+
+
 Session Overview
 ----------------
 
 * General education theories
     * Covered by GP2
-* [Learning theories Deep Dive](./howStudentsLearn.md)
+* [./howStudentsLearn.md](./howStudentsLearn.md)
     * Prior knowledge, memory and recall; scaffolding learning
     * scaffolding learning for prior knowledge, working memory and long-term memory
         * retrieve information from memory, and spacing practice
@@ -48,6 +58,7 @@ PGCE
 
 ### PGCE SP1 Assignment
 
+* [Blackboard Assessment](https://learn.canterbury.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_3144032_1&course_id=_17983_1&mode=reset)
 * [Subject Pedagogy Research Proposal: Microsoft Form](https://forms.office.com/Pages/DesignPage.aspx?lang=en-GB&origin=OfficeDotCom&route=Start#FormId=2rIgA90iq02MIW5kS6FPE4bZosdBzY5AvRurHpjUivVUQ0JRMFNOREUwNlBTVkxLREQ5UDFQVDVaRC4u)
     * Area of the investigation - Keep this quite broad
     * Key reading related to the area - Outline at least three or four key texts that you have looked at for this. Ideally, this should include specific research articles
