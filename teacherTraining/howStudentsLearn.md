@@ -5,17 +5,68 @@ One way data blast.
 You need to build a range of names theories to give context to your reflections and your SP1 writeup.
 
 
-Pre-Reading
------------
+Theory to Practice
+------------------
 
-* Summaries/References (will return to these)
-    * [Learning theories Poster](http://blog.richardmillwood.net/2013/05/10/learning-theory/) Big names in learning theory and their ideas
-        * Poster with hyperlinks to main theories
-    * [Summary of Learning infographic](https://twitter.com/MissH_biology/status/1356344242642288643) Feb 01 2021
-        * (twitter post, I downloaded the pdf)
+All of this theory is useful. To make it have real world application in your teaching, you should always be thinking:
 
-* [The genius of DT Willingham and WDSLS](https://teacherhead.com/2021/06/22/the-genius-of-dt-willingham-and-wdsls/) - Tom Sherrington 2021
-    * [Why Don’t Students Like School](https://www.aft.org/sites/default/files/periodicals/WILLINGHAM%282%29.pdf) - as featured in American Educator
+"With this theory ... When I am planning a lesson I will ..."
+
+What ... so what ... now what
+
+* After each theory chunk
+    * What does this mean for your computing planning?
+    * Write your reflections - discuss in pairs after each segment?
+
+If you don't "say it", "write it" or "do it": you've probably not learnt it to any degree of fluency
+
+Is Intuition the Enemy of Teaching and Learning?
+* Reading easy - so must be working
+* Retrieval feels harder - so must not as effective
+
+If I talk at you, that may feel easy. All the great knowledge going at you. But is it effective.
+
+* This session: Masters level free-form theory deep dive brawl.
+* You explore a range of theories. Keep discussing "what is this, what does this mean for my teaching"
+* Stockpile a range of reference amo for SP1
+
+Have the [Computing National Curriculum](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study#key-stage-3) to hand
+
+
+Old Theories
+------------
+
+* Understanding How We Learn - Chapter 1 - Communication Breakdown Between Science and Practice in Education
+    * > Teacher-training textbooks and courses sometimes propagate misunderstandings about learning
+        * Dr Yana Weinstein and Dr Megan Sumeracki 2018
+    * [Dual Coding and Learning Styles](https://www.learningscientists.org/blog/2019/6/6-1) - learning styles not effective
+        * > Dual coding and learning styles sound similar, but are not quite the same thing. 
+            > While dual coding has scientific evidence backing its use, 
+            > learning styles has been repeatedly tested and shown not to improve learning.
+* Video [Howard Gardner on Multiple Intelligences](https://www.youtube.com/watch?v=iYgO8jZTFuQ) Gardener 1997
+    * In 20 years - education has moved on. The idea that _individuals learn in different ways_ has largely been debunked. Much more is now known about the way we encode, chunk and schema knowledge.
+    * For follow-up later
+        * [The Biggest Myth In Education](https://www.youtube.com/watch?v=rhgwIhB58PA) veretasium 2021 - learning styles YouTube 15min
+            * you are not a visual learner
+            * be critical
+
+TASK: 
+1. Watch the first 2min of the video - 
+2. Read the first few pages of YouTube comments in this video
+3. Discuss - Quick Thoughts
+
+Masters Level: Be critical of all of these theories. Why might they not be the whole picture?
+
+
+Required-Reading
+----------------
+
+### Why Don’t Students Like School
+
+* Article [Why Don’t Students Like School](https://www.aft.org/sites/default/files/periodicals/WILLINGHAM%282%29.pdf) - as featured in American Educator
+    * Full Book [Why Don′t Students Like School?: A Cognitive Scientist Answers Questions About How the Mind Works and What It Means for the Classroom](https://www.amazon.co.uk/Why-Don′t-Students-Like-School/dp/1119715660/) 2nd Edition June 2021 - 1st Edition Feb 2010
+    * Critical Breakdown [The genius of DT Willingham and WDSLS](https://teacherhead.com/2021/06/22/the-genius-of-dt-willingham-and-wdsls/) - Tom Sherrington 2021
+    * My Notes
         * Teachers are _success's_ of the education _system/process_ and enjoy learning
         * > (teachers are) dejected when they find that some of their pupils don’t like school much
         * > ... teachers should reconsider how they encourage their students to think in order to maximize the likelihood that students will get the pleasurable rush that comes from successful thought
@@ -42,14 +93,14 @@ Pre-Reading
         * > Catching Up Is the Long-Term goal ... to catch up, slower students must work harder than the brighter students.
         * > their _important teacher_ set high standards and believed that they could meet those standards.
         * > be wary of praising second-rate work
-    * [Why Don′t Students Like School?: A Cognitive Scientist Answers Questions About How the Mind Works and What It Means for the Classroom](https://www.amazon.co.uk/Why-Don′t-Students-Like-School/dp/1119715660/) 2nd Edition June 2021 - 1st Edition Feb 2010
 
+### Understanding How we Learn - A visual guide
 
-[Understanding How we Learn - A visual guide](https://www.learningscientists.org/book) 2018
-[visuals by oliver calgary](https://www.olicav.com/#/understanding-how-we-learn/)
-Read this book preview.
+* [Understanding How we Learn - A visual guide](https://www.learningscientists.org/book) 2018
+    * [visuals by oliver calgary](https://www.olicav.com/#/understanding-how-we-learn/)
+* Read this book preview.
 When reading; make notes about action points that would affect the planning of your computing lessons.
-We will revisit the topic of 'planning lessons' armed with this information.
+
 Many of the topics touched on in the reading will be explored in more detail in the session.
 
 TASK: From our reading - Discuss
@@ -102,7 +153,7 @@ TASK: From our reading - Discuss
     * Avoid 'feel good' learning
 
 
-* [retrieval starters](https://twitter.com/MissHudsonHist/status/1370781735319957507) [googleDrive](https://drive.google.com/file/d/1jfO1pgCXXGCmUlZ28XW08Z0lENwNhAph/view) i saved the pptx
+
 
 ### How will this affect planning our computing lessons?
 
@@ -111,44 +162,7 @@ TASK: From our reading - Discuss
 * Test/Quiz past topics
 * Test, Test, Test, Assess, Assess, Assess, Quiz, Quiz, Quiz - use that to plan
 
-
-Theory to Practice
-------------------
-
-All of this theory is useful. To make it have real world application in your teaching, you should always be thinking:
-
-"With this theory ... When I am planning a lesson I will ..."
-
-After each theory chunk, I will ask the question. 
-What does this mean for your computing planning?
-Pairs after each segment
-
-
-Have the [Computing National Curriculum](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study#key-stage-3) to hand
-
-
-Old Theories
-------------
-
-* Understanding How We Learn - Chapter 1 - Communication Breakdown Between Science and Practice in Education
-    * From pre reading - 
-    * > Teacher-training textbooks and courses sometimes propagate misunderstandings about learning 
-    *  Dr Yana Weinstein and Dr Megan Sumeracki 2018
-    * [Dual Coding and Learning Styles](https://www.learningscientists.org/blog/2019/6/6-1) - learning styles not effective
-        * > Dual coding and learning styles sound similar, but are not quite the same thing. 
-            > While dual coding has scientific evidence backing its use, 
-            > learning styles has been repeatedly tested and shown not to improve learning.
-* Video [Howard Gardner on Multiple Intelligences](https://www.youtube.com/watch?v=iYgO8jZTFuQ) Gardener 1997
-    * In 20 years - education has moved on. The idea that _individuals learn in different ways_ has largely been debunked. Much more is now known about the way we encode, chunk and schema knowledge.
-    * For follow-up later
-        * [The Biggest Myth In Education](https://www.youtube.com/watch?v=rhgwIhB58PA) veretasium 2021 - learning styles YouTube 15min
-            * you are not a visual learner
-            * be critical
-
-TASK: 
-1. Watch the first 2min of the video - 
-2. Read the first few pages of YouTube comments in this video
-3. Discuss - Quick Thoughts
+My Take: The practical act of coding is not separate to the theory. If we are trying to manifest aspects/concepts/topics of computing in code, we are repeating/strengthening/solidifying our programming understanding.
 
 
 Dual Coding
@@ -193,7 +207,7 @@ Attention is a finite resource and can be depleted quickly.
 (Gathercole and Alloway, 2007),
 
 > Be wary of reducing cognitive load too much – the learning process should be manageable, but not overly fragmented.
-
+See Expertise Reversal Effect in [inclusion.md](./inclusion.md) - too much support cases lack of engagement and inattention
 
 
 > Gesturing is a technique children use to reduce cognitive load while speaking
@@ -207,12 +221,16 @@ Help sheets or Knowledge Organisers can help reduce cognitive load
         * Learner rearranges the lines of code to solve the task
         * benefit of Parson’s Problems is that the learner is focusing on the structure and logic of blocks of code, rather than the syntax of individual text elements (atoms). The process reduces the cognitive load experienced by learners, allowing them to practise sequencing and problem-solving with code. 
         * [js-parsons.github.io](https://js-parsons.github.io/)
+* Conversational Programmers
+    * Conversational Programmers (High level patterns - in blocks)
+    * Build working program in chunked examples
+    * (Kind of like my engineering projects - [chat project python/js](https://github.com/calaldees/TeachProgramming/tree/master/teachprogramming/static/docs) - felt success - felt real world)
+    * [Katie Cunningham’s Purpose-first Programming: Glass box scaffolding for learning to code for authentic contexts](https://computinged.wordpress.com/2021/06/21/katie-cunninghams-purpose-first-programming-glass-box-scaffolding-for-learning-to-code/)
+    * [CHI 2021 | Purpose-first programming works for conversational programmers](https://www.youtube.com/watch?v=flLjtC1QfD0)  Katie Cunningham 2021
+        * [Avoiding the Turing Tarpit: Learning Conversational Programming by Starting from Code’s Purpose](https://dl.acm.org/doi/10.1145/3411764.3445571)
+        * [Mismatch of Expectations: How Modern Learning Resources Fail Conversational Programmers](https://dl.acm.org/doi/10.1145/3173574.3174085)
 
 TASK: What does this mean for your planning?
-
-### More
-See Expertise Reversal Effect in [inclusion.md](./inclusion.md) - too much support cases lack of engagement and inattention
-
 
 
 A Mental Model of the Learner - Daniel Willingham
@@ -258,8 +276,8 @@ Frequent Retrieval/Questions/Assessment/Quiz
 
 How will you do this?
 
-* Hand up? 
-    * [Video Clip](https://youtu.be/J25d9aC1GZA?t=321) Watch 5:21 to 8:43 == 3min20seconds
+* Hand up?
+    * No Hands Up - [Video Clip](https://youtu.be/J25d9aC1GZA?t=321) Watch 5:21 to 8:43 == 3min20seconds
         * Dylan Willam Advocates against this
     * Flawed sample group
     * Pressure/Public - not inclusive practice
@@ -286,6 +304,10 @@ Constructing quality questions that give you meaningful data (e.g the incorrect 
 * [Diagnostic Questions](https://diagnosticquestions.com/) - Computing 'Question Bank'
     * [DiagnosticQuestionsFAQ.pdf](https://diagnosticquestions.com/Uploads/DiagnosticQuestionsFAQ.pdf)
     * (Massive topic: We will elaborate on the concepts of Questioning in SP8)
+
+* Reveal
+    * [retrieval starters](https://twitter.com/MissHudsonHist/status/1370781735319957507) [googleDrive](https://drive.google.com/file/d/1jfO1pgCXXGCmUlZ28XW08Z0lENwNhAph/view) i saved the pptx
+
 
 TASK: What does this mean for your planning?
 
@@ -458,6 +480,16 @@ MARGE
     * > The book is full of references to brain structures and neurological experiments that link brain activity to various inputs in different trials.
       > It gives some easy-to-understand structural biological models to help make sense of some common cognitive science concepts.
     * [poster](https://headguruteacher.files.wordpress.com/2018/10/marge.pdf)
+
+
+Summaries
+---------
+
+
+* [Learning theories Poster](http://blog.richardmillwood.net/2013/05/10/learning-theory/) Big names in learning theory and their ideas
+    * Poster with hyperlinks to main theories
+* [Summary of Learning infographic](https://twitter.com/MissH_biology/status/1356344242642288643) Feb 01 2021
+    * (twitter post, I downloaded the pdf)
 
 
 Further Reading

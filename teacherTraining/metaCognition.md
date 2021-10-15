@@ -103,9 +103,9 @@ TODO
 * [The metacognitive approach to computereducation: making explicit the learning journey](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.831.3756&rep=rep1&type=pdf) 2007 Phelps
 
 * (poor article - low sample size) [Metacognitive Strategies in Teaching and Learning Computer Programming](https://www.researchgate.net/publication/334452623_Metacognitive_Strategies_in_Teaching_and_Learning_Computer_Programming)
-    * > there is a correlation between the metacognitive awareness level of an individual and their academ-ic achievement
-    * > Novices are also  identified  as  having  metacognitive  deficiencies  regardless  of their  age.  In  addition,  they  fail  to  reflect  on  what  they have learned
-    * > Several studies demonstrated  that  cooperative  learning  involves  metacognitive thoughts 
+    * > there is a correlation between the metacognitive awareness level of an individual and their academic achievement
+    * > Novices are also identified as having metacognitive deficiencies regardless of their age. In addition, they fail to reflect on what they have learned
+    * > Several studies demonstrated  that  cooperative  learning  involves  metacognitive thoughts
 * (not conclusive) [Evaluating effectiveness of active learning in computer science using metacognition](https://ieeexplore.ieee.org/document/7044226) 2015 mani et al
     * > Metacognitive strategies on the other hand help the student assess whether the goal has been met. In other words a student can use cognitive strategies, as guided by the metacognitive knowledge, till the goal is met
 

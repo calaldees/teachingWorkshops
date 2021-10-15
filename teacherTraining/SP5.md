@@ -14,20 +14,24 @@ Session Overview
 ----------------
 
 * General education theories
-* Prior knowledge, memory and recall; scaffolding learning
-* scaffolding learning for prior knowledge, working memory and long-term memory
-    * retrieve information from memory, and spacing practice
-    * Interleaving
-        * concrete and abstract examples
-* Threshold (foundational) concepts in Computing
-    * Liminal space
-* Novice v experts (schemata)
-    * explicit, direct instruction with guided practice and relevant feedback
-* Meta-cognition
-* Cognitive load
-    * Parsons problems
-* Concept maps
-* Notional machine
+    * Covered by GP2
+* [Learning theories Deep Dive](./howStudentsLearn.md)
+    * Prior knowledge, memory and recall; scaffolding learning
+    * scaffolding learning for prior knowledge, working memory and long-term memory
+        * retrieve information from memory, and spacing practice
+        * Interleaving
+    * Threshold (foundational) concepts in Computing
+        * Liminal space
+    * Novice v experts (schemata)
+        * explicit, direct instruction with guided practice and relevant feedback
+    * Cognitive load
+        * Parsons problems
+    * Concept maps
+
+May have to delay
+* [Meta-cognition](./metaCognition.md)
+* Notional machine (Leaning Together Greg Wilson)
+* concrete and abstract examples
 
 
 
