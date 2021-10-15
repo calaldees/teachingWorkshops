@@ -720,15 +720,4 @@ The basic model of Working memory and Long term memory felt very much like 1970â
     * Active collaboration online
 
 
-Learning theory summarys
-------------------------
-
-* [teacherofsci.com](https://teacherofsci.com/) [@TeacherOfSci1](https://twitter.com/TeacherOfSci1)
-    * [15 Learning Theories in Education (A Complete Summary)](https://teacherofsci.com/learning-theories-in-education/)
-        * [An Introduction to Learning Theories.: 15 of the most influential learning theories, simplified and explained](https://www.amazon.co.uk/gp/product/B084QDNWVJ/)
-    * [The New Teacher Mega Guide. Everything you need in 10 Videos](https://teacherofsci.com/new-teacher-mega-guide/)
-* [lumenlearning.com/educationalpsychology](https://courses.lumenlearning.com/educationalpsychology/)
-    * [Major theories and models of learning](https://courses.lumenlearning.com/educationalpsychology/chapter/major-theories-and-models-of-learning/)
-
-
 

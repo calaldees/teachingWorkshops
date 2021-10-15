@@ -25,6 +25,7 @@ Session Overview
 
 * General education theories
     * Covered by GP2
+    * [./learningTheories.md](./learningTheories.md)
 * [./howStudentsLearn.md](./howStudentsLearn.md)
     * Prior knowledge, memory and recall; scaffolding learning
     * scaffolding learning for prior knowledge, working memory and long-term memory
