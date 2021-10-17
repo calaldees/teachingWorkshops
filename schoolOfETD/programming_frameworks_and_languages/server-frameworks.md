@@ -18,92 +18,83 @@ Server Frameworks
 ### Next week
 * Client frameworks
     * Hello World
+    * [Cross-origin resource sharing](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)
+        * HTTP `OPTIONS` request with `Access-Control-Allow-Origin`
+    * [Single-page application](https://en.wikipedia.org/wiki/Single-page_application)
+
+Overview
+--------
+
+* Terminology + Tech (15min)
+* Django (1 hour)
+* Falcon (30 min)
+* (Overview) Django REST Framework + Pyramid (30 min)
+* dotnet csproj (15min)
+* Sanic (30 min)
+* express.js (30 min)
+* Ruby on Rails, Gin, Laravel (30 min) - if we have time
+* Assignment Assistance (30min)
+
+History + Terms
+---------------
+
+* [Representational state transfer](https://en.wikipedia.org/wiki/Representational_state_transfer)
+    * > RESTful web APIs are typically loosely based on HTTP methods to access resources via URL-encoded parameters and the use of JSON or XML to transmit data.
+* [Common Gateway Interface (CGI)](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
+    * Just drop a script in an executable folder (new process on each request)
+* [Web Server Gateway Interface (WSGI)](https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface)
+    * Connect web server (Apache, Nginx) to application logic (Python)
+* [Asynchronous Server Gateway Interface (ASGI)](https://en.wikipedia.org/wiki/Asynchronous_Server_Gateway_Interface)
+    * [Difference between WSGI and ASGI?](https://medium.com/analytics-vidhya/difference-between-wsgi-and-asgi-807158ed1d4c)
+* [Middleware](https://en.wikipedia.org/wiki/Middleware)
+    * Pre-request + Post-response hooks
+    * Like _decorators_ (the language feature we looked at in the languages session)
+* [Single-page application](https://en.wikipedia.org/wiki/Single-page_application)
+    * A single-page application (SPA) is a web application or website that interacts with the user by dynamically rewriting the current web page with new data from the web server, instead of the default method of a web browser loading entire new pages. The goal is faster transitions that make the website feel more like a native app. 
 
 
+Features of Server Frameworks
+-----------------------------
 
-Bits
-----
+* Middleware
+* Security/Authentication framework
+* Routing
+* Views
+* Model - Datamodel (ORM)
+* Templates
+* Serializers (output data)
+    * Streams
+* Websockets
+* Plugin or expansion framework
 
+### Other approach: Static Site Generation
 
-Middleware
-Security/Authentication framework
-Plugins
+* [What is a Static Site Generator? And 3 ways to find the best one](https://www.netlify.com/blog/2020/04/14/what-is-a-static-site-generator-and-3-ways-to-find-the-best-one/)
+* Really scalable and performant (cacheable, use of existing simple performant systems, distributable)
+* Frameworks
+    * [hugo](https://gohugo.io/) Golang
+    * [jekyll](https://jekyllrb.com/) Ruby
+    * [hyde](https://hyde.github.io/) Python
+    * [next.js](https://nextjs.org/) Typescript
+        * hybrid static & server rendering
 
-Flexability
-Routing
-Templates
-Datamodel (ORM)
-Streams
-Websockets
-Views
-
-
-https://wiki.python.org/moin/StaticSiteGenerator
-
-
-
-### DIY HTTP Server
-
-Java + Python
-
-### DIY Message Board
-
-Python + PHP
-
-### Dynamic Server Frameworks
-
-Static site generation
-
-DB, Templates, Routing
-
-CGI-BIN - write a script in any labnagueg as long as it printed html response
-PHP lowered barrier to entry to server - get people started
-
-Wordpress - Framework? Lots of plugs
-No other frameworks at the time
-
-CodIgnitor PHP - Laravell (new) PHP
-Node.js
-Rails (Ruby)
-Falcon
-
-Shimmi - own framework - 
-v1 hardcoded for one use - image board - could not do anything else with it
-v2 others interested but wanted differnt features - started plugings - made a minimum engine. Everything was a plugin that spoke to each other. Event system page event kicks it off - login plugin 
-
-#### Django
-
-#### Pyramid
-
-### Static site generation
-
-https://wiki.python.org/moin/StaticSiteGenerator
-
-#### Jekyll 
-
-#### Nikola
-
-#### Static SQLLite
-
-https://phiresky.netlify.app/blog/2021/hosting-sqlite-databases-on-github-pages/
-http://static.wiki/
-https://github.com/segfall/static-wiki
-
-
-https://www.fullstackpython.com/sanic.html
-https://github.com/itielshwartz/sanic-nginx-docker-example/blob/master/app/server.py
 
 
 
 Django
 ------
 
+What is a server side framework?
+Let's do a tutorial to find out what the components are.
+(this is just to explore the further features - remember our goal for the assignment is to create a RESTApi to a spec)
+
 * https://www.djangoproject.com/
 * Tutorial (first 3 parts)
     * https://docs.djangoproject.com/en/3.2/intro/tutorial01/
     * https://docs.djangoproject.com/en/3.2/intro/tutorial02/
     * https://docs.djangoproject.com/en/3.2/intro/tutorial03/
-
+* Let's live code!
+    * https://gitpod.io/#https://github.com/gitpod-io/template-python-django
 
 ### Further Django Reading
 * [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
@@ -118,24 +109,13 @@ Django
 * [About my experience of using Django Framework](https://emacsway.github.io/en/django-framework/)
 
 
-Django REST Framework
----------------------
-
-
-https://www.django-rest-framework.org/
-
-
-
-Plugins
-
-Middleware - like a decorator
-Sessions - 
-CSRF
-
 Falcon Framework
 ----------------
 
 http://falconframework.org/
+
+Let's build it in gitpod - livecode - containerize
+* bind/host to `0.0.0.0` + explain
 
 * https://www.fullstackpython.com/falcon.html
     * > Falcon is a WSGI-compliant web framework designed to build RESTful APIs without requiring external code library dependencies.
@@ -148,30 +128,20 @@ http://falconframework.org/
 
 
 
+Django REST Framework
+---------------------
 
+https://www.django-rest-framework.org/
 
-http://falconframework.org/
+A framework, built on another framework
 
+https://www.fullstackpython.com/django-rest-framework-drf.html
+https://www.django-rest-framework.org/tutorial/quickstart/
 
-
-* Thoughts for assignment
-    * spin-uptime
-    * developer familiarity
-    * compatibility
-    * complexity of design patterns
-    * learn-ing curve
-
-* deploy-ability
-
-What requirements might you have in the future?
-Hiring developers
-Admin staff to manage items? (non developers?)
-Speed/scale
-Beyond one server? (one database - loads of app servers - load balanced)
-Data persistence
-Websockets (live updates/chat?)
-Static storage (images/uploads)
-
+* Web visible interface for exploration
+* Pagination
+* Multiple dateformat serializers
+* Generates openAPI spec from working program
 
 Pyramid
 -------
@@ -179,35 +149,13 @@ Pyramid
 https://trypyramid.com/
 https://docs.pylonsproject.org/projects/pyramid/en/2.0-branch/quick_tutorial/index.html
 https://docs.pylonsproject.org/projects/pyramid/en/2.0-branch/quick_tutorial/json.html
-Tests 
+Tests
 
-* [Hello Traversal World](https://docs.pylonsproject.org/projects/pyramid/en/2.0-branch/narr/hellotraversal.html)
-
-No built in templating langaueg (you select one)
-No built in database ORM - you select one SQLAlchemy is great
-
-
-Django REST Framework
----------------------
-A framework, build on another framework
-
-https://www.fullstackpython.com/django-rest-framework-drf.html
-
-Built on top of Django for API's
-https://www.django-rest-framework.org/tutorial/quickstart/
-
-Web visible interface - multiple dataformat serialzers
-Generates openAPI spec from working program
-
-
-
-https://rapidapi.com/blog/best-nodejs-frameworks/
-Performacen community ease of use, best for
-
-
-JWebToken - multiple servers
-
-
+* Decoupled views routed with decorators
+* No built in templating language (you select one)
+* No built in database ORM - you select one - SQLAlchemy is great
+* Supports an alternate routing method called _traversal_ (dynamic)
+    * [Hello Traversal World](https://docs.pylonsproject.org/projects/pyramid/en/2.0-branch/narr/hellotraversal.html)
 
 
 dotnet csproj
@@ -272,28 +220,20 @@ Express.js
 https://expressjs.com/
 
 
-Generator
-Routes (not really explained router)
-Static
-
-http://localhost:3000/stylesheets/style.css
-
+* Generator
+* Routes (not really explained router)
+* Static
+    * http://localhost:3000/stylesheets/style.css
 
 Guide
 https://expressjs.com/en/guide/routing.html
 
-res.json()
+`res.json()`
 https://expressjs.com/en/4x/api.html#res.json
-
-
 
 
 * Frameworks built on Frameworks
     * [Frameworks built on Express](https://expressjs.com/en/resources/frameworks.html)
-
-
-[Difference between WSGI and ASGI?](https://medium.com/analytics-vidhya/difference-between-wsgi-and-asgi-807158ed1d4c)
-
 
 
 Ruby on Rails
@@ -313,11 +253,31 @@ Ruby on Rails
 * Declining in popularity
 * Sledgehammer to crack a nut
 
+Laravel
+-------
+
+* https://laravel.com/
+    * Look at the echo system
+* https://laravel.com/docs/8.x#getting-started-on-linux
+* curl -s https://laravel.build/example-app | bash
+* cd example-app 
+* ./vendor/bin/sail up
+    * downloads mysql, redis, mailhog, selenium + chrome, ubuntu
+* http://localhost
+    * This didnt work - after downloading 4gb+ of dependencies
+* docker-compose down
+* https://laravel.com/docs/8.x#laravel-the-api-backend
+    * looks like it can be used as an API backend ... but this seems like a sledgehammer to crack a nut
+    * https://laravel.com/docs/8.x/responses#strings-arrays
+
 
 Gin
 ---
 
+* [Gin Web Framework](https://gin-gonic.com/)
 * [Tutorial: Developing a RESTful API with Go and Gin](https://golang.org/doc/tutorial/web-service-gin)
+
+I may create a docker example of this for next session
 
 
 
@@ -362,7 +322,7 @@ Assignment 1 - Assistance
         * developer experience,
         * developer tools,
         * security,
-        * developer  community,
+        * developer community,
         * documentation 
         * and other business factors are discussed.
     * Examples of existing use-cases are used to strengthen the argument.
@@ -370,6 +330,19 @@ Assignment 1 - Assistance
 * Golden rule for technical reports
     * Describe the technical issue/statement
     * Then describe what that means for your organisation
+
+
+
+* What requirements might you have in the future?
+    * Hiring developers
+    * Admin staff to manage items? (non developers?)
+    * Speed/scale
+    * Beyond one server? (one database - loads of app servers - load balanced)
+    * Data persistence
+    * Websockets (live updates/chat?)
+    * Static storage (images/uploads)
+    * [JSON Web Token (JWT)](https://en.wikipedia.org/wiki/JSON_Web_Token) - multiple servers
+
 
 ### Hints
 * General Reading
@@ -399,3 +372,11 @@ Assignment 1 - Assistance
 * Hiring the skills
     * When justifying your choice of language and framework
     * https://www.itjobswatch.co.uk/default.aspx?ql=&ll=&id=900&p=6&e=5&page=1&sortby=12&orderby=0
+
+
+Unsorted
+========
+
+
+https://rapidapi.com/blog/best-nodejs-frameworks/
+Performacen community ease of use, best for
