@@ -1,40 +1,28 @@
 Server Frameworks
 -----------------
 
-Objectives:
+### Objectives
 * Understand how to follow a tutorial to run "Hello World" for a range of server side frameworks
 * Understand a range of server frameworks features
     1. To justify your choice of server framework (assignment 1)
     2. To critique the missing features of the `server_example` (assignment 1)
 
-Tasks for next week:
+### Tasks for next week
 1. Use a server framework
     * Find a server framework on your own
     * Run "Hello World" server
     * Return a JSON response (e.g. `GET /test --> {"foo": "bar"}`)
 2. Research a server framework (for any language)
-    * Come prepared to talk about it's features + show link to any example code (5min)
+    * Come prepared to talk about it's features + show link to any example code (3min)
 
-Next week:
+### Next week
 * Client frameworks
     * Hello World
 
 
-Assignment Marking Criteria
----------------------------
 
-
-Further Reading
----------------
-
-* [Representational state transfer](https://en.wikipedia.org/wiki/Representational_state_transfer)
-    * > RESTful web APIs are typically loosely based on HTTP methods to access resources via URL-encoded parameters and the use of JSON or XML to transmit data.
-* [Full Stack Python: Web Development - Overview](https://www.fullstackpython.com/web-development.html)
-    * Lots of links to describe what the web is
-* Finding the skills
-    * When justifying your choice of language and framework
-    * https://www.itjobswatch.co.uk/default.aspx?ql=&ll=&id=900&p=6&e=5&page=1&sortby=12&orderby=0
-
+Bits
+----
 
 
 Middleware
@@ -111,28 +99,23 @@ Django
 ------
 
 * https://www.djangoproject.com/
-
-https://docs.djangoproject.com/en/3.2/intro/tutorial01/
-https://docs.djangoproject.com/en/3.2/intro/tutorial02/
-https://docs.djangoproject.com/en/3.2/intro/tutorial03/
+* Tutorial (first 3 parts)
+    * https://docs.djangoproject.com/en/3.2/intro/tutorial01/
+    * https://docs.djangoproject.com/en/3.2/intro/tutorial02/
+    * https://docs.djangoproject.com/en/3.2/intro/tutorial03/
 
 
 ### Further Django Reading
-* https://tutorial.djangogirls.org/en/
+* [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
     * Wonderful tutorial from the basics up
-* https://steelkiwi.com/blog/why-django-best-web-framework-your-project/
-
-
-
-
-
-python manage.py createsuperuser
-
-Turn off autosave in vscode - why does this feature exist!?
-
-https://www.netguru.com/blog/django-pros-and-cons
-https://code.tutsplus.com/tutorials/10-django-trouble-spots-for-beginners--net-12012
-https://emacsway.github.io/en/django-framework/
+* [Why Django is the Best Web Framework for Your Project](https://steelkiwi.com/blog/why-django-best-web-framework-your-project/)
+    * Not suited for small-scale projects
+    * No default support for WebSockets
+    * Monolithic
+    * Django’s behavior is sometimes hard to tune
+* [Django Framework Review - Pros and Cons](https://www.netguru.com/blog/django-pros-and-cons)
+* [10 Django Trouble Spots for Beginners](https://code.tutsplus.com/tutorials/10-django-trouble-spots-for-beginners--net-12012)
+* [About my experience of using Django Framework](https://emacsway.github.io/en/django-framework/)
 
 
 Django REST Framework
@@ -232,7 +215,7 @@ dotnet csproj
 
 * https://github.com/calaldees/dotnet_docker_test
     * My demo for building and running Microsofts demo TodoApi app in docker containers
-1. Start a new- gitpod workspace from the repo above
+1. Start a new gitpod workspace from the repo above (remember the way to do this)
     * `https://gitpod.io/#https://github.com/USERNAME/REPONAME`
 2. build and run the example application
     * `http://localhost:5000/WeatherForecast`
@@ -282,6 +265,7 @@ Snaic
     * Throughput
         * https://sanicframework.org/en/guide/basics/handlers.html#a-word-about-async
 
+
 Express.js
 ----------
 
@@ -311,31 +295,107 @@ https://expressjs.com/en/4x/api.html#res.json
 [Difference between WSGI and ASGI?](https://medium.com/analytics-vidhya/difference-between-wsgi-and-asgi-807158ed1d4c)
 
 
-Package Management
-------------------
 
-Popularity, addons/plugins/extensions, community
+Ruby on Rails
+-------------
 
-* [npmjs.com](https://www.npmjs.com)
-    * [npmjs.com/package/express](https://www.npmjs.com/package/express)
-        * Look at download statistics
-* [pypi.org](https://pypi.org/)
-    * https://pypistats.org/
-        * https://pypistats.org/packages/django
-        * https://pypistats.org/packages/falcon
-        * https://pypistats.org/packages/sanic
-        * https://pypistats.org/packages/pyramid
-    * https://pepy.tech/
+* https://guides.rubyonrails.org/getting_started.html
+* gem install rails
+* rails new blog
+    * crashed on gem .. had to cd in and `bundle install`
+    * got stuck again .. took ages, could not get it to start
+* cd blog
+    * has some auto-magical virtual environment setup
+* bin/rails server
+    * did not start
+
+* [Build a RESTful JSON API With Rails 5 - Part One](https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-rails-5-part-one)
+* Declining in popularity
+* Sledgehammer to crack a nut
+
+
+Gin
+---
+
+* [Tutorial: Developing a RESTful API with Go and Gin](https://golang.org/doc/tutorial/web-service-gin)
 
 
 
+Assignment 1 - Assistance
+-------------------------
 
+### Critique of prototype
+* Excellent analysis and critique that identifies topics such as: 
+    * technology limitations,
+    * anti-patterns,
+    * readability,
+    * modality,
+    * maintainability,
+    * scale-ability,
+    * limitations of unit testing,
+    * adherence to standards,
+    * security,
+    * and wider business issues
 
-Google
+* Use the inverse of all the 'good things' that the other frameworks provide
+    * no support for standards
+    * incomplete implementation
+    * performance
+    * stability
+    * community
+    * security
+    * expandability
 
-Example of use cases
-* `websites built with XXX`
-Problems
-* `problems with ...`
+### Server framework justification
+* Mark scheme
+    * Justified  the  features  of  a  framework  in  comparison  to  other  frameworks  to provide a balanced and well researched justification.  
+    * Factors such as:
+        * spin-uptime,
+        * developer familiarity,
+        * compatibility,
+        * complexity of design patterns,
+        * learn-ing curve, 
+        * theoretical throughput,
+        * deploy-ability,
+        * hire-ability,
+        * cost, 
+        * developer experience,
+        * developer tools,
+        * security,
+        * developer  community,
+        * documentation 
+        * and other business factors are discussed.
+    * Examples of existing use-cases are used to strengthen the argument.
+    * Benefits and drawbacks are explored, drawbacks are clearly compared against business impact/risk
+* Golden rule for technical reports
+    * Describe the technical issue/statement
+    * Then describe what that means for your organisation
 
-> Benefits and drawbacks are explored and drawbacks are clearly compared against business impact/risk.
+### Hints
+* General Reading
+    * [Representational state transfer](https://en.wikipedia.org/wiki/Representational_state_transfer)
+        * > RESTful web APIs are typically loosely based on HTTP methods to access resources via URL-encoded parameters and the use of JSON or XML to transmit data.
+    * [Full Stack Python: Web Development - Overview](https://www.fullstackpython.com/web-development.html)
+        * Lots of links to describe what the web is
+* REST framework comparisons
+    * [What are the best Microframeworks (Backend) Tools?](https://stackshare.io/microframeworks)
+    * [10 popular REST frameworks For your MicroService](https://dev.to/vishnuchilamakuru/10-popular-rest-frameworks-for-your-microservice-39ao)
+    * [What are the best web frameworks to create a web REST API?](https://www.slant.co/topics/1397/~best-web-frameworks-to-create-a-web-rest-api#23)
+* Example web searches
+    * `websites built with XXX`
+    * `problems with ...`
+    * `my experiences with ...`
+* Popularity, addons/plugins/extensions, community
+    * [npmjs.com](https://www.npmjs.com)
+        * [npmjs.com/package/express](https://www.npmjs.com/package/express)
+            * Look at download statistics
+    * [pypi.org](https://pypi.org/)
+        * https://pypistats.org/
+            * https://pypistats.org/packages/django
+            * https://pypistats.org/packages/falcon
+            * https://pypistats.org/packages/sanic
+            * https://pypistats.org/packages/pyramid
+        * https://pepy.tech/
+* Hiring the skills
+    * When justifying your choice of language and framework
+    * https://www.itjobswatch.co.uk/default.aspx?ql=&ll=&id=900&p=6&e=5&page=1&sortby=12&orderby=0
