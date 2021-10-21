@@ -292,6 +292,9 @@ TASK: 10min
     * [Identifying more able learners: beyond the numbers](https://www.nace.co.uk/blogpost/1764163/327555/Identifying-more-able-learners-beyond-the-numbers) NACE 2019
     * [Traits of Giftedness](https://www.nagc.org/resources-publications/resources/my-child-gifted/common-characteristics-gifted-individuals/traits) Clark, B. (2008). Growing up gifted
 
+* [Achieving equity through mediocrity: Why elimination of gifted programs should worry us all](https://thehill.com/opinion/education/576491-achieving-equity-through-mediocrity-why-elimination-of-gifted-programs)
+    * > Journalist H.L. Mencken once denounced public education as an effort “simply to reduce as many individuals as possible to the same safe level, to breed a standard citizenry, to put down dissent and originality.”
+* Goodhearts law - metrics will be gamed - if you truly want to reduce the attainment gap, just send the good students home 3 days a week
 
 ### Webinar Summary - How to Support the More Able
 

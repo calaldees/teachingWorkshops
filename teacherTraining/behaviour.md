@@ -1,33 +1,38 @@
 Behaviour
 =========
 
-PM Session
 
-* How can we aid _Behaviour for Learning_ through our planning and teaching in Computing?
-* Barriers to learning Computing
-    * Mental/Emotional (99% of the time software is broken)
+
+
+* How can we aid B4L through our planning and teaching in Computing?
+* Barriers to learning and key research and practice in subject
+    * Technical (reliable?, responsive?)
+    * Mental/Emotional (99% of the time software is broken) - Anxiety
+* Making Computing connections – unfamiliar and familiar
+
 * Verbal and non-verbal communication for behaviour
 * The physical space of a Computer room
-* Laws relating to computer use and how this can be incorporated into classroom practice
 * Teacher as a role model
     * self-regulate one’s emotions affects pupils’ ability to learn, success in school and future lives
 * Pupils worldview and motivation
+    * Intrinsic factors (related to their identity and values)
+    * Considering 'Meaningful success' from pupils perspective
     * pupils believe that their feelings will be considered and understood
 * Predictable and secure environment
     * reinforcing routines, including through positive reinforcement
 
-Differed to later
-* Barriers to learning Computing
-    * Technical (reliable?, responsive?)
-* Pupils worldview and motivation
-    * Intrinsic factors (related to their identity and values)
-    * Considering 'Meaningful success' from pupils perspective
+* Laws relating to computer use and how this can be incorporated into classroom practice
+
+
+Curriculum
+----------
+
+* [EEF Improving behaviour School Report](https://educationendowmentfoundation.org.uk/public/files/Publications/Behaviour/EEF_Improving_behaviour_in_schools_Report.pdf)
+* Internation Academy of Education - Education Practice Series 8 - [Preventing behaviour problems: what works](https://www.iaoed.org/downloads/prac08e.pdf)
+
 
 
 ITT Core Content Framework - TODO?
-    * [Preventing behaviour problems: what works](https://www.iaoed.org/downloads/prac08e.pdf)
-https://educationendowmentfoundation.org.uk/public/files/Publications/Behaviour/EEF_Improving_behaviour_in_schools_Report.pdf
-
 
 > 7.5. Building effective relationships is easier when pupils believe that their feelings will be considered and understood.
 
@@ -55,17 +60,6 @@ UPCOMING TASK: In groups of 3. You will be given a session-task to list one of y
 This will be towards the end of the session. The session content will augment your possible responses.
 
 
-Upcoming Task
--------------
-
-* Friday 16th October
-* PGCE Only 
-* [Microteaching](https://en.wikipedia.org/wiki/Microteaching)
-* You are to plan and deliver 20 min computing lesson to the group as if we were KS3 or KS4 students
-* The lesson can be any topic of computing in KS3 or KS4
-* We will present in a Blackboard Collaborate session
-* We will then discuss/comment on the lesson (10min)
-
 
 Session Overview
 ----------------
@@ -91,6 +85,8 @@ Intro
 
 * Tip of the iceberg analogy - bits you don't see
 * Behaviour management is 90% pro-active and not re-active
+    * Remove the opportunity's for misbehaviour
+    * Remove the incentives for misbehaviour
 
 * [DfE Behaviour and discipline in schools](https://www.gov.uk/government/publications/behaviour-and-discipline-in-schools) January 2016
     * Teachers have a power to impose detention outside school hours
@@ -103,6 +99,7 @@ Intro
 * Is the environment safe? 
     * If child feels threatened they will not be able to analyse/judge properly
     * You could be perceived as the _threat_
+        * (Think about this point for a second)
 
 * Relationship needs: Tod and Elis 2017
     * Relationship with Self
@@ -117,17 +114,21 @@ Intro
 
 ### Bad behaviour
 
-TASK: What was on your pre-reading list of _bad behaviours_?
+Whiteboard - Class Activity
 
-* Examples
+TASK1: List Bad Behaviours
+
+TASK2: Reflect on the identified bad behaviours
+    * What is this behaviour?
+    * What does this mean?
+
+* Some of my list
     * Late
     * Missing Equipment
     * Distracting Other Students
     * Interrupting teacher
     * Attention Seeking (taking time from teacher unnecessarily)
-
-* What is this behaviour?
-* What does this mean?
+    * Vandalism
 
 ### Examples of good behaviour
 
@@ -152,7 +153,7 @@ TASK: What was on your pre-reading list of _good behaviours_?
 
 ### Explicitly teach _Behaviour_
 
-* Objective, "build collaboration skills by"
+* Explicit objectives, e.g. "build collaboration skills by"
     * Resourcefulness, Resilience, Perseverance
     * Ignoring distractions
     * Sharing equipment
@@ -161,6 +162,7 @@ TASK: What was on your pre-reading list of _good behaviours_?
 
 * > Teaching learning behaviours will reduce the need to manage misbehaviour
 * > Teachers should encourage pupils to be self-reflective of their own behaviours
+    * Meta cognition - thinking further than them
 * Education Endowment Foundation - [Improving Behaviour in Schools](https://educationendowmentfoundation.org.uk/tools/guidance-reports/improving-behaviour-in-schools/) (2019)
     * [Full Guidance Report](https://educationendowmentfoundation.org.uk/public/files/Publications/Behaviour/EEF_Improving_behaviour_in_schools_Report.pdf)
     * [Summary of Recommendations Poster](https://educationendowmentfoundation.org.uk/public/files/Publications/Behaviour/EEF_Improving_behaviour_in_schools_Summary.pdf)
@@ -208,10 +210,13 @@ If you just focus on the negative/sanctions, that is only half of the story.
 * Hollow praise should be avoided
     * Praise should be specific given with reasons
 
-### The Entrance
+
+Owning the physical space
+-------------------------
 
 The psychology of owning the physical space.
 
+* The Entrance
 * [Teacher Has Incredible Handshakes With Each Student](https://www.youtube.com/watch?v=VctaUNJpT6U)
 * [Yeah this pretty much how I feel about laborious, performative welcome rituals](https://twitter.com/tombennett71/status/1375255533180100608) Tom Bennet, Gerry Dee
     * > This would have been my worse nightmare as a child - I would have dreaded going to school if a teacher had gone through this ritual. My class get a smile, eye contact and good morning and some still find that difficult to return
@@ -222,14 +227,21 @@ The psychology of owning the physical space.
 * Line up
     * No one enters your space
 * Happy greet chat banter as they line up
-* Tidy uniform - respect for themselfs and the space they are about to enter
-* Calm (not shouting)
+* Tidy uniform - respect for themselves and the space they are about to enter
+    * "Ave some self respect"
+* Positive comments?
+    * "Looking sharp!"
+    * "Loving the smile!"
+    * "Oh crumbs - I hope it wont be that bad!?"
+    * (just a nod or thumbs up)
+* Calmed (not shouting)
+    * Some of them barrel down the corridors and are flustered when they arrive
 * Enter calmly and orderly
-    * Send some out if needed
+    * Send some out/back if needed
 * Routine to start starter task
     * Start On board? 
     * Starter on paper?
-    * Log-on + Load up IDE?
+    * Log-on + Load up IDE? routine?
 * Do not be afraid to repeat whole class procedures if the class don't settle
     * If the class get too unfocused and you can't get their focus back - take the whole class outside to line up again
 
@@ -242,7 +254,7 @@ In the event that the class are already in the classroom (+settled) when you arr
 ### Tips
 
 * Keyboards up, Screens off
-    * Humans are like moths to a light-bulb - they CANNOT not use them
+    * Humans are like moths to a light-bulb - they CANNOT not use computers
     * Get RAZOR good at detecting a single mouse/keyboard click and stop immediately
         * (as you get more experienced you have more cognitive capacity to do this)
 * Routine for transitions
@@ -253,15 +265,31 @@ In the event that the class are already in the classroom (+settled) when you arr
 * Room layout: See as many screens as possible
     * 2 walkways == 75% visual coverage (50% alternating)
     * U shape == 100% coverage (not space efficient)
-    * Rows == (bugger), clear screen off routines
-* Teacher remote control? (I'm not sure of it's value)
+    * Rows == (oh no!), clear screen off routines
+* Teacher "Desktop remote class control system" (I'm not sure of it's value)
+    * This takes agency and responsibility away from the student
+
+TASK: Draw a layout of your teaching space on A2/A1 paper?
+Label:
+    * best viewpoints for teachers (see majority of screens and door)
+    * Worst viewpoints for teachers
+    * Best case travel times
+    * Worst case travel times
+    * Students instinctively know the "Best" places to get away with bad behaviour. Where are they?
+
+* Doorway visibility trick
+    * have sanctioned student out of sight of class
+    * Still have classroom coverage (you may be discussing for some time)
+
 
 
 Sanctions (Negative enforcement)
 --------------------------------
 
-### Good sanctions are
+* [Makes me think of code reviews and gym class](https://twitter.com/aprilwensel/status/1449871041157754881/photo/1)
+    * > You cannot humiliate people into excellence
 
+### Good sanctions are
 * clear (unambiguous)
 * concrete (give examples)
 * sequential (do x, then y, n then z)
@@ -271,14 +299,15 @@ Sanctions (Negative enforcement)
 Practical application
 * Language of choice/ownership
     * By continuing to X you are _choosing to_ Y
-* Allow takeup time
-* Ignore secondary behaviours (but follow it up)
+* Allow take-up time
+* Ignore secondary behaviours (but follow them up!)
     * e.g. huffing and sighing, slamming a door, rolling of eyes, repeating/delaying with questions
 
 ### Identifying Behaviour Incentives
 
 * Always look for the _incentive_ for behaviour
     * What is the incentive to behave, what is the incentive not to behave?
+    * Are other adults or young people providing this culture/reward
 * They adhere to their social _role_/_status_
 
 > The benefits (like looking good among peers) outweigh the costs (looking bad to teachers/parents).
@@ -289,10 +318,10 @@ Practical application
     * > (1) the benefit that one stands to gain from the crime; 
       > (2) the probability of getting caught; and 
       > (3) the expected punishment if one is caught. 
-      > By comparing the first component (the gain) with the last two components (the costs) , the rational human being can determine whether a particular crime is worth it or not.
+      > By comparing the first component (the gain) with the last two components (the costs), the rational human being can determine whether a particular crime is worth it or not.
         * (Ariely, 2013, p.14)
 * Some behaviour is habitual
-    * No calculated choice. Just adolescent self centred autopilot.
+    * No calculated choice. Just adolescent self centred autopilot
     * It's not deliberate _evil_ it's just lack of social skills and socialisation
     * You can impact this!
 
@@ -311,7 +340,10 @@ Should be productive and have a purpose.
 
 * [Ms McInerney’s “Book of Consequences” Detention System](https://lauramcinerney.com/ms-mcinerneys-book-of-consequences-detention-system/)
     * > They WILL happen - mean what you say
-    * > the initial question on the sheet asked pupils to write why they were in detention. I reckon about 60% of kids said something different to the reason why I had put them on detention. Sometimes they even admitted things I hadn’t seen
+    * WRITE IT!
+    * > the initial question on the sheet asked pupils to write why they were in detention. 
+      > I reckon about 60% of kids said something different to the reason why I had put them on detention. 
+      > Sometimes they even admitted things I hadn’t seen
     * > students lied a lot less about what had happened because their words were being put down on paper. 
     * > I always make pupils sign their papers and agree to what their future solution will be. Being able to get out those papers if there is ever another detention is VERY helpful for parent’s evening
 
@@ -328,6 +360,7 @@ TASK: Question: Should a detention ever be fun? Why? Why Not?
 * I'm not academic (even if I try it's pointless)
 * This is a waste of my time (it's not relevant to me)
 * School is shit (there is nothing good here other than my friends)
+* There are places where you are told where to go and you can only piss at certain times, they are called prisons
 
 ### Resolutions - Discussions with students
 
@@ -376,9 +409,9 @@ Strategies
 
 * Bribes (sweets, or leave early)
     * They take away from the focus being learning
-* Anger, rage, loss of control
+* Anger, rage, loss of control (by you)
     * Will result in lack of respect
-    * This is not the same as stern discontent or frustration
+    * Note: This is not the same as stern discontent or frustration
 
 ### Emotional conveyance as a tool
 
@@ -387,10 +420,6 @@ I've tried to explain to groups of children. Sometimes they just don't understan
 I have to perform the pantomime of emotion to convey the message to the target audience.
 I'm not angry at them. I don't hate them. They are normal children. But I have to pretend to escalate my emotional state to communicate the intention effectively.
 
-### general
-
-* Doorway visibility trick
-    * (have sanctioned student out of sight)
 
 ### Computing Specific disruptions
 
