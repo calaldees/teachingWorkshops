@@ -26,12 +26,27 @@ Curriculum Overview for Session
     * reinforcing routines, including through positive reinforcement
 
 
+Timings
+-------
+
+* 11:00 to 11:15 - 15min - Pair weekley sheets
+* 11:15 to 12:00 - 45min - Part 1
+* 12:00 to 12:30 - 30min - Async Reading
+    * I will leave for observations
+* 12:30 to 13:30 - 1 hour Lunch
+* 13:30 to 15:30 - 2 hours - Part 2 (Observations)
+    * Other teacher trainers will be in/out observing
+* 15:30 to 16:00 - Reflections/Summary
 
 
-* SP5 Form??
+
+Announcements
+-------------
+
+* In SP5 - I asked for info on your chosen topic for your SP1 assignment
     * MSForm [Subject Pedagogy Research Proposal](https://forms.office.com/Pages/ResponsePage.aspx?id=2rIgA90iq02MIW5kS6FPE4bZosdBzY5AvRurHpjUivVUQ0JRMFNOREUwNlBTVkxLREQ5UDFQVDVaRC4u)
     * Nobody filled it in? What are your plans for SP1?
-* Reminder - Microteach SP7
+* Reminder - Microteach SP7 - Next session
     * 15min lesson to peers
 * Preparation for SP10 (Friday 3rd December)
     * > please ask them to register with the current/near future training school

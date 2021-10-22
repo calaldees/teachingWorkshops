@@ -52,6 +52,9 @@ Build an escape room idea
             * [Handling Errors: Retransmissions](https://microbit.nominetresearch.uk/networking-book-online/retransmissions/retransmissions/)
         * [mytechnotalent/Python-For-Kids](https://github.com/mytechnotalent/Python-For-Kids) A comprehensive Python Development tutorial FOR KIDS utilizing a micro:bit Development Board going step-by-step into the world of Python for Microcontrollers
     * [101computing.net micro:bit](https://www.101computing.net/category/bbc-microbit/)
+    * Projects
+        * [projects.raspberrypi.org microbit](https://projects.raspberrypi.org/en/projects?hardware[]=microbit)
+            * [Against the Clock](https://projects.raspberrypi.org/en/projects/against-the-clock)
 * [microbit2](https://tech.microbit.org/latest-revision/announcement/)
     * gesture reconition
     * voice recognition?

@@ -56,3 +56,6 @@
     * It is more important to _actually help people_ than it is to attempt to 
     * > The morally incompetent want purpose; they want to be on the front-lines of the helping. But for the morally incompetent, helping people is more important than the folks being helped.
     * > Moral competence and incompetence often looks the same to an outside observer. The world is really good at praising people who are doing good things well before those things are accomplished. 
+
+* [physicsfun](https://www.instagram.com/p/BztEOV0hYWt/) on instagram
+    * Amazing physical physics toys/demos

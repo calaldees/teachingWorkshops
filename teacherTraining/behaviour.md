@@ -1,9 +1,6 @@
 Behaviour
 =========
 
-
-
-
 * How can we aid B4L through our planning and teaching in Computing?
 * Barriers to learning and key research and practice in subject
     * Technical (reliable?, responsive?)
@@ -27,50 +24,82 @@ Behaviour
 Curriculum
 ----------
 
-* [EEF Improving behaviour School Report](https://educationendowmentfoundation.org.uk/public/files/Publications/Behaviour/EEF_Improving_behaviour_in_schools_Report.pdf)
-* Internation Academy of Education - Education Practice Series 8 - [Preventing behaviour problems: what works](https://www.iaoed.org/downloads/prac08e.pdf)
+Ongoing Task 1 of 2:
+* Spec BINGO!
+* I play this with my class's
+* As we progress through the session, map my babbling to spec points
+* Each correct association means BINGO! an you get a tasty imaginary gourmet cookie
+* CAUTION! - BE VERY CAREFUL WITH THIS TECHNIQUE. Use with the right group. It creates hierarchies. This is not my goto mode.
+
+### Teacher Standards
+7. Manage behaviour effectively to ensure a good and safe learning environment
+    1. have clear rules and routines for behaviour in classrooms, and take responsibility for promoting good and courteous behaviour both in classrooms and around the school, in accordance with the school’s behaviour policy
+    2. have high expectations of behaviour, and establish a framework for discipline with a range of strategies, using praise, sanctions and rewards consistently and fairly  
+    3. manage classes effectively, using approaches which are appropriate to pupils’ needs in order to involve and motivate them 
+    4. maintain good relationships with pupils, exercise appropriate authority, and act decisively when necessary.
 
 
+### ITT Core Content Framework
+* > 7.1. Establishing and reinforcing *routines*, including through positive reinforcement, can help create an effective learning environment.
+    * routines
+* > 7.2. A predictable and *secure environment* benefits all pupils, but is particularly valuable for pupils with special educational needs.
+    * secure environment
+* > 7.3. The ability to *self-regulate one’s emotions* affects pupils’ ability to learn, success in school and future lives.
+    * self-regulate emotions
+* > 7.4. Teachers can influence pupils’ resilience and beliefs about their ability to succeed, by ensuring all pupils have the opportunity to experience *meaningful success*.
+    * meaningful success
+* > 7.5. Building effective relationships is easier when pupils believe that their *feelings will be considered and understood*.
+    * understood/consider child's feelings 
+* > 7.6. Pupils are *motivated by intrinsic* factors (related to their identity and values) and extrinsic factors (related to reward).
+    * motivated by intrinsic
 
-ITT Core Content Framework - TODO?
-
-> 7.5. Building effective relationships is easier when pupils believe that their feelings will be considered and understood.
-
-> 7.6. Pupils are motivated by intrinsic factors (related to their identity and values) and extrinsic factors (related to reward).
-
-
-
-Pre-Reading
+This Session
 ------------
 
-* Reading (30min)
-    * [Getting the simple things right: Charlie Taylor's behaviour checklists](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/571640/Getting_the_simple_things_right_Charlie_Taylor_s_behaviour_checklists.pdf)
-        * Read the 1 page titled _Behaviour checklist for teachers _ (5min)
-    * [When do detentions work?](https://improvingteaching.co.uk/2020/03/01/when-do-detentions-work/) Read (10min)
-        * [Ms McInerney’s “Book of Consequences” Detention System](https://lauramcinerney.com/ms-mcinerneys-book-of-consequences-detention-system/) (10min)
-    * [Get in front of their behaviour](https://www.olicav.com/s/2-Get-In-Front-Of-Their-Behaviour.pdf) Poster - Tom Bennet - Oliver Caviglioli (5min)
-* Task (30min)
-    * Generate a list of hypothetical possible misbehaviours (You will add to this list throughout the session)
-        * Consider categorise your items in some way
-        * Consider behaviour that might be specific to a computer-room or online
-    * Generate a list of positive/expected behaviours you want to see in your lessons (You will add to this list throughout the session)
-    * Consider possible short term and long term solutions for both misbehaviours and positive behaviours (You will add to this list throughout the session)
+* Write it, Say it, or Do it ...
 
-UPCOMING TASK: In groups of 3. You will be given a session-task to list one of your misbehaviours and invite other members of the group to suggest courses of action. 
-This will be towards the end of the session. The session content will augment your possible responses.
+Ongoing Task 2 of 2:
+* Task (15min)
+    * Divide page/screen into 4 quadrants (below)
+    * You will add/modify to this list throughout the session
+    * Consider highlighting behaviour that might be specific to a computer-room or online
 
+| hypothetical misbehaviours | positive/expected behaviours |
+|----------------------------|------------------------------|
+| strategies for the above   | strategies for the above     |
+
+I don't know if this tool will work. I hope it gives you focus and manifests some useful notes this session.
 
 
 Session Overview
 ----------------
 
-* 1.5 Hour: Theory
+* Reading (30min)
+* Theory (1.5 hours)
     * Positive reinforcement
     * Sanctions
     * Strategies
         * Computing specific
-* 45min: My real case-study examples/stories
-* 45min: Discussion Consolidation
+* My real case-study examples/stories (30min)
+* Discussion Consolidation (30min)
+
+
+
+Reading segment (30min)
+-----------------------
+
+* Reading (30min)
+    * Education Endowment Foundation - [Summary of Recommendations Poster](https://educationendowmentfoundation.org.uk/public/files/Publications/Behaviour/EEF_Improving_behaviour_in_schools_Summary.pdf) (5min) 2019
+        * Source
+            * [Improving Behaviour in Schools](https://educationendowmentfoundation.org.uk/tools/guidance-reports/improving-behaviour-in-schools/) (2019)
+            * [Full Guidance Report](https://educationendowmentfoundation.org.uk/public/files/Publications/Behaviour/EEF_Improving_behaviour_in_schools_Report.pdf)
+    * [Get in front of their behaviour](https://www.olicav.com/s/2-Get-In-Front-Of-Their-Behaviour.pdf) Poster - Tom Bennet - Oliver Caviglioli (5min)
+        * Questions:
+            * Think about _you classroom culture_ - what is it? how do you cultivate it?
+    * [Getting the simple things right: Charlie Taylor's behaviour checklists](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/571640/Getting_the_simple_things_right_Charlie_Taylor_s_behaviour_checklists.pdf)
+        * Read the 1 page titled _Behaviour checklist for teachers _ (5min)
+    * If you complete these - read ahead to the 2 readings in _Detentions_ section this session
+
 
 
 Intro
@@ -84,9 +113,10 @@ Intro
 
 
 * Tip of the iceberg analogy - bits you don't see
-* Behaviour management is 90% pro-active and not re-active
+* Managing classroom behaviour is 90% pro-active and 10% re-active
     * Remove the opportunity's for misbehaviour
     * Remove the incentives for misbehaviour
+    * Promote meta-cognition and establish _behaviours for learning_
 
 * [DfE Behaviour and discipline in schools](https://www.gov.uk/government/publications/behaviour-and-discipline-in-schools) January 2016
     * Teachers have a power to impose detention outside school hours
@@ -112,27 +142,18 @@ Intro
 * Higher attainment
 * Better use of time
 
-### Bad behaviour
+### Bad behaviour (15min)
 
-Whiteboard - Class Activity
-
-TASK1: List Bad Behaviours
-
+TASK1: From pre-task list - Gather on shared whiteboard
 TASK2: Reflect on the identified bad behaviours
-    * What is this behaviour?
-    * What does this mean?
+* What is this behaviour?
+* Why does this behaviour occur?
 
-* Some of my list
-    * Late
-    * Missing Equipment
-    * Distracting Other Students
-    * Interrupting teacher
-    * Attention Seeking (taking time from teacher unnecessarily)
-    * Vandalism
+(Spoiler: see incentives later)
 
 ### Examples of good behaviour
 
-TASK: What was on your pre-reading list of _good behaviours_?
+TASK: Compare with your pre-task list of _good behaviours_?
 
 * Self (Engagement) [Emotional]
     * Confidence
@@ -151,6 +172,7 @@ TASK: What was on your pre-reading list of _good behaviours_?
     * Wait to speak
     * Does not annoy others, keeps on task
 
+
 ### Explicitly teach _Behaviour_
 
 * Explicit objectives, e.g. "build collaboration skills by"
@@ -160,12 +182,10 @@ TASK: What was on your pre-reading list of _good behaviours_?
     * Listen to others
     * Mindful of other time and emotional state (Empathy)
 
+EEF
 * > Teaching learning behaviours will reduce the need to manage misbehaviour
 * > Teachers should encourage pupils to be self-reflective of their own behaviours
     * Meta cognition - thinking further than them
-* Education Endowment Foundation - [Improving Behaviour in Schools](https://educationendowmentfoundation.org.uk/tools/guidance-reports/improving-behaviour-in-schools/) (2019)
-    * [Full Guidance Report](https://educationendowmentfoundation.org.uk/public/files/Publications/Behaviour/EEF_Improving_behaviour_in_schools_Report.pdf)
-    * [Summary of Recommendations Poster](https://educationendowmentfoundation.org.uk/public/files/Publications/Behaviour/EEF_Improving_behaviour_in_schools_Summary.pdf)
 
 People talk about _The Hidden Curriculum_. 
 What are you unconsciously teaching young people with your attitude and the culture you are creating?
@@ -174,9 +194,9 @@ What are you unconsciously teaching young people with your attitude and the cult
 Positive re-enforcement
 -----------------------
 
-Like the sides of a water-slide - you need both rewards and sanctions as tools.
+You need both rewards and sanctions as tools.
 
-What is the difference between
+Question: What is the difference between?
 * Positive correction
 * Positive reinforcement
 
@@ -189,6 +209,12 @@ Kind of an odd analogy, but an idea for a mindset. You create the rules, values,
 * Unconsciously, we try to fit in, to conform. We often try to behave normally (for that culture)
 * Normative messages
 * Routines
+
+### Performance and 'the bad day'
+
+* If you are a west-end stage performer - you need to perform each night - regardless of your personal life
+* Teaching is similar - the show must go on
+* Your students already have enough struggles without yours
 
 ### As a teacher - are you intrusive?
 
@@ -205,10 +231,10 @@ Kind of an odd analogy, but an idea for a mindset. You create the rules, values,
 If you just focus on the negative/sanctions, that is only half of the story.
 
 * Rewards should be consistent (just like sanctions should be consistent)
-    * If the disruptive child sits still for 10min. That is not an opportunity for praise, It is expected behaviour.
+    * If the disruptive child sits still for 10min. That is not an opportunity for unstructured praise, It is expected behaviour.
 * Leaders should identify % of sanctions vs rewards. Teachers should be consistent across the school.
 * Hollow praise should be avoided
-    * Praise should be specific given with reasons
+    * Praise should be *specific* and given *with reasons*
 
 
 Owning the physical space
@@ -269,13 +295,14 @@ In the event that the class are already in the classroom (+settled) when you arr
 * Teacher "Desktop remote class control system" (I'm not sure of it's value)
     * This takes agency and responsibility away from the student
 
-TASK: Draw a layout of your teaching space on A2/A1 paper?
+BATTLEPLAN!
+TASK: Pair up - Draw a layout of your teaching space on A2/A1 paper? - Discuss
 Label:
-    * best viewpoints for teachers (see majority of screens and door)
-    * Worst viewpoints for teachers
-    * Best case travel times
-    * Worst case travel times
-    * Students instinctively know the "Best" places to get away with bad behaviour. Where are they?
+* best viewpoints for teachers (see majority of screens and door)
+* Worst viewpoints for teachers
+* Best case travel times
+* Worst case travel times
+* Students instinctively know the "Best" places to get away with bad behaviour. Where are they?
 
 * Doorway visibility trick
     * have sanctioned student out of sight of class
@@ -336,7 +363,7 @@ Should be productive and have a purpose.
     * Prioritise immediacy over intensity
     * Ensure sanctions stick (they happen)
     * Make detentions productive
-    * Say why and what next
+    * Say _why_ and _what next_
 
 * [Ms McInerney’s “Book of Consequences” Detention System](https://lauramcinerney.com/ms-mcinerneys-book-of-consequences-detention-system/)
     * > They WILL happen - mean what you say
@@ -348,7 +375,7 @@ Should be productive and have a purpose.
     * > I always make pupils sign their papers and agree to what their future solution will be. Being able to get out those papers if there is ever another detention is VERY helpful for parent’s evening
 
 Concept?
-* Once they understand the reason they are there and have a resolution
+* Once they understand the reason and have a resolution - they are there ...
 * Make them fun - build rapport - show them something amazing about computing
     * The punishment is that you're directing their time.
 
@@ -366,7 +393,7 @@ TASK: Question: Should a detention ever be fun? Why? Why Not?
 
 * Resolution: Explain Why (meta behaviour)
     * The number 1 factor for success/happiness == socialisation. This is more important than ANY subject knowledge/skill
-* Separate Person from Behaviour
+* Separate 'The Person' from 'The Behaviour'
     * I want you in my classroom, but that behaviour should stay outside
 
 * Tone of conversation 
@@ -378,8 +405,7 @@ TASK: Question: Should a detention ever be fun? Why? Why Not?
     * Agree together. 
     * Young people can't really have this as a two way discussion as they lack the skillset analysis and experience. You can fill that in. make suggestions. Agree together.
 
-Bruce Perry 3R's - Adults help to regulate behavioural thinking in adolescents
-
+* Bruce Perry 3R's - Adults help to regulate behavioural thinking in adolescents
 * [How Inuit Parents Teach Kids To Control Their Anger](https://www.npr.org/sections/goatsandsoda/2019/03/13/685533353/a-playful-way-to-teach-kids-to-control-their-anger)
     * Role model (calm)
     * Stories with lots of questions (play)
@@ -395,9 +421,13 @@ Sometimes you just work with young people that are
 * come from troubled homes
 * Don't appear to learn change or grow
 
-This is not your fault. You should perform your role as normal. Use the school scansion system.
-There will be specialist SEN and Behavioural specialists in your school.
-See support/advice when needed.
+How to deal with these
+* This is not your fault
+* You can't change everyone you meet
+* You should perform your role as normal
+* Use the school scansion system
+* There will be specialist SEN and Behavioural specialists in your school
+* Seek support/advice when needed
 
 Story: My Year 11 Friday P5 group. What my line manager said.
 
@@ -415,10 +445,12 @@ Strategies
 
 ### Emotional conveyance as a tool
 
-Elaboration on emotion and anger - Sometimes children cannot identify with the severity if the wide _pallet of emotion_ is not used.
-I've tried to explain to groups of children. Sometimes they just don't understand. My words alone lack impact.
-I have to perform the pantomime of emotion to convey the message to the target audience.
-I'm not angry at them. I don't hate them. They are normal children. But I have to pretend to escalate my emotional state to communicate the intention effectively.
+Elaboration on teacher use of emotion and anger/discontent
+* Sometimes children cannot identify with the severity of a situation with just words
+* Sometimes a wide _pallet of emotion_ must be used
+* I've tried to explain to groups of children. Sometimes they just don't understand. My words alone lack impact
+* I have to perform the pantomime of emotion to convey the message to the target audience
+* I'm not angry at them. I don't hate them. They are normal children. But I have to pretend to escalate my emotional state to communicate the intention effectively.
 
 
 ### Computing Specific disruptions
@@ -446,8 +478,9 @@ TASK: ready your list of computing-specific behaviours
 * [Accessibility Shortcuts](https://www.rit.edu/ntid/deafplus/windows-accessibility-shortcuts) and [StickyKeys](https://www.businessinsider.com/how-to-turn-off-sticky-keys-windows-10) - Know how to identify them
     * This can disrupt lesson by a confused student
         * Beeps on every keypress
-        * Invert screen
+        * Invert screen colours
         * Change language
+        * Rotate screen
 
 
 Computer Misuse
@@ -485,7 +518,7 @@ My stories from teaching
 * Image manipulation lesson - monster - detention - revoked
 * My teacher deleted my work - He hates me
 * Hypothetical - Teeth are flying - advice? walk away
-* Football slap from the year 11's
+* Football slap from the year 11's - law of the jungle
 * 6th form justice? This one giving you trouble sir?
 * Rescue of the hedgehog
 
@@ -495,7 +528,7 @@ Task
 
 TASK:
 Using content/ideas from this session.
-In groups of 3. 
+In groups of 3.
 * List one of your misbehaviours
 * Invite other members of the group to suggest courses of action
 * Discuss
@@ -513,10 +546,6 @@ Closing Thoughts
 ----------------
 
 Summary
-* [Get in front of their behaviour](https://www.olicav.com/s/2-Get-In-Front-Of-Their-Behaviour.pdf) Tom Bennet - Oliver Caviglioli Poster
-
-Next week (PGCE only) Microteaching presentations
-
 
 
 
@@ -525,11 +554,15 @@ Unsorted
 ========
 
 
+* Internation Academy of Education - Education Practice Series 8 - [Preventing behaviour problems: what works](https://www.iaoed.org/downloads/prac08e.pdf)
+
+
+
 Tools
 nmap - my virtual machines or network diagnostic (network admins)
 wireshark - dmx
 
-[DPA 2018](http://www.legislation.gov.uk/ukpga/2018/12/pdfs/ukpga_20180012_en.pdf)
+[Data Protection Act 2018](http://www.legislation.gov.uk/ukpga/2018/12/pdfs/ukpga_20180012_en.pdf)
 
 
 
@@ -586,9 +619,6 @@ Support
 High behaviour needs
 
 
-TODO
-====
-
 
 
 Anxiety
@@ -596,15 +626,21 @@ Anxiety
 
 * [How can teachers increase students' confidence and reduce anxiety in problem-solving in the computing classroom?](https://blog.teachcomputing.org/how-can-teachers-increase-students-confidence-and-reduce-anxiety-in-problem-solving-in-the-computing-classroom/)
     * Interactivity to help ease performance anxiety
-        * Live coding - reading question slowly - reasoning - tackel "asking for help" before attempting the question.
-        * Ease cognative load - parsons problems
+        * Live coding - reading question slowly - reasoning - tackle "asking for help" before attempting the question.
+        * Ease cognitive load - parsons problems
 
 
 
 
-* [Behaviour for Learning: Promoting Positive Relationships in the Classroom ](https://www.amazon.co.uk/Behaviour-Learning-Simon-Ellis-dp-1138293075/dp/1138293075/)
+* [Behaviour for Learning: Promoting Positive Relationships in the Classroom](https://www.amazon.co.uk/Behaviour-Learning-Simon-Ellis-dp-1138293075/dp/1138293075/)
     * [vlebooks](https://www.vlebooks.com/Vleweb/Product/Index/2013366) complete book for CCCU students
 * [A systematic review of how theories explain learning behaviour in school contexts](http://eppi.ioe.ac.uk/cms/Portals/0/PDF%20reviews%20and%20summaries/BM(CCC)_2004review.pdf?ver=2006-03-02-125203-580) Powell, Tod 2004
+    * A curriculum that focuses on 'performance'19 learning is less motivating than a pedagogy and curriculum that seeks to secure 'mastery'20 learning. 
+    * Motivation is improved if positive outcomes are made meaningful, feasible and accessible to pupils.
+    * Competitive classroom contexts, that have a performance-approach to teaching and learning, are linked to disruptive behaviours.
+    * introducing more on-task verbal interaction between pupils; pupils benefit from being grouped with 'knowledgeable others' to enhance their learning experience and augment cognitive development.
+    * Problems around self-efficacy and behaviour have little to do with subject- specific factors and more to do with how the learner identifies with the immediate factors and immediate judgements/anxieties in the classroom context.
+    * Findings from the review support the view that researchers perceive that there may be generic components of learning behaviours, although some components may be subject-specific. These subject-specific components may explain pupils' differing attainment and behaviours in different lessons. It is reasonable to conclude that the promotion of effective learning behaviour can be considered to be intrinsic to effective teaching and learning, and should be addressed by teachers/tutors and mentors through their subject teaching.
 * [Behaviour for Learning: Proactive approaches to behaviour management](https://www.tandfonline.com/doi/abs/10.1080/19415250903457687?src=recsys&journalCode=rjie20) Book review 2011
 
 > A fence at the top of a cliff is better than an ambulance at the bottom
@@ -630,3 +666,14 @@ Elis and Tod's 2015 Behaviour for leaning framework - trio of factors
 * [EveryonesInvited.uk](https://www.everyonesinvited.uk/read-testimonies-page-1)
     * List of all schools in the country
     * This is a wider societal issue
+
+Notes/Answers/Mine
+==================
+
+* Some of my list
+    * Late
+    * Missing Equipment
+    * Distracting Other Students
+    * Interrupting teacher
+    * Attention Seeking (taking time from teacher unnecessarily)
+    * Vandalism

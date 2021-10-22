@@ -145,6 +145,8 @@ Actively seek out coaching relationships with other teachers
             * one could claim superficiality, although I’d contend regular visits allow observers to familiarize themselves with teachers and classes; they add no planning or reporting burden.
     * We are trying to break the _ok plateau_.
         * *Change something* even if you think it will have little impact, it's not forever. explore, experiment, change, grow.
+* [One-off lesson observations are a waste of everyone's time...](https://twitter.com/TeacherToolkit/status/1451147666910482433)
+    * Grading teachers with one-off observations is flawed
 
 ### Extra notes about colleague collaboration (some of my thoughts)
 
