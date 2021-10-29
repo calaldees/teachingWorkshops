@@ -112,3 +112,8 @@
 
 * [Woman rocked awake by meteorite chunk crashing into her bedroom](https://www.cbc.ca/news/canada/british-columbia/meteorite-crashes-into-womans-bedroom-golden-bc-1.6207904)
     * meteorite gently landed on her pillow ... you've won the lottery!
+
+* [The New Epidemic – My Experience of Losing a Friend to Heroin](https://mattlakeman.org/2020/01/22/the-new-epidemic-my-experience-of-losing-a-friend-to-heroin/) 2020
+    * Insightful observation of the reasons and the impact from drug addiction
+    * Empathic reasoning about people that struggle
+    * After trying everything they could, the family (devastated) but need to move on with their own lives and have a sense of relief

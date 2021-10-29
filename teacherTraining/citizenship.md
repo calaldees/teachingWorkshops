@@ -60,6 +60,9 @@ Read the following report about Digital Citizenship (30min)
     * Digital wisdom 
         * is the ability of individuals and/or societies to make informed decisions in relation to the appropriate use and exploitation of information technology in all its forms
 
+
+* [Digital Citizenship Recommendations](http://zumpanotechlab.blogspot.com/2021/10/digital-citizenship-recommendations.html) 2021
+
 ### Group (30min)
 
 Return to your group breakout rooms and discuss 
