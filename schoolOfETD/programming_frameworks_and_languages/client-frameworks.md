@@ -288,7 +288,7 @@ Facebook
 * Setup
     * `.env`
         * ```
-        FAST_REFRESH=false
+            FAST_REFRESH=false
             ```
     * `src/index.tsx` -> `src/index.backup.tsx`
     * `src/index.tsx`
