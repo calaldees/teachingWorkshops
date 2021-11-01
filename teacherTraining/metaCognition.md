@@ -131,3 +131,35 @@ Discuss with then - How are we going to learn something effectivly? concreat pre
 Ask them "why did you get it wrong"? 
 "how could this be corrected"
 "how could you avoid this mistake in future topics"?
+
+
+
+* [Programmer’s emotions](https://blog.sidebits.tech/programmers-emotions/)
+    * From the outside, programmers seem to resemble the machines they program – cold, emotionless, unmoved.  But the reality is different – most moments in programming are full of emotions.
+    * What are these emotions?
+        * Confusion. Much of the time, I am confused by code. Something is working differently than I expect it to, or I can’t get my head around a line of code.
+        * Anxiety. When the context of the project is stressful, deadlines are near, and I deal with a complicated piece of code, I tend to feel anxious.
+        * Shame.  When I discover that something I wrote some time ago is faulty, I feel ashamed. Or when somebody finds an obvious mistake in my pull request.
+        * Irritation.  When I am confused for too long, or somebody nit-picks my pull request. Or when something takes much longer than I expected – which happens often.
+        * Hesitation.  Sometimes I feel like in a dead-lock, unable to decide between different choices with complicated or non-obvious trade-offs.
+        * Inadequacy. When I need to step outside of my comfort zone, I am often baffled by how small that zone is. On a logical level, I know that I can’t know everything and nobody expects me to, but it still makes me feel bad.
+        * Silliness.  Sometimes I find out that a solution to a problem is hiding in plain sight, and I feel silly.  It is often accompanied by relief.
+        * Satisfaction. Every time something works the way I expected it to, a jolt of satisfaction kicks in.
+        * Excitement.  When I discover a new way to do something.
+        * Hope.  For a short moment in the middle of my feedback loop, when I just coded something and I’m waiting for the screen to refresh or for tests to pass.
+        * Pride.  When I made something neat or something worked on the first attempt.
+        * Relief.  When I solved a problem I had been struggling with for a long time.
+    * Is experiencing emotions much different for different programmers? I don’t know; I have direct access only to my own emotions.
+    * Are emotions bad? No. They are necessary to get going.
+    * Some of them are harmful, and some of them are more useful than others.
+        * Anxiety, inadequacy, and shame are just not helpful in programming.  It is good to reduce them if we can.
+        * Confusion, irritation, and hesitation are rather negative emotions per se, but they can be useful or even necessary.
+        * If you are missing something in your mental image, you should feel confused. That’s how you know you need to explore.
+        * Irritation, in small amounts, can lead to positive action. But it only works if you are irritated by something within your control.
+        * Hesitation can be harmful when you spend disproportional time making decisions, but some hesitation is useful to signal that you need to proceed carefully.
+    * Positive emotions are obviously helpful.  They make the act of programming palatable for humans.
+        * But they can also lead to non-optimal behaviors occasionally.
+        * Programmers are often choosing things that are exciting rather than important. Chasing the newest frameworks and programming languages is a huge timesink.
+        * Pride can cause us to ignore the shortcomings of an overall neat solution.
+        * Relief may fool us to stop being careful.  And it never pays to be careless when programming.
+    * What other emotions do you experience when programming? Do you experience emotions differently than I do?  Let me know.

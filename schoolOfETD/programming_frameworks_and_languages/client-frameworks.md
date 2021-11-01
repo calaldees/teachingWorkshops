@@ -11,7 +11,13 @@ Objectives
     * react
 
 
-Demo Client Example
+Server Frameworks (15min)
+-----------------
+
+* Tell me about Sever side frameworks
+
+
+Demo Client Example (15min)
 -------------------
 
 Simplified requirements
@@ -20,7 +26,7 @@ And cypress tests
 
 
 
-Types of Web Applications
+Types of Web Applications (10min)
 -------------------------
 
 (A simplified and not entirely accurate overview)
@@ -41,7 +47,7 @@ Types of Web Applications
     * Generate entire (static) site (efficiently) on data change
 
 
-Document Object Model (DOM)
+Document Object Model (DOM) (15min)
 ---------------------------
 
 ```javascript
@@ -80,7 +86,22 @@ Further Reading
 * MDN [Document.querySelector()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
 
 
-Client/Browser communication with ServerAPI
+Client Frameworks (5min)
+-----------------
+
+Why?
+
+> every time we change our application’s state, we need to update the UI to match.
+
+* Separate out:
+    * State
+    * Template/Visuals/Look
+    * Logic/Actions
+* Considering
+    * Async/multithreading (things happen at different times and take indeterminate time)
+
+
+Client/Browser communication with ServerAPI (15min)
 -------------------------------------------
 
 Interacting with our API from client browser javascript
@@ -95,8 +116,8 @@ Interacting with our API from client browser javascript
 //   - get the item list (explore in devtools)
 //   - delete the middle item
 
-const urlAPI = 'http://localhost:8000'
-const testItem = {
+urlAPI = 'http://localhost:8000'
+testItem = {
     user_id: "bob",
     lat: 1,
     lon: 1,
@@ -139,8 +160,10 @@ function deleteItem(item_id) {
 }
 ```
 
-### Helpers for Assignment 2: Client
+Helpers for Assignment 2: Client (notes)
+--------------------------------
 
+### Helper HTML
 ```html
 <h2>Create</h2>
 <form>
@@ -170,7 +193,49 @@ function deleteItem(item_id) {
 </ul>
 ```
 
-HyperApp Tutorial
+### Helper QueryString
+```javascript
+    // http://HOST:PORT/ADDRESS/OF/PAGE.HTML?query_param1=a&query_param2=b&api=http://localhost:8000
+    // Get api url (default to `CURRENT_HOST/api/v1`) (and remove trailing slash if present)
+    const urlParams = new URLSearchParams(window.location.search);
+    const urlAPI = (urlParams.get('api') || '/api/v1').replace(/\/$/, '');
+```
+
+
+HTML Boilerplate (5min)
+----------------
+
+Anatomy of basic html page (for upcoming tutorials)
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link id="favicon" rel="shortcut icon" type="image/png" href="data:image/png;base64,....==" />
+    <title>Boilerplate</title>
+    <style>
+
+    /* styles here */
+
+    </style>
+    <script src=""></script>
+</head>
+<body>
+    <h1>HTML Boilerplate</h1>
+
+    <!-- html here -->
+
+<script type="module">
+
+    // javascript here
+
+</script>
+</body>
+</html>
+```
+
+HyperApp Tutorial (45min)
 -----------------
 
 * [Hyperapp](https://github.com/jorgebucaran/hyperapp)
@@ -182,14 +247,15 @@ HyperApp Tutorial
 
 ### Concepts
 * html elements are generated with the `h()` function
+    * Templates/view built with functions
 * State, View and Actions are separate
 * Altering the state requires an Action function
 
 
-Vue.js
+Vue.js (45min)
 ------
 
-* [v3.vuejs.org/](https://v3.vuejs.org/)
+* [v3.vuejs.org](https://v3.vuejs.org/)
     * See _Why Vue.JS_ video (3min)
     * 20k
 * v2 [vuejs.org](https://vuejs.org/)
@@ -199,15 +265,21 @@ Vue.js
     * "Hello World" as [single HTML file](https://github.com/calaldees/frameworks_and_languages_module/tree/main/examples/client/vue_test)
         * Can be a local html file or can be served from GitPod (see `Makefile`)
 
+### Concepts
+* State, View and Actions are separate
+* Template/View (can be) made in html and mounted/attached to code (`v-if`, `v-for`)
+    * Vue components (advanced concept) can be separate/modular
+
 ### Further Reading
 * [VueMastery - Intro to Vue 3](https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3/) 
     * 20min video (1 hour to do?) video course for complete shopping basket with repo example
 
 
-React
+React (1 hour)
 -----
 
-1mb
+Facebook
+200kb
 
 * [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
     * Build O's and X's
@@ -231,10 +303,26 @@ React
 
 ### Concepts
 * Compiler transforms _inline html_ into javascript code to dynamically create elements
+    * `jsx` files
 * State separate from components
 * Lifting state up
+    * Components do not communicate with each other (except though shared functions/actions)
 * Immutability
 * Function components (shorthand)
 
 ### Further Reading
 * [5 Steps to THINK in React](https://www.codestackr.com/blog/5-steps-to-think-in-react/)
+
+
+Further Reading
+----------------
+
+* [Introduction to client-side frameworks](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Introduction)
+* [Sizes of JS frameworks, just minified + minified and gzipped, (React, Angular 2, Vue, Ember)](https://gist.github.com/Restuta/cda69e50a853aa64912d)
+* Other Frameworks
+    * [Ember.js](https://emberjs.com/)
+    * [Angular.io](https://angular.io/) Google
+    * [ractive.js](https://www.ractivejs.org)
+* Other Frameworks in other langauges
+    * [fritz2](https://www.fritz2.dev/) Kotlin
+    * [WebApps with PureScript & RactiveJS](https://blog.brakmic.com/webapps-with-purescript-and-ractivejs/)
