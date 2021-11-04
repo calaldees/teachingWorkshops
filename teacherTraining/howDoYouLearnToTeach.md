@@ -144,6 +144,10 @@ Criticality and learning to think
 David Daiau 
 
 
+* [All of science gets a general index (permalink)](https://pluralistic.net/2021/10/28/clintons-ghost/#cornucopia-concordance)
+    * > It's hard to overstate what a scam academic and scientific publishing is.
+
+
 Pedagogy and Practice
 ---------------------
 
@@ -250,7 +254,8 @@ Unsorted
     * Subtype should be specifed to deepen understanding and to avoid vague classifications (Christerson, Reshly, ylie, 2012)
     * Finn and Zimmer (2012) behavioural components as academic and social
 
-
+* [An Error Feedback Method to Enhance Teaching Ability of Young Teachers for Classroom Teaching Process](https://ieeexplore.ieee.org/document/9150284/references#references)
+    * Pretty weird - talks about feedback and testing? Unsure of what this journal was actually getting at?
 
 
 TODO

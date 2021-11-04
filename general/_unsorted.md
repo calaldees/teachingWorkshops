@@ -117,3 +117,7 @@
     * Insightful observation of the reasons and the impact from drug addiction
     * Empathic reasoning about people that struggle
     * After trying everything they could, the family (devastated) but need to move on with their own lives and have a sense of relief
+
+* [The Problem with Solar Energy in Africa](https://www.youtube.com/watch?v=7OpM_zKGE4o) 20min video
+    * Describes decay in transmission and size of infrastructure
+    * ENds with the software problem if distribution

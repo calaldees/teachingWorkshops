@@ -648,3 +648,11 @@ The repository provides:
 | 2 | Client implementation          | 21 |
 | 2 | Client documentation           |  4 |
 | 2 | Visual usability               | 10 |
+
+
+---
+
+### Banned Words/Phrases
+* Easy to use
+* User Friendly
+

@@ -10,3 +10,16 @@ Creativity
 * Computational Thinking and Creativity
     * [Studying interrelations of computational thinking and creativity: A scoping review (2011–2020)](https://www.sciencedirect.com/science/article/pii/S036013152100230X) 2021 Rotem Israel-Fishelson ArnonHershkovitz
         * TODO! Massive! Loads of references. Compares measures of creativity. This looks like gold!
+
+
+---
+
+
+Autonmy over - academic railroad
+Creativity
+
+non competion hiearachy wars
+how do you make it less hierachical 
+
+lunchtime? what are the other profetionals doing?
+

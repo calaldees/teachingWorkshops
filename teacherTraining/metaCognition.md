@@ -163,3 +163,11 @@ Ask them "why did you get it wrong"?
         * Pride can cause us to ignore the shortcomings of an overall neat solution.
         * Relief may fool us to stop being careful.  And it never pays to be careless when programming.
     * What other emotions do you experience when programming? Do you experience emotions differently than I do?  Let me know.
+
+
+Meta-Cognition
+--------------
+
+* EEF [Metacognition and Self-regulated Learning](https://educationendowmentfoundation.org.uk/tools/guidance-reports/metacognition-and-self-regulated-learning/)
+    * [METACOGNITION AND SELF-REGULATED LEARNING - Summary of recommendations](https://educationendowmentfoundation.org.uk/public/files/Publications/Metacognition/Summary_of_recommendations_poster.pdf)
+        * [more of my notes](./metaCognition.md)

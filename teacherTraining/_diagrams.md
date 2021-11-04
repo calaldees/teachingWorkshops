@@ -212,3 +212,9 @@ graph LR
     start --> init --> input --> increment --> check -- No --> output --> stop
     check -- Yes --> input
 ```
+
+Other Diagram Types
+===================
+
+* [Nassi–Shneiderman diagram](https://en.wikipedia.org/wiki/Nassi%E2%80%93Shneiderman_diagram)
+    * 

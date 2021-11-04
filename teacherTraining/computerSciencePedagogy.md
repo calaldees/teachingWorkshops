@@ -1,4 +1,4 @@
-Computer Science Specific Pedagogy (2 Hours)
+Computer Science Specific Pedagogy
 ==================================
 
 If students can program, then they express higher levels of theory by building the solutions. 
@@ -13,33 +13,21 @@ ITT CCF 4.3
 ITT CCF 4.4
 > Guides, scaffolds and worked examples can help pupils apply new ideas, but should be gradually removed as pupil expertise increases
 
-* [sec-ed.co.uk: Teaching computing: What the research says](https://www.sec-ed.co.uk/best-practice/teaching-computing-what-the-research-says/)  Terry Freedman 2019 
-
+* [sec-ed.co.uk: Teaching computing: What the research says](https://www.sec-ed.co.uk/best-practice/teaching-computing-what-the-research-says/)  Terry Freedman 2019
+    * > Many teachers have devised great ways of teaching computing, but is there any academic research that we can draw on for guidance?
+    * > Unfortunately, the initial answer to the question asked above – at least according to the Royal Society’s report [After the reboot](https://royalsociety.org/topics-policy/projects/computing-education/) (2017) – is “not much”.
+    * Strategy classification
+        * Contextualised learning
+        * Computational thinking skills development
+        * Code manipulation
+        * Working collaboratively
+        * Learning away from the computer
 * [NCCE: How we teach computing](https://blog.teachcomputing.org/how-we-teach-computing/) Dec 2020
     * overview of all the pedagogy quick reads
     * [pdf poster: 12 principles](https://raspberrypi-education.s3-eu-west-1.amazonaws.com/Pedagogy+Assets/NCCE_pedagogy_principles.pdf)
 * NCCE: National Center For Computing Education (AKA teachcomputing.org)
     * [Quick Reads](https://blog.teachcomputing.org/tag/quickread/)
 * [NCCE: Youtube Channel](https://www.youtube.com/channel/UCn2eOZc9k0xwnXzVAwI5abw)
-
-Part 1: 40 min
-5min break
-Part 2: 1 hour 15 min
-Total 2 hours
-
-Part 1
-------
-
-Two groups research and present
-
-TASK: 
-* Split the group into two breakout groups
-* Read (30 min)
-    * Assign one to read PRIMM
-    * Assign another to read Meta-cognition
-* Present (30 min?)
-    * Ask each group to screen share and verbalise/recall their summary (10 min per group)
-        * One member could screen share - the others chip in points/thoughts - it would be good if all members could have a insight or contribution
 
 
 PRIMM (Sue Sentence 2019)
@@ -82,7 +70,6 @@ TASK: Read PRIMM quick read.
     * Investigate - unpick _why_
         * What does that block do
         * What would happen if reverse two lines
-        * 
     * Modify
         * Add an extra feature
         * gradual transfer of ownership <-- CRITICAL!
@@ -105,6 +92,10 @@ TASK: Read PRIMM quick read.
 
 * [KPRIDE](https://create.withcode.uk/kpride/) Pete dring
     * Keywords, Predict, Run, Investigate, Debug and Extend
+
+Craig and Dave - TIME
+---------------------
+
 * [Programming with T.I.M.E.](https://craigndave.org/programming-with-time/) Craig’n’Dave
     * Try, Investigate, Make and Evaluate
         * Try
@@ -135,28 +126,6 @@ TASK: Read PRIMM quick read.
         * Learn how to use serial files.
         * Learn how to master the basics. 
 
-* [Reducing the load: ways to support novice programmers](https://www.raspberrypi.org/blog/research-seminar-cognitive-load-subgoal-labels/) Sue Sentence
-* [How we are helping you with computing teaching strategies](https://www.raspberrypi.org/blog/how-we-are-helping-you-with-computing-teaching-methods/)
-
-* blog.teachcomputing.org [What’s working well in remote computing education?](https://blog.teachcomputing.org/whats-working-well-in-remote-computing-education/)
-    * Summary of resources (many already linked in this markdown document)
-
-* [Summary of Semantic Transfer in Programming Languages: Exploratory Study of Relative Novices](https://blog.teachcomputing.org/summary-of-semantic-transfer-in-programming-languages-exploratory-study-of-relative-novices/) dec 2020
-    * when a second language is encountered
-        * A carryover concept (similar meaning in both the old and new context)
-        * A changed concept (different meaning in the new context)
-        * A novel concept (completely new to the learner)
-
-* [CDIO](https://en.wikipedia.org/wiki/CDIO_Initiative)
-    * Conceive Design Implement Operate. The CDIO Initiative is an educational framework that stresses engineering fundamentals set in the context of conceiving, designing, implementing and operating real-world systems and products.
-
-Meta-Cognition
---------------
-
-* EEF [Metacognition and Self-regulated Learning](https://educationendowmentfoundation.org.uk/tools/guidance-reports/metacognition-and-self-regulated-learning/)
-    * [METACOGNITION AND SELF-REGULATED LEARNING - Summary of recommendations](https://educationendowmentfoundation.org.uk/public/files/Publications/Metacognition/Summary_of_recommendations_poster.pdf)
-        * [more of my notes](./metaCognition.md)
-
 Fuller Verb Model
 -----------------
 
@@ -169,6 +138,7 @@ Reminders of existing taxonomy pyramids
 
 * [Bloom's Taxonomy: Why, How, & Top Examples](https://www.youtube.com/watch?v=OOy3m02uEaE&feature=emb_logo) (Revised Krathwohl 2001)
 * [Here’s What’s Wrong With Bloom’s Taxonomy: A Deeper Learning Perspective](https://www.edweek.org/education/opinion-heres-whats-wrong-with-blooms-taxonomy-a-deeper-learning-perspective/2018/03)
+    * > (Bloom’s Taxonomy) present a false vision of learning. Learning is not a hierarchy or a linear process. This graphic gives the mistaken impression that these cognitive processes are discrete
 
 ![Blooms Taxonomy: Verbs](https://www.teachthought.com/wp-content/uploads/2017/09/PostCopyDigitalBloomsVerbs-2-1.png?ezimgfmt=ng:webp/ngcb6)
 
@@ -295,6 +265,15 @@ Read the various _Verbs_ and their extended descriptions that relate to teaching
 * Reveal Fullers grid (5 min)
     * Talk about progression pathways
 
+<details>
+<summary>Answer</summary>
+|        | Remember  | Understand      | Analyse          | Evaluation |
+|--------|-----------|-----------------|------------------|------------|
+| Create |           | Design, Apply   | Model            | Refactor   |
+| Apply  | Implement | Adapt, Translate | Debug           |            |
+| Know   | Recognise | Trace           | Present, Analyse | Relate     |
+</details>
+
 ### Task 4 (30 min)
 
 * Equally distribute verbs to each member (Probably 1 each)
@@ -303,40 +282,8 @@ Read the various _Verbs_ and their extended descriptions that relate to teaching
 * Discuss the task created (15 min)
 
 
-Research
---------
-
-* [Cambridge Computing Education Research Symposium](https://www.raspberrypi.org/cambridge-computing-education-research-symposium/)
-* [computing-education-research-online-seminars](https://www.raspberrypi.org/computing-education-research-online-seminars/)
-    * Join us at our free online research seminars
-
-Journals
---------
-
-* [Journal of Computer Science Integration](https://inspire.redlands.edu/jcsi/)
-    * [Engaging Equity Pedagogies in Computer Science Learning Environments](https://inspire.redlands.edu/jcsi/vol3/iss2/1/)
-* [Journal of Information Technology Education: Research (JITE:Research)](https://www.informingscience.org/Journals/JITEResearch/Overview)
-
-Unsorted
-========
-
-* SSDD -> Same surface, Different depth
-    * Have the same question/example but have questions with different levels of depth
-    * [[questioning]]
-    * [[inclusion]]
-* Convert from block, text, flowchart, pseudo code and vice-versa
-* Scratch -> python
-    * Scratch is very visual
-* Psudocode
-    * AQA
-        * https://filestore.aqa.org.uk/resources/computing/AQA-8520-TG-PC.PDF
-        * https://filestore.aqa.org.uk/resources/computing/AQA-8525-TG-PC.PDF
-    * OCR
-        * https://www.ocr.org.uk/images/202654-pseudocode-guide.pdf
-* Ease Charts
-    * https://hackmd.io/c/codimd-documentation/%2F%40codimd%2Fextra-supported-syntax#Flow-Chart
-        * https://flowchart.js.org/
-        * https://mermaid-js.github.io/mermaid-live-editor/
+Instructional Continuum - Range of structured tasks
+-----------------------
 
 * [The Computer Science Student-Centred Instructional Continuum - CS-SCIC](https://blog.teachcomputing.org/the-computer-science-student-centred-instructional-continuum/) NCCE citing (Waite & Liebe, 2021)
     1. Copy code: students are given step-by-step instructions to follow, e.g. copy an example program;
@@ -347,27 +294,18 @@ Unsorted
     6. Tinkering: completely unstructured student-led exploration, e.g. explore a software”
 
 
-Autonmy over - academic railroad
-Creativity
+
+Societal
+--------
 
 > Tackling equity requires an understanding of the root cause of outcome disparity within our society
 
-Parents cant help - but they need to know where to get help
-what if noone at home knows how to use a computer
-build bridges with familiys - ask them how would they like to be engaged?
-
-
-You cant help the student without helping the family - we need to engage with the failiy as a whole
-
-What are the students and their communities doing at home?
-Students as change agents - they can change their compunites
-
-https://dotanddashdesign.com/
-
-non competion hiearachy wars
-how do you make it less hierachical 
-
-lunchtime? what are the other profetionals doing?
+* Parents cant help - but they need to know where to get help
+* what if no one at home knows how to use a computer
+* build bridges with families - ask them how would they like to be engaged?
+* You cant help the student without helping the family - we need to engage with the family as a whole
+* What are the students and their communities doing at home?
+* Students as change agents - they can change their communities
 
 
 Concept Maps
@@ -387,20 +325,202 @@ Parson Problems
     * [parsons.problemsolving.io](http://parsons.problemsolving.io/)
 
 
+Building Code Comprehension
+---------------------------
+
+* [Code Reading Club](https://www.felienne.com/archives/6472)
+    * Reading code is harder than writing code
+    * We are VERY bad at teaching learners to read code
+    * a strong focus on creating code, very often ‘green-field’ code, starting from a specification or a set of tests. 
+        * This leads to the fact that programmers in generally are really poorly equipped to read code, even their own code, but especially code written by others.
+    * novices read code more linearly than expert programmers.
+        * Learning to follow the call stack it a thing that comes with experience
+    * Deliberate Reading
+        * Reading Questions:
+            * What is the first thing that jumps out at me? Why?
+            * What’s the next thing I notice? Are these two things connected? How?
+            * Do they seem to be saying different things?
+        * These sentences encourage and train ‘scanning’ behaviour, which we know is a thing programmers do. 
+        * The beautiful thing about this technique is that is gives me a thing “to do” when reading code. Rather than mindlessly scrolling thought the code,
+    * Relational-Text
+        * Link each occurrence of a variable with it's declaration
+        * Identify the scope of a variable
+        * Identify where a particular function is called
+        * Verify if all expressions correctly typed
+        * Clarify if every potential flow path of a function body ends with a return statement
+
+* [ziglings](https://github.com/ratfactor/ziglings)
+    * Interesting concept
+    * This project contains a series of tiny broken programs. By fixing them, you'll learn how to read and write Zig code!
+    * [/exercises](https://github.com/ratfactor/ziglings/tree/main/exercises)
+        * Each program is broken and the task is described with comments
+
+* [Active Learning by Visual Programming: Pedagogical Perspectives of Instructivist and Constructivist Code Teachers and Their Implications on Actual Teaching Strategies and Students’ Programming Artifacts ](https://journals.sagepub.com/doi/full/10.1177/07356331211017793)
+    *  Visual/Block programming allows for my constructivist/self-exploration because the learners are protected from MANY incorrect programs
+    * Four Models of “Theory of Mind” in Learning and Teaching (Olson & Bruner, 1996)
+        * Folk Psychology
+            * Instructivist
+                * Learning is the ability to internalise a desired, demonstrated behaviour or skill
+                * Learning is the transmissions of knowledge from the external environment to the learner
+            * Constructivist
+                * Learning is a discovery of personal knowledge though the unique experiences of each person
+                * Learning is building personal knowledge while relying on existing scientific or cultural information
+        * Folk Pedagogy
+            * Instructivist
+                *  Learning depends on the demonstrations an practice of required skill
+                *  Knowledge is transmitted to the learner by a teacher though presentation and examination of the topic
+            *  Constructivist
+                *  One must help a student discover the knowledge that is naturally found in his cognition
+                *  It is important to complement personal knowledge and experience by scientific or cultural information
+    *  > all parameters indicate a higher quality of student artifacts created under guidance of constructivist teachers.
+    *  Shows diagram of progression of instructivist Psychology and pedagogy through to constructivist Psychology and pedagogy
+        *  Pedagogical change comes before Psychological change
+            *  e.g. get teachers doing the "right things" and their psychology will eventually change to match. Given time and seeing it first hand
+    *  > the beginning of the process, artifacts of students guided by instructivist teachers were found to be higher in their programming level quality, compared to the products of students guided by constructivist teachers.
+    *  > students who learn by constructivist guidance and over time gain experience in visual programming, close the gap with students learning under instructivist guidance in their ability to create an artifact at a good programming level. It can be assumed that ongoing constructivist guidance emphasizing active learning, encourages students to choose high standards for their projects
+    *  > (constructivist) ... will ultimately lead students to overall and broader success in the learning process, although this does require additional time.
+    *  > After six months of experience under constructivist guidance, students were able to program with a base of wider personal knowledge and experience
+
+
 Algorithm PCK
 -------------
 
 * [Teaching algorithms in upper secondary education: a study of teachers’ pedagogical content knowledge](https://www.tandfonline.com/doi/full/10.1080/08993408.2021.1935554)
+    * > Computing education is expanding, while the teaching of algorithms is less well studied.
+    * > teachers consider class discussions to play a significant role as an instructional method for provoking reflection.
+    * Do we study algorithms form Object/Abstract level (no syntax required) or the program level (psudo code to real code)?
+    * > introducing computing concepts without the use of a computer may keep “learners from the crucial computational experiences involved in CT’s common practice”
+    * > Denning (2017) distinguished between “traditional CT” and “new CT”, describing one of the characteristics of “new CT” as follows: “it is completely optional whether an algorithm will ever be translated into a program”
+    * Goals (GO), Student Understanding (SU), Instructional Strategies (IS), Assessment (AS), Interconnections (e.g. SU-IS)
+        * [csv coding scheme](https://www.tandfonline.com/action/downloadTable?id=t0003&doi=10.1080/08993408.2021.1935554&downloadType=CSV)
+    * ![Figure 2. Interconnection between PCK components (Adapted from Bayram-Jacobs et al., 2019)](https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/ncse20/0/ncse20.ahead-of-print/08993408.2021.1935554/20210615/images/large/ncse_a_1935554_f0002_b.jpeg)
+    * Conflicting approaches
+        * "Thinking" (just the concept) or "Thinking and Making" (doing it in code)
+        * > Transcribing to real code is not carried out by my students. [After writing the algorithm in pseudo-code], it does not add any value … at that time, they are at the level of understanding where they should be
+        * > I want my students to be able to specify a logical solution for a problem on the level of elementary building blocks so you can make a one-on-one translation to a programming language
+        * > Students will make something so they really get an idea what it involves rather than remaining theoretical
+    * > prior programming experience does not help in thinking about solutions as students may be inclined to use a “trial-and-error” method
+    * > teachers observed that students have difficulty with how to start solving problems. Teachers also described that students have difficulty with abstract problems, generalizing, analyzing and optimizing algorithms, 
+    * > Algorithms may be described in natural language, in pseudo-code, or in programming language.
+    * > lecturing or instructing, coaching or scaffolding, and discussing solutions with the class.
+    * > There are usually alternative solutions for an algorithmic problem and teachers mentioned to encourage students to evaluate the different solutions and reflect on them.
+    * > "What we miss in secondary education is to first think about what is needed, what is the goal, how we get there, and what steps can be distinguished."
+    * > "We assess the implementation too much and I think we assess conceptual knowledge insufficiently. How do you assess whether students really understand a concept?"
+* Coding scheme
+    * GO - "Goals","Goals for teaching algorithms
+        * learning to analyze algorithmic problems (e.g. decomposition)
+        * learning to solve algorithmic problems
+        * learning to code an algorithm
+        * learning to analyze quality aspects of algorithms
+        * being able to apply problem-solving skills outside CS
+        * learning transversal skills while solving algorithmic problems
+        * Motivations for objectives
+            * preparing for a role in society
+            * working with computers as tools
+    * SU Students’ understanding","Variation in student approaches to learning because of:
+        * different abilities
+        * different interests
+        * other reasons (e.g. different levels, motivation, gender)
+        * Prior knowledge and skills with respect to:
+            * programming experience
+            * mathematical knowledge
+            * analytical skills
+    * Activities that are difficult or easy to learn
+        * difficult: how to start solving problems
+        * difficult: abstract problems, generalizing
+        * difficult: analyzing and optimizing an algorithm
+        * difficult: describing the analysis of algorithms, asymptotic notation
+        * easy: concrete problems, puzzles
+    * Elements students get (dis)engaged by
+        * engaged by satisfaction, gratification of finding a solution
+        * engaged by solving puzzles, “unplugged”
+        * engaged by understanding “how it works”
+        * disengaged by specifying algorithm (e.g. flowchart)
+    * IS Instructional strategies","Representations for algorithms
+        * describe algorithm in different languages (natural or programming)
+        * express algorithms in schematic diagrams (e.g. flowchart)
+        * use illustrations, examples (e.g. puzzles)
+        * Teacher activities to help students comprehend specific concepts
+            * coaching or scaffolding
+            * discussing solutions with the class
+            * lecturing or instructing a class
+        * Class activities to help a class comprehend specific concepts
+            * where students are active in practical work
+            * where students think, reflect, evaluate
+            * where students cooperate
+    * AS Assessment","Aspects of students’ learning that are important to assess
+        * developing an algorithm
+        * implementation of an algorithm
+        * Specific instruments of assessment
+            * observing students during class
+            * asking questions to students
+            * giving students a test or a practical assignment"
+    * Interconnections
+        * Connection GO–SU
+            * focus regarding goals is related to the appreciation of prior programming experience
+            * students like to find the solution of an algorithmic problem
+            * students are interested in relevant algorithmic problems
+        * Connection SU–IS
+            * adapting instructional strategies to meet student differences
+            * scaffolding for topics that are difficult to learn
+        * Connection GO–IS
+            * specific instructional strategies for reaching certain goals
+            * use of representations that are dependent on goals
+        * Connection GO–AS
+            * specific types of assessment for tracking certain goals
 
-Denning (2017) distinguished between “traditional CT” and “new CT”, describing one of the characteristics of “new CT” as follows: “it is completely optional whether an algorithm will ever be translated into a program” (p. 37).
+* TASK: In pairs - using the concepts PCK explored above (summarised below)
+    * Fuller Verb Model
+    * Reading more code
+    * Broken mini programs
+    * Instructivist vs Constructivist for Visual Programming
+    * Implementation or Theory?
+* How would you teach algorithms? 
+    * Link the strategies you come up with to GO, SU, IS, AS + intersections
+* Present to group (1 hour)
 
----
+
+Algorithm Ideas
+* Sorting (bubble, merge, quick)
+* Search (linear, binary)
+* givingChange
+* isPrime
+    * make efficient
+* findInPi (matching)
+    * make efficient
+* hasWonConnect4
+* fizzBuzz
+
+TASK 2: Compare your concept for teaching algorithms with
+* [teachcomputing.org - Key stage 4 resources](https://teachcomputing.org/curriculum/key-stage-4)
+    * Algorithms 1
+    * Algorithms 2
+* [khanacademy.org - algorithums](https://www.khanacademy.org/computing/computer-science/algorithms)
+
+
+Further Pedagogy Information
+-----------------------------
+
+### Research
+* [Cambridge Computing Education Research Symposium](https://www.raspberrypi.org/cambridge-computing-education-research-symposium/)
+* [computing-education-research-online-seminars](https://www.raspberrypi.org/computing-education-research-online-seminars/)
+    * Join us at our free online research seminars
+
+### Journals
+* [Journal of Computer Science Integration](https://inspire.redlands.edu/jcsi/)
+    * [Engaging Equity Pedagogies in Computer Science Learning Environments](https://inspire.redlands.edu/jcsi/vol3/iss2/1/)
+* [Journal of Information Technology Education: Research (JITE:Research)](https://www.informingscience.org/Journals/JITEResearch/Overview)
+
+
+
+Unsorted
+========
 
 * [Problem Solving Attitudes & Behaviours](https://code-it.co.uk/attitudes/) Phil Bagge and Mark Dorling
     * Computing problem solver
         * Handles Ambiguity
             * Recognise there is more than one way to solve/describe a problem
-        * Open Ended Problem SOlver
+        * Open Ended Problem Solver
             * don't just accept first solution
             * Look for a range of solutions to the same problem
             * Look for how a project can be extended
@@ -442,20 +562,6 @@ Denning (2017) distinguished between “traditional CT” and “new CT”, desc
 * [Colin Johnson](https://twitter.com/Colin_GJ/status/1364267532295823362)
     * > Teaching via live-coding - a mechanism that I like a lot and which is well-evidenced as one of the best ways to teach lots of computing topics - is *much* more fluent online. Something about sitting down, having your usual toolchain to hand, not having your code projected, etc.
 
-* [Code Reading Club](https://www.felienne.com/archives/6472)
-    * Reading code is harder than writing code
-    * We are VERY bad at teaching learners to read code
-
-
----
-
-* [ziglings](https://github.com/ratfactor/ziglings)
-    * Interesting concept
-    * This project contains a series of tiny broken programs. By fixing them, you'll learn how to read and write Zig code!
-
-* [Active Learning by Visual Programming: Pedagogical Perspectives of Instructivist and Constructivist Code Teachers and Their Implications on Actual Teaching Strategies and Students’ Programming Artifacts ](https://journals.sagepub.com/doi/full/10.1177/07356331211017793)
-    * TODO - read
-    * 
 
 * "You are the brain, I am the hand" - you are directed to solve a problem
 
@@ -490,6 +596,50 @@ Denning (2017) distinguished between “traditional CT” and “new CT”, desc
     * Trick AND Treat
     * Trick XOR Treat
     * NOR, NAND, XNOR
+
+* [dotanddashdesign.com](https://dotanddashdesign.com/)
+    * Say it in morse code
+    * Our jewellery designs tell the inspired stories of the women who wear them
+
+* SSDD -> Same surface, Different depth
+    * Have the same question/example but have questions with different levels of depth
+    * [[questioning]]
+    * [[inclusion]]
+* Convert from block, text, flowchart, pseudo code and vice-versa
+* Scratch -> python
+    * Scratch is very visual
+* Psudocode
+    * AQA
+        * https://filestore.aqa.org.uk/resources/computing/AQA-8520-TG-PC.PDF
+        * https://filestore.aqa.org.uk/resources/computing/AQA-8525-TG-PC.PDF
+    * OCR
+        * https://www.ocr.org.uk/images/202654-pseudocode-guide.pdf
+* Ease Charts
+    * [CodiMD Documentation](https://hackmd.io/c/codimd-documentation/%2F%40codimd%2Fextra-supported-syntax#Flow-Chart)
+        * Gutiar tab
+        * Maps
+        * markmap
+        * https://flowchart.js.org/
+        * https://mermaid-js.github.io/mermaid-live-editor/
+
+
+* [Reducing the load: ways to support novice programmers](https://www.raspberrypi.org/blog/research-seminar-cognitive-load-subgoal-labels/) Sue Sentence
+    * Subgoal labels (comment/name segments/functions)
+* [How we are helping you with computing teaching strategies](https://www.raspberrypi.org/blog/how-we-are-helping-you-with-computing-teaching-methods/)
+
+* blog.teachcomputing.org [What’s working well in remote computing education?](https://blog.teachcomputing.org/whats-working-well-in-remote-computing-education/)
+    * Summary of resources (many already linked in this markdown document)
+
+* [Summary of Semantic Transfer in Programming Languages: Exploratory Study of Relative Novices](https://blog.teachcomputing.org/summary-of-semantic-transfer-in-programming-languages-exploratory-study-of-relative-novices/) dec 2020
+    * when a second language is encountered
+        * A carryover concept (similar meaning in both the old and new context)
+        * A changed concept (different meaning in the new context)
+        * A novel concept (completely new to the learner)
+
+* [CDIO](https://en.wikipedia.org/wiki/CDIO_Initiative)
+    * Conceive Design Implement Operate. The CDIO Initiative is an educational framework that stresses engineering fundamentals set in the context of conceiving, designing, implementing and operating real-world systems and products.
+
+
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [questioning]: questioning.md "Questioning"

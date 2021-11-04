@@ -158,8 +158,25 @@ exeution function insted of defining it
 
 mismatched brackets
 Wrong type of brackets
+Cannot comprehend 'indentation' of blocks ... just can't .. can't even follow instructions. Simply does not understand what is even being said, or why it is being said.
 
-= and == not nearly as common as teachers belived
+if and else-if
+score = 77
+if score > 70:
+  you rock
+if score > 50
+  you did ok .. I guess
+if score < 40
+  you fail
+
+Case of strings
+Brackets MUST match
+
+= and == not nearly as common as teachers believed
+
+Compiler error pointing to 'misdirecting line' (it's actually caused by a problem a few lines up)
+
+Mass copy paste without understanding context (removing main method). Simply does not know enough about language to access the resources.
 
 Greg Wilson
 * Novice misconception categories

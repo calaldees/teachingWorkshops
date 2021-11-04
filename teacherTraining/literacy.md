@@ -200,6 +200,12 @@ Elect a spokesperson to report back (10min).
 Unsorted
 ========
 
+### Banned Words/Phrases in the Computing classroom
+* Easy to use
+* User Friendly
+    * These are meaningless and unqualified, don't let even KS3 students do this. We need to promote their ability to say why.
+
+
 
 Hirsch
 reading should not be used to teach new topics - too much cgnative load - use reading to improve vocabulary and knowlege of existing are
