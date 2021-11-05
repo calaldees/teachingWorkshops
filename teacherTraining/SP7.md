@@ -1,24 +1,42 @@
 SP7
 ===
 
+KSQ 5: How do children learn?
 
-* Microteaching Presentations
-* Effective pedagogical and theoretical approaches to Computing
-* learning and teaching - a variety of approaches, benefits and limitations
-* Planning to aid learning in Computing; making effective use of a lesson plan
+* AM
+    * Microteaching Presentations
+* PM
+    * Effective pedagogical and theoretical approaches to Computing
+    * learning and teaching - a variety of approaches, benefits and limitations
+    * Planning to aid learning in Computing; making effective use of a lesson plan
+
+EP8 - (yesterday) Thinking and reading critically
+EP9 - (next) How do I read and write about education research critically?
+
+SEN Week (20 min)
+--------
+
+(SP sessions cover more inclusion in January)
+
+Pair up - share reflections
 
 
-* Subject Pedagogy Assignment - SP1
+Subject Pedagogy Assignment (20 min)
+---------------------------
+
+* Subject Pedagogy Assignment - SP1 (10 min)
     * Progress - Pair up - Describe area of pedagogy and research to date
     * Reflection segment
+* SP2 - Critical incidents (10 min)
 
-Micro-Teach
+
+Micro-Teach (2 hours)
 -----------
 
 * Deliver your 15min min teaching segment
     * Traditionally Videoed
     * Feedback from peers and tutor
-    * Watch video to enable deeper reflection after comments
+    * Watch video to enable deeper reflection after comments?
 * Consult: Ongoing micro-teach idea?
     * Some subject have a micro-teach segment each week. Is there value in this?
 
@@ -39,3 +57,15 @@ Forth Wall - Meta Conversation about these sessions
         * Your student evaluations at the end of the year are the yardstick
         * Criticality: Asking students what they like is not always the best measure. Students enjoy watching videos and eating ice cream, doesn't mean that leaning is happening.
 
+
+Computing Pedagogy (3 hours)
+------------------
+
+* [computerSciencePedagogy.md](./computerSciencePedagogy.md)
+
+
+Next Session
+------------
+
+* SP8 (PGCE/SD) - 2 weeks - 19th Nov - Asking not telling - Questioning (last of KSQ "How do Children Learn")
+* End of Collaborative teaching phase

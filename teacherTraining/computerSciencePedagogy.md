@@ -36,7 +36,6 @@ PRIMM (Sue Sentence 2019)
 ITT CCF 2.9
 > Worked examples that take pupils through each step of a new process are also likely to support pupils to learn
 
-
 * Predict
 * Run
 * Investigate
