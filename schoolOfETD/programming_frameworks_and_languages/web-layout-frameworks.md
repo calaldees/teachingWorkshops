@@ -3,7 +3,16 @@ Web Layout Frameworks
 AKA: CSS Frameworks
 
 Objectives
-* CSS
+1. Understand some of the core functionality of `css`
+    * Id's, class's, selector combinations, transitions, dynamic manipulation of class's
+2. Understand the deficiencies of raw css
+3. Understand the problems css frameworks are trying to solve
+4. Use a range of web frameworks to create a responsive page
+5. Understand that a range of frameworks exist
+
+Guidance on Assignment 2
+
+Next week: Test frameworks
 
 
 HTML Styles
@@ -31,6 +40,8 @@ Does not scale - as project grows, difficult to maintain consistency
 
 CSS
 ---
+
+Refresher and some advanced features
 
 ### CSS Style tags
 
@@ -145,7 +156,7 @@ Add the following to the above example
         ```
 2. Manually in dev-tools add the class `big` to `body`
     * see it work
-3. Add some JS to toggle the class
+3. Add some javascript to toggle the class
 ```html
 <button id="big_button">Make Big</button>
 
@@ -162,15 +173,14 @@ Add the following to the above example
 
 Add the css below and resize the browser to less than 600px.
 ```css
-body {
-  background-color: yellow;
-}
 @media only screen and (max-width: 600px) {
   body {
     background-color: lightblue;
   }
 }
 ```
+
+
 
 Problems with CSS
 -----------------
@@ -192,6 +202,8 @@ Problems with CSS
         * [Sass in 100 Seconds](https://www.youtube.com/watch?v=akDIJa0AP5c) video
     * CSS Frameworks
         * People that have made MANY beautiful websites have structured their knowledge into refined tools we can use
+        * Beware - once you use it, you're locked in! - escape is difficult
+
 
 12 part grid system
 -------------------
@@ -211,6 +223,10 @@ Problems with CSS
 Bootstrap 5.1
 -------------
 
+* my example
+    * https://barcampcanterbury.com/
+    * use dev-tools with mobile simulation
+
 * https://getbootstrap.com/
     * > Build fast, responsive sites with Bootstrap
     * > Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins. 
@@ -222,6 +238,10 @@ Bootstrap 5.1
         * Grid
             * https://getbootstrap.com/docs/5.1/layout/grid/
             * 12 Column system (base 12 rocks!)
+        * Utilities
+            * Try not to write your own css where possible - use the framework tools
+            * https://getbootstrap.com/docs/5.1/utilities/spacing/
+            * https://getbootstrap.com/docs/5.1/utilities/borders/
         * Cards
             * https://getbootstrap.com/docs/5.1/components/card/
         * Navbar
@@ -235,10 +255,6 @@ Bootstrap 5.1
             * https://getbootstrap.com/docs/5.1/forms/floating-labels/
         * Toast
         * ScrollSpy
-        * Utilities
-            * Try not to write your own css where possible - use the framework tools
-            * https://getbootstrap.com/docs/5.1/utilities/spacing/
-            * https://getbootstrap.com/docs/5.1/utilities/borders/
     * [Icons](https://icons.getbootstrap.com/)
         * Via CDN as a web-font
     * [theme's](https://themes.getbootstrap.com/)
@@ -246,6 +262,7 @@ Bootstrap 5.1
 
 
 Icons
+* [Icons](https://icons.getbootstrap.com/)
 ```
 <head>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.0/font/bootstrap-icons.css">
@@ -257,6 +274,95 @@ Icons
 </body>
 ```
 
+### Task
+Create the following
+
+```
+Navbar | Shopping basket + Game controller +  Dice
+
+---
+
+large breakpoint
+
+| section1 | section2 | section3 |
+
+| section4 | section5 | section5 |
+
+medium breakpoint
+
+| section1 | section2 | section3 |
+
+| section4                       |
+| section5                       |
+| section5                       |
+
+small breakpoint
+
+| section1 |
+| section2 |
+| section3 |
+| section4 |
+| section5 |
+| section5 |
+
+---
+
+Form input with floating text for email and password
+A button
+
+---
+
+3 Cards with placekitten images
+https://placekitten.com/
+
+```
+![Bootstrap preivew](./images/bootstrap_task_preview.gif)
+
+
+Starting `index.html`
+```html
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.0/font/bootstrap-icons.css">
+    <title>Bootstrap Demo</title>
+  </head>
+  <body>
+
+    <nav class="navbar">
+        ??
+    </nav>
+
+    <div class="container my-3">
+        ??
+    </div>
+
+    <div class="container my-3">
+        ??
+    </div>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+  </body>
+</html>
+```
+
+Skeleton
+--------
+
+* http://getskeleton.com
+* A dead simple, responsive boilerplate
+* Light as a feather at ~400 lines & built with mobile in mind
+* Styles designed to be a starting point, not a UI framework
+* Quick to start with zero compiling or installing necessary
+
+* Only one breakpoint (to start with)
+* Very very lightweight demo
+
+
 tailwindcss
 -----------
 
@@ -267,7 +373,7 @@ tailwindcss
 * My opinion
     * Great when used with a client framework with reusable components
     * Templates become very verbose and bloated - hard to read
-    * `@apply` could solve some of this, but requires compilation
+    * `@apply` could solve some of this, but requires css compilation framework
 
 ```html
 <!doctype html>
@@ -303,23 +409,14 @@ https://tailwindcss.com/docs/divide-width#add-borders-between-horizontal-childre
 
 Forms is not part of default functionality - requires plugin
 
-Skeleton
---------
-
-* http://getskeleton.com
-* A dead simple, responsive boilerplate
-* Light as a feather at ~400 lines & built with mobile in mind
-* Styles designed to be a starting point, not a UI framework
-* Quick to start with zero compiling or installing necessary
-
-* Only one breakpoint
-
 
 Pure.css
 --------
-
 https://purecss.io/
-* see geting started and grid system
+* see getting started and grid system
+* Pure ships with both a 5ths and 24ths based grid
+
+Bit more than skeleton but still pretty bare bones
 
 
 Material Design (Google)
@@ -332,6 +429,7 @@ Material Design (Google)
         * [Material Icons](https://fonts.google.com/icons) searchable
         * [Googled tried to enforce Material Design on iOS platforms](https://sixcolors.com/link/2021/10/googles-apps-to-embrace-ios-on-ios/) they gave up in 2021 because (quite rightly) the users were annoyed and confused
 
+
 Other Projects
 --------------
 
@@ -339,7 +437,20 @@ Other Projects
 * https://bulma.io/
     * just css (no js)
 
+
 Further Reading
 ---------------
+
 * [top bootstrap alternatives](https://hackr.io/blog/top-bootstrap-alternatives)
 * [Top 5 CSS Frameworks for Website Developers and Designers](https://www.browserstack.com/guide/top-css-frameworks)
+* [10 CSS Pro Tips - Code this, NOT that!](https://www.youtube.com/watch?v=Qhaz36TZG5Y) 10min Video
+    * Understand the power of raw CSS without being locked into framework
+
+
+Guidance with Assignment 2
+==========================
+
+Time to start your server and client implementations.
+* Clone the repo
+* Make commits
+* Demo accessing API form javascript
