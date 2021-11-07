@@ -319,7 +319,7 @@ Further Reading
 
 * [Introduction to client-side frameworks](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Introduction)
 * [Sizes of JS frameworks, just minified + minified and gzipped, (React, Angular 2, Vue, Ember)](https://gist.github.com/Restuta/cda69e50a853aa64912d)
-* Other Frameworks
+* MonoCubed [List of 10 Best Front end Frameworks](https://www.monocubed.com/best-front-end-frameworks/)
     * [Ember.js](https://emberjs.com/)
     * [Angular.io](https://angular.io/) Google
     * [ractive.js](https://www.ractivejs.org)

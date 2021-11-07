@@ -384,6 +384,9 @@ Building Code Comprehension
 Algorithm PCK
 -------------
 
+* [In the classroom: Teaching by algorithm](https://www.sec-ed.co.uk/best-practice/in-the-classroom-teaching-by-algorithm/)
+    * TODO: unread
+
 * [Teaching algorithms in upper secondary education: a study of teachers’ pedagogical content knowledge](https://www.tandfonline.com/doi/full/10.1080/08993408.2021.1935554)
     * > Computing education is expanding, while the teaching of algorithms is less well studied.
     * > teachers consider class discussions to play a significant role as an instructional method for provoking reflection.
