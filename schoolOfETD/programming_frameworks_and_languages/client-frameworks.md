@@ -111,6 +111,7 @@ Interacting with our API from client browser javascript
 // Copy and paste the code below
 //   These are javascript equivalent of `curl` statesmen's from previous session
 // Start server_example api
+// Set `urlAPI` to your server address. It MUST not end with a `/`
 // TASK: using the devtools console
 //   - add 3 items
 //   - get the item list (explore in devtools)
@@ -159,6 +160,12 @@ function deleteItem(item_id) {
     .catch(err => console.error(err));
 }
 ```
+(
+my first demo of this on 01/11/2021 with the class failed because of a bug - 
+https://github.com/calaldees/frameworks_and_languages_module/commit/44cd9d126ed8cc7f7445de5fc1c3ac500de411bf
+This is why the prototype is NOT fit for production use
+)
+
 
 Helpers for Assignment 2: Client (notes)
 --------------------------------

@@ -180,6 +180,7 @@ Add the css below and resize the browser to less than 600px.
 }
 ```
 
+[Challenge: Login Screen - CSS Transition](https://github.com/calaldees/TeachProgramming/tree/master/teachprogramming/static/projects/web/login)
 
 
 Problems with CSS
@@ -453,4 +454,11 @@ Guidance with Assignment 2
 Time to start your server and client implementations.
 * Clone the repo
 * Make commits
-* Demo accessing API form javascript
+* You will submit a repo for me to run your project
+* I will details how you will submit your repo over the next few weeks
+* Build you server in `server/`
+* Make a `Dockerfile` to ensure your server can be run from a container
+* Run test on your sever `make test_server`
+
+Missing from last week
+* Demo accessing API form javascript (as this failed last week) 
