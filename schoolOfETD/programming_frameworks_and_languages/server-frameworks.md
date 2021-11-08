@@ -276,6 +276,7 @@ Gin
 
 * [Gin Web Framework](https://gin-gonic.com/)
 * [Tutorial: Developing a RESTful API with Go and Gin](https://golang.org/doc/tutorial/web-service-gin)
+* [TutorialEdge.net - Creating a RESTful API With Golang](https://tutorialedge.net/golang/creating-restful-api-with-golang/)
 
 I may create a docker example of this for next session
 

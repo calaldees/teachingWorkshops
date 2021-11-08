@@ -192,13 +192,14 @@ OpenAPI (30min)
 
 ### cURL commands to add an item and read it back
 ```bash
-curl -d '{"user_id": "user1234", "keywords": ["hammer", "nails", "tools"], "description": "A hammer and nails set. In canterbury", "lat": 51.2798438, "lon": 1.0830275}' -H "Content-Type: application/json" -X POST curl http://localhost:8000/item
+curl -d '{"user_id": "user1234", "keywords": ["hammer", "nails", "tools"], "description": "A hammer and nails set. In canterbury", "lat": 51.2798438, "lon": 1.0830275}' -H "Content-Type: application/json" -X POST http://localhost:8000/item
 # for GitPod - https://8000-aaa-bbb-1234abcd.ws-eu00.gitpod.io/
 # for local - http://localhost:8000/
 # notice the http(s) differences and where the port is
 curl http://localhost:8000/items
 curl http://localhost:8000/item/1
 curl http://localhost:8000/items?user_id=user1234
+curl -X DELETE http://localhost:8000/item/1
 ```
 
 ### Task
