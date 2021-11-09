@@ -73,7 +73,7 @@ Thursday 23rd September
 * Reflective practice (Tripp>Kolb>Brookfield), critical and systematic reflection, learning from reflection 
 * Academic skills - research finding and evaluating,    
 * referencing using e - library
-* Review BlackBoard, terminologies, Teacher Standards
+* Review BlackBoard, terminologies, Teachers' Standards
 * Assessments and grading points
 * Where and when to access support
 * Building relationships and collaborating with others

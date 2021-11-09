@@ -314,7 +314,7 @@ Session 2
             * Uni should recognise and reward
 * [QAA](https://www.qaa.ac.uk/) THE UK'S QUALITY BODY FOR HIGHER EDUCATION
     * [Subject Benchmark Statement: Education Studies](https://www.qaa.ac.uk/docs/qaa/subject-benchmark-statements/subject-benchmark-statement-education-studies.pdf?sfvrsn=3ae2cb81_5)
-    * [Teacher Standards](https://www.gov.uk/government/publications/teachers-standards)
+    * [Teachers' Standards](https://www.gov.uk/government/publications/teachers-standards)
 
 ## HE Equality
 * Equality Act 2010

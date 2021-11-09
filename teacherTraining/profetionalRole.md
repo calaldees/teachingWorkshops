@@ -27,10 +27,10 @@ The majority of your initial teacher training is you, in your room, delivering y
 You have professional responsibilities beyond subject knowledge.
 
 
-Teacher Standards
+Teachers' Standards
 -----------------
 
-* [UK Teacher Standards](https://www.gov.uk/government/publications/teachers-standards) [PDF](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/665520/Teachers__Standards.pdf)
+* [UK Teachers' Standards](https://www.gov.uk/government/publications/teachers-standards) [PDF](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/665520/Teachers__Standards.pdf)
 
 * Venngage Infographic [Roles and Responsibilities of a Professional Teacher](https://infograph.venngage.com/p/230898/roles-and-responsibilities-of-a-professional-teacher)
 

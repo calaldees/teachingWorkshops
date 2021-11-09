@@ -283,7 +283,7 @@ Is mentor ok - is student ok
    * Evidence of alignment for Ofsted inspection (likely this academic year)
       * As part of partnership (one teacher training entity) - Understand their mentoring style - (students come to right answer themselves - coach - two way)
 * Explore the mentor’s knowledge of the [Curriculum 2020](http://ccccumentors.org.uk/files/secondary/curriculum-overview/Curriculum%202020%20introduction%20for%20partners%20-%20print-friendly.pdf);
-   * Ofsted don't want _Teacher Standards_ to be _The Curriculum_
+   * Ofsted don't want _Teachers' Standards_ to be _The Curriculum_
    * Ofsted schools and university to be aligned
    * Are they aware of the 10 key questions?
    * Are they aware of uni sessions each week? [Subject Handbook](https://learn.canterbury.ac.uk/bbcswebdav/pid-2664627-dt-content-rid-3988355_1/xid-3988355_1) [doc](http://ccccumentors.org.uk/files/secondary/Documentation/subject-documentation/computing/Computer%20Science%20Curriculum%20Guidance.docx)

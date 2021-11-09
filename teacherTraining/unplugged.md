@@ -1,7 +1,7 @@
 CS Unplugged
 ============
 
-Teacher Standards
+Teachers' Standards
 > 4.2 promote a love of learning and children’s intellectual curiosity
 > 4.5 contribute to the design and provision of an engaging curriculum within the relevant subject area(s)
 

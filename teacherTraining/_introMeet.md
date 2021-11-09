@@ -276,7 +276,7 @@ General Information and Pre Reading
     * [Understanding the UK education system](https://www.schoolswork.co.uk/media/files/Undestanding_the_UK_education_system.pdf) Types of schools
     * [Education system in the uk](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/219167/v01-2012ukes.pdf)
 * Official Documents
-    * [Teacher Standards](https://www.gov.uk/government/publications/teachers-standards)
+    * [Teachers' Standards](https://www.gov.uk/government/publications/teachers-standards)
     * [Initial teacher training (ITT): core content framework](https://www.gov.uk/government/publications/initial-teacher-training-itt-core-content-framework)
     * [National curriculum in England: computing programmes of study](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study)
     * [Ofsted annual report](https://www.gov.uk/government/collections/ofsted-annual-reports)

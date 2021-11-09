@@ -30,7 +30,7 @@ TASK: [DfE Early Career Framework](https://www.gov.uk/government/publications/ea
 
 > all trainees an entitlement of three year support in their early years
 
-* Same teacher standards
+* Same teachers' standards
 * Support you are entitled too
 
 * Observations - Key feature of NQT years - Two way street!

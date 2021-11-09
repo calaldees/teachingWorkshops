@@ -250,9 +250,9 @@ Assessment
 Plenary
 -------
 
-### Teacher Standards
+### Teachers' Standards
 
-Correlate learning with teacher standards
+Correlate learning with teachers' standards
 
 * 2.f demonstrate knowledge and understanding of how pupils learn and how this impacts on teaching
 * 3.c high standards of literacy, articulacy and the correct use of standard English, whatever the teacher’s specialist subject

@@ -167,7 +167,7 @@ Further Reading
 ---------------
 
 * Official Documents
-    * [Teacher Standards](https://www.gov.uk/government/publications/teachers-standards)
+    * [Teachers' Standards](https://www.gov.uk/government/publications/teachers-standards)
     * [Initial teacher training (ITT): core content framework](https://www.gov.uk/government/publications/initial-teacher-training-itt-core-content-framework)
     * [National curriculum in England: computing programmes of study](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study)
     * [AQA GCSE Computing Specification](https://filestore.aqa.org.uk/resources/computing/specifications/AQA-8520-SP-2016.PDF)

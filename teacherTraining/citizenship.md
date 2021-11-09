@@ -4,7 +4,7 @@ Citizenship
 (Async 45min + 30min group + 10min whole)
 
 > not undermining fundamental British values, including democracy, the rule of law, individual liberty and mutual respect, and tolerance of those with different faiths and beliefs
-<sub>[Teacher Standards](https://www.gov.uk/government/publications/teachers-standards)</sub>
+<sub>[Teachers' Standards](https://www.gov.uk/government/publications/teachers-standards)</sub>
 
 
 ### Spiritual, Moral, Social and Cultural (SMSC)

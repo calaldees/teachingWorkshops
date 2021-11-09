@@ -41,7 +41,7 @@ Official Guidance
 
 (I found this hard to identify some of these)
 
-Teacher standards
+Teachers' standards
 * > 4.5 contribute to the design and provision of an engaging curriculum within the relevant subject area(s).
 
 ITT CCF

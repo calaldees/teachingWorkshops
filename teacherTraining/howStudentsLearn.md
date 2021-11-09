@@ -103,6 +103,16 @@ TASK: From our reading - Discuss
 1. How do we Learn?
 2. How will this affect planning our computing lessons?
 
+### The Science of Learning
+
+* [The Science of Learning](https://deansforimpact.org/resources/the-science-of-learning/) Deans for Impact 2015
+    * Super super summary of core teaching ideas
+    * An invitation to think - this is not gospel
+    * American based
+    * These are not panacea's
+* [Cognitive science approaches in the classroom](https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/cognitive-science-approaches-in-the-classroom) Jult 2021 - Report summarising the evidence for cognitive science approaches in school settings
+
+
 ### My Notes
 
 * Chapter 1 - Communication Breakdown Between Science and Practice in Education

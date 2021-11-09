@@ -529,7 +529,7 @@ Visible Curriculum - The Education Machine (A historical syndical lens)
 -----------------------------------------------------------------------
 
 Why are you here?
-[Teacher Standards](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/665522/Teachers_standard_information.pdf)
+[Teachers' Standards](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/665522/Teachers_standard_information.pdf)
 
 * Help mould young people to be lifelong learners, passionate, self worth, collaborative, community driven human beings
 
@@ -614,7 +614,7 @@ Activity: Discuss:Some schools ask for an attainment and effort grade? what do y
 * Brockman story
 * Charles Tom story
 
-Activity: Board: What are the character traits we want to inspire? Invisible Curriculum (Refer to the Teacher Standards for inspiration).
+Activity: Board: What are the character traits we want to inspire? Invisible Curriculum (Refer to the Teachers' Standards for inspiration).
 
 
 

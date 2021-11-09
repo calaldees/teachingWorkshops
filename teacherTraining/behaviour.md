@@ -31,7 +31,7 @@ Ongoing Task 1 of 2:
 * Each correct association means BINGO! an you get a tasty imaginary gourmet cookie
 * CAUTION! - BE VERY CAREFUL WITH THIS TECHNIQUE. Use with the right group. It creates hierarchies. This is not my goto mode.
 
-### Teacher Standards
+### Teachers' Standards
 7. Manage behaviour effectively to ensure a good and safe learning environment
     1. have clear rules and routines for behaviour in classrooms, and take responsibility for promoting good and courteous behaviour both in classrooms and around the school, in accordance with the school’s behaviour policy
     2. have high expectations of behaviour, and establish a framework for discipline with a range of strategies, using praise, sanctions and rewards consistently and fairly  

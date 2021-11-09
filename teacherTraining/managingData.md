@@ -17,7 +17,7 @@ ITT Core Framework
 > Make marking manageable and effective, by:
 >   * Receiving clear, consistent and effective mentoring in how to record data only when it is useful for improving pupil outcomes
 
-Teacher Standards
+Teachers' Standards
 > 6.3 use relevant data to monitor progress, set targets, and plan subsequent lessons
 
 DfE
