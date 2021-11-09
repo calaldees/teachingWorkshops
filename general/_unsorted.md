@@ -121,3 +121,9 @@
 * [The Problem with Solar Energy in Africa](https://www.youtube.com/watch?v=7OpM_zKGE4o) 20min video
     * Describes decay in transmission and size of infrastructure
     * ENds with the software problem if distribution
+
+* [When Is the Revolution in Architecture Coming?](https://www.currentaffairs.org/2021/04/when-is-the-revolution-in-architecture-coming)
+    * Wonderful visual article about building architecture
+
+* [Demmand Shock - Everywhere](https://www.bridgewater.com/its-mostly-a-demand-shock-not-a-supply-shock-and-its-everywhere) 2021
+    * Good macro economic assessment of demand after covid-19

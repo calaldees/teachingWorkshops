@@ -160,3 +160,51 @@ Other Institutions Interview Reference
 --------------------------------------
 
 * [University of Southampton: Computing interview process](https://www.efolio.soton.ac.uk/blog/itcs/what-is-the-interview-process/)
+
+
+Safeguarding
+------------
+
+(copy and paste from reference document)
+
+### Possible Safeguarding Questions 
+ 
+1. What attracted you to teaching / this post / this school? 
+2. How do you think your own childhood may have influenced your practice  
+with students/pupils? 
+3. Tell us about a teacher that made an impact on you and why do you think that was? 
+4. What motivates you to work with young people? 
+5. Tell us about your interests outside work? 
+6. What do you think are the professional challenges facing teachers today? 
+7. Give an e.g. of where you had to deal with bullying behaviour between pupils. What did you do? What made it successful/ What could you have done better? 
+8. Young people develop crushes / like physical contact how would/do you deal with this? 
+9. What would you do if you were concerned about a colleague’s behaviour towards children? 
+10. Give an example of how you have managed poor pupil behaviour? 
+11. Give an example of when you have had to respond to challenging pupil behaviour? How did it affect you? How did you cope with the aftermath? 
+12. When do you think it is appropriate to physically intervene in a situation involving young people? 
+13. What makes a school “safe and caring”? 
+14. What policies are important to support a safe school environment? 
+15. What are staff’s responsibilities in protecting children? 
+16. How do you define an appropriate teacher/school secretary/site agent or caretaker/learning support assistant/parent helper/lunchtime supervisor? 
+17. Give an example of what you would consider to be appropriate/inappropriate behaviour? 
+ 
+### Recruitment panels should be concerned where any candidate demonstrates: 
+ 
+1. Attitudes which attribute adult experience & knowledge to children, specially sexual knowledge or behaviour a disproportionate amount of time to extra-curricular activities with children 
+2. Personal/life balance, including the paucity of adult relationships/leisure pursuits  
+3. Attitudes which appear to underestimate the incidence and impact of sexual abuse 
+4. An inability to recognise or respect boundaries with regards to physical contact 
+5. Inability to describe appropriate boundaries of a professional relationship with children or to distinguish between appropriate or inappropriate behaviour 
+6. Children and adults are equal in every sense – ignoring disparities of power and authority 
+7. An inability to recognise the inherent vulnerability of children from a troubled or disadvantaged background 
+8. A tendency to view children & young people in idealised or romanticised terms dogmatic, autocratic, arrogant or over-confident attitude 
+
+some of these may have entirely satisfactory explanations; others may raise serious concerns as not everyone whose responses cause concern will be a potential abuser. They may just be poorly articulated, hesitant or a sign of “interview nerves” 
+
+### Possible Safeguarding questions 2
+
+1. How would you go about creating an inclusive learning environment?
+2. What is a teacher's responsibility in keeping children safe?
+3. What are some of the current educational issues?
+4. How would you help all pupils achieve their potential?
+5. How would you contribute to making a school a safe environment for the children? Can you give some examples of this from your experience?
