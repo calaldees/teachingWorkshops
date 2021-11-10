@@ -354,7 +354,7 @@ Building Code Comprehension
     * [/exercises](https://github.com/ratfactor/ziglings/tree/main/exercises)
         * Each program is broken and the task is described with comments
 
-* [Active Learning by Visual Programming: Pedagogical Perspectives of Instructivist and Constructivist Code Teachers and Their Implications on Actual Teaching Strategies and Students’ Programming Artifacts ](https://journals.sagepub.com/doi/full/10.1177/07356331211017793)
+* [Active Learning by Visual Programming: Pedagogical Perspectives of Instructivist and Constructivist Code Teachers and Their Implications on Actual Teaching Strategies and Students’ Programming Artifacts](https://journals.sagepub.com/doi/full/10.1177/07356331211017793) 2021 - Avital Kesler, Tamar Shamir-Inbal, Ina Blau
     *  Visual/Block programming allows for my constructivist/self-exploration because the learners are protected from MANY incorrect programs
     * Four Models of “Theory of Mind” in Learning and Teaching (Olson & Bruner, 1996)
         * Folk Psychology
@@ -387,7 +387,7 @@ Algorithm PCK
 * [In the classroom: Teaching by algorithm](https://www.sec-ed.co.uk/best-practice/in-the-classroom-teaching-by-algorithm/)
     * TODO: unread
 
-* [Teaching algorithms in upper secondary education: a study of teachers’ pedagogical content knowledge](https://www.tandfonline.com/doi/full/10.1080/08993408.2021.1935554)
+* [Teaching algorithms in upper secondary education: a study of teachers’ pedagogical content knowledge](https://www.tandfonline.com/doi/full/10.1080/08993408.2021.1935554) 2020 - Jacqueline Nijenhuis-Voogt, Durdane Bayram-Jacobs, Paulien C. Meijer, Erik Barendsen
     * > Computing education is expanding, while the teaching of algorithms is less well studied.
     * > teachers consider class discussions to play a significant role as an instructional method for provoking reflection.
     * Do we study algorithms form Object/Abstract level (no syntax required) or the program level (psudo code to real code)?

@@ -78,6 +78,7 @@ Bugs
 ----
 
 Broke the radio stream
+ - tests
 
 One competion that failed on live site
 
