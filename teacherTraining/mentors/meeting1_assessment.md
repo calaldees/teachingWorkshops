@@ -9,8 +9,10 @@ Computing - Mentor Meeting 1
 * Greater coherence between school and uni
 * Strengthening our use of the ITTE Curriculum
 
-### first meeting of Teacher Educators 
-* explore the first three Key Spotlight Questions:
+### First meeting of Teacher Educators 
+
+* Verify upcoming Student Progress Review (SPR) process
+* Explore the first three Key Spotlight Questions:
     * Who are we?
     * How do you learn to teach?
     * What is a teacher?
@@ -28,15 +30,29 @@ Computing - Mentor Meeting 1
 (Can we fit it all in?)
 
 
-Student Progress Review
+Student Progress Review (SPR's)
 -----------------------
 
-* New process
+* New process - Three way meeting
 * Students will be briefed - Friday 19th November
-* Three way meeting
+* SPR1 Due Monday 13th December
 
 ### Key Spotlight Questions: clusters
-
+* 
+    1.) Who are we?
+    2.) How do we learn to teach?
+    3.) What is a teacher?
+* 
+    4.) What is education?
+    5.) How do children learn?
+* 
+    6.) How do you plan and assess for learning?
+    7.) What does inclusion really mean?
+* 
+    8.) What is a broad and balanced curriculum?
+    9.) How do you lead learning?
+* 
+    10.)  What is my impact?
 
 ### Documents
 
@@ -70,10 +86,12 @@ Visits
 * Could align with SPR1?
 
 
-Build a network
+Build a network (15min)
 ---------------
 
 * It would be valuable to build contacts with other mentors
+* Discuss your mentoring
+    * What are the strategies, targets and difficulties you have encountered with your mentoring
 
 
 What is a Teacher Educator?
@@ -90,8 +108,10 @@ What is a Computing Teacher?
 * What does it mean to be a teacher of Subject? 
 * Do we all have a common understanding?
     * [Subject Knowledge Audit]
+
 [Subject Knowledge Audit]: https://computingteachers.uk/subjectKnowledge/subject-knowledge.html
 
+### Research
 
 * [Teaching algorithms in upper secondary education: a study of teachers’ pedagogical content knowledge](https://www.tandfonline.com/doi/full/10.1080/08993408.2021.1935554) 2020 - Jacqueline Nijenhuis-Voogt, Durdane Bayram-Jacobs, Paulien C. Meijer, Erik Barendsen
     * Conflicting approaches
@@ -109,9 +129,8 @@ What is a Computing Teacher?
 Closing and Next Steps
 ----------------------
 
-* 3rd year computer science undergrads wanting and understanding of school teaching before embarking on PGCE application?
-    * Try before you buy?
-* Assistance with Interviewing PGCE candidates
-    * Bagsi them?
+* Interaction as a partnership 
+    * 3rd year computer science undergrads wanting and understanding of school teaching before embarking on PGCE application?
+    * Assistance with Interviewing PGCE candidates
 * The next Session 
     * Thursday 13th January 2022 - 16.30 – 17:30

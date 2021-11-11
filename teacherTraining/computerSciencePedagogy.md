@@ -89,6 +89,8 @@ TASK: Read PRIMM quick read.
     * [primming.wordpress.com](https://primming.wordpress.com/) KS3
         * research background PRIMM is based on
 
+* [Predict](https://twitter.com/Gripweed1/status/1458418519553478658) twitter example
+
 * [KPRIDE](https://create.withcode.uk/kpride/) Pete dring
     * Keywords, Predict, Run, Investigate, Debug and Extend
 
