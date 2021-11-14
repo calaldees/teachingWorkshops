@@ -381,3 +381,5 @@ Unsorted
 
 https://rapidapi.com/blog/best-nodejs-frameworks/
 Performacen community ease of use, best for
+
+https://github.com/pimbrouwers/Falco F# functional

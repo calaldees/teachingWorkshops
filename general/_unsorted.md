@@ -127,3 +127,6 @@
 
 * [Demmand Shock - Everywhere](https://www.bridgewater.com/its-mostly-a-demand-shock-not-a-supply-shock-and-its-everywhere) 2021
     * Good macro economic assessment of demand after covid-19
+
+* [Skeptical About Electrical Planes](https://www.planeandpilotmag.com/news/pilot-talk/2021/10/14/skeptical-about-electrical/)
+    * The maths may not add up
