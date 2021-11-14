@@ -1,11 +1,19 @@
-Automated Testing
-=================
+Test Frameworks
+===============
 
 Objectives:
 * Understand the purpose of a unit test framework
 * Understand the purpose of a browser test framework
-* Understand CORS headers
+* Understand CORS HTTP headers
+    * Their purpose and implications for assignment 2
 * Consider local environment tooling for development
+
+
+Assignment 1 - WIP feedback
+----------------------------
+
+* [puddings.md](./puddings.md)
+
 
 PyTest (A unittest framework)
 ------
@@ -98,7 +106,17 @@ def test_delete_post_1():
         [pytest]
         addopts = --html=report.html --self-contained-html
         ```
-    * Now just typing `pytest` will run automatically with those options
+    * Typing `pytest` will run automatically with those options
+
+### Task: Debugger
+
+* Change one of your tests so that it fails
+* run pytest with the command below
+* ```bash
+    pytest --pdb
+    ```
+* Inspect the `response` object
+    * `dir(???)` repl
 
 
 ### Task: Run individual tests for this project
@@ -157,6 +175,12 @@ Other UnitTest Frameworks
 Cypress (A Browser/End-to-End test Framework)
 -------
 
+* Demo full local cypress environment
+* Terminology: Headless
+    * Does not need to run the renderer - much lighter memory footprint and less processor time
+    * Caution: this it NOT the same as an actual browser with a user. There are edge cases it can miss
+
+
 ### Task: Create a Cypress test to search with Google
 
 * Save as `cypress/integration/example.spec.js`
@@ -190,23 +214,16 @@ describe('Google', () => {
 ```
 
 
-A Browser/End-to-End test Framework
-------------------------
+Other Browser/End-to-End test Frameworks
+----------------------------------------
 
-### End to End (Browser) Tests
-
-* Terminology
-    * Headless
-        * Does not need to run the renderer - much lighter memory footprint and less processor time
-        * Caution: this it NOT the same as an actual browser with a user. There are edge cases it can miss
-
-#### Selenium
+### Selenium
 
 https://www.selenium.dev/
+* Very established
+* What are the problems with the architecture
 
-What are the problems with the architecture
-
-#### puppeteer
+### puppeteer
 
 https://developers.google.com/web/tools/puppeteer
 
@@ -220,6 +237,18 @@ CORS
     * HTTP Method: [OPTIONS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/OPTIONS)
         * `Access-Control-Allow-Origin`
 
+```bash
+curl -X OPTIONS http://localhost:8000/ -v
+curl -X OPTIONS http://localhost:8000/items -v
+```
+
+* Why do browsers all enforce CORS?
+
+<details>
+* The browser could have rouge js that sends data secretly to an attacker - e.g. user authentication cookies. or personal identifiable tracking information. or credit card numbers.
+* Using many client browsers to DDOS other sites
+* The img tag is possibly immune to this? - inserting dynamic img elements with query strings
+</details>
 
 Local Development on Windows
 ----------------------------
@@ -249,9 +278,12 @@ Local Development on Windows
         * [windows-terminal-preview](https://www.microsoft.com/en-gb/p/windows-terminal-preview/9n8g5rfz9xk3#activetab=pivot:overviewtab)
 
 
-Enabling Server tests as GitHub Actions
----------------------------------------
+Quiz
+----
 
+* https://b.socrative.com/login/student/
+    * callaghan1818
+* for teacher https://b.socrative.com/teacher/
 
 
 Solutions
@@ -266,5 +298,144 @@ Solutions
     cy.contains("canterbury.ac.uk").click();
     cy.get('#onetrust-accept-btn-handler').should('be.visible').click();
     cy.get('img[alt="Canterbury Christ Church University Logo"]').should('be.visible');
+
+</details>
+
+<details>
+<summary>backup of questions</summary>
+1.
+
+Why don't we do all our web application testing with Browser test frameworks
+
+They are difficult to construct
+
+They are slow
+
+They require lots of system resources to run
+
+They do not detail where the precise issue/line may be
+2.
+
+Assertions:
+
+Are a language feature
+
+Can only be used in tests
+
+Allow us to succinctly check for truthy-ness with a concise syntax
+
+Can give more detail to failing tests
+
+Assertions can typically be used anywhere in code. They are sometimes used to detect problematic runtime conditions.
+
+"More detail" is a trap and a vague term - they do not give us more detail in themselfs, however they may point us to error cases 'sooner rather than later' and this may help debugging
+3.
+
+Headless
+
+Is a framework
+
+browser tests do not need to produce any user interact-able visuals
+
+browsers use less system resources than normal browsers
+
+Requires less code
+
+"Requires less code" than what? This is vague.
+
+A headless browser does not need to waste time rendering the screen for a real user and can save on resourse
+4.
+
+Which is better
+
+Unit Tests
+
+Browser Tests
+
+Unit and Browser tests are both good
+
+Unit and Browser tests are optional
+
+Try telling a business that "Unit and Browser tests are optional".
+
+You need both for all projects. Don't start a project without them!
+5.
+
+CORS is
+
+A server framework
+
+A server technique
+
+A client framework
+
+A security feature of modern browsers
+
+Implemented with HTTP headers
+
+Implemented with HTTP status codes
+6.
+
+A test report
+
+Is a legal requirement
+
+is useful for measuring developer performance
+
+Is useful for developers when generated by CI
+
+Is useful when generated by developers for managers
+
+Managers dont use test-reports - Developers use them to identify where problems in the code are
+
+"Developer Performance" who would anyone measure this?
+
+"Legal requirement"? Have we ever mentioned the law in these lectures?
+7.
+
+Testing
+
+It is possible to just write browser tests as your main job
+
+Every developer must be able to write tests
+
+Testing is normally done by another department
+
+Tests can be added later in a projects lifecycle
+
+This is bit of a trick question - Tests CAN be added later in a project lifecycle. This is often hard and as the code was not written with testability in mind and may need refactoring.
+
+It is possible be employed specifically as a browser test expert. These testers are highly valued by organisations!
+
+Developers that can't write tests don't get very far in their profession
+8.
+
+What should always be in .gitignore AND .dockerignore files
+
+Makefile
+
+node_modules
+
+__pycache__ (if a python project)
+
+*.js
+
+README.md
+
+Dockerfile
+
+Test report folder
+
+node_modules should never be comitted to a repo under any circumstance. this is megabytes of binary files!
+
+Cache files should be ignored (why would we ever store these? they are temporary guff)
+
+Test reports should never be commited, these are transient and can be regenerated. They are normally 1000's of lines long and this will contaminate your repo
+
+The other files are legitmate files Makefile, Dockerfile, README.md and *.js are all possibly legitimate files.
+
+The question was ALWAYS be in .gitignore AND .dockerignore some of those files could be in one of them
+
+
 
 </details>
