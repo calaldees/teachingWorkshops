@@ -13,8 +13,27 @@ Questioning
     * Recommendation 7: Help students build explanations by asking and answering deep questions.
         * Level of evidence: Strong
         * why, why-not, how, what-if, how does X compare to Y, and what is the evidence for X?
+        * (My tip: Put these on your wall display - ask students for a deeper question - go on a journey of exploring - repeat - )
+            * dialogic teaching - question giving rise to another question - flip it, they ask the questions
 
 * [Developing dialogic teaching: genesis, process, trial](http://robinalexander.org.uk/wp-content/uploads/2019/12/RPIE-2018-Alexander-dialogic-teaching.pdf) Robin Alexander 2018
+    * There is no single and agreed definition of the term ‘dialogic teaching’
+    * Framework
+        * Justifications Communicative – Social – Cultural – Political/civic – Psychological – Neuroscientific – Pedagogical
+        * Principles Collective – Reciprocal – Supportive – Cumulative – Purposeful
+        * Repertoires
+            * Interactive settings
+                * Whole class – Group work (teacher-led) – Group work (student-led) – One-to-one (teacher–student) – One-to-one (student–student)
+                * Everyday talk Transactional – Expository – Interrogatory – Exploratory – Expressive – Evaluative
+                * Learning talk 
+                    * (a) Narrate – Explain – Speculate – Imagine – Explore – Analyse – Evaluate – Question – Justify – Discuss – Argue
+                    * (b) Listen – Think about what we hear – Give others time to think – Respect others’ views
+            * Teaching talk 
+                * Rote – Recitation – Instruction – Exposition – Discussion – Dialogue
+            * Questioning 
+                * Character – Response cue – Participation cue – Wait/thinking time – Feedback – Purpose – Structure
+            * Extending 
+                * Time to think – Say more – Revoice – Rephrase/repeat – Evidence of reasoning – Challenge or counter-example – Agree/disagree – Add on – Explain what someone else mean
     * [EEF: Dialogic Teaching report KS2](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/dialogic-teaching/)
     * [It’s good to talk: Moving towards dialogic teaching](https://impact.chartered.college/article/egan-simon-moving-towards-dialogic-teaching/) May 2018 - Impact: Chartered College of Teaching
     * [Dialogic Teaching](https://www.nie.edu.sg/docs/default-source/event-document/final-dialogic-teaching-essentials.pdf)
@@ -22,8 +41,9 @@ Questioning
     * narrate, explain, analyse, speculate, imagine, explore, evaluate, discuss, argue, justify, and they ask questions of their own
     * collective, reciprocal, supportive, cumulative, purposeful 
     * > If an answer does not give rise to a new question from itself, it falls out of the dialogue.
-    * > What ultimately counts is the extent to which teaching requires pupils to think, not just report someone elseʼs thinking
+    * > What ultimately counts is - the extent to which teaching requires pupils to think, not just report someone elseʼs thinking
     * Computing Context: Evidently social impact of technology. Could we use this to compare different types fo loop? A chain of if statements over data?
+
 
 Diagnostic/Hinge Questions (2.5 hours)
 --------------------------
@@ -53,14 +73,18 @@ What topics would this be beneficial for? what topics would this be inappropriat
     * KS3 [National Curriculum](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study#key-stage-3)
     * KS4 [AQA Spec](https://www.aqa.org.uk/subjects/computer-science-and-it/gcse/computer-science-8520/subject-content)
 
-TASK: Async 45 min
+TASK: Async 30 min
 Attempt to devise
 * 3 simple standalone diagnostic questions (15 min per question?)
-* Extension: Create an additional multi-part diagnostic question
+    * Extension: Create an additional multi-part diagnostic question
+
+https://www.aqa.org.uk/subjects/computer-science-and-it/gcse/computer-science-8525/subject-content
 
 TASK: Sync 30min
 * Each member presents diagnostic questions to the group
 * The group will commentate on what they think the correct answer is and what misconceptions the incorrect answers are addressing before the presenter reveal the intention
+    * Go Meta - see below
+* Omega springboard
 
 
 ### Summary/References/More
@@ -96,7 +120,7 @@ Some of my references for diagnostic/hinge questions
                     * What other alternative incorrect answers would you have included, and why?
                     * Can you write some questions that would make each of the wrong answers correct?
                     * Create your own diagnostic question on this topic, explaining your reasoning behind each of your three incorrect answers
-            * Get feedback from students as to 'why' they think that is the answer
+            * Get feedback from students. Get them to tell you 'why' they think that is the answer
                 * Find the worst 3 answered questions
                 * Step 5: Find the most popular misconceptions and read explanations written by students
                 * Step 7: As a teacher - Ask 3 questions:
@@ -118,22 +142,26 @@ TODO
 
 Dialogic teaching
 
+Plan your questions before hand - really important
+Mini whiteboards - hold up hands - take time to get answers
+Reduce the number of questions you ask (stop using them as showcase for your knowledge) - raise the quality of the questions
+
 Common errors in questioning
 * Asking:
-too many questions at once
-a question and answering it yourself
-questions only of the brightest or most likeable
-a difficult question too early
-irrelevant questions
-questions in a threatening way
-the same kind of questions all the time
+    * too many questions at once
+    * a question and answering it yourself
+    * questions only of the brightest or most likeable
+    * a difficult question too early
+    * irrelevant questions
+    * questions in a threatening way
+    * the same kind of questions all the time
 * Failing to:
-correct wrong answers
-indicate a change in the type of question
-give students the time to think
-pay attention to answers
-see the implications of answers
-to build on answers
+    * correct wrong answers
+    * indicate a change in the type of question
+    * give students the time to think
+    * pay attention to answers
+    * see the implications of answers
+    * to build on answers
 
 * [SSDD Problems](https://ssddproblems.com/)
     * Same Surface, Different Deep Structure maths problems from Craig Barton @mrbartonmaths
@@ -144,7 +172,6 @@ to build on answers
 * Give them the data/answer and ask "What is the question"
 
 * Check understanding - "explain the task back to me ..."
-* 
 
 * [Active Learning Methodologies](https://www.pdst.ie/sites/default/files/teaching%20toolkit%20booklet%20without%20keyskills_0.pdf)
     * KWL
@@ -152,16 +179,41 @@ to build on answers
         * What I want to know
         * What I learned
 
-Think-Pair-Share
+
 * [Pause-Pose-Pounce-Bounce](https://my.chartered.college/wp-content/uploads/2018/10/7.-Pose-Pause-Pounce-Bounce.pdf)
+    * > Dylan Wiliam, a leading expert in formative assessment, criticises the typical questioning model, Initiation Response-Evaluation, where a teacher repeatedly asks a question, gets an answer and then responds themselves
+    * Pose-Pause-Pounce-Bounce is a questioning sequence which is much more suited to elicit deep thinking. 
+        * The teacher poses a question; 
+        * pauses to allow suitable thinking time; 
+        * pounces on one student for an initial answer; 
+        * and finally bounces the answer to another student who builds on the response.
+    * This improve participation, engagement and understanding.
+    * Ensure that you pause for long enough to allow sufficient thinking time. This will help students to improve their answers and increase their confidence
+    * Use bounce to formatively assess progress.
+    * You can also use it to encourage students to build on each other’s points
+    * Use this strategy regularly as part of your classroom routine so students expect it and are prepared to answer
+
+* Think-Pair-Share
+
 
 * Fast and Effective Assessment by Glen Pearsall 2018
     * [Chapter 1. More Effective Questioning](http://www.ascd.org/publications/books/118002/chapters/More-Effective-Questioning.aspx)
-        * Speculative framing. I have found that students are more likely to respond to cold-call questions if they feel they can speculate about possible responses rather than come up with the correct answer
+        * Speculative framing. 
+            * I have found that students are more likely to respond to cold-call questions if they feel they can speculate about possible responses rather than come up with the correct answer
         * Answer scaffolds.
         * Think -> Pair -> Share
         * Pre-Queing (ask question in advance)
         * Inverted Questions - Give answer and ask what the question was
+
+---
+
+Multiple choice - Always Multiple answers - pair confer - this activates multiple levels of recall and discussion
+
+---
+
+The question could be the entire lesson
+
+Compiler errors are GOLD! So much technical terminology
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [computerSciencePedagogy]: computerSciencePedagogy.md "Computer Science Specific Pedagogy"

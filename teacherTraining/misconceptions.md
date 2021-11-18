@@ -8,9 +8,15 @@ TODO: See Vocabulary in literacy
 Greg Wilson
 * Novice misconception categories
     * Factual Errors
+        * like believing that Vancouver is the capital of British Columbia (it’s Victoria). 
+        * These are usually simple to correct.
     * Broken Models
+        * like believing that motion and acceleration must be in the same direction.
+        * We can address these by having novices reason through examples where their models give the wrong answer.
     * Fundamental beliefs
-* > [Brow2017] also compared the mistakes novices actually make with what their teachers thought they made. They found that, “…educators formed only a weak consensus about which mistakes are most frequent, that their rankings bore only a moderate correspondence to the students in the…data, and that educators’ experience had no effect on this level of agreement.” 
+        * such as “the world is only a few thousand years old” or “some kinds of people are just naturally better at programming than others”.
+        * These errors are often deeply connected to the learner’s social identity, so they resist evidence and rationalize contradictions.
+* > [Brow2017] also compared the mistakes novices actually make with what their teachers thought they made. They found that, “…educators formed only a weak consensus about which mistakes are most frequent, that their rankings bore only a moderate correspondence to the students in the…data, and that educators’ experience had no effect on this level of agreement.”
     * For example, mistaking = (assignment) and == (equality) wasn’t nearly as common as most teachers believed.
 
 
