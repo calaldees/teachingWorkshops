@@ -208,3 +208,42 @@ some of these may have entirely satisfactory explanations; others may raise seri
 3. What are some of the current educational issues?
 4. How would you help all pupils achieve their potential?
 5. How would you contribute to making a school a safe environment for the children? Can you give some examples of this from your experience?
+
+---
+
+### Child Centred Approach/Safeguarding 
+ 
+7. Give an e.g. of where you had to deal with bullying behaviour between pupils. What did you do? What made it successful/ What could you have done better? 
+8. Young people develop crushes / like physical contact how would/do you deal with this? 
+9. What would you do if you were concerned about a colleague’s behaviour towards children? 
+10. Give an example of how you have managed poor pupil behaviour? 
+11. Give an example of when you have had to respond to challenging pupil behaviour? How did it affect you? How did you cope with the aftermath? 
+12. When do you think it is appropriate to physically intervene in a situation involving young people? 
+14. What policies are important to support a safe school environment? 
+15. What are staff’s responsibilities in protecting children? 
+16. How do you define an appropriate teacher/school secretary/site agent or caretaker/learning support assistant/parent helper/lunchtime supervisor? 
+17. Give an example of what you would consider to be appropriate/inappropriate behaviour? 
+
+### Sense of Purpose/Resilience and Dedication 
+	
+
+* What makes a school “safe and caring”? 
+* What motivates you to work with young people? 
+* Tell us about your interests outside work? 
+* What do you think are the professional challenges facing teachers today? 
+* How do you deal with setbacks? 
+* How do you cope with pressure? 
+* What has been your biggest failure to date and how did you deal with it? 
+* Tell me about a time when you had to deal with a major crisis. 
+* Describe a time when something didn’t work out as well as you’d hoped. What did you do and what did you learn from it? 
+* Tell me about a time when you worked with someone you didn’t agree with. 
+* How would you respond if you received negative feedback from someone in a leadership position? 
+
+### Conflict Resolution 
+* Tell me about a time when you disagreed with an idea a friend, colleague or family member wanted to pursue. How did you approach the disagreement? 
+* Think about a situation in which you disagreed with the direction or idea that your boss suggested. What did you do to professionally disagree? If not, what were your thoughts about the situation? 
+* When you work with a team or a group, disagreements can be common. Tell us about a time when you handled a disagreement. How did you approach the situation and what was the resolution? 
+* When you think about your experience with disagreement and conflict resolution, how would you rate your skills in handling differences of opinion? Please give an example that illustrates that skill. 
+* How comfortable are you, in general, with dealing with differences of opinion and disagreement? Can you provide a work-related example that illustrates your comfort level? 
+
+  

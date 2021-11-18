@@ -86,6 +86,8 @@ TASK: Read the National Curriculum (10min) Make notes in shared document about t
 National Curriculum - Computing (30min)
 ---------------------------------------
 
+[./whatIsComputing.md](./whatIsComputing.md)
+
 ### What is Computing? (20min)
 
 * [National Curriculum: computing programmes of study](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study) 2013
