@@ -1,7 +1,10 @@
 Misconceptions
 ==============
 
-TODO: See Vocabulary in literacy
+* TS 3.1 
+    * > have a secure knowledge of the relevant subject(s) and curriculum areas, foster and maintain pupils’ interest in the subject, and address misunderstandings
+* ITT CCF 3.3
+    * > Anticipating common misconceptions within particular subjects is also an important aspect of curricular knowledge; working closely with colleagues to develop an understanding of likely misconceptions is valuable
 
 
 
@@ -19,12 +22,9 @@ Greg Wilson
 * > [Brow2017] also compared the mistakes novices actually make with what their teachers thought they made. They found that, “…educators formed only a weak consensus about which mistakes are most frequent, that their rankings bore only a moderate correspondence to the students in the…data, and that educators’ experience had no effect on this level of agreement.”
     * For example, mistaking = (assignment) and == (equality) wasn’t nearly as common as most teachers believed.
 
+### TASK: list misconceptions in computing
+* Think pair share
 
-* [Identifying student misconceptions of programming](https://dl.acm.org/doi/10.1145/1734263.1734299) Kaczmarczyk 2010
-    * investigation of student misconceptions in a series of core CS1 topics previously identified as both important and difficult.
-
-TASK: list misconceptions in computing
-Think pair share
 
 CAS Misconceptions List
 -----------------------
@@ -57,15 +57,14 @@ Copy&Paste from article above - the list is amazing!
 * thinking the inverse of x < y is x > y.
 * Loops, functions, variables, classes don’t really exist. CPUs have no clue about any of these things, they exist only in the language translator and debuging.
 
-### Flow Control
 
-#### Sequence
 
+### Sequence
 * ‘sequence’ in Maths meaning a pattern and ‘sequence’ in Computing meaning an order
 * Every line in Java / C / C# / C++ must have a semi colon at the end of it.
 * if x == y: (execute then part even if false)
 
-#### Selection
+### Selection
 * ELSE in selection needs a Boolean test of its own
 * ELSE is always needed in a selection statement
 * 1=="1" is True (not helped by the fact in some languages it is!)
@@ -73,7 +72,7 @@ Copy&Paste from article above - the list is amazing!
 * Language dependent IF (A = B) is the same as IF (A == B)
 * Students insist on using: `If test=True Then`, rather than: `If test Then`
 
-#### Repetition
+### Repetition
 * where the student thinks that the loop break when ever the condition stops being true, rather than at the boundary where it is checked.
 * loops always exit from the bottom of the loop instead of where the loop control condition is evaluated.
 
@@ -129,9 +128,11 @@ Copy&Paste from article above - the list is amazing!
 * Detecting errors is the same as correcting errors.
 
 
-TASK: Categorise some of th above with Greg Willsons categories of error
+TASK: Attempt to categorise some of th above with Greg Willsons categories of error
+* Think - Pair - Share
 
----
+My Hodge Podge Misconception list
+---------------------------------
 
 Parameter variable names and position - students don't understand they do not need to match
 e.g.
@@ -152,7 +153,7 @@ execution function instead of defining it
 
 * mismatched brackets - Brackets MUST match
 * Wrong type of brackets
-* Cannot comprehend 'indentation' of blocks ... just can't .. can't even follow instructions. Simply does not understand what is even being said, or why it is being said.
+* Cannot comprehend 'i'ndentation' of blocks ... just can't .. can't even follow instructions. Simply does not understand what is even being said, or why it is being said.
 
 ```python
 # use of if and else-if
@@ -170,12 +171,8 @@ if score < 40:
 
 * > explicitly teach novices how to debug
     * * > It is surprising how little page space is devoted to bugs and debugging in most introductory programming textbooks.
-
-
-
 * BIGGEST PROBLEM!!!!!
 * Compiler error pointing to 'misdirecting line' (it's actually caused by a problem a few lines up)
-
 * Mass copy paste without understanding context (removing main method). Simply does not know enough about language to access the resources.
 
 ```python
@@ -184,7 +181,7 @@ b = [4,5,6]
 c = a
 print(c)
 b = c
-a.append(99)
+a.append(99)  # Does not need to be 'append'. Could be modify an index
 print(c)
 print(b)
 # Where is [4,5,6]??? can we ever get it back?

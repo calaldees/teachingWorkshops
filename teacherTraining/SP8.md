@@ -7,10 +7,11 @@ KSQ 5: How do children learn?
 Core Concepts
 -------------
 
-* Anticipating common [misconceptions](./misconceptions.md); a tool to aid learning
-* Asking not telling
+* Anticipating common [misconceptions](./misconceptions.md); a tool to aid learning (2 hours)
+* [questioning](./questioning.md) (2 Hours)
+    * Asking not telling 
     * an introduction to effective exposition and questioning
-* Diagnostic questions
+    * Diagnostic questions
 
 * Revisiting learning theories
     * Critical evaluation of learning theories
@@ -34,8 +35,6 @@ PGCE: Begin _Developing teaching phase_ (DTP)
 * SP2 - Recorded presentation
 
 
-
-
 Stumble Upon
 ------------
 
@@ -43,9 +42,11 @@ Stumble Upon
     * a pedagogic tool?
     * cross curricular? could you approach a science, maths or music teachers? would they be interested?
 
+Question: Showcase time in sessions?
 
 Next session
 ------------
 * Assessment for learning
 * Bundles
-* 
+    * 2 for PGCE
+    * 3 for SD

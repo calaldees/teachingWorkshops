@@ -1,6 +1,20 @@
 Questioning
 ===========
 
+* Dialogic Teaching
+* Diagnostic Questions
+* Hinge Questions
+
+ITT CCF 4.6
+> Questioning is an essential tool for teachers; questions can be used for many purposes, including to check pupils’ prior knowledge, assess understanding and break down problems.
+
+ITT CCF 3.3
+> Anticipating common misconceptions within particular subjects is also an important aspect of curricular knowledge; working closely with colleagues to develop an understanding of likely misconceptions is valuable
+
+
+We kind of know about quizzing and spaced repetition from Rosenshines principles
+Quiz == good. What about deeper questioning?
+
 * National Center for Education Evaluation [Organizing Instruction and Study to Improve Student Learning](https://ies.ed.gov/ncee/wwc/PracticeGuide/1) 2007
     * Recommendation 5a
         * Level of evidence: Low
@@ -16,11 +30,24 @@ Questioning
         * (My tip: Put these on your wall display - ask students for a deeper question - go on a journey of exploring - repeat - )
             * dialogic teaching - question giving rise to another question - flip it, they ask the questions
 
+
+Dialogic Teaching
+-----------------
+
+* [robinalexander.org.uk/dialogic-teaching](https://robinalexander.org.uk/dialogic-teaching/)
+* [A Dialogic Teaching Companion Paperback](https://www.amazon.co.uk/Dialogic-Teaching-Companion-handbook-educators/dp/1138570354/) Robin Alexander 2020 Cambridge
+    * 978-1138570351 
+* [Improving children’s learning by improving the quality of classroom talk.](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/dialogic-teaching)
+    *  > aims to improve pupil engagement and attainment by improving the quality of classroom talk. 
+    *  > Teachers are trained in strategies that enable pupils to reason, discuss, argue and explain rather than merely respond, in order to develop higher order thinking and articulacy.
+    * > ... needed more than two terms to fully embed the approach in their classrooms and thought it would have more impact over a longer time period
 * [Developing dialogic teaching: genesis, process, trial](http://robinalexander.org.uk/wp-content/uploads/2019/12/RPIE-2018-Alexander-dialogic-teaching.pdf) Robin Alexander 2018
     * There is no single and agreed definition of the term ‘dialogic teaching’
     * Framework
-        * Justifications Communicative – Social – Cultural – Political/civic – Psychological – Neuroscientific – Pedagogical
-        * Principles Collective – Reciprocal – Supportive – Cumulative – Purposeful
+        * Justifications 
+            * Communicative – Social – Cultural – Political/civic – Psychological – Neuroscientific – Pedagogical
+        * Principles 
+            * Collective – Reciprocal – Supportive – Cumulative – Purposeful
         * Repertoires
             * Interactive settings
                 * Whole class – Group work (teacher-led) – Group work (student-led) – One-to-one (teacher–student) – One-to-one (student–student)
@@ -37,63 +64,50 @@ Questioning
     * [EEF: Dialogic Teaching report KS2](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/dialogic-teaching/)
     * [It’s good to talk: Moving towards dialogic teaching](https://impact.chartered.college/article/egan-simon-moving-towards-dialogic-teaching/) May 2018 - Impact: Chartered College of Teaching
     * [Dialogic Teaching](https://www.nie.edu.sg/docs/default-source/event-document/final-dialogic-teaching-essentials.pdf)
-    * [Developing the repertoire of teacher and student talk in whole-class primary English teaching: lessons from England](http://eprints.whiterose.ac.uk/151471/1/Developing_the_repertoire_of_teacher_and_student_talk_in_whole_class_primary_English_teaching_full_version_.pdf)
-    * narrate, explain, analyse, speculate, imagine, explore, evaluate, discuss, argue, justify, and they ask questions of their own
-    * collective, reciprocal, supportive, cumulative, purposeful 
     * > If an answer does not give rise to a new question from itself, it falls out of the dialogue.
     * > What ultimately counts is - the extent to which teaching requires pupils to think, not just report someone elseʼs thinking
-    * Computing Context: Evidently social impact of technology. Could we use this to compare different types fo loop? A chain of if statements over data?
+
+* Computing Context:
+    * Social impact of technology
+    * Could we use this to compare different types of loop?
+    * A chain of if statements over data?
+
+(15min)
+TASK: Dialogic teaching ... strategies for use in Computing? ... start talking (without my input) 
+* why, why-not, how, what-if, how does X compare to Y, and what is the evidence for X?
+* When getting an answer - explicitly - how does that lead to the next question ...
+* Your objective - your action points in your notes
 
 
 Diagnostic/Hinge Questions (2.5 hours)
 --------------------------
 
-ITT CCF 4.6
-> Questioning is an essential tool for teachers; questions can be used for many purposes, including to check pupils’ prior knowledge, assess understanding and break down problems.
-
-ITT CCF 3.3
-> Anticipating common misconceptions within particular subjects is also an important aspect of curricular knowledge; working closely with colleagues to develop an understanding of likely misconceptions is valuable
-
-
-TASK: Async - 1 hour
+(Previously Async - 1 hour)
 * Read [Oiling the hinges – refining my construction of hinge questions](https://improvingteaching.co.uk/2013/11/03/oiling-the-hinges-refining-my-construction-of-hinge-question/)
     * History
-* TODO - [Building a responsive teaching culture by designing and using hinge questions](https://impact.chartered.college/article/building-responsive-teaching-culture-hinge-questions/)
+* [Building a responsive teaching culture by designing and using hinge questions](https://impact.chartered.college/article/building-responsive-teaching-culture-hinge-questions/) 2020 impact.chartered.college
 * Watch [Diagnostic Questions Pedagogy Videos](https://www.youtube.com/watch?v=HlRJIsZnITs&list=PL7BJ-1MkmUZ90bnxd_e-AsIgIsJEGOkC0&index=1)
     * All videos are 40min in total - You can get the majority of information in the first 30min
+
+### TASK: Explore Computing Diagnostic Questions (10min)
 * Find/Browse examples of Computing [Diagnostic Questions](https://diagnosticquestions.com/) on the the site
 
-Break: 5min
-
-TASK: Sync 15min?
-Discuss with group. 
-Your opinions and thoughts.
-What topics would this be beneficial for? what topics would this be inappropriate for?
+### TASK: Create Diagnostic Questions (30min)
+* Attempt to devise 3 simple standalone diagnostic questions for Computing (10 min per question?)
+    * THIS IS HARD!
+    * Extension: Create an additional multi-part diagnostic question
 * Topic reminders
     * KS3 [National Curriculum](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study#key-stage-3)
-    * KS4 [AQA Spec](https://www.aqa.org.uk/subjects/computer-science-and-it/gcse/computer-science-8520/subject-content)
+    * KS4 [AQA Spec](https://www.aqa.org.uk/subjects/computer-science-and-it/gcse/computer-science-8525/subject-content)
 
-TASK: Async 30 min
-Attempt to devise
-* 3 simple standalone diagnostic questions (15 min per question?)
-    * Extension: Create an additional multi-part diagnostic question
-
-https://www.aqa.org.uk/subjects/computer-science-and-it/gcse/computer-science-8525/subject-content
-
-TASK: Sync 30min
-* Each member presents diagnostic questions to the group
+### TASK: Sync 30min
+* Present diagnostic questions 
 * The group will commentate on what they think the correct answer is and what misconceptions the incorrect answers are addressing before the presenter reveal the intention
-    * Go Meta - see below
-* Omega springboard
+* Omega springboard - Go Meta - see below
 
-
-### Summary/References/More
+### Summary/References/FurtherReading
 
 Some of my references for diagnostic/hinge questions
-
-* Reminder
-    * previously We looked at question/quiz systems previously
-        * google-forms, kahoot, socrative
 
 * [Diagnostic Questions](https://diagnosticquestions.com/) - Computing 'Question Bank'
     * [DiagnosticQuestionsFAQ.pdf](https://diagnosticquestions.com/Uploads/DiagnosticQuestionsFAQ.pdf)
@@ -140,12 +154,12 @@ Some of my references for diagnostic/hinge questions
 TODO
 ====
 
-Dialogic teaching
-
-Plan your questions before hand - really important
-Mini whiteboards - hold up hands - take time to get answers
-Reduce the number of questions you ask (stop using them as showcase for your knowledge) - raise the quality of the questions
-
+* Plan your questions before hand - really important! - explicitly in your lesson plan
+* All Class Response System (more next session)
+    * Mini whiteboards - hold up fingers - take time to get answers - All class response systems
+        * [formative.com](https://www.formative.com/)
+        * whiteboard
+* Reduce the number of questions you ask (stop using them as showcase for your knowledge) - raise the quality of the questions to enable thinking
 Common errors in questioning
 * Asking:
     * too many questions at once
@@ -169,7 +183,7 @@ Common errors in questioning
     * [[computerSciencePedagogy]]
     * [[inclusion]]
 
-* Give them the data/answer and ask "What is the question"
+* Give them the data/answer/outcome and ask "What is the question"
 
 * Check understanding - "explain the task back to me ..."
 
@@ -178,7 +192,6 @@ Common errors in questioning
         * What I know
         * What I want to know
         * What I learned
-
 
 * [Pause-Pose-Pounce-Bounce](https://my.chartered.college/wp-content/uploads/2018/10/7.-Pose-Pause-Pounce-Bounce.pdf)
     * > Dylan Wiliam, a leading expert in formative assessment, criticises the typical questioning model, Initiation Response-Evaluation, where a teacher repeatedly asks a question, gets an answer and then responds themselves
@@ -207,13 +220,17 @@ Common errors in questioning
 
 ---
 
-Multiple choice - Always Multiple answers - pair confer - this activates multiple levels of recall and discussion
+My Example - Demo
+
+Multiple choice - Always Multiple answers are correct - pair confer - this activates multiple levels of recall and discussion
 
 ---
 
 The question could be the entire lesson
 
 Compiler errors are GOLD! So much technical terminology
+
+
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [computerSciencePedagogy]: computerSciencePedagogy.md "Computer Science Specific Pedagogy"
