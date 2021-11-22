@@ -7,6 +7,8 @@ Objectives
     * Their purpose and implications for assignment 2
 * Consider local environment tooling for development
 * Implementation Hints
+* Individual Tutorials (10min?)
+
 
 Hints
 -----
