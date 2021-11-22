@@ -4,15 +4,6 @@ Test Frameworks
 Objectives:
 * Understand the purpose of a unit test framework
 * Understand the purpose of a browser test framework
-* Understand CORS HTTP headers
-    * Their purpose and implications for assignment 2
-* Consider local environment tooling for development
-
-
-Assignment 1 - WIP feedback
-----------------------------
-
-* [puddings.md](./puddings.md)
 
 
 PyTest (A unittest framework)
@@ -230,52 +221,6 @@ https://developers.google.com/web/tools/puppeteer
 Googles own headless browser test
 
 
-CORS
-----
-
-* [Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
-    * HTTP Method: [OPTIONS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/OPTIONS)
-        * `Access-Control-Allow-Origin`
-
-```bash
-curl -X OPTIONS http://localhost:8000/ -v
-curl -X OPTIONS http://localhost:8000/items -v
-```
-
-* Why do browsers all enforce CORS?
-
-<details>
-* The browser could have rouge js that sends data secretly to an attacker - e.g. user authentication cookies. or personal identifiable tracking information. or credit card numbers.
-* Using many client browsers to DDOS other sites
-* The img tag is possibly immune to this? - inserting dynamic img elements with query strings
-</details>
-
-Local Development on Windows
-----------------------------
-
-* [chocolatey.org](https://chocolatey.org/)
-    * The Package Manager for Windows
-    * WindowsKey + X -> Windows Powershell (Admin)
-        * copy and paste the big shell line from - [Installing Chocolatey](https://chocolatey.org/install) -> "Now run the following command:"
-    * ```powershell
-        choco feature enable -n allowGlobalConfirmation
-        choco install python3 node
-        ```
-    * ```cmd
-        npm install cypress@8.7.0
-            # `npm install` installs to `node_modules` in your current folder!
-        set CYPRESS_BASE_URL=http://localhost:8001/?api=http://localhost:8000
-            # set an environment variable for the duration of this terminal
-        npx cypress open
-            # or run headless
-        npx cypress run --spec cypress/integration/freecycle/freecycle.spec.js
-        ```
-        * (I had issues with `9.0.0` on windows, some error about `plugins/index.js`?)
-    * Docker on windows
-        * [Install WSL](https://docs.microsoft.com/en-us/windows/wsl/install) (Windows Subsystem for Linux)
-            * I think it's easier now - you used to have manually turn on HyperV
-        * `choco install docker-desktop`
-        * [windows-terminal-preview](https://www.microsoft.com/en-gb/p/windows-terminal-preview/9n8g5rfz9xk3#activetab=pivot:overviewtab)
 
 
 Quiz

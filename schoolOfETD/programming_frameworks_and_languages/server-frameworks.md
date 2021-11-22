@@ -383,3 +383,6 @@ https://rapidapi.com/blog/best-nodejs-frameworks/
 Performacen community ease of use, best for
 
 https://github.com/pimbrouwers/Falco F# functional
+
+* https://github.com/servicetitan/Stl.Fusion C# Super server+client mega solution
+    * Key concept - "eventual consistency" - creating invalidation methods is key
