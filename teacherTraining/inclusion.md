@@ -281,6 +281,9 @@ TASK: (15min total)
 Academically More Able
 ----------------------
 
+* [The Push for Equity in Education Hurts Vulnerable Children the Most](https://quillette.com/2021/11/25/the-push-for-equity-in-education-hurts-vulnerable-children-most/) Russell T. Warne 2021
+    * TODO
+
 * [13-Year-Old, Nicholas Sharkey, Creates a RISC-V Core](https://riscv.org/blog/2020/11/13-year-old-nicholas-sharkey-creates-a-risc-v-core/)
 * > ‘Too many bright children let down in the state system’ Ofsted 2013
 * > ‘The most able students report finds that too few schools set high enough expectations of what their brightest students can achieve’. Ofsted 2103

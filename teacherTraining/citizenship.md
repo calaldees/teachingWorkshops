@@ -89,6 +89,10 @@ Youth Language (30min group)
 In your breakout groups and shared workspace - collate a list of youth terms you have encountered and share them.
 
 
+* https://twitter.com/3dancingfeet/status/1462607787251232774
+    * Theydies and Gentelthems
+
+
 Unsorted
 ========
 

@@ -147,6 +147,9 @@ David Daiau
 * [All of science gets a general index (permalink)](https://pluralistic.net/2021/10/28/clintons-ghost/#cornucopia-concordance)
     * > It's hard to overstate what a scam academic and scientific publishing is.
 
+TODO:
+* [Ofsted alarm at teacher trainers 'selling' one pedagogy](https://www.tes.com/news/ofsted-alarm-teacher-trainers-selling-one-pedagogy)
+
 
 Pedagogy and Practice
 ---------------------

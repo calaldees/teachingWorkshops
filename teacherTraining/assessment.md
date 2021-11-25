@@ -25,14 +25,43 @@ ITT Core Framework
 6.6
 > Over time, feedback should support pupils to monitor and regulate their own learning.
 
+Teachers' Standards
+6 - Make accurate and productive use of assessment  
+* know and understand how to assess the relevant subject and curriculum areas, including statutory assessment requirements  
+* make use of formative and summative assessment to secure pupils’ progress
+* use relevant data to monitor progress, set targets, and plan subsequent lessons  
+* give pupils regular feedback, both orally and through accurate marking, and encourage pupils to respond to the feedback.
+
+
+> When the cook tastes the soup, thats formative assessment. When the customer tastes the soup, that's summative assessment.
+> <sub>Dirkson 1991</sub>
+
+
+```mermaid
+graph TD
+    learning_outcomes[Learning Outcomes]
+    reflection[Reflection]
+    lesson_plan[Lesson plan]
+    assessment[Assessment]
+    tracking[Tracking]
+
+    learning_outcomes --> reflection --> lesson_plan --> assessment --> tracking --> learning_outcomes
+```
 
 Introduction - Core Formative assessment principles (1.5 hours)
 ------------
 
 TODO: 
-* [Teacher Feedback to Improve Pupil Learning](https://educationendowmentfoundation.org.uk/tools/guidance-reports/feedback/) - Six recommendations for using teacher feedback to improve pupil learning
+* EEF [Teacher Feedback to Improve Pupil Learning](https://educationendowmentfoundation.org.uk/tools/guidance-reports/feedback/) 2018 - Six recommendations for using teacher feedback to improve pupil learning
 
 Get a feel for the core concepts of formative assessment
+
+* [Professor Hattie on how to improve learning in the classroom](https://www.youtube.com/watch?v=pnz6Tpm32JM) Hattie 2min YouTube Video
+    * > Know thy impact
+    * How do you know they've leant? 
+    * How do you ensure ALL of them have have learnt/progressed
+    * Consistent with other teachers
+
 
 ### Async (1hour)
 
@@ -53,10 +82,65 @@ Get a feel for the core concepts of formative assessment
         * Can you give examples of feedback (phrases/sentences) that would prompt a student to improve? (we will look as group to see if we can wordsmith these)
         * How would you set regular homework + give meaningly feedback (timely) + observe that the feedback was actioned/had-impact
 
+
+* [Formative assessment, assessment for learning, and all that jazz](https://www.schooleducationgateway.eu/en/pub/viewpoints/experts/formative-assessment-learning.htm) SchoolEducationGateway.eu 2020
+    * Assessment for learning (the purpose of the assessment is to promote learning)
+        * is any use of assessment that is primarily intended to improve, rather than measure, learning. 
+        * If I tell my students on Monday that there is going to be a test on Friday, and the students study for the test, then the assessment is likely to improve the students’ learning, even if I do not actually give the test on Friday. 
+        * Testing can also be highly effective as a study technique: as literally hundreds of psychological experiments have shown, taking a test improves learning even if the test is not scored, because it provides practice in retrieving items from memory, which is known to improve long-term learning.
+    * Formative Assessment (the results of the assessment need to be used to improve instruction)
+        * An assessment functions formatively to the extent that evidence from the assessment is used – by teachers, by students, or by their peers – to make better decisions about the next steps in instruction.
+    * ... “formative” and “summative” ... (are)... different kinds of conclusions that might be drawn from assessment outcomes
+
+* 'Formative assessment' should have been called 'responsive teaching' - 'assessment' makes people think of tests - Wiliam
+
 ### Sync (30min)
 
 TASK 1: (5min) In the GoogleDoc create headings for the questions you answerd above - copy and paste ideas from your notes above - put your initials next to your contributions
 TASK 2: (25min) Discuss each question - (This will set the stage for some exploration this session)
+
+
+* [Revisiting Dylan Wiliam’s Five Brilliant Formative Assessment Strategies](https://teacherhead.com/2019/01/10/revisiting-dylan-wiliams-five-brilliant-formative-assessment-strategies/) Tom Sherrington 2019 - Referencing Wiliam 2005
+    * > the five strategies should be there, part of the core curriculum for teacher development
+    * Five Formative Assessment Strategies
+        * Clarifying, understanding, and sharing learning intentions
+            * > if you don’t know where you’re going, you’ll never get there
+        * Engineering effective classroom discussions, 
+            * tasks and activities that elicit evidence of learning
+            *  question design – including good diagnostic multiple choice questions
+            *  and the role of all-student response techniques.
+        * Providing feedback that moves learners forward
+            * their capacity to understand the feedback and inclination to accept and act on it
+            * goal is to change the students’ capacity to produce better work
+            * if learner is reliant on external feedback == SatNav style learning
+        * Activating students as learning resources for one another
+            * Teacher must NOT be the bottleneck of knowledge. Remove yourself from this role
+        * Activating students as owners of their own learning
+    * ![Formative Assessment Strategies - Table](https://headguruteacher.files.wordpress.com/2019/01/dwaauk1xqaegxl8.jpg)
+    * > Truth be told, a lot of ‘AfL’ was and is a mile away from the formative assessment practice Wiliam is talking about.
+
+Other
+* > The main purpose of feedback is to improve the student and not the work <sub>Wiliam</sub>
+* Lesson planning is about what you want them to learn, not what you want them to do
+* AfL needs to be established and embedded
+* AfL is only good if you use it to inform practice - this may mean 'changing the plan'
+
+Feed Forward
+------------
+
+* [Moving from Feedback to Feedforward](https://www.cultofpedagogy.com/feedforward/) Cult of Pedagogy 2018
+    * Dump the past - embrace the future
+    * Feedback - People get defensive about the past
+        * You have to use a praise sandwich
+        * Focus on mesurement (not a plan)
+        * From a position of hirearchy
+    * Feed forward - Actions for the future
+        * Prompt for solutions
+        * action plan
+        * from varied viewpoints
+        * focused
+        * what if xyz
+![](https://x78251kcpll2l2t9e46kf96a-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/Feedforward-Chart.png)
 
 
 EEF Trial (45min)
@@ -66,6 +150,16 @@ EEF Trial (45min)
     * [EEF Project: Embedding Formative Assessment](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/embedding-formative-assessment/) EEFTrial 2018
     * What are the 5 key formative assessment strategies suggested by this trial (read the _Full Project Description_; it's hidden!!)
         * We will be working on our own strategies for these points in the session
+    * TLC agendas and materials focused on five key formative assessment strategies: 
+        * clarifying, sharing and understanding learning intentions
+        * engineering effective classroom  discussions and  activities
+        * providing  feedback -  that  moves  learning  forward
+        * activating learners as instructional resources for one another
+        * activating learners as owners of their own learning 
+    * Within each of these high-level  concepts, the TLC handouts introduced  multiple formative assessment techniques for teachers to consider
+
+* > The additional progress made by children in the lowest third for prior attainment was greater than that made by children in the highest third.
+* > The process evaluation indicated it may take more time for improvements in teaching practices and pupil learning strategies to feed fully into pupil attainment. Many teachers thought that younger students were more receptive to the intervention than their older and more exam-minded peers.
 
 TASK:
 * Create a heading in the GoogleDoc for each of the 5 areas
@@ -105,6 +199,23 @@ How do we train groups to interact?
 
 David Daidu - Bring work to front until good enough - Mastery marking - There is only one grade and it's A
 
+Other
+-----
+
+### Assessment Literacy
+* Students need to know what each of the assessment types are for (summative/formative). They have to see the value.
+    * Some students don't see the point in formative assessment (only look at the grade)
+    * Some students don't see the point in summative assessment (only care about personal progress and little for the course direction)
+    * Some think they know the content already
+* Feedback prior to summative assessment is vital
+
+### Bias
+
+* Assessments are a social construct
+    * There is bias involved
+        * What we think students _deserve_ (antonymous marking is better but sometimes not possible)
+    * They are not an exact science
+
 
 
 Computer Science Pedagogy (30min)
@@ -121,6 +232,12 @@ Async (20min)
 
 Sync (10min)
 * Discuss - how does this technique relate to the EEF 5 key areas?
+
+
+* > Programming taught from the front of the class at best only ever effectively teaches a third of the class.
+* > Allowing students to learn independently at their own pace and choose their own challenges allows greater flexibility for the teacher to stretch and support individual students.
+* > students that are absent from class are not disadvantaged and can even continue their work at home. 
+* > If a question is too difficult to answer, or a problem is too difficult to solve, these can be left to be discussed with the teacher. The student can still move on to the next objective or problem.
 
 
 
@@ -141,16 +258,16 @@ Feedback Cycle and Tools (30min)
         * Only accept student work when it is of a specific quality. You might only give one grade, an A. Students are expected to continue to redraft and resubmit their work as many times as necessary in order to achieve an A. The overall grade is then determined by the number of As.
     3. +, –, = (Plus, Minus, Equals) 
         * Mark student work in relation to previous work. If the latest work is of the same quality as the last, it receives an ‘=’, if it is better than the last, it receives a ‘+’, and if it is not as good as the last, it receives a ‘–‘. 
-    4. Responding to marking 
-        * Write your teacher feedback, signed and dated, at the start of the exercise book. Students then make an appropriate response below the teacher feedback, including where to find any redrafting. Do not mark the next piece of work until the student has responded to the last feedback provided. 
+    4. Responding to marking
+        * Write your teacher feedback, signed and dated, at the start of the exercise book. Students then make an appropriate response below the teacher feedback, including where to find any redrafting. Do not mark the next piece of work until the student has responded to the last feedback provided.
     5. Focused marking
         * Mark student work against one or two specific criteria, even though there may be many criteria that could be marked. This allows you to provide more focused and detailed feedback on these criteria than if everything was marked. The grade-book contains the skill marked rather than the title of the work set.
     6. Find and fix your mistakes
         * Instead of marking answers as correct or incorrect, tell the students the number of answers that were wrong. Give them time in class to find and correct their mistakes, either individually or in groups.
     7. Margin marking
-        * Instead of marking each spelling or grammar mistake on essays, place a mark in the margin. Students then find their own mistakes and correct them. 
+        * Instead of marking each spelling or grammar mistake on essays, place a mark in the margin. Students then find their own mistakes and correct them
     8. Traffic lights
-        * Give students a RED, AMBER or GREEN mark for a piece of work. All RED and AMBER work can be redrafted in an attempt to achieve a GREEN mark. The final grade is calculated from the number of GREEN and AMBER marks.
+        * Give students a RED, AMBER or GREEN mark for a piece of work. All RED and AMBER work can be redrafted in an attempt to achieve a GREEN mark. The final grade is calculated from the number of GREEN and AMBER marks
     9. Aim for the next level
         * Students identify areas of improvement by comparing their work to exemplars at the next level of achievement. Students realize that they need to set themselves higher standards. Able students find that they can improve a good piece of work.
     10. Match comments to work 
@@ -162,10 +279,12 @@ Consider the questions below (7min)
 * In the context of Computing and the Context of remote work - how would we accomplish this 'feedback cycle'?
     * How do we quickly comment on students code? and quickly see their progress?
 
+
+
 ### Feedback Loop/Cycle
 
 * Teacher needs to actively monitor work
-    * Students need to know that you care about the work (if you dont care, why should they care)
+    * Students need to know that you care about the work (if you don't care, why should they care)
 * Teacher give actionable feedback
 * Students needs to digest and then action
 * Teacher identify that action has been taken based on the feedback
@@ -191,8 +310,37 @@ Show you care - two way process
 * Sync: Discuss tooling and workflows (15min)
     * I've got some ideas ... I'm interested to hear yours
         * git?
-        * repl.it?
+        * [repl.it](https://replit.com/site/teams-for-education)
         * physical workbook?
+
+
+Automated Tests
+---------------
+
+* A super power for our subject disaplin with code.
+    * This is another reason the code first approach has merit
+* python doctests
+
+TODO
+http://theory.stanford.edu/~aiken/moss/
+https://www.mimirhq.com/classroom/demo_video mimir classroom
+    * Video
+        * Coding assignment - see animation of how student solved problem
+
+* https://replit.com/@calaldees/DoctestMarkdownTest
+    * An example of using different types of automated test.
+        * Doctests
+        * Doctest in separate MarkDown file
+        * Doctests inline with code
+        * Tests via Main method and assertions
+    * TASK
+        * Complete the tests that fail when you hit the run button
+        * Add a repl.it unit test for subtract (the _tick_ icon on the left)
+        * Using the shell command-line run the other examples
+            * see `.replit` for the command
+* https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/data/crypto.md
+* An example of use professionally - inline doctest
+    * https://github.com/calaldees/libs/blob/71a86ada8d641b49215893c53b92c31190254e13/python3/calaldees/music.py#L27
 
 
 All student response systems (30 min)
@@ -215,11 +363,13 @@ Don't get responses from one student - get from all students all the time
             * Code + diagrams
     * Disadvantages
         * Transient (not trackable)
+        * Logistical to distribute and provide workings pens (you need a BIG cheap stash) - expensive?
 * Shared Text Chat
     * Advantages
         * Simple
     * Disadvantages
-        * Public (could be setup to be one way?)
+        * Public (do what your mate does)
+            * (could it be setup to be one way to teacher?)
         * Limited to text
 * [plickers.com](https://plickers.com/) (Kind of a QRcode with orientation printed on A4 paper)
     * Advantages
@@ -256,7 +406,16 @@ In a physical classroom you can visibly see the progress of most students. This 
 * If any kid loses, damages or gratifies their cup - they loose their ability to feedback
 
 TASK: Read (10min)
-* [10 top tips for using traffic light cups to improve assessment](http://www.innovatemyschool.com/ideas/traffic-light-cups-to-enhance-assessment-for-learning-ten-top-tips) 2011 blog (by a cup company)
+* [10 top tips for using traffic light cups to improve assessment](https://www.stmartins.caerphilly.sch.uk/attachments/download.asp?file=1240&type=pdf)
+* [Why bother asking students what they think?](https://www.eteach.com/blog/why-traffic-lights-gets-the-thumbs-down)
+    * > we can't trust students and they lie for good reasons because they have their own agendas
+        * disrupt? duning kruger?
+    * > Self-assessment doesn’t help students towards becoming autonomous learners. Self-assessment is more like self-deception. The use of choice cards and traffic lighting doesn't encourage student voice and empower student engagement and learning. It clouds it and muddies assessment.
+    * > The teacher is the expert, not the pupil and it's us that makes accurate assessments. 
+    * > Self-assessment is about as accurate as peer-assessment. If your mate is assessing you then you'll do well. If it's someone that doesn't, expect a list of critiques.
+
+* Extra point of mine - the struggle IS the learning - If you help every time they are actually making progress you train them to take there agency away.
+    * _struggle_ is not the same as _disengaged_ or _blocked_
 
 #### Online?
 * In an online context Blackboard has support for this 'status' but it is temporal (will decay after 60 seconds).
@@ -269,7 +428,6 @@ TASK: Read (10min)
     * [PARTY TABLEWARE - Plates/Cups/Napkins/Tablecovers/Bags/Balloons - 8 Colours](https://www.ebay.co.uk/itm/PARTY-TABLEWARE-Plates-Cups-Napkins-Tablecovers-Bags-Balloons-8-Colours/142262660211?var=441321487781&epid=1605170486&hash=item211f83ec73:g:0jYAAOSw7NNT7GtT)
 
 ### Async - long form
-
 * What about responses systems in an async world?
 * How would the tools be different?
     * Wiki? Forums?
@@ -313,20 +471,31 @@ I spent 3 hours this holiday making a proof of concept mobile feedback capture s
 
 TASK: Give it a try
 Can we think of any other simple tools that could help us with data management for feedback?
-(This leads on to next session _Data and Management_)
+(This leads on to a future session about _Data and Management_)
 
 The important next step would be making this feedback visible to the student.
+
+
+* Impact of feedback == Students Confidence in original answer
+    * [School students’ confidence when answering diagnostic questions online](https://link.springer.com/article/10.1007/s10649-021-10084-7)
+
 
 
 Further Reading
 ---------------
 
 * [Rethinking models of feedback for learning: the challenge of design](https://www.tandfonline.com/doi/abs/10.1080/02602938.2012.691462?needAccess=true&journalCode=caeh20) Boud 2012
-    * > Student feedback is a contentious and confusing issue throughout higher education institutions. This paper develops and analyses two models of feedback: the first is based on the origins of the term in the disciplines of engineering and biology. It positions teachers as the drivers of feedback. The second draws on ideas of sustainable assessment. This positions learners as having a key role in driving learning, and thus generating and soliciting their own feedback. It suggests that the second model equips students beyond the immediate task and does not lead to false expectations that courses cannot deliver.
-    * CUrriculum design
+    * > Student feedback is a contentious and confusing issue throughout higher education institutions. This paper develops and analyses two models of feedback: 
+        * > the first is based on the origins of the term in the disciplines of engineering and biology. It positions teachers as the drivers of feedback. 
+        * > The second draws on ideas of sustainable assessment. This positions learners as having a key role in driving learning, and thus generating and soliciting their own feedback. It suggests that the second model equips students beyond the immediate task and does not lead to false expectations that courses cannot deliver.
+    * Curriculum design
     * Time-on-task, the most thoroughly documented contributor to student achievement (Hattie 2009)
     * > there needs to be a way of detecting that there has been an effect in the direction desired. The cycle of feedback needs to be completed. If there is no discernable effect, then feedback has not occurred.
-    * > Sadler (1989, 78) to identify three conditions for effective feedback: (1) student knowledge of the standards that needs to be applied; (2) having to compare those standards to the students’ own work and (3) the student taking action to close the gap between the two. The second and third conditions both require the student to actively engage with the feedback.
+    * Sadler (1989, 78) to identify three conditions for effective feedback: 
+        * (1) student knowledge of the standards that needs to be applied; 
+        * (2) having to compare those standards to the students’ own work and 
+        * (3) the student taking action to close the gap between the two. 
+        * The second and third conditions both require the student to actively engage with the feedback.
     * four characteristics of sustainable feedback:
         1. involving students in dialogues about learning which raise their awareness of quality performance;
         2. facilitating feedback processes through which students are stimulated to develop capacities in monitoring and evaluating their own learning;
@@ -372,12 +541,8 @@ Further Reading
 
 
 
----
 
-* [10 Feedback Techniques That Make Students Think](https://www.dylanwiliamcenter.com/wp-content/uploads/sites/3/2015/02/10-Feedback-Techniques.pdf) Dylan Wiliam 2015 (15min)
-    * Here are a list of general feedback and marking techniques
-    * In the context of Computing and the Context of remote work - how would we acomplish this 'fast feedback cycle'?
-        * We will discuss tooling and workflows
+---
 
 
 * [EEF Project: Embedding Formative Assessment](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/embedding-formative-assessment/) Trial 2018
@@ -495,36 +660,8 @@ Student survey "Was your feedback helpful"
     * Feedback needs to match the grade
     * Feedback need to be actionable
 
-### Assessment Literacy
-* Students need to know what each of the assessment types are for (summative/formative). They have to see the value.
-    * Some students don't see the point in formative assessment (only look at the grade)
-    * Some students don't see the point in summative assessment (only care about personal progress and little for the course direction)
-    * Some think they know the content already
-* Feedback prior to summative assessment is vital
-
-### Bias
-
-* Assessments are a social construct
-    * There is bias involved
-        * What we think students _deserve_ (antonymous marking is better but sometimes not possible)
-    * They are not an exact science
 
 
-
-Assessment (Old Notes)
-======================
-
-Objective:
-* Understand the required formal assessment methods in schools
-* Understand the need/techniques for Summative and Formative assessment
-* Appreciate the difference between the visible and invisible curriculum
-
-This session fundamentally describes the entire profession.
-This is the single most important session in the entire year.
-
-We must deeply internalise and understand the extremes.
-We NEED assessment and we NEED humanisation.
-We are going to journey through a range of emotions.
 
 
 Visible Curriculum - The Education Machine (A historical syndical lens)
@@ -558,7 +695,7 @@ Why are you here?
     * Sort the list
 
 * When dealing with averages on this scale, no excuse matters
-    * One student had XYZ so they attained poorly. Well averages state another student did better than expected. The world is even. The exucse that a whole class is 'rotten' doesn't hold up against the averages. The weak link is you.
+    * One student had XYZ so they attained poorly. Well averages state another student did better than expected. The world is even. The excuse that a whole class is 'rotten' doesn't hold up against the averages. The weak link is you.
 
 * Schools want this standardised assessment
 * Parents want this standardised assessment
@@ -646,7 +783,15 @@ ITT Core Framework
 6.2
 > Good assessment helps teachers avoid being over-influenced by potentially misleading factors, such as how busy pupils appear
 
-### Formative
+Dylan Wiliam - Formative Assessment
+------------
+
+* Dylan-Wiliam
+    * [dylanwiliam.org](http://www.dylanwiliam.org)
+    * [dylanwiliamcenter.com](https://www.dylanwiliamcenter.com/)
+    * [@dylanwiliam](https://twitter.com/dylanwiliam)
+    * [Author: Amazon](https://www.amazon.co.uk/Dylan-Wiliam/e/B004X8F5IC)
+
 
 Formative assessment is more effective steaming/setting
 * [Inside the Black Box](https://journals.sagepub.com/doi/10.1177/003172171009200119) (Black and Wiliam, 1998) [alternate](https://weaeducation.typepad.co.uk/files/blackbox.pdf)
@@ -656,14 +801,10 @@ Formative assessment is more effective steaming/setting
     * > Opportunities for pupils to express their understanding should be designed into any piece of teaching, for this will initiate the interaction whereby formative assessment aids learning
     * > The dialogue between pupils and a teacher should be thoughtful, reflective, focused to evoke and explore understanding, and conducted so that all pupils have an opportunity to think and to express their ideas
     * > Tests and homework exercises can be an invaluable guide to learning, but the exercises must be clear and relevant to learning aims. The feedback on them should give each pupil guidance on how to improve, and each must be given opportunity and help to work at the improvement
-* [Working inside the Black Box: Assessment for Learning in the Classroom](https://journals.sagepub.com/doi/10.1177/003172170408600105)
-
-Ruth Butler 1987
-* mark only
-* comment only (30% improvement)
-* mark and comment
-
-
+* [Working inside the Black Box: Assessment for Learning in the Classroom](https://journals.sagepub.com/doi/10.1177/003172170408600105) 2004 Wiliam, Black, et al
+* [Inside the Black Box: Raising Standards through Classroom Assessment](https://journals.sagepub.com/doi/full/10.1177/003172171009200119) 2010 Paul Black, Dylan Wiliam
+    * [What is formative assessment, why hasn’t it worked in schools, and how can we make it better in the classroom?](https://impact.chartered.college/article/booth-what-formative-assessment-make-better-classroom/) 2017
+        * > The big mistake that Paul and I made was calling this stuff “assessment”… because when you use the word assessment, people think about tests and exams’ (Stewart, 2012). He later commented that it should probably have been called something like ‘responsive teaching’ (Wiliam, 2013b).
 * [Dylan William: What do we mean by Assessment for Learning?](https://www.youtube.com/watch?v=q-myBw36_DA) 9min 2018
     * Research suggests consistent effects
     * "Assessment of learning" helps teacher - not learner
@@ -854,7 +995,7 @@ Advantages of peer assessment
 * stepping stone for self assessment
 * less threatening than teacher
 * more honest (brutal)
-* language more relateable
+* language more relatable
 * more likely to interrupt rather than continue listening to teacher
 * different approach angle than teacher
 
@@ -881,7 +1022,6 @@ Online
 ------
 
 [Teaching online-Ways to Assess Students](https://www.youtube.com/watch?v=7eGk9FgCjR4) - Russell Stannard (Teacher Training Videos)
-
 * Quiz
     * Google Forms
         * Free + gives you data
@@ -1042,11 +1182,6 @@ Other
 ICT needed for other subjects
 Computing not understood why it is needed
 
-* Dylan-Wiliam
-    * [dylanwiliam.org](http://www.dylanwiliam.org)
-    * [dylanwiliamcenter.com](https://www.dylanwiliamcenter.com/)
-    * [@dylanwiliam](https://twitter.com/dylanwiliam)
-    * [Author: Amazon](https://www.amazon.co.uk/Dylan-Wiliam/e/B004X8F5IC)
 
 
 
@@ -1156,9 +1291,6 @@ pizza 2015 Reliably assess collaborative problem solving
     * An Interdisciplinary Experience
 
 
-* [Inside the Black Box: Raising Standards through Classroom Assessment](https://journals.sagepub.com/doi/full/10.1177/003172171009200119) 2010 Paul Black, Dylan Wiliam
-    * [What is formative assessment, why hasn’t it worked in schools, and how can we make it better in the classroom?](https://impact.chartered.college/article/booth-what-formative-assessment-make-better-classroom/) 2017
-        * > The big mistake that Paul and I made was calling this stuff “assessment”… because when you use the word assessment, people think about tests and exams’ (Stewart, 2012). He later commented that it should probably have been called something like ‘responsive teaching’ (Wiliam, 2013b).
 
 
 
@@ -1242,8 +1374,6 @@ Unsorted
     * 
 * [CAS Assessment Working Group](https://community.computingatschool.org.uk/resources/5304/single#)
     * [CAS Assessment working group response to Consultation on how GCSE, AS and A level grades should be awarded in summer 2021](https://community.computingatschool.org.uk/files/11162/original.pdf)
-
-* [CAS Assessment working group ](https://community.computingatschool.org.uk/resources/5304/single#)
     * How do we see what the group have produced?
 
 Set the same test again - tell the students this - give them time to prepare - you can measure the improvement
@@ -1251,9 +1381,12 @@ This can be the same for interleived questions
 
 
 * [TASK-BASED ASSESSMENT OF STUDENTS’ COMPUTATIONAL THINKING SKILLS DEVELOPED THROUGH VISUAL PROGRAMMING OR TANGIBLE CODING ENVIRONMENTS](https://files.eric.ed.gov/fulltext/ED571389.pdf) Takam Djambong and Viktor Freiman 2016 - 13th International Conference on Cognition and Exploratory Learning in Digital Age (CELDA 2016)
+    * Categories of computaitonal thinking that babras.uk excert are testing
 * [Computational Thinking Test (CTT) for Middle School Students](https://www.researchgate.net/publication/324680249_Computational_Thinking_Test_CTT_for_Middle_School_Students)
 * [COMPUTATIONAL THINKING TEST: DESIGN GUIDELINES AND CONTENT VALIDATION](https://www.researchgate.net/publication/290391277_COMPUTATIONAL_THINKING_TEST_DESIGN_GUIDELINES_AND_CONTENT_VALIDATION)
     * [Bebras Quizs](http://www.cs.nuim.ie/~amooney/CS2Go/) pdf
+    * [bebras.uk](https://bebras.uk/)
+    * [bebras.uk/admin/](https://bebras.uk/admin/) - you have to sign up to get backstage answers
 * [Computer Science To Go (CS2Go): Developing a course to introduce and teach Computer Science and Computational Thinking to secondary school students ](http://mural.maynoothuniversity.ie/11015/) 2019 James Lockwood
     * Creating the Cs2Go course/system
 * [Developing a Computational Thinking Test using Bebras problems](https://core.ac.uk/download/pdf/297030171.pdf) 2019 James Lockwood, Aidan Mooney,  - Maynooth University, Maynooth, Co. Kildare, Ireland
