@@ -664,3 +664,12 @@ Not enough ICT - digital content creator
         * Are celebrities _good_?
         * They picked family members
             * Does this mean parents are really influential
+
+
+
+An environment of compassion
+'Desireability attack'
+Competative social  environment
+stress
+
+

@@ -32,11 +32,13 @@ Teachers' Standards
 * use relevant data to monitor progress, set targets, and plan subsequent lessons  
 * give pupils regular feedback, both orally and through accurate marking, and encourage pupils to respond to the feedback.
 
+Get a feel for the core concepts of formative assessment
 
 > When the cook tastes the soup, thats formative assessment. When the customer tastes the soup, that's summative assessment.
 > <sub>Dirkson 1991</sub>
 
 
+Assessment is a critical part of your work
 ```mermaid
 graph TD
     learning_outcomes[Learning Outcomes]
@@ -48,13 +50,26 @@ graph TD
     learning_outcomes --> reflection --> lesson_plan --> assessment --> tracking --> learning_outcomes
 ```
 
-Introduction - Core Formative assessment principles (1.5 hours)
+
+Introduction - Core Formative assessment principles
 ------------
 
-TODO: 
 * EEF [Teacher Feedback to Improve Pupil Learning](https://educationendowmentfoundation.org.uk/tools/guidance-reports/feedback/) 2018 - Six recommendations for using teacher feedback to improve pupil learning
+    1. SET EXPECTATIONS: Lay the foundations for effective feedback
+    2. TIMELY: Deliver appropriately timed feedback that focuses on moving learning forward
+    3. PLAN TO USE: Plan for how pupils will receive and use feedback
+    4. WRITTEN: Carefully consider how to use purposeful, and time-efficient, written feedback
+    5. VERBAL: Carefully consider how to use purposeful verbal feedback
+* [EEF Project: Embedding Formative Assessment](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/embedding-formative-assessment/) Trial 2018
+    * Local teaching groups asked to have a range of collaborative sessions address these 5 key points
+        1. clarifying, sharing and understanding learning intentions
+        2. engineering effective classroom discussions and activities
+        3. providing feedback that moves learning forward
+        4. activating learners as instructional resources for one another
+        5. activating learners as owners of their own learning
+    6. CONSISTENT: Design a school feedback policy that prioritises and exemplifies the principles of effective feedback
 
-Get a feel for the core concepts of formative assessment
+
 
 * [Professor Hattie on how to improve learning in the classroom](https://www.youtube.com/watch?v=pnz6Tpm32JM) Hattie 2min YouTube Video
     * > Know thy impact
@@ -132,18 +147,18 @@ Feed Forward
     * Dump the past - embrace the future
     * Feedback - People get defensive about the past
         * You have to use a praise sandwich
-        * Focus on mesurement (not a plan)
-        * From a position of hirearchy
+        * Focus on measurement (not a plan)
+        * From a position of hierarchy
     * Feed forward - Actions for the future
         * Prompt for solutions
         * action plan
         * from varied viewpoints
         * focused
         * what if xyz
-![](https://x78251kcpll2l2t9e46kf96a-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/Feedforward-Chart.png)
+![Feedback/FeedForward Comparison](https://x78251kcpll2l2t9e46kf96a-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/Feedforward-Chart.png)
 
 
-EEF Trial (45min)
+EEF Trial (30min)
 ---------
 
 * Async - Read (10min)
@@ -152,11 +167,11 @@ EEF Trial (45min)
         * We will be working on our own strategies for these points in the session
     * TLC agendas and materials focused on five key formative assessment strategies: 
         * clarifying, sharing and understanding learning intentions
-        * engineering effective classroom  discussions and  activities
-        * providing  feedback -  that  moves  learning  forward
+        * engineering effective classroom  discussions and activities
+        * providing  feedback - that  moves  learning  forward
         * activating learners as instructional resources for one another
         * activating learners as owners of their own learning 
-    * Within each of these high-level  concepts, the TLC handouts introduced  multiple formative assessment techniques for teachers to consider
+    * > Within each of these high-level  concepts, the TLC handouts introduced  multiple formative assessment techniques for teachers to consider
 
 * > The additional progress made by children in the lowest third for prior attainment was greater than that made by children in the highest third.
 * > The process evaluation indicated it may take more time for improvements in teaching practices and pupil learning strategies to feed fully into pupil attainment. Many teachers thought that younger students were more receptive to the intervention than their older and more exam-minded peers.
@@ -202,7 +217,7 @@ David Daidu - Bring work to front until good enough - Mastery marking - There is
 Other
 -----
 
-### Assessment Literacy
+### "Assessment Literacy"
 * Students need to know what each of the assessment types are for (summative/formative). They have to see the value.
     * Some students don't see the point in formative assessment (only look at the grade)
     * Some students don't see the point in summative assessment (only care about personal progress and little for the course direction)
@@ -210,7 +225,6 @@ Other
 * Feedback prior to summative assessment is vital
 
 ### Bias
-
 * Assessments are a social construct
     * There is bias involved
         * What we think students _deserve_ (antonymous marking is better but sometimes not possible)
@@ -218,11 +232,10 @@ Other
 
 
 
-Computer Science Pedagogy (30min)
+Computer Science: Example Case Study (30min)
 -------------------------
 
-Async (20min)
-* Read (15min)
+* Read (10min)
     * [Programming with T.I.M.E](https://craigndave.org/programming-with-time/) 
         * What does TIME stand for?
         * Craig and Dave suggested - what is the teachers role in the classroom?
@@ -243,9 +256,6 @@ Sync (10min)
 
 Feedback Cycle and Tools (30min)
 ------------------------
-
-15min async
-15min sync
 
 ### Make Students Think
 
@@ -273,12 +283,9 @@ Feedback Cycle and Tools (30min)
     10. Match comments to work 
         * Write comments about students’ work on strips of paper without names. Sit students in groups of four. Each group of four students gets back their four pieces of work and their four comments. The group needs to decide which comment goes with which piece of work.
 
-Consider the questions below (7min)
+Consider the question below
 * Most of these examples are about a student having a paper workbook (some computing teachers do this!)
     * Can you describe an example of any of these that map to the context of teaching Computing in a digital/remote classroom?
-* In the context of Computing and the Context of remote work - how would we accomplish this 'feedback cycle'?
-    * How do we quickly comment on students code? and quickly see their progress?
-
 
 
 ### Feedback Loop/Cycle
@@ -299,33 +306,29 @@ graph TD
 
 Show you care - two way process
 
+### Discuss tooling and workflows (15min)
+
+* In the context of the modern Computing classroom - how would we accomplish this 'feedback cycle'?
+    * How do we quickly comment on students code? and quickly see their progress?
+
 * TASK: What tools could be used to:
     * facilitate this feedback exchange?
     * record this feedback exchange?
     * facilitate the feedback exchange in a timely manner?
         * provide alerts?
-
-### Tools?
-
-* Sync: Discuss tooling and workflows (15min)
-    * I've got some ideas ... I'm interested to hear yours
-        * git?
-        * [repl.it](https://replit.com/site/teams-for-education)
-        * physical workbook?
+* I've got some ideas ... I'm interested to hear yours
+    * git? 
+        * (anonymous, comments, script assisted)
+    * [repl.it](https://replit.com/site/teams-for-education)
+    * physical workbook?
 
 
-Automated Tests
+Automated Tests (30min)
 ---------------
 
 * A super power for our subject disaplin with code.
     * This is another reason the code first approach has merit
 * python doctests
-
-TODO
-http://theory.stanford.edu/~aiken/moss/
-https://www.mimirhq.com/classroom/demo_video mimir classroom
-    * Video
-        * Coding assignment - see animation of how student solved problem
 
 * https://replit.com/@calaldees/DoctestMarkdownTest
     * An example of using different types of automated test.
@@ -342,6 +345,14 @@ https://www.mimirhq.com/classroom/demo_video mimir classroom
 * An example of use professionally - inline doctest
     * https://github.com/calaldees/libs/blob/71a86ada8d641b49215893c53b92c31190254e13/python3/calaldees/music.py#L27
 
+### Professional systems
+
+* https://www.mimirhq.com/classroom/demo_video mimir classroom
+    * Video
+        * Coding assignment - see animation of how student solved problem
+* http://theory.stanford.edu/~aiken/moss/
+    * Plagiarism detection of code
+
 
 All student response systems (30 min)
 ----------------------------
@@ -351,10 +362,9 @@ Don't get responses from one student - get from all students all the time
 * [Canterbury Christ Church: Classroom Response Systems](https://www.canterbury.ac.uk/learning-and-teaching-enhancement/learning-platform-suite/classroom-response-systems.aspx)
     * Classroom Response Systems (CRS) can allow for polling of student opinions / ideas / resources in or out of the class, usually through the use of an app or web interface.
     * hummm ... not really overly impressive
-* [The Classroom Experiment: Dylan Wiliam: All Student Response Systems](https://youtu.be/J25d9aC1GZA?t=1973) 32:53 to 35:10 (2.5min)
+* [The Classroom Experiment: Dylan Wiliam: All Student Response Systems](https://youtu.be/J25d9aC1GZA?t=1973) 32:53 to 35:10 (2.5min exert)
     * The principles of whiteboard and traffic light cups are transferable to the digital domain
 
-### Mini Whiteboards
 
 * Physical Mini Whiteboards
     * Advantages
@@ -368,7 +378,7 @@ Don't get responses from one student - get from all students all the time
     * Advantages
         * Simple
     * Disadvantages
-        * Public (do what your mate does)
+        * Public (copy&paste what your mate does)
             * (could it be setup to be one way to teacher?)
         * Limited to text
 * [plickers.com](https://plickers.com/) (Kind of a QRcode with orientation printed on A4 paper)
@@ -376,19 +386,21 @@ Don't get responses from one student - get from all students all the time
         * Private
         * Trackable
     * Disadvantages
-        * Requires technology to participate
+        * Requires preparation of printed QRCodes to participate
         * Limited to multiple choice responses
-* [whiteboard.fi](https://whiteboard.fi/)
+* Digital mini whiteboards - [whiteboard.fi](https://whiteboard.fi/)
     * Advantages
         * Realtime
         * Private?
         * Savable
+        * Can be used on desktop computers - that the students are already logged in with?
     * Disadvantages
-        * Requires technology
-
+        * Requires technology - login? May not be immediate/fast?
+        * Difficult to input drawings?
 * [formative.com](https://www.formative.com/) - All Class Response System
 
-### Traffic Light Cups
+
+### Traffic Light Cups (20min)
 
 In a physical classroom you can visibly see the progress of most students. This takes a lot of expertise and concentration. You need to actively move around the room. Your opinion is not always accurate.
 
@@ -420,12 +432,6 @@ TASK: Read (10min)
 #### Online?
 * In an online context Blackboard has support for this 'status' but it is temporal (will decay after 60 seconds).
 * How else could we do this online?
-
-#### Purchase Ideas
-* Some link ideas from a few mins of searching
-    * [Unique-Party-99196-Green-Paper](https://www.amazon.co.uk/Unique-Party-99196-Green-Paper/dp/B01NBSBBFD/)
-    * [Beiersi Party Paper Cups 9oz (250ml) Disposable Party Cups,Pack of 10 (Yellow) ](https://www.amazon.co.uk/Beiersi-Party-Paper-Disposable-Yellow/dp/B076JK46V5/)
-    * [PARTY TABLEWARE - Plates/Cups/Napkins/Tablecovers/Bags/Balloons - 8 Colours](https://www.ebay.co.uk/itm/PARTY-TABLEWARE-Plates-Cups-Napkins-Tablecovers-Bags-Balloons-8-Colours/142262660211?var=441321487781&epid=1605170486&hash=item211f83ec73:g:0jYAAOSw7NNT7GtT)
 
 ### Async - long form
 * What about responses systems in an async world?
@@ -478,6 +484,26 @@ The important next step would be making this feedback visible to the student.
 
 * Impact of feedback == Students Confidence in original answer
     * [School students’ confidence when answering diagnostic questions online](https://link.springer.com/article/10.1007/s10649-021-10084-7)
+
+
+Feedback Task (1 hour)
+-------------
+
+* We've heard about
+    * Formative assessment helping the student move on and grow
+    * FeedForward (rather than feedback)
+
+* With the extracts of students work provided 
+    * (I know this is a slighting different domain to your classrooms, however; students still need to justify their choices and articulate their ideas - e.g. Computers and society, ethics, eSafty, security, impact of AI)
+* THIS IS RIDICULOUSLY HARD! Prepare to be overwhelmed by the complexity of the task I'm about to set.
+1. (20min) In teams of two or three - Attempt to construct "Marking criteria" for the piece - this will be used by you (teacher) and students to peer assess work
+    * Creating clear criteria is hard
+2. (10min) Give your "Marking Criteria" to another group - they will mark/grade a piece based on your criteria
+    * Using another persons criteria is hard
+3. (20min) In pairs - What written feedback would you give to one of these candidates? (you can do more than one, but one is going to be hard enough)
+    * Remember 'FeedForward'
+    * Creating meaningful, actionable feedback is hard
+
 
 
 
@@ -540,248 +566,6 @@ Further Reading
 
 
 
-
-
----
-
-
-* [EEF Project: Embedding Formative Assessment](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/embedding-formative-assessment/) Trial 2018
-    * Local teaching groups asked to have a range of collaborative sessions address these 5 key points
-        1. clarifying, sharing and understanding learning intentions
-        2. engineering effective classroom discussions and activities
-        3. providing feedback that moves learning forward
-        4. activating learners as instructional resources for one another
-        5. activating learners as owners of their own learning
-
-
-
-Unsorted
-========
-
-* Criteria set in advance
-* Fair
-* Feedback
-* 
-
-
-* Why
-    * Measure learning
-    * Certify Learning
-    * Improve Learning
-        * If the whole group fails a segment?
-    * Promote sustainable learning
-* QA of process
-    * Equitable, reliable, valid, fair
-* Think of types of assessment
-    * brainstorm ..
-    * Different for every subject and domain
-* Formative/Summative
-    * Formative assessment
-        * Low stakes
-        * Only purpose to help improve
-    * Summative assessment
-        * High stakes
-        * The higher the stakes means students will go to great lengths to gain an advantage by cheating
-* Types of Assessment Activity
-    1.  Traditional Exams
-    2.  Short-answer exams
-    3.  Multiple-choice exams
-    4.  Essays
-    5.  Annotated bibliographies
-    6.  Reports
-    7.  Portfolios of evidence
-    8.  Oral exams
-    9.  Individual presentations
-    10.  Posters
-* Rate (the above) on
-    * Validity
-    * Fairness
-    * Whodunit
-    * Real world
-    * Feedback to learners
-    * Advantages
-    * Disadvantages
-* Principles of design
-    * Align with learning objectives
-    * Reliable, fair valid
-    * inclusive and equitable
-    * Feedback is purposeful and supports learning process
-        * Referring to learning objectives
-    * Timely
-    * Efficient and manageable
-        * How long will it take to mark? Is the feedback worth it?
-* Something to ponder
-    * Should students design the learning outcomes? Or is that just for teachers?
-    * If students can select their method of assessment is that more inclusive (essay or poster?)
-    * How could you ensure that students understand the marking criteria?
-    * Most students don't like formative assessment because it dosnt count
-    * Rather than _punishing_ plagerisum. How can students be encaruaged to not want to plagerise?
-
-### Feedback
-
-Student survey "Was your feedback helpful"
-
-* What is it? Can you define it?
-    * Communicating how they can improve the quality of their work
-
-* Good feedback
-    * Timely
-    * Facilitate self assessment
-    * Delivers high quality information about their learning
-    * encourages teacher and peer dialogue
-    * Encourages positivity and self-esteem
-    * Helps close the gap between current and desired performance
-    * provides valuable information to teachers
-        * To improve delivery?
-    * How is feedback used?
-        * Direct instruction
-        * Reflective practice
-        * 1 to 1 discussion?
-        * 'Feed forward' targeting specific areas for improvement
-        * Develops students "appraisal expertise"
-        * Include students in the process
-            * If feedback is _one way_ students don't take it in. Actively engage students with the feedback.
-        * Constructive rather than descriptive
-            * Just praising does not help growth mindset
-                * "Praise makes you feel good, critique makes you better"
-        * Something they got right can be built on
-    * Anonymous marking
-        * The marker does not have any identifying aspects of the students
-    
-* Bad feedback
-
-* Principles of assessment design (Gibbs and Simpson, 2004)
-    * Number of assessments should be proportional to the amount of study time and love
-    * Assessment demands should be designed/communicated so students can allocate time/effort
-    * Assessment should engage students in producing learning activity of an appropriate kind
-    * Sufficient feedback needs to be provided, both often and in enough detail
-    * Feedback should focus on students performance and actions the students can control
-    * Timely (the feedback should still matter)
-    * Feedback needs to match the grade
-    * Feedback need to be actionable
-
-
-
-
-
-Visible Curriculum - The Education Machine (A historical syndical lens)
------------------------------------------------------------------------
-
-Why are you here?
-[Teachers' Standards](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/665522/Teachers_standard_information.pdf)
-
-* Help mould young people to be lifelong learners, passionate, self worth, collaborative, community driven human beings
-
-* Can't rely on teachers opinion - no standardisation
-* Baseline for comparison across departments/schools/county's
-* Evidence based rather than opinion based
-
-* You observe the students - you already know - you know them - you work with 1000's of kids with years of experience. You know. But you need evidence.
-
-* IQ of 86 - Minimum bar for military
-    * Under this number there is not a single task that can be given to the individual that is not counter productive.
-    * 10% of the population
-
-* Governments 'Value added': +/- from predicted attainment
-    * Take Sats (english/maths) estimate IQ
-    * Take entire country's GCSE results.
-    * Derive average expected GCSE attainment (year 11) from sats (year 7)
-    * Apply this derived heuristic to next years cohort (or loosely any future cohort at any yeargroup stage)
-* All teachers/departments are ranked in every school.
-    * Whether you're told or not; you are ranked.
-    * Take a single student
-    * Average all their other GCSE's
-    * Compare their GCSE average against your subjects attainment +/-
-    * Sort the list
-
-* When dealing with averages on this scale, no excuse matters
-    * One student had XYZ so they attained poorly. Well averages state another student did better than expected. The world is even. The excuse that a whole class is 'rotten' doesn't hold up against the averages. The weak link is you.
-
-* Schools want this standardised assessment
-* Parents want this standardised assessment
-* Government's want this standardised assessment
-
-* Teachers in different schools suffer different burdens
-    * Ghrama school teachers stating their two level 4's are shameful (one was a school refuser, one had learning difficulty's. The result is still abounding!)
-    * Comprehensive school teachers would be overjoyed at 38% of a class attaining level 4
-
-* Cambels law - Any system with a measurable metric is gamed.
-* Anything that you do that is not directly related to GCSE metrics (or open evening perception) is pointless.
-* SMT Don't know or care.
-* If you're _nice_ but don't produce results you'll be seen as a weak practitioner.
-
-* Cash cash cash
-    * A-Level class
-    * 16 students
-    * All predicted E's (because you cant be preicted U's because there is no point in sitting the course)
-        * Most students only got 4 GCSE's (in ICT that was 100% coursework), so they take ICT A-Level or Computing A-Level as it' the only foundation skill on paper they have competence in.
-    * If they are all predicted U's is this the best choice for this student?
-    * Who care's if it's good for the student; every bum on a seat is raw cash baby!!!
-
-* Education is a business
-* Welcome to the factory
-
-Every Teacher knows the system is not sufficient - let's not re-enforce that - let's find solutions
-
-Many people have advised governments against this and opinion/process is positively changing
-David Didau and Dylan Wiliam + MANY more are inspiring national change
-
-
-Invisible Curriculum - Character Traits
----------------------------------------
-
-* Draw a picture of a horse as accurately as possible - you will be marked on proportions, feature accuracy, detail - show publicly (5 min)
-* Outside (change lesson)
-* Write a 3 line poem about Computing. You have (5 min)
-
-Imagine being placed under somebody else's control every 60 minuets and asked to do something that you can't do and then display it publicly and constantly compare you to your peers.
-
-Activity: Why are you here? (Refer to the teacher standards)
-
-* "Everybody is a genius but if you judge a fish by its ability to climb a tree, it will live the rest of it's whole life thinking it's stupid" (Albert Einstein)
-* "There is nothing noble in being superior to your fellow men. True nobility lies in being superior to your former self" (Anthony Moore)
-* Ken Robinson's Story - Mary - Year 3 - Cold breaktime - drawing God - 'nobody knows what god looks like' - 'they will in a minuet miss' - then the lesson starts, robbed of that freedom.
-
-* The first step is to measure whatever can be easily measured. This is ok as far as it goes.
-* The second step is to disregard that which can't be measured or give it an arbitrary quantitative value. This is artificial and misleading.
-* The third step is to presume that what can't be measured easily really isn't very important. This is blindness.
-* The forth step is to say that that which can't be easily measured really doesn't exist.
-(Blatchford 2014)
-
-Activity: Discuss:Some schools ask for an attainment and effort grade? what do you think??
-
-* Brockman story
-* Charles Tom story
-
-Activity: Board: What are the character traits we want to inspire? Invisible Curriculum (Refer to the Teachers' Standards for inspiration).
-
-
-
-
-Summative/Formative Assessment
-------------------------------
-
-* Summative
-    * focus is on the outcome
-    * gcse result, grade, number
-    * no meaningful feedback
-* Formative
-    * > Any assessment that helps a pupil to learn and develop is formative (Perrenoud) 1991
-    * facilitates the participants development
-        * corrects a misconception
-    * suggestions for improvement, questioning, verbal feedback, self evaluation, peer assessment
-
-Ofsted (historically) wanted to ask students:
-* What grade/level are you currently at
-* What is there next step. How to improve
-    * Target setting is a formalised for of feedback - specific and challenging
-    * Short term and long term goals are required to make progress
-
-ITT Core Framework
-6.1
-> Effective assessment is critical to teaching because it provides teachers with information about pupils’ understanding and needs
-6.2
-> Good assessment helps teachers avoid being over-influenced by potentially misleading factors, such as how busy pupils appear
 
 Dylan Wiliam - Formative Assessment
 ------------
@@ -945,16 +729,271 @@ Formative assessment is more effective steaming/setting
     * 01:12:20 "You have to have slack to do formative assessment"
     * The thinking capacity of novices and experts is the same. Experts can draw on long term memory
 
-
-
 Using evidence of achievement to adapt what happens in classrooms to meet learner needs
 
 
 
-* [Formative assessment in the computer science classroom](https://www.raspberrypi.org/blog/research-seminar-formative-assessment-computer-science-classroom/) Sentence 2020
-    * Not much detail here
-* [Formative Assessment](https://www.csforallteachers.org/blog/formative-assessment) Noah Mealy 2016
-    * Just talks about Socrative
+
+Computer-Based Assessment (CBA) - Computer Adaptive Testing (CAT)
+-----------------------------------------------------------------
+
+Whole journal and field of research dedicated to this branch of education.
+
+* [What is Computer-Based Assessment (CBA)?](https://now.ntu.ac.uk/d2l/lor/viewer/viewFile.d2lfile/6605/62186/CBA%20Revised/page_01.htm)
+    * Bull and McKenna (2004) cite the following reasons to use CBA:
+* [Computer-based tools for the assessment of learning processes in higher education: a comparative analysis](https://www.researchgate.net/publication/271211156_Computer-based_tools_for_the_assessment_of_learning_processes_in_higher_education_a_comparative_analysis) 2014
+    * List of software and features
+* [15 Benefits Of Computer-Based Testing](https://elearningindustry.com/15-benefits-of-computer-based-testing)
+    * More testing dates + much expossure (for exam based)
+    * Dynamic and individualised
+    * Immediate grade
+    * accelerate open ended assignments + aid admin efficiency
+        * [Kaizena](https://workspace.google.com/marketplace/app/kaizena/354175553078) - google docs plugin for voice comments + skill tracking
+    * vertical and horizontal aligned (criterion based) or (norm-referenced)
+    * value added growth measure
+    * uncover student thinking (diagnostic)
+    * engaging
+    * analytics for instructor and learner
+    * range of devices / situations
+* [Models Of Online Assessment, Part 1: Computer Adaptive Testing](https://elearningindustry.com/computer-adaptive-testing-models-online-assessment-part-1)
+    * technology-based assessments can (Burns et al., 2010; Burns, Christ, Kovaleski, Shapiro, & Ysseldyke, 2008: 18)
+        * measure complex thinking and lower the cost differential because technology-based assessments take less time to score, store and share. 
+        * They can enable quick turnaround of assessment data to the instructor and learners, allowing instructors to assess learner performance at a much more granular, detailed level. 
+        * they can allow more reliable scoring and valid data interpretation 
+    * > CATs are technology-based or online testing systems created by content specialists, psychometricians, programmers and web designers.
+      > They contain large test item banks and, when designed well, can attain high discriminating power. They do this through constant calibration or “adaptation.
+* [Journal of Computer Assisted Learning](https://onlinelibrary.wiley.com/journal/13652729)
+    * [Review of computer-based assessment for learning in elementary and secondary education](https://myweb.fsu.edu/vshute/pdf/jcal.pdf) Shute and Rahimi 2016
+        * Generated personalised tests with question banks and immdiate feedback
+        * design feedback so that it can be used
+        * Our findings indicate that generally, assess-ment _of_ learning tends to be more prevalent than assess-ment _for_ learning in online-learning setting
+        * Data driven continuous CBAfL
+            * spotting statistical weakness
+            * extensive and ongoing analyses of the data that the learners produce in various digital learning environments
+            * auto pairing students
+        * We also expect that innovative CBAfL techniques willmove beyond the laboratory and into the mainstream,and we will no longer have to rely solely on high-staketests for assessing students’knowledge and skills (Shuteet al., 2016a). The boundaries between instruction, learn-ing and assessment will eventually become blurred.
+
+
+Computational Thinking Assessment - bebras.uk
+---------------------------------
+
+* [TASK-BASED ASSESSMENT OF STUDENTS’ COMPUTATIONAL THINKING SKILLS DEVELOPED THROUGH VISUAL PROGRAMMING OR TANGIBLE CODING ENVIRONMENTS](https://files.eric.ed.gov/fulltext/ED571389.pdf) Takam Djambong and Viktor Freiman 2016 - 13th International Conference on Cognition and Exploratory Learning in Digital Age (CELDA 2016)
+    * Categories of computaitonal thinking that babras.uk excert are testing
+* [Computational Thinking Test (CTT) for Middle School Students](https://www.researchgate.net/publication/324680249_Computational_Thinking_Test_CTT_for_Middle_School_Students)
+* [COMPUTATIONAL THINKING TEST: DESIGN GUIDELINES AND CONTENT VALIDATION](https://www.researchgate.net/publication/290391277_COMPUTATIONAL_THINKING_TEST_DESIGN_GUIDELINES_AND_CONTENT_VALIDATION)
+    * [Bebras Quizs](http://www.cs.nuim.ie/~amooney/CS2Go/) pdf
+    * [bebras.uk](https://bebras.uk/)
+    * [bebras.uk/admin/](https://bebras.uk/admin/) - you have to sign up to get backstage answers
+* [Developing a Computational Thinking Test using Bebras problems](https://core.ac.uk/download/pdf/297030171.pdf) 2019 James Lockwood, Aidan Mooney,  - Maynooth University, Maynooth, Co. Kildare, Ireland
+* [Computer Science To Go (CS2Go): Developing a course to introduce and teach Computer Science and Computational Thinking to secondary school students ](http://mural.maynoothuniversity.ie/11015/) 2019 James Lockwood
+    * Creating the Cs2Go course/system
+* [Which cognitive abilities underlie computational thinking? Criterion validity of the Computational Thinking Test](https://www.computacional.com.br/files/Gerais/ROMAN%20-%20Which%20cognitive%20abilities%20underlie%20computational%20thinking.pdf) 2016 - Marcos Roman-Gonzalez*, Juan-Carlos Perez-Gonzalez, Carmen Jimenez-Fernandez
+    * breakdown of what is being assessed with Computation Thinking
+
+
+----
+
+
+Unsorted
+========
+
+
+* Criteria set in advance
+* Fair
+* Feedback
+* 
+
+
+* Why
+    * Measure learning
+    * Certify Learning
+    * Improve Learning
+        * If the whole group fails a segment?
+    * Promote sustainable learning
+* QA of process
+    * Equitable, reliable, valid, fair
+* Think of types of assessment
+    * brainstorm ..
+    * Different for every subject and domain
+* Formative/Summative
+    * Formative assessment
+        * Low stakes
+        * Only purpose to help improve
+    * Summative assessment
+        * High stakes
+        * The higher the stakes means students will go to great lengths to gain an advantage by cheating
+* Types of Assessment Activity
+    1.  Traditional Exams
+    2.  Short-answer exams
+    3.  Multiple-choice exams
+    4.  Essays
+    5.  Annotated bibliographies
+    6.  Reports
+    7.  Portfolios of evidence
+    8.  Oral exams
+    9.  Individual presentations
+    10.  Posters
+* Rate (the above) on
+    * Validity
+    * Fairness
+    * Whodunit
+    * Real world
+    * Feedback to learners
+    * Advantages
+    * Disadvantages
+* Principles of design
+    * Align with learning objectives
+    * Reliable, fair valid
+    * inclusive and equitable
+    * Feedback is purposeful and supports learning process
+        * Referring to learning objectives
+    * Timely
+    * Efficient and manageable
+        * How long will it take to mark? Is the feedback worth it?
+* Something to ponder
+    * Should students design the learning outcomes? Or is that just for teachers?
+    * If students can select their method of assessment is that more inclusive (essay or poster?)
+    * How could you ensure that students understand the marking criteria?
+    * Most students don't like formative assessment because it dosnt count
+    * Rather than _punishing_ plagerisum. How can students be encaruaged to not want to plagerise?
+
+### Feedback
+
+Student survey "Was your feedback helpful"
+
+* What is it? Can you define it?
+    * Communicating how they can improve the quality of their work
+
+* Good feedback
+    * Timely
+    * Facilitate self assessment
+    * Delivers high quality information about their learning
+    * encourages teacher and peer dialogue
+    * Encourages positivity and self-esteem
+    * Helps close the gap between current and desired performance
+    * provides valuable information to teachers
+        * To improve delivery?
+    * How is feedback used?
+        * Direct instruction
+        * Reflective practice
+        * 1 to 1 discussion?
+        * 'Feed forward' targeting specific areas for improvement
+        * Develops students "appraisal expertise"
+        * Include students in the process
+            * If feedback is _one way_ students don't take it in. Actively engage students with the feedback.
+        * Constructive rather than descriptive
+            * Just praising does not help growth mindset
+                * "Praise makes you feel good, critique makes you better"
+        * Something they got right can be built on
+    * Anonymous marking
+        * The marker does not have any identifying aspects of the students
+    
+* Bad feedback
+
+* Principles of assessment design (Gibbs and Simpson, 2004)
+    * Number of assessments should be proportional to the amount of study time and love
+    * Assessment demands should be designed/communicated so students can allocate time/effort
+    * Assessment should engage students in producing learning activity of an appropriate kind
+    * Sufficient feedback needs to be provided, both often and in enough detail
+    * Feedback should focus on students performance and actions the students can control
+    * Timely (the feedback should still matter)
+    * Feedback needs to match the grade
+    * Feedback need to be actionable
+
+
+
+
+Visible Curriculum - The Education Machine (A historical syndical lens)
+-----------------------------------------------------------------------
+
+Why are you here?
+[Teachers' Standards](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/665522/Teachers_standard_information.pdf)
+
+* Help mould young people to be lifelong learners, passionate, self worth, collaborative, community driven human beings
+
+* Can't rely on teachers opinion - no standardisation
+* Baseline for comparison across departments/schools/county's
+* Evidence based rather than opinion based
+
+* You observe the students - you already know - you know them - you work with 1000's of kids with years of experience. You know. But you need evidence.
+
+* IQ of 86 - Minimum bar for military
+    * Under this number there is not a single task that can be given to the individual that is not counter productive.
+    * 10% of the population
+
+* Governments 'Value added': +/- from predicted attainment
+    * Take Sats (english/maths) estimate IQ
+    * Take entire country's GCSE results.
+    * Derive average expected GCSE attainment (year 11) from sats (year 7)
+    * Apply this derived heuristic to next years cohort (or loosely any future cohort at any yeargroup stage)
+* All teachers/departments are ranked in every school.
+    * Whether you're told or not; you are ranked.
+    * Take a single student
+    * Average all their other GCSE's
+    * Compare their GCSE average against your subjects attainment +/-
+    * Sort the list
+
+* When dealing with averages on this scale, no excuse matters
+    * One student had XYZ so they attained poorly. Well averages state another student did better than expected. The world is even. The excuse that a whole class is 'rotten' doesn't hold up against the averages. The weak link is you.
+
+* Schools want this standardised assessment
+* Parents want this standardised assessment
+* Government's want this standardised assessment
+
+* Teachers in different schools suffer different burdens
+    * Ghrama school teachers stating their two level 4's are shameful (one was a school refuser, one had learning difficulty's. The result is still abounding!)
+    * Comprehensive school teachers would be overjoyed at 38% of a class attaining level 4
+
+* Cambels law - Any system with a measurable metric is gamed.
+* Anything that you do that is not directly related to GCSE metrics (or open evening perception) is pointless.
+* SMT Don't know or care.
+* If you're _nice_ but don't produce results you'll be seen as a weak practitioner.
+
+* Cash cash cash
+    * A-Level class
+    * 16 students
+    * All predicted E's (because you cant be preicted U's because there is no point in sitting the course)
+        * Most students only got 4 GCSE's (in ICT that was 100% coursework), so they take ICT A-Level or Computing A-Level as it' the only foundation skill on paper they have competence in.
+    * If they are all predicted U's is this the best choice for this student?
+    * Who care's if it's good for the student; every bum on a seat is raw cash baby!!!
+
+* Education is a business
+* Welcome to the factory
+
+Every Teacher knows the system is not sufficient - let's not re-enforce that - let's find solutions
+
+Many people have advised governments against this and opinion/process is positively changing
+David Didau and Dylan Wiliam + MANY more are inspiring national change
+
+
+Invisible Curriculum - Character Traits
+---------------------------------------
+
+* Draw a picture of a horse as accurately as possible - you will be marked on proportions, feature accuracy, detail - show publicly (5 min)
+* Outside (change lesson)
+* Write a 3 line poem about Computing. You have (5 min)
+
+Imagine being placed under somebody else's control every 60 minuets and asked to do something that you can't do and then display it publicly and constantly compare you to your peers.
+
+Activity: Why are you here? (Refer to the teacher standards)
+
+* "Everybody is a genius but if you judge a fish by its ability to climb a tree, it will live the rest of it's whole life thinking it's stupid" (Albert Einstein)
+* "There is nothing noble in being superior to your fellow men. True nobility lies in being superior to your former self" (Anthony Moore)
+* Ken Robinson's Story - Mary - Year 3 - Cold breaktime - drawing God - 'nobody knows what god looks like' - 'they will in a minuet miss' - then the lesson starts, robbed of that freedom.
+
+* The first step is to measure whatever can be easily measured. This is ok as far as it goes.
+* The second step is to disregard that which can't be measured or give it an arbitrary quantitative value. This is artificial and misleading.
+* The third step is to presume that what can't be measured easily really isn't very important. This is blindness.
+* The forth step is to say that that which can't be easily measured really doesn't exist.
+(Blatchford 2014)
+
+Activity: Discuss:Some schools ask for an attainment and effort grade? what do you think??
+
+* Brockman story
+* Charles Tom story
+
+Activity: Board: What are the character traits we want to inspire? Invisible Curriculum (Refer to the Teachers' Standards for inspiration).
+
 
 
 * TODO
@@ -1299,30 +1338,6 @@ pizza 2015 Reliably assess collaborative problem solving
     * > Did a pre-mock past paper test with my middle set Y11s this week and told them they could bring one sheet of A4 into the test with them, with any notes they want. They were thrilled they got to ‘cheat’ and I’m thrilled that they did such awesome revision - win win
 
 
-* [What is Computer-Based Assessment (CBA)?](https://now.ntu.ac.uk/d2l/lor/viewer/viewFile.d2lfile/6605/62186/CBA%20Revised/page_01.htm)
-    * Bull and McKenna (2004) cite the following reasons to use CBA:
-* [Computer-based tools for the assessment of learning processes in higher education: a comparative analysis](https://www.researchgate.net/publication/271211156_Computer-based_tools_for_the_assessment_of_learning_processes_in_higher_education_a_comparative_analysis) 2014
-    * List of software and features
-* [15 Benefits Of Computer-Based Testing](https://elearningindustry.com/15-benefits-of-computer-based-testing)
-    * More testing dates + much expossure (for exam based)
-    * Dynamic and individualised
-    * Immediate grade
-    * accelerate open ended assignments + aid admin efficiency
-        * [Kaizena](https://workspace.google.com/marketplace/app/kaizena/354175553078) - google docs plugin for voice comments + skill tracking
-    * vertical and horizontal aligned (criterion based) or (norm-referenced)
-    * value added growth measure
-    * uncover student thinking (diagnostic)
-    * engaging
-    * analytics for instructor and learner
-    * range of devices / situations
-    * 
-* [Models Of Online Assessment, Part 1: Computer Adaptive Testing ](https://elearningindustry.com/computer-adaptive-testing-models-online-assessment-part-1)
-    * technology-based assessments can (Burns et al., 2010; Burns, Christ, Kovaleski, Shapiro, & Ysseldyke, 2008: 18)
-        * measure complex thinking and lower the cost differential because technology-based assessments take less time to score, store and share. 
-        * They can enable quick turnaround of assessment data to the instructor and learners, allowing instructors to assess learner performance at a much more granular, detailed level. 
-        * they can allow more reliable scoring and valid data interpretation 
-    * > CATs are technology-based or online testing systems created by content specialists, psychometricians, programmers and web designers.
-      > They contain large test item banks and, when designed well, can attain high discriminating power. They do this through constant calibration or “adaptation.
 
 
 Terminology
@@ -1334,28 +1349,19 @@ Gamification - code combat
 
 
 
-* [Journal of Computer Assisted Learning](https://onlinelibrary.wiley.com/journal/13652729)
-    * [Review of computer-based assessment for learning in elementary and secondary education](https://myweb.fsu.edu/vshute/pdf/jcal.pdf) Shute and Rahimi 2016
-        * Generated personalised tests with question banks and immdiate feedback
-        * design feedback so that it can be used
-        * Our findings indicate that generally, assess-ment _of_ learning tends to be more prevalent than assess-ment _for_ learning in online-learning setting
-        * Data driven continuous CBAfL
-            * spotting statistical weakness
-            * extensive and ongoing analyses of the data that the learners produce in various digital learning environments
-            * auto pairing students
-        * We also expect that innovative CBAfL techniques willmove beyond the laboratory and into the mainstream,and we will no longer have to rely solely on high-staketests for assessing students’knowledge and skills (Shuteet al., 2016a). The boundaries between instruction, learn-ing and assessment will eventually become blurred.
+
 
 Assessing just the artefact (final code) is not sufficient to understand the process that lead to it.
 Sentence says - assess abilities
 assess design - assess by interview
 
 
-[How assessment drives curriculum at every level, and not necessarily in the right direction...](https://bigeducation.org/rethinking-blogs/how-assessment-drives-curriculum-at-every-level-and-not-necessarily-in-the-right-direction/) 2020 Sarah Fletcher High Mistress, St Paul’s Girls’ School, London
+* [How assessment drives curriculum at every level, and not necessarily in the right direction...](https://bigeducation.org/rethinking-blogs/how-assessment-drives-curriculum-at-every-level-and-not-necessarily-in-the-right-direction/) 2020 Sarah Fletcher High Mistress, St Paul’s Girls’ School, London
     * > Our current knowledge-based system only goes part of the way towards equipping young people with the skills that will give them the confidence and resilience to shape their own path through life.  They need to make the best of human capacity for imagination and critical judgment, especially with our ever-greater dependency on technology and artificial intelligence.”
     * > The world is moving fast, and education risks falling behind. 
 
 
-* [Teach Computing Curriculum Journey](https://static.teachcomputing.org/curriculum_journey.pdf) - Poster of KS1 to KS4 progress with assessment objectives
+* NCCE [Teach Computing Curriculum Journey](https://static.teachcomputing.org/curriculum_journey.pdf) - Poster of KS1 to KS4 progress with assessment objectives
 
 * [Quick Read: Using observation techniques to record student behaviour for research or evaluation](https://blog.teachcomputing.org/using-observation-techniques-to-record-student-behaviour-for-research-or-evaluation/)
 * [Quick Read: Planning effective surveys and interviews for research or evaluation](https://blog.teachcomputing.org/planning-effective-surveys-and-interviews-for-research-or-evaluation/)
@@ -1380,15 +1386,37 @@ Set the same test again - tell the students this - give them time to prepare - y
 This can be the same for interleived questions
 
 
-* [TASK-BASED ASSESSMENT OF STUDENTS’ COMPUTATIONAL THINKING SKILLS DEVELOPED THROUGH VISUAL PROGRAMMING OR TANGIBLE CODING ENVIRONMENTS](https://files.eric.ed.gov/fulltext/ED571389.pdf) Takam Djambong and Viktor Freiman 2016 - 13th International Conference on Cognition and Exploratory Learning in Digital Age (CELDA 2016)
-    * Categories of computaitonal thinking that babras.uk excert are testing
-* [Computational Thinking Test (CTT) for Middle School Students](https://www.researchgate.net/publication/324680249_Computational_Thinking_Test_CTT_for_Middle_School_Students)
-* [COMPUTATIONAL THINKING TEST: DESIGN GUIDELINES AND CONTENT VALIDATION](https://www.researchgate.net/publication/290391277_COMPUTATIONAL_THINKING_TEST_DESIGN_GUIDELINES_AND_CONTENT_VALIDATION)
-    * [Bebras Quizs](http://www.cs.nuim.ie/~amooney/CS2Go/) pdf
-    * [bebras.uk](https://bebras.uk/)
-    * [bebras.uk/admin/](https://bebras.uk/admin/) - you have to sign up to get backstage answers
-* [Computer Science To Go (CS2Go): Developing a course to introduce and teach Computer Science and Computational Thinking to secondary school students ](http://mural.maynoothuniversity.ie/11015/) 2019 James Lockwood
-    * Creating the Cs2Go course/system
-* [Developing a Computational Thinking Test using Bebras problems](https://core.ac.uk/download/pdf/297030171.pdf) 2019 James Lockwood, Aidan Mooney,  - Maynooth University, Maynooth, Co. Kildare, Ireland
-* [Which cognitive abilities underlie computational thinking? Criterion validity of the Computational Thinking Test](https://www.computacional.com.br/files/Gerais/ROMAN%20-%20Which%20cognitive%20abilities%20underlie%20computational%20thinking.pdf) 2016 - Marcos Roman-Gonzalez*, Juan-Carlos Perez-Gonzalez, Carmen Jimenez-Fernandez
-    * breakdown of what is being assessed with Computation Thinking
+Computing ()
+---------
+
+* weak sources
+    * [Formative assessment in the computer science classroom](https://www.raspberrypi.org/blog/research-seminar-formative-assessment-computer-science-classroom/) Sentence 2020
+        * Not much detail here
+    * [Formative Assessment](https://www.csforallteachers.org/blog/formative-assessment) Noah Mealy 2016
+        * Just talks about Socrative
+
+
+Summative/Formative Assessment
+------------------------------
+
+* Summative
+    * focus is on the outcome
+    * gcse result, grade, number
+    * no meaningful feedback
+* Formative
+    * > Any assessment that helps a pupil to learn and develop is formative (Perrenoud) 1991
+    * facilitates the participants development
+        * corrects a misconception
+    * suggestions for improvement, questioning, verbal feedback, self evaluation, peer assessment
+
+Ofsted (historically) wanted to ask students:
+* What grade/level are you currently at
+* What is there next step. How to improve
+    * Target setting is a formalised for of feedback - specific and challenging
+    * Short term and long term goals are required to make progress
+
+ITT Core Framework
+6.1
+> Effective assessment is critical to teaching because it provides teachers with information about pupils’ understanding and needs
+6.2
+> Good assessment helps teachers avoid being over-influenced by potentially misleading factors, such as how busy pupils appear

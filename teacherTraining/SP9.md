@@ -16,12 +16,29 @@ KSQ 6: How do you plan and assess for learning?
 * Bebras problems
 
 
+Overview
+--------
+
+I simply can't even begin to describe the depth of this area
+
+* Describe the difference between 'formative assessment' and 'assessment for learning'
+* All student response systems
+* Traffic light cups - and criticality
+* Create marking criteria and feedback (1 hour)
+* Consider tools
+    * Automated tests (45 min)
+    * Verbal Feedback prototype (15min)
+* More Dylan Wiliam - the man, myth, legend
 
 
-
+Course Bits
+===========
 
 ### Bundles
 
+* Any questions from Sharrons presentation?
+* 3 for SD
+* 2 for PGCE
 
 
 ### Fundamental skills
@@ -34,23 +51,23 @@ KSQ 6: How do you plan and assess for learning?
 * DfE [intellectual-and-academic-capabilities](https://www.gov.uk/government/publications/initial-teacher-training-criteria/initial-teacher-training-itt-criteria-and-supporting-advice#intellectual-and-academic-capabilities)
     * > Any work to address shortfalls in English and mathematics must be undertaken by the trainee teacher in addition to other aspects of their training. It is the trainee’s responsibility to secure Fundamental English and mathematics, 
 
-https://chartered.college/join/student-membership/
-
-
 ### Professional practice Module
-April
-Scholarship _policy_ between two bundles
+
+* Set in April - Due in June
+* Still being finalised
+    * Scholarship _policy_ between two bundles
 
 ### PPD1
 
 * Remote
 * Peer Review
-* Epistemic Insight Conference
 * Individual 15min tutorial (up to 30 min if needed) (other subject are not so lucky)
+* Epistemic Insight Conference Day
 
 
-'Desireability attack'
-Competative social  environment
-stress
 
-An environment of compassion
+Other
+=====
+
+* [Chartered College of Teaching - Student Membership - Free](https://chartered.college/join/student-membership/)
+
