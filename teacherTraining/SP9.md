@@ -29,6 +29,7 @@ I simply can't even begin to describe the depth of this area
     * Automated tests (45 min)
     * Verbal Feedback prototype (15min)
 * More Dylan Wiliam - the man, myth, legend
+* Bebras Computational Thinking Assessment
 
 
 Course Bits

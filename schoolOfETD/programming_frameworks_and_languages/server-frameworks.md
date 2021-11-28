@@ -67,19 +67,6 @@ Features of Server Frameworks
 * Websockets
 * Plugin or expansion framework
 
-### Other approach: Static Site Generation
-
-* [What is a Static Site Generator? And 3 ways to find the best one](https://www.netlify.com/blog/2020/04/14/what-is-a-static-site-generator-and-3-ways-to-find-the-best-one/)
-* Really scalable and performant (cacheable, use of existing simple performant systems, distributable)
-* Frameworks
-    * [hugo](https://gohugo.io/) Golang
-    * [jekyll](https://jekyllrb.com/) Ruby
-    * [hyde](https://hyde.github.io/) Python
-    * [next.js](https://nextjs.org/) Typescript
-        * hybrid static & server rendering
-
-
-
 
 Django
 ------
