@@ -1,24 +1,31 @@
-Other Frameworks
-================
+Other Stuff
+===========
 
 We've covered REST apis's and Single-Page-Webapps .. the world is a LOT bigger.
 
 Objectives
-* Understand a range of other tangentially related frameworks and technologies
-    * why ..
+* Understand a range of other tangentially related technologies (and frameworks)
+    * why this is important ..
         * Interviews ..?
         * Future self learning ..?
+    * What problem are these technologies trying to solve
+
+Overview
+* 2 Hour Lecture + Writing Workshop Experiment (whiteboard.fi)
+* 2 Hour Tutorial with project - formatively assessing progress
 
 
 Serverless Architecture
 -----------------------
 
 * Not a framework - more of a methodology
-* You dont run your own http server - the provider does
+* You don't run your own http server - the provider does
 * lxc to lxd
     * aws lambda
 
 * https://www.twilio.com/docs/glossary/what-is-serverless-architecture
+
+Question: What problem is serverless trying to solve?
 
 
 GraphQL
@@ -27,6 +34,8 @@ GraphQL
 * Not a framework - query language for api's
 * https://www.howtographql.com/basics/1-graphql-is-the-better-rest/ page + (12min video)
 
+Question: When would you use GraphQL over REST? Is there a point in ever using REST?
+What problems is REST tring to solve?
 
 NoSQL
 -----
@@ -34,6 +43,8 @@ NoSQL
 https://www.guru99.com/nosql-tutorial.html
 https://www.freecodecamp.org/news/nosql-databases-5f6639ed9574/
 eventual consistency
+
+Question: What problems is NoSQL trying to solve?
 
 
 IPFS + Blockchain hosting
@@ -45,6 +56,8 @@ IPFS + Blockchain hosting
     * Could you host pages on Mars?
 * [Host your Website on the Blockchain, Permanently](https://medium.com/fullstacked/i-saved-60-per-year-forever-by-hosting-my-website-on-the-blockchain-6f7bf07d35d9) - How to host a simple website on Arweave’s perma-web
 * [Decentralizing your Website](https://towardsdatascience.com/decentralizing-your-website-f5bca765f9ed) - IPFS + ENS
+
+Question: What is the problem IPFS is trying to solve?
 
 
 BlockChain Applications
@@ -103,7 +116,7 @@ Game Frameworks
 
 * [what-is-the-difference-between-a-game-framework-and-a-game-engine](https://gamedev.stackexchange.com/questions/31772/what-is-the-difference-between-a-game-framework-and-a-game-engine)
 * Example
-    * [LittleJS Logo LittleJS](https://killedbyapixel.github.io/LittleJS/docs/) - The Tiny JavaScript Game Engine That Can
+    * [LittleJS](https://killedbyapixel.github.io/LittleJS/docs/) - The Tiny JavaScript Game Engine That Can
         * notice how you place your code with a known object structure
     * [PyGame](https://en.wikipedia.org/wiki/Pygame)
         * https://realpython.com/pygame-a-primer/#basic-pygame-program
