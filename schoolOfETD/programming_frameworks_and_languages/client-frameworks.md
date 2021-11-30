@@ -333,3 +333,10 @@ Further Reading
 * Other Frameworks in other langauges
     * [fritz2](https://www.fritz2.dev/) Kotlin
     * [WebApps with PureScript & RactiveJS](https://blog.brakmic.com/webapps-with-purescript-and-ractivejs/)
+
+TODO
+====
+
+* [solid.js](https://www.solidjs.com/)
+    * > Solid follows the same philosophy as React with unidirectional data flow, read/write segregation, and immutable interfaces. It however has a completely different implementation that forgoes using a Virtual DOM.
+    * Fragments, Portals, Context, Suspense, Error Boundaries, Lazy Components, Async & Concurrent Rendering, Implicit Delegation, SSR & Hydration, Directives

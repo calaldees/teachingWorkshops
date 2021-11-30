@@ -899,3 +899,10 @@ Languages fall out of favour and new ones are always trying new ideas.
 > ... your scientists were so preoccupied with whether or not they could that they didn’t stop to think if they should.
 <sub>Jeff Goldblum - Jurassic Park</sub>
 
+
+
+TODO
+====
+
+* [asciinema blog - 4x smaller, 50x faster](https://blog.asciinema.org/post/smaller-faster/)
+    * WebASM + Rust + Solid.js migrated from Clojurescript

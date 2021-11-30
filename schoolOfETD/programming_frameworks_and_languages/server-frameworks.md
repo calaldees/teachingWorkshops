@@ -365,6 +365,8 @@ Assignment 1 - Assistance
 Unsorted
 ========
 
+* [PostgREST](https://postgrest.org/)
+    * > PostgREST is a standalone web server that turns your PostgreSQL database directly into a RESTful API. The structural constraints and permissions in the database determine the API endpoints and operations.
 
 https://rapidapi.com/blog/best-nodejs-frameworks/
 Performacen community ease of use, best for
