@@ -1,12 +1,16 @@
-Engineering Stories
+Engineering Stories (2 Hours)
 ===================
 
 Objectives
 ----------
 
-* Understand some case studies of how web tech is used in industry
+* Understand some case studies of how tech is used in industry
+    * (Many of the concepts/tech from this module)
 * Understand the context professional developers can work in
+    * (Range of problems, communication, capacity)
 * Understand the skill level that professional developers are expected to work at
+    * (interview coding question)
+
 
 Thoughts
 --------
@@ -16,13 +20,13 @@ Thoughts
 * Creativity is limitless
 
 
-Interview Exercise
+Interview Exercise (20min)
 ------------------
 
 * Using
     * [tutorialspoint.com/codingground](https://www.tutorialspoint.com/codingground.htm)
     * [replit.com](https://replit.com/) (requires login - slow execution of c#)
-* Solve [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz)
+* Solve [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz) (15min)
     * Divisible by 3 - print `fizz`
     * Divisible by 5 - print `buzz`
     * Divisible by 3 and 5 print `fizzbuzz`
