@@ -23,17 +23,18 @@ Hardware
 IDE
 ---
 
-### Install
+### Local Install
 
-Use a package manager
-
-```bash
-    choco install arduinoide
-    brew install arduinoide
-    apt-get install arduinoide
-```
-
-or download [ArduinoIDE](https://www.arduino.cc/en/Main/Software) for your platform.
+* Online IDE
+  * [create.arduino.cc](https://create.arduino.cc)
+    * Requires signup
+* Use a package manager
+  * ```bash
+      choco install arduinoide
+      brew install arduinoide
+      apt-get install arduinoide
+      ```
+  * or download [ArduinoIDE](https://www.arduino.cc/en/Main/Software) for your platform.
 
 #### Raspbery Pi 3
 
@@ -45,7 +46,6 @@ or download [ArduinoIDE](https://www.arduino.cc/en/Main/Software) for your platf
       enable_uart=1
     # Download 'Linux ARM' manually (1.8.7+) - extract to permanent location - `sudo ./install.sh`
 ```
-
 
 ### Setup Arduino IDE
 

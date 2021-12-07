@@ -6,20 +6,19 @@ ITT CCF 4.9
 ITT CCF 4.10
 > How pupils are grouped is also important; care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation.
 
-* [Quick Read: Using pair programming to support learners](https://blog.teachcomputing.org/quick-read-pair-programming-supports-learners/) 2019 NCCE - 1 page A4
-
-* [khanacademy.org - Pair programming in the classroom](https://www.khanacademy.org/khan-for-educators/resources/teacher-essentials/teaching-computing/a/pair-programming-in-the-classroom?modal=1)
-    * [Pair Programming-in-a-Box: The Power of Collaborative Learning](https://www.ncwit.org/resources/pair-programming-box-power-collaborative-learning) - National Center for Women in IT
-* [repl.it](https://repl.it/)
-* [Visual Studio Live Share](https://visualstudio.microsoft.com/services/live-share/)
-    * [Collaboration made easy with Visual Studio Live Share](https://www.youtube.com/watch?v=9QXwSg9-2qQ) YouTube Video
-
-* One dev-environment - multiple inputs
-    * Single machine with two keyboards plugged in
+* Overview
+    * [Quick Read: Using pair programming to support learners](https://blog.teachcomputing.org/quick-read-pair-programming-supports-learners/) 2019 NCCE - 2 page A4
+        * (I'm not fond of driver+navigator - see my comments below)
+    * [khanacademy.org - Pair programming in the classroom](https://www.khanacademy.org/khan-for-educators/resources/teacher-essentials/teaching-computing/a/pair-programming-in-the-classroom?modal=1)
+        * [Pair Programming-in-a-Box: The Power of Collaborative Learning](https://www.ncwit.org/resources/pair-programming-box-power-collaborative-learning) - National Center for Women in IT
+* Tech
     * Remote code tools
-        * repl.it
-        * LiveShare
-        * Others ...
+        * [repl.it](https://repl.it/) - ks3/ks4
+        * [GitPod.io](https://gitpod.io) - full VSCode dev env in the cloud (ks5?)
+        * [Visual Studio Live Share](https://visualstudio.microsoft.com/services/live-share/)
+            * [Collaboration made easy with Visual Studio Live Share](https://www.youtube.com/watch?v=9QXwSg9-2qQ) YouTube Video
+    * One dev-environment - multiple inputs
+        * Single machine with two keyboards plugged in
 
 ### Benefits
 * Social communication
@@ -36,7 +35,13 @@ ITT CCF 4.10
 * Re-enforce concepts by having to articulate them
 * Natural practice for technical language
 
-### My experience
+### Drawbacks
+* It DOES take longer (although the quality of the solution is better)
+* It requires training and practice (it wont work first time)
+    * Delicate and intricate social management (know your class before you do this)
+        * Assign pairs beforehand
+
+### My experience of pair programming as a developer
 
 * I cant express the joy and safety of coding shoulder to shoulder with my colleges
 * We were both constantly learning
@@ -83,10 +88,32 @@ ITT CCF 4.10
         * we should never ridicule each other for mistakes, even in a joking way
         * You will learn from mistakes if you find out how to do it without mistakes next time, and really understand this
 
+
+Extra: some of my thoughts
+--------------------------
+
+* 'Driver + Navigator' is not relevant and should be more fluid - equal party's - two inputs
+* Code is a team sport in industry - education should match
+* assessment of pair work is fraught with peril (more)
+* Pair programming takes longer - Quality of solutions is better
+* Students have to be explicitly taught how to communicate - words parses
+    * Explicitly highlight the 3 types of communication - cumulative, disruptive, exploratory - get pairs to self identify these
+    * "What are we trying to do here?"- Clarify/communicate inputs and outputs (goal)
+    * What data are we storing/using/remembering?
+    * Don't use "No" - (stretch vocabulary) use - unlikely, probably not, unsure, possibly
+        * Psychology of "Yes and" in improvisation
+    * You may not _like_ your partner. I don't _like_ all the other teachers, but I work with them. Develop professional working practices - you will have to work professionally with people you don't like in future.
+    * Add your thoughts as comments
+    * Advanced must explain - weaker must ask clarifications
+    * Identify and praise/highlight/reaffirm good use of language
+* strategies
+    * rotate partners - induct/explain to your new partner (peril - ownership of login)
+
+
 Task
 ----
 
-* [repl.it](https://repl.it/)
+* [repl.it](https://repl.it/) (login with github)
     * Create a new repl
     * Get share link and share with your partner
         * you need to create an account for this feature
@@ -100,7 +127,9 @@ Task
     * `for` loop and `while` loop
     * Concatenate strings
     * Compare strings
-* [Code-cademy - All Cheatsheets](https://www.codecademy.com/resources/cheatsheets/all)
+* Cheat Sheets
+    * https://computingteachers.uk/static/langauge_reference.html
+    * [Code-cademy - All Cheatsheets](https://www.codecademy.com/resources/cheatsheets/all)
 * ADVANCED: If you are HARDCORE you could create a stub and solution for another language (`c`, `ruby`, `go`, `rust`, `php`) - I would love to see some of these! please make a GitHubPR!
 
 
@@ -138,7 +167,7 @@ Module VisualBasic
 
 End Module
 ```
-
+### Output (to help you)
 ```txt
 bubbleSort
 b,d,c,a

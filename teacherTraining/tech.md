@@ -8,26 +8,9 @@ ITT CCF
 Async Tasks
 -----------
 
-### Task 1 - Microbit (30mins to 1hour)
+### Task 1 - Microbit
+[microbit](../physicalProgramming/microbit/README.md)
 
-There are a range of small computer boards that are programmable with c/python/etc that can attach to LEDs/Motors/Sensors.
-These educational tools take code off the desktop screen and into the physical world.
-
-* This task is to
-    * Give you experience of a popular education board the microbit
-
-1 hour
-Investigate 
-* What is a [microbit](https://microbit.org/)?
-* What [sensors](https://microbit.org/get-started/first-steps/sensors/) does it have?
-    * Look at a list of project ideas for those sensors
-        * Door alarm? Nightlight?
-* Using the [makecode](https://makecode.microbit.org/) browser simulator
-    * Make a program that when you press a button it cycles through 3 custom mini graphics that you have created
-        * Hint: You might need a variable 0 to 2 and use the modula operator to cycle this value
-    * Switch the view to javascript or python and look at the code
-    * Make a program that when you tilt the device it sends a number via radio to another virtual microbit and displays that number
-* Consider possible activities/use in the classroom to be discussed with group
 
 ### Task 2 - TinkerCAD (30mins to 1hour)
 
@@ -40,9 +23,6 @@ Investigate
         * Click on `components` -> `Arduino` -> (get a simple template like `blink` or `button`) -> Click `code` -> Switch mode from `blocks` to `text` -> Click `start simulation`
     * Explore?
 * Consider possible activities/use in the classroom to be discussed with group
-
-TODO [xod.io](https://xod.io/) - A visual programming language for microcontrollers - browser IDE
-TODO [webduino.io](https://webduino.io/en/) - chinese microbit - much more versatile
 
 ### Task 3 - Virtualisation (30min to 1hour)
 
@@ -65,18 +45,18 @@ If you as a teacher were in control and managed the base VM image, you could ins
     * Gotchas
         * `vt-x` may need to be [enable in your bios](https://2nwiki.2n.cz/pages/viewpage.action?pageId=75202968)
         * HyperV may need to be [installed/activated](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v) 
-            * Note that HyperV is not available on Windows 10 Home.
+            * Note that HyperV is not available on Windows 10 "Home" (only in pro/enterprise/education).
 * Attempt to run the following `python` program
-    * [elavation.py](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/data/elavation.py)
     * You should be able to launch a terminal
         * If you don't know your way around a bash prompt I strongly advise you to learn the basics
-    * You may need to install `python3-pip` for your distribution.
+    * ?You may need to install `python3-pip` for your distribution. (`sudo apt-get update && sudo apt-get install python3-pip`)
     * ```bash
         curl -O "https://raw.githubusercontent.com/calaldees/TeachProgramming/master/teachprogramming/static/projects/data/elavation.py"
-        curl -O "https://karczmarczuk.users.greyc.fr/TEACH/Imagerie.old/Images/elev_bump_8k.jpg"
+        curl -O "http://shadedrelief.com/natural3/ne3_data/8192/elev_bump_8k.jpg"
         pip3 install pillow
         python3 elavation.py
       ```
+    * you can read the code at [elavation.py](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/data/elavation.py)
 
 * (extension) for the hardcore - These are discussions to have with your school technicians
     * Consider a VM solution that would allow a student to take a VM on a USB3 stick between home and school. What tools would need to be installed. How quickly/simply could this VHD be mounted/used? any tech ideas?
@@ -123,10 +103,10 @@ Browser Based - Development environments
             * [gist.cafe](https://gist.cafe/) - runnable snippets on the web
         * [play.golang.org](https://play.golang.org/)
     * Online IDE
-        * [CodeTasty](https://codetasty.com/)
         * [GitPod](https://www.gitpod.io/)
             * Browser based fully remote dev environment
-            * OVERKILL for schools - but interesting for professional developers
+            * OVERKILL for ks3/ks4 - but interesting for professional developers and ks5
+        * [CodeTasty](https://codetasty.com/)
         * [The 13 Best Browser IDEs Every Programmer Should Know About](https://www.makeuseof.com/tag/programmer-browser-ides/)
     * Desktop
         * vscode
@@ -202,6 +182,12 @@ more [arduino](../physicalProgramming/arduino/README.md)
 
 TASK 10min?
 * From your async task exploration - possible project ideas?
+
+### Other
+
+* [xod.io](https://xod.io/) - A visual programming language for microcontrollers - browser IDE
+* [webduino.io](https://webduino.io/en/) - chinese microbit - much more versatile
+    * online ide + simulator + tasks/lessons
 
 
 ### Raspberry Pi

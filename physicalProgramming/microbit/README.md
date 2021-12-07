@@ -1,6 +1,65 @@
 Microbit
 ========
 
+* [microbit.org](https://microbit.org/)
+    * Features
+        * 2 Buttons
+        * Crocodile clip access
+        * 25 pixel display (can scroll text + display primitive graphics)
+        * [Sensors](https://microbit.org/get-started/first-steps/sensors/) + activities
+            * Acceleromiter (level sensor), Temperature, Light, Compass
+        * Radio
+        * [Local Persistent File System](https://microbit-micropython.readthedocs.io/en/v1.0.1/filesystem.html)
+            * 30k - python
+        * v2 (most are v1)
+            * builtin speaker and microphone
+    * [MakeCode](https://makecode.microbit.org/) Online Editor + Courses + Lessons
+    * [MicroPython](https://microbit-micropython.readthedocs.io/en/latest/)
+    * Lessons
+        * [Digital Technologies Hub](https://www.digitaltechnologieshub.edu.au/teachers/lesson-ideas#/) Australia - Lesson Plans
+            * https://www.digitaltechnologieshub.edu.au/teachers/lesson-ideas/morse-code-network
+        * [BBC microbit Lessons for Micro Python](http://physicalcomputing.co.uk/2017/01/11/bbc-microbit-lessons/)
+        * [BBC micro:bit MicroPython documentation](https://microbit-micropython.readthedocs.io/en/latest/index.html)
+        * [nominetresearch Lessons](https://microbit.nominetresearch.uk/)
+            * [Handling Errors: Retransmissions](https://microbit.nominetresearch.uk/networking-book-online/retransmissions/retransmissions/)
+        * [mytechnotalent/Python-For-Kids](https://github.com/mytechnotalent/Python-For-Kids) A comprehensive Python Development tutorial FOR KIDS utilizing a micro:bit Development Board going step-by-step into the world of Python for Microcontrollers
+    * [101computing.net micro:bit](https://www.101computing.net/category/bbc-microbit/)
+    * Projects
+        * [projects.raspberrypi.org microbit](https://projects.raspberrypi.org/en/projects?hardware[]=microbit)
+            * [Against the Clock](https://projects.raspberrypi.org/en/projects/against-the-clock)
+* [microbit2](https://tech.microbit.org/latest-revision/announcement/)
+    * gesture recondition
+    * voice recognition?
+
+
+Async Tasks
+-----------
+
+### Task 1 - Microbit (30mins to 1hour)
+
+There are a range of small computer boards that are programmable with c/python/etc that can attach to LEDs/Motors/Sensors.
+These educational tools take code off the desktop screen and into the physical world.
+
+* This task is to
+    * Give you experience of a popular education board the microbit
+
+1 hour
+Investigate 
+* What is a [microbit](https://microbit.org/)?
+* What [sensors](https://microbit.org/get-started/first-steps/sensors/) does it have?
+    * Look at a list of project ideas for those sensors
+        * Door alarm? Nightlight?
+* Using the [makecode](https://makecode.microbit.org/) browser simulator
+    * Make a program that when you press a button it cycles through 3 custom mini graphics that you have created
+        * Hint: You might need a variable 0 to 2 and use the modula operator to cycle this value
+    * Switch the view to javascript or python and look at the code
+    * Make a program that when you tilt the device it sends a number via radio to another virtual microbit and displays that number
+* Consider possible activities/use in the classroom to be discussed with group
+
+
+Stuff
+-----
+
 * Strengths
     * Multiple Languages (+trivially switch between them)
         * Blocks (like Scratch)
@@ -29,35 +88,6 @@ An interesting tools for transitioning from blocks to text-code. Physical manife
 Build an escape room idea
 
 
-* [microbit.org](https://microbit.org/)
-    * Features
-        * 2 Buttons
-        * Crocodile clip access
-        * 25 pixel display (can scroll text + display primitive graphics)
-        * [Sensors](https://microbit.org/get-started/first-steps/sensors/) + activities
-            * Acceleromiter (level sensor), Temperature, Light, Compass
-        * Radio
-        * [Local Persistent File System](https://microbit-micropython.readthedocs.io/en/v1.0.1/filesystem.html)
-            * 30k - python
-        * v2 (most are v1)
-            * builtin speaker and microphone
-    * [MakeCode](https://makecode.microbit.org/) Online Editor + Courses + Lessons
-    * [MicroPython](https://microbit-micropython.readthedocs.io/en/latest/)
-    * Lessons
-        * [Digital Technologies Hub](https://www.digitaltechnologieshub.edu.au/teachers/lesson-ideas#/) Australia - Lesson Plans
-            * https://www.digitaltechnologieshub.edu.au/teachers/lesson-ideas/morse-code-network
-        * [BBC microbit Lessons for Micro Python](http://physicalcomputing.co.uk/2017/01/11/bbc-microbit-lessons/)
-        * [BBC micro:bit MicroPython documentation](https://microbit-micropython.readthedocs.io/en/latest/index.html)
-        * [nominetresearch Lessons](https://microbit.nominetresearch.uk/)
-            * [Handling Errors: Retransmissions](https://microbit.nominetresearch.uk/networking-book-online/retransmissions/retransmissions/)
-        * [mytechnotalent/Python-For-Kids](https://github.com/mytechnotalent/Python-For-Kids) A comprehensive Python Development tutorial FOR KIDS utilizing a micro:bit Development Board going step-by-step into the world of Python for Microcontrollers
-    * [101computing.net micro:bit](https://www.101computing.net/category/bbc-microbit/)
-    * Projects
-        * [projects.raspberrypi.org microbit](https://projects.raspberrypi.org/en/projects?hardware[]=microbit)
-            * [Against the Clock](https://projects.raspberrypi.org/en/projects/against-the-clock)
-* [microbit2](https://tech.microbit.org/latest-revision/announcement/)
-    * gesture reconition
-    * voice recognition?
 
 Additional Sensors
 * [KEYESTUDIO Sensors Starter Kit with BBC Micro:bit Board for BBC Microbit, with 45 Electronics Modules, Tutorials Coding for Kids Teens Adults](https://www.amazon.co.uk/KEYESTUDIO-Sensors-Starter-Kit-Micro/dp/B08H7VSLZH/ref=sr_1_9?dchild=1&keywords=microbit&qid=1605460287&sr=8-9)

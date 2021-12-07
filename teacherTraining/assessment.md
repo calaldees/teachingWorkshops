@@ -347,10 +347,10 @@ Automated Tests (30min)
 
 ### Professional systems
 
-* https://www.mimirhq.com/classroom/demo_video mimir classroom
+* [mimirhq.com](https://www.mimirhq.com/classroom/demo_video) mimir classroom
     * Video
         * Coding assignment - see animation of how student solved problem
-* http://theory.stanford.edu/~aiken/moss/
+* [Moss](http://theory.stanford.edu/~aiken/moss/) - A System for Detecting Software Similarity
     * Plagiarism detection of code
 
 
@@ -796,6 +796,10 @@ Computational Thinking Assessment - bebras.uk
 
 Unsorted
 ========
+
+
+* [Formative Teaching Methods - Geoff Petty Jan 2004](http://geoffpetty.com/wp-content/uploads/2012/12/FormativeTeachingMethods2.doc) - from [Active Learning](http://geoffpetty.com/for-teachers/active-learning/)
+    * Massive document with lots of pair/self assessment advice/tasks/strategies - very well constructed
 
 
 * Criteria set in advance
