@@ -80,18 +80,22 @@ Browser Based - Development environments
     * home/school always has data synced
     * Pair programming
     * Range of languages
-    * Mostly free services
+    * Mostly free services (many require login but can be used with existing school google, github, microsoft logins)
 * Drawbacks
-    * Must have a (good) web connection
+    * Must have a (reliable) web connection
 
 * Technologies
-    * see mapOfComputing for more
     * Browser
         * [repl.it](https://repl.it/)
-            * Discussed in previous sessions - an education revolution
+            * an education revolution
+            * requires login (kind of grumpy about this)
             * (Has a paid-for school class system for projects/sumbissions/annotations/feedback $1000 per year per school)
+        * [Coding Ground](https://www.tutorialspoint.com/codingground.htm)
+            * login required to share
         * [CodeHS](https://codehs.com/) - Code Highschool
             * Computer science classroom in a box - lessons, courses, videos, management system, online browser ide, submission
+            * no login required
+            * code can be viewed (not live) without login
         * [trinket.io](https://trinket.io/)
         * [sharepad.io](https://www.sharepad.io/) - python, java, c, c++ - live share + link share
         * [SmallBASIC](https://SmallBASIC.com/) [live](https://superbasic-v2.azurewebsites.net/) - Microsoft
@@ -108,11 +112,6 @@ Browser Based - Development environments
             * OVERKILL for ks3/ks4 - but interesting for professional developers and ks5
         * [CodeTasty](https://codetasty.com/)
         * [The 13 Best Browser IDEs Every Programmer Should Know About](https://www.makeuseof.com/tag/programmer-browser-ides/)
-    * Desktop
-        * vscode
-        * [Thonny](https://thonny.org/) Python IDE for beginners
-[collaboration](./collaboration.md) - more here .. duplicates? merge?
-
 
 
 Physical 
@@ -145,8 +144,9 @@ Manifest your code in the real world!
 * Barcode scanners
     * Checkout project demo?
 * Thermal receipt printers
+* Thermal camera
 * USB microscope
-* RFID reader
+* RFID reader (coupled with thermal printer!!)
 * Magnetic card reader/writer
 
 
@@ -195,7 +195,7 @@ TASK 10min?
 Extra curricular - not really suitable to full class teaching
 
 * Need access to keyboard, mouse, monitor, power
-    * Some schools have 'all in one' machines so screens can't be reused used
+    * Some schools have 'all in one' machines so screens can't be reused
     * USB ports (for keyboard/mouse) may not be accessible for school machines
     * Frequent use of USB ports can damage with ports (kids are fairly heavy handed)
 
@@ -210,10 +210,11 @@ Extra curricular - not really suitable to full class teaching
                 * To install packages + reach documentation
         * Manual entry of IP address's and subnets
 
-* £50 Raspberry Pi 4 (4gb)
-* £10 Heatsync
-* £5 power
-* £3 to £15 per pupil XD-card/USB3-storage
+* £70? Machine only
+    * £50 Raspberry Pi 4 (4gb)
+    * £10 Heatsync
+    * £5 power
+    * £3 to £15 per pupil XD-card/USB3-storage
 
 
 Machine Virtualisation
@@ -239,13 +240,14 @@ Machine Virtualisation
 Digital poverty
 ---------------
 
-The poorest low ability children will be hardest hit by Covid.
-How do we consider _inclusion_ for remote teaching?
-
-To progress with computing they need their own dev machine at home. Hardware is expensive.
+* The poorest low ability children will be hit hardest by the digital divide.
+* How do we consider _inclusion_ for:
+    * engaging out of school hours
+    * remote teaching?
+* To progress with computing they need their own dev machine at home. Hardware is expensive.
 
 Task: (10min) What is the cheapest possible _general purpose_ computer you could recommend to a student?
-Ideas + Links on the Google Doc
+Share links in shared doc
 
 Even if they have a machine - what about internet connectivity?
 
@@ -255,12 +257,13 @@ Even if they have a machine - what about internet connectivity?
     * Modular (Upgradable / Replaceable)
     * Almost Indestructible
     * Not (as) portable as a laptop
+    * Linux only
 * 13inc laptop - £170? (with webcam)
-    * Builtin wireless, speakers, webcam
+    * Builtin speakers, webcam, screen
     * Portable - Can move to a quiet room to code - can take their dev environment with them
     * When it gets damaged - whole thing is disposed-of/unusable
-    * Low spec machines will benefit from linux in performance
-        * Help them install linux
+    * Windows or Linux
+        * Low spec machines will benefit from linux in performance
 * [eBay removing listed for Raspberry Pi](https://twitter.com/lbhq/status/1323482627681198080) because they COULD be used as a computer
 
 ### Old
@@ -268,7 +271,7 @@ Even if they have a machine - what about internet connectivity?
     * But they can't give it students
         * Support of machines? Software licence (windows?) Disposal of Data?
         * Grey area
-* Motivated kids are good at scavenging - some kids need support
+* Motivated kids are good at scavenging - some kids need support with this
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [_software]: _software.md "Education Software"

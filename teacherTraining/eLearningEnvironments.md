@@ -24,3 +24,5 @@ A competitive new space for Computing Education management
     * Anonymous posting encourages every student to participate
     * Highly customizable online polls
     * [See a Real Computer Science Class On Piazza](https://piazza.com/subjects/computer_science)
+* [autoMark](https://github.com/calaldees/autoMark) - my WIP
+    * Not really implemented - due to use on 12th January for my level 6 module

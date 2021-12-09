@@ -5,7 +5,7 @@ Creativity
     * Mini C - any attempt at new task (meaningful/value to learner)
     * Little C - might be of value to others
     * Pro C - professional value
-    * Big C (Einstine) - value to the world
+    * Big C (Einstein) - value to the world
 
 * Computational Thinking and Creativity
     * [Studying interrelations of computational thinking and creativity: A scoping review (2011–2020)](https://www.sciencedirect.com/science/article/pii/S036013152100230X) 2021 Rotem Israel-Fishelson ArnonHershkovitz
@@ -15,16 +15,33 @@ Creativity
 ---
 
 
-Autonmy over - academic railroad
-Creativity
+* Autonomy over - academic railroad
+    * We are teaching things that students are not interested in
+* non completion hierarchy wars
+* how do you make it less hierarchical
 
-non competion hiearachy wars
-how do you make it less hierachical 
-
-lunchtime? what are the other profetionals doing?
+lunchtime? what are the other professionals doing?
 
 
 ---
+
+
+* From [The Voices of Solution Tree](https://slideplayer.com/slide/3762685/) - 2011 Dylan Wiliam
+    * Example Course (Slide 32)
+        * Weeks 1 to 2
+            * Individual choice from a range of work provided by the teacher.
+            * Student self-assessment using materials provided
+        * Weeks 3 to 6
+            * Children construct own problems like those in weeks 1 and 2 and select structured math apparatus to aid solutions
+        * Weeks 7 to 10
+            * Children presented with a new learning objectives, and make up their own problems, without exemplars by the teacher
+        * Weeks 11 to 14
+            * Children set their own learning objectives, construct appropriate problems, and use appropriate self-assessment
+        * Weeks 15 to 20
+            * As weeks 1 to 14, but with less monitoring from the teacher and increased freedom of choice and personal responsibility
+    * WHAT? .. is this grounded in reality? Many adults can't do this?
+        * But Dylan has taught maths in central London schools. Does he know something we don't?
+
 
 
 ### Escape room idea
