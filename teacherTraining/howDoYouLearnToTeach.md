@@ -41,11 +41,12 @@ Tacit Knowledge
     * Tacit knowledge is knowledge that cannot be captured through words alone.
     * tacit knowledge feel like _a hunch_ - feels right. it enabled creative problem solving
     * Some people argue that tacit knowledge does not exist - everything can be quantified and deliberately taught
-
+* [Scaling tacit knowledge](https://nintil.com/scaling-tacit-knowledge/#tacit-knowledge-in-meetings)
 
 
 * Tacit knowledge transfer - e.g. Riding Bike, Learning to read
     * Can you write down the steps to ride a bike?
+    * [Learning How to Ride a Bike](https://notebook.wesleyac.com/learning-to-bike/)
 
 TASK: How would you teach someone to ride a bike?
 120 seconds - Write down - the phases/notes

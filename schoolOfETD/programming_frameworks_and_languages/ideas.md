@@ -11,6 +11,9 @@ MCOMD3PFL Programming Frameworks and Languages
 * [mapOfComputing](https://github.com/ComputingTeachers/mapOfComputing/)
 * [computingteachers.uk/langauge_reference](https://computingteachers.uk/static/langauge_reference.html)
 
+* [Plasmic](https://www.plasmic.app/) - The visual builder for your tech stack.
+  * No code - no need to developers
+
 
 * [twitter - professional developers conversation](https://twitter.com/b0rk/status/1436703520560910337)
     * > when you learn an abstraction first (like Rails), it can be hard to go learn about what's underneath (like TCP) and understand how it relates to the abstraction

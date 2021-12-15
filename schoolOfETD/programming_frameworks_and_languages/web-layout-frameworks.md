@@ -437,6 +437,7 @@ Other Projects
 * https://foundation.zurb.com/
 * https://bulma.io/
     * just css (no js)
+* [Pico CSS](https://picocss.com/) - Minimal CSS Framework for semantic HTML
 
 
 Further Reading

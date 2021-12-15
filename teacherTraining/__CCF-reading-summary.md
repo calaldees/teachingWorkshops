@@ -95,3 +95,5 @@ Mentor Knowledge
     * > mentors distinguish between the trainees' and their own needs as well as the school's goals.
     * > (mentors) tend to replicate strategies they use with their pupils.
     * > The way in which mentors perform their roles as evaluators, assessors and ‘critical friends’ will inevitably influence the quality of the mentoring relationship and largely determine the extent to which a critical, reflective or a conformist, passive attitude towards professional development is promoted
+* Further Reading
+    * [Habit formation limits growth in teacher effectiveness: A review of converging evidence from neuroscience and social science](https://bera-journals.onlinelibrary.wiley.com/doi/epdf/10.1002/rev3.3226)
