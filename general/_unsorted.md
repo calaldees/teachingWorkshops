@@ -130,3 +130,13 @@
 
 * [Skeptical About Electrical Planes](https://www.planeandpilotmag.com/news/pilot-talk/2021/10/14/skeptical-about-electrical/)
     * The maths may not add up
+
+* [Power Imbalances and Sex](https://knowingless.com/2016/08/21/power-imbalances-and-sex/)
+    * A look at multiple sides to society's obsession with the sexualisation of women
+* [Plans you're not supposed to talk about](https://dynomight.net/plans/)
+    * Marriage
+    * Climate change
+    * Religion
+    * You are right and other are wrong - strategic marketing
+    * Meaning of life and edge lords
+    * Traditional Chinese medicine vs wester medicine and public opinion

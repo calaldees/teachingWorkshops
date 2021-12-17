@@ -599,6 +599,9 @@ TODO?
 * Referencing/Supporting Evidence
 * Quality of written communication
 
+Template
+Seb Example
+https://cccu-my.sharepoint.com/:w:/g/personal/sb1501_canterbury_ac_uk/ERyQoBQxhpJJuco4pFxlgJoBG5J2AFvPBPxwUT_x2fY-lg?e=PeDJci
 
 Assignment 2 - Digital Artifact
 ------------

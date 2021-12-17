@@ -99,6 +99,8 @@ ACTIVITY:
 * What is a keylogger
 * Duplex printing
 * Copying a URL (remove the tracking query string)
+* Stop typing domain names into google - you don't need to search for "thing.com" just use the URL bar
+    * This is kind of Googles fault - they have deliberately confused users and made the the url bar synonymous with the search bar
 * [Why The Government Shouldn't Break WhatsApp](https://www.youtube.com/watch?v=CINVwWHlzTY&list=PL96C35uN7xGLLeET0dOWaKHkAlPsrkcha&index=1) Tom Scott 10min video
     * Government Backdoors
     * Encryption
