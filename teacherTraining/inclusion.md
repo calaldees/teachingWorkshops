@@ -64,6 +64,8 @@ SEND code of practice
 ---------------------
 
 * [SEND code of practice: 0 to 25 years](https://www.gov.uk/government/publications/send-code-of-practice-0-to-25)
+    * 1.24, 1.26
+    * Pretty much all of section 6 (weighted towards the earlier points)
 
 TASK 1: (15min)
 * What are your responsibilities as a subject teacher?
@@ -81,6 +83,95 @@ Some of my closing remarks
 * Many of the special schools have been closed - a wider spectrum of students are expected to attant mainstream education.
 * Every teacher is a teacher of SEN and disabilities - we do not delegate to other teachers - we ARE the support
 * We are an inclusive society
+
+<details>
+<summary>(Hidden) My Notes</summary>
+
+* 1.24
+    * High quality teaching that is differentiated and personalised will meet the individual needs of the majority of children and young people.
+    * Some children and young people need educational provision that is additional to or different from this.
+    * This is special educational provision under Section 21 of the Children and Families Act 2014.
+    * Schools and colleges must use their best endeavours to ensure that such provision is made for those who need it.
+    * Special educational provision is underpinned by high quality teaching and is compromised by anything less.
+* 1.26
+    * As part of its commitments under articles 7 and 24 of the United Nations Convention of the Rights of Persons with Disabilities, the UK Government is committed to inclusive education of disabled children and young people and the progressive removal of barriers to learning and participation in mainstream education.
+* Section 6: pg91 to pg110
+* 6.2
+    * ensure that children and young people with SEN engage in the activities of the school alongside pupils who do not have SEN
+    * The quality of teaching for pupils with SEN, and the progress made by pupils, should be a core part of the school’s performance management arrangements and its approach to professional development for all teaching and support staff. School leaders and teaching staff, including the SENCO, should identify any patterns in the identification of SEN
+    * The identification of SEN should be built into the overall approach to monitoring the progress and development of all pupils
+* 6.12
+    * All pupils should have access to a broad and balanced curriculum. 
+    * The National Curriculum Inclusion Statement states that teachers should set high expectations for every pupil, whatever their prior attainment. 
+    * Teachers should use appropriate assessment to set targets which are deliberately ambitious. 
+    * Potential areas of difficulty should be identified and addressed at the outset. 
+    * Lessons should be planned to address potential areas of difficulty and to remove barriers to pupil achievement. 
+    * In many cases, such planning will mean that pupils with SEN and disabilities will be able to study the full national curriculum.
+* 6.16
+    * Schools should assess each pupil’s current skills and levels of attainment on entry, building on information from previous settings and key stages where appropriate
+* 6.17
+    * Class and subject teachers, supported by the senior leadership team, should make regular assessments of progress for all pupils. 
+    * These should seek to identify pupils making less than expected progress given their age and individual circumstances
+* 6.18
+    * It can include progress in areas other than attainment – for instance where a pupil needs to make additional progress with wider development or social needs in order to make a successful transition to adult life
+* 6.19
+    * The first response to such progress should be high quality teaching targeted at their areas of weakness.
+    * Where progress continues to be less than expected the class or subject teacher, working with the SENCO, should assess whether the child has SEN
+* 6.21
+    * Persistent disruptive or withdrawn behaviours do not necessarily mean that a child or young person has SEN. Where there are concerns, there should be an assessment to determine whether there are any causal factors such as undiagnosed learning difficulties, difficulties with communication or mental health issues. 
+    * If it is thought housing, family or other domestic circumstances may be contributing to the presenting behaviour a multi-agency approach
+* 6.22
+    * Professionals should also be alert to other events that can lead to learning difficulties or wider mental health difficulties, such as bullying or bereavement.
+    * Such events will not always lead to children having SEN but it can have an impact on wellbeing and sometimes this can be severe.
+    * Schools should ensure they make appropriate provision for a child’s short-term needs in order to prevent problems escalating.
+* 6.23
+    * Slow progress and low attainment do not necessarily mean that a child has SEN and should not automatically lead to a pupil being recorded as having SEN. 
+    * However, they may be an indicator of a range of learning difficulties or disabilities.
+    * Equally, it should not be assumed that attainment in line with chronological age means that there is no learning difficulty or disability.
+    * Some learning difficulties and disabilities occur across the range of cognitive ability and, left unaddressed may lead to frustration, which may manifest itself as disaffection, emotional or behavioural difficulties.
+* 6.24
+    * Identifying and assessing SEN for children or young people whose first language is not English requires particular care
+* (6.28 -> 6.35) 4 areas of need
+    * Communication / Interaction (6.28, 6.29)
+        * Speech Language
+        * Autism
+        * Aspergers
+    * Cognition (6.30, 6.31)
+        * Learning difficulties
+        * Specific learning difficulties
+            * Dyslexic, Dispracsic
+    * Social / Emotional (6.32, 6.33)
+        * ADHD
+        * Attachment Disorder
+        * Self Harm
+    * Sensory / Physical (6.34, 6.35)
+        * Visual
+        * Hearing
+        * Physical
+* 6.37
+    * High quality teaching, differentiated for individual pupils, is the first step in responding to pupils who have or may have SEN.
+    * Additional intervention and support cannot compensate for a lack of good quality teaching. 
+    * Schools should regularly and carefully review the quality of teaching for all pupils, including those at risk of underachievement.
+    * This includes reviewing and, where necessary, improving,teachers’ understanding of strategies to identify and support vulnerable pupils and their knowledge of the SEN most frequently encountered
+* 6.45 Assess
+    * ... subject teacher, working with the SENCO, should carry out a clear analysis of the pupil’s needs.
+    * This should draw on the teacher’s assessment and experience of the pupil, their previous progress and attainment, as well as information from the school’s core approach to pupil progress, attainment, and behaviour.
+    * It should also draw on other subject teachers’ assessments where relevant, the individual’s development in comparison to their peers and national data, the views and experience of parents, the pupil’s own views and, if relevant, advice from external support services.
+    * Schools should take seriously any concerns raised by a parent.
+    * These should be recorded and compared to the setting’s own assessment and information on how the pupil is developing.
+* 6.49 Plan
+    * All teachers and support staff who work with the pupil should be made aware of their needs, the outcomes sought, the support provided and any teaching strategies or approaches that are required. This should also be recorded on the school’s information system.
+* 6.52 Do
+    * subject teacher should remain responsible for working with the child on a daily basis. Where the interventions involve group or one-to-one teaching away from the main class or subject teacher, they should still retain responsibility for the pupil.
+* 6.54 Review
+    * The impact and quality of the support and interventions should be evaluated, along with the views of the pupil and their parents.
+* 6.65
+    * Where a pupil is receiving SEN support, schools should talk to parents regularly to set clear outcomes and review progress towards them
+* 6.66
+    * These discussions can build confidence in the actions being taken by the school, but they can also strengthen the impact of SEN support by increasing parental engagement in the approaches and teaching strategies that are being used
+* 6.68
+    * Conducting these discussions effectively involves a considerable amount of skill. As with other aspects of good teaching for pupils with SEN, schools should ensure that teaching staff are supported to manage these conversations as part of professional development.
+</details>
 
 
 Inclusive Society?
@@ -124,8 +215,32 @@ Accessibility
 As teachers we will create digital content and put this on VLE's (Virtual Learning Environments).
 We need to adhere to government requirements
 
-TASK: Skim read (10min) - As a group - relay anything that we as teachers need to consider about out content?
+### Online Content
+
+TASK: (5min) Skim read 
 * [Understanding Web Content Accessibility Guidelines - WCAG 2.1](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag)
+    * Further Reading
+        * [Understanding accessibility requirements for public sector bodies](https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps)
+            * not need to fix
+                * pre-recorded audio and video published before 23 September 2020
+                * live audio and video
+        * [Imperial College - Video guidelines](https://www.imperial.ac.uk/staff/tools-and-reference/web-guide/policies-and-guidance/accessibility-standards/teaching-videos/)
+* TASK: (10min) As a group
+    * relay anything that we as teachers need to consider about the content we provide to students?
+
+<details>
+<summary>My notes</summary>
+* provide transcripts for audio and video
+* provide captions for video
+* keyboard users
+* can disable animations
+* not use 'images' of text
+* Don't distinguish things by colour alone
+
+These are apparently enforceable?
+</details>
+
+### Text
 
 * Paragraphs and dense text
     * I struggle with lots of words
@@ -139,15 +254,31 @@ TASK: Skim read (10min) - As a group - relay anything that we as teachers need t
 TASK: Copy/Paste some text you have written (maybe one of your reflections?) into hemingwayapp.com
 
 
-### What would you do to
+Planning for Inclusion (30min)
+----------------------
 
-* Really short sighted student?
-    * ?
-* Limited english skills
-    * ?
+Consider the Short, medium, long term needs for these students
+
+> Alex is in year 11 and has moved to the school recently. They are currently transitioning gender and left their last school due to bullying. Alex's demeanour is anxious, shy, quiet and reserved. They are not social integrating well.
+
+> Ahmed is in year 9 and is an elective mute. Based on their CAT/SAT's they are progressively underachieving each year. Ahmed is attentive and tries to engage with the work but is does not participate in group or class discussions well.
+
+> Janice has poor attendance (87%). Often defiant to instructions. Rarely attempts homework. Year 10.
+
+> Amina is very short sighted. Year 8. She hates being singled out and made to sit at the front, she feels unconfortable that everyone is looking at her. She always needs information repeated before she starts a task.
+
+> Siedria has english as a second language and always needs additional teacher support to start a task. They either complete programming assignments very well or fails to submit anything. Year 9.
+
+> Brian (Year 7) can reason about tasks verbally, but types so slowly that he has been unable to complete 4 out of the 6 tasks in the space of the lesson this term. He has come back at lunchtime to finish his tasks.
+
+> Add your own from your experience
 
 
----
+
+
+
+Data
+----
 
 
 ### Metrics (to assist your planning)
@@ -278,90 +409,6 @@ TASK: (15min total)
 * (Conduct your own discussion without tutor support)
 
 
-Academically More Able
-----------------------
-
-* [The Push for Equity in Education Hurts Vulnerable Children the Most](https://quillette.com/2021/11/25/the-push-for-equity-in-education-hurts-vulnerable-children-most/) Russell T. Warne 2021
-    * TODO
-
-* [13-Year-Old, Nicholas Sharkey, Creates a RISC-V Core](https://riscv.org/blog/2020/11/13-year-old-nicholas-sharkey-creates-a-risc-v-core/)
-* > ‘Too many bright children let down in the state system’ Ofsted 2013
-* > ‘The most able students report finds that too few schools set high enough expectations of what their brightest students can achieve’. Ofsted 2103
-
-TASK: 10min
-* In google doc
-* List of characteristics which you consider to exemplify those pupils who are considered _able_ in Computing
-* Some ideas to kickstart your thinking
-    * [Identifying more able learners: beyond the numbers](https://www.nace.co.uk/blogpost/1764163/327555/Identifying-more-able-learners-beyond-the-numbers) NACE 2019
-    * [Traits of Giftedness](https://www.nagc.org/resources-publications/resources/my-child-gifted/common-characteristics-gifted-individuals/traits) Clark, B. (2008). Growing up gifted
-
-* [Achieving equity through mediocrity: Why elimination of gifted programs should worry us all](https://thehill.com/opinion/education/576491-achieving-equity-through-mediocrity-why-elimination-of-gifted-programs)
-    * > Journalist H.L. Mencken once denounced public education as an effort “simply to reduce as many individuals as possible to the same safe level, to breed a standard citizenry, to put down dissent and originality.”
-* Goodhearts law - metrics will be gamed - if you truly want to reduce the attainment gap, just send the good students home 3 days a week
-
-### Webinar Summary - How to Support the More Able
-
-* [Webinar: How to Support All Learners Part 2: More Able](https://my.chartered.college/2020/11/webinar-how-to-support-all-learners-part-2-more-able/) Dr. Keith Watson
-    * supports Early Career Teachers in
-    * National Association for Able Children in Education [NACE](https://www.nace.co.uk/)
-        * Resources behind a paywall - no individual signup path
-        * [blog](https://www.nace.co.uk/page/blog)
-        * [NACE sample resources](https://www.nace.co.uk/page/resources-sample)
-            * [Getting started with more able](https://cdn.ymaws.com/www.nace.co.uk/resource/collection/7E47A043-4EAE-4DB6-B183-BE77054F6BEA/SAMPLE_NACE_Essentials_Getting_Started.pdf)
-    * _A lecture_ is the transfer of knowledge from the notepad of the lecturer to the notepad of the learner without engaging the brain
-    * Get to know them - tap into their interests
-    * How hard did they think - ask them 'scale of 1 to 10'
-    * teddy 16cm,19cm,12cm how many would fit in classroom? How many golf balls in brazil?
-    * How are you making them think?
-    * > Standard 1: Set Goals that stretch and challenge pupils of all background, abilities and dispositions
-    * 15% of highly able pupils who score in 10% nationally at age 11 fail to achieve in the top 25% at GCSE (Ofsted 2018)
-    * Language _gifted_, _talented_, _skilled_, _clever_ (hidden meaning) - what is the policy in your school?
-        * 10% of cohort?
-        * gifted 0.5%
-    * Cant rely on test scores - motivation, concentration
-        * [Identifying more able learners: beyond the numbers](https://www.nace.co.uk/blogpost/1764163/327555/Identifying-more-able-learners-beyond-the-numbers)
-    * Careful with labels (smart/gifted/talented)
-        * More able are not used to failure - an emotional problem for many more able children
-        * A label gives pressure to student?
-    * Is it good to be clever? (social stigma)
-    * Get them to Link things (mind map, )
-    * Verbal and your dialogue - is powerful and immediate - written is not timely and seldom interpreted correctly
-        * Is this in your lesson plan?
-    * > Structured tinkering
-    * I-PENCIL Keith Watson 2006 (can't find reference to this)
-        * Independent
-        * Plenary
-        * Extended - You cant write Charles Dickens in 20min
-            * Time? Independence?
-        * Negotiated
-            * Learners are part of the planning process
-        * Cutaway
-            * Brief, cutaway, lap to check, pullback+review/input, cutaway,
-            * small interventions
-        * Idiosyncratic
-            * How well do you know them?
-        * Listen
-            * Dialogue about learning
-    * When talking to the whole class - "Who do I need here now"
-    * "Why is this important?" "What makes you think that?"
-    * Signpost + encourage - point them in the right direction
-        * External communities (BarCamp?)
-        * Older pupils?
-        * You a planting seeds
-    * Describe
-        * only allowed 10 words
-        * only use shapes
-    * Learning Theory is good, but don't become overly mechanical
-    * "We have to worry about semi colons, but I want to write from the heart" year 10 pupil
-    * If you were a font, which would you be?
-    * When I teach you, what is it that I do that helps you?
-    * Don't have your more able supporting the others a disproportionate amount of time
-    * Be careful of _public praise_
-        * creates a social divide
-        * create dependency on praise
-    * Collaboratively create a wall display to conveys the class work this term?
-    * Some students are hyper focused on one very narrow area
-        * Keep signposting and gently encouraging outside of that area
 
 
 Differentiation
@@ -399,10 +446,7 @@ ITT CCF
 
 ### Expertise Reversal Effect
 
-* Too much support for weaker learners can harm the most able
-    * [Expertise Reversal Effect and its Instructional Implications](https://impact.chartered.college/article/expertise-reversal-effect-instructional-implications/)
-        * > ... a technique that reduces working memory load for low-knowledge learners (e.g. by providing strong instructional support) might lose its effectiveness and may even bring negative consequences for more knowledgeable learners; they may learn better in an environment with minimal guidance. This is known as the expertise reversal effect ...
-        * > ... implication of the effect is the need to develop an adaptive learning environment in which learning materials are tailored in accordance with learners’ current levels of achievement ...
+See AMA
 
 ### MOOC's
 
@@ -577,6 +621,15 @@ Disadvantaged Students
 
 TASK: What is [Pupil-Premium](https://www.gov.uk/government/publications/pupil-premium/pupil-premium)? (10min)
 You tell me
+
+<details>
+<summary>(Hidden) My summary</summary>
+
+* extra £1000 per students classed as FSM or in care
+* NOT related to ability
+* Money can be spent on 'all pupils' not just eligible ones
+* Average - a school of 1000 could have 100 PP == £100,000?
+</details>
 
 * [New measures to support disadvantaged children in schools](https://www.gov.uk/government/news/new-measures-to-support-disadvantaged-children-in-schools)
     * > with every classroom having three children who have come into contact with a social worker
@@ -792,91 +845,6 @@ Gender
 Appendix
 ========
 
-* [SEND code of practice: 0 to 25 years](https://www.gov.uk/government/publications/send-code-of-practice-0-to-25)
-    * 1.24
-        * High quality teaching that is differentiated and personalised will meet the individual needs of the majority of children and young people.
-        * Some children and young people need educational provision that is additional to or different from this.
-        * This is special educational provision under Section 21 of the Children and Families Act 2014.
-        * Schools and colleges must use their best endeavours to ensure that such provision is made for those who need it.
-        * Special educational provision is underpinned by high quality teaching and is compromised by anything less.
-    * 1.26
-        * As part of its commitments under articles 7 and 24 of the United Nations Convention of the Rights of Persons with Disabilities, the UK Government is committed to inclusive education of disabled children and young people and the progressive removal of barriers to learning and participation in mainstream education.
-    * Section 6: pg91 to pg110
-    * 6.2
-        * ensure that children and young people with SEN engage in the activities of the school alongside pupils who do not have SEN
-        * The quality of teaching for pupils with SEN, and the progress made by pupils, should be a core part of the school’s performance management arrangements and its approach to professional development for all teaching and support staff. School leaders and teaching staff, including the SENCO, should identify any patterns in the identification of SEN
-        * The identification of SEN should be built into the overall approach to monitoring the progress and development of all pupils
-    * 6.12
-        * All pupils should have access to a broad and balanced curriculum. 
-        * The National Curriculum Inclusion Statement states that teachers should set high expectations for every pupil, whatever their prior attainment. 
-        * Teachers should use appropriate assessment to set targets which are deliberately ambitious. 
-        * Potential areas of difficulty should be identified and addressed at the outset. 
-        * Lessons should be planned to address potential areas of difficulty and to remove barriers to pupil achievement. 
-        * In many cases, such planning will mean that pupils with SEN and disabilities will be able to study the full national curriculum.
-    * 6.16
-        * Schools should assess each pupil’s current skills and levels of attainment on entry, building on information from previous settings and key stages where appropriate
-    * 6.17
-        * Class and subject teachers, supported by the senior leadership team, should make regular assessments of progress for all pupils. 
-        * These should seek to identify pupils making less than expected progress given their age and individual circumstances
-    * 6.18
-        * It can include progress in areas other than attainment – for instance where a pupil needs to make additional progress with wider development or social needs in order to make a successful transition to adult life
-    * 6.19
-        * The first response to such progress should be high quality teaching targeted at their areas of weakness.
-        * Where progress continues to be less than expected the class or subject teacher, working with the SENCO, should assess whether the child has SEN
-    * 6.21
-        * Persistent disruptive or withdrawn behaviours do not necessarily mean that a child or young person has SEN. Where there are concerns, there should be an assessment to determine whether there are any causal factors such as undiagnosed learning difficulties, difficulties with communication or mental health issues. 
-        * If it is thought housing, family or other domestic circumstances may be contributing to the presenting behaviour a multi-agency approach
-    * 6.22
-        * Professionals should also be alert to other events that can lead to learning difficulties or wider mental health difficulties, such as bullying or bereavement.
-        * Such events will not always lead to children having SEN but it can have an impact on wellbeing and sometimes this can be severe.
-        * Schools should ensure they make appropriate provision for a child’s short-term needs in order to prevent problems escalating.
-    * 6.23
-        * Slow progress and low attainment do not necessarily mean that a child has SEN and should not automatically lead to a pupil being recorded as having SEN. 
-        * However, they may be an indicator of a range of learning difficulties or disabilities.
-        * Equally, it should not be assumed that attainment in line with chronological age means that there is no learning difficulty or disability.
-        * Some learning difficulties and disabilities occur across the range of cognitive ability and, left unaddressed may lead to frustration, which may manifest itself as disaffection, emotional or behavioural difficulties.
-    * 6.24
-        * Identifying and assessing SEN for children or young people whose first language is not English requires particular care
-    * (6.28 -> 6.35) 4 areas of need
-        * Communication / Interaction (6.28, 6.29)
-            * Speech Language
-            * Autism
-            * Aspergers
-        * Cognition (6.30, 6.31)
-            * Learning difficulties
-            * Specific learning difficulties
-                * Dyslexic, Dispracsic
-        * Social / Emotional (6.32, 6.33)
-            * ADHD
-            * Attachment Disorder
-            * Self Harm
-        * Sensory / Physical (6.34, 6.35)
-            * Visual
-            * Hearing
-            * Physical
-    * 6.37
-        * High quality teaching, differentiated for individual pupils, is the first step in responding to pupils who have or may have SEN.
-        * Additional intervention and support cannot compensate for a lack of good quality teaching. 
-        * Schools should regularly and carefully review the quality of teaching for all pupils, including those at risk of underachievement.
-        * This includes reviewing and, where necessary, improving,teachers’ understanding of strategies to identify and support vulnerable pupils and their knowledge of the SEN most frequently encountered
-    * 6.45 Assess
-        * ... subject teacher, working with the SENCO, should carry out a clear analysis of the pupil’s needs.
-        * This should draw on the teacher’s assessment and experience of the pupil, their previous progress and attainment, as well as information from the school’s core approach to pupil progress, attainment, and behaviour.
-        * It should also draw on other subject teachers’ assessments where relevant, the individual’s development in comparison to their peers and national data, the views and experience of parents, the pupil’s own views and, if relevant, advice from external support services.
-        * Schools should take seriously any concerns raised by a parent.
-        * These should be recorded and compared to the setting’s own assessment and information on how the pupil is developing.
-    * 6.49 Plan
-        * All teachers and support staff who work with the pupil should be made aware of their needs, the outcomes sought, the support provided and any teaching strategies or approaches that are required. This should also be recorded on the school’s information system.
-    * 6.52 Do
-        * subject teacher should remain responsible for working with the child on a daily basis. Where the interventions involve group or one-to-one teaching away from the main class or subject teacher, they should still retain responsibility for the pupil.
-    * 6.54 Review
-        * The impact and quality of the support and interventions should be evaluated, along with the views of the pupil and their parents.
-    * 6.65
-        * Where a pupil is receiving SEN support, schools should talk to parents regularly to set clear outcomes and review progress towards them
-    * 6.66
-        * These discussions can build confidence in the actions being taken by the school, but they can also strengthen the impact of SEN support by increasing parental engagement in the approaches and teaching strategies that are being used
-    * 6.68
-        * Conducting these discussions effectively involves a considerable amount of skill. As with other aspects of good teaching for pupils with SEN, schools should ensure that teaching staff are supported to manage these conversations as part of professional development.
 
 
 

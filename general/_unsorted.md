@@ -140,3 +140,16 @@
     * You are right and other are wrong - strategic marketing
     * Meaning of life and edge lords
     * Traditional Chinese medicine vs wester medicine and public opinion
+
+* [linklonk.com](https://linklonk.com/)
+    * LinkLonk helps you find content that is worth your time. 
+
+
+* Predicting the Future
+    * [Same Old](https://reallifemag.com/same-old/) - What is the point of imagining new technologies without new ways of living?
+        * Jetsons is just the 60's nuclear family with the same roles
+    * [Image 87 of The New York herald (New York, N.Y.), May 7, 1922, (SECTION SEVEN) ](https://www.loc.gov/resource/sn83045774/1922-05-07/ed-1?sp=87&r=0.3,0.239,0.702,0.331,0)
+        * Predictions about 2022 from 1922
+        * Scary accurate
+    * Oh, 2022! [Looking 10 years](http://www.antipope.org/charlie/blog-static/2022/01/oh-2022.html)
+    * [Ten years ago, I predicted 2022. Did I get it right?](https://www.youtube.com/watch?v=NYj3DnI81AQ) Tom Scott YouTube 10min

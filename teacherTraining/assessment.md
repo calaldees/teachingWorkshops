@@ -1,6 +1,12 @@
 Formative Assessment
 ====================
 
+TODO: 
+* [The shape of assessment](https://learningspy.co.uk/assessment/the-shape-of-assessment/)
+    * tradition Assessment is just to put students in rank order
+    * mastery assessment should assume failure is due to 'instruction' (single class) or 'curriculum' (all class's)
+* Individual grades - whole class feedback (this is acceptable to ofsed)
+
 Objectives
 
 * Learning v progress; what does Computing learning look like?

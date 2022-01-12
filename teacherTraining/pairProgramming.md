@@ -264,3 +264,12 @@ data = ['b', 'd', 'c', 'a'];
 data = bubbleSort(data);
 console.log(data);
 ```
+
+
+Unsorted
+========
+
+* [Collaborative Behavior Patterns of Students in Programming Instruction](https://journals.sagepub.com/doi/full/10.1177/07356331211062260)
+    *  During the program development process, students hesitated to create an algorithm and to improve an existing one while proposing the next step. 
+    *  In addition, they constantly waited for approval. 
+    *  Collaborative behaviors such as giving and receiving feedback and helping other partners were less observed in females.

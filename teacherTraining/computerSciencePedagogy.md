@@ -295,6 +295,20 @@ Instructional Continuum - Range of structured tasks
     6. Tinkering: completely unstructured student-led exploration, e.g. explore a software”
 
 
+* [Innovative teaching in computer science: what does it mean and why do we need it?](https://www.tandfonline.com/doi/full/10.1080/08993408.2010.486239) 2010 Y. Ben-David Kolikant 
+    * encourage students to become more active in their learning, 
+    * make the CS classroom more authentic, more similar to the real work setting of CS practitioners
+    * build on students' existing knowledge and understanding
+    * encourage peer learning in various ways. In all papers, ICT is used to leverage these efforts.
+    * > bring about a transformation in the students' professional point of view: Helping them become competent and appreciative of what CS professionals deem as problems worth solving, acceptable work process, elegant and effective solutions, knowledge worth knowing, and so forth
+    * “Experiences with lab-centric instruction”, Titterton, Lewis, and Clancy
+        * > substituting lecture for lab time
+    * Teaching computer science through problems, not solutions”, Fee and Holland-Minkley propose a problem-based learning
+    * Constructive evaluation: a pedagogy of student-contributed assessment”, Luxton-Reilly and Denny
+        * > “constructive evaluation”. Students are required to author questions that assess one or more of the learning outcomes of a course and provide a sample solution
+
+* [Teaching computer science through problems, not solutions](https://www.tandfonline.com/doi/full/10.1080/08993408.2010.486271)  Samuel B. Fee and Amanda M. Holland-Minkley 2010
+    * TODO
 
 Societal
 --------
@@ -314,6 +328,9 @@ Concept Maps
 
 * NCCE [Quick Read: Using concept maps to capture, communicate, construct, and assess knowledge](https://blog.teachcomputing.org/using-concept-maps-to-capture-communicate-construct-and-assess-knowledge/)
     * [Examples](https://raspberrypi-education.s3-eu-west-1.amazonaws.com/Quick+Reads/National+Centre+for+Computing+Education+concept+map+examples.pdf)
+
+* [Effect of Mind Mapping on Creative Thinking of Children in Scratch Visual Programming Education](https://journals.sagepub.com/doi/full/10.1177/07356331211053383) 2021
+    * TODO
 
 Parson Problems
 ---------------
@@ -381,6 +398,37 @@ Building Code Comprehension
     *  > students who learn by constructivist guidance and over time gain experience in visual programming, close the gap with students learning under instructivist guidance in their ability to create an artifact at a good programming level. It can be assumed that ongoing constructivist guidance emphasizing active learning, encourages students to choose high standards for their projects
     *  > (constructivist) ... will ultimately lead students to overall and broader success in the learning process, although this does require additional time.
     *  > After six months of experience under constructivist guidance, students were able to program with a base of wider personal knowledge and experience
+
+
+Traditional Computational Thinking - New Computational Thinking
+---------------------------------------------------------------
+
+* [Remaining trouble spots with computational thinking](https://dl.acm.org/doi/10.1145/2998438) Denning 2017
+    * AWESOME ARTICLE!!!! (TODO Recommend on reading list)
+    * Question 1: What Is Computational Thinking?
+    * Question 2: How Do We Measure Students’ Computational Abilities?
+        * > we have no consensus on what constitutes the skill and our current assessment methods are unreliable indicators.
+        * > (in) 1958, philosopher Michael Polanyi discussed the difference between “explicit knowledge” (descriptions written down) and “tacit knowledge” (skillful actions). He famously said: “We know more than we can say.”
+        * > To certify skills you need a model for skill development.
+        * > These knowledge progressions are not the same as skill acquisition progression
+        * > The CAS framework does not discuss abilities to be acquired during the progression
+        * Employers are turning to competency-based assessment faster than educational institutions. 
+        * Many employers no longer trust transcripts and diplomas. Instead they organize interviews as rigorous problem-solving sessions with different groups in the company. 
+        * An applicant will not be hired without demonstrating competence in solving the kinds of problems of interest to the employer. 
+        * The idea of assessing skill by performance is actually quite common in education. In sports, music, theater, and language departments, for example, students audition for spots on the team, places in the orchestra, roles in the play, or competency certificates at a language. Although code-a-thons are becoming more prevalent and many computing courses include projects that assess skill by performance, 
+        * computing education would benefit from a deep look at competency-based assessment
+    * Question 3: Is Computational Thinking Good for Everyone?
+        * In Traditional CT programming ability produces CT, and in New CT learning certain concepts produces programming ability
+        * Traditional CT
+            * Programs are tightly coupled with algorithms; programs are algorithms expressed in a computer language; algorithms derive their precision from a computational model
+        * New CT (Jeannette Wing coined in 2006) Professor of Comuter Science at Carnegie Mellon [Computational Thinking](https://dl.acm.org/doi/10.1145/1118178.1118215)
+            *  > “everyone, not just those who major in computer science, can benefit from thinking like a computer scientist"
+                * this general claim has never been substantiated with empirical research
+            * Programs are loosely coupled with algorithms; algorithms are for all kinds of information processors including humans—it is completely optional whether an algorithm will ever be translated into a program
+    * > use competency-based skill assessments to measure student progress. Be wary of the claim of universal value, for it has little empirical support
+    * > Focus on helping students learn to design useful and reliable computations in various domains of interest to them
+    * > It would do all of us good to tone down the rhetoric about the universal value of computational thinking. Advocates should conduct experiments that will show the rest of us why we should accept their claims. 
+* Rotten STEM Woodard says just developing tech workers
 
 
 Algorithm PCK
@@ -520,6 +568,14 @@ Further Pedagogy Information
 Unsorted
 ========
 
+* [Programming music with Sonic Pi promotes positive attitudes for beginners](https://www.sciencedirect.com/science/article/pii/S0360131521002864)
+    * TODO
+
+* [A systematic review of “Hour of Code” research](https://www.tandfonline.com/doi/full/10.1080/08993408.2021.2022362) Dec 2021
+    * > As there exists significant variety between different HoC activities, further research into the concept and method differences between activities may provide further insight.
+    * > HoC increases awareness of CS education and provides opportunities for students to engage with computers
+    * > this research also points out significant shortcomings of the current initiatives and provides suggestions for future improvement. In order to reasonably support the amount of resources and the time dedicated, research is needed to show how HoC improves K-12 student engagement.
+
 * [Problem Solving Attitudes & Behaviours](https://code-it.co.uk/attitudes/) Phil Bagge and Mark Dorling
     * Computing problem solver
         * Handles Ambiguity
@@ -575,17 +631,7 @@ Unsorted
     * TODO make notes
 
 
-* [Innovative teaching in computer science: what does it mean and why do we need it?](https://www.tandfonline.com/doi/full/10.1080/08993408.2010.486239) 2010 Y. Ben-David Kolikant 
-    * encourage students to become more active in their learning, 
-    * make the CS classroom more authentic, more similar to the real work setting of CS practitioners
-    * build on students' existing knowledge and understanding
-    * encourage peer learning in various ways. In all papers, ICT is used to leverage these efforts.
-    * > bring about a transformation in the students' professional point of view: Helping them become competent and appreciative of what CS professionals deem as problems worth solving, acceptable work process, elegant and effective solutions, knowledge worth knowing, and so forth
-    * “Experiences with lab-centric instruction”, Titterton, Lewis, and Clancy
-        * > substituting lecture for lab time
-    * Teaching computer science through problems, not solutions”, Fee and Holland-Minkley propose a problem-based learning
-    * Constructive evaluation: a pedagogy of student-contributed assessment”, Luxton-Reilly and Denny
-        * > “constructive evaluation”. Students are required to author questions that assess one or more of the learning outcomes of a course and provide a sample solution
+
 
 * [A Periodic Table of Computing Education Learning Theories](https://dl.acm.org/doi/10.1145/3304221.3325534)
     * Links to collections of papers

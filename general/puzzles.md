@@ -1,0 +1,1 @@
+* [Coming to Agreement, a logic puzzle for Oxford admissions interviews](http://jdh.hamkins.org/coming-to-agreement-logic-puzzle/)
