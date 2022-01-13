@@ -12,6 +12,15 @@ Creativity
         * TODO! Massive! Loads of references. Compares measures of creativity. This looks like gold!
 
 
+* [Do Schools Kill Creativity](https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity) TED 18min
+    * 72 million views - ULTRA popular
+    * Education takes them into a future you can't grasp
+    * All kids have tremendous talents and we squander them
+    * Creativity should be treated with the same status as literacy
+    * Nobody knows what god looks like - they will in a minuet
+    * We get educated out of creativity
+    * (4min before end to 2min before end) Gillion Lyn - "She's a dancer"
+
 ---
 
 

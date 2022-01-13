@@ -271,10 +271,24 @@ Consider the Short, medium, long term needs for these students
 
 > Brian (Year 7) can reason about tasks verbally, but types so slowly that he has been unable to complete 4 out of the 6 tasks in the space of the lesson this term. He has come back at lunchtime to finish his tasks.
 
+• Cultural Values Dictate Disorders
+
+Strength Awareness
+• Positive Role Models
+• Assistive Technologies/UDL
+• Strength-Based Learning Strategies
+• Enhanced Human Resource Network
+• Affirmative Career Aspirations
+• Positive Environmental Modifications
+
+
 > Add your own from your experience
 
 
+Neurodiversity vs assessment requirements
+disability discrimination - attendence
 
+18 and never invited to
 
 
 Data
@@ -731,7 +745,12 @@ Unsorted
 ========
 
 
-* [Inclusive Differentiation](https://youtu.be/aPTZpLaJvUA?t=2545) 42:40 
+
+* [Inclusive Differentiation](https://youtu.be/aPTZpLaJvUA?t=2545) 42:40 to 47:17 Wilam Example Talk
+    * Q&A with Dylan Wiliam at Embedding Formative Assessment SSAT/EEF Celebration Event
+    * Teacher introduces rule (if lucky teacher might explain why) - students reproduce 20 times
+    * In japan one method - students in groups come up with as many ways as possible - 13 ways (Japanese teachers know this)
+    * Differentiation comes from the teacher asking probing questions and ramping up cognative demand
     * not separate tasks - teacher stretching groups
 
 
