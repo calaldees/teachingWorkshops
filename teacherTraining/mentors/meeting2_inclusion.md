@@ -1,6 +1,11 @@
 Mentor Gathering 2
 ==================
 
+1. Announcements + What this session is (10min)
+2. Spotlight discussion - Inclusion (45min)
+3. Future Network Meetings (5min)
+
+
 Announcements
 -------------
 
@@ -42,7 +47,7 @@ Teacher Educators - The near future
     * Mentor Gathering
     * Teacher Educator Network Meeting
 
-* Reading from [ITT Core Content Framework](https://www.gov.uk/government/publications/initial-teacher-training-itt-core-content-framework) (CCF)
+* Reading suggested from [ITT Core Content Framework](https://www.gov.uk/government/publications/initial-teacher-training-itt-core-content-framework) (CCF)
     * [What informs mentors' practice when working with trainees and newly qualified teachers? An investigation into mentors' professional knowledge base](../__CCF-reading-summary.md#mentor-knowledge) 2007 Jones M, Straker K
         * > we need to enable mentors to free themselves from the idiosyncratic practices they may have developed over the years by providing access to adequate training and developmental programmes
 
