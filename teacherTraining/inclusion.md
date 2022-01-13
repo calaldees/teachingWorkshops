@@ -1,26 +1,34 @@
-Inclusion - Part 1
-==================
+Inclusion
+=========
 
-Course Session Plan
--------------------
+Who are we including? (15min)
+---------------------
 
-* Provision for students with SEND in Computing
-    * Strategies to aid individual students with different specific needs;
-        * EAL (English as additional language)
-        * Dyspraxia
-        * Dyslexia
-        * Dyscalculia
-        * ASD (Autistic spectrum disorder)
-        * BSED (Emotional behavioural social, difficulties)
-            * Anxiety
-        * ODD (Oppositional Defiant Disorder)
-        * ADHD (Attention deficit hyperactivity disorder)
-        * Hearing impairment
-        * Visual impairment
-    * Planning for TA's
-* Use of data to aid planning of inclusion
-    * What might this mean in the context of Computing
-* Discussion: Segregation to improve inclusion?
+Brainstorm spider diagram - board
+
+
+The Inclusion Conundrum
+-----------------------
+
+Education for all is seen as a human right
+
+* Give equal time to all
+    * Progress is a cumulative effect (the good just get better)
+* Equity? Send all achieving students home (ignore the achieving)
+    * old strategy - ignore the gcse students level >= 5
+    * newer strategy - same, but for progress 8
+* Reality - aim for the average
+    * Everyone makes progress (but this progress is less than optimal)
+        * Least damage to weak
+        * Least damage to strong
+        * Best average case
+            * Weak never socially advance
+                * as gap between weak and strong will never close
+            * Strong are not exceptional
+                * Countries economic output?
+* Conundrum - stuck in the vortex of:
+    * No attainment matters - everyone is an individual with skills/passion they can offer
+    * (At the same time) attainment matters - stuff needs to get done and some tasks are so skilled they need a lifetime of training to get there
 
 
 Pre-Reading
@@ -49,15 +57,52 @@ ITT CCF
 * Adaptive Teaching (Standard 5–‘Adapt teaching’)
     * Learn That
         1. Pupils are likely to learn at different rates and to require different levels and types of support from teachers to succeed
-        3. Adapting teaching in a responsive way, including by providing targeted support to pupils who are struggling, is likely to increase pupil success
-        4. Adaptive teaching is less likely to be valuable if it causes the teacher to artificially create distinct tasks for different groups of pupils or to set lower expectations for particular pupils
-        7. Pupils with special educational needs or disabilities are likely to require additional or adapted support; working closely with colleagues, families and pupils to understand barriers and identify effective strategies is essential
+        2. Adapting teaching in a responsive way, including by providing targeted support to pupils who are struggling, is likely to increase pupil success
+        3. Adaptive teaching is less likely to be valuable if it causes the teacher to artificially create distinct tasks for different groups of pupils or to set lower expectations for particular pupils
+        4. Pupils with special educational needs or disabilities are likely to require additional or adapted support; working closely with colleagues, families and pupils to understand barriers and identify effective strategies is essential
     * Learn How to
         * Identifying pupils who need new content further broken down.
 * Professional Behaviours (Standard 8–‘Fulfil wider professional responsibilities’)
     4. Building effective relationships with parents, carers and families can improve pupils’ motivation, behaviour and academic success
     5. Teaching assistants (TAs) can support pupils more effectively when they are prepared for lessons by teachers, and when TAs supplement rather than replace support from teachers.
     6. SENCOs, pastoral leaders, careers advisors and other specialist colleagues also have valuable expertise and can ensure that appropriate support is in place for pupils
+
+
+
+Planning for Inclusion (30min)
+----------------------
+
+Consider the Short, medium, long term actions for these students
+
+> Alex is in year 11 and has moved to the school recently. They are currently transitioning gender and left their last school due to bullying. Alex's demeanour is anxious, shy, quiet and reserved. They are not social integrating well.
+
+> Ahmed is in year 9 and is an elective mute. Based on their CAT/SAT's they are progressively underachieving each year. Ahmed is attentive and tries to engage with the work but is does not participate in group or class discussions well.
+
+> Janice has poor attendance (87%). Often defiant to instructions. Rarely attempts homework. Year 10.
+
+> Amina is very short sighted. Year 8. She hates being singled out and made to sit at the front, she feels unconfortable that everyone is looking at her. She always needs information repeated before she starts a task.
+
+> Sina has english as a second language and always needs additional teacher support to start a task. They either complete programming assignments very well or fails to submit anything. Year 9.
+
+> Brian (Year 7) can reason about tasks verbally, but types so slowly that he has been unable to complete 4 out of the 6 tasks in the space of the lesson this term. He has come back at lunchtime to finish his tasks.
+
+> Add your own from your experience
+
+### Things to consider
+
+* Positive Role Models
+* Assistive Technologies/UDL
+* Strength-Based Learning Strategies
+* Enhanced Human Resource Network
+* Affirmative Career Aspirations
+* Positive Environmental Modifications
+
+* Neurodiversity vs assessment requirements (can we assess in different ways)
+
+
+18 and never invited to
+
+
 
 
 SEND code of practice
@@ -69,8 +114,8 @@ SEND code of practice
 
 TASK 1: (15min)
 * What are your responsibilities as a subject teacher?
-    * Google Doc
-* A list of skills/training-needs you think you need to develop (You will use this list when your mentor meetings)
+    * Shared Doc
+* A list of skills/training-needs you think you need to develop (You will use this list in your mentor meetings)
 
 TASK 2: (15min)
 PartA:
@@ -79,8 +124,8 @@ PartB (15min - could be extended ...)
 * What could we do in a Computing classroom to facilitate each of these possible traits/areas of need?
     * Would love to hear your personal experiences and contributions
 
-Some of my closing remarks
-* Many of the special schools have been closed - a wider spectrum of students are expected to attant mainstream education.
+Some of my remarks
+* Many of the special schools have been closed - a wider spectrum of students are expected to attend mainstream education.
 * Every teacher is a teacher of SEN and disabilities - we do not delegate to other teachers - we ARE the support
 * We are an inclusive society
 
@@ -254,41 +299,6 @@ These are apparently enforceable?
 TASK: Copy/Paste some text you have written (maybe one of your reflections?) into hemingwayapp.com
 
 
-Planning for Inclusion (30min)
-----------------------
-
-Consider the Short, medium, long term needs for these students
-
-> Alex is in year 11 and has moved to the school recently. They are currently transitioning gender and left their last school due to bullying. Alex's demeanour is anxious, shy, quiet and reserved. They are not social integrating well.
-
-> Ahmed is in year 9 and is an elective mute. Based on their CAT/SAT's they are progressively underachieving each year. Ahmed is attentive and tries to engage with the work but is does not participate in group or class discussions well.
-
-> Janice has poor attendance (87%). Often defiant to instructions. Rarely attempts homework. Year 10.
-
-> Amina is very short sighted. Year 8. She hates being singled out and made to sit at the front, she feels unconfortable that everyone is looking at her. She always needs information repeated before she starts a task.
-
-> Siedria has english as a second language and always needs additional teacher support to start a task. They either complete programming assignments very well or fails to submit anything. Year 9.
-
-> Brian (Year 7) can reason about tasks verbally, but types so slowly that he has been unable to complete 4 out of the 6 tasks in the space of the lesson this term. He has come back at lunchtime to finish his tasks.
-
-• Cultural Values Dictate Disorders
-
-Strength Awareness
-• Positive Role Models
-• Assistive Technologies/UDL
-• Strength-Based Learning Strategies
-• Enhanced Human Resource Network
-• Affirmative Career Aspirations
-• Positive Environmental Modifications
-
-
-> Add your own from your experience
-
-
-Neurodiversity vs assessment requirements
-disability discrimination - attendence
-
-18 and never invited to
 
 
 Data
@@ -352,7 +362,7 @@ TASK: You tell me ...
     * > 30th percentile is an IQ score of 92 
       > an IQ score of 83 is the 14th percentile.
     * ![IQ Distribution](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/IQ_distribution.svg/260px-IQ_distribution.svg.png)
-
+v
 
 TASK: Question: How can this help you plan? What actions-points/notes could you make?
 
@@ -379,28 +389,6 @@ TASK: (10min) Look at the EEF Teaching Assistant guidance - skimh it, know it ex
 * [Making Best Use of Teaching Assistants](https://educationendowmentfoundation.org.uk/tools/guidance-reports/making-best-use-of-teaching-assistants/)
 
 
-
----
-
-
-
-Inclusion - Part 2
-==================
-
-Course Session Plan
--------------------
-
-* AMA (Academically more able)
-* Differentiation: _inclusion_ vs _adaptation_ in Computing
-* Planning for inclusion - key strategies in Computing
-* Integrating inclusively
-    * Understand pupils’ differences
-    * Less effective if _artificially_ creating distinct tasks
-    * Pupils do not have distinct and identifiable learning styles
-* Responsive targeted support
-* Paired and group activities
-    * to work together effectively pupils need guidance, support and practice
-    * care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation
 
 
 Inclusion Concept: Vertical Tutoring?
@@ -438,6 +426,16 @@ The gap between students can become huge very quickly ...
 ITT CCF 
 * > 4.10 How pupils are grouped is also important; care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation
 * > 5.4 Adaptive teaching is less likely to be valuable if it causes the teacher to artificially create distinct tasks for different groups of pupils or to set lower expectations for particular pupils.
+
+
+### Inclusive Differentiation
+
+* [Inclusive Differentiation](https://youtu.be/aPTZpLaJvUA?t=2545) 42:40 to 47:17 Wilam talk excerpt
+    * Q&A with Dylan Wiliam at Embedding Formative Assessment SSAT/EEF Celebration Event
+    * Teacher introduces rule (if lucky teacher might explain why) - students reproduce 20 times
+    * In japan one method - students in groups come up with as many ways as possible - 13 ways (Japanese teachers know this)
+    * Differentiation comes from the teacher asking probing questions and ramping up cognitive demand
+    * not separate tasks - teacher stretching groups
 
 ### Mixed ability grouping
 
@@ -501,21 +499,20 @@ TASK: Investigate a Kent teachers online resources
         * Confusing for some students - as they are unclear as to what is being asked of them
 
 
-### TASK Part 1 - A 1 Dimensional task (1 hour)
+### TASK Part 1 - A short 1 Dimensional planning task (30 hour)
 
 ITT CCF
 > 2.5 Explicitly teaching pupils the knowledge and skills they need to succeed within particular subject areas is beneficial.
 
-* (tutor lead) Demo Microbit [rock-paper-scissors game](../physicalProgramming/microbit/rock_paper_scissors.py) (10min)
-* (individual) Explore the  Code (15min)
+* (tutor lead) Demo Microbit [rock-paper-scissors game](../physicalProgramming/microbit/rock_paper_scissors.py) (5min)
+* (individual) Explore the  Code (10min)
     * Run it yourself. What is it doing? How does it work?
+
 * Imagine you need to deliver this project as a directed task to a KS3 class
-* (individual) How would you 'differentiate' this project for a mixed group? (15min)
+* (pairs) How would you 'differentiate' this project for a mixed group? (20min)
     * What support/scaffolds/resources/tasks would need to prepare for the weaker students?
     * What support/scaffolds/resources/tasks would need to prepare for the advanced students?
     * Would students work as individuals? Would you group students? How would they work in a group?
-* (breakout groups) In your breakout groups discuss your possible ideas (15min)
-    * Put your ideas in the google doc
 
 
 ### Interlude - Food for thought - Course construction and meeting the needs of learners (15min)
@@ -558,19 +555,22 @@ ITT CCF
         * Teaching/Learning Activities
         * Assessment Feedback Tasks
 
+* Conceive Design Implement Operate ([CDIO](https://en.wikipedia.org/wiki/CDIO_Initiative))
+    * The CDIO Initiative is an educational framework that stresses engineering fundamentals set in the context of conceiving, designing, implementing and operating real-world systems and products.
+    * [cdio-standards-30](http://cdio.org/content/cdio-standards-30)
+
 
 #### Part 2 - Next step? (30min)
 
 The previous directed task serves as a skill foundation.
 The real project would be the next step.
 
-* (2 breakout groups) (20 min)
+* (groups of 3?) (20 min)
     * How would you construct a task to follow-on the rock-paper-scissors project?
     * What would the task(s) be?
     * How would you motivate all learners to engage with the topic?
     * How would you support the weaker and more advanced students? (Inclusion is the important bit!!!!)
     * How would you consider _constructive alignment_ of assessment?
-* Your group should write their notes in the Google doc
 * Your group should present your ideas to the other group - elect a spokesperson (10min)
 
 #### Part 3
@@ -596,18 +596,17 @@ My other examples
 
 
 My Tips
-* Set the problem - 'create a program to'
+
 * Model meta cognition commentary in solving the problem
-* Open ended tasks
+* Some Open ended tasks? 
+    * Set the problem - 'create a program to'
+* Some Creative tasks?
 * Collaboration
-* Negotiate
-* Independence
+* Independence/Autonomy
 * Dialogue
 
 When talking to your whole class, think "Who do I need here now?" Is to too high level for some? is it too low level for others?
 
-
----
 
 
 
@@ -712,15 +711,16 @@ Plan with the child an approach
 Models of Disability
 --------------------
 
-[Introduction to the Social and Medical Models of Disability](https://www.ombudsman.org.uk/sites/default/files/FDN-218144_Introduction_to_the_Social_and_Medical_Models_of_Disability.pdf)
+Cultural Values Dictate Disorders
 
-* Disablism == stereotypes of disabled people
-* Medical model -> person needs to change/adapt -> anxious, wheelchair, lazy
-    * > Underlying the medical model is the belief that the difficulties associated with a disability should be borne wholly by the disabled person, 
-        > and that the disabled person should make an extra effort (perhaps in time, effort, money, etc.) to ensure they do not inconvenience anyone else. 
-        > They must change and adapt to fit the circumstances and their environment such as attending university.
-* Social model of disability -> person needs support -> low-income, negative attitudes, badly designed buildings
-* > your responsibility to ensure that your learning and teaching activities and materials are accessible.
+* [Introduction to the Social and Medical Models of Disability](https://www.ombudsman.org.uk/sites/default/files/FDN-218144_Introduction_to_the_Social_and_Medical_Models_of_Disability.pdf)
+    * Disablism == stereotypes of disabled people
+    * Medical model -> person needs to change/adapt -> anxious, wheelchair, lazy
+        * > Underlying the medical model is the belief that the difficulties associated with a disability should be borne wholly by the disabled person, 
+            > and that the disabled person should make an extra effort (perhaps in time, effort, money, etc.) to ensure they do not inconvenience anyone else. 
+            > They must change and adapt to fit the circumstances and their environment such as attending university.
+    * Social model of disability -> person needs support -> low-income, negative attitudes, badly designed buildings
+    * > your responsibility to ensure that your learning and teaching activities and materials are accessible.
 
 
 Computing Inclusion Further Reading
@@ -746,13 +746,6 @@ Unsorted
 
 
 
-* [Inclusive Differentiation](https://youtu.be/aPTZpLaJvUA?t=2545) 42:40 to 47:17 Wilam Example Talk
-    * Q&A with Dylan Wiliam at Embedding Formative Assessment SSAT/EEF Celebration Event
-    * Teacher introduces rule (if lucky teacher might explain why) - students reproduce 20 times
-    * In japan one method - students in groups come up with as many ways as possible - 13 ways (Japanese teachers know this)
-    * Differentiation comes from the teacher asking probing questions and ramping up cognative demand
-    * not separate tasks - teacher stretching groups
-
 
 
 
@@ -763,10 +756,9 @@ Daughter autism (18 when finally diagnosed) (under diagnosed in girls, they mask
 
 * [Diversity in Schools](https://www.juliangirdham.com/blog/diversity-in-schools) Bennie Kara Dec 2020 - english - book review
 
-ama
----
 
-Academically More able
+Academically More able (AMA)
+----------------------
 
 
 My quote

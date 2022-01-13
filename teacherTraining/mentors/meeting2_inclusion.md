@@ -4,6 +4,7 @@ Mentor Gathering 2
 1. Announcements + What this session is (10min)
 2. Spotlight discussion - Inclusion (45min)
 3. Future Network Meetings (5min)
+4. Individual catchups + more talking to other mentors (optional) (30min)
 
 
 Announcements
