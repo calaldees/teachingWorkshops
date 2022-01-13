@@ -1,6 +1,34 @@
 Mentor Gathering 2
 ==================
 
+Announcements
+-------------
+
+* SPR2 will be simplified - thank you for being part of the process and feedback
+* Absence due to covid should be impactful in trainees completing the course
+* Upcoming student teacher assignment
+    * Professional Presentation - How bundle relates to 'policy'
+
+
+This Session
+------------
+
+* Not 'training' - this is a professional knowledge exchange.
+    * Discuss the process of mentoring with other mentors
+    * My role
+        * As a tutor at university; I am not a mentor in schools. I don't have any elevated insight, skills, knowledge or powers to tell you how to mentor.
+        * I can offer another perspective
+* Time?! Why?
+    * What's the assessment criteria - compulsory?
+    * Trim unnecessary burdens from your schedule to simply survive (... I hear you!)
+
+
+
+Institution wording:
+> The purpose and impact of these meetings is:
+> To share and develop the subject (and curriculum) expertise of all Teacher Educators,
+> and therefore enrich the dialogue and support in the Student Progress Review Triads, the placement setting activity and the ITTE Curriculum, as there will be a greater coherence between the placements and university.
+
 
 Teacher Educators - The near future
 -----------------
@@ -13,39 +41,14 @@ Teacher Educators - The near future
 * (Currently) fragmented terminology for these meetings
     * Mentor Gathering
     * Teacher Educator Network Meeting
-    * 
 
-Announcements
--------------
-
-* SPR2 will be simplified - thank you for being part of the process and feedback
-* Absence due to covid should be impactful in trainees completing the course
-
-Not training - professional exchange
-What's the assessment criteria - not compulsory, wont attend
-
-Questions
-
-Current happenting in school
-
-Inclusion planning and assessment
-
-Policy - pp presentation
-
-Less observations - development
-Joint planning?
+* Reading from [ITT Core Content Framework](https://www.gov.uk/government/publications/initial-teacher-training-itt-core-content-framework) (CCF)
+    * [What informs mentors' practice when working with trainees and newly qualified teachers? An investigation into mentors' professional knowledge base](../__CCF-reading-summary.md#mentor-knowledge) 2007 Jones M, Straker K
+        * > we need to enable mentors to free themselves from the idiosyncratic practices they may have developed over the years by providing access to adequate training and developmental programmes
 
 
-
---- Network Meeting - Thursday 13th January
- 
-We will be hosting our second on-line gathering of subject mentors this week.
-Computing 'Teacher Educator' Network Meeting - Thursday 13th January 2022 16.30 - 18:00
-https://eu.bbcollab.com/guest/2729e6a602f445d0a232c6d45697e932
-
-The purpose and impact of these meetings is:
-To share and develop the subject (and curriculum) expertise of all Teacher Educators,
-and therefore enrich the dialogue and support in the Student Progress Review Triads, the placement setting activity and the ITTE Curriculum, as there will be a greater coherence between the placements and university.
+Spotlight Discussion - Supporting our student teachers - Planning for Inclusion
+--------------------
 
 In this second meeting we will focus on Key Spotlight Questions 6 & 7:
  - KSQ6: "What does inclusion really mean?"
@@ -54,15 +57,29 @@ In this second meeting we will focus on Key Spotlight Questions 6 & 7:
 The purpose of this meeting is not 'training'.
 It is an opportunity for us as 'Teacher Educators' to discuss the points below.
 Please come prepared to share some of your views on:
- - How might we support Neurodiversity in Teacher education?
- - What does an inclusive subject classroom look like?
- - How do we support our student teachers to plan and assess learning?
-   - Joint planning? Observation feedback?
- - What does learning look like for student teachers?
- - What are the barriers to student teachers?
- - How might you remove them?
+* How might we support Neurodiversity in Teacher education?
+* What does an inclusive subject classroom look like?
+* How do we support our student teachers to plan and assess learning?
+    * Joint planning? Observation feedback?
+    * Questions?
+* What does learning look like for student teachers?
+    * What are the barriers to student teachers?
+    * How might you remove them?
+
+Two perspectives
+1. Our inclusion of diversity with our student teachers
+2. Guiding our student teachers with planning for inclusion
 
 There will also be time to discuss any interesting literature that you have been reading and to address any questions you have about particular student issues.
+
+<details>
+TODO
+
+Current happenting in school
+Inclusion planning and assessment
+Less observations - development
+Joint planning?
+</details>
 
 
 Future Network Meetings
@@ -76,7 +93,6 @@ Invitation to present
 * If you are interested in showcasing/sharing/spotlighting any segments/questions/practice/ideas for future sessions, please get in touch.
 * This could be a good opportunity to share your good mentoring practice with other institutions.
 
-
 ### Mentors talk to students pedagogy
 
 * Each Thursday evening we run "Enriching Pedagogy" sessions for our student teachers online
@@ -89,10 +105,14 @@ Invitation to present
     * 24th Feb
 * If you would like to present any ideas/concepts at these session please get in touch
 
+#### Invitation for PGCE Interviews
+
+* Contacted some of you - let me know
 
 
-Reading
--------
+
+Some of my Reading
+------------------
 
 * [What are the views and experiences of autistic teachers? Findings from an online survey in the UK](https://doi.org/10.1080/09687599.2021.1916888) Wood, Happe, 2021
     * There is a lack of research into autistic teachers and other autistic school staff.
@@ -106,6 +126,16 @@ Reading
     * > it does mean that the meanings and values attributed to the disabled are enacted by cultures, not nature.
 * [From 'Disordered' to 'Diverse': Defining Six Sociological Frameworks Employed in the Study of Dyslexia in the UK](https://eric.ed.gov/?id=EJ1218476) Macdonald 2019
     * (1) the biomedical, (2) the biopsychosocial, (3) the social model, (4) the critical realist, (5) the post-structuralistic, and (6) the neurodivergent approach
+
+
+* Different models of disability
+    * Disablism (stereotypes of disabled people)
+    * Medical model -> the person needs to change/adapt -> anxious, wheelchair, lazy
+        * > Underlying the medical model is the belief that the difficulties associated with a disability should be borne wholly by the disabled person, 
+          > and that the disabled person should make an extra effort (perhaps in time, effort, money, etc.) to ensure they do not inconvenience anyone else. 
+          > They must change and adapt to fit the circumstances and their environment such as attending university.
+    * Social model of disability -> the person needs support -> low-income, negative attitudes, badly designed buildings
+    * > your responsibility to ensure that your learning and teaching activities and materials are accessible.
 
 
 My Notes
@@ -136,7 +166,7 @@ One way - wont reciprocate mutual understanding
 
 
 ### Schools response to student with LSP
-School - see LSP Anexiety - reject placement (humm) - to many needs for us to cater for
+School - see LSP Anxiety - reject placement (humm) - to many needs for us to cater for
 
 
 ### Overall questions
