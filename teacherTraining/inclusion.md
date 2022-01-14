@@ -1,7 +1,7 @@
 Inclusion
 =========
 
-Who are we including? (15min)
+Who are we including? (10min)
 ---------------------
 
 Brainstorm spider diagram - board
@@ -68,45 +68,13 @@ ITT CCF
     6. SENCOs, pastoral leaders, careers advisors and other specialist colleagues also have valuable expertise and can ensure that appropriate support is in place for pupils
 
 
-
-Planning for Inclusion (30min)
-----------------------
-
-Consider the Short, medium, long term actions for these students
-
-> Alex is in year 11 and has moved to the school recently. They are currently transitioning gender and left their last school due to bullying. Alex's demeanour is anxious, shy, quiet and reserved. They are not social integrating well.
-
-> Ahmed is in year 9 and is an elective mute. Based on their CAT/SAT's they are progressively underachieving each year. Ahmed is attentive and tries to engage with the work but is does not participate in group or class discussions well.
-
-> Janice has poor attendance (87%). Often defiant to instructions. Rarely attempts homework. Year 10.
-
-> Amina is very short sighted. Year 8. She hates being singled out and made to sit at the front, she feels unconfortable that everyone is looking at her. She always needs information repeated before she starts a task.
-
-> Sina has english as a second language and always needs additional teacher support to start a task. They either complete programming assignments very well or fails to submit anything. Year 9.
-
-> Brian (Year 7) can reason about tasks verbally, but types so slowly that he has been unable to complete 4 out of the 6 tasks in the space of the lesson this term. He has come back at lunchtime to finish his tasks.
-
-> Add your own from your experience
-
-### Things to consider
-
-* Positive Role Models
-* Assistive Technologies/UDL
-* Strength-Based Learning Strategies
-* Enhanced Human Resource Network
-* Affirmative Career Aspirations
-* Positive Environmental Modifications
-
-* Neurodiversity vs assessment requirements (can we assess in different ways)
-
-
-18 and never invited to
-
-
-
-
 SEND code of practice
 ---------------------
+
+* 9 million children in eduction
+    * SEN 1.4 million
+    * Support plan 0.3 million
+    * Special school 0.13 million
 
 * [SEND code of practice: 0 to 25 years](https://www.gov.uk/government/publications/send-code-of-practice-0-to-25)
     * 1.24, 1.26
@@ -219,18 +187,44 @@ Some of my remarks
 </details>
 
 
-Inclusive Society?
-------------------
+Planning for Inclusion (30min)
+----------------------
 
-Discussion:
-You have read that as teachers we are duty-bound to include all students of all possible ability's, backgrounds, races, genders, disabilities, ethnicity's, etc.
-We are an inclusive society.
+ITT CCF
+* > 1.1 Teachers have the ability to affect and improve the wellbeing, motivation and behaviour of their pupils
 
-TASK: (15min)
-With that in mind ... carefully discuss as a group the role of
-* Single sex schools
-* Grammar schools
-* Special schools (do you as a teacher have the skills/training to support all of the required needs?)
+Consider the Short, medium, long term actions for these students
+
+> Alex is in year 11 and has moved to the school recently. They are currently transitioning gender and left their last school due to bullying. Alex's demeanour is anxious, shy, quiet and reserved. They are not social integrating well.
+
+> Ahmed is in year 9 and is an elective mute. Based on their CAT/SAT's they are progressively underachieving each year. Ahmed is attentive and tries to engage with the work but is does not participate in group or class discussions well.
+
+> Janice has poor attendance (87%). Often defiant to instructions. Rarely attempts homework. Year 10.
+
+> Amina is very short sighted. Year 8. She hates being singled out and made to sit at the front, she feels unconfortable that everyone is looking at her. She always needs information repeated before she starts a task.
+
+> Sina has english as a second language and always needs additional teacher support to start a task. They either complete programming assignments very well or fails to submit anything. Year 9.
+
+> Brian (Year 7) can reason about tasks verbally, but types so slowly that he has been unable to complete 4 out of the 6 tasks in the space of the lesson this term. He has come back at lunchtime to finish his tasks.
+
+> Add your own from your experience
+
+### Things to consider
+
+* Positive Role Models
+* Assistive Technologies/UDL
+* Strength-Based Learning Strategies
+* Enhanced Human Resource Network
+* Affirmative Career Aspirations
+* Positive Environmental Modifications
+
+* Neurodiversity vs assessment requirements (can we assess in different ways)
+
+<details>
+
+* autistic girl not diagnosed until 18 (underdiagnosed) and never invited to party
+* I don't want to make a game
+</details>
 
 
 EEF: Special Educational Needs in Mainstream Schools
@@ -249,9 +243,6 @@ EEF: Special Educational Needs in Mainstream Schools
         * using technology
     * Complement high quality teaching with carefully selected small-group and one-to-one interventions
     * Work effectively with teaching assistants
-
-Case Study: (slightly close to home) C# Undergrads
-Same course - personalised support
 
 
 Accessibility
@@ -299,11 +290,8 @@ These are apparently enforceable?
 TASK: Copy/Paste some text you have written (maybe one of your reflections?) into hemingwayapp.com
 
 
-
-
 Data
 ----
-
 
 ### Metrics (to assist your planning)
 
@@ -362,7 +350,6 @@ TASK: You tell me ...
     * > 30th percentile is an IQ score of 92 
       > an IQ score of 83 is the 14th percentile.
     * ![IQ Distribution](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/IQ_distribution.svg/260px-IQ_distribution.svg.png)
-v
 
 TASK: Question: How can this help you plan? What actions-points/notes could you make?
 
@@ -389,30 +376,6 @@ TASK: (10min) Look at the EEF Teaching Assistant guidance - skimh it, know it ex
 * [Making Best Use of Teaching Assistants](https://educationendowmentfoundation.org.uk/tools/guidance-reports/making-best-use-of-teaching-assistants/)
 
 
-
-
-Inclusion Concept: Vertical Tutoring?
--------------------------------------
-
-* Experiments have been done in schools to break traditional year groups.
-* Form time includes small community's of students from all years.
-* Research shows that facilitating peer mentoring creates improvements
-    * [Peer tutoring](https://educationendowmentfoundation.org.uk/evidence-summaries/teaching-learning-toolkit/peer-tutoring/)
-        * cross-age tutoring, in which an older learner takes the tutoring role and is paired with a younger tutee or tutees;
-* Reading
-    * [Vertical Tutoring: The Life Of A Deputy Headteacher](https://www.teachertoolkit.co.uk/2016/09/17/vertical-tutoring/)
-    * [Vertical Tutoring FAQ](http://www.sidmouthcollege.devon.sch.uk/uploads/3/1/6/1/31615835/vertical_tutoring_faq.pdf)
-    * [Vertical Tutor Groups - Yes or No?](https://community.tes.com/threads/vertical-tutor-groups-yes-or-no.776609/)
-
-TASK: (15min total)
-* Put a table with 2 columns in the google doc
-    * possible benefits of vertical tutoring
-    * possible problems with vertical tutoring
-* (Conduct your own discussion without tutor support)
-
-
-
-
 Differentiation
 ---------------
 
@@ -426,16 +389,6 @@ The gap between students can become huge very quickly ...
 ITT CCF 
 * > 4.10 How pupils are grouped is also important; care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation
 * > 5.4 Adaptive teaching is less likely to be valuable if it causes the teacher to artificially create distinct tasks for different groups of pupils or to set lower expectations for particular pupils.
-
-
-### Inclusive Differentiation
-
-* [Inclusive Differentiation](https://youtu.be/aPTZpLaJvUA?t=2545) 42:40 to 47:17 Wilam talk excerpt
-    * Q&A with Dylan Wiliam at Embedding Formative Assessment SSAT/EEF Celebration Event
-    * Teacher introduces rule (if lucky teacher might explain why) - students reproduce 20 times
-    * In japan one method - students in groups come up with as many ways as possible - 13 ways (Japanese teachers know this)
-    * Differentiation comes from the teacher asking probing questions and ramping up cognitive demand
-    * not separate tasks - teacher stretching groups
 
 ### Mixed ability grouping
 
@@ -484,27 +437,15 @@ TASK: Investigate a Kent teachers online resources
     * Created his own web based resources - students access them across many lessons
         * [LearnPython repl.it](https://repl.it/@MrJohnsonCS/learnpython#README.md)
 
-### Cooperative and Problem-Based Learning
 
-* [Strengths and weaknesses of cooperative and problem-based learning](https://my.chartered.college/2019/10/strengths-and-weaknesses-of-cooperative-and-problem-based-learning/) Chartered College of Teaching - Research Digest 2019
-    * Cooperative Learning (CL) and Problem-Based Learning (PBL)
-    * Strengths
-        * Increases responsibility over their learning. Self-directed learning skills, Self-confidence and motivation.
-        * Active participants in their learning, sharing and exchanging ideas
-        * Increased positive attitude. Feels easier for them to learn.
-    * Weakness
-        * Much more time to be implemented properly
-        * Difficult to manage
-        * Difficult to choose balanced groups that work well together
-        * Confusing for some students - as they are unclear as to what is being asked of them
-
-
-### TASK Part 1 - A short 1 Dimensional planning task (30 hour)
+### TASK Part 1 - A short 1 Dimensional planning task (30 min)
 
 ITT CCF
 > 2.5 Explicitly teaching pupils the knowledge and skills they need to succeed within particular subject areas is beneficial.
 
-* (tutor lead) Demo Microbit [rock-paper-scissors game](../physicalProgramming/microbit/rock_paper_scissors.py) (5min)
+NOTE: Starting with a 'task' is bad form. We will have a second opportunity to tackle this.
+
+* (tutor lead) Demo [makecode.microbit.org](https://makecode.microbit.org/) [rock-paper-scissors game](../physicalProgramming/microbit/rock_paper_scissors.py) (5min)
 * (individual) Explore the  Code (10min)
     * Run it yourself. What is it doing? How does it work?
 
@@ -518,7 +459,6 @@ ITT CCF
 ### Interlude - Food for thought - Course construction and meeting the needs of learners (15min)
 
 ITT CCF
-* > 1.1 Teachers have the ability to affect and improve the wellbeing, motivation and behaviour of their pupils
 * > 1.3 Teacher expectations can affect pupil outcomes; setting goals that challenge and stretch pupils is essential.
 * > 1.4 Setting clear expectations can help communicate shared values that improve classroom and school culture
 *  learn that 
@@ -542,30 +482,61 @@ ITT CCF
         * Flexible thinking
         * Strong class culture
 
+
+### Constructive Alignment of Assessment
+
 ITT CCF
 * > 6.2 Good assessment helps teachers avoid being over-influenced by potentially misleading factors, such as how busy pupils appear
+
+Students focus is "what's in the assessment". Everything else is meh.
 
 * [Aligning teaching for constructing learning](https://www.heacademy.ac.uk/sites/default/files/resources/id477_aligning_teaching_for_constructing_learning.pdf) John Biggs
 * [Course Design: constructive alignment](https://www.youtube.com/watch?v=c5hpRX5ZeIc) (Biggs 1999) (3min)
     * Constructive alignment (all the below should be aligned) - can start with any of these
         * Define - Intended learning outcomes (central component)
             * > Statements written from students perspective, indicating the level of understanding of the performance they are expected to achieve as a result of the learning experience <sub>(Bigs and Tang)</sub>
-            * > They will learn what they think they will be assessed on, not what is in the curriculum, or even on what has been 'covered' in class. The trick is, then, to make sure the assessment tasks mirror the ILOs
+            * > They will learn what they think they will be assessed on, not what is in the curriculum, or even on what has been 'covered' in class. The trick is, then, to make sure the assessment tasks mirror the intended learning objectives
             * Action verbs - design, plan, analyse, evaluate, define, test, combine
         * Teaching/Learning Activities
         * Assessment Feedback Tasks
+
+### Inclusive Differentiation
+
+* [Inclusive Differentiation](https://youtu.be/aPTZpLaJvUA?t=2545) 42:40 to 47:17 Wilam talk excerpt
+    * Q&A with Dylan Wiliam at Embedding Formative Assessment SSAT/EEF Celebration Event
+    * Teacher introduces rule (if lucky teacher might explain why) - students reproduce 20 times
+    * In japan one method - students in groups come up with as many ways as possible - 13 ways (Japanese teachers know this)
+    * Differentiation comes from the teacher asking probing questions and ramping up cognitive demand
+    * not separate tasks - teacher stretching groups
+
+### Cooperative and Problem-Based Learning
+
+* [Strengths and weaknesses of cooperative and problem-based learning](https://my.chartered.college/2019/10/strengths-and-weaknesses-of-cooperative-and-problem-based-learning/) Chartered College of Teaching - Research Digest 2019
+    * Cooperative Learning (CL) and Problem-Based Learning (PBL)
+    * Strengths
+        * Increases responsibility over their learning. Self-directed learning skills, Self-confidence and motivation.
+        * Active participants in their learning, sharing and exchanging ideas
+        * Increased positive attitude. Feels easier for them to learn.
+    * Weakness
+        * Much more time to be implemented properly
+        * Difficult to manage
+        * Difficult to choose balanced groups that work well together
+        * Confusing for some students - as they are unclear as to what is being asked of them
+
+### CDIO
 
 * Conceive Design Implement Operate ([CDIO](https://en.wikipedia.org/wiki/CDIO_Initiative))
     * The CDIO Initiative is an educational framework that stresses engineering fundamentals set in the context of conceiving, designing, implementing and operating real-world systems and products.
     * [cdio-standards-30](http://cdio.org/content/cdio-standards-30)
 
 
-#### Part 2 - Next step? (30min)
+
+#### Part 2 - Next step? (40min)
 
 The previous directed task serves as a skill foundation.
 The real project would be the next step.
 
-* (groups of 3?) (20 min)
+* (groups of 3?) (30 min)
     * How would you construct a task to follow-on the rock-paper-scissors project?
     * What would the task(s) be?
     * How would you motivate all learners to engage with the topic?
@@ -576,9 +547,23 @@ The real project would be the next step.
 #### Part 3
 
 ITT CCF
-* > 3.learn-that Discussing and analysing with expert colleagues the rationale for curriculum choices, the process for arriving at current curriculum choices and how the school’s curriculum materials inform lesson preparation
+* > 3.? learn-that Discussing and analysing with expert colleagues the rationale for curriculum choices, the process for arriving at current curriculum choices and how the school’s curriculum materials inform lesson preparation
 * > 4.4 Guides, scaffolds and worked examples can help pupils apply new ideas, but should be gradually removed as pupil expertise increases
 * > 4.9 Paired and group activities can increase pupil success, but to work together effectively pupils need guidance, support and practice.
+
+My Tips
+
+* Model meta cognition commentary in solving the problem
+* Some Open ended tasks? 
+    * Set the problem - 'create a program to'
+* Some Creative tasks?
+* Collaboration
+* Independence/Autonomy
+* Dialogue
+
+When talking to your whole class, think "Who do I need here now?" Is to too high level for some? is it too low level for others?
+
+<details>
 
 (I will unveil my own hypothetical concept suggestions)
 
@@ -593,25 +578,8 @@ My other examples
     * GM Roll assist
     * (Module was never run because "what would the girls do?" - president of AGS was angry)
 * A-Level years projects - with grade - linked to spec
+</details>
 
-
-My Tips
-
-* Model meta cognition commentary in solving the problem
-* Some Open ended tasks? 
-    * Set the problem - 'create a program to'
-* Some Creative tasks?
-* Collaboration
-* Independence/Autonomy
-* Dialogue
-
-When talking to your whole class, think "Who do I need here now?" Is to too high level for some? is it too low level for others?
-
-
-
-
-
----
 
 Lesson Planning
 ---------------
@@ -627,6 +595,41 @@ Lesson Planning
 * Plan for TA
 
 
+Inclusion Concept: Vertical Tutoring?
+-------------------------------------
+
+* Experiments have been done in schools to break traditional year groups.
+* Form time includes small community's of students from all years.
+* Research shows that facilitating peer mentoring creates improvements
+    * [Peer tutoring](https://educationendowmentfoundation.org.uk/evidence-summaries/teaching-learning-toolkit/peer-tutoring/)
+        * cross-age tutoring, in which an older learner takes the tutoring role and is paired with a younger tutee or tutees;
+* Reading
+    * [Vertical Tutoring: The Life Of A Deputy Headteacher](https://www.teachertoolkit.co.uk/2016/09/17/vertical-tutoring/)
+    * [Vertical Tutoring FAQ](http://www.sidmouthcollege.devon.sch.uk/uploads/3/1/6/1/31615835/vertical_tutoring_faq.pdf)
+    * [Vertical Tutor Groups - Yes or No?](https://community.tes.com/threads/vertical-tutor-groups-yes-or-no.776609/)
+
+TASK: (15min total)
+* Put a table with 2 columns in the google doc
+    * possible benefits of vertical tutoring
+    * possible problems with vertical tutoring
+* (Conduct your own discussion without tutor support)
+
+
+
+Inclusive Society?
+------------------
+
+Discussion:
+You have read that as teachers we are duty-bound to include all students of all possible ability's, backgrounds, races, genders, disabilities, ethnicity's, etc.
+We are an inclusive society.
+
+TASK: (15min)
+With that in mind ... carefully discuss as a group the role of
+* Single sex schools
+* Grammar schools
+* Special schools (do you as a teacher have the skills/training to support all of the required needs?)
+
+* If you separated children based on other attributes - there would be an outcry. Why are some separations acceptable?
 
 
 Disadvantaged Students
@@ -644,6 +647,14 @@ You tell me
 * Average - a school of 1000 could have 100 PP == £100,000?
 </details>
 
+* [Pupil Premium](https://www.gov.uk/government/publications/pupil-premium/pupil-premium)
+    * Publicly-funded schools in England get extra funding from the government to help them improve the attainment of their disadvantaged pupils.
+    * Evidence shows that children from disadvantaged backgrounds:
+        * generally face extra challenges in reaching their potential at school
+        * often do not perform as well as their peers
+    * The pupil premium grant is designed to allow schools to help disadvantaged pupils by improving their progress and the exam results they achieve.
+    * Schools get ... £935 for every secondary age pupil, who claims free school meals, or who has claimed free school meals in the last 6 years.
+    * Schools get £2,300 for every pupil who has left local authority care through adoption
 * [New measures to support disadvantaged children in schools](https://www.gov.uk/government/news/new-measures-to-support-disadvantaged-children-in-schools)
     * > with every classroom having three children who have come into contact with a social worker
     * > The EEF’s new guidance on how to spend it rightly emphasises recruiting, retaining and developing great teachers
@@ -670,19 +681,11 @@ You tell me
         * achievement (e.g. individual and small group tuition, personalised homework support and online learning packages) 
         * independence (e.g. weekly work experience opportunities for individuals)
 
-* [Pupil Premium](https://www.gov.uk/government/publications/pupil-premium/pupil-premium)
-    * Publicly-funded schools in England get extra funding from the government to help them improve the attainment of their disadvantaged pupils.
-    * Evidence shows that children from disadvantaged backgrounds:
-        * generally face extra challenges in reaching their potential at school
-        * often do not perform as well as their peers
-    * The pupil premium grant is designed to allow schools to help disadvantaged pupils by improving their progress and the exam results they achieve.
-    * Schools get ... £935 for every secondary age pupil, who claims free school meals, or who has claimed free school meals in the last 6 years.
-    * Schools get £2,300 for every pupil who has left local authority care through adoption
-
 ### Metrics of disadvantage?
 
 * Free school meals - important metric!
-* Attendance? 
+    * Some parents don't know they can apply for this
+* Attendance?
     * moving home? devoice?
 * Social Services? foster?
     * [Throwaway Kids: We are sending more foster kids to prison than college](https://www.kansascity.com/news/special-reports/article238206754.html)
@@ -739,14 +742,10 @@ Concluding Task
 * Create a list of action points for areas of personal development
     * Take this list with you to your new placement school
 
----
+
 
 Unsorted
 ========
-
-
-
-
 
 
 Daughter autism (18 when finally diagnosed) (under diagnosed in girls, they mask the traditional male symptoms) had never been invited to a birthday party
@@ -755,10 +754,6 @@ Daughter autism (18 when finally diagnosed) (under diagnosed in girls, they mask
 
 
 * [Diversity in Schools](https://www.juliangirdham.com/blog/diversity-in-schools) Bennie Kara Dec 2020 - english - book review
-
-
-Academically More able (AMA)
-----------------------
 
 
 My quote
@@ -770,6 +765,8 @@ My quote
 Webinar notes - supporting learners with SEND
 -------------
 
+* [How to support all learners Pt.1: SEND](https://my.chartered.college/events/how-to-support-all-learners-pt-1-send/) October 2020
+
 * Webinar: How to support all learners Part 1: SEND
 * A presentation on supporting learners with SEND by Vijita Patel
 * Author: Vijita Patel, Joe Treacy
@@ -779,7 +776,6 @@ Webinar notes - supporting learners with SEND
     * SEN 1.4 million
     * Support plan 0.3 million
     * Special school 0.13 million
-
 
 * Design of secondary school fragmented
 * Space and time to have dialogue with other subject teachers about a student - talk to them - not just SENCO
@@ -829,10 +825,12 @@ I take them as a guide, but focus on children as individuals
 
 
 
-Dylan Willam: Pupils should not shown their grade - there is only personal progress
-https://www.youtube.com/watch?v=J25d9aC1GZA
-David Andrews
-> This experiment highlights the problems inherent in running mixed-ability classes, and makes it clear that any techniques used to increase access to participation for the students on either side of the class average (in terms of ability) will only ever be compromises.
+* [The Classroom Experiment (Ep.1)](https://www.youtube.com/watch?v=J25d9aC1GZA)
+    * Dylan Willam: Pupils should not shown their grade - there is only personal progress
+    * From comments 
+        * David Andrews
+            * > This experiment highlights the problems inherent in running mixed-ability classes, and makes it clear that any techniques used to increase access to participation for the students on either side of the class average (in terms of ability) will only ever be compromises.
+            * This is a comment from a non specialist - the research says otherwise
 
 
 
