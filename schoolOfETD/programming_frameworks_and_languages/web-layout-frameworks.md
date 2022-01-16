@@ -438,7 +438,7 @@ Other Projects
 * https://bulma.io/
     * just css (no js)
 * [Pico CSS](https://picocss.com/) - Minimal CSS Framework for semantic HTML
-
+* [simple.css](https://simplecss.org/) - A classless CSS framework that makes semantic HTML look good.
 
 Further Reading
 ---------------
