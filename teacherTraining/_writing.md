@@ -138,6 +138,11 @@ One of the main tips I can give for research is find the names of the big player
 2. Follow their references. What previous research are they inspired by and building on.
 3. Some online services show links/references to papers that reference the one you are reading. This is great to help you find more recent sources that build on a seminal paper/topic.
 
+### Reflection
+
+* TODO - Tripp, Brockfield, Kolb, etc
+* [A Reflective Writing Framework for Computing Education](https://doi.org/10.1145/3304221.3325580) 2019
+    * Seems simple - just refer to known models
 
 
 Education Research
@@ -214,3 +219,12 @@ People misinterperit it - critique
     * Why use source
     * Why 
 
+
+
+* https://www.touro.edu/departments/writing-center/tutorials/affect-or-effect/
+    * Affect
+        * If you can substitute affect with another verb, you are using the right word:
+        * “The cold weather damaged the crop.” “The music deeply moved him”
+    * Effect
+        * a noun, meaning “result” or “consequence.” One way to decide if effect is the correct word to use is to replace it with another noun
+        * “His sunburn was an effect of exposure to the sun.”  Another way to say it is, “His sunburn was a result of exposure to the sun.”

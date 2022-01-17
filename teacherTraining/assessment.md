@@ -6,6 +6,8 @@ TODO:
     * tradition Assessment is just to put students in rank order
     * mastery assessment should assume failure is due to 'instruction' (single class) or 'curriculum' (all class's)
 * Individual grades - whole class feedback (this is acceptable to ofsed)
+* [Improving Functional Programming Understanding through Student-Created Instructional Videos](https://dl.acm.org/doi/10.1145/3304221.3325587)
+    * Activating peers as learners
 
 Objectives
 
@@ -350,6 +352,8 @@ Automated Tests (30min)
 * https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/data/crypto.md
 * An example of use professionally - inline doctest
     * https://github.com/calaldees/libs/blob/71a86ada8d641b49215893c53b92c31190254e13/python3/calaldees/music.py#L27
+
+* [The Peanut Butter and Jelly Sandwich Challenge as an Approach to Improve Students Abilities in Test Case Writing](https://dl.acm.org/doi/10.1145/3304221.3325582) 2019
 
 ### Professional systems
 
@@ -762,7 +766,7 @@ Whole journal and field of research dedicated to this branch of education.
     * analytics for instructor and learner
     * range of devices / situations
 * [Models Of Online Assessment, Part 1: Computer Adaptive Testing](https://elearningindustry.com/computer-adaptive-testing-models-online-assessment-part-1)
-    * technology-based assessments can (Burns et al., 2010; Burns, Christ, Kovaleski, Shapiro, & Ysseldyke, 2008: 18)
+    * technology-based assessments can (Burns et al., 2010; Burns, Christ, Kovaleski, Shapiro, & Ysseldyke, 2008: 18) #CAT
         * measure complex thinking and lower the cost differential because technology-based assessments take less time to score, store and share. 
         * They can enable quick turnaround of assessment data to the instructor and learners, allowing instructors to assess learner performance at a much more granular, detailed level. 
         * they can allow more reliable scoring and valid data interpretation 

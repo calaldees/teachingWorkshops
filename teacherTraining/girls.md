@@ -5,6 +5,9 @@ Girls in Computing
     * > The Gender Balance in Computing (GBIC) research programme is an amazing opportunity to find out what works to encourage girls to develop an interest during their primary and secondary school years, and increase the number of young women who choose to study Computer Science at GCSE and A level.
     * Six different research interventions ,Run across four years, In over 1000 state schools in England
 
+* [Motivating High School Girls to Study Computer Science](https://dl.acm.org/doi/10.1145/3304221.3325589) 2019
+    * University girls, game, hololense?
+
 
 https://dl.acm.org/citation.cfm?id=3366016
 

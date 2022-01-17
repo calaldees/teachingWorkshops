@@ -172,6 +172,9 @@ Other unsorted notes about Collaboration
 
 * [The Advantages of Peer Learning](https://web.archive.org/web/20191115133445/https://blog.hyperlog.club/why-peer-learn/)
 
+* [COOL: Cooperative Open Learning for Beginning Programmers](https://dl.acm.org/doi/10.1145/3304221.3325569) 2019
+    * > It includes several forms of cooperative learning like peer tutoring, pair programming, and talents exchange. 
+
 https://my.chartered.college/2018/08/how-to-group-work-teaching-strategies/
 
 What does it mean?

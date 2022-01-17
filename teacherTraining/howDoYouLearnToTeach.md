@@ -34,6 +34,8 @@ Venn diagram of
 Imagine if I started talking to you and as long as I kept talking, then by the time I stopped talking you would would know everything about computing that I do. Simple right!
 We need PCK.
 
+* [Exploring the Correlation Between Teacher Pedagogical Content Knowledge and Content Knowledge in Computer Science Classrooms](https://dl.acm.org/doi/10.1145/3304221.3325556) 2019
+
 Tacit Knowledge
 ---------------
 

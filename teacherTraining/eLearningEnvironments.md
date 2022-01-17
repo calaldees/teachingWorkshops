@@ -26,3 +26,6 @@ A competitive new space for Computing Education management
     * [See a Real Computer Science Class On Piazza](https://piazza.com/subjects/computer_science)
 * [autoMark](https://github.com/calaldees/autoMark) - my WIP
     * Not really implemented - due to use on 12th January for my level 6 module
+* [EdFinity.com](https://edfinity.com/) - Everything you need in a homework system
+    * Interactive, algorithmic problems - individual problems with personalised feedback
+    * #CAT

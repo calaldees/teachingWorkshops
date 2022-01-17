@@ -1,6 +1,11 @@
 How Students Learn
 ==================
 
+* [A Theory of Applied Mind of Programming](https://dl.acm.org/doi/10.1145/3304221.3325596) 2019 ongoing PhD - Understanding the challenges in learning to program 
+    * > Solving problems with computing is  complex  and  multidisciplinary
+    * > Learning models typically focus on knowledge acquisition, but in programming knowledge must be applied to problem-solving.
+    * > Programming is an artificial construct driven by many symbols, the programming language, but often  with an invisible result that makes developing  mental models of action and abstract images challenging.
+
 Theory to Practice
 ------------------
 
@@ -245,6 +250,8 @@ A Mental Model of the Learner - Daniel Willingham
 * [Willingham’s simple memory model - poster](https://static1.squarespace.com/static/58e151c946c3c418501c2f88/t/5cb5d3b6a4222f1e307f90bf/1555420087187/Willingham+memory+model+diagram.pdf) 2017
     * [A Mental Model of the Learner: Teaching the Basic Science of Educational Psychology to Future Teachers](http://www.danielwillingham.com/uploads/5/0/0/7/5007325/willingham-2017_mental_model_of_the_learner.pdf)
 * It is _totally normal_ to forget things
+* [Why do we forget? New theory proposes ‘forgetting’ is actually a form of learning](https://www.tcd.ie/news_events/articles/why-do-we-forget-new-theory-proposes-forgetting-is-actually-a-form-of-learning/) 2022
+    * Dr Tomás Ryan, Associate Professor in the School of Biochemistry and Immunology and the Trinity College Institute of Neuroscience at Trinity College Dublin, and Dr Paul Frankland, Professor in the Department of Psychology at the University of Toronto and the Hospital for Sick Children in Toronto.
 
 TASK: What does this mean for your planning?
 

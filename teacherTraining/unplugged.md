@@ -1,6 +1,9 @@
 CS Unplugged
 ============
 
+TODO:
+* [Unplugged Activities to Introduce Parallel Computing in Introductory Programming Classes: an Experience Report](https://dl.acm.org/doi/10.1145/3304221.3325573) 2019
+
 Teachers' Standards
 > 4.2 promote a love of learning and children’s intellectual curiosity
 > 4.5 contribute to the design and provision of an engaging curriculum within the relevant subject area(s)
