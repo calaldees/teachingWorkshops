@@ -152,6 +152,9 @@ Education Research
     * Yuja CCCU internal video
 * [Aims and Objectives – A Guide for Academic Writing](https://www.discoverphds.com/advice/doing/research-aims-and-objectives)
 
+https://research-methodology.net/research-philosophy/positivism/
+https://research-methodology.net/research-philosophy/interpretivism/
+
 
 * Content
     * Identify relevant issues that justify your choice of research. Refer to current literature, research and policy (search for ‘critique of…’ to check any key theories are relevant that underpin your study).
@@ -222,6 +225,7 @@ People misinterperit it - critique
 
 
 * https://www.touro.edu/departments/writing-center/tutorials/affect-or-effect/
+    * > A is for action (affect); E is for end result (effect)
     * Affect
         * If you can substitute affect with another verb, you are using the right word:
         * “The cold weather damaged the crop.” “The music deeply moved him”

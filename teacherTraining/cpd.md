@@ -147,6 +147,11 @@ Actively seek out coaching relationships with other teachers
         * *Change something* even if you think it will have little impact, it's not forever. explore, experiment, change, grow.
 * [One-off lesson observations are a waste of everyone's time...](https://twitter.com/TeacherToolkit/status/1451147666910482433)
     * Grading teachers with one-off observations is flawed
+* [Act now, check later: the power of uncertain inferences](https://improvingteaching.co.uk/2022/01/23/act-now-check-later-the-power-of-uncertain-inferences/)
+    * > The quest for certainty is flawed. Effective decision-making is uncertain, humble but rapid.
+    * Doing is better than not doing
+
+Good interventions are - sustained - and lead to actually doing!
 
 ### Extra notes about colleague collaboration (some of my thoughts)
 

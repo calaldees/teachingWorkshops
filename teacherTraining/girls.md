@@ -82,3 +82,8 @@ Founder of Coding Black Females
     * Young men
 
 
+
+* [What can we do to get more women into coding?](https://www.bbc.co.uk/news/business-59045771)
+    * Learning styles have been debunked
+
+* Coding is hard - you need to spend 1000's of hours sitting alone at a computer getting your ass kicked. You have to want to do it

@@ -119,6 +119,7 @@ ACTIVITY:
     * Mac users in Safari struggle - really ...
     * iPads have no filesystem can cant save
     * Understand your filesystem
+* [Apple AirTags - 'A perfect tool for stalking'](https://www.bbc.co.uk/news/technology-60004257)
 
 
 ### DigiComp

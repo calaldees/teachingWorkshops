@@ -1,6 +1,11 @@
 Inclusion
 =========
 
+TODO
+* [The Inclusive Classroom](https://www.bloomsbury.com/uk/inclusive-classroom-9781472977892/)
+    * A new approach to differentiation
+
+
 Who are we including? (10min)
 ---------------------
 

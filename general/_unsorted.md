@@ -153,3 +153,9 @@
         * Scary accurate
     * Oh, 2022! [Looking 10 years](http://www.antipope.org/charlie/blog-static/2022/01/oh-2022.html)
     * [Ten years ago, I predicted 2022. Did I get it right?](https://www.youtube.com/watch?v=NYj3DnI81AQ) Tom Scott YouTube 10min
+
+* [Rare color photos from the Second World War, 1941-1945](https://rarehistoricalphotos.com/color-photos-from-second-world-war/)
+    * Utterly amazing
+
+* [BBC edits archived episodes - quietly](https://www.nationalreview.com/2022/01/the-bbc-quietly-censors-its-own-archives/)
+    * Pretty sinester - it's what our public expect - so we do it secretly?

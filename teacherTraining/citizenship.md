@@ -79,6 +79,8 @@ Spokesperson from group (10min)
 Youth Language (30min group)
 --------------
 
+TODO: 'TL;DR' - whats that? - out of touch in your ivory tower
+
 * Try to be aware of the language the youth in your school are using. It could be important for you spotting abuse or intimidation.
     * Most of the time the students LOVE talking about this to teachers. They love the reversal of knowing something more than the teacher. These are good lunchtime conversations.
     * [Teacher keeps a list of ‘Generation Z’ slang words and honestly, we stan](https://metro.co.uk/2019/05/05/teacher-keeps-a-list-of-generation-z-slang-words-and-honestly-we-stan-9415694/)

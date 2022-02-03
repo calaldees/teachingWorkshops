@@ -1,5 +1,23 @@
 Formative Assessment
 ====================
+Carless (2015, p.192) defnes feedback as:
+> A dialogic process in which learners make sense of information from varied sources and use it to enhance the quality of their work or learning strategies
+Feedback also allows us to align with other practioners
+Is everything we feedback on accurate, true, relevent, important - do we talk a lot of shit?
+Student don't know what feedback is - so you now need to 'cookie message the shit out of this' "This is Feedback: ....". In emails, in conversations
+When students are given feedback - most of them don't understand - get them to reciprocate with their intended actions and why
+
+Good Feedback
+1. Timely
+2. Facilitates self-assessment
+3. Delivers high quality information to students about their learning
+4. Encourages teacher and peer dialogue
+5. Encourages positivity and self-esteem
+6. Helps close the gap between current and desired performance
+7. Provides valuable information to teachers
+Nicol, D. & Macfarlane-Dick, D. (2004) "Rethinking Formative Assessment in HE: a theoretical model and seven principles of good feedback practice“.
+
+TODO making feedback helpful for students (Gibbs & Simpson, 2004)
 
 TODO: 
 * [The shape of assessment](https://learningspy.co.uk/assessment/the-shape-of-assessment/)

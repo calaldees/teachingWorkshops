@@ -1,6 +1,9 @@
 Computer Science Specific Pedagogy
 ==================================
 
+NCCE Funding Sue Sentence explains
+* [Moving to mainstream: developing computing for all](https://dl.acm.org/doi/epdf/10.1145/3361721.3362117) Sue Sentence 2019
+
 TODO
 ----
 * [Hello World — Issue 0](https://helloworld.raspberrypi.org/issues/0) - The Big Book of Computing Pedagogy 2021

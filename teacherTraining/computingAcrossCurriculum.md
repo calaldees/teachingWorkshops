@@ -1,6 +1,11 @@
 Computing Across the Curriculum
 ===============================
 
+TODO: 
+* [Is this the best way to teach Stem?](https://www.tes.com/magazine/teaching-learning/secondary/best-way-teach-stem) - 
+Linking Stem lessons to real-world activities has been transformational for this multi-academy trust, finds Dan Worth
+
+
 Objectives
 ----------
 
