@@ -669,3 +669,4 @@ Unsorted
 
 * [Fostering information problem solving skills through online task-centred instruction in higher education](https://www.sciencedirect.com/science/article/pii/S0360131522000045?dgcid=rss_sd_all)
   * TODO: cites literiture review as a weakness of students
+* [Don't make me think, or why I switched to Rails from JavaScript SPAs](https://reviewbunny.app/blog/dont-make-me-think-or-why-i-switched-to-rails-from-javascript-spas) 2022

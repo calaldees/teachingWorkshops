@@ -35,10 +35,12 @@ I don't like the term _country_ - so I suggest a replacement of _community_
 * [Spheres of influence: what shapes young people’s aspirations at age 12/13 and what are the implications for education policy?](https://www.tandfonline.com/doi/abs/10.1080/02680939.2013.790079) Louise Archer 2013
     * > We demonstrate how aspirations are shaped by structural forces (e.g. social class, gender and ethnicity) and how different spheres of influence (home/family, school, hobbies/leisure activities and TV) appear to shape different types of aspirations. The paper concludes by considering the implications for educational policy and careers education.
 
-* Skill up to assist your community.
+* Skill up to assist your community. (it may not be your passion, but being good at something is rewarding)
     * Get satisfaction from it.
     * Get recondition for it.
     * Get revenue for it.
+
+Networking is critical
 
 Use the extra financial capability to fund what you want to do. Be it travelling, starting a family, facilitating your own creative projects or adventures.
 If they don't get a career and contribute back to society they are going to have problems.
@@ -63,3 +65,10 @@ If they don't get a career and contribute back to society they are going to have
 
 * Chapter 6 [‘I have had to tap around in the dark’: Exploring how first in family students navigate the transition out of university and into employment](https://learn.canterbury.ac.uk/bbcswebdav/pid-2803763-dt-content-rid-4229027_1/courses/E20MAPIN4ETE/SEDA%20Special%2044%20Artwork_FINAL%20Pre-reading.PDF) Sarah O’Shea and Olivia Groves 2020
     * > Provide a realistic cost-benefit analysis from different fields of study, so that students can make informed choices about the qualifications they pursue.
+
+* [Prof Galloway's Career Advice](https://www.youtube.com/watch?v=1T22QxTkPoM)
+    * Get certified (that does not mean degree)
+    * Find an intersection between two areas
+    * Passion is not the key
+* [The Algebra of Wealth | The Prof G Show](https://www.youtube.com/watch?v=uNrjrDV9-YQ)
+    * Focus + (Stoicism * Time * Diversification)

@@ -9,3 +9,90 @@ English as an Additional Language (EAL)
 
 TODO:
 You are mandated by law to provide this
+
+* [Scaffolding Language, Scaffolding Learning, Second Edition](https://www.heinemann.com/products/e05664.aspx) -  Teaching English Language Learners in the Mainstream Classroom - By Pauline Gibbons, University of Technology, Sydney, Australia
+    *  978-0325056647
+
+PAULINE GIBBONS
+scaffolding language 
+scaffolding learning
+Teaching English Language Learners 
+in the Mainstream Classroom
+SECOND EDITION
+
+pg12
+
+* What is being talked or written about. Think of the differences between a conversation about teaching and 
+another about gardening, or between a social studies text 
+and a biology text. 
+¡ The relationship between the speakers. Imagine yourself 
+chatting to a friend at a party and compare that with how 
+you might respond to questions at a job interview.
+¡ Whether the language is spoken or written. Imagine yourself watching 
+a cooking demonstration where the cook is describing what he or she 
+is doing. Then think about how the language would change if it were 
+written in a cookbook.
+Halliday and Hasan (1985) refer to these contextual features as fi eld, tenor, 
+and mode
+¡ Field refers to the topic of the text—what it is that is being talked or 
+written about.
+¡ Tenor refers to the relationship between speaker and listener (or 
+writer and reader), such as the level of formality required.
+¡ Mode refers to the channel of communication, for example, whether 
+it is spoken or written
+
+Together these three variables constitute what is referred to as the register 
+of a text. As children learn their fi rst language, they gradually learn not only 
+the syntax or grammar of the language, but also how to vary the language they 
+use according to the context they are in. In other words, they learn to vary the 
+register of the language so that it is appropriate for the context.
+
+
+Moving towards academic langauge pg14
+Text 1. Look, it’s making them move. Those didn’t stick.
+Text 2. We found out the pins stuck on the magnet.
+Text 3. Our experiment showed that magnets attract some metals.
+Text 4. Magnetic attraction occurs only between ferrous metals.
+
+The four texts demonstrate that it is problematic to talk about 
+overall “profi ciency” in a language without taking into account the 
+context in which the language will be used.
+
+—the registers associated with academic learning may take up to seven 
+years for the learner to develop at a level equivalent to a competent native 
+speaker of the same age.
+
+
+
+* [Using Pauline Gibbons Planning Framework: Examples Of Practice](https://www.naldic.org.uk/Resources/NALDIC/Teaching%20and%20Learning/Documents/Using_Gibbons_Framework.pdf) NALDIC 2011
+    * Framework
+        * TOPIC 
+            * Light and dark
+        * ACTIVITIES 
+            * Looking at objects through coloured cellophane to see if colour changes
+        * LANGUAGE FUNCTIONS 
+            * describing 
+            * comparing 
+            * reporting 
+            * prepositions 
+        * LANGUAGE STRUCTURES 
+            * What colour is the basket? It is.......... 
+            * What colour does it become? It becomes.........
+            * I looked at the scissors..... 
+            * I looked through the cellophane..... 
+            * They look green.
+            * Next to, on top, through, under 
+        * VOCABULARY 
+            * cellophane 
+            * red 
+            * blue 
+            * green 
+            * black 
+            * yellow 
+            * orange 
+            * scissors 
+            * ruler 
+            * pot 
+            * paper 
+            * basket
+    * > Gibbons says we must ask before we even begin the teaching: "What is the language that I want children to be able to use by the end of this unit?"

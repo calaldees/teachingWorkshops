@@ -4,7 +4,9 @@ Inclusion
 TODO
 * [The Inclusive Classroom](https://www.bloomsbury.com/uk/inclusive-classroom-9781472977892/)
     * A new approach to differentiation
-
+* [Supporting Trans Children in Schools: Findings and Recommendations](https://growinguptransgender.com/2020/08/21/supporting-trans-children-in-schools-findings-and-recommendations/)
+    * Transgender children have a right to an education experience that is safe
+* [A whole-school approach to supporting students with LGBTQ+ identities](https://my.chartered.college/impact_article/a-whole-school-approach-to-supporting-students-with-lgbtq-identities/) Chartered College of Teaching 2022
 
 Who are we including? (10min)
 ---------------------

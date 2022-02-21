@@ -158,4 +158,6 @@
     * Utterly amazing
 
 * [BBC edits archived episodes - quietly](https://www.nationalreview.com/2022/01/the-bbc-quietly-censors-its-own-archives/)
-    * Pretty sinester - it's what our public expect - so we do it secretly?
+    * Pretty sinister - it's what our public expect - so we do it secretly?
+
+* [Reading on a smartphone affects sigh generation, brain activity, and comprehension](https://www.nature.com/articles/s41598-022-05605-0) 2022

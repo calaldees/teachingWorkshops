@@ -371,6 +371,38 @@ Societal
 * What are the students and their communities doing at home?
 * Students as change agents - they can change their communities
 
+Concept Transfer when Learning another Programming Language
+------------------------------------------------------------
+
+* [Understanding Conceptual Transfer for Students Learning New Programming Languages](https://dl.acm.org/doi/10.1145/3372782.3406270)
+    * Concept categories
+        * CarryoverConcepts (CC)
+            * While loop (pyhton + java pretty much the same)
+        * False Carryover Concepts (FCC)
+            * Array equality (python==value, java==reference)
+        * Abstract True CarryoverConcepts (ATCC)
+            * object aliasing (pyhton + java pretty much the same)
+    * The problem zone is FCC - these need to be identified
+* [Semantic Transfer in Programming Languages: Exploratory Study of Relative Novices](https://dl.acm.org/doi/10.1145/3341525.3387406)
+    * todo
+
+todo
+----
+
+* [If They Build It, Will They Understand It? Exploring the Relationship between Student Code and Performance](https://dl.acm.org/doi/10.1145/3341525.3387379)
+    * > student performance on specific questions on the written assessments is only very weakly correlated to specific attributes of final projects typically used in artifact analysis as well as attributes we use to define candidate code (r < 0.2, p < 0.05). In particular, the correlation is not nearly strong enough to serve as a proxy for understanding
+    * Digital artifact only weakly correlated with understanding
+
+todo
+----
+
+* [Adaptive Immediate Feedback Can Improve Novice Programming Engagement and Intention to Persist in Computer Science](https://dl.acm.org/doi/10.1145/3372782.3406264)
+    * > we integrate an adaptive immediate feedback (AIF) system into a block-based programming environment. Our AIF system is novel because it provides personalized positive and corrective feedback to students in real time as they work
+
+todo
+----
+
+* [Program Comprehension with Physical Computing: A Structure, Function, and Behavior Analysis of Think-Alouds with High School Students](https://dl.acm.org/doi/10.1145/3430665.3456371)
 
 Concept Maps
 ------------
