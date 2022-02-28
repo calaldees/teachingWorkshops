@@ -1,6 +1,8 @@
 Recruitment Talk Notes
 ======================
 
+40min talk + 20min Q&A
+
 * I'm Allan
 * I am the Lecturer in Computing Education at Canterbury Christ Church University
 * I'm an experienced secondary school teacher of Computing
@@ -8,7 +10,7 @@ Recruitment Talk Notes
 * I can tell you about the teaching profession and the software engineering profession
 
 
-## Questions
+## Questions to ponder
 * Transitioning into a *profession*:
     * What are the reality's of the teaching profession?
     * What are the reality's of the software engineering profession?
@@ -28,9 +30,9 @@ Reality of Teaching
     * [Grammar schools and social mobility](https://epi.org.uk/publications-and-research/grammar-schools-social-mobility/) - School Performance, Admissions, & Capacity Report 2016
         *  > we find no overall attainment impact of grammar schools, either positive or negative
 * You don't stop at 3pm each day and have holidays
-    * The job encroaches your home life
-    * There is no limit to the work you can do - you can always do more
-    * You must look after yourself and allocate time for other interests outside of your job
+* The job encroaches your home life
+* There is no limit to the work you can do - you can always do more
+* You must look after yourself and allocate time for other interests outside of your job
 
 ### A day in the life of a teacher
 
@@ -79,7 +81,7 @@ Let's contrast this against ...
 
 * You work really hard and expertly with a team of developers to provide solutions for an organisation
 * Organisations run on money. Your metrics are based on your business worth
-* Sit in-front of a screen, all day, every day in a windowless air conditioned office, 9 till 5, until you are 68 years old with a total of 20 days holiday per year.
+* Sit in-front of a screen, all day, every day in a windowless air conditioned office, 9 till 5, until you are 68 years old with a total of 20 days holiday per year freedom.
 * You will interact with the same handful of people every day (hope you like them)
 * Your grand accomplishment (could be) raising _advert revenue_ for your company
 * You have to constantly upskill yourself in the latest tech as the required skills in industry move VERY quickly. Keep up or get off the horse.
@@ -117,10 +119,11 @@ How do you learn to teach?
         * How to reflect on practice
         * Analyse impact
         * Strategies for formative and summative assessment
+        * Including everybody (Your legal and moral obligation - even you you don't *like* some of them)
     * Time
         * University Subject Pedagogy (Computing) Sessions (Education Theory and recent Research) (1 day a week)
             * Theory's of cognitive development - psychology of behaviour management
-            * How do you teach Computing?
+            * _How_ do you teach Computing? (This is VERY subject specific)
         * In placement school (4 days a week)
             * With Subject Specialist mentor in school
             * 2 contrasting placements/schools (3 months each)
@@ -141,11 +144,9 @@ How do you learn to teach?
 
 
 * Teacher training is a university course
-    * Technically
-    * You are a student
+    * Technically - You are a student
 * Teacher training is NOT a university course
-    * Reality
-    * You are NOT a student, you are working professional
+    * Reality - You are NOT a student, you are working professional
 * Get out of the mindset of being "a student at uni"
 * Difficult to feel like a professional when you are only a few years older than they are
 
@@ -153,7 +154,7 @@ How do you learn to teach?
 Overall
 -------
 
-* You have never worked this heard in your life
+* You have never worked this heard in your life (seriously!)
 * This year will change you
 * This profession will change you
 * Don't decide to train to teach because there is a bursary and it's more of _being a student_ or you _couldn't thing of anything else to do_
@@ -161,6 +162,16 @@ Overall
 
 * I love tech - I love coding ... 
 * But I feel alive when teaching
+
+
+Cost
+----
+
+* As a career - You will be underpaid for the hours you do - don't do this job for the money
+* but ... 
+* £24,000 Tax Free Bursary (£2000 a month for free directly into your bank account) + Loan to cover tuition fees £9000-ish
+    * Make no mistake - this is a bribe to get you into the profession - Once you're in, you will likely work in this field for many years
+    * (Pay your national insurance manually!!)
 
 
 Further Reading
@@ -211,3 +222,8 @@ Apply
 
 * https://getintoteaching.education.gov.uk/
     * https://www.gov.uk/apply-for-teacher-training
+
+
+Questions and Answers
+---------------------
+
