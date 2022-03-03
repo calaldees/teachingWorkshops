@@ -1,12 +1,15 @@
 CS Unplugged
 ============
 
-TODO:
-* [Unplugged Activities to Introduce Parallel Computing in Introductory Programming Classes: an Experience Report](https://dl.acm.org/doi/10.1145/3304221.3325573) 2019
+* Teachers' Standards
+    * > 4.2 promote a love of learning and children’s intellectual curiosity
+    * > 4.5 contribute to the design and provision of an engaging curriculum within the relevant subject area(s)
+* Core content Framework
+    * 5.) Adapt teaching
+        * A variety of different ways
 
-Teachers' Standards
-> 4.2 promote a love of learning and children’s intellectual curiosity
-> 4.5 contribute to the design and provision of an engaging curriculum within the relevant subject area(s)
+My ultra summary: good for manifesting engagement and understanding - activities should be paired with actual implementation to be truly effective
+
 
 Explore Unplugged Computer Science Activities (2 Hours)
 ----------------------------------------------
@@ -58,9 +61,39 @@ TASK:
 * [CS First Unplugged](https://storage.googleapis.com/files.cs-first.com/Unplugged/CSFirstUnplugged_Booklet_Color.pdf) Google
 * [Missing square puzzle](https://en.wikipedia.org/wiki/Missing_square_puzzle)
     * printout shapes?
-    * [Count The People](https://www.moillusions.com/count-people/)
-        * I LOVE this animated gif
+    * [Count The People](https://www.moillusions.com/count-people/) caveman
+        * I LOVE this animated gif - can be printed/cut(precisely) on paper (I should make an A4 PDF of this; can one of you?)
+        * There is the same volume/height of man in both
+        * In 12 man mode - everyone is taller
+        * In 13 man mode - everyone is shorter (looses a feature eyes, nose, etc) - 2 of them have bits clipped completely (man 1 and man 6) - the split line moves up and down (if you measure it) - man 6 could be considered the extra guy 'because' he does not match to another body/part
+        * 11 COMPLETE men and two PARTIAL men (11 + 2 = 13).
+        * (using the 13 man mode, counting from left to right, each row being counted from bottom to top):
+            * Man 1 = NO top + 1 bottom
+            * Man 2 = 7 top + 2 bottom
+            * Man 3 = 8 top + 3 bottom
+            * Man 4 = 9 top + 4 bottom
+            * Man 5 = 10 top + 5 bottom
+            * Man 6 = 11 top + NO bottom
+            * Man 7 = 12 top + 7 bottom
+            * Man 8 = 13 top + 8 bottom
+            * Man 9 = 1 top + 9 bottom
+            * Man 10 = 2 top + 10 bottom
+            * Man 11 = 3 top + 11 bottom
+            * Man 12 = 4 top + 12 bottom
+            * Man 13 = 5 top + 13 bottom
         * [Count the people - is also referenced here](https://kids.niehs.nih.gov/games/riddles/illusions/lots-of-illusions/index.htm) not computing realated but I just love the NOT animated ones
+* [21 things every computing teacher should try: Teach with magic!](https://www.teachwithict.com/teach-with-magic.html) (with 10min video) Mark Doorline
+    * Sequence of precise instructions
+    * 7,8,9,10 always in order
+    * investigate why
+* [Assessing Computational Thinking in CS Unplugged Activities](https://dl.acm.org/doi/10.1145/3017680.3017779)
+    * > Computer Science (CS) Unplugged activities have been deployed in many informal settings to present computing concepts in an engaging manner. To justify use in the classroom, however, it is critical for activities to have a strong educational component. For the past three years, we have been developing and refining a CS Unplugged curriculum for use in middle school classrooms. In this paper, we describe an assessment that maps questions from a comprehensive project to computational thinking (CT) skills and Bloom's Taxonomy. We present results from two different deployments and discuss limitations and implications of our approach.
+    * 5 Unplugged activities - repeated again in two different context so students could not 'remember' the solution.
+        * Character Encoding, Binary Search, Minimum Spanning tree (Muddy city), Finite State Automata, Binary Numbers
+    * Assessment via outcome Proficient, Partially Proficient, and Unsatisfactory
+    * Used for 50min lessons (for american middle school -> ks3)
+* [mycs-teacher](https://sites.google.com/a/sfusd.edu/mycs-teacher/unit-2/2-1)
+    * ComputerScienceForAll - most topics have an unplugged component (loops, events, variables, conditions)
 
 
 Lecture (30 min)
@@ -71,7 +104,7 @@ Some ideas and consolidating thoughts
 Sequence
 --------
 
-demo making tea
+demo making tea'
 lighting a candle
 
 
@@ -80,7 +113,7 @@ Magic
 
 * Parity Puzzle - I'm reading your minds - I'm psycic
     * [An Honest Liar](https://www.imdb.com/title/tt2246565/) Documentary 2014 -
-        * The life and career of the renowned stage magician turned scientific skeptic of the paranormal, James Randi.
+        * The life and career of the renowned stage magician turned scientific sceptic of the paranormal, James Randi.
 
 
 Assembly Idea? - The power of code/automation
@@ -203,6 +236,8 @@ solve(board)
 print_board(board)
 ```
 
+TODO
+* [stackoverflow.com how-to-generate-sudoku-boards-with-unique-solutions](https://stackoverflow.com/questions/6924216/how-to-generate-sudoku-boards-with-unique-solutions)
 
 
 ### Parity
@@ -235,7 +270,7 @@ TODO
 ====
 
 * [Tabletop games designed to promote computational thinking](https://www.tandfonline.com/doi/full/10.1080/08993408.2021.1947642) Poole et al 2021
-    * Evaluate a range of comercial tabeltop games to promote computational thinking
+    * Evaluate a 22 commercial tabletop games to promote computational thinking
         * categories
             * Code building games
             * Code executions games
@@ -245,3 +280,10 @@ TODO
     * Exhibitions
 
 * [A critical review of literature on “unplugged” pedagogies in K-12 computer science and computational thinking education](https://www.tandfonline.com/doi/full/10.1080/08993408.2020.1789411) 2020
+    * Criticality - two studies that cite unplugged differently
+        * > teachers perceived that students were most excited by learning through creating, which included programming, game design, mobile app development, and physical computing. In other words, activities using high-tech computing devices were thought to generate more interest in computing than low-tech and unplugged approaches (Black et al., 2013). 
+        *  > In contrast, another survey in 2014 of 300 primary and secondary computing teachers in the U.K. revealed that unplugged strategies were the most commonly reported in free-form responses on pedagogy (Sentance & Csizmadia, 2017).
+    *  > Studies that tried to evaluate whether unplugged activities can develop CT suffer from both difficulties defining and measuring CT, as well as separating out the effect of these activities from other approaches (e.g. teaching programming)
+
+TODO:
+* [Unplugged Activities to Introduce Parallel Computing in Introductory Programming Classes: an Experience Report](https://dl.acm.org/doi/10.1145/3304221.3325573) 2019

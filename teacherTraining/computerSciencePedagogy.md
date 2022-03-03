@@ -93,6 +93,7 @@ ITT CCF 2.9
 
 * NCCE [Quick Read: Using PRIMM to structure programming lessons](https://blog.teachcomputing.org/using-primm-to-structure-programming-lessons/)
 
+
 TASK: Read PRIMM quick read.
 
 * Take fear out of programming - don't start with a blank editor
@@ -426,6 +427,10 @@ Parson Problems
 
 Building Code Comprehension
 ---------------------------
+
+* [NCCE: Programming and algorithms within the computing curriculum](https://blog.teachcomputing.org/programming-and-algorithms-within-the-computing-curriculum/)
+    * TODO: notes
+
 
 * [Code Reading Club](https://www.felienne.com/archives/6472)
     * Reading code is harder than writing code

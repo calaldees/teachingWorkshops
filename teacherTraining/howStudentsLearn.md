@@ -447,6 +447,13 @@ High Expectations
 TODO: Read and take notes
 [Great Teaching.  The Power of Expectations.](https://teacherhead.com/2018/09/02/great-teaching-the-power-of-expectations/)
 
+* [@MrStoneEnglish](https://twitter.com/MrStoneEnglish/status/1496241068039364609) @MrStoneEnglish
+    * Four strategies to support high expectations in the classroom: 
+        🧠No Opt Out 
+        🧠Right is Right
+        🧠Stretch It
+        🧠Thinking Hard
+Saved images to Dropbox
 
 Growth Mindset
 --------------

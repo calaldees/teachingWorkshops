@@ -5,6 +5,8 @@ ITT CCF 4.9
 > Paired and group activities can increase pupil success, but to work together effectively pupils need guidance, support and practice
 ITT CCF 4.10
 > How pupils are grouped is also important; care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation.
+ITT CCF 5.5
+> Flexibly grouping pupils within a class to provide more tailored support can be effective, but care should be taken to monitor its impact on engagement and motivation, particularly for low attaining pupils
 
 * Overview
     * [Quick Read: Using pair programming to support learners](https://blog.teachcomputing.org/quick-read-pair-programming-supports-learners/) 2019 NCCE - 2 page A4
@@ -83,7 +85,7 @@ ITT CCF 4.10
             * We all make mistakes when we learn
             * Indeed is part of how we learn
             * If we don’t make mistakes the work is too easy for us to learn at our maximum rate
-        * Mistakes are useful  because they tell us where we can improve
+        * Mistakes are useful because they tell us where we can improve
         * Its good for learning to admit to not understanding and to admit to mistakes and then ask for clarification
         * we should never ridicule each other for mistakes, even in a joking way
         * You will learn from mistakes if you find out how to do it without mistakes next time, and really understand this

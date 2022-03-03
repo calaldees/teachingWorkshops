@@ -201,9 +201,6 @@ Remote/Covid: Sadly, this lesson looses all it's impact without being able to ph
     * [Stereo-Scopic](https://www.google.com/search?client=firefox-b-d&q=define%3A+stereo#dobs=stereoscopic)
         * `stereo` -> Greek: Solid
         * `-scopic` ajective of nouns ending in `scope` -> denoting an instrument for observing, viewing, or examining. -> from modern Latin `-scopium`, from Greek `skopein` ‘look at’
-* History
-    * [Stereoscopy](https://en.wikipedia.org/wiki/Stereoscopy) 3D Photography
-    * My Real [ViewMaster](https://en.wikipedia.org/wiki/View-Master) 50's Dover
 * Physics
     * Light filters
     * https://en.wikipedia.org/wiki/Anaglyph_3D
@@ -287,6 +284,9 @@ Timebox to one hour ... you may be sent links in the chat to try
     * Create a webpage with a world map and use absolute positioning to embed videos from [skylinewebcams](https://www.skylinewebcams.com)
     * [ancient-earth 3D globe](https://dinosaurpictures.org/ancient-earth)
 * History
+    * [Stereoscopy](https://en.wikipedia.org/wiki/Stereoscopy) 3D Photography
+    * My Real [ViewMaster](https://en.wikipedia.org/wiki/View-Master) 50's Dover
+    * [Medieval Photoshop](https://leidenmedievalistsblog.nl/articles/medieval-photoshop)
     * [OpenHistoricalMap](https://www.openhistoricalmap.org/)
     * [Canterbury High Street](http://www.hillside.co.uk/tour/tour.html) - Homemade Canterbury High Street Streetview from 1990
         * Activity for class to create school tour

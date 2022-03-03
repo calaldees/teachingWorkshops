@@ -1,6 +1,10 @@
 How do you learn to teach
 =========================
 
+TODO
+* [EEF: Cognitive science approaches in the classroom](https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/cognitive-science-approaches-in-the-classroom) - Report summarising the evidence for cognitive science approaches in school settings
+
+
 * Aims and purposes of our teaching and learning
 * Meta-pedagogy (not _tips for teaching_)
 * Tacit knowledge transfer - e.g. Riding Bike, Learning to read
@@ -247,6 +251,11 @@ So!
 
 Unsorted
 ========
+
+Inspection Copy Request for Books
+----------------------------------
+* [PG Online](https://www.pgonline.co.uk/resources/computer-science/)
+    * [OCR GCSE J277 Computer Science](https://www.pgonline.co.uk/resources/computer-science/gcse-ocr/gcse-ocr-computer-science-j277/)
 
 
 * Actions (leaver)

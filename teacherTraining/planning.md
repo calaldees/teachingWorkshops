@@ -95,12 +95,15 @@ TASK 2: Explore other KS3 SOW online (20min)
     * [KS3 Computing Scheme of Work - Year 2](https://www.advanced-ict.info/theory/NC/scheme_2.html)
 * [Google: ks3 computing scheme of work](https://www.google.com/search?q=ks3+computing+scheme+of+work)
     * There is a wealth of resources out there! Go and explore!
+* [PG Online: KS3 Computer Science](https://www.pgonline.co.uk/resources/computer-science/ks3/) + Curriculum Map
+    * 22 downloadable teaching units (samples free)
 
+[queenelizabeths.kent.sch.uk](http://www.queenelizabeths.kent.sch.uk/249/computer-science) - Look how digital-literacy/ict is interwoven with the computing
 
 Textbooks for teaching Computing? (45min)
 --------------------------------
 
-* [Textbooks for the teaching of computing](https://eprints.soton.ac.uk/441674/1/Textbooks.pdf) John.Woollard CAS 2020
+* [Textbooks for the teaching of computing](https://eprints.soton.ac.uk/441674/1/Textbooks.pdf) John Woollard CAS 2020
     * Objectives
         1. To what extent would high-quality textbooks raise the quality of teaching and learning in computing at school?
         2. Is it advantageous to have such books available in physical hard copy?

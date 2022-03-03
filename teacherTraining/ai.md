@@ -19,4 +19,18 @@ Finland - computing integrated in all subjects (history! RE!)
 
 
 * [Human-Centered Explainable AI (XAI): From Algorithms to User Experiences](https://arxiv.org/abs/2110.10790)
-* 
+
+
+
+Stefani Druga
+=============
+
+Raspberry Pie research seminar 1/3/2022
+
+Growing up with AI
+
+Children program their own smart device
+This removed/demystified the "smartness" of machines
+
+Children don't know what _bias_ means, but they do know what _fairness_ means
+

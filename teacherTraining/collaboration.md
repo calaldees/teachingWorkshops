@@ -1,6 +1,20 @@
 Collaboration
 =============
 
+TODO:
+* [Teachers’ perspectives on talk in the programming classroom: language as a mediator](https://dl.acm.org/doi/abs/10.1145/3446871.3469751) 2021 Sentence
+    * This paper investigates the ways in which programming teachers use classroom talk to support learning, and proposes a model to frame our understanding of this element of programming lessons.
+
+
+ITT CCF 4.9
+> Paired and group activities can increase pupil success, but to work together effectively pupils need guidance, support and practice
+ITT CCF 4.10
+> How pupils are grouped is also important; care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation.
+ITT CCF 5.5
+> Flexibly grouping pupils within a class to provide more tailored support can be effective, but care should be taken to monitor its impact on engagement and motivation, particularly for low attaining pupils
+
+
+
 Objectives
 ----------
 * Consider tools/techniques to be a more collaborative teaching practitioner
@@ -175,6 +189,43 @@ Other unsorted notes about Collaboration
 * [COOL: Cooperative Open Learning for Beginning Programmers](https://dl.acm.org/doi/10.1145/3304221.3325569) 2019
     * > It includes several forms of cooperative learning like peer tutoring, pair programming, and talents exchange. 
 
+Thank Pair Share
+----------------
+
+Specific 3 bullet points - recorded
+
+
+Socratic Circle/Debate
+----------------------
+
+* Inner group Group interact/discuss/plan/teach
+* Outer group take notes
+* Outer group asked for input
+* Groups then inverted
+
+Prevents 'passive' learning
+
+* [20 things every computing teacher should try! Socratic Debate](https://www.teachwithict.com/socratic.html) Teach with ICT
+    * Arrange the seats into two circles (inner and outer circle) 
+    * “Surveillance technology is a bad thing, discuss!” or “Why do we need technology to track the movements of individuals?”.
+    *  asking the students in the outer circle to reveal their question or mission to the rest of the class and to respond with their answer or observation.
+    * See "Socratic questioning techniques" sacafold handout - types of questions to ask
+        * Clarification, Challenge, use of evidence, explore other viewpoints, considering consequences, Questioning the question
+* [Socratic Seminar in a Computer Science Classroom](https://derekbabbcom.files.wordpress.com/2017/01/socratic-computer-science.pdf) Derek Babb 2015 Omaha North High School
+* [Engaging Students in Socratic Seminars](https://www.teachingchannel.com/blog/socratic-seminars) 2018 teachingchannel.com
+    * Article and videos of pre-scaffold and prep
+    * (Requires login to view video)
+* [Socratic Seminars in Science](https://mariventurino.com/2017/04/22/socratic-seminars-in-science/)
+    * Science - but has interesting rubric for participation
+
+
+* [A distributed systems course structured using socratic seminars](https://ieeexplore.ieee.org/document/5350634) 2009
+* [Socratic Seminars: Building a Culture of Student-Led Discussion](https://www.edutopia.org/blog/socratic-seminars-culture-student-led-discussion-mary-davenport) - Implementing effective Socratic seminars is a multistep process that takes careful planning.
+    * > Students' team's discussions are very prone to remain superficial. One of the faculty's duties is to avoid this surface approach and to incentive the exchange of views and opinions. We rely on Socratic Dialogues (or Socratic seminars) to structure this exchange.
+
+---
+
+
 https://my.chartered.college/2018/08/how-to-group-work-teaching-strategies/
 
 What does it mean?
@@ -196,3 +247,24 @@ If students are all to succeed, the task must be designed so they have to help a
 Also stick to smaller groups (pairs and threes) because it is harder to ensure there is accountability and defined roles as the number of students in the group increases (this is known as the Ringelmann effect).
 Top tip
 Consider whether students might learn more doing a task by themselves or whether a group task would help to push all the students forward in their thinking, or support practice and formative assessment.
+
+
+
+* [Student Culture vs Group Work in Computer Science](https://www.researchgate.net/publication/2911704_Student_Culture_vs_Group_Work_in_Computer_Science) Waite, Jackson 2018?
+    * University based
+    * 4 strategies
+        * Sequential segmentation: I work on it for a while, then pass it along to you.
+        * Parallel segmentation: We break it up and everyone does a piece.
+        * Natural selection: We each carry it out and then choose the best result, or we choose the best person and let them do it.
+        * Collaboration: We interact closely during the task
+    * > collaboration is important is that it avoids the third order of ignorance 
+    * > Members see how others think in addition to being exposed to a variety of possible conclusions. They learn how to make useful judgments more quickly than do people studying the same material individually, and the judgments of the group are usually better than those of the individua
+    * Overwhelming preference for working alone
+        * Sole responsibility
+        * Carry the weak
+        * Not wanting to deal with interpersonal problems
+        * Every assignment is a product
+    * > Procrastination hinders collaboration because it does not leave time for discussion
+    * The world is simple and understandable alone
+    * > Supportive behaviour is a very important factor for team success, and therefore a refusal to provide or allow it is damaging to collaboration.
+    * > Without shared passion, it is very hard for a group to get beyond such problems.

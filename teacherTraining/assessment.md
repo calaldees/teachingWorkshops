@@ -378,6 +378,7 @@ Automated Tests (30min)
 * [mimirhq.com](https://www.mimirhq.com/classroom/demo_video) mimir classroom
     * Video
         * Coding assignment - see animation of how student solved problem
+* (Isac COmputer science has one?)
 * [Moss](http://theory.stanford.edu/~aiken/moss/) - A System for Detecting Software Similarity
     * Plagiarism detection of code
 
@@ -824,6 +825,10 @@ Computational Thinking Assessment - bebras.uk
 
 Unsorted
 ========
+
+* [Ideas, technology, and skills: A taxonomy for digital projects](http://www.constructionismconf.org/wp-content/uploads/2020/05/C2020-Proceedings.pdf) 2020 Raspbery Pi Foundation
+    * This paper seeks to develop the understanding of how young people engage with digital making projects. It proposes a simple taxonomy for thinking about the factors that are required or must be developed in order for young people to successfully complete a digital making project.
+    * TODO
 
 
 * [Formative Teaching Methods - Geoff Petty Jan 2004](http://geoffpetty.com/wp-content/uploads/2012/12/FormativeTeachingMethods2.doc) - from [Active Learning](http://geoffpetty.com/for-teachers/active-learning/)

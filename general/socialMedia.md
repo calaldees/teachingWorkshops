@@ -110,3 +110,18 @@ Social Media
 
 * [Normal People are Beginning to Acknowledge Their Loss of Free Speech on the Internet](https://cheapskatesguide.org/articles/normals-free-speech.html)
     * The damage of shadow banning
+
+* [Are smartphones serving as adult pacifiers?](https://www.washingtonpost.com/health/2022/02/26/cellphones-security-blankets/)
+    * > “For many of us, our phone represents an attachment object, much as a security blanket or teddy bear does for a child,” one expert says
+
+* [What I Learned During My Three Days Offline](https://www.raptitude.com/2022/02/what-i-learned-during-my-three-days-offline/)
+    * Life was different - no stop and check at the end of each task - there was just the next thing
+    1. By default, data and Wi-Fi on my devices is off, and the laptop is closed. Calls and texts are accepted.
+    2. By default, the phone is out of arm’s reach (in its wall-mounted holster in the kitchen, if possible)
+    3. By default, I don’t use the internet before 11am
+    4. By default, Saturday and Sunday are offline days
+    5. By default, one or two weekdays are offline days (which ones depend on the week)
+    6. By default, before turning on data or Wi-Fi, I list on a sticky note what I’m going to do online
+    7. By default, don’t choose an online activity when an offline one will do
+    8. By default, avoid taking on hobbies that require regular internet use
+    9. When you notice you’re ignoring these rules, close the laptop and put the phone away, and choose an offline activity to do for a while*

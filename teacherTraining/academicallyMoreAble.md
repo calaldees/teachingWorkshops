@@ -72,16 +72,20 @@ TASK: 10min
         * only allowed 10 words
         * only use shapes
     * Learning Theory is good, but don't become overly mechanical
-    * "We have to worry about semi colons, but I want to write from the heart" year 10 pupil
+    * "We have to worry about semi colons, but I want to write from the heart" year 10 pupil (referring to english)
     * If you were a font, which would you be?
     * When I teach you, what is it that I do that helps you?
     * Don't have your more able supporting the others a disproportionate amount of time
+        * If it helps them clarify their ideas and knowledge, that's fine. Using them to make your life easier is just exploitation. What's in it for them?
     * Be careful of _public praise_
         * creates a social divide
         * create dependency on praise
     * Collaboratively create a wall display to conveys the class work this term?
     * Some students are hyper focused on one very narrow area
         * Keep signposting and gently encouraging outside of that area
+        * Example
+            * Lua+Roblox (and nothing else matter)
+            * Web guy - lacks wider experience - everything is a DOM and javascript - everything!
 
 
 ### Expertise Reversal Effect
@@ -90,3 +94,15 @@ TASK: 10min
     * [Expertise Reversal Effect and its Instructional Implications](https://impact.chartered.college/article/expertise-reversal-effect-instructional-implications/)
         * > ... a technique that reduces working memory load for low-knowledge learners (e.g. by providing strong instructional support) might lose its effectiveness and may even bring negative consequences for more knowledgeable learners; they may learn better in an environment with minimal guidance. This is known as the expertise reversal effect ...
         * > ... implication of the effect is the need to develop an adaptive learning environment in which learning materials are tailored in accordance with learners’ current levels of achievement ...
+
+
+Strategies in Computing
+-----------
+
+* Use another language
+    * (which is better for this task?)
+* Performance/LinesOfCode/Optimise
+* Put together a case that is (deliberately) not your opinion
+* Work on weakness's
+    * A* but can't communicate or work in groups
+    * Can go 'off spec' (in amazing ways) - do you allow this? or bring them back on track?

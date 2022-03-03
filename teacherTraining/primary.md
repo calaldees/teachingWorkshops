@@ -405,8 +405,8 @@ It's often observed that pupil performance dips when entering secondary school.
   * too many secondary schools did not work effectively with partner primary schools to understand pupils’ prior learning and ensure that they built on this during Key Stage 3.
 
 * [What Makes a SuccessfulTransition from Primary toSecondary School? - Research Report DCSF-RR019](https://dera.ioe.ac.uk/8618/1/DCSF-RR019.pdf) 2008
-  * 84%) said they felt prepared on entry to secondary school
-  * only 3 per cent of children were worried or nervous a termafter starting their secondary school.
+  * 84% said they felt prepared on entry to secondary school
+  * only 3 per cent of children were worried or nervous a term after starting their secondary school.
   * A successful transition for children involved
     * developing new friendships and improving their self esteem and confidence
     * experiencing curriculum continuity
