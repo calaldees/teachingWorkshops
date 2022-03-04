@@ -15,16 +15,16 @@ Collaboration
 
 Task (1 hour)
 -------------
-TASK 1: Read the "How to make the most of group work" (5min) (every word is a gem! great little article)
-TASK 2: Make individual notes on: (10min)
-* group work you've observed
-* How was it done?
-* Was it effective? Why was it effective?
-* How was/should the group work be scaffolded? assessed?
-* Draw upon the concepts in the article with further notes
-TASK 3: Attempt a mini secretive circle
-* Select participants and assign roles (3 inner, 3 outer)
-    * (This is just a demo and slightly fake, the inner circle normally have more time to prepare, but yolo)
+* TASK 1: Read the "How to make the most of group work" (5min) (every word is a gem! great little article)
+* TASK 2: Make individual notes on: (10min)
+    * group work you've observed
+    * How was it done?
+    * Was it effective? Why was it effective?
+    * How was/should the group work be scaffolded? assessed?
+    * Draw upon the concepts in the article with further notes
+* TASK 3: Attempt a mini socratic circle
+    * Select participants and assign roles (3 inner, 3 outer)
+        * (This is just a demo and slightly fake, the inner circle normally have more time to prepare, but yolo)
 
 
 
@@ -57,33 +57,6 @@ TASK 3: Attempt a mini secretive circle
         * Consider whether students might learn more doing a task by themselves or whether a group task would help to push all the students forward in their thinking, or support practice and formative assessment.
 
 
-* [Student Culture vs Group Work in Computer Science](https://www.researchgate.net/publication/2911704_Student_Culture_vs_Group_Work_in_Computer_Science) Waite, Jackson 2018?
-    * (University context: caution when applying this to secondary)
-    * 4 strategies
-        * Sequential segmentation: I work on it for a while, then pass it along to you.
-        * Parallel segmentation: We break it up and everyone does a piece.
-        * Natural selection: We each carry it out and then choose the best result, or we choose the best person and let them do it.
-        * Collaboration: We interact closely during the task
-    * > collaboration is important is that it avoids the third order of ignorance 
-    * > Members see how others think in addition to being exposed to a variety of possible conclusions. They learn how to make useful judgments more quickly than do people studying the same material individually, and the judgments of the group are usually better than those of the individua
-    * Overwhelming preference for working alone
-        * Sole responsibility
-        * Carry the weak
-        * Not wanting to deal with interpersonal problems
-        * Every assignment is a product
-    * > Procrastination hinders collaboration because it does not leave time for discussion
-    * The world is simple and understandable alone
-    * > Supportive behaviour is a very important factor for team success, and therefore a refusal to provide or allow it is damaging to collaboration.
-    * > Without shared passion, it is very hard for a group to get beyond such problems.
-
-
-* [Teachers’ perspectives on talk in the programming classroom: language as a mediator](https://dl.acm.org/doi/abs/10.1145/3446871.3469751) 2021 Sentence
-    * This paper investigates the ways in which programming teachers use classroom talk to support learning, and proposes a model to frame our understanding of this element of programming lessons.
-    * > While the role of language and dialogue has been researched in depth in other school subjects, there has been less research in the programming context. 
-    * (confirms what i've said previously about the importance of technical vocabulary)
-    * (best bit is the teachers highlighted comments)
-
-
 Socratic Circle/Debate
 ----------------------
 
@@ -111,6 +84,35 @@ Prevents 'passive' learning
 * [Socratic Seminars: Building a Culture of Student-Led Discussion](https://www.edutopia.org/blog/socratic-seminars-culture-student-led-discussion-mary-davenport) - Implementing effective Socratic seminars is a multistep process that takes careful planning.
     * > Students' team's discussions are very prone to remain superficial. One of the faculty's duties is to avoid this surface approach and to incentive the exchange of views and opinions. We rely on Socratic Dialogues (or Socratic seminars) to structure this exchange.
 
+
+Further Computing Group-work insights
+-------------------------------------
+
+* [Student Culture vs Group Work in Computer Science](https://www.researchgate.net/publication/2911704_Student_Culture_vs_Group_Work_in_Computer_Science) Waite, Jackson 2018?
+    * (University context: caution when applying this to secondary)
+    * 4 strategies
+        * Sequential segmentation: I work on it for a while, then pass it along to you.
+        * Parallel segmentation: We break it up and everyone does a piece.
+        * Natural selection: We each carry it out and then choose the best result, or we choose the best person and let them do it.
+        * Collaboration: We interact closely during the task
+    * > collaboration is important is that it avoids the third order of ignorance 
+    * > Members see how others think in addition to being exposed to a variety of possible conclusions. They learn how to make useful judgments more quickly than do people studying the same material individually, and the judgments of the group are usually better than those of the individua
+    * Overwhelming preference for working alone
+        * Sole responsibility
+        * Carry the weak
+        * Not wanting to deal with interpersonal problems
+        * Every assignment is a product
+    * > Procrastination hinders collaboration because it does not leave time for discussion
+    * The world is simple and understandable alone
+    * > Supportive behaviour is a very important factor for team success, and therefore a refusal to provide or allow it is damaging to collaboration.
+    * > Without shared passion, it is very hard for a group to get beyond such problems.
+
+
+* [Teachers’ perspectives on talk in the programming classroom: language as a mediator](https://dl.acm.org/doi/abs/10.1145/3446871.3469751) 2021 Sentence
+    * This paper investigates the ways in which programming teachers use classroom talk to support learning, and proposes a model to frame our understanding of this element of programming lessons.
+    * > While the role of language and dialogue has been researched in depth in other school subjects, there has been less research in the programming context. 
+    * (confirms what i've said previously about the importance of technical vocabulary)
+    * (best bit is the teachers highlighted comments)
 
 
 
@@ -297,8 +299,4 @@ Thank Pair Share
 Specific 3 bullet points - recorded
 
 
-
-
-
----
 
