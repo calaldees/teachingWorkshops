@@ -1,17 +1,16 @@
 Collaboration
 =============
 
-ITT CCF 4.9
-> Paired and group activities can increase pupil success, but to work together effectively pupils need guidance, support and practice
-ITT CCF 4.10
-> How pupils are grouped is also important; care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation.
-ITT CCF 5.5
-> Flexibly grouping pupils within a class to provide more tailored support can be effective, but care should be taken to monitor its impact on engagement and motivation, particularly for low attaining pupils
-
-CCCU Curriculum
-* Paired and group activities
-    * to work together effectively pupils need guidance, support and practice
-    * care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation
+* ITT CCF 4.9
+    * > Paired and group activities can increase pupil success, but to work together effectively pupils need guidance, support and practice
+* ITT CCF 4.10
+    * > How pupils are grouped is also important; care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation.
+* ITT CCF 5.5
+    * > Flexibly grouping pupils within a class to provide more tailored support can be effective, but care should be taken to monitor its impact on engagement and motivation, particularly for low attaining pupils
+* CCCU Curriculum
+    * Paired and group activities
+        * to work together effectively pupils need guidance, support and practice
+        * care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation
 
 
 Task (1 hour)
