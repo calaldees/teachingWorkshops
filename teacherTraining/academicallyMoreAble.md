@@ -1,23 +1,29 @@
 Academically More Able
 ======================
 
-* [The Push for Equity in Education Hurts Vulnerable Children the Most](https://quillette.com/2021/11/25/the-push-for-equity-in-education-hurts-vulnerable-children-most/) Russell T. Warne 2021
-    * TODO
 
 * [13-Year-Old, Nicholas Sharkey, Creates a RISC-V Core](https://riscv.org/blog/2020/11/13-year-old-nicholas-sharkey-creates-a-risc-v-core/)
 * > ‘Too many bright children let down in the state system’ Ofsted 2013
 * > ‘The most able students report finds that too few schools set high enough expectations of what their brightest students can achieve’. Ofsted 2103
 
 TASK: 10min
-* In google doc
+* In shared doc
 * List of characteristics which you consider to exemplify those pupils who are considered _able_ in Computing
 * Some ideas to kickstart your thinking
     * [Identifying more able learners: beyond the numbers](https://www.nace.co.uk/blogpost/1764163/327555/Identifying-more-able-learners-beyond-the-numbers) NACE 2019
     * [Traits of Giftedness](https://www.nagc.org/resources-publications/resources/my-child-gifted/common-characteristics-gifted-individuals/traits) Clark, B. (2008). Growing up gifted
 
+
+Criticality
+-----------
+
 * [Achieving equity through mediocrity: Why elimination of gifted programs should worry us all](https://thehill.com/opinion/education/576491-achieving-equity-through-mediocrity-why-elimination-of-gifted-programs)
     * > Journalist H.L. Mencken once denounced public education as an effort “simply to reduce as many individuals as possible to the same safe level, to breed a standard citizenry, to put down dissent and originality.”
+* [The Push for Equity in Education Hurts Vulnerable Children the Most](https://quillette.com/2021/11/25/the-push-for-equity-in-education-hurts-vulnerable-children-most/) Russell T. Warne 2021
+    * > The spending on education in the United States is disproportionately directed towards struggling children.
+    * > Equity over excellence
 * Goodhearts law - metrics will be gamed - if you truly want to reduce the attainment gap, just send the good students home 3 days a week
+
 
 ### Webinar Summary - How to Support the More Able
 
@@ -99,10 +105,26 @@ TASK: 10min
 Strategies in Computing
 -----------
 
+TASK: What strategies have you seen to support the more able?
+(who are these able students? how were they identified? what support/strategies were put in place (if any?))
+* Think (3min) notes
+* Pair (5min)
+* Share (5min)
+
+<details>
+<summary>some of my ideas</summary>
+
+* Self paced task bank - stretch/extension (clearly graded)
 * Use another language
     * (which is better for this task?)
-* Performance/LinesOfCode/Optimise
+* Add depth by considering Performance/LinesOfCode/Optimise
 * Put together a case that is (deliberately) not your opinion
 * Work on weakness's
-    * A* but can't communicate or work in groups
+    * `A*` but can't communicate or work in groups
     * Can go 'off spec' (in amazing ways) - do you allow this? or bring them back on track?
+* (in the modern world) There are LOTS of amazing accessible resources.
+* Teach them how to get a login for hack-the-box (after school)
+Most importantly
+* Be interested in their development! - however this can backfire because it's all they want to do and no other adult will listen.
+
+</details>

@@ -1,11 +1,6 @@
 Collaboration
 =============
 
-TODO:
-* [Teachers’ perspectives on talk in the programming classroom: language as a mediator](https://dl.acm.org/doi/abs/10.1145/3446871.3469751) 2021 Sentence
-    * This paper investigates the ways in which programming teachers use classroom talk to support learning, and proposes a model to frame our understanding of this element of programming lessons.
-
-
 ITT CCF 4.9
 > Paired and group activities can increase pupil success, but to work together effectively pupils need guidance, support and practice
 ITT CCF 4.10
@@ -13,6 +8,114 @@ ITT CCF 4.10
 ITT CCF 5.5
 > Flexibly grouping pupils within a class to provide more tailored support can be effective, but care should be taken to monitor its impact on engagement and motivation, particularly for low attaining pupils
 
+CCCU Curriculum
+* Paired and group activities
+    * to work together effectively pupils need guidance, support and practice
+    * care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation
+
+
+Task (1 hour)
+-------------
+TASK 1: Read the "How to make the most of group work" (5min) (every word is a gem! great little article)
+TASK 2: Make individual notes on: (10min)
+* group work you've observed
+* How was it done?
+* Was it effective? Why was it effective?
+* How was/should the group work be scaffolded? assessed?
+* Draw upon the concepts in the article with further notes
+TASK 3: Attempt a mini secretive circle
+* Select participants and assign roles (3 inner, 3 outer)
+    * (This is just a demo and slightly fake, the inner circle normally have more time to prepare, but yolo)
+
+
+
+* [How to make the most of group work](https://my.chartered.college/2018/08/how-to-group-work-teaching-strategies/)
+    * Summary
+        * In general, don’t do group work for the sake of it or without the right conditions.
+            * > Cooperative learning or group work can be extremely effective, but it needs the right conditions.
+    * What does it mean?
+        * It is vital to distinguish between 
+            * structured team learning and 
+            * informal group learning. 
+        * Structured team learning – or cooperative learning – has yielded strong results in trials when there are two conditions in place:
+            1. Group goals
+                * The aim of the task must be to achieve success in something purposeful, possibly to gain a reward of some kind. It isn’t enough to work in a team without a clear goal.
+            2. Individual accountability
+                * The success of each student in terms of their learning must contribute to the overall team success, otherwise some students dominate the task and others become passengers.
+        * It is common for teachers to deploy informal group learning where these conditions do not apply. 
+            * This can weaken learning gains and reduce their effectiveness when compared with individual working.
+    * What are the implications for teachers?
+        * This is a classic example of it being ‘the way you do it’ that gets results.
+        * In general, don’t do group work for the sake of it or without taking account of the conditions in which it is effective. 
+        * Group work is not inherently a good idea or a bad idea, its effectiveness depends on what you want students to learn and how you organise the groups.
+        * If students are all to succeed, the task must be designed so they have to help and challenge each other. 
+        * This links to Dylan Wiliam’s idea of students learning to act as resources for each other to generate formative feedback. 
+        * It is also important that they all have a clear role. 
+        * Every student’s contribution must matter and no one student should be able to opt out or hang back while the others do all the thinking.
+        * Also stick to smaller groups (pairs and threes) 
+            * because it is harder to ensure there is accountability and defined roles as the number of students in the group increases (this is known as the Ringelmann effect).
+    * Top tip
+        * Consider whether students might learn more doing a task by themselves or whether a group task would help to push all the students forward in their thinking, or support practice and formative assessment.
+
+
+* [Student Culture vs Group Work in Computer Science](https://www.researchgate.net/publication/2911704_Student_Culture_vs_Group_Work_in_Computer_Science) Waite, Jackson 2018?
+    * (University context: caution when applying this to secondary)
+    * 4 strategies
+        * Sequential segmentation: I work on it for a while, then pass it along to you.
+        * Parallel segmentation: We break it up and everyone does a piece.
+        * Natural selection: We each carry it out and then choose the best result, or we choose the best person and let them do it.
+        * Collaboration: We interact closely during the task
+    * > collaboration is important is that it avoids the third order of ignorance 
+    * > Members see how others think in addition to being exposed to a variety of possible conclusions. They learn how to make useful judgments more quickly than do people studying the same material individually, and the judgments of the group are usually better than those of the individua
+    * Overwhelming preference for working alone
+        * Sole responsibility
+        * Carry the weak
+        * Not wanting to deal with interpersonal problems
+        * Every assignment is a product
+    * > Procrastination hinders collaboration because it does not leave time for discussion
+    * The world is simple and understandable alone
+    * > Supportive behaviour is a very important factor for team success, and therefore a refusal to provide or allow it is damaging to collaboration.
+    * > Without shared passion, it is very hard for a group to get beyond such problems.
+
+
+* [Teachers’ perspectives on talk in the programming classroom: language as a mediator](https://dl.acm.org/doi/abs/10.1145/3446871.3469751) 2021 Sentence
+    * This paper investigates the ways in which programming teachers use classroom talk to support learning, and proposes a model to frame our understanding of this element of programming lessons.
+    * > While the role of language and dialogue has been researched in depth in other school subjects, there has been less research in the programming context. 
+    * (confirms what i've said previously about the importance of technical vocabulary)
+    * (best bit is the teachers highlighted comments)
+
+
+Socratic Circle/Debate
+----------------------
+
+* Inner group Group interact/discuss/plan/teach
+* Outer group take notes
+* Outer group asked for input
+* Groups then inverted
+
+Prevents 'passive' learning
+
+* [20 things every computing teacher should try! Socratic Debate](https://www.teachwithict.com/socratic.html) Teach with ICT
+    * Arrange the seats into two circles (inner and outer circle) 
+    * “Surveillance technology is a bad thing, discuss!” or “Why do we need technology to track the movements of individuals?”.
+    *  asking the students in the outer circle to reveal their question or mission to the rest of the class and to respond with their answer or observation.
+    * See "Socratic questioning techniques" sacafold handout - types of questions to ask in debate
+        * Clarification, Challenge, use of evidence, explore other viewpoints, considering consequences, Questioning the question
+    * See "Debate cards" to give focus to watchers
+* [Engaging Students in Socratic Seminars](https://www.teachingchannel.com/blog/socratic-seminars) 2018 teachingchannel.com
+    * Article and videos of pre-scaffold and prep
+    * (Requires login to view video)
+* [Socratic Seminar in a Computer Science Classroom](https://derekbabbcom.files.wordpress.com/2017/01/socratic-computer-science.pdf) Derek Babb 2015 Omaha North High School
+* [Socratic Seminars in Science](https://mariventurino.com/2017/04/22/socratic-seminars-in-science/)
+    * Science - but has interesting rubric for participation
+* [A distributed systems course structured using socratic seminars](https://ieeexplore.ieee.org/document/5350634) 2009
+* [Socratic Seminars: Building a Culture of Student-Led Discussion](https://www.edutopia.org/blog/socratic-seminars-culture-student-led-discussion-mary-davenport) - Implementing effective Socratic seminars is a multistep process that takes careful planning.
+    * > Students' team's discussions are very prone to remain superficial. One of the faculty's duties is to avoid this surface approach and to incentive the exchange of views and opinions. We rely on Socratic Dialogues (or Socratic seminars) to structure this exchange.
+
+
+
+
+---
 
 
 Objectives
@@ -195,76 +298,8 @@ Thank Pair Share
 Specific 3 bullet points - recorded
 
 
-Socratic Circle/Debate
-----------------------
-
-* Inner group Group interact/discuss/plan/teach
-* Outer group take notes
-* Outer group asked for input
-* Groups then inverted
-
-Prevents 'passive' learning
-
-* [20 things every computing teacher should try! Socratic Debate](https://www.teachwithict.com/socratic.html) Teach with ICT
-    * Arrange the seats into two circles (inner and outer circle) 
-    * “Surveillance technology is a bad thing, discuss!” or “Why do we need technology to track the movements of individuals?”.
-    *  asking the students in the outer circle to reveal their question or mission to the rest of the class and to respond with their answer or observation.
-    * See "Socratic questioning techniques" sacafold handout - types of questions to ask
-        * Clarification, Challenge, use of evidence, explore other viewpoints, considering consequences, Questioning the question
-* [Socratic Seminar in a Computer Science Classroom](https://derekbabbcom.files.wordpress.com/2017/01/socratic-computer-science.pdf) Derek Babb 2015 Omaha North High School
-* [Engaging Students in Socratic Seminars](https://www.teachingchannel.com/blog/socratic-seminars) 2018 teachingchannel.com
-    * Article and videos of pre-scaffold and prep
-    * (Requires login to view video)
-* [Socratic Seminars in Science](https://mariventurino.com/2017/04/22/socratic-seminars-in-science/)
-    * Science - but has interesting rubric for participation
 
 
-* [A distributed systems course structured using socratic seminars](https://ieeexplore.ieee.org/document/5350634) 2009
-* [Socratic Seminars: Building a Culture of Student-Led Discussion](https://www.edutopia.org/blog/socratic-seminars-culture-student-led-discussion-mary-davenport) - Implementing effective Socratic seminars is a multistep process that takes careful planning.
-    * > Students' team's discussions are very prone to remain superficial. One of the faculty's duties is to avoid this surface approach and to incentive the exchange of views and opinions. We rely on Socratic Dialogues (or Socratic seminars) to structure this exchange.
 
 ---
 
-
-https://my.chartered.college/2018/08/how-to-group-work-teaching-strategies/
-
-What does it mean?
-
-It is vital to distinguish between structured team learning and informal group learning. Structured team learning – or cooperative learning – has yielded strong results in trials when there are two conditions in place:
-
-* Group goals
-    * The aim of the task must be to achieve success in something purposeful, possibly to gain a reward of some kind. It isn’t enough to work in a team without a clear goal.
-* Individual accountability
-    * The success of each student in terms of their learning must contribute to the overall team success, otherwise some students dominate the task and others become passengers.
-
-It is common for teachers to deploy informal group learning where these conditions do not apply. This can weaken learning gains and reduce their effectiveness when compared with individual working.
-What are the implications for teachers?
-
-This is a classic example of it being ‘the way you do it’ that gets results. In general, don’t do group work for the sake of it or without taking account of the conditions in which it is effective. Group work is not inherently a good idea or a bad idea, its effectiveness depends on what you want students to learn and how you organise the groups.
-
-If students are all to succeed, the task must be designed so they have to help and challenge each other. This links to Dylan Wiliam’s idea of students learning to act as resources for each other to generate formative feedback. It is also important that they all have a clear role. Every student’s contribution must matter and no one student should be able to opt out or hang back while the others do all the thinking.
-
-Also stick to smaller groups (pairs and threes) because it is harder to ensure there is accountability and defined roles as the number of students in the group increases (this is known as the Ringelmann effect).
-Top tip
-Consider whether students might learn more doing a task by themselves or whether a group task would help to push all the students forward in their thinking, or support practice and formative assessment.
-
-
-
-* [Student Culture vs Group Work in Computer Science](https://www.researchgate.net/publication/2911704_Student_Culture_vs_Group_Work_in_Computer_Science) Waite, Jackson 2018?
-    * University based
-    * 4 strategies
-        * Sequential segmentation: I work on it for a while, then pass it along to you.
-        * Parallel segmentation: We break it up and everyone does a piece.
-        * Natural selection: We each carry it out and then choose the best result, or we choose the best person and let them do it.
-        * Collaboration: We interact closely during the task
-    * > collaboration is important is that it avoids the third order of ignorance 
-    * > Members see how others think in addition to being exposed to a variety of possible conclusions. They learn how to make useful judgments more quickly than do people studying the same material individually, and the judgments of the group are usually better than those of the individua
-    * Overwhelming preference for working alone
-        * Sole responsibility
-        * Carry the weak
-        * Not wanting to deal with interpersonal problems
-        * Every assignment is a product
-    * > Procrastination hinders collaboration because it does not leave time for discussion
-    * The world is simple and understandable alone
-    * > Supportive behaviour is a very important factor for team success, and therefore a refusal to provide or allow it is damaging to collaboration.
-    * > Without shared passion, it is very hard for a group to get beyond such problems.

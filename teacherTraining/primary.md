@@ -87,7 +87,7 @@ Ofsted Inspections
 
 Activity: What's in an Ofsted report? (10min + 5min)
 * https://reports.ofsted.gov.uk/
-* Find a feeder primary of your placement school
+* Find a feeder primary of your placement school (find your schools postcode and search for primary schools)
 * Search for the term 'computing' or 'ict'. Can you find it mentioned in the report?
 
 

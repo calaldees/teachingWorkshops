@@ -83,9 +83,9 @@ TASK:
             * Man 13 = 5 top + 13 bottom
         * [Count the people - is also referenced here](https://kids.niehs.nih.gov/games/riddles/illusions/lots-of-illusions/index.htm) not computing realated but I just love the NOT animated ones
 * [21 things every computing teacher should try: Teach with magic!](https://www.teachwithict.com/teach-with-magic.html) (with 10min video) Mark Doorline
-    * Sequence of precise instructions
+    * Sequence of precise instructions - sort into suite:numerical - cut (any number of times)
     * 7,8,9,10 always in order
-    * investigate why
+    * investigate why - put in visible linear order (see what happens to data) - any cut will mean that when placed at the other end, it is ALWAYS 4 numbers away from the same number. We don't know what quadrant will be which number, but they will always follow the say rotation of 4 because we are never breaking the chain of 4.
 * [Assessing Computational Thinking in CS Unplugged Activities](https://dl.acm.org/doi/10.1145/3017680.3017779)
     * > Computer Science (CS) Unplugged activities have been deployed in many informal settings to present computing concepts in an engaging manner. To justify use in the classroom, however, it is critical for activities to have a strong educational component. For the past three years, we have been developing and refining a CS Unplugged curriculum for use in middle school classrooms. In this paper, we describe an assessment that maps questions from a comprehensive project to computational thinking (CT) skills and Bloom's Taxonomy. We present results from two different deployments and discuss limitations and implications of our approach.
     * 5 Unplugged activities - repeated again in two different context so students could not 'remember' the solution.
@@ -100,6 +100,16 @@ Lecture (30 min)
 ----------------
 
 Some ideas and consolidating thoughts
+
+Criticality
+-----------
+
+* [A critical review of literature on “unplugged” pedagogies in K-12 computer science and computational thinking education](https://www.tandfonline.com/doi/full/10.1080/08993408.2020.1789411) 2020
+    * Criticality - two studies that cite unplugged differently
+        * > teachers perceived that students were most excited by learning through creating, which included programming, game design, mobile app development, and physical computing. In other words, activities using high-tech computing devices were thought to generate more interest in computing than low-tech and unplugged approaches (Black et al., 2013). 
+        *  > In contrast, another survey in 2014 of 300 primary and secondary computing teachers in the U.K. revealed that unplugged strategies were the most commonly reported in free-form responses on pedagogy (Sentance & Csizmadia, 2017).
+    *  > Studies that tried to evaluate whether unplugged activities can develop CT suffer from both difficulties defining and measuring CT, as well as separating out the effect of these activities from other approaches (e.g. teaching programming)
+
 
 Sequence
 --------
@@ -279,11 +289,6 @@ TODO
     * Move Baberas tasks away form computer
     * Exhibitions
 
-* [A critical review of literature on “unplugged” pedagogies in K-12 computer science and computational thinking education](https://www.tandfonline.com/doi/full/10.1080/08993408.2020.1789411) 2020
-    * Criticality - two studies that cite unplugged differently
-        * > teachers perceived that students were most excited by learning through creating, which included programming, game design, mobile app development, and physical computing. In other words, activities using high-tech computing devices were thought to generate more interest in computing than low-tech and unplugged approaches (Black et al., 2013). 
-        *  > In contrast, another survey in 2014 of 300 primary and secondary computing teachers in the U.K. revealed that unplugged strategies were the most commonly reported in free-form responses on pedagogy (Sentance & Csizmadia, 2017).
-    *  > Studies that tried to evaluate whether unplugged activities can develop CT suffer from both difficulties defining and measuring CT, as well as separating out the effect of these activities from other approaches (e.g. teaching programming)
 
-TODO:
+
 * [Unplugged Activities to Introduce Parallel Computing in Introductory Programming Classes: an Experience Report](https://dl.acm.org/doi/10.1145/3304221.3325573) 2019
