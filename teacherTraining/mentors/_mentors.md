@@ -236,6 +236,35 @@ https://outlook.office365.com/owa/calendar/PGCESDComputing@cccu.onmicrosoft.com/
 Hope we can catchup soon.
 
 
+Visit 2
+-------
+
+
+Subject: Computing Mentor Support/Checkin
+
+Hi ???,
+(cc'ing ??? as professional mentor as part of process)
+
+Thank you for supporting ??? with his second placement.
+??? has been with you a week now and hopefully is begging to settle and understand your school.
+In our subject session on Friday ?he/she/they? spoke highly of your induction.
+
+How are things going?
+I hope ??? came prepared with ?his/her/they're? SPR1 and SPR2 documents and is aware of ?his/her/they're? targets.
+
+As my role is to support your mentoring, I should be visiting each mentor at least once per placement.
+I can be available for short catchups or we can take some time to jointly mentor (maybe timing this with your normal weekly mentor meeting as a longer visit).
+Just letting you know that this support is here.
+The best way to contact me is using my online MSTeams booking system.
+https://outlook.office365.com/owa/calendar/PGCESDComputing@cccu.onmicrosoft.com/bookings/
+
+My suggestion would be let ??? settle for a few weeks and maybe we could arrange a mentor visit towards Easter?
+
+Let's keep in touch.
+
+
+
+
 Mentor Visits
 =============
 

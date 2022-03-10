@@ -96,3 +96,40 @@ speaker of the same age.
             * paper 
             * basket
     * > Gibbons says we must ask before we even begin the teaching: "What is the language that I want children to be able to use by the end of this unit?"
+
+
+Alison Session Overview
+-----------------------
+
+CCF + Standards + KSQ
+
+www.standards.dcsf.gov.uk/National Strategies (2011) Supporting children learning EAL
+
+* What do you know about EAL so far?
+* 60 second challenge
+* write down all the terms you think of to do with EAL
+* Theory underpinning practice
+* What I know, what to know, and what I've learn
+* Bookfield lenses
+* Definitions - Gibbons and National Strategies
+* What are experiences of EAL learners
+* In groups reading a story/nursery rhyme (french, spanish, turkish)
+    * Little red riding hood, twinkle twinkle little star, barr barr black sheep, ring a ring a roses
+    * Shock because they don't know what's going on
+* EAL strategies checklist
+* Challenges
+* Conversational and academic fluency
+* Similarities between first and second language acquisition
+
+* www.naldic.org.uk/docs/resources/KeyDocs.htm
+* Mike gershons strategy checklist
+
+Language Acquisition: First Language
+
+Planning for language development group work
+
+Present on what they have done
+
+TODO
+* [Designing New ITE Curricula: EAL Content Recommendations](https://www.bell-foundation.org.uk/app/uploads/2020/09/The-Bell-Foundation-ITE-Curricula-Matrix.pdf) May 2020
+

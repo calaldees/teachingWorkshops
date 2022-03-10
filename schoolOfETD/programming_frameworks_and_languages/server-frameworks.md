@@ -165,6 +165,22 @@ dotnet csproj
 * TODO - [ASP.NET Web API Tutorials](https://www.tutorialsteacher.com/webapi)
 
 
+[OWIN](http://owin.org/) - Open Web Interface for .NET
+
+
+Nancy
+-----
+
+TODO
+
+http://nancyfx.org/
+
+https://github.com/karasek/OWIN-Test-Samples
+SignalIR
+Other C#
+TODO: https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor
+https://github.com/markrendle/Flux
+
 Snaic
 -----
 
@@ -271,6 +287,12 @@ Gin
 I may create a docker example of this for next session
 
 
+Zitonic - Earlang
+-------
+
+* [Zotonic, the Erlang Web Framework](http://zotonic.com/)
+
+
 
 Assignment 1 - Assistance
 -------------------------
@@ -372,9 +394,10 @@ Unsorted
     * > PostgREST is a standalone web server that turns your PostgreSQL database directly into a RESTful API. The structural constraints and permissions in the database determine the API endpoints and operations.
 
 https://rapidapi.com/blog/best-nodejs-frameworks/
-Performacen community ease of use, best for
+Performance community ease of use, best for
 
 https://github.com/pimbrouwers/Falco F# functional
+* > Functional-first toolkit for building brilliant ASP.NET Core applications using F#. 
 
 * https://github.com/servicetitan/Stl.Fusion C# Super server+client mega solution
     * Key concept - "eventual consistency" - creating invalidation methods is key

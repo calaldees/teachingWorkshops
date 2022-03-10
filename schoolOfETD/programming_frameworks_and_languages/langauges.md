@@ -906,3 +906,10 @@ TODO
 
 * [asciinema blog - 4x smaller, 50x faster](https://blog.asciinema.org/post/smaller-faster/)
     * WebASM + Rust + Solid.js migrated from Clojurescript
+* [Advanced programming languages](https://matt.might.net/articles/best-programming-languages/)
+    * >  In academic research and in entrepreneurship, you need to multiply your effectiveness as a programmer, and since you (probably) won't be working with an entrenched code base, you are free to use whatever language best suits the task at hand.
+    * Languages
+        * Haskell.
+        * Scala.
+        * Standard ML and OCaml.
+        * Scheme.

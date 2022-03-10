@@ -378,6 +378,9 @@ Attempt to explore the techniques used in my [Teacher Workbook Example](https://
 Todo
 ----
 
+* [How to use data to spot pupil behaviour issues ahead of time](https://www.tes.com/magazine/leadership/data/how-use-data-spot-pupil-behaviour-issues-ahead-time)
+    * Rolling behaviour data of whole cohort with excel
+
 https://analytics.ofqual.gov.uk/
 
 Data teacher meme

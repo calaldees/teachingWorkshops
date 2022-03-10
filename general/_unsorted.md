@@ -161,3 +161,6 @@
     * Pretty sinister - it's what our public expect - so we do it secretly?
 
 * [Reading on a smartphone affects sigh generation, brain activity, and comprehension](https://www.nature.com/articles/s41598-022-05605-0) 2022
+
+* [Death by PowerPoint: the slide that killed seven people](https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx)
+    * The space shuttle Columbia disintegrated in the atmosphere because engineers had a powerpoint slide that did not convey the problem effectively

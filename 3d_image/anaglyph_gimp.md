@@ -28,6 +28,13 @@ How to create red/cyan 3D images with GIMP
         * (right click - RED Layer) ‘Duplicate Layer’
         * Colors -> Invert (to make) Cyan Layer
         * Merge Mode: Multiply
+* Calibrate your central point (where the red/cyan meet)
+    * Cyan == invisible to right eye
+    * Red == invisible to left eye
+    * Cyan to the right of red == towards the screen
+    * Red to the right of cyan == into the screen
+* Move tool - move active layer (hold shift)
+    * (ensure move tool is is `layer` rather than `selection`)
 
 ## References
 

@@ -275,3 +275,6 @@ Unsorted
     *  During the program development process, students hesitated to create an algorithm and to improve an existing one while proposing the next step. 
     *  In addition, they constantly waited for approval. 
     *  Collaborative behaviors such as giving and receiving feedback and helping other partners were less observed in females.
+
+* [Pair Programming Antipatterns](https://tuple.app/pair-programming-guide/antipatterns)
+    * Great list! Everyone should read it

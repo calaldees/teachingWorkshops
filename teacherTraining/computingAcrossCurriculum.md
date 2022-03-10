@@ -193,14 +193,14 @@ Remote/Covid: Sadly, this lesson looses all it's impact without being able to ph
     * [anaglyph](../3d_image/anaglyph.md)
     * [guide](../3d_image/anaglyph_gimp.md)
 * [Google Slides](https://docs.google.com/presentation/d/1tJRI7dnJmk30Jojupjcb5qJA_mLJf4nK_g0Yc5V0xHs/edit?usp=sharing)
-* [dino_images](http://calaldees.dreamhosters.com/pictures/lasar/)
+* [dino_images](http://calaldees.dreamhosters.com/pictures/lasar/) (NOO!! I LOST THEM!! I had a dinosaur and a tardis on a desk .. it was amazing)
 
 * Philosophy
     * How to we experience the world
 * Etymology
     * [Stereo-Scopic](https://www.google.com/search?client=firefox-b-d&q=define%3A+stereo#dobs=stereoscopic)
         * `stereo` -> Greek: Solid
-        * `-scopic` ajective of nouns ending in `scope` -> denoting an instrument for observing, viewing, or examining. -> from modern Latin `-scopium`, from Greek `skopein` ‘look at’
+        * `-scopic` adjective of nouns ending in `scope` -> denoting an instrument for observing, viewing, or examining. -> from modern Latin `-scopium`, from Greek `skopein` ‘look at’
 * Physics
     * Light filters
     * https://en.wikipedia.org/wiki/Anaglyph_3D
@@ -209,7 +209,7 @@ Remote/Covid: Sadly, this lesson looses all it's impact without being able to ph
         * [History post 2D->3D conversion example](https://www.flickr.com/photos/50183486@N04/7025156057/in/pool-365182@N21/)
     * [Fliker: Stereo](https://www.flickr.com/photos/15693951@N00/albums/72157602843553105) post3d historical photos
 * ICT - Image Manipulation
-    * Hands on with Dinosaur/tardis
+    * Hands on with Dinosaur/tardis (i lost these legendary images)
     * Extension: Take your own!!!!
     * [How to make 3D images with GIMP](http://strakul.blogspot.co.uk/2012/03/how-to-make-3d-images-with-gimp.html)
 * Computing - Automation
@@ -217,9 +217,14 @@ Remote/Covid: Sadly, this lesson looses all it's impact without being able to ph
     * Layer mode
         * Algorithms (for each pixel)
         * [Gimp Layer Modes](https://docs.gimp.org/en/gimp-concepts-layer-modes.html#layer-mode-multiply)
+    * How long did it take you to do one image? what about ten? what about about 100? what about 10,000?
+        * ![homemade 3d camera](https://calaldees.uk/responsive_portfolio_assets/images/projects/3d_camera.jpg)
+    * [Python anaglyph + video](https://github.com/calaldees/TeachProgramming/tree/master/teachprogramming/static/projects/other/anaglyph)
 * Art
     * Create own abstract worlds (fractals animation)
     * [3D Fractal](https://www.youtube.com/watch?v=bklMh5NjewI)
+* Let's go into space
+
 
 Sidenote: We should be fostering creativity
 -------------------------------------------
@@ -228,7 +233,7 @@ We sometimes steamroller this in striving for our examinable/measurable grades.
 
 * [role of arts in improving health and wellbeing](https://www.gov.uk/government/publications/evidence-summary-for-policy-the-role-of-arts-in-improving-health-and-wellbeing)
     * [@dylanwiliam tweet](https://twitter.com/dylanwiliam/status/1312737300380618752)
-        * > A useful summary from @UCL's Department of Behavioural Science and Health (updating last year's @WHO's report) of the research on the role of the arts in promoting health and wellbeing in children and adults: https://bit.ly/2SpZ2Pb
+        * > A useful summary from @UCL's Department of Behavioural Science and Health (updating last year's @WHO's report) of the research on the role of the arts in promoting health and well-being in children and adults: https://bit.ly/2SpZ2Pb
             * social cohesion
 
 * [[creativity]]
@@ -272,7 +277,7 @@ TODO:
 Showcase of ideas.
 The subjects here are _loose_.
 I'm going to get really exited here.
-Timebox to one hour ... you may be sent links in the chat to try
+Timeboxed? One hour? I could go all day
 
 * Geography
     * [GeoTraceroute](https://geotraceroute.com/) on map
@@ -335,7 +340,7 @@ Timebox to one hour ... you may be sent links in the chat to try
     * http://stuffin.space/
     * [css-orbit](https://css-orbit.kobeff.repl.co/) [article](https://repl.it/talk/share/CSS-Solar-System/119400)
     * [Alien Civilization Calculator](https://www.omnicalculator.com/physics/alien-civilization)
-    * Atomic Imagry [Crystal close up First-ever atomic resolution video of salt crystals forming in real time ](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00161.html)
+    * Atomic Imagery [Crystal close up First-ever atomic resolution video of salt crystals forming in real time ](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00161.html)
 * Maths
     * Matrix calculations for rotation and scaling (in real time?)
         * [Coding The Matrix: Linear Algebra Through Computer Science Applications](https://codingthematrix.com/)
@@ -413,6 +418,7 @@ Timebox to one hour ... you may be sent links in the chat to try
         * [the-night-watch online scan](https://www.rijksmuseum.nl/en/most-detailed-ever-photograph-of-the-night-watch-goes-online)
     * [Algorithmic Art](https://en.wikipedia.org/wiki/Algorithmic_art)
         * [recursive-tree-challenge](https://www.101computing.net/recursive-tree-challenge/)
+        * My [tree_recursive.html](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/other/tree_recursive.html)
         * [London Community](https://www.meetup.com/Algorithmic-Art/)
     * [Demoscene](https://en.wikipedia.org/wiki/Demoscene)
         * [Breakthrough of Digital Culture: Finland accepts the Demoscene on its national UNESCO list of intangible cultural heritage of humanity](http://demoscene-the-art-of-coding.net/2020/04/15/breakthrough-finland-accepts-demoscene-on-their-national-list-of-intangible-cultural-heritage-of-humanity/)
@@ -453,6 +459,8 @@ Timebox to one hour ... you may be sent links in the chat to try
     * Surveys
         * Student data collection and analysis
     * social patterns - statistics? datasets?
+    * [XKCD Color Survey Results](https://blog.xkcd.com/2010/05/03/color-survey-results/)
+        * 84mb SQL file for download
 * Psychology
     * [Human Computer Interaction Psychology](https://www.amazon.co.uk/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=Handbook+of+Human-computer+Interaction)
     * [Valve Jobs](https://www.valvesoftware.com/el/?job_cat=data-science)
@@ -466,6 +474,7 @@ Timebox to one hour ... you may be sent links in the chat to try
         * > Yes it's a test on us. The Turing test is basically a test of the conjecture whether people are intelligent enough to understand themselves
 * PE
     * Microbit to capture performance statistics?
+        * How many steps? time? log to file?
     * Fitness Personal trainer data
         * TODO
     * Visual coach - technique slow mo frames
@@ -493,6 +502,8 @@ Timebox to one hour ... you may be sent links in the chat to try
 * Music
     * MIDI - Theory
         * Appreciation - color? image? - taktile
+        * major + minor scale formulas
+        * Chord formulas - chord identification
     * tune in code
         * 440hz
     * Ableton
@@ -527,6 +538,7 @@ Timebox to one hour ... you may be sent links in the chat to try
                 for msg in inport:
                     print(msg)
             ```
+            * `mido` was a bit fiddly to install. Here is my example of `rtmidi` [miditest](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/other/midi_test.py)
         * [webMidiLog](https://github.com/superLimitBreak/webMidiTools/blob/master/webMidiLog.html) (see more code below)
         * Code Activity: From raw midi data - print note and octave - A#2
             * [note_to_text](https://github.com/calaldees/libs/blob/bf4a1371510cc32c2c8b1f8a177edb8cce0f16fd/python3/calaldees/music.py#L27) example
@@ -538,6 +550,9 @@ Timebox to one hour ... you may be sent links in the chat to try
     * [Language Letter Frequency](https://en.wikipedia.org/wiki/Letter_frequency) detector
         * [langauge_frequeny.py](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/data/langauge_frequeny.py)
     * Use application/operating-systems in different languages
+    * [English++](https://englishplusplus.jcj.uj.edu.pl/index.html)
+        * Teaching Computer Science with english as a second language.
+        * Open polish book from 3rd year comp sci grads
 * Textiles
     * [Knitters and Coders: separated at birth?](https://cs4fn.blog/2021/06/11/knitters-and-coders-separated-at-birth/)
     * Embroidery (cad/cam printers)
@@ -790,6 +805,8 @@ let c = 10;
 
 #### Recursive Trees
 
+* [tree_recursive.html](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/other/tree_recursive.html)
+
 ```python
 import turtle
 t = turtle.Pen()
@@ -821,7 +838,7 @@ Human DNA 3 Billion pairs
 * https://medium.com/precision-medicine/how-big-is-the-human-genome-e90caa3409b0
     * 700MB (perfect world)
     * 200GB (off the sequencer)
-    * 125MB (variant of a reference genome)
+    * 125MB (variant of a reference genome) (diff from reference)
 
 [regex101.com](https://regex101.com/)
 ```python
@@ -856,32 +873,23 @@ with open('./01001099999.csv', encoding='utf-8') as csvfile:
 
 #### Plotly
 
-[Plotly](https://plot.ly/) [Simple Scatter Example](https://plot.ly/python/line-and-scatter/#simple-scatter-plot)
+* [Plotly](https://plot.ly/) [Simple Scatter Example](https://plot.ly/python/line-and-scatter/#simple-scatter-plot)
+    * [Falcon](https://github.com/plotly/falcon) Plotly can work directly from SQL DB's
 ```python
-import plotly.plotly as py
-import plotly.graph_objs as go
-
-# Create random data with numpy
-import numpy as np
+import random
+import plotly
 
 N = 1000
-random_x = np.random.randn(N)
-random_y = np.random.randn(N)
-
-# Create a trace
-trace = go.Scatter(
-    x = random_x,
-    y = random_y,
+trace = plotly.graph_objs.Scatter(
+    x = [random.randint(0,N) for x in range(N)],
+    y = [random.randint(0,N) for y in range(N)],
     mode = 'markers'
 )
 
-data = [trace]
-
-import plotly
-plotly.offline.plot(data, filename='basic-line')
+plotly.offline.plot([trace], filename='basic-line.html', auto_open=False)
 ```
 
-[Falcon](https://github.com/plotly/falcon) Plotly can work directly from SQL DB's
+
 
 
 ### Midi in Chrome
@@ -922,6 +930,7 @@ Computing Education in the Media
 * [Coding for what? Lessons from computing in the curriculum](https://mirandanet.ac.uk/blog/2017/09/02/coding-lessons-computing-curriculum/) 
     * See closing two paragraphs
     * Computing Curriculum is not just about code - its political power
+    * > It is time to consider a more socially aware and critical computing education that could engage with the social and political power of code to engineer, in part, how we live and think.
 
 
 Colleagues and Other Subjects
@@ -936,9 +945,6 @@ Summary (whole group 15min to 30min)
 
 This all sounds good. How do we actually do this? What actions can we take?
 
-Shared whiteboard: Put all the ideas you have encountered this session that you will consider using or following up.
-
-I value your 2min of feedback.
 
 
 
@@ -1049,9 +1055,6 @@ tim hunkin - southwold under the peir - novalty automation
 
 Runway - numbers - bearing
 
-* [English++](https://englishplusplus.jcj.uj.edu.pl/index.html)
-    * Teaching Computer Science with english as a second langauge.
-    * Open polish book from 3rd year comp sci grads
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [creativity]: creativity.md "Creativity"

@@ -43,6 +43,7 @@ https://en.wikipedia.org/wiki/Anaglyph_3D
     * [3D Video: Test footage](https://www.youtube.com/watch?v=7pA6CvF4BEU)
     * [Skydiving at Parasummer 3D (AudioSwapped)](https://www.youtube.com/watch?v=NwzXL6joZjw)
     * [Butterfly's](https://www.youtube.com/watch?v=aJ9tsb2yqUc)
+    * [3D Anaglyph - 16 video mega compilation - Red and blue(cyan) glasses needed](https://www.youtube.com/watch?v=BzTPHh45jbU)
 * Space
     * [NASA Space Station: Tour](https://www.youtube.com/watch?v=MQEkFppWaRI)
     * [NASA Mars](https://www.youtube.com/watch?v=RGpVNQfwyrE&t=818s)

@@ -48,4 +48,4 @@ Viva Questions
   Can you run the client tests
   Where would you look for failed test information?
   Can you show where you setup `main` as an ID - Why did you create this?
-  Show where you attached an action to a button. What was the action? what code was executed?
+  Show where you attached an action to a button. What was the action? what code was executed? Talk us through the information flow.

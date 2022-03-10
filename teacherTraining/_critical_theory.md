@@ -1,5 +1,26 @@
-Universalisum
-=============
+Critical Theory
+===============
+
+
+* Wikipedia: [Critical theory](https://en.wikipedia.org/wiki/Critical_theory)
+* [Understanding Critical Theory](https://www.simplypsychology.org/critical-theory.html)
+  * > Critical Theory is a social theory that aims to critique and change society as a whole. 
+  * > Critical theories attempt to find the underlying assumptions in social life that keep people from fully and truly understanding how the world works.
+  * > These underlying assumptions, in the view of critical theories, create a “False consciousness” that actively undermines people’s progress toward a true democracy.
+  * > According to critical theorists, a real democracy is rational because it allows individuals to gain control over the social processes that affect themselves and their life choices.
+
+* [Critical race theory](https://en.wikipedia.org/wiki/Critical_race_theory)
+  * > seek to examine the intersection of race and law in the United States
+    * American focused - the UK is not America
+  * [Critical race theory: UK](https://en.wikipedia.org/wiki/Critical_race_theory#United_Kingdom)
+    * Equalities Minister Kemi Badenoch, who is of Nigerian descent
+      * > We do not want to see teachers teaching their pupils about white privilege and inherited racial guilt
+      * (see political laws in education from SP15)
+
+
+Universalism
+------------
+
 
 Femen-isum, class-isum
 
@@ -20,13 +41,13 @@ Femen-isum, class-isum
         * > “individual should feel discomfort, guilt, anguish, or any other form of psychological distress on account of his or her race or sex.” While I wholly agree that elementary school students shouldn’t be sent home in tears by educators more focused on ideological crusades than student well-being, ... Expecting teachers not to consciously inflict emotional pain is one thing; suggesting that they steer around all such topics is quite another.
         * > “be clear enough to be understood by persons of ordinary intelligence. Instead, these laws are broad and vague enough to create an extraordinary chilling effect on classroom speech.”
 
-* _Old_ Racisum is things that we _do_
-* _Modern_ racisum is things that we _don't_ do
+* _Old_ Racism is things that we _do_
+* _Modern_ racism is things that we _don't_ do
     * Opportunities/Support
 
 * When someone makes a complaint - the victim is perceived the aggressor
 
-* Micro inequityes
+* Micro inequalities
     * rolling eyes
     * excluding women
     * Friendly with some members of team, but no nothing about others

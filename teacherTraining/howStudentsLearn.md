@@ -654,6 +654,23 @@ Questioning and the use of Blooms
 
 
 
+
+Small group interventions - are they effective?
+-----------------------------------------------
+
+See EEF findings
+
+* [Small Group Instruction to Improve Student Performance in Mathematics in Early Grades: Results from a Randomized Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3979348) 2021 CESifo Working Paper No. 9443
+    * > 159 Norwegian schools over four years. The intervention includes students aged 7-9 and consists of pulling students from their regular mathematics classes into small, homogenous groups for mathematics instruction for 3 to 4 hours per week, for two periods of 4-6 weeks per school year.
+    * (ave 10 weeks with 3.5 hours per week = 35 hours of small group intervention)
+    * > All students, not only struggling students, are pulled out. We find that students in treatment schools increased their performance in mathematics by `.16` standard deviations at the end of the school year and by `.06` standard deviations in national tests 1-2 years later, with no differential effect by pre-ability level or gender.
+    * [Explained: Sigma](https://news.mit.edu/2012/explained-sigma-0209) - How do you know when a new finding is significant? The sigma value can tell you — but watch out for dead fish.
+        * > One standard deviation, or one sigma, plotted above or below the average value on that normal distribution curve, would define a region that includes 68 percent of all the data points. Two sigmas above or below would include about 95 percent of the data ...
+    * Given how much small group (or individual) interventions cost in teacher/professional time. Is `.16` and `.06` significant?
+    * Conclusion: Small group intervention is not effective given it's cost
+
+
+
 TODO
 -----
 
