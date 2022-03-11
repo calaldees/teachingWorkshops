@@ -1,5 +1,11 @@
 Careers
 =======
+
+TODO: CCF and EIF bits
+
+* Teachers often misunderstand how disconnected they they are
+
+
 Advice to Students (15min lecture + 15min async reading)
 --------------------------
 

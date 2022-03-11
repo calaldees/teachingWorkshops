@@ -12,6 +12,8 @@ Citizenship
 Reading Async (20min)
 
 * [youngcitizens.org- New OFSTED framework: New Opportunities for Citizenship, FBV and SMSC](https://www.youngcitizens.org/blog/new-ofsted-framework-new-opportunities) 2019
+    * Fundamental British Values (FBV)
+    * spiritual, moral, social and cultural development (SMSC)
     * > (Citizenship) equips pupils with the cultural capital they need to succeed in modern Britain
     * > The Association for Citizenship Teaching (ACT) recently tweeted news of the outcome of an Ofsted pilot visit with the new EIF where a school in Dorset was put into special measures because the deep dive showed that it failed to offer a sufficiently rich and balanced curriculum that included subjects and aspects such as Citizenship, FBV and could not fully promote pupils’ SMSC development. This underlines the dangers lurking for those schools that have downgraded their provision for Citizenship in the curriculum and their promotion of FBV and SMSC under the current inspection framework.
     * > there are very encouraging signs that schools will have considerable opportunities to make their Citizenship provision and its contribution to FBV and SMSC an explicit part of the curriculum and the conversations they have with inspectors

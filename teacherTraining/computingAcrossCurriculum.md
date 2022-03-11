@@ -1,11 +1,6 @@
 Computing Across the Curriculum
 ===============================
 
-TODO: 
-* [Is this the best way to teach Stem?](https://www.tes.com/magazine/teaching-learning/secondary/best-way-teach-stem) - 
-Linking Stem lessons to real-world activities has been transformational for this multi-academy trust, finds Dan Worth
-
-
 Objectives
 ----------
 
@@ -39,34 +34,15 @@ Consider the semantic difference between "A Computing teacher" and "A teacher th
 > Teachers can make valuable contributions to the wider life of the school in a broad range of ways, including by supporting and developing effective professional relationships with colleagues
 
 
-Pre task - Async task (1 hour)
---------
 
-Next session we are looking at "Computing Across the Curriculum".
-* Imagine that Computing did not exist as it's own subject and you were employed by a school to integrate computing across the teaching of other subjects.
-* Brainstorm and investigate as many ideas as possible.
-* How does Computing relate to each subject? (does it?)
-* How could a lesson/activity be structured to bridge multiple subjects?
-Come prepared to next weeks session with suggestions so we can embark on a discussion.
-
-
-Introduction (whole group 15min to 30min?)
-------------
-
-Shared whiteboard for ideas followed by discussion.
-
-* Scenario: Computing does not exist as a subject on it's own.
-* What would Computing in schools look like?
-* How could it be done?
-* What would the issues be? What would be the benefits?
-
-
-Ofsted and Computing (lecture 10min)
----------------------
+Ofsted, Inspections and Computing
+--------------------
 
 * National Curriculum
     * > A high-quality computing eduction equips pupils to use computational thinking and creativity to understand and change the world
     * > Computing has deeps links with mathematics, science and design and technology, and provides insight into both natural and artificial systems.
+
+### Historical Inspection
 * [David Drown HMI](https://www.slideshare.net/Ofstednews/inspection-computing-and-e-safety-in-schools) 2014 (stepped down)
     * Teaching in computing is good or better when:
         * it is rooted in the development of pupils’ understanding of important concepts and progression within the lesson and over time; it enables pupils to make connections between individual topics and to see the *big picture*
@@ -80,8 +56,34 @@ Ofsted and Computing (lecture 10min)
         * computing has a very high profile in the life of the school
     * Finally ...
         * E-safety is now considered in the inspection of all education remits including the early years sector, further education and skills, and initial teacher education.
+* [Ofsted Computing Inspection Criteria](https://onefourseven.org.uk/blog/ofsted-on-computing-update/) 2014
+* [Ofsted Assessing Computing](https://www.softegg.co.uk/blog/ofsted-inspecting-the-computing-curriculum) 2014
+
+### Education inspection framework (30min)
 * [Education inspection framework](https://www.gov.uk/government/collections/education-inspection-framework?#guidance-for-education-providers)
-    * [Inspecting, the computing curriculum](https://community.computingatschool.org.uk/files/9702/original.pdf) Inspecting__the_computing_curriculum_and_online_safety_London_CAS_2018.pdf
+    * [school-inspection-handbook](https://www.gov.uk/government/publications/school-inspection-handbook-eif/school-inspection-handbook)
+        * TASK: Subjects are not (really) mentioned. What else is in here? "Broad and Balanced"? (15min)(10min discussion)
+
+<details>
+
+* > We will judge schools taking radically different approaches to the curriculum fairly. We recognise the importance of schools’ autonomy to choose their own curriculum approaches. 
+* Curriculum narrowing
+    * > Our research has shown that some schools narrow the curriculum available to pupils, particularly in key stages 2 and 3.
+
+* [Is this the best way to teach Stem?](https://www.tes.com/magazine/teaching-learning/secondary/best-way-teach-stem) - Linking Stem lessons to real-world activities has been transformational for this multi-academy trust, finds Dan Worth
+    * > "The combination of practical, hands-on and creative activities with meeting real-world scientists gave the students a taste of how exciting and fulfilling a life of science can be,"
+
+</details>
+
+### Computing Quality Framework (30min)
+* [Computing Quality Framework](https://computingqualityframework.org/)
+    * (uploaded to blackboard SP16)
+    * TASK: Let's read and grade our schools (consider evidence) (15min) (10min discussion)
+
+
+Computing Across the Curriculum - Ideas
+-------------------------------
+
 * [Computing Across the Curriculum](https://www.youtube.com/watch?v=-JBgaR8sNcE) - [Myles Berry](http://milesberry.net/about-3) - CAS TV - June 2016
     * There was a movement to teach ICT without a discreet subject
     * Ask students "Have you understood the world"? "Have you changed the world?"
@@ -94,17 +96,27 @@ Ofsted and Computing (lecture 10min)
     * [Raspberry pi weather station that tweets the weather](https://youtu.be/-JBgaR8sNcE?t=1310)
     * _Rolling average_ of temperature - numeracy
 * [Computing in the curriculum: Challenges and strategies from a teacher's perspective](https://link.springer.com/article/10.1007/s10639-016-9482-0) - Sue Sentence - April 2016 - King’s College London UK
-* Old
-    * [Ofsted Computing Inspection Criteria](https://onefourseven.org.uk/blog/ofsted-on-computing-update/) 2014
-    * [Ofsted Assessing Computing](https://www.softegg.co.uk/blog/ofsted-inspecting-the-computing-curriculum) 2014
 
-Subject overview (TODO)
-----------------
+
+Other Subjects (exploration) (30min)
+--------------
+
+* [National Curriculum in England: All subjects](https://www.gov.uk/search/guidance-and-regulation?parent=/education/gcse-subject-content-and-requirements&keywords=National%20curriculum%20in%20England&topic=e8f17408-2d81-468f-aad8-7486a05cd0bf&order=relevance)
+    * Purpose of study
+        * > A high-quality XXX education provides ...
+* What are some of the things the other subjects are aiming for?
+    * Read the opening paragraphs of a range of other subjects
+    * TASK1: Find a collection of quotes to share (15min)
+    * TASK2: Relay to group (10min)
+
+<details>
+
+TODO
 * Art
     * Competent creatives who are able to explore their own ideas and think outside the box
     * vocabulary to do that
     * appreciation of achievement
-
+</details>
 
 Responsibility's of Computing Teachers (lecture 10min)
 --------------------------------------
@@ -147,7 +159,7 @@ Can you help other practitioners include these words explicitly in their lessons
 
 * Logic
     * predicting analysing
-* Algorithms
+* Algorithms (sequencing)
     * making steps & rules
 * Decomposition
     * breaking down into parts
@@ -159,7 +171,10 @@ Can you help other practitioners include these words explicitly in their lessons
 * Evaluation
     * making judgement
 
-### Planning cross curricular
+Planning cross curricular
+-------------------------
+
+(First ideas - taking subjects discreetly)
 
 * How can it be done? Possible options:
     * Discreet Computing lessons reference other subsect areas
@@ -170,16 +185,11 @@ Can you help other practitioners include these words explicitly in their lessons
         * [English: making links with the Computing curriculum](https://www.somerset.org.uk/sites/edtech/Primary%20Computing/Computing%20across%20curriculum/English%20and%20computing.pdf)
             * > Decomposition is used to analyse sentence construction including the recognition of a clause, conjunctions, adverbs and prepositions.
                 * See `grammar.py` example later
-        * TODO: I want more examples
+        * TODO: I want more examples - if you find any, let me know
     * Integrated curriculum - there are no subjects
 
 Don't wait for leadership to tell you what to do.
 Get involved with other subjects teachers!
-
-
-TODO:
-Loads of Computing subject crossover here
-https://teachinglondoncomputing.org/interdisciplinary-computational-thinking/
 
 
 Model: Example Cross Curricular Lesson (lecture 30min)
@@ -268,11 +278,17 @@ Group Task: Design a Cross curricular Lesson (1 hour)
 Computing Across The Curriculum (1 hour)
 -------------------------------
 
+
+
 TODO:
 * [CodeHSCoding Exploration SyllabusMini Course (40 Contact Hours)](https://codehs.com/course/5194/overview) [sylibus](https://codehs.com/uploads/0af7654eb54e711b44fb039503eecead)
     * Coding Music
     * Generative Art
     * Golf game - sports
+* [teachinglondoncomputing.org: Queen Mary University](https://teachinglondoncomputing.org/interdisciplinary-computational-thinking/)
+    * XXX and Computing
+    * Nice ideas - many of them seem cursory
+
 
 Showcase of ideas.
 The subjects here are _loose_.
@@ -505,7 +521,10 @@ Timeboxed? One hour? I could go all day
         * major + minor scale formulas
         * Chord formulas - chord identification
     * tune in code
-        * 440hz
+        * create 440hz sin wave
+        * [wav.py](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/other/wav.py)
+            * need to tidy this up - should be able to output 440 wave in very little code
+            * zoom in Audacity
     * Ableton
         * [Learning Music](https://learningmusic.ableton.com/)
         * [Learning Synths](https://learningsynths.ableton.com/)
@@ -581,6 +600,9 @@ Timeboxed? One hour? I could go all day
 
 Tools
 -----
+
+Young people can build these - real things
+
 * [miniwebtool](https://miniwebtool.com/)
 * [DiveTools2](https://scuba.shish.io/)
     * [DiveTools Source](https://github.com/shish/divetools2)
@@ -617,7 +639,7 @@ Not directly related to an existing established school subject.
         *  America’s first transcontinental railroad was built, in the eighteen-sixties, companies were paid per mile of track. So a section outside Omaha, Nebraska, was laid down in a wide arc, rather than a straight line, adding several unnecessary (yet profitable) miles to the rails. 
         * data “may be a pretty decent proxy for something that really matters,” but there’s a critical gap between even the best proxies and the real thing—between what we’re able to measure and what we actually care about.
         * > There are echoes of this in the questions that society aims to answer using data, with a well-known example concerning schools. We might be interested in whether our children are getting a good education, but it’s very hard to pin down exactly what we mean by “good.” Instead, we tend to ask a related and easier question: How well do students perform when examined on some corpus of fact? And so we get the much lamented “teach to the test” syndrome.
-        * > For that matter, think about our use of G.D.P. to indicate a country’s economic well-being. By that metric, a schoolteacher could contribute more to a nation’s economic success by assaulting a student and being sent to a high-security prison than by educating the student, owing to all the labor that the teacher’s incarceration would create.
+        * > For that matter, think about our use of G.D.P. to indicate a country’s economic well-being. By that metric, a schoolteacher could contribute more to a nation’s economic success by assaulting a student and being sent to a high-security prison than by educating the student, owing to all the labour that the teacher’s incarceration would create.
         * > To simplify the world enough that it can be captured with numbers means throwing away a lot of detail. The inevitable omissions can bias the data against certain groups.
         * > Harford gives the example of two sheep in a field: “Except that one of the sheep isn’t a sheep, it’s a lamb. And the other sheep is heavily pregnant—in fact, she’s in labor, about to give birth at any moment. How many sheep again?”
         * Child development model (4 data points) - DOB, Mothers education, marital status, ethnicity - 20% accuracy
@@ -840,6 +862,37 @@ Human DNA 3 Billion pairs
     * 200GB (off the sequencer)
     * 125MB (variant of a reference genome) (diff from reference)
 
+1. Find manually by looking at the data
+    1. kneedle in a haystack
+2. Implement a `findindex` function ourselfs with a for loop
+    * ```python
+        def find_index(data, target):
+            """
+            We would normally not do this as it's built in `'abcd'.find('bc')`
+            But it's a good learning exercise
+
+            >>> find_index('abcdefghijklmnopqrstuvwxyz', 'abc')
+            0
+            >>> find_index('abcdefghijklmnopqrstuvwxyz', 'ijk')
+            8
+            >>> find_index('abcdefghijklmnopqrstuvwxyz', 'and')
+            False
+            """
+            j = 0
+            for i in range(len(data)):
+                if data[i] == target[j]:
+                    j += 1
+                    if j >= len(target):
+                        return i - j + 1
+                else:
+                    j = 0
+            return False
+      ```
+    * Explain the problem of partial matching - code will become more complex
+        * `AC[AG]`
+        * `.{2,3}`
+3. Show the power of regex
+
 [regex101.com](https://regex101.com/)
 ```python
 import random
@@ -1054,6 +1107,33 @@ tim hunkin - southwold under the peir - novalty automation
 
 
 Runway - numbers - bearing
+
+
+Unsorted
+========
+
+If Computing was not a subject ... 
+------------------------------
+
+### Pre task - Async task (1 hour)
+
+Next session we are looking at "Computing Across the Curriculum".
+* Imagine that Computing did not exist as it's own subject and you were employed by a school to integrate computing across the teaching of other subjects.
+* Brainstorm and investigate as many ideas as possible.
+* How does Computing relate to each subject? (does it?)
+* How could a lesson/activity be structured to bridge multiple subjects?
+Come prepared to next weeks session with suggestions so we can embark on a discussion.
+
+### Discussion
+
+Shared whiteboard for ideas followed by discussion.
+
+* Scenario: Computing does not exist as a subject on it's own.
+* What would Computing in schools look like?
+* How could it be done?
+* What would the issues be? What would be the benefits?
+
+
 
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
