@@ -24,7 +24,8 @@ Reality of Teaching
 -------------------
 
 * It's not about _you_, it's about your students. They are different to you.
-* You have a degree. You are already into the top % of the population. Many of the young people you teach will not.
+    * Quote from previous applicant: "Teach computing with games, everybody loves games" - this is not effective or inclusive
+* You have a degree. You are already into the top % of the population. Many of the young people you teach will not be.
 * Kent has one of the highest % of Grammar schools in the country (50%ish)
     * Some people say Kent has a real class divide
     * [Grammar schools and social mobility](https://epi.org.uk/publications-and-research/grammar-schools-social-mobility/) - School Performance, Admissions, & Capacity Report 2016
@@ -43,13 +44,13 @@ Reality of Teaching
     * Differentiated resources to stretch the higher achieving and support the weaker ones
     * You need to be expert in:
         * low ability illiterate (11 year old's) - though to - 1st year undergrad level (18 year old's)
-        * Skilled in Special educational needs prevision - Behavioural difficulties - ADHD
+        * Skilled in Special educational needs prevision - Behavioural difficulties - ADHD - Autism
         * English as an additional language
 * Break up a fight a lunch or have to console a crying child from bullying at lunch (no lunch break for you)
-* On your feet, projecting your voice, constantly alert, constantly supervising and in control (Emotional and physically demanding)
+* 6 hour minimum on your feet, projecting your voice, constantly alert, constantly supervising and in control (Emotionally and physically demanding)
 * At 3pm it's time for
     * Parents evening
-    * After-school club
+    * After-school club (expected to do this)
     * Detentions
     * After-school support for the students that are behind
     * Further professional development training
@@ -63,6 +64,11 @@ Reality of Teaching
     * If you don't have good health and have sick days, you'll create masses of catchup work for you, your students will be disadvantaged (every second counts for the exam) and you would significantly overburden your colleges
 
 Teaching is hard.
+
+You need to be:
+* Physically fit
+* Emotionally stable
+* Highly skilled
 
 
 Woh! .. um ... So Why Teach?
@@ -91,8 +97,8 @@ Let's contrast this against ...
 ... So Why Teach?
 -----------------
 
-* You could be a great cog in a money making machine, you could be a good brain at a keyboard.
-* When you are a teacher, who you are matters.
+* You could be a great cog in a money making machine, you could be a good _brain at a keyboard_.
+* When you are a teacher, _who you are_ matters.
     * I don't just teach computing. How I conduct myself as role model has an impact on others.
 
 
@@ -115,11 +121,14 @@ How do you learn to teach?
 
 * Initial Teacher Training (ITT) (1 Year)
     * [Initial teacher training (ITT): core content framework](https://www.gov.uk/government/publications/initial-teacher-training-itt-core-content-framework)
+    * Pedagogical Content Knowledge (NOT subject knowledge, you (should) already have that)
+        * Develop knowledge of how to teach (the pedagogy), not what is taught (subject knowledge)
+        * Research informed practice (not what we feel is good)
     * Skills
         * How to reflect on practice
         * Analyse impact
         * Strategies for formative and summative assessment
-        * Including everybody (Your legal and moral obligation - even you you don't *like* some of them)
+        * Including everybody (inclusion) (Your legal and moral obligation - even you you don't *like* some of them)
     * Time
         * University Subject Pedagogy (Computing) Sessions (Education Theory and recent Research) (1 day a week)
             * Theory's of cognitive development - psychology of behaviour management
@@ -143,12 +152,13 @@ How do you learn to teach?
     * [Early career framework reforms: overview](https://www.gov.uk/government/publications/early-career-framework-reforms-overview/early-career-framework-reforms-overview)
 
 
-* Teacher training is a university course
+* Teacher education is a university course
     * Technically - You are a student
-* Teacher training is NOT a university course
+* Teacher education is NOT a university course
     * Reality - You are NOT a student, you are working professional
 * Get out of the mindset of being "a student at uni"
-* Difficult to feel like a professional when you are only a few years older than they are
+    * Purchase formal cloths (suit + tie or equivalent - top button - shirt tucked in - jacket)
+* Difficult to feel like a professional when you may only be a few years older than your students
 
 
 Overall
@@ -157,21 +167,21 @@ Overall
 * You have never worked this heard in your life (seriously!)
 * This year will change you
 * This profession will change you
-* Don't decide to train to teach because there is a bursary and it's more of _being a student_ or you _couldn't thing of anything else to do_
+* Don't decide to train to teach because there is a bursary and it's more of _being a student_ or you _couldn't think of anything else to do_
 
 
 * I love tech - I love coding ... 
-* But I feel alive when teaching
+* ... but I feel alive when teaching
 
 
-Cost
-----
+Money
+-----
 
 * As a career - You will be underpaid for the hours you do - don't do this job for the money
 * but ... 
-* £24,000 Tax Free Bursary (£2000 a month for free directly into your bank account) + Loan to cover tuition fees £9000-ish
+* £24,000 Tax Free Bursary (£2000 a month for free directly into your bank account) + tax free additional loan to cover tuition fees (£9000-ish)
     * Make no mistake - this is a bribe to get you into the profession - Once you're in, you will likely work in this field for many years
-    * (Pay your national insurance manually!!)
+    * (Pay your national insurance manually for your PGCE year!!)
 
 
 Further Reading
@@ -197,6 +207,12 @@ Further Reading
     * By the end of term, however, even Wiliam is surprised by the impact the experiment has had on the students' academic achievement.
     * [Part 1](https://www.youtube.com/watch?v=J25d9aC1GZA) 1 hour
     * [Part 2](https://www.youtube.com/watch?v=1iD6Zadhg4M) 1 hour
+* [The Biggest Hurdles Recent Graduates Face Entering the Workforce](https://hbr.org/2019/04/the-biggest-hurdles-recent-graduates-face-entering-the-workforce)
+    * Feedback
+        * > In college, feedback is clear and consistent. You have a syllabus, which details the requirements for the semester and the standards upon which you’ll be graded.
+        * > the feedback you receive at work is often less consistent and less easily decipherable than in college
+    * Relationships
+    * Accountability
 * [The dispassionate developer](https://blog.ploeh.dk/2021/03/22/the-dispassionate-developer/) by Mark Seemann - Caring for your craft is fine, but should you work for free?
     * Companies wont train you, they expect you to work for free (on open source projects)
     * Passion can be manipulated and exploited
@@ -209,13 +225,6 @@ Further Reading
        > 
        > This has little to do with passion, but much to do with self-preservation. 
     * > I do know an effective trick: get him or her to hire me (or another expensive consultant). Most people don't heed advice given for free, but if they pay dearly for it, they tend to pay attention.
-* [The Biggest Hurdles Recent Graduates Face Entering the Workforce](https://hbr.org/2019/04/the-biggest-hurdles-recent-graduates-face-entering-the-workforce)
-    * Feedback
-        * > In college, feedback is clear and consistent. You have a syllabus, which details the requirements for the semester and the standards upon which you’ll be graded.
-        * > the feedback you receive at work is often less consistent and less easily decipherable than in college
-    * Relationships
-    * Accountability
-
 
 Apply
 -----

@@ -9,6 +9,13 @@ TODO
 * [A whole-school approach to supporting students with LGBTQ+ identities](https://my.chartered.college/impact_article/a-whole-school-approach-to-supporting-students-with-lgbtq-identities/) Chartered College of Teaching 2022
     * Leadership - awareness, acceptance - bullying
 
+
+* [Tom Rogers](https://twitter.com/RogersHistory/status/1503725955516448771) @RogersHistory
+    * > A seemingly popular take on ‘inclusion’ is that which allows someone who assaults or abuses a teacher to continue to be included.
+* [James Browne](https://twitter.com/James1979browne/status/1503809383783964672) @James1979browne
+    * > HUGELY. I'm 20 years at it now. The attitude of the students has changed enormously. Very demanding and little gratitude. Basic manners seem to be a thing of the past. I love teaching but the notion of "well-being" is being taken too far.
+        
+
 Who are we including? (10min)
 ---------------------
 

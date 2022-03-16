@@ -588,3 +588,10 @@ Some of my thoughts:
 
 * TPEA Grants for early carrer teachers wanting to do action research
 
+
+
+Early Career Teacher Year
+--------------------
+
+* > I am one of three ECTs within our department and we are all in agreement that the ECF hasn’t been beneficial. The online seminars are a repeat of our PGCE year, and our school provides us with amazing CPL that is specific to our setting, rather than the generic content from TF.
+    * [tweet](https://twitter.com/LiamPhilip8/status/1503461941788004352) @LiamPhilip8
