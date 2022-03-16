@@ -159,14 +159,17 @@ How do you learn to teach?
 * Get out of the mindset of being "a student at uni"
     * Purchase formal cloths (suit + tie or equivalent - top button - shirt tucked in - jacket)
 * Difficult to feel like a professional when you may only be a few years older than your students
+* First professional role?
+    * So far you have consumed A LOT of societies time and resources during your education. Your skills have got to a point where you can now contribute back.
 
 
 Overall
 -------
 
-* You have never worked this heard in your life (seriously!)
+* You have never worked this hard in your life (seriously!)
 * This year will change you
 * This profession will change you
+* It will become part of your identity
 * Don't decide to train to teach because there is a bursary and it's more of _being a student_ or you _couldn't think of anything else to do_
 
 
