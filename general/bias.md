@@ -15,7 +15,7 @@ TASK 2: Compare your list to these lists
 [Short Cogs](https://en.shortcogs.com/) - a handy guide to cognitive bias
 
 ![Cognative Bias Codex](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg) 
-from [designhacks.co](https://designhacks.co/)
+<sub>from [designhacks.co](https://designhacks.co/)</sub>
 
 Action point: return to these regularly to prompt your thinking
 

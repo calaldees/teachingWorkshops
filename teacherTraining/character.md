@@ -4,6 +4,8 @@ Character
 We have now ascertained we are teaching character traits. So what language can we use to describe these traits?
 
 * [Teaching for Character](https://www.amazon.co.uk/Teaching-Character-Invisible-Curriculum-Hammond/dp/1909717347/ref=sr_1_6?crid=2F70SZENYA9NV&dchild=1&keywords=teaching+character&qid=1614866363&sprefix=teaching+for+character%2Caps%2C170&sr=8-6) Andrew Hammond 2015 - 978-1909717343
+    * Paul Tough "How Children Succeed" (2012)
+        * > Failed a test? It's not because you didn't prepare well; it's because you're stupid.
 
 ITT Core Content Framework
 > 1.x Using intentional and consistent language that promotes challenge and aspiration.

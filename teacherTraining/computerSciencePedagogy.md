@@ -9,6 +9,7 @@ TODO
 * [Hello World — Issue 0](https://helloworld.raspberrypi.org/issues/0) - The Big Book of Computing Pedagogy 2021
 * [Raspberry Pi Foundation: Research publications](https://www.raspberrypi.org/research/publications/)
     * [Teaching programming in schools: A review of approaches and strategies](https://www.raspberrypi.org/app/uploads/2021/11/Teaching-programming-in-schools-pedagogy-review-Raspberry-Pi-Foundation.pdf) Sentence, Waite, 2021
+        * [170 research papers about teaching programming, summarised](https://www.raspberrypi.org/blog/research-report-teaching-programming/) in 34 pages
         1. Classroom strategies
             1. Pair programming
             2. Peer instruction

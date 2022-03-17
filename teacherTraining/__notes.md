@@ -2,8 +2,6 @@ notes
 -----
 
 
-Research in advance - pronounce their names correctly for the first register.
-* [Pronouncing Non-English Names For English Speakers](https://github.com/SteveMCarroll/PronouncingNamesForEnglishSpeakers)
 
 Facts and Process's can me memorise
 concept cannot (personal understanding)
@@ -59,6 +57,3 @@ Team teaching - pair!!
 
 ---
 
-Is _creativity_ linked to _iq_?
-They appear correlated
-* Proposal [Factor structure of intelligence and divergent thinking subtests: A registered report](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251268) 2021 Dr Russell T. Warne - Utah Valley University
