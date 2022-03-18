@@ -63,8 +63,8 @@ Define (15min)
 ------
 
 * TASK: 
-    * Write down in your own words definitions of the following terms (5min)
-    * Compare them with a peer (5min)
+    * Write down in your own words definitions of the following terms (6min)
+    * Compare them with a peer (3min)
     * (are you aligned?)
 * Define
     * Diversity
