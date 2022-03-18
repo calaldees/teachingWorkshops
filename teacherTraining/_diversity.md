@@ -1,29 +1,45 @@
 Equality and Diversity (1 hour)
 ======================
 
-KSQ8 Broad and Balanced
-Hidden/Invisible Curriculum?
+
+Disclaimer
+----------
+
+* um ...
+    * Delivering to a self selecting group that consider diversity important that I have no previous rapport with
+    * It would be arrogant of me to assume I can preach about this topic
+    * My world experience is exceptionally limited. I have few answers. 
+    * I feel scared and awkward delivering this topic
+* Opportunity ...
+* Goals
+    * I have some insight with my observations with teaching in schools
+    * You have insight that can help me grow (advice about my undergrad class's)
+    * We will explore though discussion as humanly as possible
+    * Unsure of how far we will get
+
+
+Objectives
+-----
+
+* KSQ8: Broad and Balanced Curriculum
+    * Hidden/Invisible Curriculum
+        * What are the unintended morals/patterns/virtues/social-norms that we are instilling?
+
+* We want to develop young people to:
+    * Be sensitive/empathic to those around them
+    * Have the confidence/skills to self advocate
+
+<details>
+
+What can you do in your classroom
+power
 
 Learning Objectives:
 1. To be clear on the concepts of equality, diversity, inclusion and equity
 2. To better understand the need for inclusive practice in schools
 3. To explore the idea of your own unconscious bias
 4. To identify an action-plan/tools for your classroom practice
-
-
-Disclaimer
-----------
-
-* Scared and awkward delivering this topic
-* I have no answers. My world experience is exceptionally limited.
-* This is a very charged topic
-* Delivering to strangers (I don't have a working rapport with most of you)
-* We will explore though discussion as humanly as possible
-
-
-What can you do in your classroom
-
-power
+</details>
 
 
 Why?
@@ -127,9 +143,9 @@ Protected Characteristics (15min)
 Situation Discussion
 --------------------
 
-Mental thinking - upfront now - when a situation does occour we have some grounding for how to act
+Mental thinking - upfront now - when a situation does occur we have some grounding for how to act
 
-### Case Study 1
+### Situation 1 (15min)
 
 * Real school situation
     * [Head Tracking for Desktop VR Displays using the WiiRemote](https://www.youtube.com/watch?v=Jd3-eiid-Uw)
@@ -137,8 +153,7 @@ Mental thinking - upfront now - when a situation does occour we have some ground
     * I started playing the video and one student remarked
         * > It's a chinky
     * What was the intension of the young person?
-    * TASK: What actions should be taken? Why? (10min)
-* TASK: Consider a diversity situation that you may have encountered in school. What actions should be taken? Why? (10min)
+* TASK1: (Whole group consolidation) Think (2min) What actions could be taken? Why? (10min)
 
 
 <details>
@@ -147,32 +162,38 @@ Mental thinking - upfront now - when a situation does occour we have some ground
     * Be prepared to drop all planned activities and focus on this more important topic
     * Don't use aggression to convey your urgency. Use enquiry.
         * What does aggression and authority convey in our hidden curriculum?
-    * Have a plan - just talking may not be enough - have paper printed? power-point ready?
+        * The fact you have completely stopped the previous activity already conveys the gravity of the situation
+    * Have a plan - just talking may not be enough - 
+        * Decide on the goal - vocalise the goal - write it
+        * Other prep
+            * Could you have paper printed? power-point ready?
 </details>
 
+* TASK2: (Pairs) Consider a diversity/inclusion situation that you may have encountered in school. What actions should be taken? Why? (10min)
 
-### Case study 2
 
-* Case study
-    * Vertical tutor group - my form
-    * Socially alienated year 9
-        * overweight
-        * ADHD (difficulty focusing/remembering)
-        * difficulty wearing uniform correctly
-        * loud
-        * effeminate voice
-        * hygiene issues
-    * Pleasant manner and responsive to instructions
-        * Repeated instructions
-            * "I forgot"; repeated response
-            * No impact or meaningful change in behaviour either short term or long term
-    * TASK: Consider strategies/action-plan for social integration for:
-        * The student?
-        * Parents?
-        * Form group?
-        * Subject teachers?
-        * Wider school staff?
-        * Other support?
+
+### Situation 2 (10min)
+
+* Vertical tutor group - my form
+* Socially alienated year 9
+    * overweight
+    * ADHD (difficulty focusing/remembering)
+    * difficulty wearing uniform correctly
+    * loud
+    * effeminate voice
+    * hygiene issues
+* Pleasant manner and responsive to instructions
+    * Repeated instructions
+        * "I forgot"; repeated response
+        * No impact or meaningful change in behaviour either short term or long term
+* TASK: Consider strategies/action-plan for social integration for:
+    * The student?
+    * Parents?
+    * Form group?
+    * Subject teachers?
+    * Wider school staff?
+    * Other support?
 
 <details>
 
@@ -183,15 +204,17 @@ Mental thinking - upfront now - when a situation does occour we have some ground
 
 
 
-When have you felt excluded? 
+When have you felt excluded? (15min)
 ----------------------------
 
-### Personal experience (15min)
-* My PE story - teachers response
-* Your story? Think Pair Share
+* My PE story - teachers response (2min)
+* Your story? Think Pair Share (10min)
 
 
-### Cultural alienation (5min)
+Cultural alienation
+-------------------
+
+#### Adult/Employment Context (10min)
 
 * > Did you see the game last night?
 * As an illustration: Nursery rhymes - if you can - join in with me
@@ -201,15 +224,29 @@ When have you felt excluded?
 Do any members of your team feel excluded, alienated, outsiders?
 
 * Micro-aggression training from employers
+    * (you are not a robot, but)
+    * Keep talk at work focused on work 
+    * Personally connecting with your colleagues one to one with a shared identity is ok.
+    * More than two people; be mindful of others cultural alienation.
+    * If this is sustained this could be considered a micro-aggression
 
-<details>
+(With this in mind - how does this transfer to the school context. School student communities are more than 2 or 3 adults in an office)
 
-* (you are not a robot, but)
-* Keep talk at work focused on work 
-* Personally connecting with your colleagues one to one with a shared identity is ok.
-* More than two people; be mindful of others cultural alienation.
-* If this is sustained this could be considered a micro-aggression
-</details>
+#### School Context
+
+* Lesson Content
+    * Decolonising the Curriculum
+        * Ongoing discussions
+    * Relevant to the students lives
+        * Careers, Local Context, Community
+    * Unconscious cultural assumptions
+        * Your students are not you
+        * My example in Computing: Games
+            * > Teach with games - everybody loves games
+            * > Please don't suggest a game ...
+    * TASK: Personal reflection: What could be your unconscious cultural assumptions about your subject? (3min)
+* Student interactions?
+    * ???
 
 
 ### Name Pronunciation
@@ -227,6 +264,30 @@ Do any members of your team feel excluded, alienated, outsiders?
     * ECT year - pronounce their names correctly for the first lesson/register
     * ACTION POINT!: Ask your mentor or other staff before your first lesson
     * [Pronouncing Non-English Names For English Speakers](https://github.com/SteveMCarroll/PronouncingNamesForEnglishSpeakers) - A practical guide to how to pronounce non-English names for English speakers 
+
+Request for support and Advice - My Undergraduate class's
+------------------
+
+* Context
+    * 1st year undergraduates
+    * Introduction to programming
+    * Lab size of 40 (another 40 online)
+    * Workshop is 4 hours
+* Set first task
+* Many students peer support and engage
+    * Culturally integrated
+    * Confident
+* Select few don't engage 
+    * (with the task due to weak skills)
+    * (socially - confidence?)
+    * Withdrawn (hoody up)
+    * Took me 40min to identify some of them
+* Advised to actively engage and seek support
+* This is the first task - what is the rest of their degree going to look like?
+
+TASK: (10min)
+* What do I do?
+
 
 
 Unconscious Bias
