@@ -171,6 +171,7 @@ Mental thinking - upfront now - when a situation does occur we have some groundi
 </details>
 
 * TASK2: (Pairs) Consider a diversity/inclusion situation that you may have encountered in school. What actions should be taken? Why? (10min)
+    * Share with group (5min)
 
 
 
