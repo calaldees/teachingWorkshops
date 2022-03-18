@@ -1,5 +1,5 @@
-Equality and Diversity (1 hour)
-======================
+Diversity (1 hour)
+=========
 
 
 Disclaimer
@@ -8,7 +8,7 @@ Disclaimer
 * um ...
     * Delivering to a self selecting group that consider diversity important that I have no previous rapport with
     * It would be arrogant of me to assume I can preach about this topic
-    * My world experience is exceptionally limited. I have few answers. 
+    * My world experience is exceptionally limited. I have few answers.
     * I feel scared and awkward delivering this topic
 * Opportunity ...
 * Goals
@@ -19,7 +19,7 @@ Disclaimer
 
 
 Objectives
------
+----------
 
 * KSQ8: Broad and Balanced Curriculum
     * Hidden/Invisible Curriculum
@@ -28,6 +28,7 @@ Objectives
 * We want to develop young people to:
     * Be sensitive/empathic to those around them
     * Have the confidence/skills to self advocate
+* Conduct ourselves as role models to students and staff alike
 
 <details>
 
