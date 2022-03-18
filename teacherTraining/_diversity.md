@@ -30,6 +30,8 @@ Objectives
     * Have the confidence/skills to self advocate
 * Conduct ourselves as role models to students and staff alike
 
+Have something to write on ...
+
 <details>
 
 What can you do in your classroom
