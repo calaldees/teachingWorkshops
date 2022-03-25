@@ -102,6 +102,11 @@ Academic continuation of GCSE.
     * [eduqas](https://www.eduqas.co.uk/qualifications/computer-science-as-a-level/#tab_overview)
     * More are possibly coming?
 
+* TASK: (15min)
+    * Open AQA and OCR specs
+    * Play "Stop the difference" in the subject content - what topics are different between the two courses
+
+
 * Live by the spec. Play spec bingo each lesson. Student ownership and awareness.
 * Give spec to students printed (4 to a page + Duplex)
     * AQA
