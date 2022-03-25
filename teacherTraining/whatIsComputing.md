@@ -32,3 +32,15 @@ Computer Science as a field/discipline
     * Pupils will just surf the web all day
     * Children spend enough time in front of screens already
     * Computers are making my child less, not more, clever
+
+
+* [BCS > Education > BCS landscape review: Computing qualifications in the UK > England: Computer Science GCSE, AS, and A Levels](https://www.bcs.org/policy-and-influence/education/bcs-landscape-review-computing-qualifications-in-the-uk/england-computer-science-gcse-as-and-a-levels/)
+    * Number of students taking Computer Science (male/female split)
+    * Number of teachers training to teach computing
+        * Missing targets every year
+    * Summary of all the GCSE and A-Level exam boards
+    * > GCSE Computer Science was the least popular choice (out of Foreign Languages, Arts, Design and technology, Humanities, and Computer Science).
+    * conclusion
+        * > The participation (by cohort) in England has remained quite static at around 13% over the past five years
+        * > BCS has been promoting the idea that there is a need to triple the number of young people taking up the Computing qualifications at Key Stage 4 in England 
+        * > Computing in UK higher education institutions (2019/20) shows that it is the 6th most popular degree group

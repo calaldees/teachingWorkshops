@@ -71,6 +71,8 @@ Personal Development / Actions for next year (30min async + 30min lecture)
         * [Mrs Whittaker](https://twitter.com/Mrs_G33k) Kent Computing Twitter Hero!
     * [The Ultimate Guide to Twitter for Teachers](https://searchality.com/discover/teaching/the-ultimate-guide-to-twitter-for-teachers/)
         * [#FFed](https://twitter.com/hashtag/FFed) – Friday Followback education: You @name a teacher you Follow in your tweet on Friday and they Follow you back.
+    * [Computer Science Educators’ Use of Twitter for Conference Engagements: A Grounded Theory Analysis](https://openjournals.ljmu.ac.uk/index.php/JSML/article/view/496)
+        * > Twitter as a conference backchannel. Using Constructivist Grounded Theory methodology, four themes and ten categories emerged. These themes are: Promote Scholarship; Connect, Promote and Extend the Research Community; Engage in Professional Learning; Humanise the Conference Space. 
 4. Read a book about teaching (minimum of 1 book a year baseline)
     * TASK: Add one book to your _Amazon Wishlist_ or equivalent
         * [Effective Teaching: Evidence and Practice](https://www.amazon.co.uk/Effective-Teaching-Evidence-Daniel-Muijs/dp/1473944430/)

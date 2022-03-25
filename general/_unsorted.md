@@ -167,3 +167,7 @@
 
 * [Homelessness Is a Housing Problem](https://www.sightline.org/2022/03/16/homelessness-is-a-housing-problem/)
     * US Focused
+
+* [All of physics in nine lines](https://www.motionmountain.net/9lines.html)
+    * No known observation contradicts these nine lines. 
+    * The nine lines contain physics, chemistry, material science, biology, medicine, geology, astronomy, engineering and computer science. It appears that the nine lines contain all natural sciences! 

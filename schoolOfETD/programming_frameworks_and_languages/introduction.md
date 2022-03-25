@@ -226,6 +226,10 @@ docker run --rm -it --entrypoint /bin/sh http_server_python
 8000 not served?
 docker run --rm -it --publish 8000:8000 http_server_python
 
+java 19?
+jwebserver -b 0.0.0.0 -p 8000
+https://openjdk.java.net/jeps/408
+
 Makefile
 help/build/run
 
