@@ -162,10 +162,14 @@ dotnet csproj
     * How might this relate to our criteria for selecting a framework?
 
 
-* TODO - [ASP.NET Web API Tutorials](https://www.tutorialsteacher.com/webapi)
+
 
 
 [OWIN](http://owin.org/) - Open Web Interface for .NET
+
+* ASP.NET Core Web API
+    * [Using System.Text.Json in a Web API Project](https://code-maze.com/introduction-system-text-json-examples/)
+    * [ASP.NET Web API Tutorials](https://www.tutorialsteacher.com/webapi)
 
 
 Nancy
