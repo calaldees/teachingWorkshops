@@ -18,8 +18,10 @@ http://www.instructables.com/id/3D-Stereoscopic-Photography/
 Red/Cyan
 https://en.wikipedia.org/wiki/Anaglyph_3D
 
-### Magic Eye
+### Sterograms
 http://www.magiceye.com/
+* [24: Adventures in Stereograms](https://ironicsans.substack.com/p/24-adventures-in-stereograms?s=r)
+
 
 ### Video Implementation Types
 https://www.dpreview.com/articles/3797744816/3d-video-primer-part-1

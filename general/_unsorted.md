@@ -171,3 +171,11 @@
 * [All of physics in nine lines](https://www.motionmountain.net/9lines.html)
     * No known observation contradicts these nine lines. 
     * The nine lines contain physics, chemistry, material science, biology, medicine, geology, astronomy, engineering and computer science. It appears that the nine lines contain all natural sciences! 
+
+* [But life had other plans ...](https://danlebrero.com/2022/03/23/but-life-had-other-plans/)
+    * Brest Cancer gene - removed ovaries at 40 - miracle of natural pregnancy for first time ever
+
+* [The spread of misinformation: A pattern we see over and over](https://statmodeling.stat.columbia.edu/2022/03/18/the-spread-of-misinformation/)
+
+* [Study conspiracy theories with compassion](https://www.nature.com/articles/d41586-022-00879-w) 2022
+    *  The societal forces that drive people to join a belief system matter more than the specifics of what they believe. 

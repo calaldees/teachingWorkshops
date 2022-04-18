@@ -1,3 +1,4 @@
+
 Mentor Engagement Proposal?
 ==========================
 
@@ -26,6 +27,7 @@ Action research in their own setting/school
 Intervention
     Ethics? (Can this be bypassed as part of normal classroom teaching in most cases?)
 Goal/Idea/Question?
+
 Design
 Verbal discussion/presentation
 (if not to group - done with member of staff - tick engagement)
@@ -34,4 +36,14 @@ Discource about papers
 Mentors present paper/opinion
 
 Part of ECR training hours?
+
+
+
+objectives
+planned outcomes
+timeline
+
+teacher educator network - grow?
+24 hours - we targeted to provide
+Mentors are "Associate Tutors"
 

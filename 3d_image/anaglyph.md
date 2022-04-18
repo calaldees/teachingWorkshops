@@ -13,7 +13,6 @@ https://en.wikipedia.org/wiki/Anaglyph_3D
 * https://en.wikipedia.org/wiki/Virtual_Boy
 * https://www.youtube.com/watch?v=byE6lg9jj_A (emulator with anaglyph output)
 
-
 ## Examples
 
 ### Images

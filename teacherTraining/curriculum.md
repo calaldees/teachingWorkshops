@@ -237,7 +237,14 @@ Can Science and Religion be taught together?
         * Equity & Social Justice
     * Unplugged activity for considering the purpose of CS education
 
-
+TODO:
+* Culturally relevant
+    * [Culturally relevant pedagogy for computing education](https://www.raspberrypi.org/culturally-responsive-pedagogy-for-computing-education/)
+        * [Culturally relevant pedagogy in the computing classroom | Computing education research](https://www.youtube.com/watch?v=-uGV5Yzi0MQ) YouTube 4min 2022
+    * [Delivering a culturally relevant computing curriculum: new guide for teachers](https://www.raspberrypi.org/blog/culturally-relevant-computing-curriculum-guidelines-for-teachers/) Sue Sentence Raspbery Pi Foundation 2021
+        * https://helloworld.raspberrypi.org/issues/17 pg54
+            * > Computer science education needs to be inclusive, using imagery and metaphors from different cultures
+        * [Engaging Black students in computing at UK schools — interview with Joe Arday](https://www.raspberrypi.org/blog/engaging-black-students-in-computing-uk-schools-joe-arday/)
 
 The attitude of the Teacher
 ---------------------------

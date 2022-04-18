@@ -3,6 +3,7 @@ Computing Across the Curriculum
 
 TODO:
 * [Why a decade of knowledge-rich curriculum has not served pupils as promised](https://www.tes.com/magazine/analysis/general/why-decade-knowledge-rich-curriculum-has-not-served-pupils-promised)
+* [Chapter 9?](https://www.shuchigrover.com/atozk12cs/table-of-contents/)
 
 Objectives
 ----------
