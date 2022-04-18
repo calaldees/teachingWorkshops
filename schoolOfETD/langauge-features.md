@@ -1,19 +1,5 @@
-Session 2: Languages
-====================
-
-Recap
------
-QUESTION: Whiteboard?
-* What did we cover last week?
-* Why are we doing this?
-
-Announcements
--------------
-* Attempting to book campus rooms
-    * Next week on campus VH.1.26 (morning), VH.1.02 (afternoon)
-* Extending Assignment 1 by one week to 08/11/2021
-    * Results of quiz showed weakness in understanding of anatomy of a web service - extra session
-
+Language Features
+=================
 
 Objective
 ---------
@@ -179,7 +165,7 @@ New(ish) Languages
 > Go’s approach is implicit. A structure that implements all functions of an interface implicitly implements this interface.
 
 * From [How WhatsApp scaled to 1 billion users with only 50 engineers](https://www.quastor.org/p/how-whatsapp-scaled-to-1-billion)
-    * [Why you can have millions of Goroutines but only thousands of Java Threads](https://rcoh.me/posts/why-you-can-have-a-million-go-routines-but-only-1000-java-threads/)
+    * [Why you can have millions of Go-routines but only thousands of Java Threads](https://rcoh.me/posts/why-you-can-have-a-million-go-routines-but-only-1000-java-threads/)
         * If you’ve been working with JVM based languages for a while, you’ve probably come across a situation where you’ve reached the limit of the number of concurrent threads you can have.
         * On your personal computer, this limit is usually around ~10,000 threads.
         * On the other hand, you can have more than a hundred million goroutines on a laptop with Go.
@@ -532,8 +518,8 @@ console.log(ll);
 ```
 
 * Why is `const` not working?
-* We can't inspect every method that could ever be run to check it does not modify our data
-* In `get` operation modify the dictionary to include the key. WARNING.
+* We can't inspect every method that could ever be run to verify it does not modify our data
+* In `C`, `get` operation modify the dictionary to include the key. WARNING.
 * Mutability by default is dangerous. It is difficult to protect yourself.
 * Solution _Immutability_. Library's?
     * [immutable-js](https://immutable-js.com/)
@@ -542,13 +528,14 @@ console.log(ll);
 Reference Equality by default
 -----------------------------
 
+* _Predict_ what this program should print (preferably discuss your idea with another person)
+* then _run_ it
+* Can you describe why this has happened?
+* Is this good? or bad?
+
+
 java
 ```java
-// Predict what this program should print (preferably discuss your idea with another person)
-// then run it
-// Can you describe why this has happened?
-// Is this good? or bad?
-
 import java.awt.Point;
 class Main {
   public static void main(String[] args) {
@@ -557,6 +544,22 @@ class Main {
     System.out.println(p1 == p2);
   }
 }
+```
+
+csharp
+```csharp
+class Point {
+    int a;
+    int b;
+    public Point(int a, int b) {
+        this.a = a;
+        this.b = b;
+    }
+}
+
+Point p1 = new Point(1,1);
+Point p2 = new Point(1,1);
+Console.WriteLine(p1 == p2);
 ```
 
 
