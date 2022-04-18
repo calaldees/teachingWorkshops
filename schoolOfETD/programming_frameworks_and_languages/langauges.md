@@ -754,6 +754,18 @@ class Rectangle():
     # Is operator overloading good? or bad? why?
 ```
 
+I've used this for TimeLine objects
+https://github.com/calaldees/libs/blob/eeddc0f8fdad48f7595c56a2ed1b4ae23ab14b96/python3/calaldees/animation/timeline.py#L211
+
+
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/operator-overloading
+
+    public static Fraction operator -(Fraction a) => new Fraction(-a.num, a.den);
+
+
+* [4 Reasons Why Java doesn't support Operator Overloading](https://javarevisited.blogspot.com/2011/08/why-java-does-not-support-operator.html)
+
+
 Async + await and the Event Loop
 --------------------------------
 
@@ -823,6 +835,20 @@ const promise = do_steps();
 * [What Is the Python Global Interpreter Lock (GIL)?](https://realpython.com/python-gil/)
 * We can augment these single process languages to be utilising that single process as much as possible by using an event loop. This helps with blocking IO.
     * The languages have new features `async` and `await` to support this
+
+
+Reflection and MetaProgramming (TODO)
+----------
+
+
+```python
+dir()
+getattr()
+```
+
+Pattern Matching (TODO)
+----------------
+
 
 
 Recommended Reading
