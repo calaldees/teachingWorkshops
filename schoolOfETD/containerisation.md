@@ -409,3 +409,14 @@ Other Container Solutions
     * [Will Nix Overtake Docker?](https://blog.replit.com/nix-vs-docker)
         * repl.it is moving from a single 30gb mega- container to a `nix` package pick and mix approach
         * > Nix takes a first-principles approach to reproducible builds and package management. Nix provides a whole build system that allows for building packages in an isolated way.
+
+
+Further Reading
+---------------
+
+* [Layers between docker builds can't be shared](https://stackoverflow.com/a/60603650/3356840)
+    * Sharing docker layers from pulled images is a manual override
+
+Building on CI
+* [Docker build cache sharing on multi-hosts with BuildKit and buildx](https://medium.com/titansoft-engineering/docker-build-cache-sharing-on-multi-hosts-with-buildkit-and-buildx-eb8f7005918e)
+    * [docker/buildx](https://github.com/docker/buildx)
