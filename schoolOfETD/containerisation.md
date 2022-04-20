@@ -1,6 +1,8 @@
 Practical Containerisation with Docker
 ======================================
 
+https://gitpod.io#https://github.com/calaldees/dockerWorkshop
+
 Objectives
 1. Understand how to practically use Docker though a series of labs
 2. Understand some of the theory and technologies behind containerisation
@@ -12,21 +14,28 @@ Objectives
 Hashs
 -----
 
-hash - what is it?
+TASK: Describe what a hash is ...
 
-* [How Many Atoms Are There In The World?](https://headsup.scoutlife.org/many-atoms-world/)
-    * 10^51
-* [How many electrons are there in the universe?](https://physics.stackexchange.com/questions/174820/how-many-electrons-are-there-in-the-universe)
-    * 10^80
+### Hash space
 
-
-* sha-1 == 40 hexadecimal chars == len(str(pow(16,40))) == 10^49 (100 times less atoms than planet earth)
-* sha-256 == 64 hexadecimal chars == len(str(pow(16,64))) == 10^78 (100 times smaller than there are electrons in the universe)
-* sha-512 == 128 hexadecimal chars == len(str(pow(16,128))) == 10^155 (Billions and billions and billions times more elections than the universe)
+* Orders fo magnitude
+    * [How Many Atoms Are There In The World?](https://headsup.scoutlife.org/many-atoms-world/)
+        * 10^51
+    * [How many electrons are there in the universe?](https://physics.stackexchange.com/questions/174820/how-many-electrons-are-there-in-the-universe)
+        * 10^80
+* Hash sizes
+    * sha-1 == 40 hexadecimal chars == len(str(pow(16,40))) == 10^49 (100 times less atoms than planet earth)
+    * sha-256 == 64 hexadecimal chars == len(str(pow(16,64))) == 10^78 (100 times smaller than there are electrons in the universe)
+    * sha-512 == 128 hexadecimal chars == len(str(pow(16,128))) == 10^155 (Billions and billions and billions times more elections than the universe)
 
 ### Quick `bash` 'poor mans' filehash
 
 TASK: Ues the command below to hash all files in a folder.
+
+```bash
+# find the hash of a single file
+sha1sum README.md
+```
 
 ```bash
 find /dir1/ -type f -exec sha1sum {} + | sort -k 2 > dir1.txt
@@ -188,9 +197,17 @@ OverlayFS (Recap)
 ----------------
 
 Visualiser tree to layers
-* Great for space - super efficient
-* Cache needs pruning
 
+TASK: What are the advantages and disadvantages of filesystem layering?
+
+<details>
+
+* Great for space - super efficient
+* Version control (ish) of files/systems
+* Cache needs pruning
+* Security?
+* Complexity?
+</details>
 
 CPU Architectures
 -----------------
@@ -203,6 +220,7 @@ My Karaoke system:
 * Works on raspberry pi...
     * WHAT?!!! WAIT!!? HOLD UP!?
 
+TASK: Look at `hub.docker.com` search - look at `architecture`
 * https://hub.docker.com/search?architecture=arm64&q=&source=verified&type=image
     * ARM, ARM64, x86, x86-64, PowerPC
 * ARM
