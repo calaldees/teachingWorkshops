@@ -115,7 +115,7 @@ Creativity Conundrum
 --------------------
 
 I don't know how to do this
-I missed out creativity
+I missed out creativity from my TeachProgramming 52 week experiment
 Creative Computing Workshop?
 https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/creativeCodingWorkshop.md
 Pallet of skill

@@ -16,6 +16,7 @@ TASK: Discuss -
 * agree/disagree - why?
 * Are we allowed to be creative?
 * Do we value creativity?
+* Should we bo creative in our teaching?
 
 <details>
 
@@ -33,6 +34,12 @@ my notes
 Nobody can become autonomous leaner without being creative
 Risks required for _outstanding_
 encourage trainees to be subversive!
+
+
+Is we are creative, how does that help them?
+
+Can't just go from 0 to creative
+
 </details>
 
 * [Creativity in Education](https://www.tandfonline.com/doi/abs/10.1111/j.1754-8845.2005.tb00624.x) (2005) Hodges
@@ -117,4 +124,5 @@ Consider:
 * After Christmas? (You have to know your class)
 
 * Organising game tournaments (over to them!)
+
 </details>
