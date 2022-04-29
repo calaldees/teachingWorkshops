@@ -482,3 +482,9 @@ Mentor Transition
 * Pair mentors together in breakout rooms to discuss students (from->to) (timebox 30min max? two 15min chunks)
    * Subject Tutor to co-ordinate
    * Mentors can move between rooms autonomously
+
+
+TODO
+====
+
+Ofsted Subject Knowledge Readyness - Mentor

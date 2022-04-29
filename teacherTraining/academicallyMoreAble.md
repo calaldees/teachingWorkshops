@@ -128,3 +128,11 @@ Most importantly
 * Be interested in their development! - however this can backfire because it's all they want to do and no other adult will listen.
 
 </details>
+
+
+Unsorted
+========
+
+* [School Integration Limits the Ability of Local Norms to Diversify Gifted Programs: A Mathematical Analysis with Implications Related to the Achievement Gap](https://journals.sagepub.com/doi/10.1177/1932202X211069078) 2022 Warne
+    * [twitter](https://twitter.com/Russwarne/status/1516412551021711377)
+        * > In this study, I show that selecting kids @ the building level for #gifted programs will only result in a diverse gifted program at the most segregated schools. At integrated schools, it results in a LESS diverse program. #education 

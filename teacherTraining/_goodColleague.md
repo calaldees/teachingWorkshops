@@ -73,7 +73,7 @@ Survey - what's your background? 5min
 Who will you have contact with in PGCE year
 
 
-"Why do you want 13 year old friends"
+"Why do you want '13 year old' friends"
 
 
 What is your obective?

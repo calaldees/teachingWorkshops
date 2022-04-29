@@ -95,6 +95,9 @@ Let's do a tutorial to find out what the components are.
 * [10 Django Trouble Spots for Beginners](https://code.tutsplus.com/tutorials/10-django-trouble-spots-for-beginners--net-12012)
 * [About my experience of using Django Framework](https://emacsway.github.io/en/django-framework/)
 
+### TODO
+* [Anatomy of a Django/HTMX Project](https://danjacob.net/posts/anatomyofdjangohtmxproject/)
+
 
 Falcon Framework
 ----------------
@@ -222,7 +225,8 @@ Snaic
 * Thoughts for Assignment writeup
     * Throughput
         * https://sanicframework.org/en/guide/basics/handlers.html#a-word-about-async
-
+* [Awesome Sanic](https://github.com/mekicha/awesome-sanic) - A curated list of awesome Sanic resources and extensions
+* [Python RESTful Web Framework Generator](https://github.com/guokr/swagger-py-codegen)
 
 Express.js
 ----------

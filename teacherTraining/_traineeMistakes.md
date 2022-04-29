@@ -42,8 +42,12 @@ Calm down
 * The course is not subservient to you - you need your mentors/school to collect the evidence you need to pass
 * You are a rank armature - don't be condescending to your school mentors
 * There are not absolutes - much is unknown - Nobody _knows_ how to teach
+* https://twitter.com/dylanwiliam/status/1442251476508631042 @dylanwiliam Sep 2021
+    * > The second hardest thing I did in my teaching career was realizing that the teachers I liked might not have been great for others. 
+    * > The hardest was realizing that the way I liked to teach might not be the most effective for all students.
 * Attendance
-    * Just don't really feel up to it (the growth story - lack of sleep but still went it) - other jobs 'take the day off' sounds reasonable
+    * "Just don't really feel up to it" (the growth story - lack of sleep but still went it) - other jobs 'take the day off' sounds reasonable
+    * It is HARD to catchup
 * Your students are NOT you - stop using yourself as a benchmark
     * How you learned
     * your interests are not their interests "learn by making games; Who doesn't like games"
@@ -51,6 +55,9 @@ Calm down
 
 playing games when in remote sessions
 Doing other tasks and only responding when needed
+
+Don't loose your temper and swear at your class or your mentors
+
 
 Attendance
 ----------

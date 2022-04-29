@@ -276,7 +276,7 @@ Is the data helping?
 
 They could also compare their school systems with the WRG recommendations at:
 
-[Commission on Assessment Without Levels: final report](https://www.gov.uk/government/publications/commission-on-assessment-without-levels-final-report) September 2015
+DfE [Commission on Assessment Without Levels: final report](https://www.gov.uk/government/publications/commission-on-assessment-without-levels-final-report) September 2015
 >  It should be clear what the aims of assessment are and how they can be achieved without adding unnecessarily to teacher workload.
 
 > A good assessment policy will be clear about how assessment outcomes will be used, with a view to collecting data only where necessary and ensuring assessment outcomes are communicated effectively to pupils, parents and other teachers. 
@@ -325,7 +325,7 @@ Attempt to explore the techniques used in my [Teacher Workbook Example](https://
 3. Enter Formula on `public` to reference `private`
     * `={private!A:G}`
 4. Hide required columns
-5. `public` -> Tools -> Protect Sheet -> 'Show warning when editing this range'
+5. `public` -> Data -> Protect Sheets and Ranges -> 'Show warning when editing this range'
 6. File -> Publish to the web -> Publish content & settings -> `public` + Automatically republish
 7. [bit.ly](http://bit.ly) - Shorten the url
     * Signup (free) will allow you to manually name your short links
@@ -410,3 +410,10 @@ Features of modern remote learning systems
 Monitoring _views_ of resources.
 
 * [Adopting a framework to support the process of critical reflection and understanding of online engagement](https://link.springer.com/article/10.1007%2Fs12528-021-09281-3)
+
+
+TODO
+====
+
+* [analytics.ofqual.gov.uk](https://analytics.ofqual.gov.uk/apps/Alevel/Outcomes/)
+    * in 2020 A's and A* went from 3% to 20%?

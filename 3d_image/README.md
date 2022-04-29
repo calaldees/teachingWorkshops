@@ -22,6 +22,10 @@ https://en.wikipedia.org/wiki/Anaglyph_3D
 http://www.magiceye.com/
 * [24: Adventures in Stereograms](https://ironicsans.substack.com/p/24-adventures-in-stereograms?s=r)
 
+### Chromo-stereo-psis
+https://en.wikipedia.org/wiki/Chromostereopsis
+https://news.ycombinator.com/item?id=31102152
+
 
 ### Video Implementation Types
 https://www.dpreview.com/articles/3797744816/3d-video-primer-part-1

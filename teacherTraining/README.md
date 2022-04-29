@@ -1,5 +1,5 @@
-Teacher Training
-================
+Teacher Education
+=================
 
 Resources for PGCE/SchoolDirect Secondary Computing.
 
@@ -30,8 +30,8 @@ All teaching is subjective. It is dependent on
 Everything here is a suggestion and example of what has worked in some specific environments in the past.
 It is NOT the gospel of how to teach Computing.
 
-In teacher training you are assessed by your mentor who may have many years of experience and their own strategies for teaching.
-Don't piss in their pool.
+In teacher education you are assessed by your mentor who may have many years of experience and their own strategies for teaching.
+Undermining or under valuing that experience will not go down well.
 
 Always remember: We are training young people for a future we know nothing about.
 The world will change during your career.
@@ -48,7 +48,7 @@ Learners
 * Expert Novices
 
 
-Initial teacher training (ITT): core content framework
+Initial teacher education (ITE): core content framework
 ------------------------------------------------------
 
 https://www.gov.uk/government/publications/initial-teacher-training-itt-core-content-framework
@@ -74,7 +74,8 @@ Evidence Informed Pedagogy
     * > if we, as educational professionals, choose to inform the choices that we make for our practice with the best available evidence, we can make meaningful, striking enhancements to our pedagogical practice, and thus to the efficiency, effectiveness and success of our teaching and of children’s learning.
     * > Evidence-informed practice is still based on empirical evidence, but acknowledges the fact that it’s harder for real classroom practice to determine what works for whom under which circumstances.
 
-Unsorted
-========
+Data
+----
 
-* [eBooks for CCCU](https://www.vlebooks.com/vleweb/Home/index)
+* [Initial teacher training applications for courses](https://www.apply-for-teacher-training.service.gov.uk/publications/monthly-statistics#by-secondary-subject)
+    * Downloadable statistics

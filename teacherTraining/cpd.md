@@ -1,5 +1,5 @@
-This Session
-============
+CPD
+===
 
 * Effective CPD (Continued Professional Development)
     * Measuring impact
@@ -21,8 +21,8 @@ Why: Because we don't know everything and the world changes
 > Engaging in high-quality professional development can help teachers improve
 
 
-_Early Career Teacher_ Years
-============================
+_Early Career Teacher_ (ECT) Years
+==================================
 
 The DfE has setup national standards for your support and progress in your _Early Career_ years.
 
@@ -33,21 +33,29 @@ TASK: [DfE Early Career Framework](https://www.gov.uk/government/publications/ea
 * Same teachers' standards
 * Support you are entitled too
 
-* Observations - Key feature of NQT years - Two way street!
+* Observations - Key feature of ECF years - Two way street!
 * They know you're new. Don't feel worried.
 
-* In your NQT year: The _bike stabilizers_ are off. You've got your drivers licence. Now the learning can begin.
+* In your ECT year: The _bike stabilizers_ are off. You've got your drivers licence. Now the learning can begin.
 
 
 Personal Development / Actions for next year (30min async + 30min lecture)
 --------------------------------------------
 
+* Impact - chartered college of teaching -  [Building subject-specific CPD opportunities](https://impact.chartered.college/article/building-subject-specific-cpd-opportunities/) - Laura Gatward September 2020
+    * Ideas for building subject-specific CPD:
+        * Keep in contact with previous colleagues
+        * Join your subject association (including their social media channels)
+        * Contact your local university/college outreach department
+        * Read about (and listen to/watch!) your subject
+        * Work with other local departments
+        * Use the evidence to highlight the importance of this with your leadership team.
+
+
 ### Action Today (Async 30min)
 
 * We are going to do something *NOW* to improve our teaching in the future.
 * Let's lay some foundations.
-* I may cold call each of you to describe what you've got - or place you in groups to talk about what you've identified
-
 
 1. Prepare for writing a blog article
     * Set a target to write one article in your NQT year and have it publicly visible
@@ -69,10 +77,12 @@ Personal Development / Actions for next year (30min async + 30min lecture)
             * [The Periodic Table of Educational Tweeters to follow](https://www.thinglink.com/scene/963119398753665025)
         * [Google Search: Influential Teachers on Twitter](https://www.google.com/search?q=influential+teachers+on+twitter)
         * [Mrs Whittaker](https://twitter.com/Mrs_G33k) Kent Computing Twitter Hero!
+        * [_people.md](./_people.md)
+            * Some of my notes
     * [The Ultimate Guide to Twitter for Teachers](https://searchality.com/discover/teaching/the-ultimate-guide-to-twitter-for-teachers/)
         * [#FFed](https://twitter.com/hashtag/FFed) – Friday Followback education: You @name a teacher you Follow in your tweet on Friday and they Follow you back.
     * [Computer Science Educators’ Use of Twitter for Conference Engagements: A Grounded Theory Analysis](https://openjournals.ljmu.ac.uk/index.php/JSML/article/view/496)
-        * > Twitter as a conference backchannel. Using Constructivist Grounded Theory methodology, four themes and ten categories emerged. These themes are: Promote Scholarship; Connect, Promote and Extend the Research Community; Engage in Professional Learning; Humanise the Conference Space. 
+        * > Twitter as a conference backchannel. Using Constructivist Grounded Theory methodology, four themes and ten categories emerged. These themes are: Promote Scholarship; Connect, Promote and Extend the Research Community; Engage in Professional Learning; Humanise the Conference Space.
 4. Read a book about teaching (minimum of 1 book a year baseline)
     * TASK: Add one book to your _Amazon Wishlist_ or equivalent
         * [Effective Teaching: Evidence and Practice](https://www.amazon.co.uk/Effective-Teaching-Evidence-Daniel-Muijs/dp/1473944430/)
@@ -80,6 +90,7 @@ Personal Development / Actions for next year (30min async + 30min lecture)
         * [What If Everything You Knew About Education Was Wrong?](https://www.amazon.co.uk/Everything-About-Education-Wrong-Paperback/dp/1785831577/)
         * [Computer Science Education: Perspectives on Teaching and Learning](https://www.amazon.co.uk/Computer-Science-Education-Perspectives-Teaching-ebook/dp/B079M95MM9/)
         * [Teaching WalkThrus 2: Five-step guides to instructional coaching](https://www.amazon.co.uk/Teaching-WalkThrus-Five-step-instructional-coaching/dp/1913622479/)
+        * [./reading.md](./_reading.md)
 5. Ongoing Networking (Research In-person TeachMeet)
     * TASK: Search for computing teacher meetup events in Kent
         * Covid has terminated most of this activity nationally
@@ -91,14 +102,24 @@ Personal Development / Actions for next year (30min async + 30min lecture)
         * [CAS Community - Upcoming Events](https://community.computingatschool.org.uk/events) many of these are online
         * [STEM Learning CPD - Computing](https://www.stem.org.uk/cpd/search?f[0]=field_subject:92)
         * [Events organised by the Chartered College](https://my.chartered.college/events/)
-7. Investigate [TeacherTapp](https://teachertapp.co.uk/)
+    * TASK: Offer contact details to keep in touch with previous colleagues
+7. Ongoing Networking (Join a subject association)
+    * [Technology, Pedagogy & Education Association (TEPA)](https://tpea.ac.uk/)
+    * [Computing at School - New Member Application](https://www.computingatschool.org.uk/account/new-member-application)
+    * [@caschat_uk](https://twitter.com/caschat_uk) @caschat_uk
+8. Investigate [TeacherTapp](https://teachertapp.co.uk/)
     * Becoming quite popular. In some schools it has been recommended for all staff.
     * A mobile app for; Ask questions, See results, Access ongoing CPD.
+9. Journals and RSS
+    * https://feedly.com
+    * [ComputingEducationRSS.opml.xml](./ComputingEducationRSS.opml.xml)
+        * Some RSS Feeds of current Computing Education journals and blogs
 
-Action in your _Early Career Teacher_ years  (10min)
+
+Action in your _Early Career Teacher_ years  (15min)
 -----------------------
 
-* What do you want you CV to look like?
+* What do you want you CV to look like? (longer term - what's missing?)
 * Small token actions that mount up
 * Talking points at an interview for a future role
 
@@ -117,6 +138,9 @@ Action in your _Early Career Teacher_ years  (10min)
     * Request exam board training - Network!
 
 5 days in a year. You can make time for that.
+
+TASK: Put placeholders in your personal calendar for the above days next year academic year 
+(any placeholder date will do - this is just to put it on your radar - you will encounter the calendar events at somepoint to remind you or rebook)
 
 
 Ongoing Observation/Collaboration (10min)
@@ -163,13 +187,13 @@ Mostly; Teachers have enough subject knowledge. It's the other skills they need 
     * Can you learn to sing from a book alone?
     * How many hours would you contribute?
     * You can make some progress by self observation, but you NEED to collaborate/feedback/engage with others
-* NQT's are very important to a department
+* ECT's are very important to a department
     * You may be coming into an established department with established teachers. 
     * Part of your role is to bring new ideas and a new perspective.
     * You will play a major part in driving the culture forward - you are part of forging it - Be the change you want to be.
 
 
-Sharing/Publishing Resources/Ideas  (10min)
+Sharing/PublishingResources Marketing/Branding Yourself - Ideas  (10min)
 ----------------------------------
 
 ### Why
@@ -225,8 +249,16 @@ Teaching Adults
 * At some point in the future you will be receiving/giving CPD
 
 * QUESTION (10min): How would your teaching be different when you are: teaching adults, teaching teachers?
+    * Think, pair, share
 
-[_](#my_ideas)
+<details>
+
+Some of my thoughts:
+* Much less available contact time?
+    * Busy work - treading water - at your limit
+* Do their objectives align with yours?
+* Coaching/Collaboration (less didactic)
+</details>
 
 
 History of Computing CPD  (5min)
@@ -250,14 +282,18 @@ History of Computing CPD  (5min)
             * Experts in subject areas does not make them good teachers
 
 
-Effective CPD (10min)
+Effective CPD (30min)
 -------------
 
 * You're a full time teacher. You're exhausted. Your time is full: making and planning, personal family commitments.
-* Shared Whiteboard - split screen in half
-    * Task 1: What would your dream CPD session look like? What would it look like?
+
+TASK (10min):
+* Shared Whiteboard - split screen in half 'Good CPD' and 'Bad CPD'
+    * Good CPD: What would your dream CPD session look like? What would it look like?
         * area you would like CPD to personally address/support you
-    * Task 2: Can you give 2 examples of what does poor CPD looks like? (From your worldly experience; not necessarily applied to teaching)
+    * Bad CPD: Can you give 2 examples of what does poor CPD looks like? (From your worldly experience; not necessarily applied to teaching)
+
+<details>
 
 ### Poor CPD
 One off inspirational speakers are not effective
@@ -271,6 +307,8 @@ Story: Theatre troupe. Shakespeare - dark day before the bridge
 * Time
 * No incentive to improve
     * Things are mostly ok (see _ok plateau_ below)
+
+</details>
 
 ### DfE Standard for teachers’ professional development
 
@@ -300,6 +338,43 @@ Teacher CPD is a big area of focus and research now. The DfE now has requirement
         * Take responsibility for their own professional development
         * Engage openly in discussion about the impact of teaching practice with peers and leaders supporting a culture of trust, respect and scholarship
         * Fully commit to effective professional development practices and challenge poor or ineffective ones
+
+
+### HOD Department CPD Idea? (10min)
+
+If I was HOD of a computing department. I am interested in culture/process. I am not too worried about 'raw performance'. I am more concerned with proactive attitude and progress. I'm training them to leave my team (maybe to run their own department) [sounds crazy, but that's the reality, admit it, run with it].
+
+Timetabled time (20 hours - half a ks3 class)
+
+1. 'Explore time' (16 hours - per year)
+    * I would mandate that 30min a week (cumulative) is used to undergo an online course of some sort.
+        * Self directed (autonomy and personal interest of the teacher)
+            * e.g. Future Learn [Raspberry Pi Foundation](https://www.futurelearn.com/partners/raspberry-pi)
+    * At the end of each term, every member of the department informally describes the course/experience/content (10min?). Maybe loads up some of the documents or has a screenshot to prompt the talk.
+        * If good enough and comfortable - share exactly the same informal demo with another department team (and suggest reciprocation?)
+2. Inter institution collaboration (3 hours - per year)
+    * I would mandate that 30min a term (6 terms) - you have a video call with another computing teacher in another institution to discuss our sow, policies, progress, concerns, action-areas - and hear the same from them - advice?
+    * At the end of each term (3 terms), every member of the department informally (120seconds) describes what was discussed and highlights from these conversations
+
+Even if your HOD does not direct you to do these ... I would do them autonomously.
+
+TASK: Take a contact of two people in this room now! Put a date to get in touch in your personal calendar.
+
+A Team
+3. All teachers in the department do the assignment 
+    * to create model answers bank
+    * and discuss (assessment/misconceptions)
+4. Pair planning?
+5. Pair Marking?
+
+
+* impact.chartered.college - [Leading teacher collaboration in subject-specific pedagogy](https://impact.chartered.college/article/leading-teacher-collaboration-subject-specific-pedagogy/) 2020
+    * > To support collaboration between teachers, leaders need to allocate resources and time. Literature indicates that this is a genuine issue in teacher development (Timperley et al., 2007; Greany, 2017; OECD, 2019). To give this work priority, all teaching staff attend a weekly session for one hour after school. This replaces the department meeting. To emphasise our identity as a professional learning community, we hold our sessions in the school hall and teachers sit in their specialisms.
+    * > investing in teacher learning has an effect size of 0.84 on student achievement (Robinson, 2011)
+    * > subject leaders focus their teams on a single lesson to be taught the following week
+    * > Teachers then write a model answer for the end-of-unit assessment task
+      > ...
+      > Having been through the steps needed to produce the model answers themselves, teachers are able to give clear and detailed explanations and anticipate where misconceptions arise (Rosenshine, 2010; Coe et al., 2014).
 
 
 Organisations that focus on Teacher CPD
@@ -353,20 +428,18 @@ Constant Evaluation of Impact - Forms
     * Reflections/Evaluations/Impact
 
 
-Task (20min)
+Task (30min)
 ----
 
-* Imagine your can run one session for the PGCE/SD students next year.
-* You have 1 session to have an impact on their teaching.
-* How would you ensure this session has impact and actually makes meaningful change in their teaching?
-* What would be in this session?
-* What would it look like?
-
-Pairs?
-
-
-
-----
+* Solo or In pairs - Design a session (20min)
+    * Imagine your can run one session for the PGCE/SD students next year as a guest speaker.
+    * You have 1 session (6 hours) to have an impact on their teaching.
+    * Consider
+        * How would you ensure this session has impact and actually makes meaningful change in their teaching?
+        * What would be in this session?
+        * What would it look like?
+        * How would you know what your impact has been?
+* Group Discussion (10min)
 
 
 
@@ -426,23 +499,16 @@ Articles about CPD (1 hour: Async reading)
 
 
 
-
-
-
-
-
----
-
-Unsorted Notes
-==============
+Unsorted
+========
 
 
 
 Teachers should
-retain considerable autonomy over their development
-avoid extensive monitoring for its own sake. un-intrusive, meaningful ways to know how teachers are improving
-a culture of contagious pedagogy,
-defend time
+* retain considerable autonomy over their development
+* avoid extensive monitoring for its own sake. un-intrusive, meaningful ways to know how teachers are improving
+* a culture of contagious pedagogy,
+* defend time
 
 
 
@@ -510,22 +576,7 @@ Activity: Code Jenga
 
 
 
-* [Building subject-specific CPD opportunities](https://impact.chartered.college/article/building-subject-specific-cpd-opportunities/) - Laura Gatward September 2020
-    * Ideas for building subject-specific CPD:
-        * Keep in contact with previous colleagues
-        * Join your subject association (including their social media channels)
-        * Contact your local university/college outreach department
-        * Read about (and listen to/watch!) your subject
-        * Work with other local departments
-        * Use the evidence to highlight the importance of this with your leadership team.
 
-* [Leading teacher collaboration in subject-specific pedagogy](https://impact.chartered.college/article/leading-teacher-collaboration-subject-specific-pedagogy/)
-    * > To support collaboration between teachers, leaders need to allocate resources and time. Literature indicates that this is a genuine issue in teacher development (Timperley et al., 2007; Greany, 2017; OECD, 2019). To give this work priority, all teaching staff attend a weekly session for one hour after school. This replaces the department meeting. To emphasise our identity as a professional learning community, we hold our sessions in the school hall and teachers sit in their specialisms.
-    * > investing in teacher learning has an effect size of 0.84 on student achievement (Robinson, 2011)
-    * > subject leaders focus their teams on a single lesson to be taught the following week
-    * > Teachers then write a model answer for the end-of-unit assessment task
-      > ...
-      > Having been through the steps needed to produce the model answers themselves, teachers are able to give clear and detailed explanations and anticipate where misconceptions arise (Rosenshine, 2010; Coe et al., 2014).
 
 
 * [gov.uk - A self-improving school system: towards maturity](https://www.gov.uk/government/publications/a-self-improving-school-system-towards-maturity) - A look at the progress that has been made towards a self-improving school system since 2010
@@ -578,12 +629,6 @@ You need to be proactive in seeking this out.
     * Discuss with colleagues How to reduce marking and improve quality of feedback
 
 
-# my_ideas
-Some of my thoughts:
-* Much less available contact time?
-    * Busy work - treading water - at your limit
-* Do their objectives align with yours?
-* Coaching/Collaboration (less didactic)
 
 
 ---

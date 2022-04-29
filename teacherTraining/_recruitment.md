@@ -1,6 +1,14 @@
 Recruitment Talk Notes
 ======================
 
+Headline:
+> A talk that explorers 'Teaching Computing in Secondary Schools' as a carer.
+> How do roles in 'teaching' and 'software engineering' compare.
+> What are the possible routes into teaching. 
+> What does a teacher training courses look like.
+> What training bursary's are available.
+
+
 40min talk + 20min Q&A
 
 * I'm Allan
