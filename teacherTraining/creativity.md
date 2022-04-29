@@ -114,6 +114,11 @@ This is a _possible concept_ it is not a fully formed or trailed idea.
 Creativity Conundrum
 --------------------
 
+I don't know how to do this
+I missed out creativity
+Creative Computing Workshop?
+https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/creativeCodingWorkshop.md
+Pallet of skill
 
 
 Unsorted

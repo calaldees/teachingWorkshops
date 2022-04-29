@@ -340,11 +340,11 @@ Teacher CPD is a big area of focus and research now. The DfE now has requirement
         * Fully commit to effective professional development practices and challenge poor or ineffective ones
 
 
-### HOD Department CPD Idea? (10min)
+### HOD Department CPD Idea? (30min)
 
 If I was HOD of a computing department. I am interested in culture/process. I am not too worried about 'raw performance'. I am more concerned with proactive attitude and progress. I'm training them to leave my team (maybe to run their own department) [sounds crazy, but that's the reality, admit it, run with it].
 
-Timetabled time (20 hours - half a ks3 class)
+Timetabled time (20 hours - half a ks3 class?)
 
 1. 'Explore time' (16 hours - per year)
     * I would mandate that 30min a week (cumulative) is used to undergo an online course of some sort.
@@ -360,12 +360,12 @@ Even if your HOD does not direct you to do these ... I would do them autonomousl
 
 TASK: Take a contact of two people in this room now! Put a date to get in touch in your personal calendar.
 
-A Team
-3. All teachers in the department do the assignment 
+A Team? Other concepts
+1. multiple teachers in the department do the assignment
     * to create model answers bank
     * and discuss (assessment/misconceptions)
-4. Pair planning?
-5. Pair Marking?
+2. Pair planning? (30min per week)
+3. Pair Marking? (30min pwe week)
 
 
 * impact.chartered.college - [Leading teacher collaboration in subject-specific pedagogy](https://impact.chartered.college/article/leading-teacher-collaboration-subject-specific-pedagogy/) 2020
@@ -375,6 +375,9 @@ A Team
     * > Teachers then write a model answer for the end-of-unit assessment task
       > ...
       > Having been through the steps needed to produce the model answers themselves, teachers are able to give clear and detailed explanations and anticipate where misconceptions arise (Rosenshine, 2010; Coe et al., 2014).
+
+TASK1 (10min): Think (solo) of how you would run your dream Computing department
+TASK2 (10min): Roleplay - asked to come to front and address your Computing team (thats us) for the year ahead
 
 
 Organisations that focus on Teacher CPD
