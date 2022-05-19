@@ -390,12 +390,12 @@ Few thoughts
 Additional Resources
 --------------------
 
-* The experimental school classroom: Professor Dylan Wiliam
+* The Classroom Experiment: Professor Dylan Wiliam
     * In this two-part series, theory and practice meet head on as education expert Professor Dylan Wiliam sets up an experimental school classroom.
     * For one term, he takes over a Year 8 class at a secondary comprehensive to test simple ideas that he believes could improve the quality of our children's education.
     * Some of the higher ability students are not responding well to the new rule of No Hands Up in class, and Wiliam is worried they are at risk of being left behind.
     * There is a classroom revolt when the teachers remove grades from work.
     * The idea is to make the students actually read the comments on their work in order to help them improve, but they are left confused and angry after becoming so used to the traditional grading system.
     * By the end of term, however, even Wiliam is surprised by the impact the experiment has had on the students' academic achievement.
-    * [Part 1](https://www.youtube.com/watch?v=J25d9aC1GZA) 1 hour
-    * [Part 2](https://www.youtube.com/watch?v=1iD6Zadhg4M) 1 hour
+    * [The Classroom Experiment (Ep.1)](https://www.youtube.com/watch?v=J25d9aC1GZA) 1 hour
+    * [The Classroom Experiment (Ep.2)](https://www.youtube.com/watch?v=1iD6Zadhg4M) 1 hour

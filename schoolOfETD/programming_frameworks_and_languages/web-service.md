@@ -92,7 +92,7 @@ Objectives
 * [HTTP Messages](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
     * Headers + Body (sometimes called Content or Payload)
     * [HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
-        * GET, POST, PUT, DELETE, OPTIONS
+        * GET, POST, PUT, DELETE, OPTIONS, PATCH [jsonpatch](http://jsonpatch.com/)
     * [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
         * 200, 302, 4xx, 5xx
     * [Common MIME types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Common_types)

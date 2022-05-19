@@ -415,5 +415,13 @@ Monitoring _views_ of resources.
 TODO
 ====
 
-* [analytics.ofqual.gov.uk](https://analytics.ofqual.gov.uk/apps/Alevel/Outcomes/)
-    * in 2020 A's and A* went from 3% to 20%?
+* Grade Inflation
+    * [analytics.ofqual.gov.uk](https://analytics.ofqual.gov.uk/apps/Alevel/Outcomes/)
+        * in 2020 A's and A* went from 3% to 20%?
+    * [BBC: First-class degrees more than double in a decade](https://www.bbc.co.uk/news/education-61422305)
+        * [Analysis of degree classifications over time: Changes in graduate attainment from 2010-11 to 2020-21](https://www.officeforstudents.org.uk/publications/analysis-of-degree-classifications-over-time-changes-in-graduate-attainment-from-2010-11-to-2020-21/)
+    * [The great university con: how the British degree lost its value](https://www.newstatesman.com/politics/2019/08/the-great-university-con-how-the-british-degree-lost-its-value) - Never before has Britain had so many qualified graduates. And never before have their qualifications amounted to so little. 
+
+* [TES: How do GCSE and A-level grade boundaries work?](https://www.tes.com/magazine/analysis/secondary/how-do-gcse-and-level-grade-boundaries-work)
+
+* gov.uk [Collection - Statistics: initial teacher training](https://www.gov.uk/government/collections/statistics-teacher-training)

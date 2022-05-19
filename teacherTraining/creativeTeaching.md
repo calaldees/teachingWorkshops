@@ -126,3 +126,13 @@ Consider:
 * Organising game tournaments (over to them!)
 
 </details>
+
+<details>
+
+speed coding
+class teach another class
+debate - dramatise it up
+
+measure class over 3 years - ethical?
+
+</details>

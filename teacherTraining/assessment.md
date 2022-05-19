@@ -1421,6 +1421,9 @@ Unsorted
 --------
 
 * [High jump vs hurdles: Replacing grades with curriculum related expectations](https://learningspy.co.uk/assessment/replacing-grades-with-curriculum-related-expectations/) David Didau
+* Concept Invetories (as an assessment)
+    * are an assessment tool designed to determine whether pupils have remembered important component knowledge
+    * TODO LINK - A Rachmatullah, B Akram, D Boulden, B Mott, K Boyer, J Lester and E Wiebe, ‘Development and validation of the middle grades computer science concept inventory (mg-csci) assessment’, in ‘Eurasia Journal of Mathematics, Science and Technology Education’, Volume 16, Issue 5, 2020
     * 
 * [CAS Assessment Working Group](https://community.computingatschool.org.uk/resources/5304/single#)
     * [CAS Assessment working group response to Consultation on how GCSE, AS and A level grades should be awarded in summer 2021](https://community.computingatschool.org.uk/files/11162/original.pdf)

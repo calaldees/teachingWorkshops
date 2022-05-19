@@ -1,6 +1,9 @@
 Frameworks and Languages
 ========================
 
+* [My experience getting a tech job with no degree or relevant work experience ](https://lowlyswe.substack.com/p/my-experience-getting-a-tech-job)
+  * > If you’re doing this alone you basically need to be able to build a RESTful CRUD app (look it up) using some language’s framework. Spring for Java, Django or Flask for Python, Node + React for Javascript are examples of these frameworks. Just pick one and get good at it, depth over breadth. If you’re not sure then google what languages large employers in your area are using. You’ll also need to learn Git and put your projects on Github ( or even better host a website) to have something to show future employers.
+
 
 MCOMD3PFL Programming Frameworks and Languages
 

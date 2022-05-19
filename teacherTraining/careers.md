@@ -5,6 +5,26 @@ TODO: CCF and EIF bits
 
 * Teachers often misunderstand how disconnected they they are
 
+* goodcareerguidance.org.uk [Gatsby Benchmarks](https://www.goodcareerguidance.org.uk/)
+    * 2015 a recommendation - 2020 compulsory
+    * Senior leader in school responsible for all children's development towards careers
+    * The eight Gatsby benchmarks of Good
+    *  Career Guidance are:
+        1. A stable careers programme
+            * should actively seek to challenge stereotypes
+        2. Learning from career and labour market information
+        3. Addressing the needs of each pupil
+        4. Linking curriculum learning to careers
+            * Building relationships with employers
+            * "Future Me" - 
+        5. Encounters with employers and employees
+            * 'meaningful' encounter with student
+        6. Experiences of workplaces
+        7. Encounters with further and higher education
+        8. Personal guidance
+* Meet people from industry a number of times makes a difference to young people and therefore society
+
+
 
 Advice to Students (15min lecture + 15min async reading)
 --------------------------

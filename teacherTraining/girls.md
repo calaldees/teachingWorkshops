@@ -9,6 +9,10 @@ Girls in Computing
     * University girls, game, hololense?
 
 
+* [Gender Balance in Computing: Trialling a storytelling teaching approach](https://blog.teachcomputing.org/gender-balance-in-computing-trialling-a-storytelling-teaching-approach/) NCCE 2022
+    * References
+        * Kafai, Y. B., & Burke, Q., Beyond Game Design for Broadening Participation: Building New Clubhouses of Computing for Girls. In: Proceedings of Gender and IT Appropriation. Science and Practice in Dialogue — Forum for Interdisciplinary Exchange. European Society for Socially Embedded Technologies. 2014. pp. 21–28.
+
 https://dl.acm.org/citation.cfm?id=3366016
 
 > we argue that the shift towards CS might decrease the number of girls choosing further computing qualifications or pursuing computing as a career.

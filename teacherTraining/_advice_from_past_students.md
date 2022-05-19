@@ -4,9 +4,45 @@ PGCE/SD Advice
 
 Below are comments made by students at the end of their PGCE
 
+1. What advice/wisdom would you give to next years PGCE/SD students? This could be (anonymously) conveyed in the first session next year.
+2. What could Christ Church (in general) do differently?
+3. What could I (as a subject tutor) do differently?
+4. What could you have done differently?
+
+
+May 2022
+--------
+
+### Advice
+
+### What could CCCU do differently
+
+### What could subject tutor do differently
+
+
+May 2021
+--------
+
+### Advice
+
+ - Never teach over bad behaviour
+ - Make friends with the IT Techs
+ - Get on with other staff
+ - You will be surprised/changed by what you see in schools
+
+### What could CCCU do differently
+
+ - Order of assignments
+
+### What could subject tutor do differently
+
 
 July 2020
 ---------
+
+(I did not teach 80% of this course or was involved in school visits.)
+
+### Advice
 
 Take one week at a time otherwise you'll feel overwhelmed. Try to do the academic reading for 1h at the weekend, 
 so regular activity will make it substantial after a few months! The rhythm and amount of work will feel like a slow start 
@@ -47,7 +83,12 @@ Opening statement to PGCE Students
 * Don’t leave it to the last minute to collate evidence for your bundles. 
 
 
-What could Christ Church do differently?
+
+
+### What could CCCU do differently
+
+### What could subject tutor do differently
+
 Subject Computer Science Teaching Element
 * More focus on what good looks like?
     * Lesson planning
@@ -62,12 +103,3 @@ Subject Computer Science Teaching Element
     * Again, no clear examples of what distinction, merit or good looks like.
     * Some of the directions were nebulous.
     * Some of the material in the epistemic lectures seemed woolly. 
-
-May 2021
---------
-
- - Order of assignments
- - Never teach over bad behaviour
- - Make friends with the IT Techs
- - Get on with other staff
- - You will be surprised/changed by what you see in schools
