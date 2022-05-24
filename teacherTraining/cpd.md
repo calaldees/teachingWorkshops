@@ -107,6 +107,7 @@ Personal Development / Actions for next year (30min async + 30min lecture)
     * [Technology, Pedagogy & Education Association (TEPA)](https://tpea.ac.uk/)
     * [Computing at School - New Member Application](https://www.computingatschool.org.uk/account/new-member-application)
     * [@caschat_uk](https://twitter.com/caschat_uk) @caschat_uk
+    * [CSTA](https://www.csteachers.org/) Computer Science Teachers Association
 8. Investigate [TeacherTapp](https://teachertapp.co.uk/)
     * Becoming quite popular. In some schools it has been recommended for all staff.
     * A mobile app for; Ask questions, See results, Access ongoing CPD.

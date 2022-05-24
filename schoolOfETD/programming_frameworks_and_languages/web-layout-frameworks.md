@@ -440,6 +440,12 @@ Other Projects
 * [Pico CSS](https://picocss.com/) - Minimal CSS Framework for semantic HTML
 * [simple.css](https://simplecss.org/) - A classless CSS framework that makes semantic HTML look good.
 
+Other Addons
+------------
+
+* [AutoAnimate](https://auto-animate.formkit.com/) -  Add motion to your apps with a single line of code. 
+    * LI swap, add, delete
+
 Further Reading
 ---------------
 

@@ -266,10 +266,11 @@ General Information and Pre Reading
     * [Computing at School](https://www.computingatschool.org.uk/)
     * [British Computer Society](https://www.bcs.org/policy-and-influence/education/)
     * [Raspberry Pi Foundation](https://www.raspberrypi.org/)
-    * [Technology, Pedagogy & Education Association](https://tpea.ac.uk/)
+    * [Technology, Pedagogy & Education Association (TEPA)](https://tpea.ac.uk/)
         * The voice of digital technology and computing in education
         * CPD, research, best practice
         * Technology, Pedagogy and Education Journal
+    * [CSTA](https://www.csteachers.org/) Computer Science Teachers Association
     * [Education Endowment Foundation](https://educationendowmentfoundation.org.uk/)
         * Research lead national recommendations for schools
 * Understanding education in the UK
@@ -280,6 +281,7 @@ General Information and Pre Reading
     * [Initial teacher training (ITT): core content framework](https://www.gov.uk/government/publications/initial-teacher-training-itt-core-content-framework)
     * [National curriculum in England: computing programmes of study](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study)
     * [Ofsted annual report](https://www.gov.uk/government/collections/ofsted-annual-reports)
+    * Ofsted [Research review series: computing](https://www.gov.uk/government/publications/research-review-series-computing/research-review-series-computing) May 2022
     * [AQA GCSE Computing Specification](https://filestore.aqa.org.uk/resources/computing/specifications/AQA-8520-SP-2016.PDF)
     * [OCR: Computing Qualifications](https://www.ocr.org.uk/Images/268867-computing-qualifications-summary-brochure.pdf) Summary Brochure od types of qualifications
 * New Teacher _Dunk Tank_

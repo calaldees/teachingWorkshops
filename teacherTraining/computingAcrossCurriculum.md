@@ -21,6 +21,24 @@ Consider the semantic difference between "A Computing teacher" and "A teacher th
 * How do you lead learning?
 * (Echo back to) What is a Teacher?
 
+* [Bigger…Broader…Wider…](https://smithsmm.wordpress.com/2016/12/28/bigger-broader-wider/)
+    * have a water fight, climb a tree
+* Tom Sherrington [Every child should (have the opportunity to.. )](https://twitter.com/teacherhead/status/1527560224294547456)
+    * Grow a bean
+Sing
+Poot insects in long grass
+Go to the Museum
+Track the moon 
+Make a motor
+Inflate a sheep's lung!
+Read novels (x 100!)
+Make a fire
+See mountains and the sea
+Recite a poem
+Give a speech to a real audience
+...and ..
+
+
 ### ITT Core Framework
 
 1.2. 

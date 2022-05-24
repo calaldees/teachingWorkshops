@@ -675,4 +675,7 @@ stress
 
 
 
-[What Does it Mean to Have Just a Hint of Autism?](https://iancommunity.org/ssc/broad-autism-phenotype)
+* [What Does it Mean to Have Just a Hint of Autism?](https://iancommunity.org/ssc/broad-autism-phenotype)
+
+* [My Favorite Liar](https://www.overcomingbias.com/2008/02/my-favorite-lia.html)
+    * Story about lecturer that hid a 'lie' in each lecture. Students had to puzzle over what the lie was.

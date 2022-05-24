@@ -179,3 +179,8 @@
 
 * [Study conspiracy theories with compassion](https://www.nature.com/articles/d41586-022-00879-w) 2022
     *  The societal forces that drive people to join a belief system matter more than the specifics of what they believe. 
+
+* [Is Sunscreen the New Margarine?](https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/)
+    * > Avoidance of sun exposure is a risk factor of a similar magnitude as smoking, in terms of life expectancy.
+    * Sunlight keeps you alive - NOT taking vitamin D supplements
+

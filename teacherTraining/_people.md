@@ -31,6 +31,8 @@ Computing
 * [Sue Sentence]()
     * [Raspberry Pi Chief Learning Officer](https://www.raspberrypi.org/blog/author/suesentance/)
 * [Jack Worth](https://twitter.com/worth_jack) - Education economist
+* [Dr Maria Kallia](https://www.gla.ac.uk/schools/computing/staff/mariakallia/#biography,researchinterests,publications,articles,booksections,researchreportsorpapers,conferenceproceedings) - University of Glasgow
+    * [maria__kallia](https://twitter.com/maria__kallia) @maria__kallia
 
 * [Ricardo Queirós](https://www.ricardoqueiros.com/) @RicQueiros
     * Computing education researcher - automated marking - types of problems - gamification

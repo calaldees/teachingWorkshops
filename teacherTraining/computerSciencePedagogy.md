@@ -72,6 +72,10 @@ ITT CCF 4.4
         * Code manipulation
         * Working collaboratively
         * Learning away from the computer
+* [The Royal Society: Computing education](https://royalsociety.org/topics-policy/projects/computing-education/)
+    * [Pedagogy - literature review](https://royalsociety.org/-/media/policy/projects/computing-education/literature-review-pedagogy-in-teaching.pdf)
+    * [Assessment - literature review](https://royalsociety.org/-/media/policy/projects/computing-education/assessment-literature-review.pdf)
+* [ofstedComputing.md](./ofstedComputing.md)
 * [NCCE: How we teach computing](https://blog.teachcomputing.org/how-we-teach-computing/) Dec 2020
     * overview of all the pedagogy quick reads
     * [pdf poster: 12 principles](https://raspberrypi-education.s3-eu-west-1.amazonaws.com/Pedagogy+Assets/NCCE_pedagogy_principles.pdf)
