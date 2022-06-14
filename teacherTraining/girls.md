@@ -13,6 +13,16 @@ Girls in Computing
     * References
         * Kafai, Y. B., & Burke, Q., Beyond Game Design for Broadening Participation: Building New Clubhouses of Computing for Girls. In: Proceedings of Gender and IT Appropriation. Science and Practice in Dialogue — Forum for Interdisciplinary Exchange. European Society for Socially Embedded Technologies. 2014. pp. 21–28.
 
+* [Sex-specific academic ability and attitude patterns in students across developed countries](https://doi.org/10.1016/j.intell.2020.101453)
+    * Grades+subjects at school can predict the gender 69% of the time
+    * Sex differences in academic achievement and school attitudes are:
+        * Found internationally
+        * Strong enough to correctly predict the sex of 2/3 of teenagers
+        * Larger in more egalitarian countries (exactly the opposite of what feminist theory predicts)
+            * The more freedom/participation of women in the workforce, the greater the identifiable gender
+            * > the reasons why don't matter as much as that the feminists are wrong when they say that more sexist cultures produce larger sex differences and that diffs will disappear when women have more freedom. [](https://twitter.com/Russwarne/status/1533916316234461184)
+
+
 
 https://dl.acm.org/citation.cfm?id=3366016
 
@@ -92,3 +102,16 @@ Founder of Coding Black Females
     * Learning styles have been debunked
 
 * Coding is hard - you need to spend 1000's of hours sitting alone at a computer getting your ass kicked. You have to want to do it
+
+* [School resources to address gender imbalance](https://www.iop.org/school-resources-address-gender-imbalance) Institute of Physics
+    * [10 tips for teachers poster](https://www.iop.org/sites/default/files/2021-01/IOP-10-inclusive-tips-for-teachers.pdf) pdf
+        1. Use everyday language 
+        2. Avoid asking for volunteers
+        3. Assign roles for practical work
+        4. Use examples that show how your subject links to their experience
+        5. Use gender-neutral context where possible
+        6. Allow time for pair or group discussions
+        7. Challenge discriminatory language
+        8. Monitor your interactions with different genders
+        9. Regularly refer to a range of careers that use skills from your subject
+    * [Inclusive learning checklist](https://www.iop.org/sites/default/files/2019-06/Improving-gender-balance-inclusive-checklist.pdf) pdf

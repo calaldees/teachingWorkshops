@@ -184,3 +184,5 @@
     * > Avoidance of sun exposure is a risk factor of a similar magnitude as smoking, in terms of life expectancy.
     * Sunlight keeps you alive - NOT taking vitamin D supplements
 
+* [Cooling the London Underground](https://www.ianvisits.co.uk/articles/cooling-the-tube-engineering-heat-out-of-the-underground-20873/)
+    * The rock has absorbed all the heat for 100+ years and is not radiating heat

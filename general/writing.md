@@ -3,7 +3,10 @@ Writing
 
 * [How to write in plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html)
     * [HemingwayApp: Web based plain english assistant](http://www.hemingwayapp.com/)
-        * When presenting remove redundant words. "So", "Basically", "Just" (See my blog post on presenting)
+    * When presenting remove redundant words. "So", "Basically", "Simply", "Just" (See my blog post on [presenting](https://github.com/calaldees/blog/blob/master/skills/presenting.md) )
+* Other
+    * Be specific; remove Vague words "Things", "Stuff"
+    * "I think": no need for your opinion. The evidence should support the concluding direction/statements
 * [17 tips for great copywriting](https://marketingexamples.com/copywriting/tips)
 * [Politics and the English Language](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/)
     * A scrupulous writer, in every sentence that he writes, will ask himself at least four questions, thus: 

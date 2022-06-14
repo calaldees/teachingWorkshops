@@ -98,6 +98,7 @@ Computing in Education (5 min)
     * How might you deal with this?
 * How do you see your skills and role changing/developing over the years? Where do you see yourself in 5 years?
 * What problems are there with young people using technology?
+* Picture yourself 6 months into the course; I come into your classroom to check on your progress. What will I see?
 
 
 General Teaching (12 min)

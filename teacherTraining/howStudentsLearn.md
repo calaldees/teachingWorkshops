@@ -58,6 +58,14 @@ TASK:
 
 Masters Level: Be critical of all of these theories. Why might they not be the whole picture?
 
+TODO:
+* [Confronting 5 Damaging Educational Myths](https://thechalkboardreview.com/latest/confronting-5-damaging-educational-myths)
+    * Teach critical thinking, not facts
+    * Reading is a skill
+    * Learning styles
+    * Teach kids to "think like a scientist"
+    * Facts don't matter because you can look anything up on the internet
+
 
 Required-Reading
 ----------------
@@ -286,6 +294,9 @@ TASK: What does this mean for your planning?
 
 Frequent Retrieval/Questions/Assessment/Quiz
 --------------------------------------------
+
+* [Top 10 Papers on Retrieval Practice](https://twitter.com/PearceMrs/status/1534631105315454976) @PearceMrs
+
 
 How will you do this?
 
@@ -673,6 +684,8 @@ See EEF findings
 
 TODO
 -----
+
+Banking Model - Student know nothing and I'm going to fill them
 
 * [How children learn](https://www.iaoed.org/downloads/prac07e.pdf) Stella Vosniadou
 

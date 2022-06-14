@@ -233,6 +233,10 @@ Remote/Covid: Sadly, this lesson looses all it's impact without being able to ph
     * [Stereo-Scopic](https://www.google.com/search?client=firefox-b-d&q=define%3A+stereo#dobs=stereoscopic)
         * `stereo` -> Greek: Solid
         * `-scopic` adjective of nouns ending in `scope` -> denoting an instrument for observing, viewing, or examining. -> from modern Latin `-scopium`, from Greek `skopein` ‘look at’
+* Science
+    * [Scientific Communication As Sequential Art](http://worrydream.com/ScientificCommunicationAsSequentialArt/)
+        * Graph they of people communication. Amazing!
+    * [If the moon were one pixel](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
 * Physics
     * Light filters
     * https://en.wikipedia.org/wiki/Anaglyph_3D
@@ -326,6 +330,7 @@ Timeboxed? One hour? I could go all day
         * You can see, the glacier is gone
     * Create a webpage with a world map and use absolute positioning to embed videos from [skylinewebcams](https://www.skylinewebcams.com)
     * [ancient-earth 3D globe](https://dinosaurpictures.org/ancient-earth)
+    * [Realtime wind](https://earth.nullschool.net/) [windy.com](https://www.windy.com)
 * History
     * [Stereoscopy](https://en.wikipedia.org/wiki/Stereoscopy) 3D Photography
     * My Real [ViewMaster](https://en.wikipedia.org/wiki/View-Master) 50's Dover
@@ -359,6 +364,8 @@ Timeboxed? One hour? I could go all day
             * Languages
                 * [20 most significant programming languages in history](https://anarc.at/blog/2020-02-02-most-significant-programming-languages-history/)
                 * [10 Most(ly dead) Influential Programming Languages](https://hillelwayne.com/post/influential-dead-languages/)
+    * [Apollo missions in realtime](https://apolloinrealtime.org/)
+        * A real-time journey through the Apollo missions -consists entirely of historical mission material
 * Film (this is more _context_ than curriculum. Just here as a placeholder ...)
     * [Python For Feature Film](https://www.gfx.dev/python-for-feature-film)
 * Physics
@@ -590,6 +597,7 @@ Timeboxed? One hour? I could go all day
         * [Example](https://music.meta.stackexchange.com/questions/2507/how-could-abc-notation-be-embedded-in-our-posts-markdown)
         * [Tutorial](http://www.lesession.co.uk/abc/abc_notation.htm)
     * [Chrome Music Labs](https://musiclab.chromeexperiments.com/)
+    * [everynoise.com](https://everynoise.com/) - scan genre identification
 * MFL
     * [Language Letter Frequency](https://en.wikipedia.org/wiki/Letter_frequency) detector
         * [langauge_frequeny.py](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/data/langauge_frequeny.py)
@@ -674,6 +682,7 @@ Not directly related to an existing established school subject.
 * [[Data Visualisation]]
     * (Where does visualisation go? It's like 'where does Geology exist in STEM?')
     * [dataVisulisation.md](https://github.com/ComputingTeachers/mapOfComputing/blob/main/computing/data-visualisation.md)
+        * [Minard Russia Data visualisation](https://en.wikipedia.org/wiki/Charles_Joseph_Minard#The_map_of_Napoleon's_Russian_campaign)
     * pre-attentive visual attributes
         * Length, width, orientation, size, enclosure, color intensity, color hue, curvature, shape, spatial grouping, 2d position
     * (they can visualise it with crayons if they want)

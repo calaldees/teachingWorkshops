@@ -19,6 +19,9 @@ Developing an understanding of how children learn and the key barriers to learni
         * Look at subject knowledge audit - ask about your planned areas
         * Ask about SP1 topic
 
+TODO:
+* [Chapter 4: Direct Instruction](https://www.sagepub.com/sites/default/files/upm-binaries/14255_Chapter4.pdf) - from [Models of Teaching: Connecting Student Learning with Standards](https://dx.doi.org/10.4135/9781452232324) 2007 Jeanine M. Dell'Olio & Tony Donk [Google Preview](https://books.google.co.uk/books?id=FQRzAwAAQBAJ)
+
 
 Session Overview
 ----------------

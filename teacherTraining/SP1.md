@@ -100,6 +100,18 @@ Unused
 ======
 
 
+
+### Who struggles with this course
+
+* Misalinged expextations
+* Social Awareness/integration
+    * Part2
+* Fear
+
+If you've taught in other contexts/countries this will be different
+
+Renegociate identity
+
 ### Strands
 
 1. Criticality

@@ -23,6 +23,7 @@ Curriculum
 * [The role of beliefs in teacher agency](https://www.tandfonline.com/doi/full/10.1080/13540602.2015.1044325) Gert Biesta 2015
     * > The comparative lack of a clear vision about what education is for seems to seriously limit the possibilities for action to develop a good education
 
+TODO: We are moving from the "age of enlightenment" to the "age of entanglement"
 
 
 Important Subjects?

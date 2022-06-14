@@ -94,6 +94,7 @@ TASK:
     * Used for 50min lessons (for american middle school -> ks3)
 * [mycs-teacher](https://sites.google.com/a/sfusd.edu/mycs-teacher/unit-2/2-1)
     * ComputerScienceForAll - most topics have an unplugged component (loops, events, variables, conditions)
+* [Networks Unplugged Workshop Pack](https://www.digitalschoolhouse.org.uk/workshops/networks-unplugged) - Mark	Dorling	2019 #networks
 
 
 Lecture (30 min)

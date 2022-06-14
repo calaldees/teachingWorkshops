@@ -6,6 +6,10 @@ NCCE Funding Sue Sentence explains
 
 TODO
 ----
+
+> Students need 50% tracing accuracy before being able to write code
+Venables 2009 ?
+
 * [Hello World — Issue 0](https://helloworld.raspberrypi.org/issues/0) - The Big Book of Computing Pedagogy 2021
 * [Raspberry Pi Foundation: Research publications](https://www.raspberrypi.org/research/publications/)
     * [Teaching programming in schools: A review of approaches and strategies](https://www.raspberrypi.org/app/uploads/2021/11/Teaching-programming-in-schools-pedagogy-review-Raspberry-Pi-Foundation.pdf) Sentence, Waite, 2021
@@ -16,9 +20,9 @@ TODO
             3. Live coding
             4. PRIMM
             5. Worked examples and sub-goal labelling
-            1. Reading and tracing code
-            2. Pattern-orientated instruction
-            3. Targeted tasks (e.g. debugging, sabotage, annotation, fill in the gaps, Parson's Problems)
+            6. Reading and tracing code
+            7. Pattern-orientated instruction
+            8. Targeted tasks (e.g. debugging, sabotage, annotation, fill in the gaps, Parson's Problems)
         2. Contexts and environments for learning programming
             1. Physical computing
             2. Block-based programming
@@ -37,6 +41,8 @@ TODO
     * [Understanding computing education: Volume 2 Theme: Equity, diversity and inclusion in computing education research](https://www.raspberrypi.org/app/uploads/2021/12/Understanding-computing-education-Volume-2-Raspberry-Pi-Foundation-Research-Seminars.pdf)
 * [Data and information – Data logging](https://teachcomputing.org/curriculum/key-stage-2/data-and-information-data-logging) KS2 - Year 4
 
+* [Digital Technology in Education: Charter](https://www.dtecharter.org/) Scotland 2022
+    * > Bringing together organisations, individuals, and education in scotland to support, encourage and inspire  the next generation of computing science at school.
 
 * University - how can this concept be applied in earlier years
 * [We Need to Talk!! &ndash; A Chatroom Application Using a Student-Designed Protocol](https://dl.acm.org/doi/10.1145/3304221.3325575) 2019

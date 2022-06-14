@@ -116,6 +116,8 @@ Personal Development / Actions for next year (30min async + 30min lecture)
     * [ComputingEducationRSS.opml.xml](./ComputingEducationRSS.opml.xml)
         * Some RSS Feeds of current Computing Education journals and blogs
 
+todo:
+[Facebook: CAS Research Group](https://www.facebook.com/groups/2832494906787157)
 
 Action in your _Early Career Teacher_ years  (15min)
 -----------------------
