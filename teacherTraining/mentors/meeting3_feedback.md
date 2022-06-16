@@ -11,19 +11,19 @@ Thursday 16th June 2022
 
 Agenda
 -------
-1. SPR4 Process and Final Assessment
-2. Review Subject Curriculum
-3. Suggested School visits 22/23
-4. Final review of the year
+1. SPR4 Process and Final Assessment (10min)
+2. Review Subject Curriculum (30min)
+3. Suggested School visits 22/23 (30min)
+4. Final review of the year (20min)
 
-SPR4
+SPR4 (10min)
 ----
 
 * Padlet: [Assessment of QTS](https://cccu.padlet.org/sharron_mackenzie1/q5lqenlrlrcaui4a)
     * ['On Track' Guide for SPR4](https://cccu.padlet.org/sharron_mackenzie1/q5lqenlrlrcaui4a/wish/2212736023)
     * SPR4 Drafting Document
 
-Review Subject Curriculum
+Review Subject Curriculum (30min)
 ------------------------
 
 ### Documentation
@@ -41,7 +41,7 @@ Review Subject Curriculum
 * Any new ones to add to the collection?
 
 
-Visits 22/23
+Visits 22/23 (30min)
 ------------
 
 ### ITT Market Review - for 2023
@@ -85,7 +85,7 @@ WIP Ideas?
     * Joint Marking
     * Unseen observation (student performs a lesson and discuss's it with mentor/tutor without the mentor/tutor seeing the lesson)
 
-Final review of the year
+Final review of the year (20min)
 ------------------------
 
 Other feedback? ...
