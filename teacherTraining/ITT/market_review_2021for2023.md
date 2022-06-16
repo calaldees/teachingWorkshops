@@ -1,4 +1,4 @@
-ITE Market Review
+ITT Market Review
 =================
 
 September 2023 First delivery of new Quality Requirements
@@ -13,8 +13,10 @@ September 2023 First delivery of new Quality Requirements
         3. providers should identify sufficient ‘lead mentors’ who will ensure that trainees receive mentoring and support across placement schools which is aligned with the curriculum and informed by practice at all times
             * minimum initial training hours that all lead mentors 30h - 1:25(trainees) lead mentors
             * [npqltd](https://www.ambition.org.uk/programmes/npqltd/)
-        4. 
-        5. providers should develop a detailed training curriculum for mentors at all levels ... including elements specific to subject and phase, and minimum time allocations for delivering this should be required
+        4. -
+        5. providers should develop a detailed training curriculum for mentors at all levels ... 
+            * subject specific
+            * minimum time allocations for delivering this
             * initial training time for general mentors to 20 hours minimum
             * annual refresher training of 6 hours minimum
             * mentors should not repeat any training
