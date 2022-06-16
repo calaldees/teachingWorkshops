@@ -5,7 +5,8 @@ Writing
     * [HemingwayApp: Web based plain english assistant](http://www.hemingwayapp.com/)
     * When presenting remove redundant words. "So", "Basically", "Simply", "Just" (See my blog post on [presenting](https://github.com/calaldees/blog/blob/master/skills/presenting.md) )
 * Other
-    * Be specific; remove Vague words "Things", "Stuff"
+    * Be specific; remove Vague words "Things", "Stuff", 
+    * Don't use "It" - fully qualify the subject
     * "I think": no need for your opinion. The evidence should support the concluding direction/statements
 * [17 tips for great copywriting](https://marketingexamples.com/copywriting/tips)
 * [Politics and the English Language](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/)
