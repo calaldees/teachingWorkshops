@@ -22,6 +22,9 @@ SPR4 (10min)
 * Padlet: [Assessment of QTS](https://cccu.padlet.org/sharron_mackenzie1/q5lqenlrlrcaui4a)
     * ['On Track' Guide for SPR4](https://cccu.padlet.org/sharron_mackenzie1/q5lqenlrlrcaui4a/wish/2212736023)
     * SPR4 Drafting Document
+* Have the teacher standards been met?
+* Setting suitable SMART Targets towards ECT Year - Transition document?
+* Portfolio Complete? (Checklist)
 
 Review Subject Curriculum (30min)
 ------------------------
@@ -61,6 +64,8 @@ Minimum Requirements for School Visit?
 
 WIP Ideas?
 
+<details>
+
 * Email to finalise to include PM, mentor and Student Teacher (ST)
 * Joint meeting and discussion with mentor and ST
     * Using curriculum guidance document
@@ -84,8 +89,15 @@ WIP Ideas?
     * Joint Planning
     * Joint Marking
     * Unseen observation (student performs a lesson and discuss's it with mentor/tutor without the mentor/tutor seeing the lesson)
+<details>
 
 Final review of the year (20min)
 ------------------------
 
 Other feedback? ...
+
+
+Thank you
+---------
+
+For your continued hard work and support this year (and in future)
