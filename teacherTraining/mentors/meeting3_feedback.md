@@ -89,7 +89,7 @@ WIP Ideas?
     * Joint Planning
     * Joint Marking
     * Unseen observation (student performs a lesson and discuss's it with mentor/tutor without the mentor/tutor seeing the lesson)
-<details>
+</details>
 
 Final review of the year (20min)
 ------------------------
