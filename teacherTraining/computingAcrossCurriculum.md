@@ -598,6 +598,7 @@ Timeboxed? One hour? I could go all day
         * [Tutorial](http://www.lesession.co.uk/abc/abc_notation.htm)
     * [Chrome Music Labs](https://musiclab.chromeexperiments.com/)
     * [everynoise.com](https://everynoise.com/) - scan genre identification
+    * [Music + Physics](http://hyperphysics.phy-astr.gsu.edu/hbase/Music/musinscon.html) - Diagrams and descriptions
 * MFL
     * [Language Letter Frequency](https://en.wikipedia.org/wiki/Letter_frequency) detector
         * [langauge_frequeny.py](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/data/langauge_frequeny.py)

@@ -384,6 +384,8 @@ Automated Tests (30min)
 * (Isac COmputer science has one?)
 * [Moss](http://theory.stanford.edu/~aiken/moss/) - A System for Detecting Software Similarity
     * Plagiarism detection of code
+* [gradescope.com](https://www.gradescope.com/) by turnitin
+    * Auto marking and plagiarism detection
 
 
 All student response systems (30 min)

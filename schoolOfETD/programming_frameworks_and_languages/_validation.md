@@ -59,5 +59,5 @@ This will include writing a reflection report stating the motivation behind sele
 Websites 
 * Microsoft, (2018), [Microsoft Docs](https://docs.microsoft.com/en-us/)
 * Microsoft, (2016), [.NET Core Guide](https://docs.microsoft.com/en-us/dotnet/core/)
-* Microsoft, (2016), [Introduction to Angular 2.0](https://mva.microsoft.com/en-us/training-courses/introduction-toangular-2-0-16540?l=cdKMEZyfC_906218965)
+* Microsoft, (2016), [Introduction to Angular 2.0](https://mva.microsoft.com/en-us/training-courses/introduction-toangular-2-0-16540?l=cdKMEZyfC_906218965)
 * Microsoft, (2017), [YouTube: ASP.NET Core – Beginner](https://www.youtube.com/watch?v=xc3Gl4rnWV4&t=68s), Available at: 

@@ -105,3 +105,5 @@ Next week
         * developing computational thinking
         * scaffolding programming tasks
 
+TODO:
+* [Lesson observation tips](https://www.iop.org/lesson-observation-tips) - Institute of Physics

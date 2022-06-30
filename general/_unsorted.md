@@ -186,3 +186,15 @@
 
 * [Cooling the London Underground](https://www.ianvisits.co.uk/articles/cooling-the-tube-engineering-heat-out-of-the-underground-20873/)
     * The rock has absorbed all the heat for 100+ years and is not radiating heat
+
+* [Why does science news suck so much?](http://backreaction.blogspot.com/2022/06/why-does-science-news-suck-so-much.html)
+    * confidence level?
+    * referecen (with year)
+    * Don't ly by ommision
+    * Take the human story out
+    * science is not a vote (popular stuff can be wrong)
+
+* [How to Not Get Hit by Cars](https://bicyclesafe.com/) - important lessons in Bicycle Safety 
+    * How not to cycle like a chump
+
+* [How to Do a Handstand: Get Your First Handstand in 30 Days](https://www.nerdfitness.com/blog/a-beginners-guide-to-handstands/)

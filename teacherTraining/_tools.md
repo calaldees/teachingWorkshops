@@ -23,6 +23,12 @@ Teaching Tools
                 * [Falling Ball Game](https://repl.it/talk/learn/Make-your-first-Pygame/11773)
                 * [Text 2D Map](https://repl.it/talk/learn/2D-console-games-tutorial/33813)
 
+    * [kardsort](https://study.kardsort.com/going-backwards-to-go-forwards/)
+        * Online linkable card sorting activity - no more paper?
+
+* [Cornell Note Taking — The Best Way To Take Notes Explained](https://study.kardsort.com/going-backwards-to-go-forwards/)
+    * Title - keywords - notes, summary - 30% 70%
+
 * [microbit](../microbit/)
 
 

@@ -1,4 +1,10 @@
 
+30min - Hands on with a KS3 AI activity. An unplugged activity for categorising butterfly's and hands on training of an AI with a webcam with Googles Teachable-Machine.
+30min - Q&A Brainstorm about school centred computing pedagogy ideas. Between us we can discuss difficult areas of the Computing curriculum to deliver and share good practice. How would you like us a university to support you next year with our skillset.
+30min - Tour of facilities with Seb demoing a reverse engineering exercise.
+
+
+
 
 
 Project based
@@ -34,3 +40,11 @@ This removed/demystified the "smartness" of machines
 
 Children don't know what _bias_ means, but they do know what _fairness_ means
 
+
+---
+
+
+Workshop
+
+* [Microsoft Plans to Eliminate Face Analysis Tools in Push for ‘Responsible A.I.’](https://www.nytimes.com/2022/06/21/technology/microsoft-facial-recognition.html)
+    * > For years, activists and academics have been raising concerns that facial analysis software that claims to be able to identify a person’s age, gender and emotional state can be biased, unreliable or invasive — and shouldn’t be sold.

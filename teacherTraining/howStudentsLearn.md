@@ -775,3 +775,13 @@ The basic model of Working memory and Long term memory felt very much like 1970â
 
 
 
+* [Extending the school day improves student learning](https://twitter.com/Rachel_deSouza/status/1540967615891398657)
+    * > Very good to see this family of schools continued vision for extended provision & enrichment combined with superb timetabling skills (he learnt from the best) to deliver for children - arts, sports, electives & so much more learning
+    * > Our trust gives students a full extra year of schooling over 5 years. The country should follow our example
+    * Is this researched based? Is there evidence for this?
+
+* [One Pagers Refresh](https://www.jamieleeclark.com/blog/one-pagers-refresh) A4 graphic summarys
+    * Questioning
+    * Modeling
+    * Feedback
+    * Retreval practice

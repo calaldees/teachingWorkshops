@@ -28,7 +28,7 @@ Academic Writing
 
 ### Academic Writing Tips
 
-* Provide specific examples to support claims, retaining an evaluative rather than emotive stance. 
+* Provide specific examples to support claims, retaining an evaluative rather than emotive stance.
 * Avoid hyperbole such as ‘incredibly creative’ unless you can provide specific evidence to support the statement.
 * Avoid absolutes - we don't actually know - this is our best assumption so far.
 * Unpick the references you draw on to make them fully work for your developing argument.
@@ -44,6 +44,7 @@ Narrative, journey, headings
 * Formal language
     * Don't use phrases like 'hatred of learning'
     * Low ability (don't ever use the phrase. Use 'low attainment')
+    * "Fun" - don't use this word. Use the formal term "higher task engagement"
 
 * Literature Review (example from another domain)
     * [Software Piracy and IP Management Practices](https://poseidon01.ssrn.com/delivery.php?ID=243069124094101103021085097112118007000076081034060007022064070097005097122019080119005102039099016121119028123080104065077099020045006069064005106095014093067124076040065013111093116024010121086025114123116014006090098067005066115075071007006126022085&EXT=pdf&INDEX=TRUE)
@@ -85,7 +86,8 @@ Proposal for Literature Review
     * Focus of the area of enquiry/specific research question - What is the precise question or key issue that you wish to explore? Can you phrase it as a research question?
     * Possible ethical issues - The key ethical issues are informed consent, protection of children, anonymity and confidentiality, and payment of research participants. In the case of a literature review, as you are only using secondary data and that there are no participants involved, ethical clearance is not required. However, it is good practice to make a general statement to show that you have considered ethics in light of the research you are carrying out.
 
-
+Side note (add this somewhere approriate)
+Relate your writing to your practice/setting/context/action in some way
 
 ### National qualifications framework
 
@@ -137,6 +139,9 @@ One of the main tips I can give for research is find the names of the big player
 1. Look at the other work they have done. It will probably be in a similar area.
 2. Follow their references. What previous research are they inspired by and building on.
 3. Some online services show links/references to papers that reference the one you are reading. This is great to help you find more recent sources that build on a seminal paper/topic.
+
+* Discover the wording
+    * E.g. research dose not use the term "student teacher" or "trainee teacher", they use the term "pre-service teacher". You may be using the wrong wording to find your topic.
 
 ### Reflection
 
@@ -232,3 +237,4 @@ People misinterperit it - critique
     * Effect
         * a noun, meaning “result” or “consequence.” One way to decide if effect is the correct word to use is to replace it with another noun
         * “His sunburn was an effect of exposure to the sun.”  Another way to say it is, “His sunburn was a result of exposure to the sun.”
+
