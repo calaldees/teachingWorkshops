@@ -39,6 +39,10 @@ Unplugged AI (10min)
 
 ### Unplugged Training (rules)
 
+Misconception/Analogy WARNING!!!!!
+This is not really how AI rules work on a computer. 
+Understand the concept of a _confidence score_.
+
 * In pairs
 * Create (minimum of) 4 rules/descriptions/ways-of-describing
 * a butterfly
