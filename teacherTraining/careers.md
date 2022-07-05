@@ -2,6 +2,9 @@ Careers
 =======
 
 TODO: CCF and EIF bits
+* [aspiration.digital](https://aspiration.digital/)
+    * The digital careers conference for sixth form students and teachers
+
 
 * Teachers often misunderstand how disconnected they they are
 

@@ -35,9 +35,7 @@ Unplugged AI (10min)
     * Image Classification
     * Confidence Score
 
-<style>
-img {width: 40vw;}
-</style>
+<style>img {width: 40vw;}</style>
 
 ### Unplugged Training (rules)
 
@@ -48,7 +46,7 @@ img {width: 40vw;}
 
 * Example Rules
     * It has 2 wings
-    * It's on a green plant
+    * It's on a green plant background
     * ???
     * ???
 
@@ -79,13 +77,15 @@ img {width: 40vw;}
 
 ![](https://prod-images-static.radiopaedia.org/images/57275534/0._gallery.jpeg)
 
-#### Challenge 2
+#### Challenge 3
 
 ![](https://www.gardeningknowhow.com/wp-content/uploads/2020/02/butterfly.jpg)
 
 ### More
 
 * (More links to unplugged resrouces later)
+    * [aiunplugged.org](https://www.aiunplugged.org/)
+        * Unlpugged KS3 appropriate school activities
 * Why would we ever want to identify butterflys?
     * Important for monitoring bio-diversity?
     * [Butterfly Detection and Classification Based on Integrated YOLO Algorithm](https://arxiv.org/abs/2001.00361) 2020
@@ -95,7 +95,7 @@ img {width: 40vw;}
 Hands on 'Teachable Machine' (10min)
 ----------------------------
 
-* [Teachable Machine](https://teachablemachine.withgoogle.com/)
+* [teachablemachine.withgoogle.com](https://teachablemachine.withgoogle.com/)
 
 TASK: 
 1. Train your AI with your video camera to identify 3 emotions
@@ -110,12 +110,14 @@ TASK:
 Bonus - Privacy awareness
 ---------------
 
-* [How Normal am I?](https://www.hownormalami.eu/) Local facial recognition algorithm and commentary video
+* [hownormalami.eu](https://www.hownormalami.eu/) Local facial recognition algorithm and commentary video
 
 
 Additional Resources (5min)
 ---------------------
 
+* [teachablemachine.withgoogle.com](https://teachablemachine.withgoogle.com/)
+    * [experiments.withgoogle.com/collection/ai](https://experiments.withgoogle.com/collection/ai)
 * [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/)
     * Teach a computer to play a game
     * Scratch, Python, Appinventor
@@ -155,19 +157,14 @@ Additional Resources (5min)
     * [Raspberry Pi Foundation](https://www.futurelearn.com/partners/raspberry-pi) - LOADS of very good courses
         * see #pedagogy
         * [Introduction to Machine Learning and AI](https://www.futurelearn.com/courses/introduction-to-machine-learning)
-
+* [appsforgood.org/courses/machine-learning](https://www.appsforgood.org/courses/machine-learning)
 
 
 ---
 
-30min - Hands on with a KS3 AI activity. An unplugged activity for categorising butterfly's and hands on training of an AI with a webcam with Googles Teachable-Machine.
-30min - Q&A Brainstorm about school centred computing pedagogy ideas. Between us we can discuss difficult areas of the Computing curriculum to deliver and share good practice. How would you like us a university to support you next year with our skillset.
-30min - Tour of facilities with Seb demoing a reverse engineering exercise.
 
 Unsorted
 ========
-
-
 
 Project based
 
@@ -182,36 +179,5 @@ Finland - computing integrated in all subjects (history! RE!)
 * [The AI4K12 project: Big ideas for AI education](https://www.raspberrypi.org/blog/ai-education-ai4k12-big-ideas-ai-thinking/)
     * AI for K12 (US) Computing
 * [Human-Centered Explainable AI (XAI): From Algorithms to User Experiences](https://arxiv.org/abs/2110.10790)
-
-
-
-Stefani Druga
-=============
-
-Raspberry Pie research seminar 1/3/2022
-
-Growing up with AI
-
-Children program their own smart device
-This removed/demystified the "smartness" of machines
-
-Children don't know what _bias_ means, but they do know what _fairness_ means
-
-
----
-
-
-Workshop
-
-
-
-Ideas
------
-
-https://experiments.withgoogle.com/collection/ai
-https://machinelearningforkids.co.uk/
-https://teachablemachine.withgoogle.com/
-
-https://www.appsforgood.org/courses/machine-learning
 
 

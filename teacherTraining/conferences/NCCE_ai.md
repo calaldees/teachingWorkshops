@@ -73,3 +73,19 @@ You cant question a _black box_. Remove the magic. A little bit of light is good
 
 
 
+---
+
+
+
+Stefani Druga
+=============
+
+Raspberry Pie research seminar 1/3/2022
+
+Growing up with AI
+
+Children program their own smart device
+This removed/demystified the "smartness" of machines
+
+Children don't know what _bias_ means, but they do know what _fairness_ means
+
