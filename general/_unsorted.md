@@ -198,3 +198,5 @@
     * How not to cycle like a chump
 
 * [How to Do a Handstand: Get Your First Handstand in 30 Days](https://www.nerdfitness.com/blog/a-beginners-guide-to-handstands/)
+
+* [Potato Diet Community Trial: Sign up Now, lol](https://slimemoldtimemold.com/2022/04/29/potato-diet-community-trial-sign-up-now-lol/)

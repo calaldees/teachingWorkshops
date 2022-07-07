@@ -238,3 +238,6 @@ People misinterperit it - critique
         * a noun, meaning “result” or “consequence.” One way to decide if effect is the correct word to use is to replace it with another noun
         * “His sunburn was an effect of exposure to the sun.”  Another way to say it is, “His sunburn was a result of exposure to the sun.”
 
+
+
+* [Using video and digital storytelling to develop your academic argument/voice​](https://cccu-my.sharepoint.com/:p:/g/personal/ek50_canterbury_ac_uk/EQRfNzyW9s1CtUBxcT-BwiQByURuizW3IxcX05atUv9llQ?e=hQWRms&wdOrigin=TEAMS-ELECTRON.p2p.bim&wdExp=TEAMS-CONTROL&wdhostclicktime=1656567625267) CCCU Emily (sharepoint)

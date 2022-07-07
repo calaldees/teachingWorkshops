@@ -162,3 +162,7 @@ They appear correlated
     * >  creative process is not a special type of computation to begin with but a whole collection of computations as also seen from the schema of resolving explanatory analogies
     * > the larger the knowledge base the greater the potential for discovering new knowledge ... and the creative agent must have a command of natural language  in order to be able to navigate among various knowledge domains
     * 
+
+* [Layover or nonstop? UCLA Health research says unique pattern of connectivity lets highly creative people’s brains take road less traveled to their destination](https://www.uclahealth.org/news/CreativeBrain2022)
+    * "Big C"
+    * > highly creative people’s brains appear to work differently from others', with an atypical approach that makes distant connections more quickly by bypassing the “hubs” seen in non-creative brains. 
