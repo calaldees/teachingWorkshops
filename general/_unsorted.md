@@ -200,3 +200,6 @@
 * [How to Do a Handstand: Get Your First Handstand in 30 Days](https://www.nerdfitness.com/blog/a-beginners-guide-to-handstands/)
 
 * [Potato Diet Community Trial: Sign up Now, lol](https://slimemoldtimemold.com/2022/04/29/potato-diet-community-trial-sign-up-now-lol/)
+
+* [Why do so many brands change their logos and look like everyone else?](https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else)
+    * Logo's are becoming bland and uniform

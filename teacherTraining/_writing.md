@@ -241,3 +241,8 @@ People misinterperit it - critique
 
 
 * [Using video and digital storytelling to develop your academic argument/voice​](https://cccu-my.sharepoint.com/:p:/g/personal/ek50_canterbury_ac_uk/EQRfNzyW9s1CtUBxcT-BwiQByURuizW3IxcX05atUv9llQ?e=hQWRms&wdOrigin=TEAMS-ELECTRON.p2p.bim&wdExp=TEAMS-CONTROL&wdhostclicktime=1656567625267) CCCU Emily (sharepoint)
+
+* [Why is there no Semantic Ontology of Sentiment in Academic Citations?](https://shkspr.mobi/blog/2022/07/why-is-there-no-semantic-ontology-of-sentiment-in-academic-citations/)
+    * If we have 'negative' relationships between things, this is helpful. 
+    * We only tend to record the positive. e.g: friend of, rather than devorced, estranged
+    * Same is true for academic citations - are all citations endorsements? or are they calling out bullshit?

@@ -94,15 +94,15 @@ All of this is optional - but highly recommended that you understand
         choco install python3 node
         ```
     * ```cmd
-        npm install cypress@8.7.0
+        npm install cypress@10.3.0
             # `npm install` installs to `node_modules` in your current folder!
         set CYPRESS_BASE_URL=http://localhost:8001/?api=http://localhost:8000
-            # set an environment variable for the duration of this terminal
-        npx cypress open
+            # set an environment variable for the duration of this terminal (for each new terminal you open)
+        npx cypress open 
+            # --e2e --browser electron
             # or run headless
-        npx cypress run --spec cypress/integration/freecycle/freecycle.spec.js
+        npx cypress run --spec cypress/integration/*.cy.js
         ```
-        * (I had issues with `9.0.0` on windows, some error about `plugins/index.js`?)
 
 ### Docker (on windows)
 * Docker on windows

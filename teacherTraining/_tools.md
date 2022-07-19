@@ -1,6 +1,10 @@
 Teaching Tools
 ==============
 
+* [explore.port.ac.uk](https://explore.port.ac.uk)
+    * Guide for a range of teaching tools linked to pedagogy
+    * > Most tools can support activities within any learning type. What determines the choice of tool is pedagogic purpose in each context. EXPLORE is just a framework to guide decision making.
+
 * [Plickers](https://get.plickers.com/)
 * [GitHub Classroom](https://classroom.github.com/)
 

@@ -785,3 +785,6 @@ The basic model of Working memory and Long term memory felt very much like 1970â
     * Modeling
     * Feedback
     * Retreval practice
+
+* [A systematic review of interleaving as a concept learning strategy](https://doi.org/10.1002/rev3.3266)
+    * Repeat things with subtle differences to get maxium retention of 0.65
