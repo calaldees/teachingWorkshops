@@ -1,3 +1,32 @@
+Invitation
+==========
+
+Hi PGCE/SchoolDirect Computing Trainees,
+
+I am Allan, I am the subject tutor for Secondary Computing at Canterbury Christ Church University.
+I will be leading your subject pedagogy sessions next year.
+
+I would like to extend the invitation for you to join me for a short introductory session to say hello and share some information about next year's subject specific programme of study.
+
+PGCE Secondary Computing - Taster Session
+xxxday xth August
+12:00 to 13:00
+(MSTeams Meeting link at the bottom of this email)
+
+If you are unable to join us for this session, my session notes are available at
+https://github.com/calaldees/teachingWorkshops/blob/master/teacherEducation/_introMeet.md
+
+I very much hope that you will be able to join me for this session so that we can start to get to know each other, and I can also share some useful pre-information with you.
+I know that previous cohorts have found this introductory session very helpful in enabling them to start the programme with confidence come September.
+It will give you the opportunity to ask any questions that you might have at this stage.
+
+If you intend to attend the session, could you reply to this email or accept the calendar invitation.
+
+I'm looking forward to meeting you all soon.
+
+
+
+
 Computing: Welcome Meeting
 ==========================
 
@@ -41,13 +70,13 @@ Pathways
 --------
 
 * An introduction to the pathways
-    * PGCE 7-14
     * PGCE Secondary (university managed/focused)
     * School Direct (school managed/focused)
         * Salaried
         * Non-Salaried
         * Optional: PGCE Enhancement (extra PGCE work)
-* PGce (Postgraduate Certificate of Education) or pgce (Professional graduate certificate of Education)
+* PGCE (Postgraduate Certificate of Education) or pgce (Professional general certificate of Education)
+    * 3 x Level 7 (Masters level) academic assignments (one per term)
 * At the end of the course we recommend you to the _Department for Education_ (DfE) for Qualified Teacher Status (QTS)
 
 
@@ -102,6 +131,9 @@ No Teacher is an island - You wont make this journey alone
 * Peers
 
 
+* University Subject Tutor Visits to placement school - Once per term
+
+
 * Pre-course [Padlet](https://cccu.padlet.org/allancallaghan/sz340htxrake670t)
     * Some of the other groups have setup a Padlet
 
@@ -133,7 +165,9 @@ Mindset
     * You drive mentor meetings
 * You ARE a professional
     * If asked to teach a lesson on html - you are capable - you do - you ask for guidance if needed.
-* Everyone on your course does not have to be "Your friend" - you are all at differnt points in your lives with differnt attitudes and interests - you don't have to _like_ your colleagues or classmates - you do need to collaborate and communicate professionally (as a requirement of the course - see targeted support plan)
+* collaborate and communicate professionally with your cohort
+    * Everyone on your course does not have to be "Your friend" - you are all at different points in your lives with different attitudes and interests
+    * You don't have to _like_ your colleagues or classmates - you do need to collaborate/communicate with them
 
 * Professional identity
     * [The personal and professional selves of teachers: stable and unstable identities](https://www2.uwe.ac.uk/services/Marketing/students/NewStudents%202017%20onwards/PGCE%20Secondary%20reading%20-%20personal%20and%20professional%20selves.pdf) (C.Day et al 2005)
@@ -148,6 +182,8 @@ What can you prepare
 * Design a household routine to support you
 * Consider how you will come across as a professional from day 1
     * From this day forth - your are a professional educator
+    * Cloths?
+    * Don't expect to be spoon fed
 
 
 Questions

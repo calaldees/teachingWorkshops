@@ -11,7 +11,10 @@ Introduce background of interviewers
     * 3 min Introduction
     * 5 min personal overview
     * 7 min lesson plan
-    * 25 min interview questions
+    * 10 min subject knowledge
+        * Code comprehension 
+        * Wider computing knowledge
+    * 15 min teaching questions
         * half teaching computing focused - half general teaching focused
     * 5 min QA / chat
 
@@ -31,18 +34,19 @@ Personal Overview (5 min)
 -----------------
 
 Tell me your story:
-  How did you get here?
-  Why do you want to become a teacher?
+* How did you get here?
+* Why do you want to become a teacher?
 
 
 Lesson Plan (7 min)
 -----------
 
+Tell me about your lesson. Why did you structure it this way?
 * Resource A or B (not both!)
 * Not subject focused
 
 
-Computing Knowledge (4 min)
+Computing Knowledge (5 min)
 -------------------
 
 > You type `google.com` into a ‘url bar’ and 1 second later you see the Google logo and search box.
@@ -55,7 +59,7 @@ Using your knowledge of ‘The entire discipline of Computing’; can you descri
 (Lossy, 256 color palette, animation)
 
 
-Code Comprehension (4 min)
+Code Comprehension (5 min)
 --------------------------
 
 Look at this code and comment on anything that you can identify using technical terminology.
@@ -91,29 +95,33 @@ Computing in Education (5 min)
 
 * Tell me about the current Computing syllabus in schools
     * What books/articles/blogs/videos have you encountered about teaching Computing?
-* How do you think computer science could/should be taught in the classroom?
-* What do you think young people will find the most challenging aspect of learning computing?
-* How would teaching Computing differ from other subjects?
 * Can you envisage a problematic scenario in a computing classroom?
     * How might you deal with this?
-* How do you see your skills and role changing/developing over the years? Where do you see yourself in 5 years?
-* What problems are there with young people using technology?
-* Picture yourself 6 months into the course; I come into your classroom to check on your progress. What will I see?
+* What do you think young people will find the most challenging aspect of learning computing?
+* Extra
+    * How do you think computer science could/should be taught in the classroom?
+    * How would teaching Computing differ from other subjects?
+    * How do you see your skills and role changing/developing over the years? Where do you see yourself in 5 years?
+    * What problems are there with young people using technology?
 
 
-General Teaching (12 min)
+
+General Teaching (10 min)
 ----------------
 
-* What will make you a good teacher?
-* What are the hallmarks of a good lesson?
-* Why did you choose the PGCE over School Direct?
-* Describe a time when you had to learn a new skill. Why did you learn it? How did you approach it?
+* Picture yourself 6 months into the course; I come into your classroom to check on your progress. What will I see?
 * What would you do if you were concerned about a colleague's behaviour towards children?
     * e.g. overhearing language used when dismissing a class
-* Provide examples of times when workload and numerous tasks have been managed concurrently?
 * You have prepared an amazing lesson with guidance from theory and the university. You present the lesson plan to your mentor who is no convinced and does not want you to run the lesson. How do you respond?
-* Can you give an example of where you changed your opinion?
 * In a GCSE class, you have 2 very slow students with special needs. They are never interested or engaged with computing. You have 28 other students that need your attention. Are those two important?
+* Extra
+    * What will make you a good teacher?
+    * What are the hallmarks of a good lesson?
+    * Why did you choose the PGCE over School Direct?
+    * Describe a time when you had to learn a new skill. Why did you learn it? How did you approach it?
+    * Provide examples of times when workload and numerous tasks have been managed concurrently?
+    * Can you give an example of where you changed your opinion?
+
 
 
 Questions (5 min)
