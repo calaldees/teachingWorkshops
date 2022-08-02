@@ -64,6 +64,7 @@ serves html on root
 POST
  returns json
  complete 201
+POST
  incomplete 405
 GET item
  json
