@@ -1,12 +1,13 @@
 Invitation
 ==========
 
-Hi PGCE/SchoolDirect Computing Trainees,
+Hi PGCE/SchoolDirect Secondary Computing Trainees,
 
-I am Allan, I am the subject tutor for Secondary Computing at Canterbury Christ Church University.
+I am Allan, the subject tutor for Secondary Computing at Canterbury Christ Church University.
 I will be leading your subject pedagogy sessions next year.
 
-I would like to extend the invitation for you to join me for a short introductory session to say hello and share some information about next year's subject specific programme of study.
+I would like to extend the invitation for you to join me for a short online introductory session to say hello and share some information about next year's subject specific programme of study.
+This session is not a formal requirement of the course but should provide a some useful foundations.
 
 PGCE Secondary Computing - Taster Session
 xxxday xth August
@@ -15,6 +16,8 @@ xxxday xth August
 
 If you are unable to join us for this session, my session notes are available at
 https://github.com/calaldees/teachingWorkshops/blob/master/teacherEducation/_introMeet.md
+and
+https://github.com/calaldees/teachingWorkshops/blob/master/teacherEducation/_pre_course_activities.md
 
 I very much hope that you will be able to join me for this session so that we can start to get to know each other, and I can also share some useful pre-information with you.
 I know that previous cohorts have found this introductory session very helpful in enabling them to start the programme with confidence come September.
@@ -184,6 +187,8 @@ What can you prepare
     * From this day forth - your are a professional educator
     * Cloths?
     * Don't expect to be spoon fed
+* [_pre_course_activities.md](_pre_course_activities.md)
+    * Books, exam boards, news, tools
 
 
 Questions

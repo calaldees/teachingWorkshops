@@ -93,6 +93,8 @@ General Information and Pre Reading
         * A classic that formed the basis of much of the principles of Computing education
     * [Computer Science K-12: Imagining the possibilities!: Bringing creative and innovative Computer Science to your school](https://www.amazon.co.uk/Computer-Science-K-12-possibilities-innovative/dp/1986171817/) Doug Bergman 2018
         * Immensely creative ideas for Computing from the US
+    * [Learning to Teach in the Secondary School: A Companion to School Experience](https://www.amazon.co.uk/Learning-Teach-Secondary-School-Experience/dp/1032062290/) 9th edition 2022
+        * General secondary teaching book
 * Subject Knowledge Development
     * [NCCE: Computer Science Accelerator](https://teachcomputing.org/cs-accelerator)
         * Bursaries and certificates for doing CPD

@@ -386,7 +386,7 @@ Automated Tests (30min)
     * Plagiarism detection of code
 * [gradescope.com](https://www.gradescope.com/) by turnitin
     * Auto marking and plagiarism detection
-
+* [codequiry.com](https://codequiry.com/) - api for code similarity
 
 All student response systems (30 min)
 ----------------------------
