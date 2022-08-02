@@ -7,10 +7,10 @@ I am Allan, the subject tutor for Secondary Computing at Canterbury Christ Churc
 I will be leading your subject pedagogy sessions next year.
 
 I would like to extend the invitation for you to join me for a short online introductory session to say hello and share some information about next year's subject specific programme of study.
-This session is not a formal requirement of the course but should provide a some useful foundations.
+This session is not a formal requirement of the course but should provide some useful foundations.
 
 PGCE Secondary Computing - Taster Session
-xxxday xth August
+xxxday xth August 202
 12:00 to 13:00
 (MSTeams Meeting link at the bottom of this email)
 
@@ -24,6 +24,8 @@ I know that previous cohorts have found this introductory session very helpful i
 It will give you the opportunity to ask any questions that you might have at this stage.
 
 If you intend to attend the session, could you reply to this email or accept the calendar invitation.
+
+If you want to contact for a one-to-one video catchup at any point before the course, you can setup an MSTeams meeting using the booking system link in my footer.
 
 I'm looking forward to meeting you all soon.
 
