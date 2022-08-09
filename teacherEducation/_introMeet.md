@@ -59,7 +59,7 @@ Today
 
 * An introduction from/to Allan
 * An opportunity to get to know your peers and create support networks
-* An overview of our new Curriculum for 2021/22
+* An overview of our new Curriculum for 2022/23
 * Subject specific information and tasks for starting the course in September
 * General discussion and opportunity to ask questions
 
@@ -237,7 +237,7 @@ Please note that as part of the enrolment procedure to the programme it is essen
 
 Please note that you are responsible for initiating both the Occupational Health Check and the DBS clearance.
 
-It is important that you are aware now that any student who has not passed through all three checks by the end of registration day in early September 2021 will not be able to start the programme.
+It is important that you are aware now that any student who has not passed through all three checks by the end of registration day in early September 2022 will not be able to start the programme.
 Your place is in jeopardy unless you achieve all three actions above by that date.
 
 ## Learning Support Plan (LSP)
