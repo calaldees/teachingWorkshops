@@ -26,9 +26,16 @@ TODO:
     * tradition Assessment is just to put students in rank order
     * mastery assessment should assume failure is due to 'instruction' (single class) or 'curriculum' (all class's)
 * Individual grades - whole class feedback (this is acceptable to ofsed)
-* [Improving Functional Programming Understanding through Student-Created Instructional Videos](https://dl.acm.org/doi/10.1145/3304221.3325587)
+* [Improving Functional Programming Understanding through Student-Created Instructional Videos](https://dl.acm.org/doi/10.1145/3304221.3325587) Pedro G. Feijóo-García & Gardner-McCune 2019
     * Activating peers as learners
 * [I no longer grade my students’ work – and I wish I had stopped sooner](https://theconversation.com/i-no-longer-grade-my-students-work-and-i-wish-i-had-stopped-sooner-179617)
+* [Assessing English at KS3](https://learningspy.co.uk/assessment/assessing-english-at-ks3/)
+    * Define the terms
+    * What they should know
+    * What they can do
+    * > Teachers know that these are the expectations students are expected to meet, and that if they can’t meet them, then that’s on them.
+* [GitHub Copilot may be perfect for cheating CompSci programming exercises](https://www.theregister.com/2022/08/19/copilot_github_students/)
+    * Education needs to change
 
 Objectives
 
@@ -349,6 +356,7 @@ Show you care - two way process
     * git? 
         * (anonymous, comments, script assisted)
     * [repl.it](https://replit.com/site/teams-for-education)
+        * https://replit.com/curriculum/Intro-to-Python
     * physical workbook?
 
 
@@ -797,7 +805,7 @@ Whole journal and field of research dedicated to this branch of education.
     * > CATs are technology-based or online testing systems created by content specialists, psychometricians, programmers and web designers.
       > They contain large test item banks and, when designed well, can attain high discriminating power. They do this through constant calibration or “adaptation.
 * [Journal of Computer Assisted Learning](https://onlinelibrary.wiley.com/journal/13652729)
-    * [Review of computer-based assessment for learning in elementary and secondary education](https://myweb.fsu.edu/vshute/pdf/jcal.pdf) Shute and Rahimi 2016
+    * [Review of computer-based assessment for learning in elementary and secondary education](https://doi.org/10.1111/jcal.12172) [pdf](https://myweb.fsu.edu/vshute/pdf/jcal.pdf) Shute and Rahimi 2016
         * Generated personalised tests with question banks and immdiate feedback
         * design feedback so that it can be used
         * Our findings indicate that generally, assess-ment _of_ learning tends to be more prevalent than assess-ment _for_ learning in online-learning setting
@@ -805,7 +813,8 @@ Whole journal and field of research dedicated to this branch of education.
             * spotting statistical weakness
             * extensive and ongoing analyses of the data that the learners produce in various digital learning environments
             * auto pairing students
-        * We also expect that innovative CBAfL techniques willmove beyond the laboratory and into the mainstream,and we will no longer have to rely solely on high-staketests for assessing students’knowledge and skills (Shuteet al., 2016a). The boundaries between instruction, learn-ing and assessment will eventually become blurred.
+        * We also expect that innovative CBAfL techniques willmove beyond the laboratory and into the mainstream,and we will no longer have to rely solely on high-staketests for assessing students’knowledge and skills (Shuteet al., 2016a). 
+        * > The boundaries between instruction, learn-ing and assessment will eventually become blurred.
 
 
 Computational Thinking Assessment - bebras.uk
@@ -814,12 +823,12 @@ Computational Thinking Assessment - bebras.uk
 * [TASK-BASED ASSESSMENT OF STUDENTS’ COMPUTATIONAL THINKING SKILLS DEVELOPED THROUGH VISUAL PROGRAMMING OR TANGIBLE CODING ENVIRONMENTS](https://files.eric.ed.gov/fulltext/ED571389.pdf) Takam Djambong and Viktor Freiman 2016 - 13th International Conference on Cognition and Exploratory Learning in Digital Age (CELDA 2016)
     * Categories of computaitonal thinking that babras.uk excert are testing
 * [Computational Thinking Test (CTT) for Middle School Students](https://www.researchgate.net/publication/324680249_Computational_Thinking_Test_CTT_for_Middle_School_Students)
-* [COMPUTATIONAL THINKING TEST: DESIGN GUIDELINES AND CONTENT VALIDATION](https://www.researchgate.net/publication/290391277_COMPUTATIONAL_THINKING_TEST_DESIGN_GUIDELINES_AND_CONTENT_VALIDATION)
+* [COMPUTATIONAL THINKING TEST: DESIGN GUIDELINES AND CONTENT VALIDATION](http://dx.doi.org/10.13140/RG.2.1.4203.4329) 2015 Marcos Román-González
     * [Bebras Quizs](http://www.cs.nuim.ie/~amooney/CS2Go/) pdf
     * [bebras.uk](https://bebras.uk/)
     * [bebras.uk/admin/](https://bebras.uk/admin/) - you have to sign up to get backstage answers
 * [Developing a Computational Thinking Test using Bebras problems](https://core.ac.uk/download/pdf/297030171.pdf) 2019 James Lockwood, Aidan Mooney,  - Maynooth University, Maynooth, Co. Kildare, Ireland
-* [Computer Science To Go (CS2Go): Developing a course to introduce and teach Computer Science and Computational Thinking to secondary school students ](http://mural.maynoothuniversity.ie/11015/) 2019 James Lockwood
+* [Computer Science To Go (CS2Go): Developing a course to introduce and teach Computer Science and Computational Thinking to secondary school students](http://mural.maynoothuniversity.ie/11015/) 2019 James Lockwood
     * Creating the Cs2Go course/system
 * [Which cognitive abilities underlie computational thinking? Criterion validity of the Computational Thinking Test](https://www.computacional.com.br/files/Gerais/ROMAN%20-%20Which%20cognitive%20abilities%20underlie%20computational%20thinking.pdf) 2016 - Marcos Roman-Gonzalez*, Juan-Carlos Perez-Gonzalez, Carmen Jimenez-Fernandez
     * breakdown of what is being assessed with Computation Thinking
@@ -1146,6 +1155,8 @@ Exam
 * [AQA: GCSE Computer Science From 2020](https://www.aqa.org.uk/subjects/computer-science-and-it/gcse/computer-science-8525)
 * [OCR: Computer Science (9-1) - J277 From 2020](https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/)
     * [Assessment Story: exploring our question papers](https://www.ocr.org.uk/Images/562109-assessment-story-exploring-our-question-papers.pdf)
+* [Edexcel: GCSE Computer Science (2020)](https://qualifications.pearson.com/en/qualifications/edexcel-gcses/computer-science-2020.html)
+    * On screen assessment!
 * [Revised arrangements for GCSE computer science](https://www.gov.uk/government/news/revised-arrangements-for-gcse-computer-science)
     * > Ofqual has today (8 January 2018) announced that non-exam assessment will not count to the final 9 to 1 grade in GCSE computer science in 2018 or 2019. It is, however, still an important part of the course and contributes to student learning and progress, so all schools must continue to give students the opportunity within the timetable to complete the tasks.
 * [Future assessment arrangements for GCSE (9 to 1) computer science](https://www.gov.uk/government/consultations/future-assessment-arrangements-for-gcse-computer-science)

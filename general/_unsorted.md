@@ -203,3 +203,23 @@
 
 * [Why do so many brands change their logos and look like everyone else?](https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else)
     * Logo's are becoming bland and uniform
+
+* [Negative incentives in academic research](https://lemire.me/blog/2022/07/21/negative-incentives-in-academic-research/)
+    * TODO
+
+* [Open Culture](https://www.openculture.com/freeonlinecourses) - The best free cultural and educational media on the web
+    * 1,700 free online courses from top universities
+
+* [Your compliance obligations under the UK’s Online Safety Bill; or, welcome to hell](https://webdevlaw.uk/2022/07/11/your-compliance-obligations-under-the-uks-online-safety-bill/#)
+* [The Design of Everyday Things — Book Summary & Notes](https://elvischidera.com/2022-06-24-design-everyday-things)
+    * Formal terminology for Human-cantered design
+    * [Why our Screwdriver took 3 YEARS](https://www.youtube.com/watch?v=2K5Gqp1cEcM) YouTube Video 30min
+        * designing the perfect screwdriver
+* [Irishman arrested in UK for 'causing anxiety' by retweeting Pride flag swastika meme speaks out](https://www.irishmirror.ie/news/irish-news/irishman-arrested-uk-causing-anxiety-27639423)
+* [Seven Things I Learnt Doing Stand-Up Comedy](https://michaelgv.uk/posts/2022/08/seven-things-i-learnt-doing-stand-up-comedy/)
+
+* [The Dictatorship of the Articulate](https://florentcrivello.com/index.php/2022/09/01/the-dictatorship-of-the-articulate/)
+    * > These obstacles are, mostly, institutional — too many people have seats at too many tables, each with the power to block, none with the authority to approve.
+    * Some things have got more affordable - others are more expensive
+    * > you actually have to ask for your competitors’ permissions before you can open anything, from a hospital to an ice cream shop. We’ve never had so few rights over our own property
+    * > We need to re-create the environment of permissionless innovation that enabled the rise of the modern world, and without which no progress is possible

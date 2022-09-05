@@ -46,15 +46,17 @@ General Information and Pre Reading
     * [Canterbury Christ Church University](http://www/canterbury.ac.uk)
         * [Canterbury Christ Church: Support Services](https://www.canterbury.ac.uk/students/current-students/support-services/support-services.aspx)
 * Organisations
-    * [TeachComputing](https://teachcomputing.org/) (Previously NCCE)
+    * National Centre for Computing Education [TeachComputing.org](https://teachcomputing.org/)
     * [Computing at School](https://www.computingatschool.org.uk/)
-    * [British Computer Society](https://www.bcs.org/policy-and-influence/education/)
     * [Raspberry Pi Foundation](https://www.raspberrypi.org/)
+        * [HelloWorld](https://helloworld.raspberrypi.org/) Computing Pedagogy Magazine (subscribe to physical magazine for free)
+            * [online articles](https://helloworld.raspberrypi.org/articles)
     * [Technology, Pedagogy & Education Association (TEPA)](https://tpea.ac.uk/)
         * The voice of digital technology and computing in education
         * CPD, research, best practice
         * Technology, Pedagogy and Education Journal
-    * [CSTA](https://www.csteachers.org/) Computer Science Teachers Association
+    * [British Computer Society](https://www.bcs.org/policy-and-influence/education/)
+    * [CSTA](https://www.csteachers.org/) Computer Science Teachers Association (US)
     * [Education Endowment Foundation](https://educationendowmentfoundation.org.uk/)
         * Research lead national recommendations for schools
 * Understanding education in the UK
@@ -82,10 +84,12 @@ General Information and Pre Reading
     * [Teaching Tech Together: How to create and deliver lessons that work and build a teaching community around them](https://teachtogether.tech/) 2019 Greg Wilson
         * Outstanding Computing pedagogical advice
         * Free eBook or [paperback](https://www.routledge.com/Teaching-Tech-Together-How-to-Make-Your-Lessons-Work-and-Build-a-Teaching/Wilson/p/book/9780367352974)
+    * [Hello World — Issue 0](https://helloworld.raspberrypi.org/issues/0) - The Big Book of Computing Pedagogy 2021
+        * Subscribe to magazine delivery for free
 * Books
     * [What If Everything You Knew About Education Was Wrong?](https://www.amazon.co.uk/Everything-About-Education-Wrong-Paperback/dp/1785831577/) David Didau 2016
         * Excellent criticality. Demystifying our traditional approaches to teaching and learning and why they might be wrong
-    * [How to Teach Computer Science: Parable, practice and pedagogy](https://www.amazon.co.uk/How-Teach-Computer-Science-practice/dp/1913622576/) July 2021 £12
+    * [How to Teach Computer Science: Parable, practice and pedagogy](https://www.amazon.co.uk/How-Teach-Computer-Science-practice/dp/1913622576/) Alan Harrison July 2021 £12
         * Short snappy book that describes the computing curriculum and relates it to PCK
     * [Computer Science Education: Perspectives on Teaching and Learning in School](https://www.amazon.co.uk/Computer-Science-Education-Erik-Barendsen/dp/135005710X/) Sue Sentence 2018
         * Targeted perspectives for teaching Computing

@@ -56,17 +56,21 @@ ACTIVITY:
         * `7726` to forward texts to
         * `0300 123 2040` to report breach of details
     * [who-called.co.uk](https://who-called.co.uk/)
+* Community Reporting
     * Fly tipping
     * abandoned trollys
     * dead swans
     * bust watermain
     * Tree route breaking pavement - disability
+* Diagnosis
+    * [ukpowernetworks.co.uk/power-cut/map](https://www.ukpowernetworks.co.uk/power-cut/map)
 * Electoral role (edited register)
 * Cookies (What they are and why they are used)
 * Domain/typo squatting
 * How to buy a domain name
 * Diagnosing network - ping router - traceroute - packetloss
     * [DownDetector.co.uk](https://downdetector.co.uk/)
+    * [istheservicedown.co.uk/](https://istheservicedown.co.uk/)
     * FaslyCDN
 * whois - traceroute
 * Distinguish between a Web or Native mobile app

@@ -1,11 +1,17 @@
 Research
 ========
 
-* [gov.uk - A self-improving school system: towards maturity](https://www.gov.uk/government/publications/a-self-improving-school-system-towards-maturity) - A look at the progress that has been made towards a self-improving school system since 2010
-* [Action research in the classroom](https://www.vlebooks.com/Vleweb/Product/Index/45610) 2011 Baumfield, Dr Vivienne
-* [Education Endowment Foundation](https://educationendowmentfoundation.org.uk)
-    * [Blog](https://educationendowmentfoundation.org.uk/news/blog/)
-    * [Guidance Reports](https://educationendowmentfoundation.org.uk/tools/guidance-reports/)
+* General
+    * [gov.uk - A self-improving school system: towards maturity](https://www.gov.uk/government/publications/a-self-improving-school-system-towards-maturity) - A look at the progress that has been made towards a self-improving school system since 2010
+    * [Action research in the classroom](https://www.vlebooks.com/Vleweb/Product/Index/45610) 2011 Baumfield, Dr Vivienne
+    * [Education Endowment Foundation](https://educationendowmentfoundation.org.uk)
+        * [Blog](https://educationendowmentfoundation.org.uk/news/blog/)
+        * [Guidance Reports](https://educationendowmentfoundation.org.uk/tools/guidance-reports/)
+* Computing
+    * [International Computing Education Research Workshop (ICER)](https://dl.acm.org/conference/icer/proceedings)
+        * 20 Years of computing education research conference.
+        * The best place to look for Computing Pedagogy research
+    * [HelloWorld - online articles](https://helloworld.raspberrypi.org/articles)
 
 Teaching Profession
 --------------------

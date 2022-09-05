@@ -1,3 +1,27 @@
+Mentors
+=======
+
+* [Computing Teacher Educators Network](https://forms.office.com/pages/responsepage.aspx?id=ZyYeN4rMsEe13T5BpfTp_DHG91hvGkxPsNAus4-ppg5UQlJGTTJQQlhQSzUyTjlNS1hFV01ZNUtETy4u)
+   * Upcoming events
+
+* [Initial teacher training: government response to Carter review](https://www.gov.uk/government/publications/initial-teacher-training-government-response-to-carter-review)
+   * [Mentor Standards pdf](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/536891/Mentor_standards_report_Final.pdf) DfE 2016
+      * Standard 1 - Personal qualities
+         * Establish trusting relationships, 
+         * modelling high standards of practice, 
+         * and empathising with the challenges a trainee faces.
+      * Standard 2 – Teaching
+         * Support trainees to develop their teaching practice in order to set high expectations and to meet the needs of all pupils.
+      * Standard 3 – Professionalism 
+         * Induct the trainee into professional norms and values, 
+         * helping them to understand the importance of the role and responsibilities of teachers in society. 
+      * Standard 4 – Self-development and working in partnership
+         * Continue to develop their own professional knowledge, skills and understanding and invest time in developing a good working relationship within relevant ITT partnerships.
+
+* [University of Brighton: National Mentor Standards](https://blogs.brighton.ac.uk/mentors/national-mentor-standards/)
+   * [Mentor Audit Tool](https://unibrightonac.sharepoint.com/:w:/s/public/EZSKTmEqMBhMtYhzxcRaPQcBNCTrVjVlsfoMun3j4LfF6Q?e=GFCnaS)
+
+
 From Ofsted Reports - The Solent SCITT ​
 > Mentors are regarded as good role models rather than trained to be experts. ​
 > Mentors are not seen as, or trained to be, the expert colleagues the core content framework demands.

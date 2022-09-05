@@ -1,7 +1,23 @@
 Inclusion
 =========
 
+
+Computing Inclusion Further Reading
+-----------------------------------
+
+* [CAS: Inclusion](https://www.computingatschool.org.uk/custom_pages/415-inclusion)
+* [Guide to Inclusive Computer Science Education: How educators can encourage and engage all students in computer science](https://ncwit.org/resource/csedguide/) Microsoft + National Center for Women & Information Technology (NCWIT) 2019
+* [SEND Computing](http://sendcomputing.info/)
+* [Computing ITT & CPD](https://sites.google.com/site/primaryictitt/home/sen)
+
+
+
+
+
 TODO
+
+* [Sign language for computing terms](https://helloworld.raspberrypi.org/articles/hw19-sign-language-for-computing-terms)
+
 * [The Inclusive Classroom](https://www.bloomsbury.com/uk/inclusive-classroom-9781472977892/)
     * A new approach to differentiation
 * [Supporting Trans Children in Schools: Findings and Recommendations](https://growinguptransgender.com/2020/08/21/supporting-trans-children-in-schools-findings-and-recommendations/)
@@ -451,6 +467,8 @@ TASK: Investigate a Kent teachers online resources
 * [Mr Johnson Computing](https://www.mrjohnsoncomputing.co.uk/) - Kent based (Did SchoolDirect at CCCU in 2018/2019)
     * Created his own web based resources - students access them across many lessons
         * [LearnPython repl.it](https://repl.it/@MrJohnsonCS/learnpython#README.md)
+* https://replit.com/curriculum/Intro-to-Python
+* https://replit.com/curriculum/Intermediate-Python
 
 
 ### TASK Part 1 - A short 1 Dimensional planning task (30 min)
@@ -741,13 +759,6 @@ Cultural Values Dictate Disorders
     * > your responsibility to ensure that your learning and teaching activities and materials are accessible.
 
 
-Computing Inclusion Further Reading
------------------------------------
-
-* [CAS: Inclusion](https://www.computingatschool.org.uk/custom_pages/415-inclusion)
-* Microsoft [Guide to Inclusive Computer Science Education: How educators can encourage and engage all students in computer science](https://www.ncwit.org/resources/guide-inclusive-computer-science-education-how-educators-can-encourage-and-engage-all)
-* [SEND Computing](http://sendcomputing.info/)
-* [Computing ITT & CPD](https://sites.google.com/site/primaryictitt/home/sen)
 
 
 Concluding Task

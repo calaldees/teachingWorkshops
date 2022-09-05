@@ -44,7 +44,7 @@ Session Overview
 
 May have to delay
 * [Meta-cognition](./metaCognition.md)
-* Notional machine (Leaning Together Greg Wilson)
+* #notional-machine (Leaning Together Greg Wilson)
 * concrete and abstract examples
 
 

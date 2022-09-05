@@ -118,6 +118,13 @@ Computing Across the Curriculum - Ideas
     * [Raspberry pi weather station that tweets the weather](https://youtu.be/-JBgaR8sNcE?t=1310)
     * _Rolling average_ of temperature - numeracy
 * [Computing in the curriculum: Challenges and strategies from a teacher's perspective](https://link.springer.com/article/10.1007/s10639-016-9482-0) - Sue Sentence - April 2016 - King’s College London UK
+    * Five key themes emerged: 
+        * unplugged type activities 
+        * contextualisation of tasks
+        * collaborative learning
+        * developing computational thinking
+        * scaffolding programming tasks
+    * developing student resilience in Computing is seen as a challenge
 
 
 Other Subjects (exploration) (30min)

@@ -100,6 +100,8 @@ In your breakout groups and shared workspace - collate a list of youth terms you
 
 * https://twitter.com/3dancingfeet/status/1462607787251232774
     * Theydies and Gentelthems
+* [Wordsworth Rap - Class Dismissed - CBBC](https://www.youtube.com/watch?v=QzkubS3z3TE) 2016 1min
+    * Comedy clip of how you can make lesson too hip
 
 
 Unsorted

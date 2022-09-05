@@ -139,6 +139,7 @@ Manifest your code in the real world!
     * Lots of time/money/logistics investment (only a handful of students benefit)
     * Extra curricular only
     * Looks AMAZING at open evening
+    * [Are computing competitions worth the effort?](https://helloworld.raspberrypi.org/articles/are-computing-competitions-worth-the-effort)
 * See also
     * Battlesnake, yare.io, [[_software]]
 

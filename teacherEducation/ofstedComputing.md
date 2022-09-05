@@ -29,7 +29,7 @@ Ofsted Computing
 > ... the lab work of computer science: it motivates, illuminates, and brings to life the dry bones of theory. Without programming, computer science would be a dry, theoretical husk of a subject. Imagine a music lesson where the students only studied the rules of counterpoint or the structure of sonata form, but never brought them to life by performing or composing such music!
 <sub>Peyton-Jones</sub>
 
-> (Students) fail to understand the notional machine they are learning to control
+> (Students) fail to understand the #notional-machine they are learning to control
 <sub>Sorva</sub>
 
 National Curriculum
@@ -66,7 +66,7 @@ Semantic wave - abstract - unpack meanings -  practical - repack meaning - abstr
 Cross Curricular
 ----------------
 
-Can't be done by non specalists
+Can't be done by non specialists
 
 cross-curricular integration of similar subjects, such as ICT, was ineffective and put these subjects in a vague place in the curriculum.
 

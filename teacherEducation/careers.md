@@ -4,6 +4,9 @@ Careers
 TODO: CCF and EIF bits
 * [aspiration.digital](https://aspiration.digital/)
     * The digital careers conference for sixth form students and teachers
+* [officeforstudents.org.uk - young-participation-by-area](https://www.officeforstudents.org.uk/data-and-analysis/young-participation-by-area/)
+    * Interactive maps
+        * See how likely young people are to participate in higher education according to where they live
 
 
 * Teachers often misunderstand how disconnected they they are

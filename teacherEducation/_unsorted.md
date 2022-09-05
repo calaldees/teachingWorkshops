@@ -523,8 +523,7 @@ Bennet and Dojee 2015 mindfullness-based stress reduction course revealed that s
 
 ---
 
-* [ukpowernetworks.co.uk/power-cut/map](https://www.ukpowernetworks.co.uk/power-cut/map)
-* [istheservicedown.co.uk/](https://istheservicedown.co.uk/)
+
 
 ---
 
@@ -560,8 +559,6 @@ Youth social action - what are the benefits for careers education? - impact 2020
 
 ---
 
-* [Wordsworth Rap - Class Dismissed - CBBC](https://www.youtube.com/watch?v=QzkubS3z3TE) 2016 1min
-    * Comedy clip of how you can make lesson too hip
 
 
 
@@ -622,9 +619,6 @@ School isnt going to tell you how to get to where you want to be in life - you n
 * [Do Adults Really Not Remember School Sucked?](https://www.ianwelsh.net/do-adults-really-not-remember-school-sucked/)
     * During the pandemic 'Kids miss school' - do they? - do they just miss their friends? that's not school related, that's pandemic related. Do adults just want daycare?
 
-* [officeforstudents.org.uk - young-participation-by-area](https://www.officeforstudents.org.uk/data-and-analysis/young-participation-by-area/)
-    * Interactive maps
-        * See how likely young people are to participate in higher education according to where they live
 
 
 ---

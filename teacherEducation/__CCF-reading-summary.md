@@ -15,7 +15,7 @@ Why don’t students like school?
 ### Full Journal Article quotes
 
 * [The genius of DT Willingham and WDSLS](https://teacherhead.com/2021/06/22/the-genius-of-dt-willingham-and-wdsls/) - Tom Sherrington 2021
-    * [Why Don’t Students Like School](https://www.aft.org/sites/default/files/periodicals/WILLINGHAM%282%29.pdf) - as featured in American Educator
+    * [Why Don’t Students Like School](https://www.aft.org/sites/default/files/periodicals/WILLINGHAM%282%29.pdf) Wilingham 2009 - as featured in American Educator
         * Teachers are _success's_ of the education _system/process_ and enjoy learning
         * > (teachers are) dejected when they find that some of their pupils don’t like school much
         * > ... teachers should reconsider how they encourage their students to think in order to maximize the likelihood that students will get the pleasurable rush that comes from successful thought

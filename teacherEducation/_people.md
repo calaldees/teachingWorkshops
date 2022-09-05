@@ -55,6 +55,26 @@ Dept. of Computer Science
 Maynooth University, Maynooth, Co. Kildare, Ireland
 james.lockwood@mu.ie
 
+@LessonHacker
+repl.it lesson creator and educator consultant
+* YouTube [Replit](https://www.youtube.com/c/replityt/videos) Videos
+
+Andy Colley
+@MrAColley
+Director of Computing @LaurusCheadleHu
+ | @LearningDust
+ host | AST | CAS Master Teacher | T&L Lead Practitioner | MIE | Dad | Run | Bike | Bass for @shark_jump
+https://mrcolley.wordpress.com
+https://www.learningdust.com/ (podcast of computing teachers)
+
+* [Curriculum Demo for Teachers: Intro to Python and Intermediate Python](https://www.youtube.com/watch?v=GAkda5J2mx8) 7min overview
+* [Education Workshop: Using PRIMM to teach Programming with Andy Colley](https://www.youtube.com/watch?v=H0t2eBXazF0) 1hour
+https://replit.com/curriculum/Intro-to-Python
+https://replit.com/curriculum/Intermediate-Python
+
+* [50 Days of Python : A Challenge a Day.: The Ultimate Challenges Book for Python Beginners](https://www.amazon.co.uk/Days-Python-Challenge-Challenges-Beginners-ebook/dp/B09TQ83JQB/)
+
+
 * [@ChrisSheltonUK](https://twitter.com/chrissheltonuk)
     * [Dr Chris Shelton](https://www.chi.ac.uk/staff/dr-chris-shelton) University of Chichester
     * Head of TPEC

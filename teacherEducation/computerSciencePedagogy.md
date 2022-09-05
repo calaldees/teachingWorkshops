@@ -1,6 +1,10 @@
 Computer Science Specific Pedagogy
 ==================================
 
+* [International Computing Education Research Workshop (ICER)](https://dl.acm.org/conference/icer/proceedings)
+    * 20 Years of computing education research conference.
+    * The best place to look for Computing Pedagogy research
+
 NCCE Funding Sue Sentence explains
 * [Moving to mainstream: developing computing for all](https://dl.acm.org/doi/epdf/10.1145/3361721.3362117) Sue Sentence 2019
 
@@ -10,9 +14,31 @@ TODO
 * [A game to teach network communication reliability problems and solutions](https://dl.acm.org/doi/10.1145/2670757.2670773)
     * "Packet Attack"
 * [Computer Science Field Guide](https://www.csfieldguide.org.nz/en/) - An online interactive resource for high school students learning about computer science. 
+* [Teaching and Learning Computer Science](https://textbooks.cs.ksu.edu/tlcs/) - Kansas State University’s Teacher Training Program CC4.0
 
-> Students need 50% tracing accuracy before being able to write code
-Venables 2009 ?
+
+
+* [A closer look at tracing, explaining and code writing skills in the novice programmer](http://dx.doi.org/10.1145/1584322.1584336) Venables, Tan, Lister 2009
+    * > Students need 50% tracing accuracy before being able to write code
+
+* [CSSC - Computer Science Student-Centered Instructional Continuum](https://dl.acm.org/doi/10.1145/3408877.3439591) [summary](https://textbooks.cs.ksu.edu/tlcs/4-designing-cs-lessons/03-instructional-continuum/) Jane Waite & Christine Liebe 2021
+    * continuum ranges from highly scaffolded (right side) to no scaffolding (left side). 
+    * This continuum can be helpful in evaluating existing curriculum materials; 
+    * Continuum
+        * Copy Code (highly scaffolded)
+            * students are giving step-by-step instructions to follow. This can be part of a Live Coding exercise, a recorded tutorial, or a worksheet to copy.
+        * Targeted Tasks
+            * students are given a short task, i.e. completing a method, fixing buggy code, transcribing music into a program, or Parsons problems.
+        * Shared Coding
+            * the teacher writes code, explaining their thought process (sometimes called demonstration coding, live coding, or apprenticeship). Students may be asked to write the same program at the same time.
+        * Project Based
+            * students are given a project with a goal - i.e. adapt a play to be presented by sprites in Scratch
+        * Inquiry Based
+            * students consider a question and attempt to develop a solution, i.e. use simulation to evaluate catapult designs
+        * Tinkering (no scaffolding)
+            * completely student-led programming efforts.
+
+
 
 * [Hello World — Issue 0](https://helloworld.raspberrypi.org/issues/0) - The Big Book of Computing Pedagogy 2021
 * [Raspberry Pi Foundation: Research publications](https://www.raspberrypi.org/research/publications/)
@@ -106,7 +132,7 @@ ITT CCF 2.9
 * Modify
 * Make
 
-* NCCE [Quick Read: Using PRIMM to structure programming lessons](https://blog.teachcomputing.org/using-primm-to-structure-programming-lessons/)
+* NCCE [Quick Read: Using PRIMM to structure programming lessons](https://blog.teachcomputing.org/using-primm-to-structure-programming-lessons/) 2020
 
 
 TASK: Read PRIMM quick read.
@@ -373,7 +399,12 @@ Instructional Continuum - Range of structured tasks
         * > “constructive evaluation”. Students are required to author questions that assess one or more of the learning outcomes of a course and provide a sample solution
 
 * [Teaching computer science through problems, not solutions](https://www.tandfonline.com/doi/full/10.1080/08993408.2010.486271)  Samuel B. Fee and Amanda M. Holland-Minkley 2010
-    * TODO
+    * Problem Based Learning (PBL)
+    * > Without experiencing the process of experimenting with possible solutions and pursuing paths to determine if they are fruitful or not, students will not be able to become self-sufficient problem solvers. 
+    * > But the focus on independent solving and student-directed exploration encouraged in PBL can lead to novice students feeling overwhelmed by the degree of flexibility they have been permitted (Kay et al., 2000).
+    * > Given the centrality of problem-solving to all academic endeavors, and to the entire breadth of a computer science curriculum, it seems unrealistic to expect students to achieve a high level of proficiency during a single course, particularly given the modest initial starting point of many new college students. 
+    * > a problem-based curriculum is likely to be most effective as a conscious effort on the part of an entire department, where the additional workload will be recognized and supported
+    * > design an interdisciplinary computing major that integrates strongly with the liberal arts tradition
 
 Societal
 --------
@@ -390,7 +421,7 @@ Societal
 Concept Transfer when Learning another Programming Language
 ------------------------------------------------------------
 
-* [Understanding Conceptual Transfer for Students Learning New Programming Languages](https://dl.acm.org/doi/10.1145/3372782.3406270)
+* [Understanding Conceptual Transfer for Students Learning New Programming Languages](https://dl.acm.org/doi/10.1145/3372782.3406270) Tshukudu & Cutts 2020
     * Concept categories
         * CarryoverConcepts (CC)
             * While loop (pyhton + java pretty much the same)
@@ -399,13 +430,13 @@ Concept Transfer when Learning another Programming Language
         * Abstract True CarryoverConcepts (ATCC)
             * object aliasing (pyhton + java pretty much the same)
     * The problem zone is FCC - these need to be identified
-* [Semantic Transfer in Programming Languages: Exploratory Study of Relative Novices](https://dl.acm.org/doi/10.1145/3341525.3387406)
+* [Semantic Transfer in Programming Languages: Exploratory Study of Relative Novices](https://dl.acm.org/doi/10.1145/3341525.3387406) Tshukudu & Cutts 2020
     * todo
 
 todo
 ----
 
-* [If They Build It, Will They Understand It? Exploring the Relationship between Student Code and Performance](https://dl.acm.org/doi/10.1145/3341525.3387379)
+* [If They Build It, Will They Understand It? Exploring the Relationship between Student Code and Performance](https://dl.acm.org/doi/10.1145/3341525.3387379) Salac & Franklin 2020
     * > student performance on specific questions on the written assessments is only very weakly correlated to specific attributes of final projects typically used in artifact analysis as well as attributes we use to define candidate code (r < 0.2, p < 0.05). In particular, the correlation is not nearly strong enough to serve as a proxy for understanding
     * Digital artifact only weakly correlated with understanding
 
@@ -418,7 +449,7 @@ todo
 todo
 ----
 
-* [Program Comprehension with Physical Computing: A Structure, Function, and Behavior Analysis of Think-Alouds with High School Students](https://dl.acm.org/doi/10.1145/3430665.3456371)
+* [Program Comprehension with Physical Computing: A Structure, Function, and Behavior Analysis of Think-Alouds with High School Students](https://dl.acm.org/doi/10.1145/3430665.3456371) 2020
 
 Concept Maps
 ------------
@@ -522,14 +553,15 @@ Traditional Computational Thinking - New Computational Thinking
         * In Traditional CT programming ability produces CT, and in New CT learning certain concepts produces programming ability
         * Traditional CT
             * Programs are tightly coupled with algorithms; programs are algorithms expressed in a computer language; algorithms derive their precision from a computational model
-        * New CT (Jeannette Wing coined in 2006) Professor of Comuter Science at Carnegie Mellon [Computational Thinking](https://dl.acm.org/doi/10.1145/1118178.1118215)
+        * New CT (Jeannette Wing coined in 2006) Professor of Computer Science at Carnegie Mellon [Computational Thinking](https://dl.acm.org/doi/10.1145/1118178.1118215)
             *  > “everyone, not just those who major in computer science, can benefit from thinking like a computer scientist"
                 * this general claim has never been substantiated with empirical research
             * Programs are loosely coupled with algorithms; algorithms are for all kinds of information processors including humans—it is completely optional whether an algorithm will ever be translated into a program
     * > use competency-based skill assessments to measure student progress. Be wary of the claim of universal value, for it has little empirical support
     * > Focus on helping students learn to design useful and reliable computations in various domains of interest to them
     * > It would do all of us good to tone down the rhetoric about the universal value of computational thinking. Advocates should conduct experiments that will show the rest of us why we should accept their claims. 
-* Rotten STEM Woodard says just developing tech workers
+* [Rotten STEM: How Technology Corrupts Education](https://americanaffairsjournal.org/2019/08/rotten-stem-how-technology-corrupts-education/) 2019 Jared Woodard
+    * Woodard says just developing tech workers
 
 
 Algorithm PCK

@@ -61,3 +61,7 @@ See _diversity.md
 
 Who do you go to for advice - 5 people
 Gender Age, Education Level, Organistion, Distance form you, Thenic Origin, First Language, Subject taught
+
+
+* [We don’t have a hundred biases, we have the wrong model](https://www.worksinprogress.co/issue/biases-the-wrong-model/)
+    * TODO

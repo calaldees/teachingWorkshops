@@ -40,8 +40,13 @@ We need PCK.
 
 * [Exploring the Correlation Between Teacher Pedagogical Content Knowledge and Content Knowledge in Computer Science Classrooms](https://dl.acm.org/doi/10.1145/3304221.3325556) 2019
 
+
 Tacit Knowledge
 ---------------
+
+* [TEACHING A BACKFLIP IN A HOUR! 😱 Location: Motive School Of Movement in Greenville, South Carolina](https://www.youtube.com/watch?v=E8f-giFxN8Q)
+    * scaffold
+    * worked examples (more effective for novices)
 
 * [Tacit Knowledge](https://en.wikipedia.org/wiki/Tacit_knowledge)
     * Tacit knowledge is knowledge that cannot be captured through words alone.
@@ -69,6 +74,138 @@ Describe verbally to group
 
 
 
+> No one get's into coding for the loops and if statements, they do it for the superpowers it gives them.
+<sub>Amjad Masda</sub>
+
+https://replit.com/curriculum/Intro-to-Python
+https://replit.com/curriculum/Intermediate-Python
+
+* Hobbist
+    * Motivated
+    * invests own time
+    * own choice
+* Employees
+    * paid by experts
+    * trained by experts
+    * have end goal
+    * allocated CPD time
+* Students
+    * One lesson a week for 8 weeks
+    * large class
+    * teacher still on learning curve
+    * one subject among many
+    * goal is far in the future
+    * Might not want to be there
+* from [Education Workshop: Using PRIMM to teach Programming with Andy Colley](https://youtu.be/H0t2eBXazF0?t=632) at 10min
+
+Because a consumer of digital servives does not make you a creator of digital services
+
+
+Novices and experts
+`myAge = int(input("Please type in your age: "))`
+How many concepts are there here? High cognative load and this is one line .. and there are 5 or 6 concepts
+(bigger example)
+Many tutorials start with this complex line
+1.) what is the problem (do we understand it)
+2.) what are the parts of the problem?
+3.) how to translate that into computer instructions/syntax (people seem to obcess about this!?)
+
+Highest number in the list (how to unpick it?)
+how do they actually solve this?
+Worked examples (backwards fading)
+
+Gradual taking ownership
+Not my code (not my responsibility) -> partially my code -> all my code 
+(Up to GCSE)
+Example code | My prediction | screenshot of code running | differences from my prediction
+
+Academic wording - giving things a name
+https://qualifications.pearson.com/en/qualifications/edexcel-gcses/computer-science-2020.html on screen GCSE exam
+
+Misconceptions
+(what misconceptions) (show code from before)
+
+If they are learning - shut up! stop talking
+
+Advanced ones - cheat cheet - another langauge
+
+Teach the long way
+(dont use `in`) (dont use `input("this string is output!")`)
+
+The Block Model
+---------------
+
+plan your (I)nvestigate questions
+
+
+* [Block Model: an educational model of program comprehension as a tool for a scholarly approach to teaching](https://doi.org/10.1145/1404520.1404535) Schulte 2008
+    * [The I in PRIMM](https://helloworld.raspberrypi.org/articles/hw14-the-i-in-primm) Sue Sentence 2020
+
+| | (T) Text Surface | (P) Program execution | (F) Function (relevance/intention) |
+|-|-|-|-|
+| (M) Macro structure | Understand the overall strcuture of the program text | Understand the algorithum underleying a program | Understand the goal/purpose the program in the current context |
+| (R) Relationships | Relationships between blocks | Sequence of function calls, object sequence diagrams | Understand how subgoals are related to goals |
+| (B) Blocks | Regions of interst that build a unit (systematically or sematically) | Operation of a block or function | Understanding of the function of a block of code |
+| (A) Atoms | Language elements | Operation of a statement | function of a statement |
+
+Example
+* (MF) "What would happen if the input to the program was ___"
+* (RT) "Ask students to identify the scope of a variable"
+* (RP) "Draw the flow of control on the program"
+* (BT) "Ask students to draw on the program to identify blocks of code or types of construct"
+* (BP) Ask: "What would happen if those two lines were the other way around?"
+* (BP) Draw the flow of control
+* (AF) Identify the purpose of a single statement
+
+```python
+answer = input("What is the best subject?")
+
+if answer == "Computing":
+    print("Correct! Well done!")
+else:
+    print("I'm afraid you must be mistaken.")
+```
+* (MF) What input would produce the output "Correct"
+* (BT) What line does selection start on?
+* (BP) Which line runs after line 3 when the input is "Music"?
+* (AT) What is the condition in the code?
+* (AF) What is the purpose of line 1 in the code
+
+```python
+print("Hi What's your name?")
+
+name = "Turnip"
+
+print("Hi " + name + "! How are you today?")
+```
+You do
+
+### Modify
+Pure focus (at first) (working memory)
+Swap a `for` loop for a `while` loop
+
+repl.it `.draw` file
+
+### Make
+From scratch? Parson?
+Level of detail of instruction
+* SUPER DETAILED
+    * enter a name and say Hello name
+* or more vague (plain english - top level)
+    * name and special message
+
+>> I taught my dog to sing
+> what can he sing?
+>> I said I taught him, I didn't say he's learnt it
+
+[openai.com/playground](https://beta.openai.com/playground)
+```text
+write python code to:
+- ask the user for their name
+- the program responds with "hello NAME"
+- the program does this 3 times and then exits
+```
+GCSE questions
 
 
 Maynard and Furlong - development
@@ -300,3 +437,7 @@ Other?
     * A youthful perception of school is not always accurate (even adults remembering)
     * Don't jump to conclusions about rules being setup
     * schools (and their employees) are the baddies
+
+
+
+https://twitter.com/RexChapman/status/1566258979004727299
