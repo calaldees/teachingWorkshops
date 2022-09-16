@@ -50,6 +50,7 @@ Readings
 5. How do children learn?
     * NCCE [Quick Read: Using PRIMM to structure programming lessons](https://blog.teachcomputing.org/using-primm-to-structure-programming-lessons/) 2020
     * [Developing a computer science-specific learning taxonomy](https://dl.acm.org/doi/10.1145/1345375.1345438) (Fuller 2007)
+    * NCCE [The importance of practical programming](https://blog.teachcomputing.org/the-importance-of-practical-programming/) white paper 2022
 6. How do you plan and assess for learning?
     * [COMPUTATIONAL THINKING TEST: DESIGN GUIDELINES AND CONTENT VALIDATION](http://dx.doi.org/10.13140/RG.2.1.4203.4329) 2015 Marcos Román-González
     * [Review of computer-based assessment for learning in elementary and secondary education](https://doi.org/10.1111/jcal.12172) Shute and Rahimi 2016
@@ -196,10 +197,9 @@ Tuesday 27th September
 
 * What is a Computing teacher?
     * Visit School
-    * 1.HighExp.Demo.1.culture_respect
-* Accessing and understanding research in Computing
 * Academic ethos, academic writing and academic research
 * Set SP assignment + deadlines
+* Set Microteach
 
 
 KSQ 4: What is education?
@@ -282,8 +282,8 @@ Friday 7th October - 09:00
 * Theory, research, science, psychology, constructivism, motivation
 ### SP5
 Friday 7th October - 11:00
-* Planning to aid learning in subject; making effective use of a lesson plan
 
+* Planning to aid learning in subject; making effective use of a lesson plan
 
 * General education theories
 * Prior knowledge, memory and recall; scaffolding learning
@@ -317,8 +317,9 @@ Friday 7th October - 16:30
 Friday 14th October
 
 * Effective pedagogical and theoretical approaches to subject learning and teaching - a variety of approaches, benefits and limitations
-
-* Introduction to PRIMM pedagogy
+* PRIMM pedagogy
+* Fuller Model and Taxonomies for Computing
+* Further reaching into Computing pedagogies
 
 
 
@@ -349,6 +350,7 @@ Friday 21st October - 11:00
 * The physical space of a Computer room
 * Teacher as a role model
     * self-regulate one’s emotions affects pupils’ ability to learn, success in school and future lives
+    * Computing is 98% failure
 * Pupils worldview and motivation
     * Intrinsic factors (related to their identity and values)
     * Considering 'Meaningful success' from pupils perspective
@@ -421,16 +423,14 @@ Friday 18th November - 11:00
 * AfL strategies and feedback to inform subject practice 
 * Learning v progress; what does subject learning look like?	
 
-
-
 * AfL strategies and feedback to inform Computing practice
     * feedback supporting pupils to monitor and regulate their own learning
 * Learning v progress; what does Computing learning look like?
 
 * Reducing assessment workload
     * High impact high quality feedback
+* Automated tests and fast feedback cycle
 * Bebras problems
-
 
 
 PGCE: End of _Collaborative teaching phase_ (CTP).
@@ -449,6 +449,8 @@ Friday 25th November
 * Formative assessment to inform planning and teaching in subject
 * Sequencing and structuring learning in subject
 
+(Organising Guest Speaker: Diversity)
+
 
 SPR1 Open Monday 28th November
 
@@ -462,7 +464,6 @@ Friday 25th November - 16:30
 Friday 2nd December
 
 * Subject misconceptions: a tool to aid learning. Links to prior knowledge, working and long-term memory and cognitive load.
-
 
 * Cooperative and collaborative Computing learning
 * Pair programming, code review, version-control
@@ -502,7 +503,7 @@ Friday 9th December - 09:00
 ### SP12
 Friday 9th December - 11:00
 * PPD1
-* Provision for students with SEND in subject
+* Provision for students with SEND in Computing
 * Ability v Capability 
 * AMA 
 
@@ -536,13 +537,7 @@ Monday 9th January - 14:00
 
 ### SP13 (PGCE Only)
 Friday 13th January - 09:00
-* Planning for inclusion - key strategies in subject
-* Integrating inclusivity 
-* Making use of data in subject
 
-
-
-* Ability v capability
 * Planning for inclusion - key strategies in Computing
 * Integrating inclusively
     * Understand pupils’ differences
@@ -560,8 +555,6 @@ SPR2 Out
 Friday 22nd February - 09:00
 * Planning to aid learning in subject
     * short to medium term, catering for all needs
-
-
 
 * Understanding primary education in Computing
     * Utilise strategies for primary teaching as a vehicle/inspiration to engage with a secondary pupils
@@ -591,14 +584,12 @@ ITP + Placement2 Starts Monday 6th March
 Friday 10th March - 09:00
 * Differentiation: inclusion v adaptation in subject linked to subject concept
 * TA collaboration
-
-
-
-
+* Cooperative and collaborative subject learning
+    * Paired and group activities
+        * to work together effectively pupils need guidance, support and practice
+        * care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation
 * AMA (Academically more able)
-* Paired and group activities
-    * to work together effectively pupils need guidance, support and practice
-    * care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation
+
 
 
 ### EP16
@@ -628,11 +619,9 @@ learning
 ### SP16
 Friday 17th March - 09:00
 * Student constructed subject learning; ‘Broad and balanced’ curriculum, not teaching to the test/exam; Literacy and numeracy in subject
-* Cooperative and collaborative subject learning
-
-
 
 * ‘Broad and balanced’ curriculum, not teaching to the test/exam
+    * Linking to other subject curriculums
 * Computing across the curriculum and your school
 * Giving computing context in the wider world/community
 
@@ -652,19 +641,11 @@ Friday 24th March - 11:00
 * First teaching position
 * Developing criticality, Tod and Ellis Step 2
 
-
-
-
-
-
 * Pastoral, Gender, LGBTQ, ethnicity and ‘culture’ – othering
 * Ofsted criteria for schools
     * revisiting the Education inspection framework in context of wider curriculum
 * Careers Guidance in the area of computing
 
-* Managing pressures and time constraints
-* Other theories of education
-* Developing criticality, Tod and Ellis Step 2
 
 PP Module Launch
 
@@ -701,17 +682,11 @@ Friday 31st Match
 
 ### SP18
 Friday 21th April - 09:00
-* SoW; Sequencing and progression in learning over time considering post KS;  Post –16 in subject  
-* AFL and ‘adapting teaching’
-* Curriculum and PCK - leading to level 4
-
-
 
 * SoW; Sequencing and progression in learning over time considering Post–16 in Computing
     * A-Level course structure
     * BTEC + Vocational qualifications
     * Differing technique's for older more advanced learners
-* AFL and ‘adapting teaching’
 * Curriculum and PCK - Subject Knowledge Audit leading to level 4
 
 
@@ -723,15 +698,13 @@ Thursday 31st April - 16:30
 
 ### SP19
 Friday 28th April - 09:00 
-* Risk taking and innovation in subject
-* Creativity and fun in learning subject;
-* Promoting pupil independence
-
-
 
 * Risk taking and innovation in Computing
+* Creativity and fun in learning Computing
 * Your professional role: Supporting colleagues in your institution with Computing
 * Promoting pupil independence
+* AFL and ‘adapting teaching’
+
 
 Last SD?
 
@@ -760,18 +733,12 @@ Evaluating impact on pupil learning, progress and development of professional id
 ### SP20 (PGCE)
 Friday 5th May
 * Professional practice and relationships, identifying my impact on pupil progress through reflection, evaluation and research. 
-* Meaningfully using [subject] data and Pupil Progress Bundles 
+* Meaningfully using [subject] data and Pupil Progress Bundles
 * What are the key questions for me? What is and what is not my impact? What innovative practice will I take with me to ECT year?
 * SPR targets - What are my next steps?
 
+* [Research Methods in Education](https://www.vlebooks.com/Product/Index/57882) Cohen, Louis 2007
 
-
-
-
-* Professional practice and relationships, identifying my impact on pupil progress through reflection, evaluation and research. Meaningfully using Computing data.
-* Pupil Progress Bundles
-
-Last session with School Direct
 
 ### EP22
 Thursday 5th May - 17:30

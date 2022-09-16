@@ -423,6 +423,9 @@ ITT CCF
 
 ### Mixed ability grouping
 
+* [Patterns, Determinants, and Consequences of Ability Tracking: Evidence from Texas Public Schools](https://www.edworkingpapers.com/ai22-638)
+    * > Schools often track students to classes based on ability.  .... we find positive effects on high-achieving students with no negative effects on low-achieving students, suggesting that tracking may increase inequality by raising the ceiling.
+
 * [Mixed-attainment teaching: Careful steps towards better outcomes](https://impact.chartered.college/article/ehrlich_mixed-attainment-teaching-outcomes/) May 2018 Impact- Chartered College of Teaching
     * > children working in groups with others working at the same level of attainment – has been found to have a number of negative impacts on pupils, yet teachers often cite it as necessary for differentiating and meeting targets (Francis et al., 2017)
     * > As I feared, switching to mixed-attainment groupings initially proved to be a nightmare. Higher attainers dominated, lower attainers withdrew, arguments arose and little work seemed to get done.

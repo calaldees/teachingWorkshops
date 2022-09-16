@@ -70,6 +70,8 @@ General Information and Pre Reading
     * Ofsted [Research review series: computing](https://www.gov.uk/government/publications/research-review-series-computing/research-review-series-computing) May 2022
     * [AQA GCSE Computing Specification](https://filestore.aqa.org.uk/resources/computing/specifications/AQA-8520-SP-2016.PDF)
     * [OCR: Computing Qualifications](https://www.ocr.org.uk/Images/268867-computing-qualifications-summary-brochure.pdf) Summary Brochure od types of qualifications
+    * [Handbook for Education Professionals: Bristol Guide](http://bristol.ac.uk/education/expertiseandresources/bristolguide/) £9
+        * Succinctly outlines education professionals’ duties, legal responsibilities, and rights.  This includes data protection, safeguarding and equality.
 * New Teacher _Dunk Tank_
     * [The New Teacher Mega Guide. Everything you need in 10 Videos](https://teacherofsci.com/new-teacher-mega-guide/)
     * [CAS: Computing in the national curriculum - A guide for secondary teachers](https://www.computingatschool.org.uk/data/uploads/cas_secondary.pdf)
@@ -79,8 +81,7 @@ General Information and Pre Reading
         * [lumenlearning.com/educationalpsychology](https://courses.lumenlearning.com/educationalpsychology/)
             * [Major theories and models of learning](https://courses.lumenlearning.com/educationalpsychology/chapter/major-theories-and-models-of-learning/)
 * eBooks
-    * [Handbook for Education Professionals](https://www.amazon.co.uk/Handbook-Education-Professionals-University-Bristol-ebook/dp/B07W7DGG5X/) £5 eBook
-        * [printed copy](http://bristol.ac.uk/education/expertiseandresources/bristolguide/) £9
+Summarises the curriculum, examination, and inspection system
     * [Teaching Tech Together: How to create and deliver lessons that work and build a teaching community around them](https://teachtogether.tech/) 2019 Greg Wilson
         * Outstanding Computing pedagogical advice
         * Free eBook or [paperback](https://www.routledge.com/Teaching-Tech-Together-How-to-Make-Your-Lessons-Work-and-Build-a-Teaching/Wilson/p/book/9780367352974)

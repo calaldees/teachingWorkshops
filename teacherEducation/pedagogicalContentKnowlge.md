@@ -72,7 +72,9 @@ This is going to be hard ...
 
 * [Self-reported technological pedagogical content knowledge (TPACK) of pre-service teachers in relation to digital technology use in lesson plans](https://www.sciencedirect.com/science/article/pii/S0747563220303332) Mirjam Schmid Eliana Brianza, Dominik Petko 2021
     * Technological Pedagogical Content Knowledge (TPACK; Koehler & Mishra, 2008; Mishra & Koehler, 2006) is probably the most prominent model of teacher expertise regarding the educational use of digital technologies
-        * [Technological Pedagogical Content Knowledge: A Framework for Teacher Knowledge](https://d1wqtxts1xzle7.cloudfront.net/38568379/mishra_koehler_2006-with-cover-page-v2.pdf?Expires=1632810628&Signature=UHvKBN~VKVKNxBafpcHenWUAzCPpBvgtK0sdz5wjzufxdZODdJDVrJt1jko5zV5sWjUsEbla6FfAf6g~ErS4nPs~H~NfA2klC~Z~Yqwt5FHlOrsRInWBHDnNAH9RWN8JCs-UEMHwX6~WvX8LVVBxlcH~izmK5vD-6LxD5tcAXXCPfUmGsM5rRulaMTem0Uj2YG86oA7L423acSoLZvSj3kQb5dakSKl3nzgZEDfUWivRL-EbM-Tg8tZqQO85ccsowS-Hm3oVny7eLln~IJDvr9E00eVhR~3PalvwjHbHZDwUIx1zUch3sdxO4FN2yY4AGEUicbGOc9vQAge~dtK3qw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) Matthew J Koehler 2008
+        * [What Is Technological Pedagogical Content Knowledge (TPACK)?](https://punyamishra.com/wp-content/uploads/2014/01/BUJoE.V193.3.Koehler.Mishra.Cain_.pdf) Mishra & Koehler 2013
+            * from Koehler 2008
+        * [Meaningful Professional Development SOlutions with TPACK and SWIMGrid](https://www.beyondk12.com/wp-content/uploads/2020/10/eBook-Future-Proofing-Teachers-With-TPACK-and-SWIMGrid-V3.pdf) Malia Hoffman 2020
     * Knowledge framework proposed by Shulman (1986, 1987), teachers need to combine different knowledge dimensions to effectively teach with technology. These include the three core components of 
         * pedagogical knowledge (PK)
         * content knowledge (CK)
@@ -148,7 +150,7 @@ How do we develop PCK?
 TASK: Look at ks3 computing books. In pairs select a topic. Ask yourself the questions
 1. What is being taught (surface)
 2. How is it being taught
-3. Why is it being taught like that
+3. Why is it being taught like that (THE GOLDEN QUESTION!)
 
 Key point
 > Lesson resources are missing _pedagogical metadata_

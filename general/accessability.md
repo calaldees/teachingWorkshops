@@ -35,6 +35,7 @@ Fonts
 
 * [Lexend](https://www.lexend.com/)
     * [github](https://github.com/ThomasJockin/lexend)
+* [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
 
 
 Speak to Text

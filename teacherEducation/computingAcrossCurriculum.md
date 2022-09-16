@@ -4,6 +4,7 @@ Computing Across the Curriculum
 TODO:
 * [Why a decade of knowledge-rich curriculum has not served pupils as promised](https://www.tes.com/magazine/analysis/general/why-decade-knowledge-rich-curriculum-has-not-served-pupils-promised)
 * [Chapter 9?](https://www.shuchigrover.com/atozk12cs/table-of-contents/)
+* [KS3 THE EPISTEMIC INSIGHT FRAMEWORK CCCU](http://www.epistemicinsight.com/wp-content/uploads/2017/06/epistemic-insight-for-KS3-July19.pdf)
 
 Objectives
 ----------

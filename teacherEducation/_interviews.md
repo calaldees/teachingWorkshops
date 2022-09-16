@@ -113,7 +113,7 @@ General Teaching (10 min)
 * What would you do if you were concerned about a colleague's behaviour towards children?
     * e.g. overhearing language used when dismissing a class
 * You have prepared an amazing lesson with guidance from theory and the university. You present the lesson plan to your mentor who is no convinced and does not want you to run the lesson. How do you respond?
-* In a GCSE class, you have 2 very slow students with special needs. They are never interested or engaged with computing. You have 28 other students that need your attention. Are those two important?
+* In a GCSE class, you have 2 very slow students with special needs. They are never interested or engaged with computing. You have 28 other students that need your attention. How do you split your time?
 * Extra
     * What will make you a good teacher?
     * What are the hallmarks of a good lesson?

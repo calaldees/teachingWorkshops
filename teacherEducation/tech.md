@@ -147,6 +147,7 @@ Manifest your code in the real world!
 
 * Barcode scanners
     * Checkout project demo?
+    * [The Barcode Pony, or: How To Actually Scan A Zebra](https://www.youtube.com/watch?v=3VcgW_AdDPw) YouTube 3h
 * Thermal receipt printers
 * Thermal camera
 * USB microscope

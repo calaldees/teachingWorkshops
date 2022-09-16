@@ -1,6 +1,8 @@
 How do you learn to teach
 =========================
 
+Targets: talk through - (already done in induction, double )
+
 TODO
 * [EEF: Cognitive science approaches in the classroom](https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/cognitive-science-approaches-in-the-classroom) - Report summarising the evidence for cognitive science approaches in school settings
 
@@ -77,8 +79,11 @@ Describe verbally to group
 > No one get's into coding for the loops and if statements, they do it for the superpowers it gives them.
 <sub>Amjad Masda</sub>
 
+https://docs.replit.com/teaching-curriculum/intro-python
+https://www.tes.com/teaching-resource/introduction-to-python-fully-resourced-sow-12392327
 https://replit.com/curriculum/Intro-to-Python
 https://replit.com/curriculum/Intermediate-Python
+https://replit.com/@MrAColley
 
 * Hobbist
     * Motivated
@@ -205,8 +210,21 @@ write python code to:
 - the program responds with "hello NAME"
 - the program does this 3 times and then exits
 ```
-GCSE questions
+GCSE questions 80% (that's a level 9)
 
+```
+write a story about two bears playing hide and seek
+
+how many bits in a bite?
+
+write a python program that can ask the user for a whole number and convert it to binary
+
+write a python function that
+  - takes a list of possible valid input values
+  - the user is asked for one of the possible valid values
+  - if the value acquired from the user is not one of the valid values, it asks for the user input again
+  - if the value is one of the valid values, return that value
+```
 
 Maynard and Furlong - development
 -------------------

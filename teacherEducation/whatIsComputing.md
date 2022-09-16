@@ -2,6 +2,33 @@ What is Computing
 =================
 
 
+* NCCE [Programming and algorithms within the computing curriculum](https://blog.teachcomputing.org/programming-and-algorithms-within-the-computing-curriculum/) 2022 - Progression model from KS1 to KS5
+
+* NCCE [Promoting effective computing pedagogy](https://teachcomputing.org/pedagogy/)
+    * Lead with concepts
+        * Vocabulary, Key terms, concept maps
+    * Word together
+        * Pair program, peer instruction
+    * Get hands on
+        * Physical computing
+    * Unplug, unpack, repack
+    * Model everything
+        * Live coding, debugging
+    * Foster program comprehension
+        * Code tracing
+    * Create projects
+        * Project based learning
+    * Add variety
+        * Different forms of assessment (presentations, free text questions, portfolios)
+    * Challenge misconceptions
+    * Make concrete
+        * Real world examples, culturally relevant
+    * Structure lessons
+        * PRIMM
+    * Read and explore code first
+        * Code tracing, PRIMM
+
+
 Computer Science as a field/discipline
 --------------------------------------
 

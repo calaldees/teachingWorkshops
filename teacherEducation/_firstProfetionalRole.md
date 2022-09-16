@@ -6,27 +6,14 @@ Supplemental discussion session
 
 Welcome!
 * I'm Allan (Subject Tutor for Computing)
-* Joined by my colleague Nick (Subject Tutor for MFL)
 
 * Housekeeping
     * Session Notes (Paste link into chat)
-        * [_firstProfetionalRole.md](https://github.com/calaldees/teachingWorkshops/blob/master/teacherTraining/_firstProfetionalRole.md#learning-to-teach---in-your-first-professional-role)
+        * [_firstProfetionalRole.md](https://github.com/calaldees/teachingWorkshops/blob/master/teacherEducation/_firstProfetionalRole.md)
         * This is provided for accessibility if needed.
         * These notes contain _answers_ and _spoilers_. It is a reference for later.
-    * Professional use of _chat_
-        *  _chat_ as a tool to to aid engagement
-        * This is not a social twitch stream
-        * Avoid unneeded distractors (we don't need rotfl pogchamps)
-    * Recording (start now)
 
-Setting the scene
------------------
-
-I have heard the phrase:
-> Teachers are pillars of our society
-
-You are *role models for our society's future*
-... that's a fairly significant responsibility
+![QRCode to these notes](https://api.qr-code-generator.com/v1/create?access-token=aSoFzoi2JntHsa6s6NoQAD2TEnJla-wqu_YlrN3797mHEJdb9SgKisaeKBQ4HOOZ&qr_code_text=https://github.com/calaldees/teachingWorkshops/blob/master/teacherEducation/_firstProfetionalRole.md)
 
 
 Learning Objectives
@@ -42,10 +29,9 @@ Times
 * Your changing role in society (15min)
 * Business Process (15min)
 * Formal communication (10min)
-* My stories highlighting the above (20min)
+* My stories highlighting some of above (20min)
 
-Look out for the 10 revelation, mind blown bombshells!
-If you think it's a valid point - hit the 'like/reaction' (demo)
+Look out for the 10 mind blown bombshells!
 
 
 Personal and Professional Identity
@@ -58,8 +44,11 @@ Personal and Professional Identity
     * This is one of the biggest transitions in your life!
 
 * Bombshell 2
-    * Get out of the mindset of being "a student at uni". You are NOT a _student_, you are a professional in training.
+    * You're not a student any more - you need to abide by a new set of professional rules
+        * Get out of the mindset of being "a student at uni". You are NOT a _student_, you are a professional in training.
         * Some young student teachers struggle with being close in age but having a full professional role
+        * [Handbook for Education Professionals: Bristol Guide](http://bristol.ac.uk/education/expertiseandresources/bristolguide/) £9
+            * Succinctly outlines education professionals’ duties, legal responsibilities, and rights.  This includes data protection, safeguarding and equality.
 
 My commentary
 > I wanted to do a meaningful job. 
@@ -74,8 +63,9 @@ Where do you feel you stand on this?
 POLL: With the burden of being a _professional_ do you think you will:
 1. Have to hide/conceal your true self
 2. Fear that you will have to change into a different person
-3. Exited that you will change into a different person
-4. Don't know
+3. Not change at all
+4. Exited that you will change into a different person
+5. Don't know
 
 My conclusion
 > Spoiler alert:
@@ -89,7 +79,7 @@ My conclusion
 At the moment you have a strong _personal identity_. In time you will develop a _professional identity_
 
 > A strong sense of teacher _professional identity_ is linked to the retention of teachers within the profession 
-> <sub>Jim Zimmer - Dean, Facalty of Teaching and Learning</sub>
+<sub>Jim Zimmer - Dean, Faculty of Teaching and Learning- Mount Royal University, Canada</sub>
 
 
 Anecdotal Story: Asked a friend asked at a family christmas meal "I'm 18, but I don't feel like an an adult. When will I know I'm an adult?"
@@ -100,6 +90,7 @@ Basics
 ------
 
 (repeat of earlier sessions, but I can't stress this enough!)
+(this is just dictation/direction/instructions)
 
 * Be punctual and reliable
     * "Sorry I'm late" is not acceptable now that you have a duty of care over 30 young people
@@ -108,8 +99,10 @@ Basics
 * Be proactive
     * Don't expect somebody else to fix your problems automatically
     * Be a _net positive_ to your organisation
-* Keep your phone off!!! (SERIOUSLY!!!)
+* Keep your phone off in school!!! (SERIOUSLY!!!)
     * Focus on your role (There is little _downtime_ in schools)
+* Don't use headphones on site
+    * This alienates you from staff and is a confusing role model to students
 * Do not discuss politics or religion at your place of work
     * This will likely alienate people. It is not relevant to your role.
 * Be mindful of gossip and boundaries
@@ -119,11 +112,11 @@ Friends?
 --------
 
 * Bombshell 4
-    * Your colleagues do not need to be your friends
+    * Your colleagues do not need to be your _friends_
         * You can respect them as professionals effectively and interact with them but still not _like_ them
         * How much _you like them_ is not an indicator of their professional worth
         * Don't expect them to be _your mates_
-    * Your students do not need to be your friends
+    * Your students do not need to be your _friends_
         * They don't have to like you. They HAVE to respect you.
             * "Why do you want a bunch of 13 year-old friends?"
         * Your role is to support ALL students in making progress (however nice or horrible they are. Take your bias out)
@@ -132,8 +125,8 @@ Friends?
 Courageous Leadership
 ---------------------
 
-TASK: Word Vomit Whiteboard
-* What words would you use to describe 
+TASK: Word Vomit Whiteboard? Meti Meter
+* What words would you use to describe
     * the professionals that you have admired
     * the kind of professionals that you want to become
 
@@ -156,6 +149,7 @@ TASK: Word Vomit Whiteboard
         * Heart surgeon calming explaining the breach and asking for the next tool
 * Be mindful of cyclic negativity. Don't _whinge_
     * Identify problems - collate/suggest solutions - take action points
+    * Be part of the solution - not the problem
 * Identify the *spirit* of conversations/actions
     * Are you colleagues being offensive? or are they expressing frustration?
 
@@ -165,8 +159,8 @@ Business Process
 
 ### Why do we need Process/Rules/Systems?
 
-TASK: Why do we have rules. Why do they exist?
-Answers in the chat - (If we have a small enough group breakout groups?)
+TASK: Why do we have rules? Why do they exist?
+Think - Pair - Share
 
 ---
 
@@ -179,14 +173,14 @@ Answers in the chat - (If we have a small enough group breakout groups?)
 
 
 TASK: Why do organisations have _process's_
-Answers in the chat - (If we have a small enough group breakout groups?)
+Think - Pair - Share
+
 * e.g. 
     * Why do we have chain's of command?
     * Why do we have lists of steps to perform for some of our tasks?
     * Why do we have an absence process?
     * What incidents should you report? and to who?
         * Accidents? behaviour?
-    * Why do we train people to sit at a computer?
     * Why is their a process for handling peoples names, address genders?
 
 
@@ -196,7 +190,7 @@ Answers in the chat - (If we have a small enough group breakout groups?)
     * (Imagine a world where an organisation was continuously using bad practice and each time this is unveiled an individual is just fired and the organisation continue making the same mistake)
 
 * Bombshell 6
-    * Organisations could metaphorically be described as living breathing things
+    * Organisations run on process specifications (not people)
 * Bombshell 7
     * Rules and Process make things better
 
@@ -210,17 +204,13 @@ There are established
 * Codes of conduct
     * What standards are you required to hold?
 
-### Example of a high level process
-
-[Bianca Williams: Sprinter says 'I've never had to experience anything like this'](https://www.bbc.co.uk/sport/athletics/53305712)
-> Officers from the Directorate of Professional Standards have reviewed both footage from social media, and the body-worn video of the officers, and are satisfied that there is no concern around the officers' conduct.
-(But that did'nt stick
-[Bianca Williams stop-and-search: Met PCs face probe](https://www.bbc.co.uk/news/uk-england-london-54466254))
+* TODO [placement policy]()
 
 * Bombshell 8
-* When you tackle _issues_, you should consider if issue is with the _process_ or the issue is with the _individual_.
-    * When we fail, we fail as a team - When we fail, we fail as an organisation.
-    * In the majority of cases altering the process is the best course of action.
+* Separate _process_ from _individuals_
+    * When you encounter problems, you should consider if issue/problem is with the _process_ or the issue/problem is with the _individual_
+    * When we fail, we fail as a team - When we fail, we fail as an organisation
+    * In the majority of cases altering the process is the best course of action
 
 
 ### Business Comms/Handbooks/Training
@@ -240,18 +230,20 @@ There are established
 
 ### Summary of national process's for schools
 
-* Handbook for Educational Professionals: The Bristol Guide 2020/21
-    * [Printed](https://bristoluniversitypress.co.uk/handbook-for-education-bristol-guide-2021-2022) £6.50
-    * [Amazon Kindle](https://www.amazon.co.uk/Handbook-Education-Bristol-Guide-2021-2022-ebook/dp/B09BNMR129/) £5
+* e.g:
+    * When/how is appropriate to search a student?
+    * Is the school responsible for bullying outside the school premises?
+* [Handbook for Education Professionals: Bristol Guide](http://bristol.ac.uk/education/expertiseandresources/bristolguide/) £9
+    * Succinctly outlines education professionals’ duties, legal responsibilities, and rights.  This includes data protection, safeguarding and equality.
 
-* When/how is appropriate to search a student?
-* Is the school responsible for bullying outside the school premises?
 
 ### Problems with business process?
 
 If you feel the business process has treated you unfairly and you need further advice. This is what a union is for. Join one!
 
 * [Teacher Unions](https://en.wikipedia.org/wiki/Teachers%27_trade_unions_in_the_United_Kingdom)
+
+> The best insurance policy you can buy!
 
 ACTION POINT: After this talk read up on what the unions stand for.
 * Research your unions principles.
@@ -265,7 +257,7 @@ Written Communication - Use _Plain English_
 *Everyone* should read this.
 It will take time to master.
 
-* [How to write in plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html)
+* [How to write in plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html) - Plain English Campaign
     * Keep your sentences short
     * Use 'you' and 'we'
     * Use words that are appropriate for the reader
@@ -319,17 +311,18 @@ Tips:
 Bombshell Summary
 -----------------
 
-1. One of the biggest transitions of your life
-2. Wakeup call - You're not a student any more
-3. You can still be a professional and still be yourself
-4. You don't have to be friends with your colleagues
-5. You have a duty of care for your colleagues as much as you students
+1. One of the biggest transitions of your life - you are "contributing back" for the first time
+2. You're not a student any more - you need to abide by a new set of professional rules
+3. You can still be a professional and still be yourse lf
+4. You don't have to be _friends_ with your colleagues
+5. You have a duty of care for your colleagues just as much as you students
+6. Organisations run on process specifications (not people)
 7. Rules and Process make things better
-8. When we fail, we fail together
+8. Separate _process_ from _individuals_
 9. You probably need to upskill in your ability to write _Plain English_
 10. Consider every single email _public domain_
 
-TASK: In the chat, put the number(s) of the items that resonated most with you.
+TASK: Rank these
 
 
 My Stories
@@ -429,4 +422,32 @@ e.g. In my domain of software engineering the senior developers used phrases lik
 * Watch out, this is an _Anti-pattern_
 * We need to segment then _Problem space_
 * Remove the intermediary (...variable)
+
+
+
+---
+
+
+    * Professional use of _chat_
+        *  _chat_ as a tool to to aid engagement
+        * This is not a social twitch stream
+        * Avoid unneeded distractors (we don't need rotfl pogchamps)
+    * Recording (start now)
+
+Setting the scene
+-----------------
+
+I have heard the phrase:
+> Teachers are pillars of our society
+
+You are *role models for our society's future*
+... that's a fairly significant responsibility
+
+
+
+[Bianca Williams: Sprinter says 'I've never had to experience anything like this'](https://www.bbc.co.uk/sport/athletics/53305712)
+> Officers from the Directorate of Professional Standards have reviewed both footage from social media, and the body-worn video of the officers, and are satisfied that there is no concern around the officers' conduct.
+(But that did'nt stick
+[Bianca Williams stop-and-search: Met PCs face probe](https://www.bbc.co.uk/news/uk-england-london-54466254))
+
 
