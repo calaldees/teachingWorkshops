@@ -166,3 +166,8 @@ They appear correlated
 * [Layover or nonstop? UCLA Health research says unique pattern of connectivity lets highly creative people’s brains take road less traveled to their destination](https://www.uclahealth.org/news/CreativeBrain2022)
     * "Big C"
     * > highly creative people’s brains appear to work differently from others', with an atypical approach that makes distant connections more quickly by bypassing the “hubs” seen in non-creative brains. 
+
+
+
+* [Creativity requires solitude](https://dkb.show/post/creativity-requires-solitude)
+    * todo

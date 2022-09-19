@@ -223,3 +223,4 @@
     * Some things have got more affordable - others are more expensive
     * > you actually have to ask for your competitors’ permissions before you can open anything, from a hospital to an ice cream shop. We’ve never had so few rights over our own property
     * > We need to re-create the environment of permissionless innovation that enabled the rise of the modern world, and without which no progress is possible
+

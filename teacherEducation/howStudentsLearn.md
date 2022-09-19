@@ -387,7 +387,7 @@ Knowledge Organisers and Mind Maps
 * [Improved Results & Workload with Knowledge Organisers](https://blog.teamsatchel.com/case-study-improving-results-and-reducing-workloads-with-knowledge-organisers-and-quizzes)
     * > “My students just keep forgetting everything - even though I’ve taught it to them over and over again!”
     * > Knowledge Organisers are an increasingly popular teaching method in schools and simply involve distilling the key information for a term’s teaching, or a topic, onto 1 side of A4 – similar to a graphic organiser.
-      > This Knowledge Organiser is given to students as homework on Show My Homework with instructions for students and parents on how the students can test themselves, and how the parents can test their children, to memorise as much of the key information as possible.
+      > This Knowledge Organiser is given to students as #homework on Show My Homework with instructions for students and parents on how the students can test themselves, and how the parents can test their children, to memorise as much of the key information as possible.
 * [Are knowledge organisers flawed?](https://learningspy.co.uk/psychology/are-knowledge-organisers-flawed/) David Daidu
     * > most schools don’t have self-quizzing cultures built in. Students don’t use them effectively and just copy words across blindly without self-quizzing.
       > Worse than that, the KO’s are just stuck into students’ books (or reside at the bottom of their bags) and are never looked at again. 

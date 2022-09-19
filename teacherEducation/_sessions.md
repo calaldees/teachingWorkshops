@@ -1,14 +1,6 @@
 Sessions
 ========
 
-| Course | Term1 | Term2 | Xmas | Term3 | Term4 | Easter | Term5 | Term6 |
-|--------|-------|-------|------|-------|-------|--------|-------|-------|
-| PGCE   | P1    | P1    |      | P1    | P2    |        | P2    | P2    |
-| SD     | P1    | P1    |      | C2    | P1    |        | P1    | P1    |
-| PGCE Coursework | SP1 | SP1+2 | SP2 | REE | REE | REE + PP | PP | PP |
-
-PGCE: 20 Session (6 hours) = 120 hours
-SD: 14 Sessions 70% = 84 hours
 
 Readings
 --------
@@ -42,6 +34,7 @@ Readings
     * [Hello World — Issue 0](https://helloworld.raspberrypi.org/issues/0) - The Big Book of Computing Pedagogy 2021
     * [Computing in the curriculum: Challenges and strategies from a teacher's perspective](https://link.springer.com/article/10.1007/s10639-016-9482-0) - Sue Sentence - April 2016 - King’s College London UK
     * [Teaching and Learning Computer Science](https://textbooks.cs.ksu.edu/tlcs/) - Kansas State University’s Teacher Training Program CC4.0
+    * [Pedagogy by proxy: developing computing PCK through shared lesson resources](https://sure.sunderland.ac.uk/id/eprint/13728/) Hidson, Elizabeth (2021)
 3. What is a teacher?
 4. What is education
     * [Rotten STEM: How Technology Corrupts Education](https://americanaffairsjournal.org/2019/08/rotten-stem-how-technology-corrupts-education/) 2019 Jared Woodard
@@ -199,7 +192,7 @@ Tuesday 27th September
     * Visit School
 * Academic ethos, academic writing and academic research
 * Set SP assignment + deadlines
-* Set Microteach
+* Set Microteach for SP4
 
 
 KSQ 4: What is education?
@@ -233,12 +226,12 @@ Friday 30th September - 11:00
 * Literacy in Computing and technical language
     * vocabulary to facilitate thinking about Computing
 * Planning a lesson
-    * #1-HighExp-Learn-1-set_stretch
-    * #1-HighExp-Learn-3-Positive_mistakes_effort_daily
+    * #1-HighExp-Learn-how-1-set_stretch
+    * #1-HighExp-Learn-how-3-positive_mistakes_effort_daily
 
 PGCE: Begin _Collaborative teaching phase_ (CTP). (in school from Monday)
 * Set information gathering tasks for SP4 (scheme-of-work/curriculum)
-    * #1-HighExp-Learn-2-consistent_language
+    * #1-HighExp-Learn-how-2-consistent_language
 
 ### EP1 - 16:30
 Friday 30th September - 16:30

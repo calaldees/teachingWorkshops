@@ -7,16 +7,16 @@ Mechanical overview. Sorry, this is very one-way and will not be overly interact
 ### Course Handbook and Curriculum Handbook
 
 * [BlackBoard - https://learn.canterbury.ac.uk/](https://learn.canterbury.ac.uk/)
-    * [2021-22 Secondary Student Teachers' Blackboard (P1054) A21P1054](https://learn.canterbury.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_3148947_1&course_id=_17992_1)
-    * [2021-22 (S1) Subject Pedagogy (U13460) A21U13460S1 / Learning Resources / Computer Science](https://learn.canterbury.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_3144223_1&course_id=_17983_1)
-        * [PGCE_Secondary_Course_Handbook_2021_22.pdf](https://padlet-uploads.storage.googleapis.com/318269245/2b4d302640ce01aaa24e43b53134bf89/PGCE_Secondary_Course_Handbook_2021_22.pdf)
-        * [Subject Curriculum Guidance 2021 Computing.docx](https://learn.canterbury.ac.uk/bbcswebdav/pid-3195780-dt-content-rid-4560474_1/xid-4560474_1)
+    * [Secondary Student Teachers](https://learn.canterbury.ac.uk/ultra/courses/_20592_1/outline)
+        * Course Handbook
+    * [Subject Pedagogy](https://learn.canterbury.ac.uk/ultra/courses/_21030_1/outline)
+        * Computing Curriculum Guidance 2022
 
 
 ### Assessment
 
 * Teaching Portfolio (digital)
-    * A Single repository to reference/archive
+    * A Single repository to reference/archive - ePortfolio
         * Available on request to external examiner
     * Mentor Meeting notes
         * Evidence for every week
@@ -26,22 +26,13 @@ Mechanical overview. Sorry, this is very one-way and will not be overly interact
             * Lesson observation
             * Lesson Evaluation
         * 20(?) are required (one a week from DTP?)
-    * 3 _Bundles_
+    * _Bundles_ (2 for PGCE) (3 for SD)
         * Covering two key stages (year 9 doing gcse DO NOT COUNT)
         * Lesson packs
         * Examples of pupil work
         * Reflections
     * Subject Knowledge Tracker and evidence of progress (more about this later)
-* 2 Academic Assignments
-    * SP1
-        * Literature Review
-    * SP2
-        * Reflection Presentation (at Master level)
-* 1 Academic Professional presentation
-    * of one of your _Bundles_
-* RE&E Module
-    * Active research
-    * [REE 2021-2022](https://sites.google.com/view/ree-options-2021/home)
+
 
 ### Course Requirements
 
@@ -51,12 +42,56 @@ Mechanical overview. Sorry, this is very one-way and will not be overly interact
 * With 120 Days teaching
 
 
-### Academic Marks
+### Programme Structure
 
-* _PGCE_ and _pgce_
-* Masters Level 50%+
-* Level 6 (degree level) 40%
-* 2/3 modules must be Masters level
+P1 = Placement 1
+P2 = Placement 2
+CTP = Collaborative Teaching Phase
+DTP = Developing Teaching Phase
+ITP = Independent Teaching Phase
+
+| Course | Term1 | Term2 | Xmas | Term3 | Term4 | Easter | Term5 | Term6 |
+|--------|-------|-------|------|-------|-------|--------|-------|-------|
+| SD     | P1    | P1    |      | P2    | P1    |        | P1    | P1    |
+| PGCE   | P1    | P1    |      | P1    | P2    |        | P2    | P2    |
+| PGCE Coursework | SP1 | SP1 + SP2 | SP2 | REE  | REE | REE + PP | PP | PP |
+| Phase | CTP   | CPT + DTP|DTP| DTP   | ITP   |  ITP   | ITP   | ITP   |
+
+PGCE: 20 Session (6 hours per session) = 120 hours
+SD: 14 Sessions = 84 hours
+
+SD == 70% of Session time
+
+* PGCE: I write your reference
+    * (You probably want a school mentor as a second?)
+* SD: Your school writes your reference
+
+
+### CTP, DTP, ITP
+
+1.) Collaborative Teaching Phase
+2.) Developing Teaching Phrase
+3.) Independent Teaching Phrase
+
+Placement 1: CTP + DTP
+Placement 2: ITP
+
+
+
+
+### Who struggles with this course
+
+* Misaligned expectations
+    * Masters Level - Not 'tips for teaching'
+* Social Awareness/integration
+    * Part2 of Teachers Standards'
+* Renegotiate identity
+* Previous Teaching Confidence
+    * If you've taught in other contexts/countries this will be different
+* Fear
+    * (Read Chaucer Letter)
+    * Be responsive to feedback
+    * I'm the one who has to engage with the difficult conversations - I'm "the threat" (please don't)
 
 
 ### Core Documents
@@ -74,22 +109,18 @@ Course handbook
 
 ### ePortfolio
 
-* OneDrive Folder
+* OneNote
 * Find the Portfolio Checklist
-* Create the folders for the segments
-* Name your root portfolio folder "QTS ePortfolio - NAME"
-    * I can't rename the folders when shared with me
-* Share with me
 
 
 ### Weekley Mentor Meeting
 
 * Put first weekley meeting sheet in ePortfolio
-    * With reflections for today
+    * With reflections from today
 
-Targets - join the dots
-with mentors - targets - lead by you!
-mentoring (term1) -> coaching (term2)
+* Targets - join the dots (last week -> this week -> next week)
+* lead by you! - discussed with mentors - SMART targets
+* mentoring (term1) -> coaching (term2)
 
 Session notes on weekley meetings - actions?
 * Discuss your weekley targets and reflections with peer at begining of each session (15min)
@@ -97,11 +128,10 @@ Session notes on weekley meetings - actions?
 
 
 
-
-
 ### Attendance - beep cards
-9:15 Late
-No card - nothing I can do
+* 9:15 Late
+* No card - nothing I can do
+* I will keep my own records
 
 ### Absence
 
@@ -110,38 +140,31 @@ No card - nothing I can do
 * missed session 500 words
     * reflective piece on key question
     * NOT a punishment
-    * Spreadsheets to fill in centrally?
     * NOT an alternative to attending sessions
 * missed session == not meet teaching standards
 
 
-
 ### Student rep
 
-We need to elect one in the next few weeks.
+We need to elect one in SP3 (next week).
 
 ### Action: Learning Support Plan (LSP) (if needed)
 
 * You need to request this through student support services - this is student activated
 * Any disability or mental health issue can be identified
 
-Temporary if needed
+Temporary if needed (TLSP)
+
+### Placement Support Plan (PLSP)
+
+Temporary
 
 ### Student Progress Reports - Review Points
 
 13th December
 You lead the assessment!
 
-### Thursday General Pedagogy (GP) and  Enriching Pedagogy (EP) Days
 
-### CTP, DTP, ITP
-
-1.) Collaborative Teaching Phase
-2.) Developing Teaching Phrase
-3.) Independent Teaching Phrase
-
-Placement 1: CTP + DTP
-Placement 2: ITP
 
 
 ### Extensions to Assignments
@@ -162,7 +185,7 @@ Placement 2: ITP
 ### The path to QTS
 
 * ITT Year (PGCE/SD)
-    * [core content framework](https://www.gov.uk/government/publications/initial-teacher-training-itt-core-content-framework)
+    * [Initial teacher training (ITT): core content framework](https://www.gov.uk/government/publications/initial-teacher-training-itt-core-content-framework)
 * ECF Year (Next year in school)
     * [early-career-framework](https://www.gov.uk/government/publications/early-career-framework)
     * early-career-framework [Core induction programme](https://www.early-career-framework.education.gov.uk/)
@@ -170,6 +193,18 @@ Placement 2: ITP
 ### Your choice of language
 
 * This shapes how you think about yourself and your relationship with others.
+
+TASK: Think, Pair, Share - 
+* Consider the terminology/language you will use to refer to 
+    1. The "the smaller humans that you teach"
+    2. Academic performance of a smaller human
+
+TASK: In your ePortfolio - make a reflection point to ...
+* Observe/Identify/Comment/reflect on the language that colleagues in school use
+* #1-HighExp-Learn-how-2-consistent_language
+
+(even at home and among friends)
+
 * Some thoughts
     * Children (<10?)
     * Kids?
@@ -177,6 +212,7 @@ Placement 2: ITP
     * "Low _ability_" !!!?!!
         * "Low attainment"
     * (Verbal) You _Just_, _Simply_ (Don't trivialise)
+    * Uneeded words: Um, So,
 * Action Point
     * Listen to the language the professionals use around you
     * Make notes on phrases you hear

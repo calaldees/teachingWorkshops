@@ -48,9 +48,8 @@ Introductions
 My background
 * 7 years teaching ICT and Computing in secondary schools - Practical battle experience
 * 10 years as a senior developer in central London across a range of domains
-* (2 years sessions) + 1 year formally as Lecturer in Education. (You are my 4th cohort)
-* My weakness is _cutting edge research_ and _teaching theory_
-    * I will constantly upskilling this for the rest of my career
+* (2 years sessions) + 2 year formally as Lecturer in Education. (You are my 5th cohort)
+* I will be constantly upskilling this for the rest of my career
 
 I have my own ideas about how to teach computing
 * Multiple languages at once
@@ -67,12 +66,10 @@ TASK: 120 second summary
 * What are you exited about this year
 * What are you fearful about this year (we are all vulnerable)
 
-<sub>side-note: Computing teachers mindsets - tech workers? - be mindful - other subject practitioners can feel trapped in the profession</sub>
-
 The burden of learning to teach - the _expert beginner_
-Primary->Secondary->Uni->Carear1Employment1->Carear2Employment2->Retraining->Carear2Employment1
+Primary->Secondary->Uni->Career1Employment1->Career1Employment2->Retraining->Career2Employment1
 
-### Thumb-up-o-meter
+### Quick Thumb-up-o-meter
 
 * Multiple languages?
 * Version control?
@@ -81,9 +78,13 @@ Primary->Secondary->Uni->Carear1Employment1->Carear2Employment2->Retraining->Car
 
 #### You will outgrow my support
 
-Right now I might look to you like some super-human teaching deity. By the end of this course you will feel completely differently. I'm just some dude doing a job I like. By the end of this year you will have outgrown the support I can give you. At the celebration day at the end of the course we will just be a bunch of professionals sitting around and talking about education.
+* Right now I might look to you like some super-human teaching deity. 
+* By the end of this course you will feel completely differently. 
+* I'm just some dude doing a job like you. 
+* By the end of this year you will have outgrown the support I can give you. 
+* At the celebration day at the end of the course we will just be a bunch of professionals sitting around and talking about education.
 
-### Know Thyself (10min)
+### Know Thyself (15min)
 
 * [Know Thyself](https://teachtogether.tech/en/index.html#s:intro-exercises) Chapter 1 - Greg Wilson
     * What do you most want to teach?
@@ -96,21 +97,9 @@ Right now I might look to you like some super-human teaching deity. By the end o
 TASK: answer the questions above - save them safely - I will hear some of your points, but we are not going to debate them here - we will reflect on these at the end of the course
 
 
-Unused
-======
 
 
 
-### Who struggles with this course
-
-* Misalinged expextations
-* Social Awareness/integration
-    * Part2
-* Fear
-
-If you've taught in other contexts/countries this will be different
-
-Renegociate identity
 
 ### Strands
 
@@ -122,6 +111,7 @@ Renegociate identity
     * Catering for everybody (not just a subset of society)
 4. Subject Knowledge
     * Passion and Skill
+
 
 
 
@@ -149,7 +139,7 @@ READ: 5min
     * Short snippet about why teach Computing
 
 
-Why learn computing (10min)
+Why learn computing
 -------------------
 
 * [Why learn computing](https://teachtogether.tech/en/index.html#s:intro-exercises) Chapter 1 - Greg Wilson
@@ -157,6 +147,8 @@ Why learn computing (10min)
       > However, as Benjamin Doxtdator pointed out, many of those claims are built on shaky ground. 
       > Even if they were true, education shouldn’t prepare people for the jobs of the future: it should give them the power to decide what kinds of jobs there are and to ensure that those jobs are worth doing. And as Mark Guzdial points out, there are actually many reasons to learn how to program:
 
+Why Learn to Program? (individual/20)
+---------------------
 * To understand our world.
 * To study and understand processes.
 * To be able to ask questions about the influences on their lives.
