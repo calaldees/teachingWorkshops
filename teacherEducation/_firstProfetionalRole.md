@@ -39,7 +39,7 @@ Personal and Professional Identity
 
 * Bombshell 1
     * Transitioning from "being provided for" to "providing".
-    * YOUR ROLE IS SOCIETY IS ABOUT TO CHANGE!
+    * YOUR ROLE IN SOCIETY IS ABOUT TO CHANGE!
     * Have you thought about the impact of this ... 
     * This is one of the biggest transitions in your life!
 
@@ -52,7 +52,7 @@ Personal and Professional Identity
 
 My commentary
 > I wanted to do a meaningful job. 
-> When I started teaching; I had passion and energy, but it was wild passion and energy, I did not really have the skills or focus to back up what I wanted to do. 
+> When I started teaching, I had passion and energy, but it was wild passion and energy, I did not really have the skills or focus to back up what I wanted to do. 
 > I wanted to stand on desks and use humour in my lessons.
 > I felt conflict between my ideals as a teacher and the other staff. 
 > Could I do this profession? 
@@ -64,7 +64,7 @@ POLL: With the burden of being a _professional_ do you think you will:
 1. Have to hide/conceal your true self
 2. Fear that you will have to change into a different person
 3. Not change at all
-4. Exited that you will change into a different person
+4. Excited that you will change into a different person
 5. Don't know
 
 My conclusion
@@ -83,10 +83,6 @@ At the moment you have a strong _personal identity_. In time you will develop a 
 <sub>Jim Zimmer - Dean, Faculty of Teaching and Learning- Mount Royal University, Canada</sub>
 
 
-Anecdotal Story: Asked a friend asked at a family christmas meal "I'm 18, but I don't feel like an an adult. When will I know I'm an adult?"
-
-
-
 Basics
 ------
 
@@ -96,7 +92,7 @@ Basics
 * Be punctual and reliable
     * "Sorry I'm late" is not acceptable now that you have a duty of care over 30 young people
 * Dressed appropriately
-    * Own the right cloths
+    * Own the right clothes
     * Hair well kept
 * Keep your phone out of classrooms (SERIOUSLY!!!)
     * Focus on your role (There is little _downtime_ in schools)
@@ -137,8 +133,8 @@ TASK: Word Vomit Whiteboard? Meti Meter
 * You have a duty of care over your students.
 * I would like to extend that to.
 * Bombshell 5
-    * You have a duty of care over your team (this includes your colleges).
-    * Your have some element of control over your teams emotional state.
+    * You have a duty of care over your team (this includes your colleagues).
+    * Your have some element of control over your teams' emotional state.
 
 > Let's all choose to be the leaders we wish we had
 <sub>Simon Sinek</sub>
@@ -174,16 +170,16 @@ Think - Pair - Share
     * Across a large geographic area
 
 
-TASK: Why do organisations have _process's_
+TASK: Why do organisations have _processes_
 Think - Pair - Share
 
 * e.g. 
-    * Why do we have chain's of command?
+    * Why do we have chains of command?
     * Why do we have lists of steps to perform for some of our tasks?
     * Why do we have an absence process?
     * What incidents should you report? and to who?
         * Accidents? behaviour?
-    * Why is their a process for handling peoples names, address genders?
+    * Why is there a process for handling peoples names, address genders?
 
 
 
@@ -197,7 +193,7 @@ Think - Pair - Share
     * Rules and Process make things better
 
 There are established
-* Process's
+* Processes
     * When/how you can search a child? or confiscate their items?
     * What behaviour should you report, and to who?
 * Channels of communication
