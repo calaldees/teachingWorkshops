@@ -6,6 +6,7 @@ Pedagogical Content Knowledge
 * Introduction to Shulman’s SK and PCK theory – an example of theory used in educational research and practice
     * Identifying conceptions of SK and PCK and own development
 
+
 What is Computer Science Pedagogy
 ---------------------------------
 
@@ -13,7 +14,7 @@ https://teachcomputing.org/pedagogy
 
 * [Pedagogy in teaching Computer Science in schools: A Literature Review](https://royalsociety.org/~/media/policy/projects/computing-education/literature-review-pedagogy-in-teaching.pdf) 2017 Jane Waite QMUL + Kings College London
     * See Figure 1 pg 8 for map
-    * Breifly describe Unplugged and Physical (makeymakey.org?)
+    * Briefly describe Unplugged, Physical (makeymakey.org?), Pair programming
 * [Pedagogical content knowledge in computing education: a review of the research literature](https://www.tandfonline.com/doi/full/10.1080/08993408.2018.1509580) 2018 Aleata Hubbard
     * More about computing PCK - Good historical
     * > they remind us that PCK does not exist or operate in isolation by calling our attention to the influence of an individual’s beliefs and motivations
@@ -28,6 +29,17 @@ General Pedagogy
 
 
 * [What makes great pedagogy? Nine claims from research](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/329746/what-makes-great-pedagogy-nine-claims-from-research.pdf) 2012 - Chris Husbands and Jo Pearce - National College for School Leadership
+    * The research underpinning these claims is outlined in the article
+    1. Effective pedagogies give serious consideration to pupil voice.
+    2. Effective pedagogies depend on behaviour (what teachers do), knowledge and understanding (what teachers know) and beliefs (why teachers act as they do).
+    3. Effective pedagogies involve clear thinking about longer term learning outcomes as well as short-term goals.
+    4. Effective pedagogies build on pupils’ prior learning and experience.
+    5. Effective pedagogies involve scaffolding pupil learning.
+    6. Effective pedagogies involve a range of techniques, including whole-class and structured group work, guided learning and individual activity.
+    7. Effective pedagogies focus on developing higher order thinking and metacognition, and make good use of dialogue and questioning in order to do so.
+    8. Effective pedagogies embed assessment for learning.
+    9. Effective pedagogies are inclusive and take the diverse needs of a range of learners, as well as matters of student equity, into account. 
+    
 
 Magnusson et al. (1999)
 * knowledge of goals and objectives for teaching a specific topic in the curriculum, (GO)
@@ -41,12 +53,9 @@ combinations of PKC in the form GO-IS
     * pg 6
         1. PCK represents personal and private knowledge.
         2. PCK is a collection of basic units called teacher pedagogical constructions.
-        3. Teacher  pedagogical  constructions  result  mainly  from  planning,  but  also  from
-        the interactive and post-active phases of teaching.
-        4. Pedagogical constructions result from an inventive process that is influenced by
-        the interaction of knowledge and beliefs from different categories.
-        5. Pedagogical constructions constitute both a generalized event-based and a story-
-        based kind of memory.
+        3. Teacher pedagogical  constructions  result  mainly  from  planning,  but  also  from the interactive and post-active phases of teaching.
+        4. Pedagogical constructions result from an inventive process that is influenced by the interaction of knowledge and beliefs from different categories.
+        5. Pedagogical constructions constitute both a generalized event-based and a story-based kind of memory.
         6. Pedagogical constructions are topic specific.
         7. Pedagogical constructions are (or ideally should be) labelled in multiple interesting  ways  that  connect  them  to  other  categories  and  subcategories of teacher knowledge and beliefs.
     * Teacher pedagogical constructions develop through experience (pg 7 examples)

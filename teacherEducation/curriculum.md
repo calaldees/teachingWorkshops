@@ -71,7 +71,7 @@ The subjects have been chosen by government policy.
     * > Curriculum is broadly defined as the totality of student experiences that occur in the educational process.
     * > The term often refers specifically to a planned sequence of instruction, or to a view of the student's experiences in terms of the educator's or school's instructional goals
 
-The entire roadmap for state education.
+The entire roadmap for state education. THE National Curriculum
 
 * [Statutory guidance - National curriculum in England: framework for key stages 1 to 4](https://www.gov.uk/government/publications/national-curriculum-in-england-framework-for-key-stages-1-to-4/the-national-curriculum-in-england-framework-for-key-stages-1-to-4) 2014
     * Computing is a Foundation subject
@@ -97,7 +97,7 @@ National Curriculum - Computing (30min)
 
 TASK: Read it ... (5min) ... first impressions (5min)?
 
-* Computing at School [Computing in the national curriculum: A guide for secondary teachers](https://www.computingatschool.org.uk/data/uploads/cas_secondary.pdf) 2014
+
 * [Fulford School: What is Computing](https://fulford.york.sch.uk/computing/) P. Dring
     * 82% of all job vacancies require digital skills
     * Roles requiring digital skills pay 29% more than those that don’t
@@ -118,7 +118,11 @@ TASK: Look at the National Curriculum and categorise the points into the table b
 |-----------|-----|-----------------|
 | | | |
 
+<details>
+
 ANSWERS: As a group, Let's compare against CAS allocations - where are your misunderstandings?
+* Computing at School [Computing in the national curriculum: A guide for secondary teachers](https://www.computingatschool.org.uk/data/uploads/cas_secondary.pdf) 2014
+</details>
 
 
 ### Is the National Curriculum out of date? (10min)
@@ -168,6 +172,12 @@ Commentary
 WE WON!! WE GOT COMPUTING ON THE CURRICULUM!
 ... but you know where this goes ... you've done the pre-reading ... there is a backlash
 
+* BSC [The Roehampton annual computing education report](https://www.bcs.org/more/bcs-academy-of-computing/the-roehampton-annual-computing-education-report/) 2018
+    * Statistics on GCSE computing across the country
+    * Number are dropping
+    * Time allocated is dropping
+
+
 
 
 Friction with Society (30min)
@@ -182,7 +192,7 @@ Computing in the curriculum has been criticized for not being relevant for all s
 * [Coding the curriculum: new computer science GCSE fails to make the grade](https://theconversation.com/coding-the-curriculum-new-computer-science-gcse-fails-to-make-the-grade-79780) 2017
 * [Backlash against computing curriculum misses the point](https://theconversation.com/backlash-against-computing-curriculum-misses-the-point-22380) 2014
 * [Rotten STEM: How Technology Corrupts Education](https://americanaffairsjournal.org/2019/08/rotten-stem-how-technology-corrupts-education/) 2019 By Jared Woodard
-* [Internet use reduces study skills in university students](https://www.sciencedaily.com/releases/2020/01/200117085321.htm)
+* [Internet use reduces study skills in university students](https://www.sciencedaily.com/releases/2020/01/200117085321.htm) 2020
 
 DISCUSS:
 1. What are the points raised in these articles?
@@ -247,6 +257,7 @@ TODO:
             * > Computer science education needs to be inclusive, using imagery and metaphors from different cultures
         * [Engaging Black students in computing at UK schools — interview with Joe Arday](https://www.raspberrypi.org/blog/engaging-black-students-in-computing-uk-schools-joe-arday/)
 
+
 The attitude of the Teacher
 ---------------------------
 
@@ -305,10 +316,6 @@ Computing in the curriculum has been criticized for not being relevant for all s
 
 
 
-* BSC [The Roehampton annual computing education report](https://www.bcs.org/more/bcs-academy-of-computing/the-roehampton-annual-computing-education-report/) 2018
-    * Statistics on GCSE computing across the country
-    * Number are dropping
-    * Time allocated is dropping
 
 
 

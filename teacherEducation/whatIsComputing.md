@@ -1,13 +1,24 @@
 What is Computing
 =================
 
+* Reading time (30min)
+    * Computing in the curriculum has been criticized for not being relevant for all students
+    * We will draw upon these in our afternoon session (keep this room as a 'quiet reading space' over lunch)
+        * Make some notes to facilitate a discussion after lunch
+    * 5min [Backlash against computing curriculum misses the point](https://theconversation.com/backlash-against-computing-curriculum-misses-the-point-22380) 2014
+        * Should the computing curriculum mention _the internet_?
+    * 5min [Coding the curriculum: new computer science GCSE fails to make the grade](https://theconversation.com/coding-the-curriculum-new-computer-science-gcse-fails-to-make-the-grade-79780) 2017
+    * 3min [Internet use reduces study skills in university students](https://www.sciencedaily.com/releases/2020/01/200117085321.htm) Swansea University ScienceDaily 2020
+    * 20min+ [Rotten STEM: How Technology Corrupts Education](https://americanaffairsjournal.org/2019/08/rotten-stem-how-technology-corrupts-education/) 2019 Jared Woodard
+
+
 
 * NCCE [Programming and algorithms within the computing curriculum](https://blog.teachcomputing.org/programming-and-algorithms-within-the-computing-curriculum/) 2022 - Progression model from KS1 to KS5
 
 * NCCE [Promoting effective computing pedagogy](https://teachcomputing.org/pedagogy/)
     * Lead with concepts
         * Vocabulary, Key terms, concept maps
-    * Word together
+    * Work together
         * Pair program, peer instruction
     * Get hands on
         * Physical computing

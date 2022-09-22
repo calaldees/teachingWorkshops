@@ -34,7 +34,7 @@ TODO:
     * > The art of 'knowing why' ... the learning of the "what" will only go so far. 
 
 * AM?
-    * [pedagogicalContentKnowlge.md](./pedagogicalContentKnowlge.md)
+    * [pedagogicalContentKnowlge.md](pedagogicalContentKnowledge.md)
         * What is Computer Science specific pedagogy and how is it defined in subject research?
         * Differences between _subject knowledge_ and _subject pedagogy_
         * Introduction to Shulman’s SK and PCK theory – an example of theory used in educational research and practice

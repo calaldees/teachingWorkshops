@@ -5,6 +5,11 @@ Elect Rep
 
 KSQ 4: What is education?
 
+* What are the expectations/misconceptions teaching Computing?
+    * Preparing students for a future we are unsure of
+
+* [What is Computing](./whatIsComputing.md)? (1.5 hours)
+
 * Share your _weekley mentor sheet reflections_ with a partner (20min = 10min each)
     * What have we learnt so far?
     * What has been surprising important?

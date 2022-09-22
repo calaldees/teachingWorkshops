@@ -138,7 +138,7 @@ Thursday 22nd September
 ### SP1
 Friday 23rd September
 
-* Introductions 
+* Introductions
     * Course overview and expectations
     * Reflection, tooling and ways of working this year
     * Meta-pedagogy (not _tips for teaching_)

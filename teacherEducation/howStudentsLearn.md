@@ -1,6 +1,12 @@
 How Students Learn
 ==================
 
+TODO
+* [EEF: Cognitive science approaches in the classroom](https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/cognitive-science-approaches-in-the-classroom) - Report summarising the evidence for cognitive science approaches in school settings
+
+
+---
+
 * [A Theory of Applied Mind of Programming](https://dl.acm.org/doi/10.1145/3304221.3325596) 2019 ongoing PhD - Understanding the challenges in learning to program 
     * > Solving problems with computing is  complex  and  multidisciplinary
     * > Learning models typically focus on knowledge acquisition, but in programming knowledge must be applied to problem-solving.

@@ -103,17 +103,17 @@ https://replit.com/@MrAColley
     * Might not want to be there
 * from [Education Workshop: Using PRIMM to teach Programming with Andy Colley](https://youtu.be/H0t2eBXazF0?t=632) at 10min
 
-Because a consumer of digital servives does not make you a creator of digital services
+Because a consumer of digital services does not make you a creator of digital services
 
 
 Novices and experts
 `myAge = int(input("Please type in your age: "))`
-How many concepts are there here? High cognative load and this is one line .. and there are 5 or 6 concepts
+How many concepts are there here? High cognitive load and this is one line .. and there are 5 or 6 concepts
 (bigger example)
 Many tutorials start with this complex line
-1.) what is the problem (do we understand it)
-2.) what are the parts of the problem?
-3.) how to translate that into computer instructions/syntax (people seem to obcess about this!?)
+1. what is the problem (do we understand it)
+2. what are the parts of the problem?
+3. how to translate that into computer instructions/syntax (people seem to obsess about this!?)
 
 Highest number in the list (how to unpick it?)
 how do they actually solve this?
@@ -132,7 +132,7 @@ Misconceptions
 
 If they are learning - shut up! stop talking
 
-Advanced ones - cheat cheet - another langauge
+Advanced ones - cheat cheat - another language
 
 Teach the long way
 (dont use `in`) (dont use `input("this string is output!")`)

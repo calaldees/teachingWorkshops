@@ -423,11 +423,11 @@ Concept Transfer when Learning another Programming Language
 
 * [Understanding Conceptual Transfer for Students Learning New Programming Languages](https://dl.acm.org/doi/10.1145/3372782.3406270) Tshukudu & Cutts 2020
     * Concept categories
-        * CarryoverConcepts (CC)
+        * Carryover Concepts (CC)
             * While loop (pyhton + java pretty much the same)
         * False Carryover Concepts (FCC)
             * Array equality (python==value, java==reference)
-        * Abstract True CarryoverConcepts (ATCC)
+        * Abstract True Carryover Concepts (ATCC)
             * object aliasing (pyhton + java pretty much the same)
     * The problem zone is FCC - these need to be identified
 * [Semantic Transfer in Programming Languages: Exploratory Study of Relative Novices](https://dl.acm.org/doi/10.1145/3341525.3387406) Tshukudu & Cutts 2020
