@@ -75,6 +75,7 @@ My conclusion
 * Bombshell 3
     * Be 100% yourself, don't change who you are, but watch your terminology/language/conduct
     * You can be a professional *and* still be a badass
+    * (side note: consider your social media presence! pupils and parents will find your pubic visible accounts)
 
 At the moment you have a strong _personal identity_. In time you will develop a _professional identity_
 
