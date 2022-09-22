@@ -9,7 +9,7 @@ SP1
         * Why teach computing (5min)
         * Why learn computing? (15min)
         * Who are you teaching?
-    * [Course overview and expectations](./courseMechanics.md) (1 hours)
+    * [Course overview and expectations](./courseMechanics.md) (2 hours)
         * Reflection, tooling and ways of working this year
     * [Subject Knowledge Development](./subjectKnowledgeDevelopment.md) (45 min)
 * Reading time (30min)

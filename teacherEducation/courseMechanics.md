@@ -123,17 +123,17 @@ Course handbook
 * mentoring (term1) -> coaching (term2)
 
 Session notes on weekley meetings - actions?
-* Discuss your weekley targets and reflections with peer at begining of each session (15min)
+* Discuss your weekley targets and reflections with peer at beginning of each session (15min)
 * End of session - TODO's, Action points, Reflections (15min)
 
 
-
 ### Attendance - beep cards
+* I will start at 9:00
 * 9:15 Late
 * No card - nothing I can do
 * I will keep my own records
 
-### Absence
+### Absence From Subject Sessions
 
 * 5 days == Letter
 * 120 days in school
@@ -142,6 +142,13 @@ Session notes on weekley meetings - actions?
     * NOT a punishment
     * NOT an alternative to attending sessions
 * missed session == not meet teaching standards
+
+### Absence from School
+
+* inform ahead 
+    * Unless you have been incapacitated please communicate in advance
+* report formally after - Use the reporting form
+* Attending punctually is the expectation for someone who is training to "have the legal responsibility to supervise 30 young people at 8:40am each morning"
 
 
 ### Student rep
@@ -163,9 +170,6 @@ Temporary
 
 13th December
 You lead the assessment!
-
-
-
 
 ### Extensions to Assignments
 
@@ -245,26 +249,16 @@ See my Session on [_firstProfetionalRole.md](./_firstProfetionalRole.md)
 
 ### Transport to placements
 
+It is your responsibility to get to your placement school
+
 * Public transport (+ folding bike)?
 * Contact other students that are going to that school
     * TODO: Can CCCU assist by facilitating students contact at the same school?
 * On arrival at school: contact other staff from your area
-* Invest in transport Motorbike/Car
+* Invest in transport Motorbike/Car/FoldingBike
 * Worst case: Rent B&B or other accommodation during the week.
 
-<sub>sidenote: we have no schools accepting Computing placements in Canterbury. One possibility if the conduct of previous PGCE students. Your relationship with your school has a wider impact than just you.</sub>
-
-
-
-
-### Subject Sessions
-
-* Thursday Evening (online)
-    * EP/GP
-* Friday (on campus)
-    * Subject Pedagogy
-
-
+<sub>sidenote: we have no schools accepting Computing placements in Canterbury. One possible cause was conduct of previous PGCE students. Your relationship with your school has a wider impact than just you.</sub>
 
 
 ### My Role
@@ -287,14 +281,9 @@ See my Session on [_firstProfetionalRole.md](./_firstProfetionalRole.md)
 * Some of the things I do you may not _like_, but they are to help you be successful.
 
 
-* I will keep records of our interactions
-* Student Charter
-* support action plan
+* Targeted Support Action Plan
     * Professional communication (to me or between each other)
         * > 8.3 ... supporting and developing effective professional relationships with colleagues.
-    * Attendance (inform ahead and report formally after)
-        * Unless you have been incapacitated please communicate in advance
-        * Attending punctually is the expectation for someone who is training to "have the legal responsibility to supervise 30 young people at 8:45am each morning"
 
 * PGCE Mark final folder (or SD Final assessment panel) + Assignment (Not SD) + Reference (Not SD)
 
@@ -308,8 +297,9 @@ See my Session on [_firstProfetionalRole.md](./_firstProfetionalRole.md)
 
 * Previous years:
     *  The Computing groups were supportive to each other. They had a WhatsApp group and formed a great peer support network and are still friends today.
-* Last year:
-    * was a cataclysmic clash of characters that antagonised each other and there was friction with "Who kicked Who from the group". Group work in sessions was limited. 
+* Previous years:
+    * Was a cataclysmic clash of characters that antagonised each other and there was friction with "Who kicked Who from the group". 
+    * Group work in sessions was limited. 
     * This was a difficult year for everyone.
 * This year:
     * When you communicate with each other you communicate as professionals. Do not expect everyone to be _your friend_
@@ -318,8 +308,8 @@ See my Session on [_firstProfetionalRole.md](./_firstProfetionalRole.md)
 
 
 * To Jest and highlight the differences
-    * DOTA, Fortnight, I'm so Woke, YOLO, Such a beta simp
-    * Mortgage, Car, I have knowledge far beyond your comprehension as I have a child and have achieved true enlightenment.
+    * DOTA, Fortnight, So Woke, YOLO, The Quest2 is da shit
+    * Mortgage, Car, I have knowledge far beyond your comprehension as I have a child and have achieved true enlightenment but I suffer the eternal burden of childcare, woe is me.
 
 
 ### Notes about tooling
@@ -347,7 +337,6 @@ See my Session on [_firstProfetionalRole.md](./_firstProfetionalRole.md)
 * In reality - it is hard to extract meaningful information from a video
 
 
-
 ### Handling the tidal-wave of Communication
 
 * Setup email rules
@@ -361,13 +350,3 @@ See my Session on [_firstProfetionalRole.md](./_firstProfetionalRole.md)
     * Do not panic - calm down!
     * Communicate concerns clearly to you PAT
     * You will not be penalised un-duely or unfairly
-
-#### Proposed solution: Group Wiki
-
-* Take group responsibility for organising your important information
-* By pro-actively managing this you will be much more aware of the important information
-
-
-### Your schools?
-
-Have you been informed about "meet the mentor"?

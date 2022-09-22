@@ -9,10 +9,6 @@ Pedagogical Content Knowledge
 What is Computer Science Pedagogy
 ---------------------------------
 
-* National Curriculum
-    * > high-quality computing education equips pupils to use computational thinking and creativity to understand and change the world
-    * > able to use, and express themselves and develop their ideas through, information and communication technology
-
 https://teachcomputing.org/pedagogy
 
 * [Pedagogy in teaching Computer Science in schools: A Literature Review](https://royalsociety.org/~/media/policy/projects/computing-education/literature-review-pedagogy-in-teaching.pdf) 2017 Jane Waite QMUL + Kings College London
@@ -21,7 +17,6 @@ https://teachcomputing.org/pedagogy
 * [Pedagogical content knowledge in computing education: a review of the research literature](https://www.tandfonline.com/doi/full/10.1080/08993408.2018.1509580) 2018 Aleata Hubbard
     * More about computing PCK - Good historical
     * > they remind us that PCK does not exist or operate in isolation by calling our attention to the influence of an individual’s beliefs and motivations
-
 * [You Can’t Think About Thinking Without Thinking About Thinking About Something](https://www.citejournal.org/wp-content/uploads/2016/04/v5i3seminal4.pdf) Seymour Papert MIT 2005 (author of Mindstorms 1980)
     * > the child could be in charge of the machine not the machine in charge of the child by offering what was the a new image of children using computers as tools for creativity
     * > The idea that “teaching thinking” is appropriate in elementary school does have some antecedents but in 1970 it was certainly not current in the mainstream of American education circles
@@ -33,9 +28,6 @@ General Pedagogy
 
 
 * [What makes great pedagogy? Nine claims from research](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/329746/what-makes-great-pedagogy-nine-claims-from-research.pdf) 2012 - Chris Husbands and Jo Pearce - National College for School Leadership
-
-
-
 
 Magnusson et al. (1999)
 * knowledge of goals and objectives for teaching a specific topic in the curriculum, (GO)
@@ -51,18 +43,35 @@ combinations of PKC in the form GO-IS
         2. PCK is a collection of basic units called teacher pedagogical constructions.
         3. Teacher  pedagogical  constructions  result  mainly  from  planning,  but  also  from
         the interactive and post-active phases of teaching.
-        1. Pedagogical constructions result from an inventive process that is influenced by
+        4. Pedagogical constructions result from an inventive process that is influenced by
         the interaction of knowledge and beliefs from different categories.
-        1. Pedagogical constructions constitute both a generalized event-based and a story-
+        5. Pedagogical constructions constitute both a generalized event-based and a story-
         based kind of memory.
-        1. Pedagogical constructions are topic specific.
-        2. Pedagogical constructions are (or ideally should be) labeled in multiple interest-
-        ing  ways  that  connect  them  to  other  categories  and  subcategories  of  teacher
-        knowledge and beliefs.
+        6. Pedagogical constructions are topic specific.
+        7. Pedagogical constructions are (or ideally should be) labelled in multiple interesting  ways  that  connect  them  to  other  categories  and  subcategories of teacher knowledge and beliefs.
     * Teacher pedagogical constructions develop through experience (pg 7 examples)
-    * See Figure 2 - pg11
-        * TODO Mermaid diagram
 
+
+<details>
+* See Figure 2 - pg11
+    * TODO Mermaid diagram
+
+```mermaid
+graph TD
+    CK[Content knowledge]
+    aims[Aims, purposes and philosophy]
+    curriculum[Curricular knowledge]
+    resources[Knowledge of resources]
+    context[Knowledge of context]
+    PK[Pedagogical knowledge & beliefs]
+    beliefs[Knowledge & beliefs about learning & learners]
+
+    PCK[A teacher pedagogical construction]
+
+    CK ---> aims ---> curriculum ---> resources
+```
+
+</details>
 
 
 Let's attempt to build TPACK
@@ -91,6 +100,10 @@ This is going to be hard ...
     *  Starkey (2019) points out, TPACK needs to be enacted by three different types of competencies: the ability to use particular technologies as a teacher, the ability to decide which technology to use for a specific teaching purpose, and the ability to guide and support students when learning with digital tools.
     * Krauskopf and Forssell (2018) propose that self-report questionnaires are more likely to measure confidence and self-efficacy with regard to the TPACK domains rather than actual knowledge
     * [table1](https://www.sciencedirect.com/science/article/pii/S0747563220303332#tbl1)
+
+
+![TPACK diagram](https://ictevangelist.com/wp-content/uploads/2013/05/TPACK.png)
+<sub>From [ictevangelist.com](https://ictevangelist.com/technological-pedagogical-and-content-knowledge/)</sub>
 
 TASK: Let's build the model as a group
 * For each area, ask "What would I be able to do? What would this look like"

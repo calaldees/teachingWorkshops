@@ -1,7 +1,10 @@
 iQTS
 ====
 
-* [International qualified teacher status Teachers’ Standards iQTS](https://www.gov.uk/government/publications/international-qualified-teacher-status-teachers-standards)
+* [International qualified teacher status Teachers’ Standards iQTS](https://www.gov.uk/government/publications/international-qualified-teacher-status-teachers-standards) [pdf 2022](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1081356/iQTS_Teachers__standards_June_2022_update.pdf)
+* [Initial teacher training core content framework for iQTS](https://www.gov.uk/government/publications/initial-teacher-training-core-content-framework-for-iqts) [pdf 2022](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1081450/iQTS_Core_Content_Framework_June_2022_update.pdf)
+
+
 
 20 to 30 trainees pilot
 

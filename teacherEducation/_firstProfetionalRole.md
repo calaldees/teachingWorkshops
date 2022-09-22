@@ -26,10 +26,10 @@ Learning Objectives
 Times
 -----
 
-* Your changing role in society (15min)
+* Your changing role in society (12min)
 * Business Process (15min)
 * Formal communication (10min)
-* My stories highlighting some of above (20min)
+* My stories highlighting some of above (10min?)
 
 Look out for the 10 mind blown bombshells!
 
@@ -95,17 +95,18 @@ Basics
 * Be punctual and reliable
     * "Sorry I'm late" is not acceptable now that you have a duty of care over 30 young people
 * Dressed appropriately
+    * Own the right cloths
     * Hair well kept
-* Be proactive
-    * Don't expect somebody else to fix your problems automatically
-    * Be a _net positive_ to your organisation
-* Keep your phone off in school!!! (SERIOUSLY!!!)
+* Keep your phone out of classrooms (SERIOUSLY!!!)
     * Focus on your role (There is little _downtime_ in schools)
 * Don't use headphones on site
     * This alienates you from staff and is a confusing role model to students
 * Do not discuss politics or religion at your place of work
     * This will likely alienate people. It is not relevant to your role.
 * Be mindful of gossip and boundaries
+* Be proactive
+    * Don't expect somebody else to fix your problems automatically
+    * Be a _net positive_ to your organisation
 
 
 Friends?
@@ -300,12 +301,13 @@ Tips:
 * Learn how to use _cc_ and _bcc_ effectively
 * Use 'reply' and 'replyall' effectively
 * You need to be able to cope with significant volumes of email from multiple sources with limited time
-    * Setup email filter rules to automatically sort incoming email into folders
+    * Setup email forwarding or filter-rules to automatically sort incoming email into folders
+
 * Bombshell 10
-* Consider every single email _public domain_
-    * Anyone can make a GDPR subject access request and demand all the data an organisation holds on them (including every email ever sent)
-    * Do not make snide/condescending comments or jokes about children/staff/parents/ANYONE with your work email address. Keep EVERY message professional.
-        * (Convey sensitive information or voice your internal emotional state to other staff verbally)
+    * Consider every single email _public domain_
+        * Anyone can make a GDPR subject access request and demand all the data an organisation holds on them (including every email ever sent)
+        * Do not make snide/condescending comments or jokes about children/staff/parents/ANYONE with your work email address. Keep EVERY message professional.
+            * (Convey sensitive information or voice your internal emotional state to other staff verbally)
 
 
 Bombshell Summary

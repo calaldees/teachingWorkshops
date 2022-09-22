@@ -1,36 +1,39 @@
 Subject Knowledge Development
 =============================
 
+
 Subject Knowledge Audit (30min)
 -----------------------
 
-* [Subject Knowledge Tracker 2021-2022](https://computingteachers.uk/subjectKnowledge/subject-knowledge.html)
-        * Also in the handbook
-    * Read and complete the new audit
-* Subject Knowledge Re-work
-    * Master investigation - consent for research - opt out
-    * [Old subject knowledge audit](https://learn.canterbury.ac.uk/bbcswebdav/pid-3199289-dt-content-rid-4564271_1/xid-4564271_1) on Blackboard - you completed this at interview
-    * [Consent form](https://github.com/ComputingTeachers/subjectKnowledge/blob/main/_evaluation.md)
-    * [Questionnaire](https://forms.office.com/Pages/ResponsePage.aspx?id=2rIgA90iq02MIW5kS6FPE4bZosdBzY5AvRurHpjUivVURjROUExKR1VVVlU3UlJOUURIOFIxUTdFVS4u)
+* [Subject Knowledge Tracker 2022-2023](https://computingteachers.uk/subjectKnowledge/subject-knowledge-2022.html)
+    * Also in the handbook
+
+TASK: Read and complete the new audit
 
 
-NCCE Accelerator (15min)
+NCCE Accelerator (30min)
 ----------------
 
 Nation Center for Computing Education (NCCE) - [teachcomputing.org](https://teachcomputing.org/)
 
-* [The essential toolkit for secondary computing teachers](https://teachcomputing.org/secondary-teachers)
+* NCCE [Computer Science Accelerator](https://teachcomputing.org/cs-accelerator)
     * Subject knowledge certificate (Computer Science Accelerator)
         * £1,800 Bursary for your first employing school
-        * [Computer Science Accelerator Programme Handbook](https://static.teachcomputing.org/CS_Accelerator_handbook.pdf)
-    * Teach secondary computing (teaching practice to the next level)
+    * CSA Handbook
+    * GCSE specifications to Computer Science Accelerator course map (September 2020) 
 
-TASK: Find a course relevant to you and signup/enrole
+TASK: 
+* Create and account
+* Find a course relevant 
+    * Using CSA Handbook or GCSEspec SKA
+* Signup/enrole on a relevant module
+
 
 
 GCSE? (3min)
 ----
 
-* Do you want to be entered into the Computing GCSE May/June 2022 (proposed at a school in Dartford) - £35-ish?
+* Do you want to be entered into the Computing GCSE May/June 2023 - £35-ish?
 * Feel the student experience (in an exam hall at a school)
 * (optional - will not affect your QTS - even I wont know your grade)
+* Supported by Barton Court - OCR

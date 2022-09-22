@@ -148,7 +148,7 @@ Friday 23rd September
 * Introduction to Shulman’s SK and PCK theory
     * What is subject specific pedagogy and how is it defined in subject research?
     * Differences between subject knowledge and subject pedagogy
-* SKA and development 
+* SKA and development
 * What are the expectations/misconceptions teaching Computing?
     * Preparing students for a future we are unsure of
 * Aims and purposes of our teaching and learning
@@ -369,6 +369,8 @@ SEN Week - PGCE Not in school
 
 
 ### SP8 (PGCE)
+Friday 4th November
+
 After Inclusion Week
 Friday 4th November
 
