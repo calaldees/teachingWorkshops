@@ -6,8 +6,23 @@ Pedagogical Content Knowledge
 * Introduction to Shulman’s SK and PCK theory – an example of theory used in educational research and practice
     * Identifying conceptions of SK and PCK and own development
 
-What is pedagogy?
-----------------
+
+Pedagogical Content Knowledge (PCK)
+-----------------------------------
+
+Venn diagram of
+* Subject Knowledge
+* Pedagogical Knowledge
+* Context Knowledge
+
+> Pedagogical Content Knowledge (PCK) conceptualises both the link and the distinction between knowing something for yourself and being able to enable others to know it.
+<sub>Shulman</sub>
+
+Imagine if I started talking to you and as long as I kept talking, then by the time I stopped talking you would would know everything about computing that I do. Simple right!
+We need PCK.
+
+* [Exploring the Correlation Between Teacher Pedagogical Content Knowledge and Content Knowledge in Computer Science Classrooms](https://dl.acm.org/doi/10.1145/3304221.3325556) 2019
+
 
 Task1: Draw ven diagram of subject knowledge and pedagogical knowledge - discuss as class
 Task2: Add Content knowledge to ven diagram

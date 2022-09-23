@@ -23,22 +23,6 @@ Aims of Subject Pedagogy
     * spellcheck story
 
 
-Pedagogical Content Knowledge (PCK)
------------------------------------
-
-Venn diagram of
-* Subject Knowledge
-* Pedagogical Knowledge
-* Context Knowledge
-
-> Pedagogical Content Knowledge (PCK) conceptualises both the link and the distinction between knowing something for yourself and being able to enable others to know it.
-<sub>Shulman</sub>
-
-Imagine if I started talking to you and as long as I kept talking, then by the time I stopped talking you would would know everything about computing that I do. Simple right!
-We need PCK.
-
-* [Exploring the Correlation Between Teacher Pedagogical Content Knowledge and Content Knowledge in Computer Science Classrooms](https://dl.acm.org/doi/10.1145/3304221.3325556) 2019
-
 
 Tacit Knowledge
 ---------------
@@ -118,8 +102,9 @@ Many tutorials start with this complex line
 3. how to translate that into computer instructions/syntax (people seem to obsess about this!?)
 
 ### Task example:
-* Highest number in the list (how to unpick it?)
-* how do they actually solve this?
+* Task: Find the highest number in the list
+    * how to unpick it?
+    * how do they actually solve this?
 * Worked examples (backwards fading)
 
 ### Gradual taking ownership
@@ -140,7 +125,8 @@ Not the lockstep march
 Concept: Advanced ones - cheat sheet - another language?
 
 ### Teach the long way
-(don't use `in`) (don't use `input("this string is output!")`)
+* don't use `in` (just use a loop)
+* don't use `input("this string is output!")`
 
 
 The Block Model
@@ -208,6 +194,7 @@ Level of detail of instruction
 > what can he sing?
 >> I said I taught him, I didn't say he's learnt it
 
+----
 
 
 Maynard and Furlong - development
