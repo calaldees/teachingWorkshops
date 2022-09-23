@@ -3,9 +3,6 @@ How do you learn to teach
 
 Targets: talk through - (already done in induction, double )
 
-TODO
-* [EEF: Cognitive science approaches in the classroom](https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/cognitive-science-approaches-in-the-classroom) - Report summarising the evidence for cognitive science approaches in school settings
-
 
 * Aims and purposes of our teaching and learning
 * Meta-pedagogy (not _tips for teaching_)
@@ -54,7 +51,9 @@ Tacit Knowledge
     * Tacit knowledge is knowledge that cannot be captured through words alone.
     * tacit knowledge feel like _a hunch_ - feels right. it enabled creative problem solving
     * Some people argue that tacit knowledge does not exist - everything can be quantified and deliberately taught
-* [Scaling tacit knowledge](https://nintil.com/scaling-tacit-knowledge/#tacit-knowledge-in-meetings)
+    * Further Reeding
+        * [Scaling tacit knowledge](https://nintil.com/scaling-tacit-knowledge/)
+
 
 
 * Tacit knowledge transfer - e.g. Riding Bike, Learning to read
@@ -75,6 +74,8 @@ Describe verbally to group
 * [Knowledge Illusion: People think they know more than they do - draw a bike](http://www.gianlucagimini.it/prototypes/velocipedia.html)
 
 
+Building Computing Knowledge
+----------------------------
 
 > No one get's into coding for the loops and if statements, they do it for the superpowers it gives them.
 <sub>Amjad Masda</sub>
@@ -85,7 +86,9 @@ https://replit.com/curriculum/Intro-to-Python
 https://replit.com/curriculum/Intermediate-Python
 https://replit.com/@MrAColley
 
-* Hobbist
+### Types of learners
+
+* Hobbyist
     * Motivated
     * invests own time
     * own choice
@@ -105,8 +108,7 @@ https://replit.com/@MrAColley
 
 Because a consumer of digital services does not make you a creator of digital services
 
-
-Novices and experts
+### Novices and experts
 `myAge = int(input("Please type in your age: "))`
 How many concepts are there here? High cognitive load and this is one line .. and there are 5 or 6 concepts
 (bigger example)
@@ -115,11 +117,12 @@ Many tutorials start with this complex line
 2. what are the parts of the problem?
 3. how to translate that into computer instructions/syntax (people seem to obsess about this!?)
 
-Highest number in the list (how to unpick it?)
-how do they actually solve this?
-Worked examples (backwards fading)
+### Task example:
+* Highest number in the list (how to unpick it?)
+* how do they actually solve this?
+* Worked examples (backwards fading)
 
-Gradual taking ownership
+### Gradual taking ownership
 Not my code (not my responsibility) -> partially my code -> all my code 
 (Up to GCSE)
 Example code | My prediction | screenshot of code running | differences from my prediction
@@ -127,21 +130,23 @@ Example code | My prediction | screenshot of code running | differences from my 
 Academic wording - giving things a name
 https://qualifications.pearson.com/en/qualifications/edexcel-gcses/computer-science-2020.html on screen GCSE exam
 
-Misconceptions
+### Misconceptions
 (what misconceptions) (show code from before)
 
 If they are learning - shut up! stop talking
 
-Advanced ones - cheat cheat - another language
+### More able? More Support?
+Not the lockstep march
+Concept: Advanced ones - cheat sheet - another language?
 
-Teach the long way
-(dont use `in`) (dont use `input("this string is output!")`)
+### Teach the long way
+(don't use `in`) (don't use `input("this string is output!")`)
+
 
 The Block Model
 ---------------
 
 plan your (I)nvestigate questions
-
 
 * [Block Model: an educational model of program comprehension as a tool for a scholarly approach to teaching](https://doi.org/10.1145/1404520.1404535) Schulte 2008
     * [The I in PRIMM](https://helloworld.raspberrypi.org/articles/hw14-the-i-in-primm) Sue Sentence 2020
@@ -203,28 +208,7 @@ Level of detail of instruction
 > what can he sing?
 >> I said I taught him, I didn't say he's learnt it
 
-[openai.com/playground](https://beta.openai.com/playground)
-```text
-write python code to:
-- ask the user for their name
-- the program responds with "hello NAME"
-- the program does this 3 times and then exits
-```
-GCSE questions 80% (that's a level 9)
 
-```
-write a story about two bears playing hide and seek
-
-how many bits in a bite?
-
-write a python program that can ask the user for a whole number and convert it to binary
-
-write a python function that
-  - takes a list of possible valid input values
-  - the user is asked for one of the possible valid values
-  - if the value acquired from the user is not one of the valid values, it asks for the user input again
-  - if the value is one of the valid values, return that value
-```
 
 Maynard and Furlong - development
 -------------------
@@ -407,10 +391,6 @@ So!
 Unsorted
 ========
 
-Inspection Copy Request for Books
-----------------------------------
-* [PG Online](https://www.pgonline.co.uk/resources/computer-science/)
-    * [OCR GCSE J277 Computer Science](https://www.pgonline.co.uk/resources/computer-science/gcse-ocr/gcse-ocr-computer-science-j277/)
 
 
 * Actions (leaver)
@@ -458,4 +438,4 @@ Other?
 
 
 
-https://twitter.com/RexChapman/status/1566258979004727299
+* Twitter [Finland: Charging fees for tuition is illegal - private money makes public system better](https://twitter.com/RexChapman/status/1566258979004727299)

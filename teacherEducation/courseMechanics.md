@@ -23,9 +23,10 @@ Documentation
 ### Core Documents
 
 Find them? Where? How?
+ePortfolio
 
 * Course handbook
-* [Curriculum Guidance ](https://cccu-my.sharepoint.com/:w:/g/personal/ac954_canterbury_ac_uk/EUT6YmOPKppLoqS227ycO_EB5U5CIOAVIGxmsGt5VK4qhw?e=pSvMBp)
+* [Curriculum Guidance](https://cccu-my.sharepoint.com/:w:/g/personal/ac954_canterbury_ac_uk/EUT6YmOPKppLoqS227ycO_EB5U5CIOAVIGxmsGt5VK4qhw?e=pSvMBp)
 
 TASK: Load up the curriculum guidance
 How can this be used with your mentor
@@ -38,7 +39,6 @@ How can this be used with your mentor
 ### ePortfolio
 
 * OneNote
-* Find the Portfolio Checklist
 
 
 Assessment
@@ -61,7 +61,6 @@ Assessment
         * Examples of pupil work
         * Reflections
     * Subject Knowledge Tracker and evidence of progress (more about this later)
-
 
 
 Course

@@ -6,12 +6,42 @@ Pedagogical Content Knowledge
 * Introduction to Shulman’s SK and PCK theory – an example of theory used in educational research and practice
     * Identifying conceptions of SK and PCK and own development
 
+What is pedagogy?
+----------------
+
+Task1: Draw ven diagram of subject knowledge and pedagogical knowledge - discuss as class
+Task2: Add Content knowledge to ven diagram
+Task3: Add technology to the ven diagram (TPACK later)
+
+
+
 
 What is Computer Science Pedagogy
 ---------------------------------
 
-https://teachcomputing.org/pedagogy
-
+* NCCE [Promoting effective computing pedagogy](https://teachcomputing.org/pedagogy/) (duplicated in [./whatIsComputing.md](./whatIsComputing.md))
+    * Lead with concepts
+        * Vocabulary, Key terms, concept maps
+    * Work together
+        * Pair program, peer instruction
+    * Get hands on
+        * Physical computing
+    * Unplug, unpack, repack
+    * Model everything
+        * Live coding, debugging
+    * Foster program comprehension
+        * Code tracing
+    * Create projects
+        * Project based learning
+    * Add variety
+        * Different forms of assessment (presentations, free text questions, portfolios)
+    * Challenge misconceptions
+    * Make concrete
+        * Real world examples, culturally relevant
+    * Structure lessons
+        * PRIMM
+    * Read and explore code first
+        * Code tracing, PRIMM
 * [Pedagogy in teaching Computer Science in schools: A Literature Review](https://royalsociety.org/~/media/policy/projects/computing-education/literature-review-pedagogy-in-teaching.pdf) 2017 Jane Waite QMUL + Kings College London
     * See Figure 1 pg 8 for map
     * Briefly describe Unplugged, Physical (makeymakey.org?), Pair programming
@@ -192,9 +222,9 @@ Key point
 * [Pedagogical Content Knowledge: Teachers' Integration of Subject Matter, Pedagogy, Students, and Learning Environments](https://narst.org/research-matters/pedagogical-content-knowledge) NARST 1997
     * Recomendations from Shulman, 1986
 
-TASK: Read the recomendations
-How is Item 3 relevent when you enter school?
-(reminder missing lessonplan metadata)
+TASK: Read the recommendations
+How is Item 3 relevant when you enter school?
+(reminder missing lesson plan metadata)
 What questions would you ask
 
 

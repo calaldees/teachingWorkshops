@@ -164,6 +164,35 @@ Additional Resources (5min)
 * [appsforgood.org/courses/machine-learning](https://www.appsforgood.org/courses/machine-learning)
 
 
+
+OpenAI Playground
+=================
+
+[openai.com/playground](https://beta.openai.com/playground)
+```text
+write python code to:
+- ask the user for their name
+- the program responds with "hello NAME"
+- the program does this 3 times and then exits
+```
+GCSE questions 80% (that's a level 9)
+
+```
+write a story about two bears playing hide and seek
+
+how many bits in a bite?
+
+write a python program that can ask the user for a whole number and convert it to binary
+
+write a python function that
+  - takes a list of possible valid input values
+  - the user is asked for one of the possible valid values
+  - if the value acquired from the user is not one of the valid values, it asks for the user input again
+  - if the value is one of the valid values, return that value
+```
+
+
+
 ---
 
 

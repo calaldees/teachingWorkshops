@@ -5,7 +5,7 @@ SP1
 * Introductions
     * [Course overview and expectations](./courseMechanics.md) (1 hour)
     * Reflection, tooling and ways of working this year
-* What is Computing?
+* What is Computing? (30 min)
     * 3 strands Computer Science, ICT, Digital Literacy
 * [How do you learn to teach](./howDoYouLearnToTeach.md) (1 hour)
     * Meta-pedagogy (not _tips for teaching_)
@@ -63,3 +63,14 @@ Primary->Secondary->Uni->Career1Employment1->Career1Employment2->Retraining->Car
 * I'm just some dude doing a job like you. 
 * By the end of this year you will have outgrown the support I can give you. 
 * At the celebration day at the end of the course we will just be a bunch of professionals sitting around and talking about education.
+
+
+
+Other Endings Notes
+===================
+
+Inspection Copy Request for Books
+----------------------------------
+* [PG Online](https://www.pgonline.co.uk/resources/computer-science/)
+    * [OCR GCSE J277 Computer Science](https://www.pgonline.co.uk/resources/computer-science/gcse-ocr/gcse-ocr-computer-science-j277/)
+

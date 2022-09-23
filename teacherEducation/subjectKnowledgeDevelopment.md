@@ -6,7 +6,7 @@ Subject Knowledge Audit (30min)
 -----------------------
 
 * [Subject Knowledge Tracker 2022-2023](https://computingteachers.uk/subjectKnowledge/subject-knowledge-2022.html)
-    * Also in the handbook
+    * Also in the handbook + ePortfolio
 
 TASK: Read and complete the new audit
 
