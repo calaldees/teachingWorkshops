@@ -1,4 +1,4 @@
-Course Mechanics (2 hours)
+Course Mechanics (1 hour)
 ================
 
 Mechanical overview. Sorry, this is very one-way and will not be overly interactive.

@@ -1,11 +1,10 @@
 SP1
 ===
 
-
 * Introductions
     * [Course overview and expectations](./courseMechanics.md) (1 hour)
     * Reflection, tooling and ways of working this year
-* What is Computing? (30 min)
+* What is Computing? (30 min) (More in SP3)
     * 3 strands Computer Science, ICT, Digital Literacy
 * [How do you learn to teach](./howDoYouLearnToTeach.md) (1 hour)
     * Meta-pedagogy (not _tips for teaching_)
