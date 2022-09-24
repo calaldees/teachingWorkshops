@@ -90,6 +90,7 @@ Getting data/files/state out of a container
 docker run -it alpine /bin/sh
     echo "hello" > test.txt
     cat test.txt
+    exit
 docker ps -a
     # find CONTAINER ID
 docker cp 151a6554d794:/test.txt ./
@@ -504,6 +505,7 @@ Other Container Solutions
     * > Docker containers are made to run a single process per container.
 * [LXD](https://linuxcontainers.org/lxd/introduction/)
     * The next generation after `LXC`. Maintains memory state
+    * [LXC and LXD: a different container story](https://lwn.net/Articles/907613/)
 * [Podman](https://podman.io/)
     * Simply put: `alias docker=podman`
     * Secure by default
