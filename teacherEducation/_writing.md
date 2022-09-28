@@ -29,7 +29,7 @@ Academic Writing
 ### Academic Writing Tips
 
 * Provide specific examples to support claims, retaining an evaluative rather than emotive stance.
-* Avoid hyperbole such as ‘incredibly creative’ unless you can provide specific evidence to support the statement.
+* Avoid hyperbole such as '_incredibly_ creative' unless you can provide specific evidence to support the statement.
 * Avoid absolutes - we don't actually know - this is our best assumption so far.
 * Unpick the references you draw on to make them fully work for your developing argument.
 * Show you are aware of context and limitations of the sources you use
@@ -39,7 +39,7 @@ Academic Writing
 
 
 State, Claim, Argues, Hypothesises
-Narrative, journey, headings 
+Narrative, journey, headings
 
 * Formal language
     * Don't use phrases like 'hatred of learning'
@@ -51,6 +51,13 @@ Narrative, journey, headings
         * Read Section 2 - pg5 to pg8
         * Notice how each statement refers to peer reviewed theory
         * (this is professional level but) Look at the density of referencing
+
+* Use citations for both positive and negative
+    * [Why is there no Semantic Ontology of Sentiment in Academic Citations?](https://shkspr.mobi/blog/2022/07/why-is-there-no-semantic-ontology-of-sentiment-in-academic-citations/)
+        * If we have 'negative' relationships between things, this is helpful.
+        * We only tend to record the positive. e.g: friend of, rather than devorced, estranged
+        * Are all academic citations endorsements? or are they calling out bullshit?
+
 
 
 Referencing
@@ -68,12 +75,12 @@ Assignment
 TASK: Read the Assignment from last year (CAUTION! This may change)
 Start to consider areas of focus
 
-* [(Old) Assignment Brief Subject Pedagogy 2020-21.docx](https://learn.canterbury.ac.uk/bbcswebdav/pid-3204960-dt-content-rid-4570592_1/xid-4570592_1)
+* [(Old) Assignment Brief Subject Pedagogy 2021-22](https://cccu.padlet.org/sharron_mackenzie1/mhqf3wfen2yb/wish/1752637128)
     * 2000 Word literature review on Computing Subject Pedagogy
 
 I am genuinely interested in the reading you are about to do. Teach me something about Computing pedagogy.
 
-* Due Monday 15th November 2021 14:00 - 7 weeks from now
+* Due Monday 14th November 2022 14:00 - 7 weeks from now
 
 Proposal for Literature Review
 ------------------------------
@@ -85,9 +92,8 @@ Proposal for Literature Review
     * Key reading related to the area - Outline at least three or four key texts that you have looked at for this. Ideally, this should include specific research articles
     * Focus of the area of enquiry/specific research question - What is the precise question or key issue that you wish to explore? Can you phrase it as a research question?
     * Possible ethical issues - The key ethical issues are informed consent, protection of children, anonymity and confidentiality, and payment of research participants. In the case of a literature review, as you are only using secondary data and that there are no participants involved, ethical clearance is not required. However, it is good practice to make a general statement to show that you have considered ethics in light of the research you are carrying out.
-
-Side note (add this somewhere approriate)
-Relate your writing to your practice/setting/context/action in some way
+* Relate your writing to your teaching/practice/setting/context/action in some way
+* Show Criticality (Is what this paper is saying right?) + Reflection (look at your own practice)
 
 ### National qualifications framework
 
@@ -215,8 +221,10 @@ https://research-methodology.net/research-philosophy/interpretivism/
 
 ---
 
-What Dunning Kruger is and isnt
-People misinterperit it - critique
+* People misinterpret it - critique
+* [what the Dunning-Kruger effect is and isn’t](http://www.talyarkoni.org/blog/2010/07/07/What-the-Dunning-Kruger-effect-Is-and-Isnt/)
+    * It is not that less skilled people think they are better than the others. It's that less skills people think they are better than they are.
+
 
 ---
 
@@ -242,7 +250,3 @@ People misinterperit it - critique
 
 * [Using video and digital storytelling to develop your academic argument/voice​](https://cccu-my.sharepoint.com/:p:/g/personal/ek50_canterbury_ac_uk/EQRfNzyW9s1CtUBxcT-BwiQByURuizW3IxcX05atUv9llQ?e=hQWRms&wdOrigin=TEAMS-ELECTRON.p2p.bim&wdExp=TEAMS-CONTROL&wdhostclicktime=1656567625267) CCCU Emily (sharepoint)
 
-* [Why is there no Semantic Ontology of Sentiment in Academic Citations?](https://shkspr.mobi/blog/2022/07/why-is-there-no-semantic-ontology-of-sentiment-in-academic-citations/)
-    * If we have 'negative' relationships between things, this is helpful. 
-    * We only tend to record the positive. e.g: friend of, rather than devorced, estranged
-    * Same is true for academic citations - are all citations endorsements? or are they calling out bullshit?

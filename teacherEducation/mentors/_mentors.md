@@ -1,6 +1,8 @@
 Mentors
 =======
 
+TODO: Take EmilyWS mentoring word doc in Dropbox and turn it into plain text
+
 * [Computing Teacher Educators Network](https://forms.office.com/pages/responsepage.aspx?id=ZyYeN4rMsEe13T5BpfTp_DHG91hvGkxPsNAus4-ppg5UQlJGTTJQQlhQSzUyTjlNS1hFV01ZNUtETy4u)
    * Upcoming events
 

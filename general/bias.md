@@ -56,8 +56,8 @@ Observations from others
         * > Could we settle these discussions with more science? Alas, that's difficult.
         * > I can't think of anything better, then, than keep having the same discussions over and over. I try hard to overcome my biases to understand the other side, and now and then, I learn something that I find illuminating. It doesn't seem to be a particularly efficient way to address these difficult questions, but I don't know what else to do. What's the alternative to discussion? To not discuss? To not exchange ideas? That seems worse.
 
-https://implicit.harvard.edu/ Project Implicit 
-See _diversity.md   
+https://implicit.harvard.edu/ Project Implicit (Social and Health Bias tester/research)
+See _diversity.md
 
 Who do you go to for advice - 5 people
 Gender Age, Education Level, Organistion, Distance form you, Thenic Origin, First Language, Subject taught

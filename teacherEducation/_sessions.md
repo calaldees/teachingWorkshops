@@ -11,7 +11,7 @@ Readings
 3. What is a teacher?
 4. What is education
 5. How do children learn?
-    * [Why Don’t Students Like School](https://www.aft.org/sites/default/files/periodicals/WILLINGHAM%282%29.pdf) Wilingham 2009 - as featured in American Educator
+    * [Why Don’t Students Like School](https://udlhcpss.files.wordpress.com/2012/05/willingham_2009_thestudentmind.pdf) Wilingham 2009 - as featured in American Educator
     * [Get in front of their behaviour](https://www.olicav.com/s/2-Get-In-Front-Of-Their-Behaviour.pdf) Poster - Tom Bennet 20xx - Oliver Caviglioli (5min)
     * [Understanding How we Learn - A visual guide](https://www.learningscientists.org/book) 2018
 7. How do you plan and assess for learning?
@@ -208,7 +208,7 @@ Beginning to understand the curriculum, educational diversity and the factors th
 
 ### Readings
 * GP1: Biesta, G. (2012) [The future of teacher education: Evidence, competence or wisdom?](https://www.researchgate.net/publication/277243237_The_future_of_teacher_education_Evidence_competence_or_wisdom)
-* Willingham, D. T. (2009) [Why don’t students like school?](https://www.aft.org/sites/default/files/periodicals/WILLINGHAM%282%29.pdf)
+* Willingham, D. T. (2009) [Why don’t students like school?]()
 
 ### GP1
 Friday 30th September - 09:00
@@ -228,6 +228,8 @@ Friday 30th September - 11:00
 * Planning a lesson
     * #1-HighExp-Learn-how-1-set_stretch
     * #1-HighExp-Learn-how-3-positive_mistakes_effort_daily
+
+SSL (Staff Student Liaison) Student rep elected
 
 PGCE: Begin _Collaborative teaching phase_ (CTP). (in school from Monday)
 * Set information gathering tasks for SP4 (scheme-of-work/curriculum)
