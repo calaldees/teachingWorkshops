@@ -3,8 +3,16 @@ Computing Across the Curriculum
 
 TODO:
 * [Why a decade of knowledge-rich curriculum has not served pupils as promised](https://www.tes.com/magazine/analysis/general/why-decade-knowledge-rich-curriculum-has-not-served-pupils-promised)
+    * > Ofsted's deep-dive investigation into subjects is to determine the extent of subject knowledge and whether the knowledge they find is substantive, disciplinary or inter-disciplinary. 
+    * > If a primary pupil, having spent all afternoon painting a picture of a Roman soldier, neither improved in painting nor knew more about Roman soldiers, was it time well spent?
+    * > A secondary pupil measuring personal performance in PE might be making little progress in mathematics skills nor getting fitter. 
+    * > Nowadays, the focus on the pedagogy of knowledge transmission indicates measurable progress in learning…a particular approach to pedagogy.
+    * > The art of 'knowing why' ... the learning of the "what" will only go so far. 
+
 * [Chapter 9?](https://www.shuchigrover.com/atozk12cs/table-of-contents/)
 * [KS3 THE EPISTEMIC INSIGHT FRAMEWORK CCCU](http://www.epistemicinsight.com/wp-content/uploads/2017/06/epistemic-insight-for-KS3-July19.pdf)
+
+
 
 Objectives
 ----------

@@ -2,6 +2,23 @@ Academic Writing
 ================
 
 
+## Some Academic Terminology
+
+* [Ontology](https://en.wikipedia.org/wiki/Ontology_(information_science))
+    * > formal naming and definition of the categories, properties and relations between the concepts
+    * Ontological argument
+        * Should number base's (base 2, binary) be in Mathematics rather than Computer Science?
+        * Platypus? Mammal that lays eggs
+* [Epistemology](https://en.wikipedia.org/wiki/Epistemology)
+    * The theory/nature of knowledge
+        * arrived at independent of experience (e.g. through logic - rationalist, intuition - non-rational)
+        * empirical (verifiable by observation), or arrived at through experience
+* [Autoethnography](https://en.wikipedia.org/wiki/Autoethnography)
+    * a form of qualitative research in which an author uses self-reflection and writing to explore anecdotal and personal experience and connect this autobiographical story to wider cultural, political, and social meanings and understandings
+    * > autoethnographers are themselves the primary participant/subject of the research
+
+
+
 ## Comedy enactment to convey academic writing
 
 * "I think that;"
