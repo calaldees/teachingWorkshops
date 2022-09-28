@@ -81,7 +81,6 @@ General Information and Pre Reading
         * [lumenlearning.com/educationalpsychology](https://courses.lumenlearning.com/educationalpsychology/)
             * [Major theories and models of learning](https://courses.lumenlearning.com/educationalpsychology/chapter/major-theories-and-models-of-learning/)
 * eBooks
-Summarises the curriculum, examination, and inspection system
     * [Teaching Tech Together: How to create and deliver lessons that work and build a teaching community around them](https://teachtogether.tech/) 2019 Greg Wilson
         * Outstanding Computing pedagogical advice
         * Free eBook or [paperback](https://www.routledge.com/Teaching-Tech-Together-How-to-Make-Your-Lessons-Work-and-Build-a-Teaching/Wilson/p/book/9780367352974)
