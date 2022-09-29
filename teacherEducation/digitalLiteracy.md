@@ -11,11 +11,11 @@ Digital Literacy
 
 ## Why is Digital Literacy important?
 
-Imagine the world you would live in if you were not literate?
-It would be s strange scary place
+* Imagine the world you would live in if you were not literate?
+    * It would be s strange scary place.
 
-Now imagine we live in a digitally dominated world.
-Imagine the world you would live in if you were not digitally literate?
+* Now imagine we live in a digitally dominated world.
+    * Imagine the world you would live in if you were not digitally literate?
 
 Digital Literacy is the power to understanding and influence the modern world
 
@@ -66,13 +66,14 @@ ACTIVITY:
     * [ukpowernetworks.co.uk/power-cut/map](https://www.ukpowernetworks.co.uk/power-cut/map)
 * Electoral role (edited register)
 * Cookies (What they are and why they are used)
-* Domain/typo squatting
-* How to buy a domain name
+* Domains
+    * Domain/typo squatting
+    * How to buy a domain name
+    * `whois` - `traceroute`
 * Diagnosing network - ping router - traceroute - packetloss
     * [DownDetector.co.uk](https://downdetector.co.uk/)
     * [istheservicedown.co.uk/](https://istheservicedown.co.uk/)
     * FaslyCDN
-* whois - traceroute
 * Distinguish between a Web or Native mobile app
 * Https + certificates + RSA Key Pairs
 * Use Hotkeys
@@ -87,7 +88,8 @@ ACTIVITY:
     * [Dihydrogen Monoxide](http://www.dhmo.org/facts.html)
     * martinlutherking.org
 * Understand factors for google search page rank
-    * Your personal view (search history profile)
+    * Your personal view (influenced by your search history profile)
+        * My Dad "I type masts into google and my company is number one in the world!"
     * Location (physical connection)
     * Social interactions (email contacts, same physical connection)
     * [PageRank Algorithm](https://en.wikipedia.org/wiki/PageRank)
@@ -99,7 +101,7 @@ ACTIVITY:
     * Don't send massive files as email attachments
         * Don't be surprised when you cant Email 30 of your 3mb DSL camera jpegs
     * Use doc sharing for collaboration rather than a word doc on dropbox
-        * There should never be an excuse for loosing work (it's 2020)
+        * There should never be an excuse for loosing work (it's 2022)
 * What is a keylogger
 * Duplex printing
 * Copying a URL (remove the tracking query string)
@@ -113,7 +115,7 @@ ACTIVITY:
     * WhatsApp is end to end encrypted (not centrally stored)
     * "Nothing to hide" only works if you trust the government, all your friends and everyone in socity and anways will
     * The "Bitter Ex test" could someone abuse this information
-* Understand when AI has made a mistake, it is due to the training dataset and not the _algorithm writers_
+* Understand when AI has made a mistake, it is due to the training dataset and not the _algorithm writers_ (or the algorithm writers ethnicity, it's the quality of the data)
 * Know to always have their data secure and be immune to ransomware attacks with backups
 * Understand how the current legislation allows some services (the jobcentre and food agency groups) to view households internet request history
     * [OpenRightsGroup.org](https://www.opemnrightsgroup.org/)
@@ -173,7 +175,7 @@ Most of the education about digital literacy focus on information analysis.
 
 The English curriculum doesn't mention the internet, source, digital or media.
 'Assessing the quality of an information source' is now been moved into the realm of the Computing curriculum.
-'attention to trustworthiness'
+'attention to trustworthiness'.
 
 Access to information is not a problem any more - how to find and use it IS.
 Regardless of subject, the skill is how to locate and use information.
@@ -205,26 +207,25 @@ Regardless of subject, the skill is how to locate and use information.
 # ICT
 
 Largest working age study in the world 215,942 participants (5000 from each country)
-[The Distribution of Users’ Computer Skills: Worse Than You Think](https://www.nngroup.com/articles/computer-skill-levels/)
-* Level 0
-    * 26%
-    * no
-* Level <1
-    * 14%
+[The Distribution of Users’ Computer Skills: Worse Than You Think](https://www.nngroup.com/articles/computer-skill-levels/) 2016 OECD Skills Research
+* Level 0 - 26%
+    * just cant use a computer
+* Level <1 - 14%
     * delete email - action
-* Level 1
-    * 29%
+* Level 1 - 29%
     * find emails by - selection (1 criterion)
-* Level 3
+* Level 2 - 26%
+    * can sort - explicitly designed/contained task with success criteria. Navigate passed distractors.
+* Level 3 - 5%
     * 2 related docs by, in oct last year - complex selection (multi criterion)
-* 3 % of emails last month by, were about 'topic' - combative
-
+    * 3 % of emails last month by, were about 'topic' - combative
+![Distribution of computer skills age 16-68](https://media.nngroup.com/media/editor/2016/10/20/computer-skill-levels-by-country.png)
 
 * See also [[citizenship]]
     * [Digital Citizenship Recommendations](http://zumpanotechlab.blogspot.com/2021/10/digital-citizenship-recommendations.html) 2021
 
 
-* [6 ideas to promote digital wellbeing in schools](https://www.tes.com/magazine/leadership/strategy/6-digital-wellbeing-ideas-schools-studentsp-technology)
+* [6 ideas to promote digital wellbeing in schools](https://www.tes.com/magazine/leadership/strategy/6-digital-wellbeing-ideas-schools-studentsp-technology) TES 2020
     * Recognise
         * FOMO - The "fear of missing out", and how social media can fuel anxiety amongst students.
         * JOMO - the "joy of missing out", and how it can sometimes feel good to not be on top of all things social media.

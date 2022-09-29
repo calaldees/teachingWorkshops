@@ -74,13 +74,15 @@ The subjects have been chosen by government policy.
 The entire roadmap for state education. THE National Curriculum
 
 * [Statutory guidance - National curriculum in England: framework for key stages 1 to 4](https://www.gov.uk/government/publications/national-curriculum-in-england-framework-for-key-stages-1-to-4/the-national-curriculum-in-england-framework-for-key-stages-1-to-4) 2014
+    * NC is just one part of a schools curriculum
     * Computing is a Foundation subject
+    * Most schools follow tend to follow the NC even if they are academies
     * Academies/Public/Private/Independent don't need to teach computing
+        * local.gov.uk [Number of secondary academies as a percentage of all secondary schools in England](https://lginform.local.gov.uk/reports/lgastandard?mod-area=E92000001&mod-group=AllRegions_England&mod-metric=6599&mod-type=namedComparisonGroup)
+            * South East 74% of secondary schools are academies
 
 TASK: Read the National Curriculum (10min) Make notes in shared document about the things you as a Computing teacher need to actively engage with.
 (5min summary with class)
-
-
 
 
 
@@ -128,9 +130,45 @@ ANSWERS: As a group, Let's compare against CAS allocations - where are your misu
 ### Is the National Curriculum out of date? (10min)
 
 The NC was written in 2013. Computing moves so fast, does it need to be re-written?
-(If the answer is 're-write', would a single student have ever completed the NC from KS1 to KS4?)
+(If the answer is 're-write', would a single student have ever completed the NC from KS1 to KS4 == 12 years?)
 
 TASK: Read the NC. Where could AI fit in? (Hint: It IS in there ... but where?)
+
+
+Progression Model (30min)
+-----------------
+
+Using
+* [Statutory guidance - National curriculum in England: framework for key stages 1 to 4](https://www.gov.uk/government/publications/national-curriculum-in-england-framework-for-key-stages-1-to-4/the-national-curriculum-in-england-framework-for-key-stages-1-to-4) 2014
+* [National Curriculum: computing programmes of study](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study) 2013
+* [AQA GCSE Computer Science 8525](https://www.aqa.org.uk/subjects/computer-science-and-it/gcse/computer-science-8525/subject-content) (Or the exam board used your school) (I chose this because it's web accessible rather than in cryptic inaccessible PDF docs)
+* What would you put in your own curriculum if you were a head of department
+
+1. Divide your board/page into 3: KS1-2, KS3, KS4
+2. List the concepts required in each category
+3. Draw lines that link these concepts (e.g. what skills is KS3 are pre-requisites/required for ks4)
+
+(This is deliberately a very very hard task to get you to think about progression)
+
+
+#2-HowLearn-Learn-that-2-prior_knowledge_identified
+#2-HowLearn-Learn-how-7-link_prior_knowledge
+#3-SubjCur-Learn-that-7-link_schemata
+#3-SubjCur-Learn-how-1-subject_curriculum_concepts_knowledge_skills
+#3-SubjCur-Learn-how-9-link_prior_knowledge
+#4-Classroom-Learn-that-2-small_steps_link_prior_knowledge_schemata
+#4-Classroom-Learn-how-14-plan_focus
+
+<details>
+
+* NCCE [Programming and algorithms within the computing curriculum](https://blog.teachcomputing.org/programming-and-algorithms-within-the-computing-curriculum/) 2022 - Progression model from KS1 to KS5
+    * ![Progression model from KS1 to KS5](https://raspberrypi-education.s3.eu-west-1.amazonaws.com/NCCE+Reports/Programming+and+Algorithms+(Concepts).png)
+    * ![Skill Progress with programming and algorithms](https://raspberrypi-education.s3.eu-west-1.amazonaws.com/NCCE+Reports/Programming+and+Algorithms+(Skills).png)
+* [NCCE curriculum_journey](https://static.teachcomputing.org/curriculum_journey.pdf)
+* [NCCE Taxonomy](https://blog.teachcomputing.org/categorising-national-centre-content/)
+    * [Digital literacy within the computing curriculum](https://blog.teachcomputing.org/digital-literacy-within-the-computing-curriculum/) NCCE Report 2021
+        * NCCE program Taxonomy - pg 9 + pg 10 - radar chart - Figure 3
+</details>
 
 
 Science Vs Engineering
@@ -154,7 +192,8 @@ Commentary
 * [Restart: The Resurgence of Computer Science in UK Schools](https://core.ac.uk/download/pdf/79655562.pdf) Brown 2014
     * > Computer science in UK schools has gone from almost extinct to mandatory in the space of a five year period
     * > The A-Level qualification offered there now overlaps substantially with the new GCSE qualification (which precedes it), and numbers taking the A-Level are still in decline
-* [Shut down or restart? The way forward for computing in UK schools](https://royalsociety.org/~/media/education/computing-in-schools/2012-01-12-summary.pdf) 2012 Recommended reforms
+* The Royal Society [Shut down or restart? The way forward for computing in UK schools](https://royalsociety.org/~/media/education/computing-in-schools/2012-01-12-summary.pdf) 2012 Recommended reforms
+    * 11 Recommendations
 * [School ICT to be replaced by computer science programme](https://www.bbc.co.uk/news/education-16493929) 2012 'Slaves to the interface'
 * [Bricklayers to Architects](https://learn.canterbury.ac.uk/bbcswebdav/pid-2641359-dt-content-rid-3959448_1/courses/E20MTETT4SPD/Bricklayers%20to%20Architects%20-%20Jones.pdf) Page 7/8 2013
     *   > We have many individuals who are able to use applications to varying degrees of proficiency (bricklayers) 
@@ -168,6 +207,7 @@ Commentary
 * Most Computing teachers have not come from a Computing background. They have come from other subjects.
 * 2014 All _ICT teachers_ in the country were told "You now teach Computing".
 * The first GCSE computing students have been though university and are now entering the workforce 2021
+    * (It's 2022 and I haven't seen any motion)
 
 WE WON!! WE GOT COMPUTING ON THE CURRICULUM!
 ... but you know where this goes ... you've done the pre-reading ... there is a backlash

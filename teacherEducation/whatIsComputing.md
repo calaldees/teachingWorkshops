@@ -11,9 +11,8 @@ What is Computing
     * 3min [Internet use reduces study skills in university students](https://www.sciencedaily.com/releases/2020/01/200117085321.htm) Swansea University ScienceDaily 2020
     * 20min+ [Rotten STEM: How Technology Corrupts Education](https://americanaffairsjournal.org/2019/08/rotten-stem-how-technology-corrupts-education/) 2019 Jared Woodard
 
-
-
 * NCCE [Programming and algorithms within the computing curriculum](https://blog.teachcomputing.org/programming-and-algorithms-within-the-computing-curriculum/) 2022 - Progression model from KS1 to KS5
+    * ![Progression model from KS1 to KS5](https://raspberrypi-education.s3.eu-west-1.amazonaws.com/NCCE+Reports/Programming+and+Algorithms+(Concepts).png)
 
 * NCCE [Promoting effective computing pedagogy](https://teachcomputing.org/pedagogy/)
     * Lead with concepts
@@ -49,7 +48,7 @@ Computer Science as a field/discipline
     * Computing occupations are projected to grow at a higher rate than all other STEM areas combined.
     * Regardless of their career, many professionals will be using computer science at work.
     * most "human executable recipes" cannot be implemented by a machine. This misconception actually leads people to misunderstand algorithms and therefore overestimate what a machine can do.
-    *  "transfer hypothesis." a thinking skill automatically transfers into other domains simply by being present in the brain. This is not true
+    * "transfer hypothesis." a thinking skill automatically transfers into other domains simply by being present in the brain. This is not true
     * Misconceptions
         * CS = programming
         * Programming is concerned with expressing a solution to a problem as notation in a language. 

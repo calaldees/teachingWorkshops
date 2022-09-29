@@ -216,7 +216,7 @@ Friday 30th September - 09:00
 * CTP introduction
 ### SP3
 Friday 30th September - 11:00
-* Learning to date re what is a teacher
+
 * What is a curriculum/ subject curriculum?
 * NC and recent policy
 * Key influential subject documents, reports and research; current and over time

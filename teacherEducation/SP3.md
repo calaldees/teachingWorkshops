@@ -1,46 +1,76 @@
 SP3
 ===
+Last Week
+SQ 2: How do you learn to Teach? 
+* Subject Knowledge, Pedagogy, Research
+* Read about Pedagogy? Feedback
 
-Elect Rep
+SQ 4: What is education?
 
-KSQ 4: What is education?
+> If we cant agree what education is for, then we will be unable to agree on how to improve it.
+David Daiau 
 
-* What are the expectations/misconceptions teaching Computing?
-    * Preparing students for a future we are unsure of
 
-* [What is Computing](./whatIsComputing.md)? (1.5 hours)
 
-* Share your _weekley mentor sheet reflections_ with a partner (20min = 10min each)
-    * What have we learnt so far?
-    * What has been surprising important?
-    * Knowledge share from GTP session (yesterday/Thursday evening)
-        * What do you think education is for?
+* Course Mechanics - Collaborative Teaching Phase - (30min)
+    * CTP (mentor discussions)
+    * CTP Activities
+    * Target setting
+        * 1 Target is ALWAYS to do with our curriculum focus
+        * Success Criteria (Achieved yes/no) + Timeboxed
+        * Support/ActionPoints
+    * Review this weeks focus
+    * Expectation == everyone with a weekley mentor sheet WB 3rd October
+    * Early impressions MSTeams visit (10min)
+
+
+
+* What is a [curriculum](https://en.wikipedia.org/wiki/Curriculum) / subject curriculum?
+    * > planned sequence of instruction, or to a view of the student's experiences in terms of the educator's or school's instructional goals
 * [National Curriculum](./curriculum.md) and recent policy
-    * Key influential subject documents, reports and research; current and over time
-    * How has the subject of Computing has changed in education over the years (in school and society)
-* [Literacy](./literacy.md) in Computing
-    * Technical language
-    * Vocabulary to facilitate thinking about Computing
-* [Digital literacy](./digitalLiteracy.md)
-* [Numeracy](./numeracy.md) in Computing
-* Set information gathering tasks for SP4 (below) (15min)
-* Action points (15min)
+* Key influential subject documents, reports and research; current and over time
+    * How has subject changed and been influenced over recent times?
+* Digital-literacy
+* Literacy and numeracy in Computing
+* Literacy in Computing and technical language
+    * vocabulary to facilitate thinking about Computing
+
+* Planning a lesson
+
+### Addition
+* Elect Rep
+* SP1+2 Assignment formally set
+* (Sorry: I have to raise the disclaimer) Expectations of professional communication
 
 PGCE: Begin _Collaborative teaching phase_ (CTP). (in school from Monday)
 
 
-Reminders
----------
+Reflective practice
+===================
 
-* SP1+2 Assignment formally set!
-* We need to elect a subject rep
-* Subject knowledge audit completed + consent form + questionnaire
-* Dress smartly (not trainers, shirt+tie or equivalent)
+* Up until now, (level 6 and below) you have been _taught at_. You've been told what to learn and how to learn it.
+* At postgraduate level - there are 'no answers'.
+* We have take information from a range of sources and structure our thinking in a particular way that allows us to critically inspect and challenges our beliefs/assumptions
 
-Mentor Website
---------------
+"I'm just going to think lots and get better" - not that simple
 
-Mentor Website login
+Rolf
+* What
+* So What
+* Now What
+
+Kolb
+* Experience
+* Reflection
+* Theorising
+* Experimenting
+
+Brockfield's 4 lenses
+* Autobiographical lens
+* Learners lens
+* Colleague lens
+* Scholarship lens
+
 
 
 Tasks for SP4

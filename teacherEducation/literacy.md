@@ -6,19 +6,24 @@ Literacy
 
 ITT Core Framework
 
+#3-SubjCur-Learn-how-14-observe_literacy
+#3-SubjCur-Learn-how-14-build_written_fluency
+#3-SubjCur-Learn-how-15-build_reading_fluency
+#3-SubjCur-Learn-how-15-build_reading_enjoyment
+#3-SubjCur-Learn-how-16-develop_terminology_vocabulary
+#3-SubjCur-Learn-how-17-build_verbal_fluency
+
+
 > 3.10. Every teacher can improve pupils’ literacy, including by explicitly teaching reading, writing and oral language skills specific to individual disciplines
 
 > 4.7. High-quality classroom talk can support pupils to articulate key ideas, consolidate understanding and extend their vocabulary.
 
 [National Curriculum](https://www.gov.uk/government/publications/national-curriculum-in-england-framework-for-key-stages-1-to-4/the-national-curriculum-in-england-framework-for-key-stages-1-to-4)
-
-> 6.1 Teachers should develop pupils’ spoken language, reading, writing and vocabulary as integral aspects of the teaching of every subject ... (more)
-
-> 6.2 Pupils should be taught to speak clearly and convey ideas confidently using standard English
-
-> 6.4 Pupils’ acquisition and command of vocabulary are key to their learning and progress across the whole curriculum. Teachers should therefore develop vocabulary actively,
-> ...
-> It is particularly important to induct pupils into the language which defines each subject in its own right, such as accurate mathematical and scientific language.
+* > 6.1 Teachers should develop pupils’ spoken language, reading, writing and vocabulary as integral aspects of the teaching of every subject ... (more)
+* > 6.2 Pupils should be taught to speak clearly and convey ideas confidently using standard English
+* > 6.4 Pupils’ acquisition and command of vocabulary are key to their learning and progress across the whole curriculum. Teachers should therefore develop vocabulary actively,
+   > ...
+   > It is particularly important to induct pupils into the language which defines each subject in its own right, such as accurate mathematical and scientific language.
 
 ### What are schools expected to deliver?
 
@@ -28,7 +33,7 @@ ITT Core Framework
 ### The Secret of Literacy
 
 > Focussing on literacy objectives will not improve anything.
-> Instead, what’s needed is for teachers to explicitly teach the language of their subject alongside their subject content.
+> Instead, what’s needed is for teachers to _explicitly teach the language of their subject_ alongside their subject content.
 > My slightly surprising insight is that if this is done well, the fact that children’s reading and writing improves is almost trivial.
 > What really matters is that students get better at thinking.
 [The Secret of Literacy: making the implicit explicit](https://www.amazon.co.uk/Secret-Literacy-Making-implicit-explicit/dp/1781351279/) - [David Didau](https://learningspy.co.uk/literacy/what-to-do-about-literacy/) 2014 978-1781351277
@@ -40,6 +45,7 @@ ITT Core Framework
 
 What is the tipping point from _'just using words that scientists use'_ and _'talking like a scientist'_?
 
+Categorising Vocabulary
 * active/expressive vocabulary (words that are used autonomously)
 * passive/receptive vocabulary (words that are understood and can be responded)
 * unknown vocabulary
@@ -54,12 +60,14 @@ Figures (need to correlate exact source - these are from David Didau's book)
 
 ### The _Language_ of Computer Science (20min)
 
+#3-SubjCur-Learn-how-16-develop_terminology_vocabulary
+
 > Some words have specific meaning in the computer science community, but a slightly or sometimes completely different meaning in everyday discourse (e.g. nouns like code, memory, address, folder, loop, bug, value, or verb to save, to code, to retrieve, to submit)
 
 TASK: In your groups - add rows to the following table (10min group) + (5min whole class)
 (My hope is that the list you generate could a useful resource for your future teaching)
 
-| Computing Term | Possible interpretation | Technical interpretation |
+| Computing Term | Possible interpretation | Technical meaning |
 |-|-|-|
 | Hot Key | The colour key on a graph that is referring to temperature | todo? |
 | Address | Where I live | todo? |
@@ -67,10 +75,32 @@ TASK: In your groups - add rows to the following table (10min group) + (5min who
 | Submit a request | Have to ask for something from someone in authority | A data request to an external/separate system |
 | add more | _Expand this list_ | add more |
 
-(more of mine at bottom of document)
+<details>
+
+| term | possible |
+|-|-|
+| Python | A snake that is poisonous |
+| Secondary Storage | My nans garage |
+| Code review | A friend checking my secret message before I send it |
+| I created a code | 
+| Save | Money at the bank |
+| Search | Like hide and seek |
+| Library | 
+| Jesus Saves | So I save my files too 
+| Memory | How much you can remember
+| Network | Friendship? - building nets?
+| Windows | cant see though it
+| Apple Mac | Keeps fruit dry
+| Praommy on TV |
+| Cloud | up therir
+| Directory | Telephone or direction guide 
+| Fishing emails | I dont want to eat thing
+| Web| Spider web |
+
+</details>
 
 ### Computing Vocabulary
-
+#3-SubjCur-Learn-how-17-build_verbal_fluency
 Specifically plan keywords/vocabulary in your lesson plans and schemes of work. This could be a useful exercise to run with your department.
 
 Facilitating Meta-Discourse - Computer Science Education - Sentence 2019
@@ -78,9 +108,11 @@ Facilitating Meta-Discourse - Computer Science Education - Sentence 2019
 2. Speculation about possible meanings (what it could or could not be)
 3. Develop CS related meaning
 
-> Metaphors: The data is transferred -> I will move the file to another folder
-> Computer is a living being: it fell asleep and woke up
-> Always be explicit that these are metaphors!!!
+#3-SubjCur-Learn-how-4-develop_analogies_examples
+* Be very explicit that you are using a metaphors
+    * Metaphors can seed misconceptions
+    * Metaphors: The data is transferred -> I will move the file to another folder
+    * Computer is a living being: it fell asleep and woke up 
 
 Busch 1998
 
@@ -91,6 +123,7 @@ Professional developer interviewing for a position last week
 <sub>David Didau</sub>
 
 ### Examples of subject specific language
+#3-SubjCur-Learn-how-17-build_verbal_fluency
 * General language
     * I'll try -> I'll attempt
     * we'll talk -> we'll deliberate, we'll confer
@@ -117,7 +150,8 @@ Professional developer interviewing for a position last week
 
 ### Computer Science Phrases (20min)
 
-I want explicitly incite you to explore/exercise your Computer Science terminology as part of this session.
+I want to explicitly incite you to explore/exercise your Computer Science terminology as part of this session.
+e.g. give them two statements and ask them which one is technical and correct and why.
 
 * Examples of real computer science language
     * _do, while_ is an iteration pattern
@@ -141,8 +175,9 @@ TASK: Can you create a list of Computing phrases. Some that are _real_ and some 
 
 ### Exam Board phrases
 
-* [Glossary of GCSE command words from AQA](https://literacytrust.org.uk/resources/glossary-gcse-command-words-aqa/)
+* [Glossary of GCSE command words from AQA](https://filestore.aqa.org.uk/resources/computing/AQA-8525-CW.PDF)
     * The language of exams - can be explicitly taught
+* [TES: Exam command words display Computer Science AQA GCSE](https://www.tes.com/teaching-resource/exam-command-words-display-computer-science-aqa-gcse-12581059)
 
 ### Computing Example: The language of (domain goes here)
 Terminology example - [Premiere Pro - Ease In and Ease Out](https://youtu.be/vupwCdFgWpE?t=207) on [easing](https://easings.net/en)
@@ -236,23 +271,3 @@ vocabulary development should be a mixture of indipendent and collaborative lear
 
 
 
-More of my ideas for exercises above
-------------------------------------
-
-| Python | A snake that is poisonous |
-| Secondary Storage | My nans garage |
-| Code review | A friend checking my secret message before I send it |
-| I created a code | 
-| Save | Money at the bank |
-| Search | Like hide and seek |
-| Library | 
-| Jesus Saves |
-| Memory | Ho wmuch can 
-| Network | Friendship - building nets
-| Windows | cant see though it
-| Apple Mac | Coat for frut
-| Praommy on TV |
-| Cloud | up therir
-| Directory | Telephone or direction guide 
-| Fishing emails | I dont want to eat thing
-| Web| Spider web |
