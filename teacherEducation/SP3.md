@@ -1,18 +1,32 @@
 SP3
 ===
-Last Week
+
+Last Week recap
+---------------
 SQ 2: How do you learn to Teach? 
 * Subject Knowledge, Pedagogy, Research
 * Read about Pedagogy? Feedback
 
+This week
+---------
 SQ 4: What is education?
 
 > If we cant agree what education is for, then we will be unable to agree on how to improve it.
 David Daiau 
 
 
+Overview
+--------
 
-* Course Mechanics - Collaborative Teaching Phase - (30min)
+* Course Mechanics (30min) - Collaborative Teaching Phase
+* Curriculum (2 hours)
+* Literacy (1.5 hours)
+
+
+content
+-------
+
+* Course Mechanics - Collaborative Teaching Phase
     * CTP (mentor discussions)
     * CTP Activities
     * Target setting
@@ -22,20 +36,21 @@ David Daiau
     * Review this weeks focus
     * Expectation == everyone with a weekley mentor sheet WB 3rd October
     * Early impressions MSTeams visit (10min)
-
-
-
+    * Reflection (see below)
 * What is a [curriculum](https://en.wikipedia.org/wiki/Curriculum) / subject curriculum?
     * > planned sequence of instruction, or to a view of the student's experiences in terms of the educator's or school's instructional goals
 * [National Curriculum](./curriculum.md) and recent policy
-* Key influential subject documents, reports and research; current and over time
-    * How has subject changed and been influenced over recent times?
-* Digital-literacy
-* Literacy and numeracy in Computing
-* Literacy in Computing and technical language
+    * Key influential subject documents, reports and research; current and over time
+        * How has subject changed and been influenced over recent times?
+* [Literacy](./literacy.md) and numeracy in Computing
+* [Literacy](./literacy.md) in Computing and technical language
     * vocabulary to facilitate thinking about Computing
 
+### Possibly differed to later
+* [Digital-literacy](./digitalLiteracy.md)
 * Planning a lesson
+* Ofsted [Research review series: computing](https://www.gov.uk/government/publications/research-review-series-computing/research-review-series-computing) May 2022
+
 
 ### Addition
 * Elect Rep
@@ -72,9 +87,8 @@ Brockfield's 4 lenses
 * Scholarship lens
 
 
-
 Tasks for SP4
--------------
+=============
 
 * Tasks:
     * Can you acquire the department SOW and subject curriculum overview for KS3 (we will be talking about schemes of work and lesson planning next session SP4)
@@ -89,5 +103,3 @@ Tasks for SP4
 * Bigger questions (as the course progress's):
     * What provision is there for clubs/extra activities?
     * How do your department collaborate/co-ordinate with other subjects?
-
-

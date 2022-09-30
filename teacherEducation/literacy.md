@@ -6,17 +6,19 @@ Literacy
 
 ITT Core Framework
 
+> 3.10. Every teacher can improve pupils’ literacy, including by explicitly teaching reading, writing and oral language skills specific to individual disciplines
+
+> 4.7. High-quality classroom talk can support pupils to articulate key ideas, consolidate understanding and extend their vocabulary.
+
+#3-SubjCur-Learn-that-9-literacy_terminology_vocabulary
+#3-SubjCur-Learn-that-10-responsibility_for_literacy
 #3-SubjCur-Learn-how-14-observe_literacy
 #3-SubjCur-Learn-how-14-build_written_fluency
 #3-SubjCur-Learn-how-15-build_reading_fluency
 #3-SubjCur-Learn-how-15-build_reading_enjoyment
 #3-SubjCur-Learn-how-16-develop_terminology_vocabulary
 #3-SubjCur-Learn-how-17-build_verbal_fluency
-
-
-> 3.10. Every teacher can improve pupils’ literacy, including by explicitly teaching reading, writing and oral language skills specific to individual disciplines
-
-> 4.7. High-quality classroom talk can support pupils to articulate key ideas, consolidate understanding and extend their vocabulary.
+#4-Classroom-Learn-that-7-build_verbal_fluency
 
 [National Curriculum](https://www.gov.uk/government/publications/national-curriculum-in-england-framework-for-key-stages-1-to-4/the-national-curriculum-in-england-framework-for-key-stages-1-to-4)
 * > 6.1 Teachers should develop pupils’ spoken language, reading, writing and vocabulary as integral aspects of the teaching of every subject ... (more)
@@ -189,17 +191,14 @@ Terminology example - [Premiere Pro - Ease In and Ease Out](https://youtu.be/vup
 
 An Ofsted inspector has asked you "What strategies do you have in place to integrate _literacy_ into our classroom practice?"
 
-In breakout groups consider strategies that you might be able to use (15min):
+In groups consider strategies that you might be able to use (15min):
 
 Think about:
-* Assessment?
 * How we present topics?
 * How we create resources?
-* How we setup our environment?
+* How we setup our environment/room?
+* Assessment?
 
-Notes in your Google doc group space.
-
-Elect a spokesperson to report back (10min).
 
 ### Other references
 

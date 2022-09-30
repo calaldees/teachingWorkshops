@@ -41,9 +41,12 @@ Schemes of Work
 Planning for progression - Building schemata
 
 A scheme of work implements a syllabus.
-* [Syllabus](https://en.wikipedia.org/wiki/Syllabus)
+* [Curriculum](https://en.wikipedia.org/wiki/Curriculum) Wikipedia
+    * > Curriculum is broadly defined as the totality of student experiences that occur in the educational process.
+    * > The term often refers specifically to a planned sequence of instruction, or to a view of the student's experiences in terms of the educator's or school's instructional goals
+* [Syllabus](https://en.wikipedia.org/wiki/Syllabus) Wikipedia
     * A syllabus or specification is a document that communicates information about a specific academic course or class and defines expectations and responsibilities. It is generally an overview or summary of the curriculum.
-* [Scheme of work](https://en.wikipedia.org/wiki/Scheme_of_work)
+* [Scheme of work](https://en.wikipedia.org/wiki/Scheme_of_work) Wikipedia
     * > the structure and content of an academic course (syllabus). 
       > It splits an often-multi-year curriculum into deliverable units of work,
     * May include

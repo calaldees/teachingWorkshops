@@ -51,8 +51,8 @@ Hashtags
 #3-SubjCur-Learn-that-6-criticality_requires_knowledge
 #3-SubjCur-Learn-that-7-link_schemata
 #3-SubjCur-Learn-that-8-discipline_transfer_context
-#3-SubjCur-Learn-that-7-literacy_terminology_vocabulary
-#3-SubjCur-Learn-that-7-responsibility_for_literacy
+#3-SubjCur-Learn-that-9-literacy_terminology_vocabulary
+#3-SubjCur-Learn-that-10-responsibility_for_literacy
 #3-SubjCur-Learn-how-1-subject_curriculum_concepts_knowledge_skills
 #3-SubjCur-Learn-how-2-observe_subject_curriculum_delivery
 #3-SubjCur-Learn-how-3-practice_to_master
