@@ -1,17 +1,18 @@
 Constructivism, discovery, collaboration (1.5 Hours)
 ----------------------------------------------------
 
+Discussion about
+
 ITT CCF 4.6
 > Questioning is an essential tool for teachers; questions can be used for many purposes, including to check pupils’ prior knowledge, assess understanding and break down problems.
 
-TASK: Reading/Research (45 min) Async
-Here is some suggested reading
-Explore the concept of constructivism
+TASK: Find out ... (10min) Async
+Explore the concept of "constructivism", what is it?
 
-(After understanding what constructivisum is I suggest reading "Constructivism is not a pedagogy" by David Daidu as this is an excellent counterpoint)
 
 TASK: Activity Concept (15 min) Async
 * Previously you have considered leading knowledge transfer to the class (e.g. our small microteaching experiment)
+
 With this new knowledge about constructivism we are to:
 * Construct a possible concepts for a Computing based activities that could be considered constructivist/discovery/collaborative based
     * What would we need to prepare in advance?
@@ -19,11 +20,18 @@ With this new knowledge about constructivism we are to:
     * How would you define a task/goal?
     * EXTENSION (for the advanced): How would use assess them? what would the criteria be?
 
-Collect your lesson idea/concept/notes/description/bullet-points/paragraph in a group shared document (Padlet? GoogleDoc? HackMD doc? BlackBoard Wiki? Other?)
+TASK: (Overall 15min? to 30min?)
+* Consider Solo 5-10min
+* Consider Pairs 5-10min
+* Consider Class 5-10min
 
-TASK: (15min to 30min?) Sync
-Select volunteers
+<details>
 
+Pretty hard right
+How can a young person build understanding of something when they have very little pre-requisite knowledge
+
+You can use these techniques to consolidate/practice, but to generate the initial learning concepts??!?
+</details>
 
 ### Description
 
@@ -39,6 +47,7 @@ Learning is viewed as something that happens in the mind of each learner.
 Constructivist theory, based on the work of Dewey (1938); Piaget (1950) and Bruner (1996) suggests that learning is a cumulative and active process during which the student constructs knowledge and meaning for themselves as they learn, connecting with, and explaining new knowledge in terms of, what they already know
 
 Working with tangible real world objects is a central tenet of Papert’s constructionism (Papert and Harel 1991)
+(See Mindstorms on reading list)
 
 
 * [Constructivism (philosophy of education)](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education))
@@ -50,7 +59,7 @@ Working with tangible real world objects is a central tenet of Papert’s constr
 * [Constructivist Teaching and Learning](https://saskschoolboards.ca/wp-content/uploads/97-07.htm)
     * At the core of the constructivist classroom, we often find project-based, problem-based or experience-based learning approaches
         * Pupil centred learning
-        * project based learning
+        * Project based learning
         * Competency based integrated curriculum (CBIC)
         * Steiner Schools
             * [Steiner Waldorf Schools Fellowship](https://www.steinerwaldorf.org/)
@@ -100,7 +109,7 @@ Working with tangible real world objects is a central tenet of Papert’s constr
     * > overemphasis on competition can cause learners to focus on winning rather than succeeding in their learning.
 
 Aggerholm, Standal and Hordvik
-low level competition in pe can provide students with meaningful posetive experiences. (small groups)
+low level competition in pe can provide students with meaningful positive experiences. (small groups)
 Give _option_ for competition gives sense of ownership of their leaning
 
 ### Consider the phrase 'Asking not telling'
@@ -115,6 +124,16 @@ Give _option_ for competition gives sense of ownership of their leaning
     * More debug output?
 * How would we modify it to (new thing)?
     * Slightly different values
-* How what additions could we make?
+* What additions could we make?
 * How can we make those additions?
 
+
+Counterpoint
+============
+
+Direct Instruction
+------------------
+
+(After understanding what constructivism is I suggest reading "Constructivism is not a pedagogy" by David Daidu as this is an excellent counterpoint)
+* [Constructivism is not a pedagogy](https://learningspy.co.uk/literacy/constructivism-is-not-a-pedagogy/) (25min)
+* [Chapter 4: Direct Instruction](https://www.sagepub.com/sites/default/files/upm-binaries/14255_Chapter4.pdf) [doi](https://dx.doi.org/10.4135/9781452232324.n4) - from [Models of Teaching: Connecting Student Learning with Standards](https://dx.doi.org/10.4135/9781452232324) 2007 Jeanine M. Dell'Olio & Tony Donk [Google Preview](https://books.google.co.uk/books?id=FQRzAwAAQBAJ)

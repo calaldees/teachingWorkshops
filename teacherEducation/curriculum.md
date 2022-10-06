@@ -123,7 +123,7 @@ TASK: Look at the National Curriculum and categorise the points into the table b
 <details>
 
 ANSWERS: As a group, Let's compare against CAS allocations - where are your misunderstandings?
-* Computing at School [Computing in the national curriculum: A guide for secondary teachers](https://www.computingatschool.org.uk/data/uploads/cas_secondary.pdf) 2014
+* Computing at School [Computing in the national curriculum: A guide for secondary teachers](https://www.computingatschool.org.uk/resource-library/2014/september/computing-in-the-national-curriculum-a-guide-for-secondary-teachers) 2014
 </details>
 
 

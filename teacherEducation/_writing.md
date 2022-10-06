@@ -1,6 +1,7 @@
 Academic Writing
 ================
 
+* [The Only Academic Phrasebook You'll Ever Need: 600 Examples of Academic Language](https://www.amazon.co.uk/Only-Academic-Phrasebook-Youll-Ever-ebook/dp/B01M0QFVHL/)
 
 ## Some Academic Terminology
 

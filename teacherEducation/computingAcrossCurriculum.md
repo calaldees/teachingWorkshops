@@ -347,6 +347,7 @@ Timeboxed? One hour? I could go all day
     * Create a webpage with a world map and use absolute positioning to embed videos from [skylinewebcams](https://www.skylinewebcams.com)
     * [ancient-earth 3D globe](https://dinosaurpictures.org/ancient-earth)
     * [Realtime wind](https://earth.nullschool.net/) [windy.com](https://www.windy.com)
+    * https://stellarium-web.org/ - tracking planets and satellites visible
 * History
     * [Stereoscopy](https://en.wikipedia.org/wiki/Stereoscopy) 3D Photography
     * My Real [ViewMaster](https://en.wikipedia.org/wiki/View-Master) 50's Dover
@@ -382,6 +383,10 @@ Timeboxed? One hour? I could go all day
                 * [10 Most(ly dead) Influential Programming Languages](https://hillelwayne.com/post/influential-dead-languages/)
     * [Apollo missions in realtime](https://apolloinrealtime.org/)
         * A real-time journey through the Apollo missions -consists entirely of historical mission material
+    * [OllieBye](https://www.youtube.com/c/OllieBye/videos) - Videos of timelaps visualisations of history
+        * spread of language
+        * elections
+        * world city size
 * Film (this is more _context_ than curriculum. Just here as a placeholder ...)
     * [Python For Feature Film](https://www.gfx.dev/python-for-feature-film)
 * Physics

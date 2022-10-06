@@ -195,8 +195,8 @@ Tuesday 27th September
 * Set Microteach for SP4
 
 
-KSQ 4: What is education?
--------------------------
+SQ 4: What is education?
+------------------------
 
 Beginning to understand the curriculum, educational diversity and the factors that frame and influence both
 
@@ -252,6 +252,8 @@ Thursday 6th October
     * Pupils learn new ideas by linking those ideas to existing knowledge, organising this knowledge into increasingly complex mental models
 * Exploring strategies that aid teaching and learning including contextualised, independent, discovery
 
+* [Subject Pedagogy Research Proposal: Microsoft Form](https://forms.office.com/Pages/ResponsePage.aspx?id=2rIgA90iq02MIW5kS6FPE4bZosdBzY5AvRurHpjUivVUQ0JRMFNOREUwNlBTVkxLREQ5UDFQVDVaRC4u)
+
 
 KSQ 5: How do children learn?
 -----------------------------
@@ -296,8 +298,6 @@ Friday 7th October - 11:00
 * Concept maps
 * #notional-machine
 
-
-* Subject Pedagogy Research Proposal: Microsoft Form
 
 
 ### EP2

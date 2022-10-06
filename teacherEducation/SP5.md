@@ -2,10 +2,41 @@ SP5
 ===
 
 todo:
-langauage in school recap
+
+* What are your targets
+    * Specific? Measurable? Timeboxed? - Actions for mentor or student
+* Progression (30min)
+    * KS3 -> KS5
+    * How is this done in your school
+
+language in school recap
 
 
-KSQ 5: How do children learn?
+* Planning for progression - Schemes of Work - Building schemata
+    * Pupils learn new ideas by linking those ideas to existing knowledge, organising this knowledge into increasingly complex mental models
+
+* Planning to aid learning in subject; making effective use of a lesson plan
+
+* General education theories
+* Prior knowledge, memory and recall; scaffolding learning
+* scaffolding learning for prior knowledge, working memory and long-term memory
+    * retrieve information from memory, and spacing practice
+    * Interleaving
+        * concrete and abstract examples
+* Threshold (foundational) concepts in Computing
+    * Liminal space
+* Novice v experts (schemata)
+    * explicit, direct instruction with guided practice and relevant feedback
+* Meta-cognition
+* Cognitive load
+    * Parsons problems
+* Concept maps
+* #notional-machine
+
+
+
+
+SQ 5: How do children learn?
 
 Developing an understanding of how children learn and the key barriers to learning.
 
@@ -23,8 +54,6 @@ Developing an understanding of how children learn and the key barriers to learni
         * Look at subject knowledge audit - ask about your planned areas
         * Ask about SP1 topic
 
-TODO:
-* [Chapter 4: Direct Instruction](https://www.sagepub.com/sites/default/files/upm-binaries/14255_Chapter4.pdf) - from [Models of Teaching: Connecting Student Learning with Standards](https://dx.doi.org/10.4135/9781452232324) 2007 Jeanine M. Dell'Olio & Tony Donk [Google Preview](https://books.google.co.uk/books?id=FQRzAwAAQBAJ)
 
 
 Session Overview
