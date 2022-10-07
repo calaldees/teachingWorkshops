@@ -1,16 +1,33 @@
 How Students Learn
 ==================
 
-TODO
-* [EEF: Cognitive science approaches in the classroom](https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/cognitive-science-approaches-in-the-classroom) - Report summarising the evidence for cognitive science approaches in school settings
+Entire section of CCF
+#2-HowLearn-Learn-that-2-prior_knowledge_identified
+#2-HowLearn-Learn-that-4-working_memory
+#2-HowLearn-Learn-that-5-long_term_memory
+#2-HowLearn-Learn-that-6-misconceptions
+#2-HowLearn-Learn-that-7-regular_practice
+#2-HowLearn-Learn-that-8-spaced_retrieval
+#2-HowLearn-Learn-that-9-worked_examples
+#2-HowLearn-Learn-how-1-prior_knowledge_in_planning
+#2-HowLearn-Learn-how-2-reduce_distractions_increase_focus
+#2-HowLearn-Learn-how-3-small_steps
+#2-HowLearn-Learn-how-4-sequence_foundations
+#2-HowLearn-Learn-how-5-identify_misconceptions
+#2-HowLearn-Learn-how-6-pupils_share_understanding
+#2-HowLearn-Learn-how-7-link_prior_knowledge
+#2-HowLearn-Learn-how-8-plan_review
+#2-HowLearn-Learn-how-9-success_rate_80
+#2-HowLearn-Learn-how-10-balance_exposition_repetition_practice_retrieval
+#2-HowLearn-Learn-how-11-increase_challenge
 
 
----
 
 * [A Theory of Applied Mind of Programming](https://dl.acm.org/doi/10.1145/3304221.3325596) 2019 ongoing PhD - Understanding the challenges in learning to program 
-    * > Solving problems with computing is  complex  and  multidisciplinary
-    * > Learning models typically focus on knowledge acquisition, but in programming knowledge must be applied to problem-solving.
-    * > Programming is an artificial construct driven by many symbols, the programming language, but often  with an invisible result that makes developing  mental models of action and abstract images challenging.
+    * > Solving problems with computing is complex and multidisciplinary
+    * > Learning models typically focus on knowledge acquisition, but in programming knowledge must be applied to problem-solving
+    * > Programming is an artificial construct driven by many symbols, the programming language, but often  with an invisible result that makes developing  mental models of action and abstract images challenging
+
 
 Theory to Practice
 ------------------
@@ -35,9 +52,9 @@ If I talk at you, that may feel easy. All the great knowledge going at you. But 
 
 * This session: Masters level free-form theory deep dive brawl.
 * You explore a range of theories. Keep discussing "what is this, what does this mean for my teaching"
-* Stockpile a range of reference amo for SP1
+* Stockpile a range of reference amo for academic writing
 
-Have the [Computing National Curriculum](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study#key-stage-3) to hand
+Have the [Computing National Curriculum](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study#key-stage-3) to hand and in the back of your mind
 
 
 Old Theories
@@ -64,7 +81,7 @@ TASK:
 
 Masters Level: Be critical of all of these theories. Why might they not be the whole picture?
 
-TODO:
+
 * [Confronting 5 Damaging Educational Myths](https://thechalkboardreview.com/latest/confronting-5-damaging-educational-myths)
     * Teach critical thinking, not facts
     * Reading is a skill
@@ -111,9 +128,9 @@ Required-Reading
 
 ### Understanding How we Learn - A visual guide
 
-* [Understanding How we Learn - A visual guide](https://www.learningscientists.org/book) 2018
+* [Understanding How we Learn - A visual guide](https://www.learningscientists.org/uhwl) 2018
     * [visuals by oliver calgary](https://www.olicav.com/#/understanding-how-we-learn/)
-* Read this book preview.
+* Read this book preview (10min)
 When reading; make notes about action points that would affect the planning of your computing lessons.
 
 Many of the topics touched on in the reading will be explored in more detail in the session.
@@ -130,6 +147,10 @@ TASK: From our reading - Discuss
     * American based
     * These are not panacea's
 * [Cognitive science approaches in the classroom](https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/cognitive-science-approaches-in-the-classroom) Jult 2021 - Report summarising the evidence for cognitive science approaches in school settings
+    * > Cognitive science principles of learning can have a real impact on rates of learning in the classroom. There is value in teachers having working knowledge of cognitive science principles.
+    * > The evidence for the application of cognitive science principles in everyday classroom conditions (applied cognitive science) is limited, with uncertainties and gaps about the applicability of specific principles across subjects and age ranges.
+        * e.g Duel coding not used effectively
+    * > Applying the principles of cognitive science is harder than knowing the principles and one does not necessarily follow from the other. Principles do not determine specific teaching and learning strategies or approaches to implementation. Considering how cognitive science principles are implemented in the classroom is critical.
 
 
 ### My Notes
@@ -239,7 +260,8 @@ See Expertise Reversal Effect in [inclusion.md](./inclusion.md) - too much suppo
 
 Help sheets or Knowledge Organisers can help reduce cognitive load
 
-* DfE [Cognitive load theory in practice Examples for the classroom](https://khsbpp.files.wordpress.com/2018/11/cognitive_load_theory_practice_guide_aa.pdf)
+* NSW Government DfE [Cognitive load theory in practice Examples for the classroom](https://khsbpp.files.wordpress.com/2018/11/cognitive_load_theory_practice_guide_aa.pdf) Center for Education Statistics and Evaluation
+    * Understanding prior knowledge is VITAL to your planning for cognitive load
 * NCCE
     * [Pedagogy Quick Read #1 : Cognitive Load Theory](https://blog.teachcomputing.org/pedagogy-bytes-quick-reads-for-busy-educators/)
     * [Quick Read: Improving program comprehension through Parson’s Problems](https://blog.teachcomputing.org/quick-read-improving-program-comprehension-throughparsons-problems/)
@@ -256,6 +278,11 @@ Help sheets or Knowledge Organisers can help reduce cognitive load
         * [Mismatch of Expectations: How Modern Learning Resources Fail Conversational Programmers](https://dl.acm.org/doi/10.1145/3173574.3174085)
 
 TASK: What does this mean for your planning?
+
+<details>
+
+
+</details>
 
 
 A Mental Model of the Learner - Daniel Willingham
@@ -293,9 +320,19 @@ Brings together many other modern working theories.
     * [PRINCIPLES OF INSTRUCTION - A thematic interpretation for teachers by Tom Sherrington](https://www.olicav.com/s/Rosenshine-Principles-red-anke.pdf) Oliver Caviglioli Visualisation
 
 * You only remember something is you've encountered it 3 times encounter (Nutall)
-* Gibbs 2020 - cautioned about Rosenshines principles being used in every classroom ever lesson limited the teachers creativity
 
-TASK: What does this mean for your planning?
+TASK: Discuss Criticaly - 
+Rosenshine if the best, research proven stratergy to learning. Entire schools call themselves Rosenshine schools.
+What could be the problems with this?
+
+<details>
+
+* Gibbs 2020 - cautioned about Rosenshines principles being used in every classroom ever lesson limited the teachers creativity
+</details>
+
+
+Think-Write-Voice
+Action point: What will you consider in your planning?
 
 
 Frequent Retrieval/Questions/Assessment/Quiz
@@ -308,7 +345,7 @@ How will you do this?
 
 * Hand up?
     * No Hands Up - [Video Clip](https://youtu.be/J25d9aC1GZA?t=321) Watch 5:21 to 8:43 == 3min20seconds
-        * Dylan Willam Advocates against this
+        * Dylan Willam thinks hands up is one of the most damaging things in classrooms
     * Flawed sample group
     * Pressure/Public - not inclusive practice
 * Teacher pick a random student
@@ -342,13 +379,31 @@ Constructing quality questions that give you meaningful data (e.g the incorrect 
 TASK: What does this mean for your planning?
 
 
+Retrieval Practice
+------------------
+* [A systematic review of interleaving as a concept learning strategy](https://doi.org/10.1002/rev3.3266) 2021 Jonathan Firth, Ian Rivers, James Boyle
+    * Repeat things with subtle differences to get maximum retention of 0.65
+* [Retrieval Practice 2: Implementing, embedding & reflecting](https://books.google.co.uk/books?id=1oM7EAAAQBAJ&dq=jones+2021+Students+are+incline+to+resort+to+cramming+or+re-reading+as+this+is+as+requiring+less+effort+and+energy+in+comparison+to+self-testing+when+examination%27s+are+imminent.+Giving+a+false+sense+of+confidence&lr=&source=gbs_navlinks_s) Kate Jones 2021
+    * Students are incline to resort to cramming or re-reading as this is as requiring less effort and energy in comparison to self-testing when examination's are imminent. Giving a false sense of confidence
+    * ISBN 9781914351013
+    * Moreira, Pinto, Starling and Jaeger "retrieval yields greater long term retention fo the studied material than just restudying"
+* [Does research on retrieval practice translate into classroom practice?](https://impact.chartered.college/article/does-research-retrieval-practice-translate-classroom-practice/) Robert Coe 2020
+    * yes and no ...
+    * Why might retrieval practice fail?
+        * Retrieval questions might be generated that focus solely on factual recall (these questions are easier to generate) rather than requiring higher-order thinking
+        * Questions might be too easy and boost confidence without providing real challenge, which is likely to be a key ingredient for generating the kind of learning hoped for
+        * Too much time could be allocated to the quizzes, effectively losing the time that students need to cover new material.
+    * Just quizzing may not be enough
+
+
+
 Liminal Space
 -------------
 
 * [Learning in the Liminal Space: a Semiotic Approach to Threshold Concepts](http://dro.dur.ac.uk/13381/1/13381.pdf) 2014 Ray Land et al
     * [Threshold Concepts in Practice](https://www.amazon.co.uk/Threshold-Concepts-Practice-Educational-Futures/dp/9463005102/) 2016
     * > These conceptual gateways are integrative, exposing the previously hidden interrelatedness of ideas, and are irreversible.
-      > However they frequently present troublesome knowledge and are often points at which students become stuck. 
+      > However they frequently present troublesome knowledge and are often points at which students become stuck.
       > Difficulty in understanding may leave the learner in a 'liminal' state of transition, a 'betwixt and between' space of knowing and not knowing, where understanding can approximate to a form of mimicry.
       > Learners navigating such spaces report a sense of uncertainty, ambiguity, paradox, anxiety, even chaos
 * Forgetting is normal - Liminal space is normal - reassure them it is normal
@@ -363,29 +418,19 @@ Liminal Space
     * Once we understand those threshold concepts, we can move on to Algorithms
     * Once we understand there are different algorithms to solve the same problem we can can deliberate which may be the most appropriate and why
 
-TASK: What does this mean for your planning?
-
-Build a tree of knowledge for computing, what are some of the threshold concept that unlock other skills
+TASK: Build a tree of knowledge for computing, what are some of the threshold concept that unlock other skills?
 
 
 Teaching for Mastery
 --------------------
 * [Secondary Mathematics Teaching for Mastery: Some themes and key principles](https://www.ncetm.org.uk/media/q0ykgtje/secondary-teaching-for-mastery-march-2021.pdf)
-    * > Lessons are designed to have a high-level of teacher-student and student-student interaction where all students 
-    in the class are thinking about, working on, and discussing the same mathematical content. Challenge and the 
-    opportunity to deepen understanding of the key mathematical ideas is provided for all.
-    * > Every attempt is made to keep the whole class learning together. Differentiation is achieved, not through offering 
-    different content, but through paying attention to the levels of support and challenge needed to allow every 
-    student to fully grasp the concepts and ideas being studied.
-    * > For those students who grasp ideas quickly, acceleration into new content is avoided. Instead, these students are 
-    challenged by deeper analysis of the lesson content and by applying the content in new and unfamiliar problem-
-    solving situations. If some students fail to grasp an important aspect of the lesson, this is identified quickly, and 
-    early intervention ensures that they are ready to move forward with the whole class in the next lesson.
-    * > Teachers use well-crafted examples and exercises which, through careful use of variation (including what to keep 
-    the same) focuses students’ attention on the key learning point.
+    * > Lessons are designed to have a high-level of teacher-student and student-student interaction where all students in the class are thinking about, working on, and discussing the same mathematical content. Challenge and the opportunity to deepen understanding of the key mathematical ideas is provided for all.
+    * > Every attempt is made to keep the whole class learning together. Differentiation is achieved, not through offering different content, but through paying attention to the levels of support and challenge needed to allow every student to fully grasp the concepts and ideas being studied.
+    * > For those students who grasp ideas quickly, acceleration into new content is avoided. Instead, these students are challenged by deeper analysis of the lesson content and by applying the content in new and unfamiliar problem-solving situations. If some students fail to grasp an important aspect of the lesson, this is identified quickly, and early intervention ensures that they are ready to move forward with the whole class in the next lesson.
+    * > Teachers use well-crafted examples and exercises which, through careful use of variation (including what to keep the same) focuses students’ attention on the key learning point.
 
 
-Knowledge Organisers and Mind Maps
+Knowledge Organisers and Mind Maps (30min)
 ----------------------------------
 
 * [Organising knowledge: The purpose and pedagogy of knowledge organisers](https://impact.chartered.college/article/organising-knowledge-purpose-pedagogy-knowledge-organisers/) MARK MILLER September 2018 [BlackBoard pdf](https://learn.canterbury.ac.uk/bbcswebdav/pid-2681383-dt-content-rid-4010508_1/xid-4010508_1)
@@ -394,6 +439,12 @@ Knowledge Organisers and Mind Maps
     * > “My students just keep forgetting everything - even though I’ve taught it to them over and over again!”
     * > Knowledge Organisers are an increasingly popular teaching method in schools and simply involve distilling the key information for a term’s teaching, or a topic, onto 1 side of A4 – similar to a graphic organiser.
       > This Knowledge Organiser is given to students as #homework on Show My Homework with instructions for students and parents on how the students can test themselves, and how the parents can test their children, to memorise as much of the key information as possible.
+
+
+TASK: Think-Pair-Share - How would you use the concept of a knowledge organiser? Are they effective? (20min total)
+* Examples of computing knowledge organisers
+    * [Google: computing+knowledge+organiser+ks3](https://www.google.com/search?q=computing+knowlege+organiser+ks3)
+
 * [Are knowledge organisers flawed?](https://learningspy.co.uk/psychology/are-knowledge-organisers-flawed/) David Daidu
     * > most schools don’t have self-quizzing cultures built in. Students don’t use them effectively and just copy words across blindly without self-quizzing.
       > Worse than that, the KO’s are just stuck into students’ books (or reside at the bottom of their bags) and are never looked at again. 
@@ -412,17 +463,8 @@ Knowledge Organisers and Mind Maps
         * they don’t actually test whether they understand what they’re written
         * try 15min time-box to replicate mind-map from memory
     * Mistake 6 - Not transferring mind map knowledge
-* Examples of computing knowledge organisers
-    * [Google: computing+knowlege+organiser+ks3](https://www.google.com/search?q=computing+knowlege+organiser+ks3)
-        * [george-eliot](http://www.george-eliot.warwickshire.sch.uk/knowledge-organisers)
-        * [bba.bristol](https://www.bba.bristol.sch.uk/_site/data/files/users/11/AB2F1DC3B231DC6A1648DED0BEE19BA0.pdf)
-        * [tes (selling resources)](https://www.tes.com/teaching-resource/ks3-computing-knowledge-organisers-bundle-12002170) paid
-        * [Giles Academy](http://www.gilesacademy.co.uk/computing-knowledge-organiser/)
-        * [abrahamdarbycomputing](https://abrahamdarbycomputing.wordpress.com/yr7-cs-knowledge-organisers/)
 
-
-TASK: What does this mean for your planning?
-
+ 
 
 Generative Learning
 -------------------
@@ -617,6 +659,7 @@ Closing Thoughts
     * Recall and Evaluation are key
 * Train students to check their own knowledge and train them to check each others knowledge
 * Idea: Ask students to 'Describe a concept with a picture/diagram/visual/mime'. great retrieval practice
+    * interpretive dance (fun teacher demo)
 
 Feedback:
 * You are now on your way to become professional educations.
@@ -638,9 +681,11 @@ hattie and yates - learning starts from what we already know and proceeds toward
 vygotsky 2970 p92 most of what a child learns occurs though 'social interactions with a skilful tutor'
 
 
+> scaffolds should be used to make the impossible possible and not making easy work easier
+>
+> 'never put up scaffolds unless we a plan for taking it down, if we leave it there, students will become dependent on it'
+Didau 2015
 
-Didau 2015 - scaffolds should be used to make the impossible possible and not making easy work easier
-'never put up scaffolds unless we a plan for taking it down, if we leave it there, students will become dependent on it'
 
 
 Carnegie Mellon University 2021 - value what they are learning or consider it significant
@@ -688,12 +733,44 @@ See EEF findings
 
 
 
+
+
+Principles Summary
+----------
+
+* Internation Academy of Education - Education Practices Series - [How children learn](https://www.iaoed.org/downloads/prac07e.pdf) Stella Vosniadou - 
+    1. Active Involvement
+        * Learning requires the active, constructive involvement of the learner.
+    2.  Social participation
+        * Learning is primarily a social activity and participation in the social life of the school is central for learning to occur
+    3. Meaningful activities 
+        * People learn best when they participate in activities that are perceived to be useful in real life and are culturally relevant.
+    4. Relating new information to prior knowledge
+        * New knowledge is constructed on the basis of what is already understood and believed
+    5. Being strategic
+        * People learn by employing effective and flexible strategies that help them to understand, reason, memorize and solve problems
+    6.  Engaging in self-regulation and being reflective
+        * Learners must know how to plan and monitor their learning, how to set their own learning goals and how to correct errors
+    7. Restructuring prior knowledge
+        * Sometimes prior knowledge can stand in the way of learning something new. Students must learn how to solve internal inconsistencies and restructure existing conceptions when necessary
+    8. Aiming towards understanding rather than memorization
+        * Learning is better when material is organized around general principles and explanations, rather than when it is based on the memorization of isolated facts and procedures
+    9. Helping students learn to transfer
+        * Learning becomes more meaningful when the lessons are applied to real-life situations
+    10. Taking time to practice
+        * Learning is a complex cognitive activity that cannot be rushed. It requires considerable time and periods of practice to start building expertise in an area
+    11. Developmental and individual differences
+        * Children learn best when their individual differences are taken into consideration
+    12.  Creating motivated learners
+        * Learning is critically influenced by learner motivation. Teachers can help students become more motivated learners by their behaviour and the statements they make
+
+
+
+
 TODO
 -----
 
 Banking Model - Student know nothing and I'm going to fill them
-
-* [How children learn](https://www.iaoed.org/downloads/prac07e.pdf) Stella Vosniadou
 
 
 * CPA (often used in primary)
@@ -708,25 +785,15 @@ Lamb 2017 -> Dorinyes? Taxonomy of motivational strategies 2001
 * Encouraging positive retrospective self evaluation
 
 
-* [Retrieval Practice 2: Implementing, embedding & reflecting](https://books.google.co.uk/books?id=1oM7EAAAQBAJ&dq=jones+2021+Students+are+incline+to+resort+to+cramming+or+re-reading+as+this+is+as+requiring+less+effort+and+energy+in+comparison+to+self-testing+when+examination%27s+are+imminent.+Giving+a+false+sense+of+confidence&lr=&source=gbs_navlinks_s) Kate Jones 2021
-    * Students are incline to resort to cramming or re-reading as this is as requiring less effort and energy in comparison to self-testing when examination's are imminent. Giving a false sense of confidence
-    * ISBN 9781914351013
-    * Moreira, Pinto, Starling and Jaeger "retrieval yields greater long term retention fo the studied material than just restudying"
 
 Bastow 2020
 Student who have a study session followed by a session retrieval practice did at least 30 better in final examinations
 Bastow and Watson 2019-2020
 
-* [Does research on retrieval practice translate into classroom practice?](https://impact.chartered.college/article/does-research-retrieval-practice-translate-classroom-practice/) Robert Coe 2020
-    * yes and no ...
-    * Why might retrieval practice fail?
-        * Retrieval questions might be generated that focus solely on factual recall (these questions are easier to generate) rather than requiring higher-order thinking
-        * Questions might be too easy and boost confidence without providing real challenge, which is likely to be a key ingredient for generating the kind of learning hoped for
-        * Too much time could be allocated to the quizzes, effectively losing the time that students need to cover new material.
-    * Just quizzing may not be enough
 
 
-Sweller 2011 - "transient information effect" - loose key information due to overwelming cognitive loads
+
+Sweller 2011 - "transient information effect" - loose key information due to overwhelming cognitive loads
 
 
 Variation theory - keep most aspect of the question the same
@@ -742,12 +809,11 @@ Kullberg et al 2007  <-- TODO!
 Vancus 2009 - no reason to engage if no visible use for it
 * Wingfield and Eccles (1992) "Utility Value"
 * Ryan and Deci (2000) Intrinsic and Extrinsic motivation
-
 Extrinsic when younger develops into intrinsic - being good at something is motivating
 
 
 
-Executive function skills are a fundation of learning Marc North 2020
+Executive function skills are a function of learning Marc North 2020
 
 Personalisaing Wei Ung 2020
 
@@ -786,11 +852,3 @@ The basic model of Working memory and Long term memory felt very much like 1970�
     * > Our trust gives students a full extra year of schooling over 5 years. The country should follow our example
     * Is this researched based? Is there evidence for this?
 
-* [One Pagers Refresh](https://www.jamieleeclark.com/blog/one-pagers-refresh) A4 graphic summarys
-    * Questioning
-    * Modeling
-    * Feedback
-    * Retreval practice
-
-* [A systematic review of interleaving as a concept learning strategy](https://doi.org/10.1002/rev3.3266)
-    * Repeat things with subtle differences to get maxium retention of 0.65

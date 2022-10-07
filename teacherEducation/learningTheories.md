@@ -82,7 +82,7 @@ laws passed to protect children
 * Cognitive theories
     * Piaget
         * [Cognitive development theory](https://www.youtube.com/watch?v=IhcgYgx7aAA) 6min youtube
-        * Constuct understaning
+        * Construct understanding
         * Stages
             * Sensory Motor (0 to 2) 
                 * Motor, see, smell , touch - object permanence (exist when we cant see them)
@@ -104,10 +104,10 @@ laws passed to protect children
                 * Know why other behave like they do
                 * Deductive reasoning
                 * Plan life
-                * Asumptions about events
-                * Phyosophise and think about thinking
+                * Assumptions about events
+                * Philosophise and think about thinking
         * Children though through actions
-        * Children repeatedly makes mistakes that older people do not - they must be working dofferently
+        * Children repeatedly makes mistakes that older people do not - they must be working differently
     * Vygotsky
         * Knowledge is socially constructed
         * Learn from expert members of society
