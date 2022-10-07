@@ -257,12 +257,13 @@ See Expertise Reversal Effect in [inclusion.md](./inclusion.md) - too much suppo
 
 > Gesturing is a technique children use to reduce cognitive load while speaking
 
-Help sheets or Knowledge Organisers can help reduce cognitive load
+Help sheets or Knowledge Organisers can help reduce cognitive load.
 
-* NSW Government DfE [Cognitive load theory in practice Examples for the classroom](https://khsbpp.files.wordpress.com/2018/11/cognitive_load_theory_practice_guide_aa.pdf) Center for Education Statistics and Evaluation
+* CESE NSW Government DfE [Cognitive load theory in practice Examples for the classroom](https://khsbpp.files.wordpress.com/2018/11/cognitive_load_theory_practice_guide_aa.pdf) Center for Education Statistics and Evaluation 2018
     * Understanding prior knowledge is VITAL to your planning for cognitive load
-
+    * Lots of classroom examples - beautifully presented
 * NCCE [Pedagogy Quick Read #1 : Cognitive Load Theory](https://blog.teachcomputing.org/pedagogy-bytes-quick-reads-for-busy-educators/)
+
 
 ### Cognitive Load - Parsons Problems
 * NCCE [Quick Read: Improving program comprehension through Parson’s Problems](https://blog.teachcomputing.org/quick-read-improving-program-comprehension-throughparsons-problems/)
@@ -272,7 +273,7 @@ Help sheets or Knowledge Organisers can help reduce cognitive load
 * [Parsons problems](https://www.futurelearn.com/info/courses/secondary-programming-pedagogy/0/steps/68422)
 
 TASK: create a parsons problem for "Bubble Sort" (postit notes)
-* Pair (communicate with technical terminology) - you are not alone to fail
+* Pair (communicate with technical terminology) - you are not alone to fail alone
 * Retrieval practice (for you)
 * Solve another pairs problem
 
