@@ -149,7 +149,7 @@ TASK: From our reading - Discuss
 * [Cognitive science approaches in the classroom](https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/cognitive-science-approaches-in-the-classroom) Jult 2021 - Report summarising the evidence for cognitive science approaches in school settings
     * > Cognitive science principles of learning can have a real impact on rates of learning in the classroom. There is value in teachers having working knowledge of cognitive science principles.
     * > The evidence for the application of cognitive science principles in everyday classroom conditions (applied cognitive science) is limited, with uncertainties and gaps about the applicability of specific principles across subjects and age ranges.
-        * e.g Duel coding not used effectively
+        * e.g Dual coding not used effectively
     * > Applying the principles of cognitive science is harder than knowing the principles and one does not necessarily follow from the other. Principles do not determine specific teaching and learning strategies or approaches to implementation. Considering how cognitive science principles are implemented in the classroom is critical.
 
 
@@ -191,7 +191,7 @@ TASK: From our reading - Discuss
     * Elaborate (add features to memory) - 'How' 'Why'
     * Must be connected to pre-existing knowledge
     * Multiple concrete (real) examples
-    * Duel coding - images + words
+    * Dual coding - images + words
 * Chapter 11 Reinforcing learning
     * Act of retrieval strengthens memory
     * Frequent low stakes quizzes
@@ -221,13 +221,12 @@ Dual Coding
 * [ALLAN PAIVIO’S DUAL CODING THEORY - poster](https://static1.squarespace.com/static/58e151c946c3c418501c2f88/t/5d00def50187cc00011c166d/1560338166118/Paivio%27s+DCT+model.pdf) Oliver Caviglioli
 * [HOW TO TEACH LIKE AN ATTENTION MEGALOMANIAC](https://rclutterbucked.files.wordpress.com/2020/05/teach-like-an-attention-megalomaniac-pdf-2.pdf)
 
-TASK: What does this mean for your planning?
-
 
 * [Oliver Caviglioli - Visual Clarity](https://www.olicav.com/#/posters/)
     * visual diagrams about teaching
 He has illustrated many of the theories we are looking at today
 
+* [Google: computing+knowledge+organiser+ks3](https://www.google.com/search?q=computing+knowlege+organiser+ks3)
 
 
 Cognitive load theory
@@ -262,27 +261,45 @@ Help sheets or Knowledge Organisers can help reduce cognitive load
 
 * NSW Government DfE [Cognitive load theory in practice Examples for the classroom](https://khsbpp.files.wordpress.com/2018/11/cognitive_load_theory_practice_guide_aa.pdf) Center for Education Statistics and Evaluation
     * Understanding prior knowledge is VITAL to your planning for cognitive load
-* NCCE
-    * [Pedagogy Quick Read #1 : Cognitive Load Theory](https://blog.teachcomputing.org/pedagogy-bytes-quick-reads-for-busy-educators/)
-    * [Quick Read: Improving program comprehension through Parson’s Problems](https://blog.teachcomputing.org/quick-read-improving-program-comprehension-throughparsons-problems/)
-        * Learner rearranges the lines of code to solve the task
-        * benefit of Parson’s Problems is that the learner is focusing on the structure and logic of blocks of code, rather than the syntax of individual text elements (atoms). The process reduces the cognitive load experienced by learners, allowing them to practise sequencing and problem-solving with code. 
-        * [js-parsons.github.io](https://js-parsons.github.io/)
+
+* NCCE [Pedagogy Quick Read #1 : Cognitive Load Theory](https://blog.teachcomputing.org/pedagogy-bytes-quick-reads-for-busy-educators/)
+
+### Cognitive Load - Parsons Problems
+* NCCE [Quick Read: Improving program comprehension through Parson’s Problems](https://blog.teachcomputing.org/quick-read-improving-program-comprehension-throughparsons-problems/)
+    * Learner rearranges the lines of code to solve the task
+    * benefit of Parson’s Problems is that the learner is focusing on the structure and logic of blocks of code, rather than the syntax of individual text elements (atoms). The process reduces the cognitive load experienced by learners, allowing them to practise sequencing and problem-solving with code. 
+    * [js-parsons.github.io](https://js-parsons.github.io/)
+* [Parsons problems](https://www.futurelearn.com/info/courses/secondary-programming-pedagogy/0/steps/68422)
+
+TASK: create a parsons problem for "Bubble Sort" (postit notes)
+* Pair (communicate with technical terminology) - you are not alone to fail
+* Retrieval practice (for you)
+* Solve another pairs problem
+
+
+<details>
+
+
+</details>
+
+
+Conversational Programming
+--------------------------
+
+Considering cognitive load
+
 * Conversational Programmers
     * Conversational Programmers (High level patterns - in blocks)
     * Build working program in chunked examples
     * (Kind of like my engineering projects - [chat project python/js](https://github.com/calaldees/TeachProgramming/tree/master/teachprogramming/static/docs) - felt success - felt real world)
     * [Katie Cunningham’s Purpose-first Programming: Glass box scaffolding for learning to code for authentic contexts](https://computinged.wordpress.com/2021/06/21/katie-cunninghams-purpose-first-programming-glass-box-scaffolding-for-learning-to-code/)
     * [CHI 2021 | Purpose-first programming works for conversational programmers](https://www.youtube.com/watch?v=flLjtC1QfD0)  Katie Cunningham 2021
-        * [Avoiding the Turing Tarpit: Learning Conversational Programming by Starting from Code’s Purpose](https://dl.acm.org/doi/10.1145/3411764.3445571)
-        * [Mismatch of Expectations: How Modern Learning Resources Fail Conversational Programmers](https://dl.acm.org/doi/10.1145/3173574.3174085)
+        * [Avoiding the Turing Tarpit: Learning Conversational Programming by Starting from Code’s Purpose](https://dl.acm.org/doi/10.1145/3411764.3445571) 2021
+            * Conversational programmers want to learn about code primarily to communicate with technical co-workers, not to develop software. 
+            * However, existing instructional materials don’t meet the needs of conversational programmers because they prioritize syntax and semantics over concepts and applications. 
+            * This mismatch results in feelings of failure and low self-efficacy
+        * [Mismatch of Expectations: How Modern Learning Resources Fail Conversational Programmers](https://dl.acm.org/doi/10.1145/3173574.3174085) Wang 2018
 
-TASK: What does this mean for your planning?
-
-<details>
-
-
-</details>
 
 
 A Mental Model of the Learner - Daniel Willingham
@@ -321,13 +338,22 @@ Brings together many other modern working theories.
 
 * You only remember something is you've encountered it 3 times encounter (Nutall)
 
-TASK: Discuss Criticaly - 
-Rosenshine if the best, research proven stratergy to learning. Entire schools call themselves Rosenshine schools.
+TASK: Discuss Critically - 
+Rosenshine if the best, research proven strategy to learning. Entire schools call themselves Rosenshine schools.
 What could be the problems with this?
 
 <details>
 
 * Gibbs 2020 - cautioned about Rosenshines principles being used in every classroom ever lesson limited the teachers creativity
+
+* [Does research on retrieval practice translate into classroom practice?](https://impact.chartered.college/article/does-research-retrieval-practice-translate-classroom-practice/) Robert Coe 2020
+    * yes and no ...
+    * Why might retrieval practice fail?
+        * Retrieval questions might be generated that focus solely on factual recall (these questions are easier to generate) rather than requiring higher-order thinking
+        * Questions might be too easy and boost confidence without providing real challenge, which is likely to be a key ingredient for generating the kind of learning hoped for
+        * Too much time could be allocated to the quizzes, effectively losing the time that students need to cover new material.
+    * Just quizzing may not be enough
+
 </details>
 
 
@@ -379,21 +405,18 @@ Constructing quality questions that give you meaningful data (e.g the incorrect 
 TASK: What does this mean for your planning?
 
 
-Retrieval Practice
+Retrieval Practice (cont)
 ------------------
+
 * [A systematic review of interleaving as a concept learning strategy](https://doi.org/10.1002/rev3.3266) 2021 Jonathan Firth, Ian Rivers, James Boyle
     * Repeat things with subtle differences to get maximum retention of 0.65
 * [Retrieval Practice 2: Implementing, embedding & reflecting](https://books.google.co.uk/books?id=1oM7EAAAQBAJ&dq=jones+2021+Students+are+incline+to+resort+to+cramming+or+re-reading+as+this+is+as+requiring+less+effort+and+energy+in+comparison+to+self-testing+when+examination%27s+are+imminent.+Giving+a+false+sense+of+confidence&lr=&source=gbs_navlinks_s) Kate Jones 2021
     * Students are incline to resort to cramming or re-reading as this is as requiring less effort and energy in comparison to self-testing when examination's are imminent. Giving a false sense of confidence
     * ISBN 9781914351013
     * Moreira, Pinto, Starling and Jaeger "retrieval yields greater long term retention fo the studied material than just restudying"
-* [Does research on retrieval practice translate into classroom practice?](https://impact.chartered.college/article/does-research-retrieval-practice-translate-classroom-practice/) Robert Coe 2020
-    * yes and no ...
-    * Why might retrieval practice fail?
-        * Retrieval questions might be generated that focus solely on factual recall (these questions are easier to generate) rather than requiring higher-order thinking
-        * Questions might be too easy and boost confidence without providing real challenge, which is likely to be a key ingredient for generating the kind of learning hoped for
-        * Too much time could be allocated to the quizzes, effectively losing the time that students need to cover new material.
-    * Just quizzing may not be enough
+
+
+
 
 
 
@@ -445,6 +468,7 @@ TASK: Think-Pair-Share - How would you use the concept of a knowledge organiser?
 * Examples of computing knowledge organisers
     * [Google: computing+knowledge+organiser+ks3](https://www.google.com/search?q=computing+knowlege+organiser+ks3)
 
+
 * [Are knowledge organisers flawed?](https://learningspy.co.uk/psychology/are-knowledge-organisers-flawed/) David Daidu
     * > most schools don’t have self-quizzing cultures built in. Students don’t use them effectively and just copy words across blindly without self-quizzing.
       > Worse than that, the KO’s are just stuck into students’ books (or reside at the bottom of their bags) and are never looked at again. 
@@ -466,33 +490,10 @@ TASK: Think-Pair-Share - How would you use the concept of a knowledge organiser?
 
  
 
-Generative Learning
--------------------
-
-Fiorella & Mayer 2015
-
-> ... look at the process from the other side of the desk. Generative learning considers the learning experience from the point of view not of the teacher, but of the learner. It asks what should they do with instruction ... to really make sense of it and lean in a way that allows them to apply it to new situations in the future
-<sub> generative learning in action - forward - Fiorella 2020</sub>
-
-Merlin C Wittrock
-> People tend to generate ... meanings that are consistent with prior knowledge
-
-* Learning should be an active process
-    1. Summarising
-    2. Mapping
-    3. Drawing
-    4. Imagining
-    5. Self-testing
-    6. Self-explaining
-    7. Teaching
-    8. Enacting
-* [Eight Ways to Promote Generative Learning](https://bootcampmilitaryfitnessinstitute.com/wp-content/uploads/2016/01/eight-ways-to-promote-generative-learning-fiorella-mayer-2015.pdf) fiorella-mayer-2015
-* [Generative Learning - Poster - Oliver Caviglioli](https://static1.squarespace.com/static/58e151c946c3c418501c2f88/t/5b6d89984ae23782be1d22ac/1533905305675/Generative+Learning+poster.pdf)
-
-TASK: What does this mean for your planning?
 
 
----
+Reading Code is not analogous to Reading
+----------------------------------------
 
 * [To the brain, reading computer code is not the same as reading language](https://news.mit.edu/2020/brain-reading-computer-code-1215) 2020 - Neuroscientists find that interpreting code activates a general-purpose brain network, but not language-processing centers.
     * > The findings suggest there isn’t a definitive answer to whether coding should be taught as a math-based skill or a language-based skill. In part, that’s because learning to program may draw on both language and multiple demand systems, even if — once learned — programming doesn’t rely on the language regions, the researchers say.
@@ -513,6 +514,7 @@ TODO: Read and take notes
         🧠Stretch It
         🧠Thinking Hard
 Saved images to Dropbox
+
 
 Growth Mindset
 --------------
@@ -561,56 +563,31 @@ MARGE
     * [poster](https://headguruteacher.files.wordpress.com/2018/10/marge.pdf)
 
 
-Summaries
----------
 
+Constructing their own leaning? (30min)
+-------------------------------
 
-* [Learning theories Poster](http://blog.richardmillwood.net/2013/05/10/learning-theory/) Big names in learning theory and their ideas
-    * Poster with hyperlinks to main theories
-* [Summary of Learning infographic](https://twitter.com/MissH_biology/status/1356344242642288643) Feb 01 2021
-    * (twitter post, I downloaded the pdf)
-
-
-Further Reading
----------------
-
-* [We Learn Faster When We Aren’t Told What Choices to Make](https://www.scientificamerican.com/article/we-learn-faster-when-we-arent-told-what-choices-to-make/)
-
-* [On Learning Chess as an Adult – From 650 to 1750 in Two Years](https://jacobbrazeal.wordpress.com/2020/11/16/on-learning-chess-as-an-adult-from-650-to-1750-in-two-years/)
-    * Learning measured in adulthood - chess every day for 2+ years - mapped
-
-* Zone of Proximal Development
-    * Scaffolding originated Vygotsky 1981
-    * incremental social contact - what they can do unaided and what they can do with contact with others
-    * What the learner can do, what the learner can do with support, what the learnner cannot do.
-    * Didau - "Goldylocks Zone" - not too hard, not too easy
-    * [What Is the zone of proximal development?. Simply psychology.](https://www.simplypsychology.org/Zone-of-Proximal-Development.html) McLeod, S. A. (2019)
-        * > problem-solving under adult guidance, or in collaboration with more capable peers <sub>Vygotsky, 1978</sub>
-        * The distance between what the learner is able to do unaided, compared to with expert or advanced peer support
-        * According to Vygotsky (1978), much important learning by the child occurs through social interaction with a skillful tutor. The tutor may model behaviors and/or provide verbal instructions for the child. Vygotsky refers to this as cooperative or collaborative dialogue. 
-        * Scaffolding consists of the activities provided by the educator, or more competent peer, to support the student as he or she is led through the zone of proximal development.
-        * Support is tapered off (i.e. withdrawn) as it becomes unnecessary, much as a scaffold is removed from a building during construction. The student will then be able to complete the task again on his own.
-        * Scaffolding vs. Discovery Learning
-            * Freund (1990) wanted to investigate if children learn more effectively via Piaget's concept of discovery learning or by guided learning via the ZPD. 
-        > From a Vygotskian perspective, the teacher's role is mediating the child's learning activity as they share knowledge through social interaction' (Dixon-Krauss, 1996)
-        * Consider these guidelines for scaffolding instruction (Silver, 2011)
-            * Assess the learner's current knowledge and experience for the academic content
-            * Relate content to what students already understand or can do
-            * Break a task into small, more manageable tasks with opportunities for intermittent feedback
-            * Use verbal cues and prompts to assist students
-
+* [We Learn Faster When We Aren’t Told What Choices to Make](https://www.scientificamerican.com/article/we-learn-faster-when-we-arent-told-what-choices-to-make/)The way we decide may even give insight into delusional thinking - 2020 Scientific American
+    * > Feeling as though you are the architect of the outcomes you experience is powerful and certainly would lead you to strengthen beliefs about those contingencies much more strongly
 
 * [Meaningful Learning with Technology](https://www.pearson.com/store/p/meaningful-learning-with-technology/P100000899534/9780132565585) (Pearson, 2011) - Howland, J. L., Jonassen, D. H. and Marra, R. M.
     * Active
-        * Pupils should be actively engaged in their learning – typically this will be doing something on a computer, but it could also be taking part in a discussion or an activity away from the computer, such as role-play to illustrate how packets of data travel across the internet.
+        * Pupils should be actively engaged in their learning – 
+        * typically this will be doing something on a computer, 
+        * but it could also be taking part in a discussion or an activity away from the computer, such as role-play to illustrate how packets of data travel across the internet.
     * Constructive
-        * This can be understood both in the sense of constructing meaning, developing pupils’ mental model of computation and technologies, and in the sense of making something, whether this is a computer program, a presentation or a blog post.
+        * This can be understood both in the sense of constructing meaning, developing pupils’ mental model of computation and technologies, 
+        * and in the sense of making something, whether this is a computer program, a presentation or a blog post.
     * Intentional
-        * Ideally, pupils should have some degree of choice over how they tackle a task or project, or perhaps even over the task or project itself. It is unlikely they will learn much from copying a worked solution off an IWB screen, and many projects can be constructed or adapted to allow plenty of scope for individual creativity.
+        * Ideally, pupils should have some degree of choice over how they tackle a task or project, or perhaps even over the task or project itself. 
+        * It is unlikely they will learn much from copying a worked solution off an IWB screen, 
+        * and many projects can be constructed or adapted to allow plenty of scope for individual creativity.
     * Authentic
-        * Wherever possible, try to link activities with pupils’ own experiences, both within and beyond school: cross-curricular projects work very well, as do those linked to the life of the school itself, or to pupils’ experiences of technology.
+        * Wherever possible, try to link activities with pupils’ own experiences, both within and beyond school: 
+        * cross-curricular projects work very well, as do those linked to the life of the school itself, or to pupils’ experiences of technology.
     * Cooperative
-        * Computing, in both industrial and academic contexts, is a collaborative endeavour. Where possible, construct activities so that pupils can work together, supporting one another in their learning
+        * Computing, in both industrial and academic contexts, is a collaborative endeavour. 
+        * Where possible, construct activities so that pupils can work together, supporting one another in their learning
 
 
 * [Education Research: The evidence](https://gregashman.wordpress.com/2020/11/13/education-research-the-evidence/) Greg Ashman 2020
@@ -638,14 +615,47 @@ Further Reading
         * Go off piste (pi-st: a ski run of compacted snow)
         * Make things; do projects; set open-ended tasks, give choices
 
+TASK Think-Pair-Share(20min):
+Look at the GCSE spec. Find a topic that you would normally deliver with "ModeA" and consider, is it possible to teach this with "ModeB"? How?
 
 
-* [@rclutterbuckED](https://twitter.com/rclutterbuckED/status/1366801316622831626)
-    * > I've put together a CPD plan PPT which may help academies and schools shape their post-remote teaching CPD: 'cos everyone's rusty... Download here if you want a copy: https://rclutterbucked.com/resources Below is a 2 minute video explaining what I've done.
-    * Omega ppt hyperlinked - rosenshine - teach like a champion
-    * [rclutterbucked.com/resources](https://rclutterbucked.com/resources/)
-    * [CPD structure and resources for post-remote learning hyperlinked](https://rclutterbucked.files.wordpress.com/2021/03/downloadable-version-of-post-remote-learning-cpd-hyperlinked.pptx)
+Generative Learning
+-------------------
 
+Fiorella & Mayer 2015
+
+> ... look at the process from the other side of the desk. Generative learning considers the learning experience from the point of view not of the teacher, but of the learner. It asks what should they do with instruction ... to really make sense of it and lean in a way that allows them to apply it to new situations in the future
+<sub> generative learning in action - forward - Fiorella 2020</sub>
+
+Merlin C Wittrock
+> People tend to generate ... meanings that are consistent with prior knowledge
+
+* Learning should be an active process
+    1. Summarising
+    2. Mapping
+    3. Drawing
+    4. Imagining
+    5. Self-testing
+    6. Self-explaining
+    7. Teaching
+    8. Enacting
+* [Eight Ways to Promote Generative Learning](https://bootcampmilitaryfitnessinstitute.com/wp-content/uploads/2016/01/eight-ways-to-promote-generative-learning-fiorella-mayer-2015.pdf) fiorella-mayer-2015
+* [Generative Learning - Poster - Oliver Caviglioli](https://static1.squarespace.com/static/58e151c946c3c418501c2f88/t/5b6d89984ae23782be1d22ac/1533905305675/Generative+Learning+poster.pdf)
+
+TASK: What does this mean for your planning?
+
+
+
+
+
+Summaries
+---------
+
+
+* [Learning theories Poster](http://blog.richardmillwood.net/2013/05/10/learning-theory/) Big names in learning theory and their ideas
+    * Poster with hyperlinks to main theories
+* [Summary of Learning infographic](https://twitter.com/MissH_biology/status/1356344242642288643) Feb 01 2021
+    * (twitter post, I downloaded the pdf)
 
 
 
@@ -668,6 +678,43 @@ Feedback:
 
 Unsorted
 ========
+
+
+Further Reading
+---------------
+
+
+* [On Learning Chess as an Adult – From 650 to 1750 in Two Years](https://jacobbrazeal.wordpress.com/2020/11/16/on-learning-chess-as-an-adult-from-650-to-1750-in-two-years/)
+    * Learning measured in adulthood - chess every day for 2+ years - mapped
+
+* Zone of Proximal Development
+    * Scaffolding originated Vygotsky 1981
+    * incremental social contact - what they can do unaided and what they can do with contact with others
+    * What the learner can do, what the learner can do with support, what the learnner cannot do.
+    * Didau - "Goldylocks Zone" - not too hard, not too easy
+    * [What Is the zone of proximal development?. Simply psychology.](https://www.simplypsychology.org/Zone-of-Proximal-Development.html) McLeod, S. A. (2019)
+        * > problem-solving under adult guidance, or in collaboration with more capable peers <sub>Vygotsky, 1978</sub>
+        * The distance between what the learner is able to do unaided, compared to with expert or advanced peer support
+        * According to Vygotsky (1978), much important learning by the child occurs through social interaction with a skillful tutor. The tutor may model behaviors and/or provide verbal instructions for the child. Vygotsky refers to this as cooperative or collaborative dialogue. 
+        * Scaffolding consists of the activities provided by the educator, or more competent peer, to support the student as he or she is led through the zone of proximal development.
+        * Support is tapered off (i.e. withdrawn) as it becomes unnecessary, much as a scaffold is removed from a building during construction. The student will then be able to complete the task again on his own.
+        * Scaffolding vs. Discovery Learning
+            * Freund (1990) wanted to investigate if children learn more effectively via Piaget's concept of discovery learning or by guided learning via the ZPD. 
+        > From a Vygotskian perspective, the teacher's role is mediating the child's learning activity as they share knowledge through social interaction' (Dixon-Krauss, 1996)
+        * Consider these guidelines for scaffolding instruction (Silver, 2011)
+            * Assess the learner's current knowledge and experience for the academic content
+            * Relate content to what students already understand or can do
+            * Break a task into small, more manageable tasks with opportunities for intermittent feedback
+            * Use verbal cues and prompts to assist students
+
+* [@rclutterbuckED](https://twitter.com/rclutterbuckED/status/1366801316622831626)
+    * > I've put together a CPD plan PPT which may help academies and schools shape their post-remote teaching CPD: 'cos everyone's rusty... Download here if you want a copy: https://rclutterbucked.com/resources Below is a 2 minute video explaining what I've done.
+    * Omega ppt hyperlinked - rosenshine - teach like a champion
+    * [rclutterbucked.com/resources](https://rclutterbucked.com/resources/)
+    * [CPD structure and resources for post-remote learning hyperlinked](https://rclutterbucked.files.wordpress.com/2021/03/downloadable-version-of-post-remote-learning-cpd-hyperlinked.pptx)
+
+
+
 
 
 Willingham 2009 pg03  "People are naturally curious, but we are not naturally good thinkers; unless the cognitive conditions are right, we will avoid thinking"

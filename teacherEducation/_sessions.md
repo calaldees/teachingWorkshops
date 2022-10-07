@@ -268,7 +268,7 @@ Developing an understanding of how children learn and the key barriers to learni
 ### Readings
 
 * GP2: Deans for Impact (2015) [The Science of Learning](https://deansforimpact.org/resources/the-science-of-learning/)
-EEF (2018) Sutton Trust- [EEF Teaching and Learning Toolkit](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit)
+* EEF (2018) Sutton Trust- [EEF Teaching and Learning Toolkit](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit)
 * Capel, Leask and Turner (2013) [Learning to Teach in the Secondary School](https://doi.org/10.4324/9781315142401), Chpt. 5 ‘Helping pupils learn’ [vle-books](https://www.vlebooks.com/Product/Index/2050600)
 * GP3: Dunlosky, J, et al.  (2013) [Improving students’ learning with effective learning techniques: Promising directions from cognitive and educational psychology](https://doi.org/10.1177%2F1529100612453266)
 * Dix, P. (2017) [When the adults change everything changes’](https://www.amazon.co.uk/When-Adults-Change-Everything-Changes-ebook/dp/B071ZG1NTC/), Chapter 2 ‘The counter-intuitive classroom’ – if you have the Kindle app download the free sample to read this. 
