@@ -5,6 +5,9 @@ Meta-cognition
     * Reflection is a meta-cognitive skill
 * We should set time aside to explicitly teach/name/model metacognitive skills
 
+#4-Classroom-Learn-that-5-build_metacognitive_explicit
+#4-Classroom-Learn-how-10-narrate_metacognitive
+
 ITT CCF 4.5
 > Explicitly teaching pupils metacognitive strategies linked to subject knowledge, including how to plan, monitor and evaluate, supports independence and academic success
 
@@ -33,10 +36,16 @@ EEF Research (Read 15 min)
 
 Training our students to think about thinking
 
-TASK: Read (15min)
-* [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/) Nancy Chick vanderbilt university
+TASK: Read (15min)?
+TASK2: Discuss Table 1 with class - Strategies for integrating into lessons
+* [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/) Chick, N. (2013). Vanderbilt University Center for Teaching
     * > for students to become more metacognitive, they must be taught the concept and its language explicitly (Pintrich, 2002; Tanner, 2012), 
     * > most effective when it is adapted to reflect the specific learning contexts of a specific topic, course, or discipline (Zohar & David, 2009).
+    * CBE—Life Sciences EducationVol. 11, No. 2 [Promoting Student Metacognition](https://www.lifescied.org/doi/full/10.1187/cbe.12-03-0033) Tanner 2013
+        * (Find this table!) Table 1. Sample self-questions to promote student metacognition about learning
+            * Cols: Planning Questions, Monitoring Questions, Evaluating Questions
+            * Rows: Class session, Active-learning task and/or homework assignment, Quiz or exam, Overall course
+Idea: Structured Meta-cognition for homework?
 
 Volet described "metacognitive strategies" in teaching and learning as the use of metacognition elements to aid learning, including checking, planning, selecting, monitoring, evaluating and revising.
 
@@ -44,7 +53,7 @@ Volet described "metacognitive strategies" in teaching and learning as the use o
 
 * What was the hardest thing about this project? Why was this the hardest thing? What skills would have helped you if you had had them? How would you have go those skills? What could you do in the next project to improve?
 * Planning - Always seek to clarify the problem
-    * How will you know the task is complete?
+    * How will you know the task is complete and works correctly?
     * Be clear about your expected inputs and outputs and why
     * Pro: Write your unittests before you start coding
 * Assess yourself? peer assessment?
@@ -63,17 +72,17 @@ We should set time aside to explicitly teach/name/model metacognitive skills
 ### Notes of my reading (just for reference)
 
 * [Scaffolding by novice and expert teachers: The difference](https://impact.chartered.college/article/scaffolding-by-novice-expert-teachers-difference/) Lorna Shires - September 2020 - Chartered College of Teaching
-    4. Expert teachers offered a metacommentary throughout the lessons that had the aim of ensuring that students trusted the teachers to take them through the process of learning something new
+    4. Expert teachers offered a meta-commentary throughout the lessons that had the aim of ensuring that students trusted the teachers to take them through the process of learning something new
     * > students developed something that I came to call subject agency – the ability of pupils to develop the capacity to do something with the knowledge for themselves. Subject agency reflected how the teachers were hugely motivated by their own love of the subject
     * > Expert teachers were thinking about the process of teaching using the metaphor of scaffolding as a temporary adaptive structure (Shvarts and Bakker, 2019).
     * _Trust_ is a key factor
 
-* [Making sense of metacognition](https://impact.chartered.college/article/quigley-stringer-making-sense-metacognition/) - May 2018 Impact Charatered College of Teaching
-    * Misconception 1: Metacognition is a general skill that should be taught separately from subject knowledge
-    * Misconception 2: Metacognition represents ‘higher order’ thinking and is therefore more important than mere cognition or subject knowledge
-    * Misconception 3: Metacognition is only developed in older pupils
+* [Making sense of meta-cognition](https://impact.chartered.college/article/quigley-stringer-making-sense-metacognition/) - May 2018 Impact Charatered College of Teaching
+    * Misconception 1: Meta-cognition is a general skill that should be taught separately from subject knowledge
+    * Misconception 2: Meta-cognition represents ‘higher order’ thinking and is therefore more important than mere cognition or subject knowledge
+    * Misconception 3: Meta-cognition is only developed in older pupils
     * > Recommendations from the evidence would suggest that teachers can be much more deliberate about teaching metacognitive awareness in the crucible of the classroom
-* [Metacognition through prompts in mathematical problem-solving](https://impact.chartered.college/article/wilson-metacognition-mathematical-problem-solving/)
+* [MetaCognition through prompts in mathematical problem-solving](https://impact.chartered.college/article/wilson-metacognition-mathematical-problem-solving/) Wilson 2018
     * My computing notes inspired by article above
         * Stage 1 Understand the problem
             * Doctest? Expected input, expected output
@@ -84,11 +93,24 @@ We should set time aside to explicitly teach/name/model metacognitive skills
         * Stage 3 Implement the plan
             * Is it working? Do we need a new plan?
         * Stage 4 Reflecting
-            * Dose your answer make sense?
+            * Does your answer make sense?
             * Are there any inefficiencies? repetition?
             * Can any of the variables be renamed to make it clearer?
             * Can anything be broken down further into functions?
             * Could any of these be reused in other projects?
+
+
+Task 15min
+-----
+
+> Metacognition shouldn’t be an ‘extra’ task for teachers to do but should be built into their teaching activities
+
+TASK: 
+1. Think about a lesson that you have observed in school. Were there any metacognitive elements?
+2. How could you add a meta-cognitive element to this activity?
+
+Note: I will expect to see evidence of meta-cognitive elements in your future lesson plans, observations, evaluations
+
 
 
 Unsorted
@@ -100,7 +122,7 @@ identification is the hardest problem
 
 
 TODO
-* [The metacognitive approach to computereducation: making explicit the learning journey](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.831.3756&rep=rep1&type=pdf) 2007 Phelps
+* [The metacognitive approach to computer education: making explicit the learning journey](https://www.learntechlib.org/index.cfm?fuseaction=Reader.ViewAbstract&paper_id=19964) 2007 Phelps
 
 * (poor article - low sample size) [Metacognitive Strategies in Teaching and Learning Computer Programming](https://www.researchgate.net/publication/334452623_Metacognitive_Strategies_in_Teaching_and_Learning_Computer_Programming)
     * > there is a correlation between the metacognitive awareness level of an individual and their academic achievement
@@ -134,7 +156,7 @@ Ask them "why did you get it wrong"?
 
 
 
-* [Programmer’s emotions](https://blog.sidebits.tech/programmers-emotions/)
+* Opinion/Blog [Programmer’s emotions](https://blog.sidebits.tech/programmers-emotions/) Posted on 2021-10-30 by Milosz Danczak
     * From the outside, programmers seem to resemble the machines they program – cold, emotionless, unmoved.  But the reality is different – most moments in programming are full of emotions.
     * What are these emotions?
         * Confusion. Much of the time, I am confused by code. Something is working differently than I expect it to, or I can’t get my head around a line of code.

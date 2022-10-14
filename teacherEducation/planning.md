@@ -103,8 +103,191 @@ TASK 2: Explore other KS3 SOW online (20min)
 
 [queenelizabeths.kent.sch.uk](http://www.queenelizabeths.kent.sch.uk/249/computer-science) - Look how digital-literacy/ict is interwoven with the computing
 
+
+
+Practical Exploration (30min)
+---------------------
+
+Explore 3 shape drawing tools
+
+#### Scratch
+15min?
+
+https://scratch.mit.edu/
+![Scratch Pattern](./images/scratch_algorithm_art.png)
+
+(Can't fill shapes in scratch)
+
+#### Python 'Turtle' Graphics
+15min?
+[turtle](https://docs.python.org/3/library/turtle.html) documentation
+
+* local machine?
+* https://create.withcode.uk/
+* https://repl.it/ (account required)
+
+```python
+import turtle
+t = turtle.Turtle()
+t.forward(100)
+```
+```python
+def example_function(my_para1, my_param2):
+    t.fd(my_para1)
+    t.rt(my_param2)
+
+example_function(10,20)
+```
+
+#### Javascript Canvas
+
+* [graphics.html](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/game/graphics.html) boilerplate
+
+
+#### Possible Tasks
+
+* Tasks - Personal exploration? Attempt to build a function that draws ...
+    * House?
+    * Snowman?
+    * Tree (filled circles or triangles)?
+(More on my slant on this later)
+
+
+
+Context Based Learning and Relevancy (15min lecture)
+------------------------------------
+
+If Computing is to be relevant to world they live in, then make Computing encompasses the world. Wherever possible make Computing have _Cultural_ and/or _Community_ context
+
+Young people can smell bullshit.
+Things I try to avoid:
+* Fake themes
+    * Harry potter tuck shop spreadsheets
+    * Ponys
+* Try to avoid computer games as a theme
+    * These can alienate some demographics immediately
+    * > Games are pointless, they don't do anything (for the world)
+* Tasks for the sake of a task
+    * "Add these number together", "Why", "Because it's the task"
+    * (This is less of a problem for A-Level as they have chosen the subject)
+
+
+* [Pete Dring](https://twitter.com/pddring/status/1405890060013146118)
+    * > So proud of Holly and Kiri from @fulfordschool
+      > who have just submitted their #MentalHealth app for the @AmazonUK
+      > #LongitudeExplorerPrize. Can you spare a minute to vote for LESLI in the people's choice award? https://longitudeexplorer.challenges.org/vote/ 
+      > #STEM @Stemettes #Tech4Good #CASChat
+    * [longitudeexplorer.challenges.org/finalists-2021](https://longitudeexplorer.challenges.org/finalists-2021/)
+        * Living Better: How can technology to help us stay happy and healthy in our day to day lives, and improve the lives of others?
+        * Living Greener: How can technology help us protect our planet?
+        * Living Together: How can technology help us live together and stay connected in a way that is easy, safe and environmentally friendly?
+        * Living Longer: How can technology meet the needs of an ageing society?
+
+
+### Real World Context for the Pen/Turtle/Graphics skills learnt above
+* Decomposition of geomentirc artwork - cultural context
+    * [Theo van Doesburg](https://www.google.com/search?q=Theo+van+Doesburg&tbm=isch) (artist using geometric squares and lines)
+    * [Simple Celtic artwork](https://www.google.com/search?q=simple+celtic+artwork&tbm=isch) (circles)
+    * [Simple Islamic artwork](https://www.google.com/search?q=simple+islamic+artwork&tbm=isch) (repeating geometric patterns/colors)
+
+By adding context you immediately unlock further computational thinking skills: analysis, decomposition, algorithms
+
+### Relevancy/Context Reading
+
+* [Top 12 Ways to Bring the Real World into Your Classroom](https://www.teachhub.com/classroom-activities/2010/05/top-12-ways-to-bring-the-real-world-into-your-classroom/)
+    * Invite guest speakers
+    * Developing empathy for others (societal)
+    * Current events, Use the news
+    * Social justice (standing up for what is right. peacefully protest)
+    * Field trips
+    * Manners and etiquette
+    * Finance training (understand basic societal economics) classroom economy?
+    * Primary source documents
+    * Simulate a real-world experience
+    * Community work
+    * Life skills
+* [Connecting Science Class to the Real-World](https://www.3plearning.com/blog/connecting-science-class-real-world/)
+
+TASK: Now we have explored the skills and the context. Refer back to the Compute-IT teaching resource examples
+
+### Examples
+* [Locked-in syndrome](https://teachinglondoncomputing.files.wordpress.com/2014/01/activity-lockedin.pdf) activity disabled people communicating with blinking
+
+
+Putting it all together
+-----------------------
+
+TASK: Design a sequence of lessons using computers to make shapes
+Lessons: 3? to 8? Probably 6 (a half term)
+* What are your learning objectives
+* What is your rough timeline
+* How are you going to leverage
+    * Meta-cognition
+    * Differentiation
+    * Assessment
+
+
+
+<details>
+
+My unstructured notes - some ideas
+
+#5-AdaptTeach-Learn-that-4-no_separate_tasks_ssdd
+SSDD - Same Surface, Different Depth
+Differentiation works best when class's are not working on unrelated tasks
+#5-AdaptTeach-Learn-how-7-no_separate_tasks_ssdd
+
+* Goal
+    * To recreate algorithmically the artwork of a culture or artist
+* Technical Goal(s)
+    * A reusable function/subroutine to create a shape
+        * that takes parameters for size and number of sides
+    * Compose a new shape from multiple shapes
+* Knowledge goal
+    * Understand the concept of (but maybe not do) recursion - drawing a smaller shape within a shape
+
+* Meta
+    * What can I already do
+    * What am I aiming for? What could be a step towards that aim (even if it's small)?
+    * Where can 'I' find more information/support on xxx
+
+
+* Peer mark
+    * 2x
+    * Teacher moderates each marker and gives feedback to marker
+    * Practice run to ensure everyone knows what they are doing
+* Peer assessment criteria (for peer verbal presentation) 
+    * Tools
+        * Function
+        * Parameters
+        * Iteration
+        * Recursion?
+    * Decomposition
+        * What shapes did you identify
+        * How did re-create them
+        * Use of documentation/reference
+    * Meta
+        * What bits was I able to solve myself - what bits did I need help with
+        * What improvement could you make in future
+        * What real life jobs would use these skills
+
+</details>
+
+
+Planting the seed
+-----------------
+
+https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/other/tree_recursive.html
+
+Demoscene
+
+
+
 Textbooks for teaching Computing? (45min)
 --------------------------------
+
+#3-SubjCur-Learn-how-5-use_shared_resources
+#5-AdaptTeach-Learn-how-8-use_shared_resources
 
 * [Textbooks for the teaching of computing](https://eprints.soton.ac.uk/441674/1/Textbooks.pdf) John Woollard CAS 2020
     * Objectives
@@ -115,10 +298,10 @@ Textbooks for teaching Computing? (45min)
         5. How can publishers be encouraged to produce materials for teaching computing?
     * Good
         * impact (statistically significant at the 5%)
-        * makes authoritative, higher degree of quality assurance. 
+        * makes authoritative, higher degree of quality assurance
         * out-of-school learning
         * independent learning, behaviour management (isolation activities)
-        * Cognitive benefit of tangible textbooks. Ability to flip back and forth between pages. Provides more mental clarity.
+        * Cognitive benefit of tangible textbooks. Ability to flip back and forth between pages. Provides more mental clarity
         * act as the programme of learning
     * Against
         * Outdate (external links)
@@ -166,97 +349,4 @@ Discussion:
 * How/Why/When would you use other teachers resources?
 * How will you use them in your training?
 
-Practical Exploration (30min)
----------------------
-
-Explore shape drawing tools
-
-#### [Scratch](https://scratch.mit.edu/)
-
-15min?
-
-![Scratch Pattern](./images/scratch_algorithm_art.png)
-
-(Can't fill shapes in scratch)
-
-#### Python [Turtle](https://docs.python.org/3/library/turtle.html) Graphics
-
-15min?
-
-```python
-import turtle
-t = turtle.Pen()
-t.forward(100)
-```
-```python
-def example_function(my_para1, my_param2):
-    t.fd(my_para1)
-    t.rt(my_param2)
-
-example_function(10,20)
-```
-
-* Tasks - Personal exploration? Attempt to build a function that draws ...
-    * House?
-    * Snowman?
-    * Tree (filled circles or triangles)?
-
-
-Context Based Learning and Relevancy (30min lecture)
-------------------------------------
-
-If Computing is to be relevant to world they live in, then make Computing encompasses the world. Wherever possible make Computing have _Cultural_ and/or _Community_ context
-
-Young people can smell bullshit. 
-Things I try to avoid:
-* Fake themes
-    * Harry potter tuck shop spreadsheets
-    * Ponys
-* Try to avoid computer games as a theme
-    * These can alienate some demographics immediately
-    * > Games are pointless, they don't do anything (for the world)
-* Tasks for the sake of a task
-    * "Add these number together", "Why", "Because it's the task"
-    * (This is less of a problem for A-Level as they have chosen the subject)
-
-
-* [Pete Dring](https://twitter.com/pddring/status/1405890060013146118)
-    * > So proud of Holly and Kiri from @fulfordschool
-      > who have just submitted their #MentalHealth app for the @AmazonUK
-      > #LongitudeExplorerPrize. Can you spare a minute to vote for LESLI in the people's choice award? https://longitudeexplorer.challenges.org/vote/ 
-      > #STEM @Stemettes #Tech4Good #CASChat
-    * [longitudeexplorer.challenges.org/finalists-2021](https://longitudeexplorer.challenges.org/finalists-2021/)
-        * Living Better: How can technology to help us stay happy and healthy in our day to day lives, and improve the lives of others?
-        * Living Greener: How can technology help us protect our planet?
-        * Living Together: How can technology help us live together and stay connected in a way that is easy, safe and environmentally friendly?
-        * Living Longer: How can technology meet the needs of an ageing society?
-
-
-### Real World Context for the Pen/Turtle skills learnt above
-* Decomposition of geomentirc artwork - cultural context
-    * [Theo van Doesburg](https://www.google.com/search?q=Theo+van+Doesburg&tbm=isch) (artist using geometric squares and lines)
-    * [Simple Celtic artwork](https://www.google.com/search?q=simple+celtic+artwork&tbm=isch) (circles)
-    * [Simple Islamic artwork](https://www.google.com/search?q=simple+islamic+artwork&tbm=isch) (repeating geometric patterns/colors)
-
-By adding context you immediately unlock further computational thinking skills: analysis, decomposition, algorithms
-
-### Relevancy/Context Reading
-
-* [Top 12 Ways to Bring the Real World into Your Classroom](https://www.teachhub.com/classroom-activities/2010/05/top-12-ways-to-bring-the-real-world-into-your-classroom/)
-    * Invite guest speakers
-    * Developing empathy for others (societal)
-    * Current events, Use the news
-    * Social justice (standing up for what is right. peacefully protest)
-    * Field trips
-    * Manners and etiquette
-    * Finance training (understand basic societal economics) classroom economy?
-    * Primary source documents
-    * Simulate a real-world experience
-    * Community work
-    * Life skills
-* [Connecting Science Class to the Real-World](https://www.3plearning.com/blog/connecting-science-class-real-world/)
-
-TASK: Now we have explored the skills and the context. Refer back to the Compute-IT teaching resource examples
-
-### Examples
-* [Locked-in syndrome](https://teachinglondoncomputing.files.wordpress.com/2014/01/activity-lockedin.pdf) activity disabled people communicating with blinking
+See Hidson in [pedagogicalContentKnowledge.md](pedagogicalContentKnowledge.md) for lesson meta is missing

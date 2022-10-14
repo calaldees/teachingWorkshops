@@ -114,3 +114,8 @@ https://replit.com/curriculum/Intermediate-Python
  @Baggiepr
  @caschat_uk
  @HelloWorld_Edu
+
+* Joe Arday @theaveragearday https://mobile.twitter.com/theaveragearday
+    * [Engaging Black students in computing at UK schools — interview with Joe Arday](https://www.raspberrypi.org/blog/engaging-black-students-in-computing-uk-schools-joe-arday/)
+    * [Delivering a culturally relevant computing curriculum: new guide for teachers](https://www.raspberrypi.org/blog/culturally-relevant-computing-curriculum-guidelines-for-teachers/) Sen Sentence 2021
+        * [Culturally relevant and responsive computing in the classroom: A guide for curriculum design and teaching](https://static.raspberrypi.org/files/research/Guide+to+culturally+relevant+and+responsive+computing+in+the+classroom.pdf)

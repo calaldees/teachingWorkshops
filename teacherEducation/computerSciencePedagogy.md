@@ -1,9 +1,6 @@
 Computer Science Specific Pedagogy
 ==================================
 
-* [International Computing Education Research Workshop (ICER)](https://dl.acm.org/conference/icer/proceedings)
-    * 20 Years of computing education research conference.
-    * The best place to look for Computing Pedagogy research
 
 NCCE Funding Sue Sentence explains
 * [Moving to mainstream: developing computing for all](https://dl.acm.org/doi/epdf/10.1145/3361721.3362117) Sue Sentence 2019
@@ -11,7 +8,7 @@ NCCE Funding Sue Sentence explains
 TODO
 ----
 
-* [A game to teach network communication reliability problems and solutions](https://dl.acm.org/doi/10.1145/2670757.2670773)
+* [A game to teach network communication reliability problems and solutions](https://dl.acm.org/doi/10.1145/2670757.2670773) 2014 Jarman and Bell
     * "Packet Attack"
 * [Computer Science Field Guide](https://www.csfieldguide.org.nz/en/) - An online interactive resource for high school students learning about computer science. 
 * [Teaching and Learning Computer Science](https://textbooks.cs.ksu.edu/tlcs/) - Kansas State University’s Teacher Training Program CC4.0
@@ -74,14 +71,6 @@ TODO
 * [Digital Technology in Education: Charter](https://www.dtecharter.org/) Scotland 2022
     * > Bringing together organisations, individuals, and education in scotland to support, encourage and inspire  the next generation of computing science at school.
 
-* University - how can this concept be applied in earlier years
-* [We Need to Talk!! &ndash; A Chatroom Application Using a Student-Designed Protocol](https://dl.acm.org/doi/10.1145/3304221.3325575) 2019
-    * > assignment for a computer networks class in which students design and implement an application-layer protocol for a chatroom using a client-server architecture running over TCP-IP. 
-    * > Working collaboratively, students design a single protocol that will be implemented by all class members. 
-    * > The protocol is written in a style based on that used in a Request for Comments (RFC), the international standard for describing networking protocols. 
-    * > Students work in pairs to implement the protocol using a programming technology of their choice. This experience helps students to understand that different applications can communicate when they are all designed according to the same RFC specification.
-    * > Students are free to choose any programming technology to implement the protocol
-
 
 Intro
 -----
@@ -89,13 +78,13 @@ Intro
 If students can program, then they express higher levels of theory by building the solutions. 
 It is therefore important to build students programming proficiency.
 
-ITT CCF 4.2
+ITT CCF 4.2 #4-Classroom-Learn-that-2-small_steps_link_prior_knowledge_schemata
 > Effective teachers introduce new material in steps, explicitly linking new ideas to what has been previously studied and learned
 
-ITT CCF 4.3
+ITT CCF 4.3 #4-Classroom-Learn-that-3-model_concrete_abstract
 > Modelling helps pupils understand new processes and ideas; good models make abstract ideas concrete and accessible.
 
-ITT CCF 4.4
+ITT CCF 4.4 #4-Classroom-Learn-that-4-remove_scaffolds
 > Guides, scaffolds and worked examples can help pupils apply new ideas, but should be gradually removed as pupil expertise increases
 
 * [sec-ed.co.uk: Teaching computing: What the research says](https://www.sec-ed.co.uk/best-practice/teaching-computing-what-the-research-says/)  Terry Freedman 2019
@@ -133,7 +122,6 @@ ITT CCF 2.9
 * Make
 
 * NCCE [Quick Read: Using PRIMM to structure programming lessons](https://blog.teachcomputing.org/using-primm-to-structure-programming-lessons/) 2020
-
 
 TASK: Read PRIMM quick read.
 
@@ -180,13 +168,42 @@ TASK: Read PRIMM quick read.
     * [primming.wordpress.com](https://primming.wordpress.com/) KS3
         * research background PRIMM is based on
 
-* [Predict](https://twitter.com/Gripweed1/status/1458418519553478658) twitter example
+* [Predict with Strings Example](https://twitter.com/Gripweed1/status/1458418519553478658) twitter example
 
-* [KPRIDE](https://create.withcode.uk/kpride/) Pete dring
+TASK: 
+* Read the Course Overview of https://replit.com/curriculum/Intro-to-Python
+* Explore and run some of the examples on repl.it for this course
+* Describe back to the group
+    * Why this approach might be pedagogically effective?
+    * Why this approach might not be pedagogically effective?
+
+* More - Python Primm Curriculum by Andy Colley
+    * https://docs.replit.com/teaching-curriculum/intro-python
+    * https://www.tes.com/teaching-resource/introduction-to-python-fully-resourced-sow-12392327
+    * https://replit.com/curriculum/Intermediate-Python
+    * https://replit.com/@MrAColley
+
+
+KPRIDE
+------
+
+* [KPRIDE](https://create.withcode.uk/kpride/) Pete Dring
     * Keywords, Predict, Run, Investigate, Debug and Extend
+
 
 Craig and Dave - TIME
 ---------------------
+
+* TASK1: Visit https://craigndave.org/programming-with-time/ 
+    * Read the concept (10min) 
+    * especially the section titled "THE ROLE OF THE TEACHER"
+* TASK2: We will discuss your thoughts (10min)
+
+
+<details>
+
+As teachers we want to move our teaching from just "instructing" (youtube can do that), to a more supportive, skilled, analytical, backseat role
+<details>
 
 * [Programming with T.I.M.E.](https://craigndave.org/programming-with-time/) Craig’n’Dave
     * Try, Investigate, Make and Evaluate
@@ -218,21 +235,22 @@ Craig and Dave - TIME
         * Learn how to use serial files.
         * Learn how to master the basics. 
 
+
+
 Fuller Verb Model
 -----------------
 
-ITT CCF 3.7
+ITT CCF 3.7 #3-SubjCur-Learn-that-7-link_schemata
 > In all subject areas, pupils learn new ideas by linking those ideas to existing knowledge, organising this knowledge into increasingly complex mental models (or “schemata”); carefully sequencing teaching to facilitate this process is important.
 
 Reminders of existing taxonomy pyramids
 
 ### Blooms Taxonomy
 
+![Blooms Taxonomy](https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/59/2019/03/27124326/Blooms-Taxonomy.jpg)
 * [Bloom's Taxonomy: Why, How, & Top Examples](https://www.youtube.com/watch?v=OOy3m02uEaE&feature=emb_logo) (Revised Krathwohl 2001)
 * [Here’s What’s Wrong With Bloom’s Taxonomy: A Deeper Learning Perspective](https://www.edweek.org/education/opinion-heres-whats-wrong-with-blooms-taxonomy-a-deeper-learning-perspective/2018/03)
     * > (Bloom’s Taxonomy) present a false vision of learning. Learning is not a hierarchy or a linear process. This graphic gives the mistaken impression that these cognitive processes are discrete
-
-![Blooms Taxonomy: Verbs](https://www.teachthought.com/wp-content/uploads/2017/09/PostCopyDigitalBloomsVerbs-2-1.png?ezimgfmt=ng:webp/ngcb6)
 
 1. Create
     * Generate, Plan, Produce
@@ -247,7 +265,10 @@ Reminders of existing taxonomy pyramids
 6. Remember
     * Memorize, Describe, Order, Name, Arrange
 
-### Biggs Structure of the Observed Learning Outcome (SOLO) Taxonomy
+![Blooms Taxonomy: Verbs](https://www.teachthought.com/wp-content/uploads/2017/09/PostCopyDigitalBloomsVerbs-2-1.png?ezimgfmt=ng:webp/ngcb6)
+
+
+### Biggs - Structure of the Observed Learning Outcome (SOLO) Taxonomy
 
 ![Biggs SOLO Taxonomy: Verbs](https://www.johnbiggs.com.au/wp-content/uploads/2013/01/solo_taxonomy.jpg)
 
@@ -287,7 +308,7 @@ Read the various _Verbs_ and their extended descriptions that relate to teaching
         * This skill provides opportunities for students to read code, explore different styles of coding and reinforce their understanding of a construct.
 * Relate
     * Understand solution in context of others
-        * Students can be directed to different solutions to the same problem, sharing which approach might be best in terms of amount of code, time to develop, complexity and efficiency.  
+        * Students can be directed to different solutions to the same problem, sharing which approach might be best in terms of amount of code, time to develop, complexity and efficiency.
         * They can take a given solution and adapt it to meet the needs of a next context, further developing their generalisation skills.
 * Refactor
     * Redesign a solution for optimisation
@@ -366,12 +387,12 @@ Read the various _Verbs_ and their extended descriptions that relate to teaching
 | Know   | Recognise | Trace           | Present, Analyse | Relate     |
 </details>
 
-### Task 4 (30 min)
+### Task 4 (20 min)
 
-* Equally distribute verbs to each member (Probably 1 each)
-* As individuals take a verb and construct a task (15 min)
-* Add these verbs-activities to the group document
-* Discuss the task created (15 min)
+* Distribute 1 verb to each member of the group
+* construct a task for that verb (10 min)
+
+* Discuss the tasks created (10 min)
 
 
 Instructional Continuum - Range of structured tasks
@@ -417,6 +438,7 @@ Societal
 * You cant help the student without helping the family - we need to engage with the family as a whole
 * What are the students and their communities doing at home?
 * Students as change agents - they can change their communities
+
 
 Concept Transfer when Learning another Programming Language
 ------------------------------------------------------------
@@ -506,7 +528,7 @@ Building Code Comprehension
         * Each program is broken and the task is described with comments
 
 * [Active Learning by Visual Programming: Pedagogical Perspectives of Instructivist and Constructivist Code Teachers and Their Implications on Actual Teaching Strategies and Students’ Programming Artifacts](https://journals.sagepub.com/doi/full/10.1177/07356331211017793) 2021 - Avital Kesler, Tamar Shamir-Inbal, Ina Blau
-    *  Visual/Block programming allows for my constructivist/self-exploration because the learners are protected from MANY incorrect programs
+    * Visual/Block programming allows for my constructivist/self-exploration because the learners are protected from MANY incorrect programs
     * Four Models of “Theory of Mind” in Learning and Teaching (Olson & Bruner, 1996)
         * Folk Psychology
             * Instructivist
@@ -544,10 +566,10 @@ Traditional Computational Thinking - New Computational Thinking
         * > To certify skills you need a model for skill development.
         * > These knowledge progressions are not the same as skill acquisition progression
         * > The CAS framework does not discuss abilities to be acquired during the progression
-        * Employers are turning to competency-based assessment faster than educational institutions. 
-        * Many employers no longer trust transcripts and diplomas. Instead they organize interviews as rigorous problem-solving sessions with different groups in the company. 
-        * An applicant will not be hired without demonstrating competence in solving the kinds of problems of interest to the employer. 
-        * The idea of assessing skill by performance is actually quite common in education. In sports, music, theater, and language departments, for example, students audition for spots on the team, places in the orchestra, roles in the play, or competency certificates at a language. Although code-a-thons are becoming more prevalent and many computing courses include projects that assess skill by performance, 
+        * Employers are turning to competency-based assessment faster than educational institutions.
+        * Many employers no longer trust transcripts and diplomas. Instead they organize interviews as rigorous problem-solving sessions with different groups in the company.
+        * An applicant will not be hired without demonstrating competence in solving the kinds of problems of interest to the employer.
+        * The idea of assessing skill by performance is actually quite common in education. In sports, music, theater, and language departments, for example, students audition for spots on the team, places in the orchestra, roles in the play, or competency certificates at a language.Although code-a-thons are becoming more prevalent and many computing courses include projects that assess skill by performance, 
         * computing education would benefit from a deep look at competency-based assessment
     * Question 3: Is Computational Thinking Good for Everyone?
         * In Traditional CT programming ability produces CT, and in New CT learning certain concepts produces programming ability
@@ -660,7 +682,7 @@ Algorithm PCK
     * Broken mini programs
     * Instructivist vs Constructivist for Visual Programming
     * Implementation or Theory?
-* How would you teach algorithms? 
+* How would you teach algorithms?
     * Link the strategies you come up with to GO, SU, IS, AS + intersections
 * Present to group (1 hour)
 
@@ -675,6 +697,7 @@ Algorithm Ideas
     * make efficient
 * hasWonConnect4
 * fizzBuzz
+* maxProfit
 
 TASK 2: Compare your concept for teaching algorithms with
 * [teachcomputing.org - Key stage 4 resources](https://teachcomputing.org/curriculum/key-stage-4)
@@ -682,19 +705,6 @@ TASK 2: Compare your concept for teaching algorithms with
     * Algorithms 2
 * [khanacademy.org - algorithums](https://www.khanacademy.org/computing/computer-science/algorithms)
 
-
-Further Pedagogy Information
------------------------------
-
-### Research
-* [Cambridge Computing Education Research Symposium](https://www.raspberrypi.org/cambridge-computing-education-research-symposium/)
-* [computing-education-research-online-seminars](https://www.raspberrypi.org/computing-education-research-online-seminars/)
-    * Join us at our free online research seminars
-
-### Journals
-* [Journal of Computer Science Integration](https://inspire.redlands.edu/jcsi/)
-    * [Engaging Equity Pedagogies in Computer Science Learning Environments](https://inspire.redlands.edu/jcsi/vol3/iss2/1/)
-* [Journal of Information Technology Education: Research (JITE:Research)](https://www.informingscience.org/Journals/JITEResearch/Overview)
 
 
 

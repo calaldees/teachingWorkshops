@@ -435,6 +435,7 @@ Timeboxed? One hour? I could go all day
     * [Bacteria Simulation](https://www.youtube.com/watch?v=5UMZVmLt0Bw)
     * [BioInfomatics](http://rosalind.info/)
         + See my DNA-regex activity below
+        + [I Belong in Computer Science - Jacob](https://isaaccomputerscience.org/pages/ibics_jacob?examBoard=all&stage=all) Isacc Computer Science Interview about Bioinformatics
     * Recursion
         * [Algorithmic Botany](http://algorithmicbotany.org/papers/#abop)
         * [101computing.net/recursive-tree-challenge](https://www.101computing.net/recursive-tree-challenge/)

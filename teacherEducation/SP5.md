@@ -46,12 +46,10 @@ SQ 5: How do children learn?
         * Liminal space
     * Novice v experts (schemata)
         * explicit, direct instruction with guided practice and relevant feedback
-    * Meta-cognition
     * Cognitive load
-        
         * [Quick Reads](https://raspberrypi-education.s3-eu-west-1.amazonaws.com/Quick+Reads/Pedagogy+Quick+Read+13+-+Parson's+Problems.pdf)
     * Concept maps
-    * #notional-machine https://teachtogether.tech/en/index.html#s:models-notional
+
 
 
 
@@ -63,7 +61,7 @@ Delayed
     * Pupils learn new ideas by linking those ideas to existing knowledge, organising this knowledge into increasingly complex mental models
 * [Meta-cognition](./metaCognition.md)
 * concrete and abstract examples
-
+* #notional-machine https://teachtogether.tech/en/index.html#s:models-notional
 
 
 
