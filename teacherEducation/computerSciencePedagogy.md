@@ -203,7 +203,7 @@ Craig and Dave - TIME
 <details>
 
 As teachers we want to move our teaching from just "instructing" (youtube can do that), to a more supportive, skilled, analytical, backseat role
-<details>
+</details>
 
 * [Programming with T.I.M.E.](https://craigndave.org/programming-with-time/) Craig’n’Dave
     * Try, Investigate, Make and Evaluate
