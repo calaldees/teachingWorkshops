@@ -30,12 +30,12 @@ Children as learners
         * common sense
         * meta-cognition and language
     * Social/ Emotional domain
-        * Self eteem
+        * Self esteem
         * Identity - sexual, ethnic
-        * Metacognition
+        * Meta-cognition
         * expression
-        * self regulation, temperment
-        * undertsnaing of others, moral reasoning
+        * self regulation, temperament
+        * understanding of others, moral reasoning
         * interpersonal, friendships
 
 Adolescence KS3,4,5

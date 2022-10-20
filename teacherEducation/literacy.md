@@ -118,9 +118,6 @@ Facilitating Meta-Discourse - Computer Science Education - Sentence 2019
 
 Busch 1998
 
-> I wrote a code
-Professional developer interviewing for a position last week
-
 > Unless we want to dumb down the curriculum to the point at which it's completely valueless, its impossible to penetrate the meaning of academic subjects using everyday language
 <sub>David Didau</sub>
 

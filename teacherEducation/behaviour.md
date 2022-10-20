@@ -21,6 +21,14 @@ Behaviour
 * Laws relating to computer use and how this can be incorporated into classroom practice
 
 
+* [Scaffolding by novice and expert teachers: The difference](https://impact.chartered.college/article/scaffolding-by-novice-expert-teachers-difference/) Lorna Shires - September 2020 - Chartered College of Teaching [[metaCognition]]
+    * _Trust_ is a key factor
+    * > The students of the expert teachers felt safe to take those risks in moving out of easy work that they couldn’t yet do, and towards being able to
+    * #7-Behaviour-Learn-that-4-resilience_meaningful_success
+    * #7-Behaviour-Learn-that-5-value_pupil_feelings
+
+
+
 Curriculum
 ----------
 
@@ -70,6 +78,16 @@ Ongoing Task 2 of 2:
 
 I don't know if this tool will work. I hope it gives you focus and manifests some useful notes this session.
 
+<details>
+
+Some of mine
+* Late
+* Missing Equipment
+* Distracting Other Students
+* Interrupting teacher
+* Attention Seeking (taking time from teacher unnecessarily)
+* Vandalism
+</details>
 
 Session Overview
 ----------------
@@ -191,6 +209,17 @@ People talk about _The Hidden Curriculum_.
 What are you unconsciously teaching young people with your attitude and the culture you are creating?
 
 
+Explicitly teach resilience
+--------------------------
+
+Had 3rd year undergraduate - could not regulate - kept sighing and outwardly expressing frustration
+metacognition - why am I feeling like this - what do I do if I get frustrated
+
+#7-Behaviour-Learn-that-3-regulate_emotions
+Progamming is 98% Failing
+
+
+
 Positive re-enforcement
 -----------------------
 
@@ -220,11 +249,12 @@ Kind of an odd analogy, but an idea for a mindset. You create the rules, values,
 
 * Public vs Private praise
     * Some children would be character assassinated if they had rapport with a teacher. Be mindful.
-* Non verbal
+* Non verbal #7-Behaviour-Learn-how-6-non_verbal
     * (smile, thumbs up, nod)
     * pause, eye contact, shake head
     * gesture (4 legs on the floor)
 * How Intrusive is your intervention?
+    * #7-Behaviour-Learn-how-7-least_intrusive_intervention
 
 ### Praise
 
@@ -264,7 +294,7 @@ The psychology of owning the physical space.
     * Some of them barrel down the corridors and are flustered when they arrive
 * Enter calmly and orderly
     * Send some out/back if needed
-* Routine to start starter task
+* Routine to start starter task #7-Behaviour-Learn-that-1-routines
     * Start On board? 
     * Starter on paper?
     * Log-on + Load up IDE? routine?
@@ -402,7 +432,7 @@ TASK: Question: Should a detention ever be fun? Why? Why Not?
 * Why am I (the teacher) here? ... I'm here help you ... I'm not your enemy
 * You're trying to get through your own stuff. I have a job to teach the others.
 * What are we going to do so that we can both have a better experience moving forward? 
-    * Agree together. 
+    * Agree together.
     * Young people can't really have this as a two way discussion as they lack the skillset analysis and experience. You can fill that in. make suggestions. Agree together.
 
 * Bruce Perry 3R's - Adults help to regulate behavioural thinking in adolescents
@@ -475,7 +505,7 @@ TASK: ready your list of computing-specific behaviours
 * Computer Misuse (interrupting another program)
 * Use of facility's for other subjects (Your room could become disrupted/damaged/used)
 * _Insert_ Mode (insert key - tears)
-* [Accessibility Shortcuts](https://www.rit.edu/ntid/deafplus/windows-accessibility-shortcuts) and [StickyKeys](https://www.businessinsider.com/how-to-turn-off-sticky-keys-windows-10) - Know how to identify them
+* [Accessibility Shortcuts](https://support.microsoft.com/en-us/windows/windows-keyboard-shortcuts-for-accessibility-021bcb62-45c8-e4ef-1e4f-41b8c1fc87fd) and [StickyKeys](https://www.businessinsider.com/how-to-turn-off-sticky-keys-windows-10) - Know how to identify them
     * This can disrupt lesson by a confused student
         * Beeps on every keypress
         * Invert screen colours
@@ -541,6 +571,67 @@ In groups of 3.
     * Real young people have a complex background/experiences. They will not behave in 1 dimensional ways
 
 
+More Reading
+------------
+
+* [A systematic review of how theories explain learning behaviour in school contexts](http://eppi.ioe.ac.uk/cms/Portals/0/PDF%20reviews%20and%20summaries/BM(CCC)_2004review.pdf?ver=2006-03-02-125203-580) Powell, Tod 2004
+    * A curriculum that focuses on 'performance'19 learning is less motivating than a pedagogy and curriculum that seeks to secure 'mastery'20 learning. 
+    * Motivation is improved if positive outcomes are made meaningful, feasible and accessible to pupils.
+    * Competitive classroom contexts, that have a performance-approach to teaching and learning, are linked to disruptive behaviours.
+    * introducing more on-task verbal interaction between pupils; pupils benefit from being grouped with 'knowledgeable others' to enhance their learning experience and augment cognitive development.
+    * Problems around self-efficacy and behaviour have little to do with subject- specific factors and more to do with how the learner identifies with the immediate factors and immediate judgements/anxieties in the classroom context.
+    * Findings from the review support the view that researchers perceive that there may be generic components of learning behaviours, although some components may be subject-specific. These subject-specific components may explain pupils' differing attainment and behaviours in different lessons. It is reasonable to conclude that the promotion of effective learning behaviour can be considered to be intrinsic to effective teaching and learning, and should be addressed by teachers/tutors and mentors through their subject teaching.
+
+Competition
+-----------
+
+* I avoid it
+    * Specifically as an 'opt in' out of class activity
+* Kahoot banned in boys grammar
+* PE Teacher running story
+
+
+Ofsted: Review of sexual abuse
+------------------------------
+
+* [Ofsted: Review of sexual abuse in schools and colleges](https://www.gov.uk/government/publications/review-of-sexual-abuse-in-schools-and-colleges/review-of-sexual-abuse-in-schools-and-colleges)
+    * > It is concerning that for some children, incidents are so commonplace that they see no point in reporting them.
+      > It recommends that schools, colleges and multi-agency partners act as though sexual harassment and online sexual abuse are happening, even when there are no specific reports.
+    * > girls told us that sexual harassment and online sexual abuse, such as being sent unsolicited explicit sexual material and being pressured to send nude pictures (‘nudes’), are much more prevalent than adults realise. For example, nearly 90% of girls, and nearly 50% of boys, said being sent explicit pictures or videos of things they did not want to see happens a lot or sometimes to them or their peers.
+      > Children and young people told us that sexual harassment occurs so frequently that it has become ‘commonplace’. For example, 92% of girls, and 74% of boys, said sexist name-calling happens a lot or sometimes to them or their peers. The frequency of these harmful sexual behaviours means that some children and young people consider them normal.
+      * > When we asked children and young people where sexual violence occurred, they typically talked about unsupervised spaces outside of school, such as parties or parks without adults present, although some girls told us they also experienced unwanted touching in school corridors.
+      * > Children and young people, especially girls, told us that they do not want to talk about sexual abuse for several reasons, even where their school encourages them to. For example, the risk of being ostracised by peers or getting peers into trouble is not considered to be worth it for something perceived by children and young people to be commonplace. They worry about how adults will react, because they think they will not be believed, or that they will be blamed. They also think that once they talk to an adult, the process will be out of their control.
+      * > Children and young people were rarely positive about the RSHE they had received. They felt that it was too little, too late and that the curriculum was not equipping them with the information and advice they needed to navigate the reality of their lives. Because of these gaps, they told us they turned to social media or their peers to educate each other, which understandably made some feel resentful. As one girl put it, ‘It shouldn’t be our responsibility to educate boys’.
+      * > In the schools and colleges we visited, some teachers and leaders underestimated the scale of the problem. They either did not identify sexual harassment and sexualised language as problematic or they were unaware they were happening.
+* [EveryonesInvited.uk](https://www.everyonesinvited.uk/read-testimonies-page-1)
+    * List of all schools in the country
+    * This is a wider societal issue
+
+
+Some things are more important than your lesson
+-----------------------------------------------
+
+Have a plan
+
+
+Social Cooling
+--------------
+
+[[social-cooling]]
+
+
+Diversity
+---------
+[[_diversity]]
+
+
+Including too far?
+-----------------
+
+* [Tom Rogers](https://twitter.com/RogersHistory/status/1503725955516448771) @RogersHistory
+    * > A seemingly popular take on ‘inclusion’ is that which allows someone who assaults or abuses a teacher to continue to be included.
+
+
 
 Closing Thoughts
 ----------------
@@ -552,6 +643,7 @@ Summary
 
 Unsorted
 ========
+
 
 
 * Internation Academy of Education - Education Practice Series 8 - [Preventing behaviour problems: what works](https://www.iaoed.org/downloads/prac08e.pdf)
@@ -584,8 +676,6 @@ After a year of hard graft, all the progress is lost (the summer reset) as you g
 
 
 
-* [Scaffolding by novice and expert teachers: The difference](https://impact.chartered.college/article/scaffolding-by-novice-expert-teachers-difference/)
-    * _Trust_ is a key factor
 
 Trust and Respect
 
@@ -634,13 +724,7 @@ Anxiety
 
 * [Behaviour for Learning: Promoting Positive Relationships in the Classroom](https://www.amazon.co.uk/Behaviour-Learning-Simon-Ellis-dp-1138293075/dp/1138293075/)
     * [vlebooks](https://www.vlebooks.com/Vleweb/Product/Index/2013366) complete book for CCCU students
-* [A systematic review of how theories explain learning behaviour in school contexts](http://eppi.ioe.ac.uk/cms/Portals/0/PDF%20reviews%20and%20summaries/BM(CCC)_2004review.pdf?ver=2006-03-02-125203-580) Powell, Tod 2004
-    * A curriculum that focuses on 'performance'19 learning is less motivating than a pedagogy and curriculum that seeks to secure 'mastery'20 learning. 
-    * Motivation is improved if positive outcomes are made meaningful, feasible and accessible to pupils.
-    * Competitive classroom contexts, that have a performance-approach to teaching and learning, are linked to disruptive behaviours.
-    * introducing more on-task verbal interaction between pupils; pupils benefit from being grouped with 'knowledgeable others' to enhance their learning experience and augment cognitive development.
-    * Problems around self-efficacy and behaviour have little to do with subject- specific factors and more to do with how the learner identifies with the immediate factors and immediate judgements/anxieties in the classroom context.
-    * Findings from the review support the view that researchers perceive that there may be generic components of learning behaviours, although some components may be subject-specific. These subject-specific components may explain pupils' differing attainment and behaviours in different lessons. It is reasonable to conclude that the promotion of effective learning behaviour can be considered to be intrinsic to effective teaching and learning, and should be addressed by teachers/tutors and mentors through their subject teaching.
+
 * [Behaviour for Learning: Proactive approaches to behaviour management](https://www.tandfonline.com/doi/abs/10.1080/19415250903457687?src=recsys&journalCode=rjie20) Book review 2011
 
 > A fence at the top of a cliff is better than an ambulance at the bottom
@@ -654,26 +738,9 @@ Anxiety
 Elis and Tod's 2015 Behaviour for leaning framework - trio of factors
 
 
-* [Ofsted: Review of sexual abuse in schools and colleges](https://www.gov.uk/government/publications/review-of-sexual-abuse-in-schools-and-colleges/review-of-sexual-abuse-in-schools-and-colleges)
-    * > It is concerning that for some children, incidents are so commonplace that they see no point in reporting them.
-      > It recommends that schools, colleges and multi-agency partners act as though sexual harassment and online sexual abuse are happening, even when there are no specific reports.
-    * > girls told us that sexual harassment and online sexual abuse, such as being sent unsolicited explicit sexual material and being pressured to send nude pictures (‘nudes’), are much more prevalent than adults realise. For example, nearly 90% of girls, and nearly 50% of boys, said being sent explicit pictures or videos of things they did not want to see happens a lot or sometimes to them or their peers.
-      > Children and young people told us that sexual harassment occurs so frequently that it has become ‘commonplace’. For example, 92% of girls, and 74% of boys, said sexist name-calling happens a lot or sometimes to them or their peers. The frequency of these harmful sexual behaviours means that some children and young people consider them normal.
-      * > When we asked children and young people where sexual violence occurred, they typically talked about unsupervised spaces outside of school, such as parties or parks without adults present, although some girls told us they also experienced unwanted touching in school corridors.
-      * > Children and young people, especially girls, told us that they do not want to talk about sexual abuse for several reasons, even where their school encourages them to. For example, the risk of being ostracised by peers or getting peers into trouble is not considered to be worth it for something perceived by children and young people to be commonplace. They worry about how adults will react, because they think they will not be believed, or that they will be blamed. They also think that once they talk to an adult, the process will be out of their control.
-      * > Children and young people were rarely positive about the RSHE they had received. They felt that it was too little, too late and that the curriculum was not equipping them with the information and advice they needed to navigate the reality of their lives. Because of these gaps, they told us they turned to social media or their peers to educate each other, which understandably made some feel resentful. As one girl put it, ‘It shouldn’t be our responsibility to educate boys’.
-      * > In the schools and colleges we visited, some teachers and leaders underestimated the scale of the problem. They either did not identify sexual harassment and sexualised language as problematic or they were unaware they were happening.
-* [EveryonesInvited.uk](https://www.everyonesinvited.uk/read-testimonies-page-1)
-    * List of all schools in the country
-    * This is a wider societal issue
 
-Notes/Answers/Mine
-==================
-
-* Some of my list
-    * Late
-    * Missing Equipment
-    * Distracting Other Students
-    * Interrupting teacher
-    * Attention Seeking (taking time from teacher unnecessarily)
-    * Vandalism
+[//begin]: # "Autogenerated link references for markdown compatibility"
+[metaCognition]: metaCognition.md "Meta-cognition"
+[social-cooling]: ../general/social-cooling.md "Social Cooling"
+[_diversity]: _diversity.md "Diversity (1 hour)"
+[//end]: # "Autogenerated link references"

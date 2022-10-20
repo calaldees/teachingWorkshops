@@ -145,7 +145,7 @@ ACTIVITY:
         * 2.6 Managing digital identity
     * Competence area 3: Digital content creation
         * 3.1 Developing digital content
-        * 3.2  Integrating and re-elaborating digital content
+        * 3.2 Integrating and re-elaborating digital content
         * 3.3 Copyright and licences
         * 3.4 Programming
     * Competence area 4: Safety
@@ -201,6 +201,8 @@ Regardless of subject, the skill is how to locate and use information.
         3. Spend more time on it.
         4. Begin earlier.
         5. Let students own the process.
+* [RSS Club: School vs Wikipedia](http://ratfactor.com/rss-club/school-vs-wikipedia)
+    * Wikipedia is actually a good source of information
 
 * [Young female Japanese biker is really 50-year-old man with luscious hair using FaceApp](https://mothership.sg/2021/03/japanese-biker-actually-man/) [[safeGuarding]]
 

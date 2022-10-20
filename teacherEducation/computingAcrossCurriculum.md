@@ -367,6 +367,9 @@ Timeboxed? One hour? I could go all day
         * [github.com/junyanz/interactive-deep-colorization](https://github.com/junyanz/interactive-deep-colorization)
             * Used to be the work of skilled image editing professionals
             * Now AI tools allow anyone to do this
+        * [palette.fm](https://palette.fm/)
+            * Colorize Pictures
+            * Automatic, no sign-up, and Free!
         * Restorations
             * [[4k, 60 fps] A Trip Through New York City in 1911](https://www.youtube.com/watch?v=hZ1OgQL9_Cw)
             * [[60 fps] Laborers in Victorian England, 1901](https://www.youtube.com/watch?v=5HbElEqm1TQ)

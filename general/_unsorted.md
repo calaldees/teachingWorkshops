@@ -224,3 +224,7 @@
     * > you actually have to ask for your competitors’ permissions before you can open anything, from a hospital to an ice cream shop. We’ve never had so few rights over our own property
     * > We need to re-create the environment of permissionless innovation that enabled the rise of the modern world, and without which no progress is possible
 
+* [The credibility of science is damaged when universities brag about themselves](https://bigthink.com/the-present/attention-economy-science-damaged/) - The "attention economy" corrupts science. 2022
+    * About 25 years ago, it was predicted that attention would come to dominate the marketplace. The prediction was correct. 
+    * Science is not immune to the "attention economy." In fact, it plays an active role in it. 
+    * However, the things that are seen as being of value to individual scientists or institutions, like media attention, are undermining public trust and devaluing science as a collective resource.

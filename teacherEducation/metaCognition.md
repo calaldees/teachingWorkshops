@@ -76,6 +76,8 @@ We should set time aside to explicitly teach/name/model metacognitive skills
     * > students developed something that I came to call subject agency – the ability of pupils to develop the capacity to do something with the knowledge for themselves. Subject agency reflected how the teachers were hugely motivated by their own love of the subject
     * > Expert teachers were thinking about the process of teaching using the metaphor of scaffolding as a temporary adaptive structure (Shvarts and Bakker, 2019).
     * _Trust_ is a key factor
+    * > The students of the expert teachers felt safe to take those risks in moving out of easy work that they couldn’t yet do, and towards being able to
+    * [[behaviour]]
 
 * [Making sense of meta-cognition](https://impact.chartered.college/article/quigley-stringer-making-sense-metacognition/) - May 2018 Impact Charatered College of Teaching
     * Misconception 1: Meta-cognition is a general skill that should be taught separately from subject knowledge

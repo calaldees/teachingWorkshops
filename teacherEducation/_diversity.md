@@ -187,7 +187,7 @@ Mental thinking - upfront now - when a situation does occur we have some groundi
     * loud
     * effeminate voice
     * hygiene issues
-* Pleasant manner and responsive to instructions
+* Pleasant manner and (seemingly) acknowledges instructions
     * Repeated instructions
         * "I forgot"; repeated response
         * No impact or meaningful change in behaviour either short term or long term
@@ -202,7 +202,7 @@ Mental thinking - upfront now - when a situation does occur we have some groundi
 <details>
 
 * My form were between 'tolerant' to 'accepting' - One of us
-    * peer - panner and pen check each day
+    * peer - planner and pen check each day
     * The wider school was more challenging
 </details>
 
@@ -323,8 +323,6 @@ Unsorted
 
 
 
-* [Tom Rogers](https://twitter.com/RogersHistory/status/1503725955516448771) @RogersHistory
-    * > A seemingly popular take on ‘inclusion’ is that which allows someone who assaults or abuses a teacher to continue to be included.
 
 
 * [12 things you need to know about inclusion in schools](https://connect.open.ac.uk/education-development-and-languages/school)

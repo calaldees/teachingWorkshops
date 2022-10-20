@@ -255,7 +255,7 @@ Thursday 6th October
 * [Subject Pedagogy Research Proposal: Microsoft Form](https://forms.office.com/Pages/ResponsePage.aspx?id=2rIgA90iq02MIW5kS6FPE4bZosdBzY5AvRurHpjUivVUQ0JRMFNOREUwNlBTVkxLREQ5UDFQVDVaRC4u)
 
 
-KSQ 5: How do children learn?
+SQ 5: How do children learn?
 -----------------------------
 
 Developing an understanding of how children learn and the key barriers to learning.
@@ -331,10 +331,6 @@ Friday 21st October - 09:00
 * Child and adolescent behaviour
 ### SP7
 Friday 21st October - 11:00
-* How can we aid B4L through our planning and teaching in subject?
-* Barriers to learning and key research and practice in subject  
-* Making subject connections – unfamiliar and familiar 	
-
 
 * How can we aid B4L through our planning and teaching in Computing?
 * Barriers to learning and key research and practice in subject

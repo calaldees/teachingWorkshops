@@ -60,34 +60,7 @@ Have the [Computing National Curriculum](https://www.gov.uk/government/publicati
 Old Theories
 ------------
 
-* Understanding How We Learn - Chapter 1 - Communication Breakdown Between Science and Practice in Education
-    * > Teacher-training textbooks and courses sometimes propagate misunderstandings about learning
-        * Dr Yana Weinstein and Dr Megan Sumeracki 2018
-    * [Dual Coding and Learning Styles](https://www.learningscientists.org/blog/2019/6/6-1) - learning styles not effective
-        * > Dual coding and learning styles sound similar, but are not quite the same thing. 
-            > While dual coding has scientific evidence backing its use, 
-            > learning styles has been repeatedly tested and shown not to improve learning.
-* Video [Howard Gardner on Multiple Intelligences](https://www.youtube.com/watch?v=iYgO8jZTFuQ) Gardener 1997
-    * In 20 years - education has moved on. The idea that _individuals learn in different ways_ has largely been debunked. Much more is now known about the way we encode, chunk and schema knowledge.
-    * For follow-up later
-        * [The Biggest Myth In Education](https://www.youtube.com/watch?v=rhgwIhB58PA) veretasium 2021 - learning styles YouTube 15min
-            * you are not a visual learner
-            * be critical
-
-TASK: 
-1. Watch the first 2min of the video - 
-2. Read the first few pages of YouTube comments in this video
-3. Discuss - Quick Thoughts
-
-Masters Level: Be critical of all of these theories. Why might they not be the whole picture?
-
-
-* [Confronting 5 Damaging Educational Myths](https://thechalkboardreview.com/latest/confronting-5-damaging-educational-myths)
-    * Teach critical thinking, not facts
-    * Reading is a skill
-    * Learning styles
-    * Teach kids to "think like a scientist"
-    * Facts don't matter because you can look anything up on the internet
+* [[old_theories]]
 
 
 Required-Reading
@@ -126,18 +99,6 @@ Required-Reading
         * > their _important teacher_ set high standards and believed that they could meet those standards.
         * > be wary of praising second-rate work
 
-### Understanding How we Learn - A visual guide
-
-* [Understanding How we Learn - A visual guide](https://www.learningscientists.org/uhwl) 2018
-    * [visuals by oliver calgary](https://www.olicav.com/#/understanding-how-we-learn/)
-* Read this book preview (10min)
-When reading; make notes about action points that would affect the planning of your computing lessons.
-
-Many of the topics touched on in the reading will be explored in more detail in the session.
-
-TASK: From our reading - Discuss
-1. How do we Learn?
-2. How will this affect planning our computing lessons?
 
 ### The Science of Learning
 
@@ -153,51 +114,7 @@ TASK: From our reading - Discuss
     * > Applying the principles of cognitive science is harder than knowing the principles and one does not necessarily follow from the other. Principles do not determine specific teaching and learning strategies or approaches to implementation. Considering how cognitive science principles are implemented in the classroom is critical.
 
 
-### My Notes
-
-* Chapter 1 - Communication Breakdown Between Science and Practice in Education
-    * Research == good - our intuition is often wrong
-    * Old thinking should be challenged
-* Chapter 2 - Different Types of Evidence in Education
-    * Behavioural psychology, cognitive psychology and neuroscience are experimental disciplines
-    * Blogs, books + other - should be consumed critically
-* Chapter 3 - Is Intuition the Enemy of Teaching and Learning?
-    * Reading easy - so must be working
-    * Retrieval feels harder - so must not as effective
-* Chapter 4 - Pervasive Misunderstandings about Learning: How They Arise, and What Can We Do?
-    * Many myths - learning styles
-    * Shaming people is not a effective way to change minds
-* Chapter 5 - Perception
-    * Curse of knowledge
-* Chapter 6 - Attention
-    * Attention is a limited resource
-    * Avoid overload
-    * Selective focus - switching tasks slow
-    * Mind wondering can miss vital information
-* Chapter 7 - Memory
-    * Not like computer - use == reconstructing == strengthen
-    * Not objective - imagination can become memories
-    * Short term memory == 30 seconds
-    * Once encoded - we rapidly start to forget
-* Chapter 8 - Strategies
-    * Spacing (interleaving)
-    * Elaboration
-    * Concrete (real) examples
-    * Visuals (dual coding)
-    * Retrieval
-* Chapter 9 Planning learning
-    * Spacing is hard to stick to schedule
-* Chapter 10 Developing understanding
-    * Elaborate (add features to memory) - 'How' 'Why'
-    * Must be connected to pre-existing knowledge
-    * Multiple concrete (real) examples
-    * Dual coding - images + words
-* Chapter 11 Reinforcing learning
-    * Act of retrieval strengthens memory
-    * Frequent low stakes quizzes
-    * Any retrieval practice is good (it feels hard)
-    * Avoid 'feel good' learning
-
+* [[how_we_learn]]
 
 
 
@@ -211,95 +128,14 @@ TASK: From our reading - Discuss
 My Take: The practical act of coding is not separate to the theory. If we are trying to manifest aspects/concepts/topics of computing in code, we are repeating/strengthening/solidifying our programming understanding.
 
 
-Dual Coding
------------
+* [[dual_coding]]
 
-* [Dual-coding theory](https://en.wikipedia.org/wiki/Dual-coding_theory)
-    * words and images
-    * Audio is sequential, linear, temporal
-    * Visual - composited in disjointed order and your eyes scan and compose/digest
-* [ALLAN PAIVIO’S DUAL CODING THEORY - poster](https://static1.squarespace.com/static/58e151c946c3c418501c2f88/t/5d00def50187cc00011c166d/1560338166118/Paivio%27s+DCT+model.pdf) Oliver Caviglioli
-* [HOW TO TEACH LIKE AN ATTENTION MEGALOMANIAC](https://rclutterbucked.files.wordpress.com/2020/05/teach-like-an-attention-megalomaniac-pdf-2.pdf)
+Cognitive Load
 
+* [[cognitive_load]]
+    * [[parsons_problems]]
+    * [[conversational_programming]]
 
-* [Oliver Caviglioli - Visual Clarity](https://www.olicav.com/#/posters/)
-    * visual diagrams about teaching
-He has illustrated many of the theories we are looking at today
-
-* [Google: computing+knowledge+organiser+ks3](https://www.google.com/search?q=computing+knowlege+organiser+ks3)
-
-
-Cognitive load theory
----------------------
-
-* [Cognitive Load](https://en.wikipedia.org/wiki/Cognitive_load) John Sweller 198x?
-* [Cognitive Load Theory and its application in the classroom](https://impact.chartered.college/article/shibli-cognitive-load-theory-classroom/) Chartered College of Teaching Journal 2020
-
-> Dylan Wiliam tweeted on 26 January 2017 that he had ‘come to the conclusion Sweller’s Cognitive Load Theory is the single most important thing for teachers to know
-
-Attention is a finite resource and can be depleted quickly.
-
-> Working memory should be seen as short term and finite, 
-> whereas long-term memory can be seen as infinite. 
->
-> The aim should be to move knowledge to long-term memory 
-> because when a student is exposed to new material, 
-> they can draw on this previous knowledge and the cognitive load is reduced.
->
-> However, if subject knowledge is incomplete, 
-> the student is unable to fall back on the long-term memory and the working memory becomes overloaded, 
-> leading to working memory failures. 
-(Gathercole and Alloway, 2007),
-
-> Be wary of reducing cognitive load too much – the learning process should be manageable, but not overly fragmented.
-See Expertise Reversal Effect in [inclusion.md](./inclusion.md) - too much support cases lack of engagement and inattention
-
-
-> Gesturing is a technique children use to reduce cognitive load while speaking
-
-Help sheets or Knowledge Organisers can help reduce cognitive load.
-
-* CESE NSW Government DfE [Cognitive load theory in practice Examples for the classroom](https://khsbpp.files.wordpress.com/2018/11/cognitive_load_theory_practice_guide_aa.pdf) Center for Education Statistics and Evaluation 2018
-    * Understanding prior knowledge is VITAL to your planning for cognitive load
-    * Lots of classroom examples - beautifully presented
-* NCCE [Pedagogy Quick Read #1 : Cognitive Load Theory](https://blog.teachcomputing.org/pedagogy-bytes-quick-reads-for-busy-educators/)
-
-
-### Cognitive Load - Parsons Problems
-* NCCE [Quick Read: Improving program comprehension through Parson’s Problems](https://blog.teachcomputing.org/quick-read-improving-program-comprehension-throughparsons-problems/)
-    * Learner rearranges the lines of code to solve the task
-    * benefit of Parson’s Problems is that the learner is focusing on the structure and logic of blocks of code, rather than the syntax of individual text elements (atoms). The process reduces the cognitive load experienced by learners, allowing them to practise sequencing and problem-solving with code. 
-    * [js-parsons.github.io](https://js-parsons.github.io/)
-* [Parsons problems](https://www.futurelearn.com/info/courses/secondary-programming-pedagogy/0/steps/68422)
-
-TASK: create a parsons problem for "Bubble Sort" (postit notes)
-* Pair (communicate with technical terminology) - you are not alone to fail alone
-* Retrieval practice (for you)
-* Solve another pairs problem
-
-
-<details>
-
-
-</details>
-
-
-Conversational Programming
---------------------------
-
-Considering cognitive load
-
-* Conversational Programmers
-    * Conversational Programmers (High level patterns - in blocks)
-    * Build working program in chunked examples
-    * (Kind of like my engineering projects - [chat project python/js](https://github.com/calaldees/TeachProgramming/tree/master/teachprogramming/static/docs) - felt success - felt real world)
-    * [Katie Cunningham’s Purpose-first Programming: Glass box scaffolding for learning to code for authentic contexts](https://computinged.wordpress.com/2021/06/21/katie-cunninghams-purpose-first-programming-glass-box-scaffolding-for-learning-to-code/)
-    * [CHI 2021 | Purpose-first programming works for conversational programmers](https://www.youtube.com/watch?v=flLjtC1QfD0)  Katie Cunningham 2021
-        * [Avoiding the Turing Tarpit: Learning Conversational Programming by Starting from Code’s Purpose](https://dl.acm.org/doi/10.1145/3411764.3445571) 2021
-            * Conversational programmers want to learn about code primarily to communicate with technical co-workers, not to develop software. 
-            * However, existing instructional materials don’t meet the needs of conversational programmers because they prioritize syntax and semantics over concepts and applications. 
-            * This mismatch results in feelings of failure and low self-efficacy
-        * [Mismatch of Expectations: How Modern Learning Resources Fail Conversational Programmers](https://dl.acm.org/doi/10.1145/3173574.3174085) Wang 2018
 
 
 
@@ -315,179 +151,19 @@ A Mental Model of the Learner - Daniel Willingham
 TASK: What does this mean for your planning?
 
 
-Rosenshine's Principles of Instruction
---------------------------------------
+Rosenshine
+----------
 
-Brings together many other modern working theories.
-
-* [Principles of Instruction: Research based strategies that all teachers should know](https://www.aft.org/sites/default/files/periodicals/Rosenshine.pdf) Barak Rosenshine American Educator 2012
-    * [Principles of Instruction - Poster Summary](https://teachinghow2s.com/blog/principles-of-instruction) - Poster summary of the International Academy of Education research paper on what the most successful teachers do in their classrooms.
-        1. Daily Review
-        2. New material in small steps
-        3. Ask questions - check understanding
-        4. Model worked examples
-        5. Guide practice - time to rephrase/summarise
-        6. Check all student understanding
-        7. Aim for 80% success rate
-        8. Scaffold difficult tasks
-        9. Independent practice - over-leaning
-        10. Weekly/Monthly review
-
-* [Tom Sherrington](https://teacherhead.com/about/) [@teacherhead](https://twitter.com/teacherhead)
-    * [Rosenshine Masterclass - 6 video series](https://www.youtube.com/watch?v=gdTlXWYMlIw&list=PL_WHYo5KULlfcpKvyf5fXrFEXbA6zroIk)
-    * [PRINCIPLES OF INSTRUCTION - A thematic interpretation for teachers by Tom Sherrington](https://www.olicav.com/s/Rosenshine-Principles-red-anke.pdf) Oliver Caviglioli Visualisation
-
-* You only remember something is you've encountered it 3 times encounter (Nutall)
-
-TASK: Discuss Critically - 
-Rosenshine if the best, research proven strategy to learning. Entire schools call themselves Rosenshine schools.
-What could be the problems with this?
-
-<details>
-
-* Gibbs 2020 - cautioned about Rosenshines principles being used in every classroom ever lesson limited the teachers creativity
-
-* [Does research on retrieval practice translate into classroom practice?](https://impact.chartered.college/article/does-research-retrieval-practice-translate-classroom-practice/) Robert Coe 2020
-    * yes and no ...
-    * Why might retrieval practice fail?
-        * Retrieval questions might be generated that focus solely on factual recall (these questions are easier to generate) rather than requiring higher-order thinking
-        * Questions might be too easy and boost confidence without providing real challenge, which is likely to be a key ingredient for generating the kind of learning hoped for
-        * Too much time could be allocated to the quizzes, effectively losing the time that students need to cover new material.
-    * Just quizzing may not be enough
-
-</details>
-
-
-Think-Write-Voice
-Action point: What will you consider in your planning?
-
-
-Frequent Retrieval/Questions/Assessment/Quiz
---------------------------------------------
-
-* [Top 10 Papers on Retrieval Practice](https://twitter.com/PearceMrs/status/1534631105315454976) @PearceMrs
-
-
-How will you do this?
-
-* Hand up?
-    * No Hands Up - [Video Clip](https://youtu.be/J25d9aC1GZA?t=321) Watch 5:21 to 8:43 == 3min20seconds
-        * Dylan Willam thinks hands up is one of the most damaging things in classrooms
-    * Flawed sample group
-    * Pressure/Public - not inclusive practice
-* Teacher pick a random student
-    * Limited bandwidth (single student)
-* Technology?
-
-* Question Systems
-    * [MentiMeter](https://www.mentimeter.com/)
-    * [Google Forms](https://docs.google.com/forms/)
-    * [Microsoft Forms](https://forms.office.com/)
-    * [Kahoot](https://kahoot.it/)
-        * Quiz pin
-    * [Socrative](https://www.socrative.com/) - see the promo video
-        * [Socrative 2018: Quick and Complete Introduction for Teachers](https://www.youtube.com/watch?v=VyycybD8KNw)
-        * > See Socrative from the teacher and student point of view and then watch as this teacher builds a Socrative Quiz
-    * [iClicker](https://www.iclicker.com/)
-    * [Plickers](https://get.plickers.com/)
-        * Students answer with A4 paper - Paper is unique ID (like QR) - each rotation is A,B,C,D - Teacher collects answers with mobile phone camera
-
-These technologies are a lot of work for you to create and manage.
-Constructing quality questions that give you meaningful data (e.g the incorrect answers tell you something) is hard.
-
-* [Diagnostic Questions](https://diagnosticquestions.com/) - Computing 'Question Bank'
-    * [DiagnosticQuestionsFAQ.pdf](https://diagnosticquestions.com/Uploads/DiagnosticQuestionsFAQ.pdf)
-    * (Massive topic: We will elaborate on the concepts of Questioning in SP8)
-
-* Reveal
-    * [retrieval starters](https://twitter.com/MissHudsonHist/status/1370781735319957507) [googleDrive](https://drive.google.com/file/d/1jfO1pgCXXGCmUlZ28XW08Z0lENwNhAph/view) i saved the pptx
-
-
-TASK: What does this mean for your planning?
-
-
-Retrieval Practice (cont)
-------------------
-
-* [A systematic review of interleaving as a concept learning strategy](https://doi.org/10.1002/rev3.3266) 2021 Jonathan Firth, Ian Rivers, James Boyle
-    * Repeat things with subtle differences to get maximum retention of 0.65
-* [Retrieval Practice 2: Implementing, embedding & reflecting](https://books.google.co.uk/books?id=1oM7EAAAQBAJ&dq=jones+2021+Students+are+incline+to+resort+to+cramming+or+re-reading+as+this+is+as+requiring+less+effort+and+energy+in+comparison+to+self-testing+when+examination%27s+are+imminent.+Giving+a+false+sense+of+confidence&lr=&source=gbs_navlinks_s) Kate Jones 2021
-    * Students are incline to resort to cramming or re-reading as this is as requiring less effort and energy in comparison to self-testing when examination's are imminent. Giving a false sense of confidence
-    * ISBN 9781914351013
-    * Moreira, Pinto, Starling and Jaeger "retrieval yields greater long term retention fo the studied material than just restudying"
+* [[rosenshine]]
+* [[retrieval_practice]]
 
 
 
 
+* [[liminal_space]]
+* [[mastery]]
+* [[knowledge_organisers]]
 
-
-Liminal Space
--------------
-
-* [Learning in the Liminal Space: a Semiotic Approach to Threshold Concepts](http://dro.dur.ac.uk/13381/1/13381.pdf) 2014 Ray Land et al
-    * [Threshold Concepts in Practice](https://www.amazon.co.uk/Threshold-Concepts-Practice-Educational-Futures/dp/9463005102/) 2016
-    * > These conceptual gateways are integrative, exposing the previously hidden interrelatedness of ideas, and are irreversible.
-      > However they frequently present troublesome knowledge and are often points at which students become stuck.
-      > Difficulty in understanding may leave the learner in a 'liminal' state of transition, a 'betwixt and between' space of knowing and not knowing, where understanding can approximate to a form of mimicry.
-      > Learners navigating such spaces report a sense of uncertainty, ambiguity, paradox, anxiety, even chaos
-* Forgetting is normal - Liminal space is normal - reassure them it is normal
-* Don't rush to students to 'make it right' let them grapple with the problem
-
-* Example
-    * Threshold concepts
-        * If statements
-        * For loops
-        * Variables
-        * Functions and parameters
-    * Once we understand those threshold concepts, we can move on to Algorithms
-    * Once we understand there are different algorithms to solve the same problem we can can deliberate which may be the most appropriate and why
-
-TASK: Build a tree of knowledge for computing, what are some of the threshold concept that unlock other skills?
-
-
-Teaching for Mastery
---------------------
-* [Secondary Mathematics Teaching for Mastery: Some themes and key principles](https://www.ncetm.org.uk/media/q0ykgtje/secondary-teaching-for-mastery-march-2021.pdf)
-    * > Lessons are designed to have a high-level of teacher-student and student-student interaction where all students in the class are thinking about, working on, and discussing the same mathematical content. Challenge and the opportunity to deepen understanding of the key mathematical ideas is provided for all.
-    * > Every attempt is made to keep the whole class learning together. Differentiation is achieved, not through offering different content, but through paying attention to the levels of support and challenge needed to allow every student to fully grasp the concepts and ideas being studied.
-    * > For those students who grasp ideas quickly, acceleration into new content is avoided. Instead, these students are challenged by deeper analysis of the lesson content and by applying the content in new and unfamiliar problem-solving situations. If some students fail to grasp an important aspect of the lesson, this is identified quickly, and early intervention ensures that they are ready to move forward with the whole class in the next lesson.
-    * > Teachers use well-crafted examples and exercises which, through careful use of variation (including what to keep the same) focuses students’ attention on the key learning point.
-
-
-Knowledge Organisers and Mind Maps (30min)
-----------------------------------
-
-* [Organising knowledge: The purpose and pedagogy of knowledge organisers](https://impact.chartered.college/article/organising-knowledge-purpose-pedagogy-knowledge-organisers/) MARK MILLER September 2018 [BlackBoard pdf](https://learn.canterbury.ac.uk/bbcswebdav/pid-2681383-dt-content-rid-4010508_1/xid-4010508_1)
-    * > A knowledge organiser (KO) sets out the important, useful and powerful knowledge on a topic on a single page (Kirby, 2015). With the content demands of new courses, and schools adopting a knowledge-based curriculum, these are becoming increasingly popular in schools
-* [Improved Results & Workload with Knowledge Organisers](https://blog.teamsatchel.com/case-study-improving-results-and-reducing-workloads-with-knowledge-organisers-and-quizzes)
-    * > “My students just keep forgetting everything - even though I’ve taught it to them over and over again!”
-    * > Knowledge Organisers are an increasingly popular teaching method in schools and simply involve distilling the key information for a term’s teaching, or a topic, onto 1 side of A4 – similar to a graphic organiser.
-      > This Knowledge Organiser is given to students as #homework on Show My Homework with instructions for students and parents on how the students can test themselves, and how the parents can test their children, to memorise as much of the key information as possible.
-
-
-TASK: Think-Pair-Share - How would you use the concept of a knowledge organiser? Are they effective? (20min total)
-* Examples of computing knowledge organisers
-    * [Google: computing+knowledge+organiser+ks3](https://www.google.com/search?q=computing+knowlege+organiser+ks3)
-
-
-* [Are knowledge organisers flawed?](https://learningspy.co.uk/psychology/are-knowledge-organisers-flawed/) David Daidu
-    * > most schools don’t have self-quizzing cultures built in. Students don’t use them effectively and just copy words across blindly without self-quizzing.
-      > Worse than that, the KO’s are just stuck into students’ books (or reside at the bottom of their bags) and are never looked at again. 
-      > This is a waste of time, but it certainly doesn’t mean that KOs are a bad idea. All it means is that – like everything else – inventions work best when resources, practice and purpose are aligned.
-* [The 6 most common mistakes students make when mind mapping](https://blog.innerdrive.co.uk/6-common-mind-mapping-mistakes)
-    * Mistake 1 – Using only words
-        * Dual coding - diagrams/pictographs
-    * Mistake 2 - Using too many words
-        * Redundancy effect
-    * Mistake 3 - Wasting time making it too pretty
-        * form of procrastination
-    * Mistake 4 – Not using Elaborative Interrogation
-        * Re-reading is insufficient revision
-        * "why is this true?" or "why might this be the case?"
-    * Mistake 5 – Not utilising Retrieval Practice
-        * they don’t actually test whether they understand what they’re written
-        * try 15min time-box to replicate mind-map from memory
-    * Mistake 6 - Not transferring mind map knowledge
 
  
 
@@ -565,59 +241,6 @@ MARGE
 
 
 
-Constructing their own leaning? (30min)
--------------------------------
-
-* [We Learn Faster When We Aren’t Told What Choices to Make](https://www.scientificamerican.com/article/we-learn-faster-when-we-arent-told-what-choices-to-make/)The way we decide may even give insight into delusional thinking - 2020 Scientific American
-    * > Feeling as though you are the architect of the outcomes you experience is powerful and certainly would lead you to strengthen beliefs about those contingencies much more strongly
-
-* [Meaningful Learning with Technology](https://www.pearson.com/store/p/meaningful-learning-with-technology/P100000899534/9780132565585) (Pearson, 2011) - Howland, J. L., Jonassen, D. H. and Marra, R. M.
-    * Active
-        * Pupils should be actively engaged in their learning – 
-        * typically this will be doing something on a computer, 
-        * but it could also be taking part in a discussion or an activity away from the computer, such as role-play to illustrate how packets of data travel across the internet.
-    * Constructive
-        * This can be understood both in the sense of constructing meaning, developing pupils’ mental model of computation and technologies, 
-        * and in the sense of making something, whether this is a computer program, a presentation or a blog post.
-    * Intentional
-        * Ideally, pupils should have some degree of choice over how they tackle a task or project, or perhaps even over the task or project itself. 
-        * It is unlikely they will learn much from copying a worked solution off an IWB screen, 
-        * and many projects can be constructed or adapted to allow plenty of scope for individual creativity.
-    * Authentic
-        * Wherever possible, try to link activities with pupils’ own experiences, both within and beyond school: 
-        * cross-curricular projects work very well, as do those linked to the life of the school itself, or to pupils’ experiences of technology.
-    * Cooperative
-        * Computing, in both industrial and academic contexts, is a collaborative endeavour. 
-        * Where possible, construct activities so that pupils can work together, supporting one another in their learning
-
-
-* [Education Research: The evidence](https://gregashman.wordpress.com/2020/11/13/education-research-the-evidence/) Greg Ashman 2020
-    * You do not learn something better if you figure it out for yourself
-    * Learning styles are a myth
-    * If you give students choice over how they learn, the often choose the least effective method
-    * Testing is a highly effective way to boost learning
-    * The evidence for the effectiveness of whole-class, interactive explicit teaching comes from a wide range of studies
-    * Broad world knowledge is essential to reading comprehension
-    * You cannot just Google facts when you need them
-    * Achievement boosts motivation
-
-* [Mode A + Mode B = Effective teaching and a rich enacted curriculum](https://teacherhead.com/2018/04/22/mode-a-mode-b-effective-teaching-and-a-rich-enacted-curriculum/) 2018 @teacherhead Tom Sherrington
-    * We need a balanced diet of Mode A and Mode B
-    * Mode A
-        * You explain
-        * You model
-        * They practice
-        * Check and give feedback
-        * Test them. and again a bit later
-    * Mode B
-        * Explore; Discover
-        * Hands-On Experience
-        * Inspire some awe
-        * Go off piste (pi-st: a ski run of compacted snow)
-        * Make things; do projects; set open-ended tasks, give choices
-
-TASK Think-Pair-Share(20min):
-Look at the GCSE spec. Find a topic that you would normally deliver with "ModeA" and consider, is it possible to teach this with "ModeB"? How?
 
 
 Generative Learning
