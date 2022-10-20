@@ -2,6 +2,7 @@ Theory of Learning in the context of Computing Education
 ==================
 
 > Next Session: Curriculum sequencing
+
 I've reevaluated this.
 
 * Objectives
