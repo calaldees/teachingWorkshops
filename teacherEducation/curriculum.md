@@ -220,52 +220,7 @@ Our technology/society is changing fast
 * > Low level coding jobs will be the first to go. Sysadmin, network architect, computer support. <sub>Rotten STEM</sub>
 
 
-Computing Teacher: your role in a wider context
------------------------------------------------
-
-TASK: Visit the LASAR Site ... thoughts? comments?
-Can Science and Religion be taught together?
-
-* [Epistemic insight: engaging with life's Big Questions](https://www.ted.com/talks/berry_billingsley_epistemic_insight_engaging_with_life_s_big_questions) 2021 TEDxFolkstone Berry Billingsley 11min video
-
-* [LASAR (Learning about Science and Religion](https://www.canterbury.ac.uk/education/our-work/research-enterprise/learning-about-science-and-religion/learning-about-science-and-religion.aspx)
-    * Big questions
-    * [Chapter 12: Developing a Workshop for Secondary School Students that Provides a Space to Explore Questions About Human Personhood Through the Context of Human-like Machines](http://www.epistemicinsight.com/wp-content/uploads/2020/04/Book-Chapter-Developing-a-workshop-for-secondary-school-students.pdf) [doi](https://doi.org/10.1007/978-3-030-17234-3_12) 2020 Berry Billingsley and Mehdi Nassaji
-        * Science and Religion in Education, Contemporary Trends and Issues in Science Education 48
-    * [Introducing epistemic insight into a PGCE course](https://www.epistemicinsight.com/introducing-epistemic-insight-into-a-pgce-course/)
-        * Linking subject to _bigger questions_
-    * [National Institute for Christian Education Research](https://blogs.canterbury.ac.uk/nicer/)
-    * AI research - before we can have _artificial interference_ we need to define intelligence
-    * [Joscha Bach: Artificial Consciousness and the Nature of Reality | Lex Fridman Podcast #101](https://www.youtube.com/watch?v=P-2P3MSZrBM)
-        * 00:26:00, 01:56:00 The turing test - is a recursive test - it's a question for us to define ourselves
-        * 01:14:00 The observation of _spirit as an operating system for an autonomous robot_ - plants - humans
-        * 02:30:00 Study of _religion as software_ - rules/structure that lead to better outcomes
-        * The legal system is an interesting piece of software - it's based on exceptional handling
-* Fundamental British Values
-    * Requirement
-
-* [CSForAll: CS Visions Toolkit](https://www.csforall.org/visions/)
-    * > There is not one purpose for education, and there should not be one purpose for computer science education either. 
-    * [CS for What? Diverse Visions of Computer Science Education in Practice](https://academicworks.cuny.edu/gc_pubs/562/)
-        * Lots of links to social context case studies and projects
-    * core purposes
-        * Personal Agency, Joy & Fulfilment
-        * Economic & Workforce Development
-        * Competencies & Literacies
-        * School Reform & Improvement
-        * Citizenship & Civic Engagement
-        * Technological, Social & Scientific Innovation
-        * Equity & Social Justice
-    * Unplugged activity for considering the purpose of CS education
-
-TODO:
-* Culturally relevant
-    * [Culturally relevant pedagogy for computing education](https://www.raspberrypi.org/culturally-responsive-pedagogy-for-computing-education/)
-        * [Culturally relevant pedagogy in the computing classroom | Computing education research](https://www.youtube.com/watch?v=-uGV5Yzi0MQ) YouTube 4min 2022
-    * [Delivering a culturally relevant computing curriculum: new guide for teachers](https://www.raspberrypi.org/blog/culturally-relevant-computing-curriculum-guidelines-for-teachers/) Sue Sentence Raspbery Pi Foundation 2021
-        * https://helloworld.raspberrypi.org/issues/17 pg54
-            * > Computer science education needs to be inclusive, using imagery and metaphors from different cultures
-        * [Engaging Black students in computing at UK schools — interview with Joe Arday](https://www.raspberrypi.org/blog/engaging-black-students-in-computing-uk-schools-joe-arday/)
+* [[context_wider]]
 
 
 The attitude of the Teacher
@@ -328,54 +283,4 @@ Computing in the curriculum has been criticized for not being relevant for all s
 
 
 
-
-National Curriculum Assessment
-------------------------------
-
-TASK: The National Curriculum is a page of A4? How would you report a grade to your school and to parents?
-Discussion
-
-(Many people have spent 100's of hours deliberating over mechanisms to do this. I'm asking you, as beginners to do this in 10min. It's a deliberately overwhelming task to get you to understand the magnitude of the problem)
-
-
-"How do you report grades/progress in KS3" - however you like - it's the wild west!
-
-Some just use GCSE grades for KS3. This is not what GCSE grades were designed for - there is some missing overlap KS3/KS4
-
-* [Computing At School: Progression Pathways maps to strands of the National Curriculum Programme of Study](https://community.computingatschool.org.uk/files/5095/original.pdf)
-* [Computing At School: Progression Pathways KS3](https://www.computingatschool.org.uk/data/quick_start_secondary/progression_path.pdf)
-* [Phillips High School: Assessing Pupils’ Progress in Computing at Key Stage 3: Assessment Criteria: Computing](https://www.philipshigh.co.uk/?page_id=2859)
-* [computerscienceuk: Assessing Computer Science](https://computerscienceuk.com/assessing-computer-science/) 2015
-    * [Life without levels](https://teacher.computerscienceuk.com/life-without-levels/)
-    * [KS3 Curriculum Maps](https://computerscienceuk.com/ks3-curriculum-maps/) per year and assessment
-    * [blog](https://teacher.computerscienceuk.com/blog/)
-* [CSTA K–12 CS Standards](https://www.csteachers.org/page/standards) US 2017
-    * [K-12 Computer Science Standards](https://drive.google.com/file/d/1-dPTAI1yk2HYPKUWZ6DqaM6aVUDa9iby/view)
-        * Long list of level descriptors
-        * Specifically lists cyber security and culture as topics - pretty interesting
-    * [Progression of Computer Science Teachers Association (CSTA) K-12 Computer Science Standards, Revised 2017](https://csteachers.org/documents/en-us/d227e2a4-ce35-434e-a20b-24355d11b015/1/)
-
-School inspection criteria for Computing (10min)
------------------------------------------
-
-Copy paste from
-[computingAcrossCurriculum.md](./computingAcrossCurriculum.md) #Ofsted and Computing (how link to heading?)
-
-From Ofsted Education Inspection Framework
-
-* Teaching in computing is good or better when:
-    * it is rooted in the development of pupils’ understanding of important concepts and progression within the lesson and over time; it enables pupils to make connections between individual topics and to see the ‘big picture’
-    * teachers use a very wide range of innovative and imaginative resources and teaching strategies to stimulate pupils’ active participation in their learning and secure good or better progress across all aspects of the subject.
-* The computing curriculum is good or better when:
-    * the contexts in which computing is taught are relevant to pupils’ lives and reflect the increasing use of computing in the world of industry
-    * excellent links are forged with other agencies and the wider community to provide a wide range of enrichment activities to promote pupils’ learning and engagement with the subject
-    * links with other subjects in the school are productive in strengthening pupils’ learning in computing
-* Leadership of computing is good or better when
-    * there are effective strategies to delegate subject responsibilities where appropriate and to share good practice
-    * computing has a very high profile in the life of the school
-* Finally ...
-    * E-safety is now considered in the inspection of all education remits including the early years sector, further education and skills, and initial teacher education.
-
-Hummm: I can't see much in this that prescribes computing as a standalone subject?
-THIS IS IMPORTANT!!
 

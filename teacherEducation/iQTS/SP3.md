@@ -3,7 +3,10 @@ Theory of Learning in the context of Computing Education
 
 > Next Session: Curriculum sequencing
 I've reevaluated this.
-CCF Part2
+
+* Objectives
+    * Acquire a range of education related terminology
+    * Using your lessons/course Discuss/Evaluate/Augment your existing materials
 
 * Research
     * [[ofstedComputing]]

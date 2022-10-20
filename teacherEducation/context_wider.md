@@ -1,0 +1,49 @@
+Context
+=======
+
+Computing Teacher: your role in a wider context
+-----------------------------------------------
+
+TASK: Visit the LASAR Site ... thoughts? comments?
+Can Science and Religion be taught together?
+
+* [Epistemic insight: engaging with life's Big Questions](https://www.ted.com/talks/berry_billingsley_epistemic_insight_engaging_with_life_s_big_questions) 2021 TEDxFolkstone Berry Billingsley 11min video
+
+* [LASAR (Learning about Science and Religion](https://www.canterbury.ac.uk/education/our-work/research-enterprise/learning-about-science-and-religion/learning-about-science-and-religion.aspx)
+    * Big questions
+    * [Chapter 12: Developing a Workshop for Secondary School Students that Provides a Space to Explore Questions About Human Personhood Through the Context of Human-like Machines](http://www.epistemicinsight.com/wp-content/uploads/2020/04/Book-Chapter-Developing-a-workshop-for-secondary-school-students.pdf) [doi](https://doi.org/10.1007/978-3-030-17234-3_12) 2020 Berry Billingsley and Mehdi Nassaji
+        * Science and Religion in Education, Contemporary Trends and Issues in Science Education 48
+    * [Introducing epistemic insight into a PGCE course](https://www.epistemicinsight.com/introducing-epistemic-insight-into-a-pgce-course/)
+        * Linking subject to _bigger questions_
+    * [National Institute for Christian Education Research](https://blogs.canterbury.ac.uk/nicer/)
+    * AI research - before we can have _artificial interference_ we need to define intelligence
+    * [Joscha Bach: Artificial Consciousness and the Nature of Reality | Lex Fridman Podcast #101](https://www.youtube.com/watch?v=P-2P3MSZrBM)
+        * 00:26:00, 01:56:00 The turing test - is a recursive test - it's a question for us to define ourselves
+        * 01:14:00 The observation of _spirit as an operating system for an autonomous robot_ - plants - humans
+        * 02:30:00 Study of _religion as software_ - rules/structure that lead to better outcomes
+        * The legal system is an interesting piece of software - it's based on exceptional handling
+* Fundamental British Values
+    * Requirement
+
+* [CSForAll: CS Visions Toolkit](https://www.csforall.org/visions/)
+    * > There is not one purpose for education, and there should not be one purpose for computer science education either. 
+    * [CS for What? Diverse Visions of Computer Science Education in Practice](https://academicworks.cuny.edu/gc_pubs/562/)
+        * Lots of links to social context case studies and projects
+    * core purposes
+        * Personal Agency, Joy & Fulfilment
+        * Economic & Workforce Development
+        * Competencies & Literacies
+        * School Reform & Improvement
+        * Citizenship & Civic Engagement
+        * Technological, Social & Scientific Innovation
+        * Equity & Social Justice
+    * Unplugged activity for considering the purpose of CS education
+
+TODO:
+* Culturally relevant
+    * [Culturally relevant pedagogy for computing education](https://www.raspberrypi.org/culturally-responsive-pedagogy-for-computing-education/)
+        * [Culturally relevant pedagogy in the computing classroom | Computing education research](https://www.youtube.com/watch?v=-uGV5Yzi0MQ) YouTube 4min 2022
+    * [Delivering a culturally relevant computing curriculum: new guide for teachers](https://www.raspberrypi.org/blog/culturally-relevant-computing-curriculum-guidelines-for-teachers/) Sue Sentence Raspbery Pi Foundation 2021
+        * https://helloworld.raspberrypi.org/issues/17 pg54
+            * > Computer science education needs to be inclusive, using imagery and metaphors from different cultures
+        * [Engaging Black students in computing at UK schools — interview with Joe Arday](https://www.raspberrypi.org/blog/engaging-black-students-in-computing-uk-schools-joe-arday/)

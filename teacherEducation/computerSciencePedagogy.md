@@ -526,34 +526,10 @@ Building Code Comprehension
     *  > After six months of experience under constructivist guidance, students were able to program with a base of wider personal knowledge and experience
 
 
-Traditional Computational Thinking - New Computational Thinking
----------------------------------------------------------------
+Computational Thinking
+----------------------
 
-* [Remaining trouble spots with computational thinking](https://dl.acm.org/doi/10.1145/2998438) Denning 2017
-    * AWESOME ARTICLE!!!! (TODO Recommend on reading list)
-    * Question 1: What Is Computational Thinking?
-    * Question 2: How Do We Measure Students’ Computational Abilities?
-        * > we have no consensus on what constitutes the skill and our current assessment methods are unreliable indicators.
-        * > (in) 1958, philosopher Michael Polanyi discussed the difference between “explicit knowledge” (descriptions written down) and “tacit knowledge” (skillful actions). He famously said: “We know more than we can say.”
-        * > To certify skills you need a model for skill development.
-        * > These knowledge progressions are not the same as skill acquisition progression
-        * > The CAS framework does not discuss abilities to be acquired during the progression
-        * Employers are turning to competency-based assessment faster than educational institutions.
-        * Many employers no longer trust transcripts and diplomas. Instead they organize interviews as rigorous problem-solving sessions with different groups in the company.
-        * An applicant will not be hired without demonstrating competence in solving the kinds of problems of interest to the employer.
-        * The idea of assessing skill by performance is actually quite common in education. In sports, music, theater, and language departments, for example, students audition for spots on the team, places in the orchestra, roles in the play, or competency certificates at a language. Although code-a-thons are becoming more prevalent and many computing courses include projects that assess skill by performance, 
-        * computing education would benefit from a deep look at competency-based assessment
-    * Question 3: Is Computational Thinking Good for Everyone?
-        * In Traditional CT programming ability produces CT, and in New CT learning certain concepts produces programming ability
-        * Traditional CT
-            * Programs are tightly coupled with algorithms; programs are algorithms expressed in a computer language; algorithms derive their precision from a computational model
-        * New CT (Jeannette Wing coined in 2006) Professor of Computer Science at Carnegie Mellon [Computational Thinking](https://dl.acm.org/doi/10.1145/1118178.1118215)
-            *  > “everyone, not just those who major in computer science, can benefit from thinking like a computer scientist"
-                * this general claim has never been substantiated with empirical research
-            * Programs are loosely coupled with algorithms; algorithms are for all kinds of information processors including humans—it is completely optional whether an algorithm will ever be translated into a program
-    * > use competency-based skill assessments to measure student progress. Be wary of the claim of universal value, for it has little empirical support
-    * > Focus on helping students learn to design useful and reliable computations in various domains of interest to them
-    * > It would do all of us good to tone down the rhetoric about the universal value of computational thinking. Advocates should conduct experiments that will show the rest of us why we should accept their claims.
+* [[computational_thinking]]
 
 
 * [Rotten STEM: How Technology Corrupts Education](https://americanaffairsjournal.org/2019/08/rotten-stem-how-technology-corrupts-education/) 2019 Jared Woodard
@@ -572,6 +548,7 @@ Algorithm PCK
     * Do we study algorithms form Object/Abstract level (no syntax required) or the program level (psudo code to real code)?
     * > introducing computing concepts without the use of a computer may keep “learners from the crucial computational experiences involved in CT’s common practice”
     * > Denning (2017) distinguished between “traditional CT” and “new CT”, describing one of the characteristics of “new CT” as follows: “it is completely optional whether an algorithm will ever be translated into a program”
+        * See [[computational_thinking]]
     * Goals (GO), Student Understanding (SU), Instructional Strategies (IS), Assessment (AS), Interconnections (e.g. SU-IS)
         * [csv coding scheme](https://www.tandfonline.com/action/downloadTable?id=t0003&doi=10.1080/08993408.2021.1935554&downloadType=CSV)
     * ![Figure 2. Interconnection between PCK components (Adapted from Bayram-Jacobs et al., 2019)](https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/ncse20/0/ncse20.ahead-of-print/08993408.2021.1935554/20210615/images/large/ncse_a_1935554_f0002_b.jpeg)
