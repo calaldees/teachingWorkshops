@@ -60,6 +60,8 @@ Unsorted
 
 [Learning Scientists](https://www.learningscientists.org/blog) Authors of 
 
+Todo: investigate Head first series (orielly)
+
 Computing Specific
 ------------------
 

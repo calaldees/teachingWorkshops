@@ -336,7 +336,6 @@ Friday 21st October - 11:00
 * Barriers to learning and key research and practice in subject
     * Technical (reliable?, responsive?)
     * Mental/Emotional (99% of the time software is broken) - Anxiety
-* Making Computing connections – unfamiliar and familiar
 * Verbal and non-verbal communication for behaviour
 * The physical space of a Computer room
 * Teacher as a role model
@@ -349,6 +348,8 @@ Friday 21st October - 11:00
 * Predictable and secure environment
     * reinforcing routines, including through positive reinforcement
 
+Differed:
+* Making Computing connections – unfamiliar and familiar
 
 
 

@@ -1,12 +1,13 @@
 Behaviour
 =========
 
+Overview
+--------
+
 * How can we aid B4L through our planning and teaching in Computing?
 * Barriers to learning and key research and practice in subject
     * Technical (reliable?, responsive?)
     * Mental/Emotional (99% of the time software is broken) - Anxiety
-* Making Computing connections – unfamiliar and familiar
-
 * Verbal and non-verbal communication for behaviour
 * The physical space of a Computer room
 * Teacher as a role model
@@ -21,23 +22,8 @@ Behaviour
 * Laws relating to computer use and how this can be incorporated into classroom practice
 
 
-* [Scaffolding by novice and expert teachers: The difference](https://impact.chartered.college/article/scaffolding-by-novice-expert-teachers-difference/) Lorna Shires - September 2020 - Chartered College of Teaching [[metaCognition]]
-    * _Trust_ is a key factor
-    * > The students of the expert teachers felt safe to take those risks in moving out of easy work that they couldn’t yet do, and towards being able to
-    * #7-Behaviour-Learn-that-4-resilience_meaningful_success
-    * #7-Behaviour-Learn-that-5-value_pupil_feelings
-
-
-
 Curriculum
 ----------
-
-Ongoing Task 1 of 2:
-* Spec BINGO!
-* I play this with my class's
-* As we progress through the session, map my babbling to spec points
-* Each correct association means BINGO! an you get a tasty imaginary gourmet cookie
-* CAUTION! - BE VERY CAREFUL WITH THIS TECHNIQUE. Use with the right group. It creates hierarchies. This is not my goto mode.
 
 ### Teachers' Standards
 7. Manage behaviour effectively to ensure a good and safe learning environment
@@ -61,45 +47,44 @@ Ongoing Task 1 of 2:
 * > 7.6. Pupils are *motivated by intrinsic* factors (related to their identity and values) and extrinsic factors (related to reward).
     * motivated by intrinsic
 
-This Session
-------------
 
-* Write it, Say it, or Do it ...
+Task 1 (15min+5min)
+----
 
-Ongoing Task 2 of 2:
-* Task (15min)
-    * Divide page/screen into 4 quadrants (below)
-    * You will add/modify to this list throughout the session
-    * Consider highlighting behaviour that might be specific to a computer-room or online
+* This weeks Mentor Led Foci
+    * How is the department’s behaviour for learning policy implemented to aid learning? What effective strategies have been observed?
 
-| hypothetical misbehaviours | positive/expected behaviours |
-|----------------------------|------------------------------|
-| strategies for the above   | strategies for the above     |
+* In pairs
+    * Can you describe how behaviour for learning policy is implemented in your school
+        * (Do you have access to any 'behaviour for learning policy' documents? Can you access these now?)
+    * Split a page into 4 (for your 2 schools) and identify similarities and differences
 
-I don't know if this tool will work. I hope it gives you focus and manifests some useful notes this session.
+| |Policy|Strategies|
+|-|-|-|
+|School 1| | |
+|School 2| | |
 
-<details>
 
-Some of mine
-* Late
-* Missing Equipment
-* Distracting Other Students
-* Interrupting teacher
-* Attention Seeking (taking time from teacher unnecessarily)
-* Vandalism
-</details>
+Task 2 (10min + 5min)
+----
 
-Session Overview
-----------------
+* How do teachers relate to pupils to support positive behaviour for learning?
+* Think-Pair-Share
+    * Can you describe an interaction between student and teacher that you observed that was 
+        1. positive and well structured
+        2. awkward and problematic
+* What are the common therms? words? reasons? patters?
+    * On Whiteboard Board
 
-* Reading (30min)
-* Theory (1.5 hours)
-    * Positive reinforcement
-    * Sanctions
-    * Strategies
-        * Computing specific
-* My real case-study examples/stories (30min)
-* Discussion Consolidation (30min)
+
+The Key Factor?
+--------
+
+* [Scaffolding by novice and expert teachers: The difference](https://impact.chartered.college/article/scaffolding-by-novice-expert-teachers-difference/) Lorna Shires - September 2020 - Chartered College of Teaching [[metaCognition]]
+    * _Trust_ is a key factor
+    * > The students of the expert teachers felt safe to take those risks in moving out of easy work that they couldn’t yet do, and towards being able to
+    * #7-Behaviour-Learn-that-4-resilience_meaningful_success
+    * #7-Behaviour-Learn-that-5-value_pupil_feelings
 
 
 
@@ -114,7 +99,7 @@ Reading segment (30min)
     * [Get in front of their behaviour](https://www.olicav.com/s/2-Get-In-Front-Of-Their-Behaviour.pdf) Poster - Tom Bennet 20xx - Oliver Caviglioli (5min)
         * Questions:
             * Think about _you classroom culture_ - what is it? how do you cultivate it?
-    * [Getting the simple things right: Charlie Taylor's behaviour checklists](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/571640/Getting_the_simple_things_right_Charlie_Taylor_s_behaviour_checklists.pdf)
+    * [Getting the simple things right: Charlie Taylor's behaviour checklists](https://www.wigan.gov.uk/Docs/PDF/Resident/Education/Educational-Support/TESS/Charlie-Taylor-checklist.pdf) 2011 - School Behaviour Expert
         * Read the 1 page titled _Behaviour checklist for teachers _ (5min)
     * If you complete these - read ahead to the 2 readings in _Detentions_ section this session
 
@@ -160,14 +145,36 @@ Intro
 * Higher attainment
 * Better use of time
 
-### Bad behaviour (15min)
 
-TASK1: From pre-task list - Gather on shared whiteboard
-TASK2: Reflect on the identified bad behaviours
-* What is this behaviour?
-* Why does this behaviour occur?
+
+### Task (15min)
+
+* Divide page?/screen? into half (below)
+
+| hypothetical misbehaviours | positive/expected behaviours |
+|----------------------------|------------------------------|
+| Why does this behaviour occur? | Why does this behaviour occur? | 
+| strategies for the above   | strategies for the above     |
+
+* Consider highlighting behaviour that might be specific to a computer-room or online
+
+<details>
+
+Some of mine
+* Late
+* Missing Equipment
+* Distracting Other Students
+* Interrupting teacher
+* Attention Seeking (taking time from teacher unnecessarily)
+* Vandalism
+
+* Self sabotage
+* Cool
+* Role? (the clown? - no other value - bad attention is better than no attention)
+* More fun
 
 (Spoiler: see incentives later)
+</details>
 
 ### Examples of good behaviour
 
@@ -191,7 +198,9 @@ TASK: Compare with your pre-task list of _good behaviours_?
     * Does not annoy others, keeps on task
 
 
-### Explicitly teach _Behaviour_
+
+Explicitly teach _Behaviour_
+-----------------------------
 
 * Explicit objectives, e.g. "build collaboration skills by"
     * Resourcefulness, Resilience, Perseverance
@@ -212,12 +221,11 @@ What are you unconsciously teaching young people with your attitude and the cult
 Explicitly teach resilience
 --------------------------
 
+ #7-Behaviour-Learn-that-3-regulate_emotions
+Programming is 98% Failing
+
 Had 3rd year undergraduate - could not regulate - kept sighing and outwardly expressing frustration
 metacognition - why am I feeling like this - what do I do if I get frustrated
-
-#7-Behaviour-Learn-that-3-regulate_emotions
-Progamming is 98% Failing
-
 
 
 Positive re-enforcement
@@ -235,6 +243,7 @@ I sometimes joke that teachers have the role of a _Cult Leader_.
 You are the leader of a cult.
 Kind of an odd analogy, but an idea for a mindset. You create the rules, values, indoctrinate.
 
+* Culture --> Shared Values of a group
 * Unconsciously, we try to fit in, to conform. We often try to behave normally (for that culture)
 * Normative messages
 * Routines
@@ -261,10 +270,12 @@ Kind of an odd analogy, but an idea for a mindset. You create the rules, values,
 If you just focus on the negative/sanctions, that is only half of the story.
 
 * Rewards should be consistent (just like sanctions should be consistent)
-    * If the disruptive child sits still for 10min. That is not an opportunity for unstructured praise, It is expected behaviour.
+    * If the disruptive child sits still for 10min. That is not an opportunity for 'unstructured' praise, It is expected behaviour.
 * Leaders should identify % of sanctions vs rewards. Teachers should be consistent across the school.
 * Hollow praise should be avoided
     * Praise should be *specific* and given *with reasons*
+
+TASK: From your observations - can you give an example of praise? was a reason/purpose given
 
 
 Owning the physical space
@@ -421,6 +432,8 @@ TASK: Question: Should a detention ever be fun? Why? Why Not?
 
 ### Resolutions - Discussions with students
 
+(I've lost count of how many times I've had this conversation ... )
+
 * Resolution: Explain Why (meta behaviour)
     * The number 1 factor for success/happiness == socialisation. This is more important than ANY subject knowledge/skill
 * Separate 'The Person' from 'The Behaviour'
@@ -465,7 +478,7 @@ Story: My Year 11 Friday P5 group. What my line manager said.
 Strategies
 -----------
 
-### Weak strategies
+### Weak strategies by teachers
 
 * Bribes (sweets, or leave early)
     * They take away from the focus being learning
@@ -485,7 +498,8 @@ Elaboration on teacher use of emotion and anger/discontent
 
 ### Computing Specific disruptions
 
-TASK: ready your list of computing-specific behaviours
+TASK (5min?): Create a list of computing room specific misbehaviours
+
 
 * Bolt the computers down
 * Broken computers are _clearly_ marked.
@@ -553,12 +567,12 @@ My stories from teaching
 * Rescue of the hedgehog
 
 
-Task
+Task: Spotlight: Putting it all together
 ----
 
 TASK:
 Using content/ideas from this session.
-In groups of 3.
+In Groups of 3:
 * List one of your misbehaviours
 * Invite other members of the group to suggest courses of action
 * Discuss
@@ -647,6 +661,27 @@ Unsorted
 
 
 * Internation Academy of Education - Education Practice Series 8 - [Preventing behaviour problems: what works](https://www.iaoed.org/downloads/prac08e.pdf)
+    1. Start prevention early
+        * Prevention efforts should begin with prenatal care and continue throughout the school years
+    2. Positive consequences matter
+        * Provide positive consequences to increase desirable behaviours
+    3. Effective negative consequences matter
+        * Clear, immediate, mild negative consequences can reduce problem behaviours
+    4. Build skills through practice
+        * Create opportunities for children to observe and practice interpersonal as well as academic skills.
+    5. Monitor a child’s behaviour
+        * Know where children and adolescents are, what they are doing and with whom, and provide appropriate supervision.
+    6. Limit opportunities for misbehaviour
+        * Reduce youths’ access to the situations in which problem behaviour is particularly likely to occur
+    7. Reduce environmental stressors
+        * Reduce children’s exposure to negative conditions that cause stress
+    8. Limit biological risks
+        * Encourage good biological functioning throughout development
+    9. Discourage aggression
+        * Reducing aggressive behaviour among young children can prevent many problems later on
+    10. Create appropriate norms
+        * Establishing strong, clear norms for behaviour can influence youths’ behaviour
+
 
 
 
