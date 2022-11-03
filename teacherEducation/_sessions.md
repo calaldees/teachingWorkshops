@@ -50,6 +50,7 @@ Readings
     * [Improving Functional Programming Understanding through Student-Created Instructional Videos](https://dl.acm.org/doi/10.1145/3304221.3325587) Pedro G. Feijóo-García & Gardner-McCune 2019
 7. What does inclusion really mean?
     * [Guide to Inclusive Computer Science Education: How educators can encourage and engage all students in computer science](https://ncwit.org/resource/csedguide/) Microsoft + National Center for Women & Information Technology (NCWIT) 2019
+    * TODO https://www.qmul.ac.uk/queenmaryacademy/educators/resources/inclusive-curriculum/
 8. What is a broad and balanced curriculum?
     * [Teaching computer science through problems, not solutions](https://www.tandfonline.com/doi/full/10.1080/08993408.2010.486271)  Samuel B. Fee and Amanda M. Holland-Minkley 2010
 9.  How do you lead learning?
@@ -373,8 +374,8 @@ Friday 4th November
 After Inclusion Week
 Friday 4th November
 
-* Asking not telling – an introduction to effective exposition and questioning 
-* Prior knowledge, memory and recall; scaffolding learning 
+* Asking not telling – an introduction to effective exposition and questioning
+* Prior knowledge, memory and recall; scaffolding learning
 * Metacognition and cognitive load
 * Critical evaluation of learning theories
 

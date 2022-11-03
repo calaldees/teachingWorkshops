@@ -60,3 +60,10 @@ TASK: From our reading - Discuss
     * Frequent low stakes quizzes
     * Any retrieval practice is good (it feels hard)
     * Avoid 'feel good' learning
+
+
+More
+----
+
+* [Learning in the brain](https://sites.google.com/view/efratfurst/learning-in-the-brain) EfratFurst 2022
+    * Beautifully illustrated webpage 

@@ -11,6 +11,9 @@ Computing Inclusion Further Reading
 * [Computing ITT & CPD](https://sites.google.com/site/primaryictitt/home/sen)
 
 
+* General
+    * [Inclusive curriculum](https://www.qmul.ac.uk/queenmaryacademy/educators/resources/inclusive-curriculum/) - Queen Mary’s inclusive curriculum utilises knowledge and expertise from around the world, providing a horizon broadening education for all our students.
+        * Discover the principles of our inclusive curriculum framework by expanding the headings below and explore related case studies.
 
 
 

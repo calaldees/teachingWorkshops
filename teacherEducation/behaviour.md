@@ -431,8 +431,24 @@ TASK: Question: Should a detention ever be fun? Why? Why Not?
 * There are places where you are told where to go and you can only piss at certain times, they are called prisons
 
 ### Resolutions - Discussions with students
-
+Doughnut conversation
 (I've lost count of how many times I've had this conversation ... )
+
+* Regulate
+* Relate
+* Reason
+    * self, peers, curriculum(task)
+https://www.beaconhouse.org.uk
+(smalling doors is not acceptable)
+* reintegrate plan?
+    * now
+    * next time
+
+
+* "Why are being such a tit" will not work
+* They cant answer - they dont knkow
+* cant self regulate
+
 
 * Resolution: Explain Why (meta behaviour)
     * The number 1 factor for success/happiness == socialisation. This is more important than ANY subject knowledge/skill

@@ -50,3 +50,22 @@ Keep your lecturers informed of attendance issues.
 Keep communicating about your plans to catchup and your progress.
 
 Let's catchup soon.
+
+
+---
+
+Hi XXX,
+(cc'ing xxx as PAT and XXX as Course Director as part of process)
+
+I am concerned about your progress with "Programming Frameworks and Languages (U14465)" this year.
+Your attendance in sessions has been generally good.
+You attended remotely last session and I was unable to discuss your progress with you.
+
+You have not made any commits to your repository in over two weeks. Your progress with Assignment 1 has been very limited.
+We are now half way though the module. If you do not complete the server implementation within the next couple of weeks, it is unlikely that you will accrue enough marks to pass this module by December.
+I will be providing additional supervised support sessions on Monday afternoons. I strongly recommend you take advantage of this additional support to make progress.
+
+You have made no visible progress on Assignment 2. Although the deadline for Assignment 2 is after Christmas, I strongly recommend you start to consolidate your thinking and begin this write-up. We will be taking time each session to discuss wording for Assignment 2. To participate in these writing workshops you need to be making progress on your writing.
+
+I look forward to seeing you next session to support you with your progress.
+

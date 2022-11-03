@@ -41,3 +41,17 @@ Teaching Tools
 
 
 * [mastershot](https://mastershot.app/) - video editing in browser
+
+
+Custom Tools Ideas
+------------------
+
+* Unwanted word detection
+    * Um, Err, So, Basically detection
+        * Buzzer
+* Teacher talking time detection
+* Activity Focus Animation + Time
+* Feedback Verbal Tracker
+* DEG (DingusEmailGenerator)
+    * Course director, PAT, Parent, HOD, HOY
+    * Reusable tool - template picker - data importer

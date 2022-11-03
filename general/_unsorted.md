@@ -228,3 +228,5 @@
     * About 25 years ago, it was predicted that attention would come to dominate the marketplace. The prediction was correct. 
     * Science is not immune to the "attention economy." In fact, it plays an active role in it. 
     * However, the things that are seen as being of value to individual scientists or institutions, like media attention, are undermining public trust and devaluing science as a collective resource.
+
+* [Liberty Street Economics:  Computer Saturation and the Productivity Slowdown](https://libertystreeteconomics.newyorkfed.org/2022/10/computer-saturation-and-the-productivity-slowdown/)
