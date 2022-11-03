@@ -141,6 +141,7 @@ Read the various _Verbs_ and their extended descriptions that relate to teaching
 
 <details>
 <summary>Answer</summary>
+
 |        | Remember  | Understand      | Analyse          | Evaluation |
 |--------|-----------|-----------------|------------------|------------|
 | Create |           | Design, Apply   | Model            | Refactor   |
