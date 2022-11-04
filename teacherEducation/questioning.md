@@ -5,6 +5,13 @@ Questioning
 * Diagnostic Questions
 * Hinge Questions
 
+* Cold Call
+* Think-Pair-Share
+* All class response
+    * Mini Whiteboards
+    * Plickers
+    * Colored cards
+
 ITT CCF 4.6
 > Questioning is an essential tool for teachers; questions can be used for many purposes, including to check pupils’ prior knowledge, assess understanding and break down problems.
 
