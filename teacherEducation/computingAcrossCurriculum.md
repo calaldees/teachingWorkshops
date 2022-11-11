@@ -397,6 +397,8 @@ Timeboxed? One hour? I could go all day
         * https://landgreen.github.io/physics/index.html
         * Engines
             * [Matter.js](http://brm.io/matter-js/)
+        * [phet.colorado.edu](https://phet.colorado.edu/)
+            * Online simulations of maths and science principles - with teaching resources - AMAZING!
     * [River Editor: Water Simulation in Real-Time](https://80.lv/articles/river-editor-water-simulation-in-real-time/)
     * [Can We Terraform the Sahara to Stop Climate Change?](https://www.youtube.com/watch?v=lfo8XHGFAIQ)
     * Sandbox solar system

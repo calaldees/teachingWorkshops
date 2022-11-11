@@ -1,6 +1,9 @@
 Pair Programming (1 Hour)
 -------------------------
 
+* [YouTube code.org - Pair Programming - example](https://www.youtube.com/watch?v=vgkahOzFH2Q) 3min
+    * Do's and Don't list
+
 ITT CCF 4.9
 > Paired and group activities can increase pupil success, but to work together effectively pupils need guidance, support and practice
 ITT CCF 4.10

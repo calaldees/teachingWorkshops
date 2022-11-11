@@ -21,6 +21,8 @@ Introduce background of interviewers
 We have a lot to fit in 45mins. 
 Apologies in advance; I may move our discussions onwards to keep to time.
 
+Fundamental skills Link - https://forms.office.com/r/f18z47dtpN
+
 ### Objectives
 * Ascertain
     * Subject Knowledge
@@ -256,3 +258,149 @@ some of these may have entirely satisfactory explanations; others may raise seri
 * How comfortable are you, in general, with dealing with differences of opinion and disagreement? Can you provide a work-related example that illustrates your comfort level? 
 
   
+### Rubric 2022 - 2023 
+
+A 
+	
+
+Subject Knowledge Enthusiasm/ 
+
+Development 
+	
+
+Excellent breadth and (some) depth of many topics on Subject Knowledge Audit. 
+
+Participates in wider subject/field of education: work in schools, members of subject associations, etc. 
+	
+
+Good general breadth or depth of key subject topics. Shares some current knowledge of new ideas/trends/authors in either the subject discipline and/or or education pedagogy more widely.  
+
+ 
+	
+
+Completed Subject Knowledge Audit, shows some areas of knowledge in the subject discipline (usually what has been studied previously). 
+
+Aware of some strategies for to how they will develop own knowledge further  
+	
+
+No subject audit completed 
+
+Little enthusiasm or strategies for developing own subject knowledge further 
+
+B 
+	
+
+Child Centred Approach 
+	
+
+Demonstrates clear knowledge of how to keep both children and self safe in a school context 
+
+ 
+
+Is excited about the idea of working with children and young people  
+
+ 
+
+NB – Has had formal training 
+	
+
+Is aware of the concept of child protection and can share some contextualised views/ideas /initial research on the subject 
+
+ 
+
+Is interested in how to bring the curriculum alive to engage pupils 
+	
+
+Expresses the importance of the need to support young people and shares their own ideas on how this could be done  
+
+ 
+
+Some reference to pupils and desire to be in the classroom, more than just imparting knowledge 
+	
+
+Has difficulty in expressing concern for young people and/or identifying potential issues young people may face 
+
+ 
+
+Motivation to teach centres entirely on own desire to impart knowledge to pupils 
+
+C 
+	
+
+Resilience, Dedication and Sense of Purpose 
+	
+
+Proven ability to manage and recover from stressful/adverse challenges or situations. 
+
+Aware course is challenging but has determined and realistic approach to training to teach and a sense of purpose. 
+
+ 
+	
+
+Explains knowledge of how to work under pressure. 
+
+Shows an understanding of the demands of the year ahead and explains some strategies about how they will take responsibility and manage their time/wellbeing etc. Has a sense of purpose. 
+	
+
+Demonstrates some ability to adapt to potentially stressful situations and/or intense workload. Understands that own actions will have consequences. Developing a sense of purpose. 
+	
+
+Has difficulty in explaining how they have: managed stressful situations, heavy workloads, come up with solutions to difficult problems and kept going. Has no or highly incoherent sense of purpose.   
+
+D 
+	
+
+Creative and Critical Thinking 
+	
+
+Original/critical analysis of issues/experience 
+
+ 
+
+ 
+
+In Lesson Planning Task candidate may: think of an impressive original topic, come up with multiple strong ideas/strategies. In discussion, they may adapt someone else’s idea and add clear improvements, and challenge or take risks in order to improve the impact of the lesson plan. 
+	
+
+Perceptive analysis of issues/experience 
+
+ 
+
+ 
+
+In Lesson Planning Task candidate may in discussion:  contribute a range of good ideas to the outcome of the task, ask or be able to answer curious questions and will easily be able to adapt to suggested changes. 
+	
+
+Some relevant analysis of issues and experience 
+
+ 
+
+ 
+
+In Lesson Planning Task candidate may in discussion: contribute one or two ideas, challenge or add improvement suggestions, be able to talk about their plan with some enthusiasm. 
+	
+
+Has difficulty in finding relevant points/makes inappropriate points 
+
+ 
+
+Has little/no suggestions for adaptation or improvement of the Lesson Planning Task. Lacks enthusiasm for what they have planned.  
+
+E 
+	
+
+Reflective (in Response to Feedback) 
+	
+
+Demonstrates ability to identify critical learning points from a task/experience on their own. In response to feedback can precisely explain how their actions/understanding can change as a result. 
+	
+
+Demonstrates ability to identify some key points from a task/experience with some guidance. In response to feedback, can explain one or two strategies they think will improve their actions/understanding. 
+	
+
+Demonstrates ability to identify one or two key learning points after focused questioning/guidance. In response to feedback, will positively agree to improve generally.   
+	
+
+Demonstrates difficulty in identifying learning points despite focused questioning/guidance. Alternatively may excessively question or disagree with feedback received and challenge the need to improve their actions/understanding 
+
+ 
