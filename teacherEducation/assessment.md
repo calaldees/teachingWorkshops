@@ -5,6 +5,10 @@ Formative Assessment
 TODO:
 * [[assessment_ks3]]
 https://learningspy.co.uk/workload/the-problem-with-marking-and-how-to-solve-it/
+* Cirtifications
+    * [Microsoft](https://learn.microsoft.com/en-us/certifications/browse/?levels=beginner)
+    * [Coursera](https://www.coursera.org/search?index=prod_all_launched_products_term_optimization&topic=Computer%20Science&productDifficultyLevel=Beginner&productDurationEnum=Less%20Than%202%20Hours)
+        * Computer Science, Beginner, Less than 2 hours
 
 
 Carless (2015, p.192) defnes feedback as:
@@ -259,7 +263,8 @@ Other
 -----
 
 ### "Assessment Literacy"
-* Students need to know what each of the assessment types are for (summative/formative). They have to see the value.
+* Students have to see the value in the assessment
+* Students need to know what each of the assessment types are for (summative/formative)
     * Some students don't see the point in formative assessment (only look at the grade)
     * Some students don't see the point in summative assessment (only care about personal progress and little for the course direction)
     * Some think they know the content already
@@ -578,7 +583,7 @@ Further Reading
       >> the imaginative design of spaces as such, spaces that are likely to generate new energies among students and inspire them, and so prompt their triple engagement – in knowing, acting and being. (3) [their italics]
       > Barnett and Coate are sceptical of ‘curricula rules and templates’ and of specifying ‘in advance the elements of every programme of study’ (2005, 3). We see the suggestions for feedback here as illustrations of many ways in which the ideas they contain can be manifested, not as the only ways in which they could or should be manifested.
     * It is only through taking a curriculum perspective, which is broader than a learning view or an assessment view, that feedback can be adequately located. Such a view enables feedback to be repositioned away from its taken for granted role as a feature of the ways teachers act towards students, towards being seen as an attribute of the curriculum that locates it as a central feature of student engagement. Feedback becomes therefore a key curriculum space for communicating, for knowing, for judging and for acting. It is not something that teachers do, any more than it is something students do: it is a necessary characteristic of any given curriculum, the effectiveness of which is a key indicator of the effectiveness of the whole course of study.
-* [Assessment literacy and student learning: the case for explicitly developing students ‘assessment literacy’](https://www.tandfonline.com/doi/abs/10.1080/02602938.2011.598636)
+* [Assessment literacy and student learning: the case for explicitly developing students ‘assessment literacy’](https://www.tandfonline.com/doi/abs/10.1080/02602938.2011.598636) 2011 Smith, Worsfoldv
     * > the greatest predictor of enhanced student marks (on the assessment task that was the subject of the experiment), was the development of their ability to judge standards of performance on student work created in response to a similar task. The intervention took just 50 minutes indicating a good educational return on the pedagogical investment.
     * > creating an emphasis on a meta-dialogue about assessment, its purposes and how it functions. A further implication is that gains typically attributable to formative feedback could be enhanced not by a more detailed explication of the feedback by lecturers but rather by deploying assessment literacy (judgement)-enhancing protocols at the formative feedback points during the semester.
     * > Although the gains in student marks were modest in this case, the intervention was extremely brief, just 50 minutes. It is the potential leverage of the development of the ability to judge standards that makes it worthwhile considering incorporating these kinds of assessment literacy-developing protocol into regular teaching practice. In this study the gain was a 10% increase in the marks (approximately 2 in 20) on the task to which the protocol applied.
@@ -594,7 +599,8 @@ Further Reading
 * [Mike Gershon - Resources for teachers](https://mikegershon.com/resources/) - free powerpoint on starters plenerys and afl tools
     * "The Starter Generator: KS2, KS3, KS4 Starters" + "Plenaries on a Plate"
     * [Assessment For Learning Toolkit (14543)](https://www.tes.com/teaching-resource/assessment-for-learning-toolkit-6020165)
-    * [Make Your Own AFL Box (9265)](https://mikegershon.com/download/328/)
+        * > 70 different activities, ideas or tools based around assessment for learning. Each comes with a description and a pretty picture to liven up your day.
+    * [Make Your Own AFL Box (9265)](https://mikegershon.com/download/328/) BROKEN LINK
 * [Influence of Formative Assessment Classroom Techniques (FACTs) on student’s outcomes in chemistry at secondary school](https://www.researchgate.net/publication/339149613_Influence_of_Formative_Assessment_Classroom_Techniques_FACTs_on_student%27s_outcomes_in_chemistry_at_secondary_school) Babincakova 2020
     * Formative Assessment Classroom Techniques
         * True or false statements
@@ -758,15 +764,16 @@ Formative assessment is more effective steaming/setting
     * responsiveness
     * Factors with most difference - 1. high socioeconic status 2. teacher responsive instruction (formative assessment)
     * Least difference - exploration learner (because teachers probably do it badly). absence.
-    * Tapesium area 43:00 - introduce one method + formula - then in groups find all other ways
+    * 'Area of Tapesium' 43:00 - introduce one method + formula - then in groups find all other ways
         * https://youtu.be/aPTZpLaJvUA?t=2580
         * couple be useful in computing (how many ways of doing this)
-        * one of these methods uses while loops - or uses a stack
-        * teacher can ramp up difficulty by prompts
+            * one of these methods uses while loops - or uses a stack
+        * teacher can 'ramp up' difficulty by prompts during the activity
     * Good teaching looks like - Big question - student discussion - teacher lead - students consolidating
         * setting doesn't work - we get 50% of kid in the right set
     * Lesson Study 50:00 - no guarantee this will help
     * Genuine Peer observation of lessons - no SLT - nothing formerly recorded - teacher request - genuinely formative 52:00
+        * Skip the formal assessment, just get to 'things that matter'
     * Don't solve problems that there is no guarantee these will improve learning
         * 4 domains of practice - 2 domains don't matter
         * Teachers can get better at stuff that doesn't matter
@@ -791,7 +798,7 @@ Whole journal and field of research dedicated to this branch of education.
 * [Computer-based tools for the assessment of learning processes in higher education: a comparative analysis](https://www.researchgate.net/publication/271211156_Computer-based_tools_for_the_assessment_of_learning_processes_in_higher_education_a_comparative_analysis) 2014
     * List of software and features
 * [15 Benefits Of Computer-Based Testing](https://elearningindustry.com/15-benefits-of-computer-based-testing)
-    * More testing dates + much expossure (for exam based)
+    * More testing dates + much exposure (for exam based)
     * Dynamic and individualised
     * Immediate grade
     * accelerate open ended assignments + aid admin efficiency
@@ -811,9 +818,9 @@ Whole journal and field of research dedicated to this branch of education.
       > They contain large test item banks and, when designed well, can attain high discriminating power. They do this through constant calibration or “adaptation.
 * [Journal of Computer Assisted Learning](https://onlinelibrary.wiley.com/journal/13652729)
     * [Review of computer-based assessment for learning in elementary and secondary education](https://doi.org/10.1111/jcal.12172) [pdf](https://myweb.fsu.edu/vshute/pdf/jcal.pdf) Shute and Rahimi 2016
-        * Generated personalised tests with question banks and immdiate feedback
+        * Generated personalised tests with question banks and immediate feedback
         * design feedback so that it can be used
-        * Our findings indicate that generally, assess-ment _of_ learning tends to be more prevalent than assess-ment _for_ learning in online-learning setting
+        * Our findings indicate that generally, assessment _of_ learning tends to be more prevalent than assessment _for_ learning in online-learning setting
         * Data driven continuous CBAfL
             * spotting statistical weakness
             * extensive and ongoing analyses of the data that the learners produce in various digital learning environments
@@ -847,9 +854,9 @@ Unsorted
 
 
 * [Messy marking: a new approach to feedback](https://www.tes.com/magazine/teaching-learning/secondary/messy-marking-new-approach-feedback)
-    * Teacher split personal markbook in two - in-class | post-practice - names of students who achive and what problems are faced - same after class, looking though work
+    * Teacher split personal mark-book in two - in-class | post-practice - names of students who achieve and what problems are faced - same after class, looking though work
 
-* [Ideas, technology, and skills: A taxonomy for digital projects](http://www.constructionismconf.org/wp-content/uploads/2020/05/C2020-Proceedings.pdf) 2020 Raspbery Pi Foundation
+* [Ideas, technology, and skills: A taxonomy for digital projects](http://www.constructionismconf.org/wp-content/uploads/2020/05/C2020-Proceedings.pdf) 2020 Raspberry Pi Foundation
     * This paper seeks to develop the understanding of how young people engage with digital making projects. It proposes a simple taxonomy for thinking about the factors that are required or must be developed in order for young people to successfully complete a digital making project.
     * TODO
 

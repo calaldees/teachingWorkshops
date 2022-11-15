@@ -1,6 +1,9 @@
 Pair Programming (1 Hour)
 -------------------------
 
+iCCF Learn How
+> Discussing and analysing with expert colleagues how to consider the factors that will support effective collaborative or paired work (e.g. familiarity with routines, whether pupils have the necessary prior knowledge and how pupils are grouped).
+
 * [YouTube code.org - Pair Programming - example](https://www.youtube.com/watch?v=vgkahOzFH2Q) 3min
     * Do's and Don't list
 
