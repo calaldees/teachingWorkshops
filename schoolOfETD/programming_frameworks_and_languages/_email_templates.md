@@ -17,7 +17,7 @@ You have arrived late to sessions x times. This has made it more difficult for y
 
 Currently you have not made process with your assignment and have not committed any work-in-progress.
 Unless you work consistently throughout the module, it is unlikely you have the time and skills to complete the assignments before the deadline.
-At this point in the course you need to spending considerable time exploring a range of frameworks.
+At this point in the course you need to be spending considerable time exploring a range of frameworks.
 There is currently no evidence to support you have engage outside of lectures.
 A reminder; a module should take 200 hours. 50 hours of supervised/lectures/input and 150 hours of independent study.
 
@@ -33,6 +33,7 @@ Your action points:
 2. Attend all future sessions and take advantage of all the provided supervised support sessions in the afternoons
 3. Make progress on your assignment 1 submission and ensure this is committed frequently your repository
 
+You must make use of the support that is available to you.
 I hope to see you in our next lecture.
 
 ---

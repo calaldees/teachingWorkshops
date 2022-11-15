@@ -556,5 +556,9 @@ OneNote -> Class Notebook -> Manage -> Parent and Guardian Links -> Student Note
 
 * [Computing Educators Padlet](https://padlet.com/allancallaghan1/t90qrkylhnmtql99)
 
+* [tpea.ac.uk](https://tpea.ac.uk/membership/)
+   * for journal access
+
+
 
 * [Avoiding the Observation Trap: Interpreting generic mentoring approaches through a subject specific lens](https://uonhistoryteachertraining.school.blog/2022/05/26/avoiding-the-observation-trap-interpreting-generic-mentoring-approaches-through-a-subject-specific-lens/)

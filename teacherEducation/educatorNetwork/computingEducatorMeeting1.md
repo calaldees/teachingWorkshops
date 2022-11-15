@@ -1,6 +1,22 @@
 The Computing Teacher Educator Network Meeting 1 
 ================================================
 
+Signup
+------
+
+rarthur@teachfirst.org.uk
+
+* Computing Teacher Educators Network
+   * [Computing Teachers Educators Network - First meeting](https://www.eventbrite.co.uk/e/the-computing-teacher-educator-network-tickets-421247150567) Nov 10, 2022 04:00 PM Online
+   * [Signup Form](https://forms.office.com/pages/responsepage.aspx?id=ZyYeN4rMsEe13T5BpfTp_DHG91hvGkxPsNAus4-ppg5UQlJGTTJQQlhQSzUyTjlNS1hFV01ZNUtETy4u)
+
+
+Notes
+-----
+
+
+
+
 * What does a great computing ITT curriculum include?
     * Criticality (we also imbue this with eSaftey)
     * iMedia (pedagogy is different)
@@ -45,8 +61,12 @@ Edge Hill - 40 people!!! Community meet?!
 Problems
 * Just for the bursary  - but recruitment so low - give anyone a 'chance'
 
+
 Email
 ------
+
+
+https://www.eventbrite.co.uk/e/the-computing-teacher-educator-network-tickets-421247150567?keep_tld=1
 
 Hi all,
 
@@ -199,5 +219,76 @@ Instagram Logo @TeachFirstUK
 
 
 Teach First Logo
+
+Followup
+--------
+
+Hi all,
+
+ 
+
+Thanks so much to all of you who managed to attend last night’s meeting and to Matt and Nicola for all your help organising and facilitating.
+
+ 
+
+It was a great rich discussion and I was left with a number of ideas buzzing in my head!
+
+ 
+
+I have attached the slides from the meeting and where possible I have referenced the data in the notes.
+
+ 
+
+I have tried to summarise some of these discussions below:
+
+ 
+
+    How can we best support mentors in school – there’s certainly something we can do about this common issue of non-specialist mentors working with trainees and a range of formal and informal support we can offer.
+
+Part of this is around connecting those that are computing teachers and want to mentor but don’t have a trainee and how we can bring these people together.
+
+ 
+
+    Trainee teacher recruitment – how can we work on diversifying the teachers we are recruiting and supporting those best with non-subject specialisms? Is there something here we can progress about bringing back the bursaries for trainees etc? 
+
+ 
+
+    Getting the balance right of subject knowledge development and PCK throughout teacher development. Ideas around testing/auditing of subject knowledge and use of SKEs
+
+ 
+
+    What is the best forum for this network, ideas around CAS, TPEA, and Chartered college? We will explore places to host our network and come back to you with progress – if anyone has thoughts on the best way forward with this please reach out to me. 
+
+ 
+
+Next steps:
+
+ 
+
+    There will be one meeting a term so look out for dates for a meeting in the spring term. 
+
+ 
+
+    We will be setting up a network page to keep the conversations going and signpost to @Nicola Looker reading group – look out for ones coming soon on the Ofsted Research Review. 
+
+ 
+
+ 
+
+My overwhelming feeling at the end of the meeting was how lucky we are to have such a committed and open subject community in this area!
+
+There is something powerful about speaking to others doing similar roles so thank you for taking the time!
+
+ 
+
+My inbox and Twitter DMs are open so please reach out with any feedback on what you would find useful and how we can drive this group forward!
+
+ 
+
+Thanks,
+
+Rachel
+
+ 
 
  

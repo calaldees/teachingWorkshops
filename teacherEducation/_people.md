@@ -119,3 +119,11 @@ https://replit.com/curriculum/Intermediate-Python
     * [Engaging Black students in computing at UK schools — interview with Joe Arday](https://www.raspberrypi.org/blog/engaging-black-students-in-computing-uk-schools-joe-arday/)
     * [Delivering a culturally relevant computing curriculum: new guide for teachers](https://www.raspberrypi.org/blog/culturally-relevant-computing-curriculum-guidelines-for-teachers/) Sen Sentence 2021
         * [Culturally relevant and responsive computing in the classroom: A guide for curriculum design and teaching](https://static.raspberrypi.org/files/research/Guide+to+culturally+relevant+and+responsive+computing+in+the+classroom.pdf)
+
+
+Rachel Arthur @MsArthurCompSci rarthur@teachfirst.org.uk
+𝙼𝚛 𝙱𝚞𝚝𝚕𝚎𝚛 @TeachButler
+    https://twitter.com/TeachButler/status/1584254888720371713
+    > Feel free to use these resources which I have created for my GCSE classes (Assessment tracker, PLC, Vocab sheet and Notetaking guide. You are able to download them from here https://drive.google.com/drive/folders/19RLPhltrd3jUEyzu3p1D9qbZoA0GoDRT?usp=sharing , I'll pin this Tweet so it'll be there to access for the foreseeable future!
+
+William Lau @MrLauLearning
