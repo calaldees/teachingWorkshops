@@ -103,53 +103,8 @@ TASK 2: (25min) Discuss each question - (This will set the stage for some explor
 
 
 
-* [Developing the theory of formative assessment](https://kclpure.kcl.ac.uk/portal/files/9119063/Black2009_Developing_the_theory_of_formative_assessment.pdf) 2009 Dylan Wiliam, Paul Black
-    * (Reasonably heavy reading)
-    * Aims
-        1. provide a unifying basis for the diverse practices which are said to be formative.
-        2. to locate formative interactions within more comprehensive theories of pedagogy.
-        3. linking our analysis to other theoretical writing about learning interactions
-        4.  suggests ways to extend and/or improve those practices.
-        5.  offer suggestion about such (future) enquiries.
-    * How these were connected not previously articulated
-        * Sharing success criteria with learners
-        * Classroom questioning
-        * Comment-only marking
-        * Peer- and self-assessment
-        * Formative use of summative tests
-    * requirements
-        * Establishing where the learners are in their learning
-        * Establishing where they are going
-        * Establishing what needs to be done to get them there
-    * "Almost" and "Nearly" are the norm in most classrooms, as teacher trys to move to "The Correct Response"
-        * What the learner actually hears and interprets is necessarily what the student intended to convey.
-    * Student distracted, board, other conflicting goal other than growth goals;
-    * > A search for well-being implies that students are more concerned with maintaining or restoring positive feelings than with the pursuit of growth goals.
-    * Pulled off the growth track and onto the well-being track
-    * the teacher’s problem: on receipt of a response, she has to decide how the student came to make it
-        * inadequate growth strategy
-            * such as working with a mis-conception, 
-        * or using a well-being strategy
-        * Misunderderstood question or language, mislead by aspect of question
-        * Not understood quality criteria of required answer
-        * all questions only have one answer?
-        * Using an answer that was correct but outside the teachers identification
-    * Point out perceived flaw or open exploratory discussion to find reasoning behind answer
-    * Vygotskys work centers around
-        * development == requires changes in the psychological functions available to the learner, 
-        * learning == the acquisition of new mental capabilities, without changes in the available psychological functions
-    * creating cognitive conflict rather than giving answers 
-        * the importance of dialogue to serve the social construction of knowledge, and to meta-cognition involving learners’ reflection on their own learning, makes it clear that formative assessment practices are an essential feature
-    * "Big Question" Unversal pedagogy - present proposlas - teaching brings it all together
-    * > teachers often behave as if they believed that they could do the learning for the learner, with disastrous consequences
-    * Categories of feedback
-        * (high effective) information about task and how to perform it more effectively (low) target settings, (lower) praise/punishment
-        * (effective) when learners confidence in feedbacks production is high
-        * task level feedback
-        * process level feedback (advice-organiser)
-        * self regulation feedback
 
-### Deference of Formative Assessment - AfL
+### Deference of Formative Assessment and AfL
 
 * [Formative assessment, assessment for learning, and all that jazz](https://www.schooleducationgateway.eu/en/pub/viewpoints/experts/formative-assessment-learning.htm) SchoolEducationGateway.eu 2020
     * Assessment for learning (the purpose of the assessment is to promote learning)
@@ -303,7 +258,7 @@ TODO:
 * [Improving Functional Programming Understanding through Student-Created Instructional Videos](https://dl.acm.org/doi/10.1145/3304221.3325587) Pedro G. Feijóo-García & Gardner-McCune 2019
     * Activating peers as learners
 * [I no longer grade my students’ work – and I wish I had stopped sooner](https://theconversation.com/i-no-longer-grade-my-students-work-and-i-wish-i-had-stopped-sooner-179617) 2022 Elisabeth Gruner (Professor of English)
-* [Assessing English at KS3](https://learningspy.co.uk/assessment/assessing-english-at-ks3/)
+* [Assessing English at KS3](https://learningspy.co.uk/assessment/assessing-english-at-ks3/) David Daidu
     * Define the terms
     * What they should know
     * What they can do
@@ -401,7 +356,7 @@ Show you care - two way process
         * provide alerts?
 * I've got some ideas ... I'm interested to hear yours
     * git? 
-        * (anonymous, comments, script assisted)
+        * (anonymous?, comments, script assisted)
     * [repl.it](https://replit.com/site/teams-for-education)
         * https://replit.com/curriculum/Intro-to-Python
     * physical workbook?
@@ -413,24 +368,7 @@ Show you care - two way process
 
 [[verbal_feedback]]
 
-Feedback Task (1 hour)
--------------
-
-* We've heard about
-    * Formative assessment helping the student move on and grow
-    * FeedForward (rather than feedback)
-
-* With the extracts of students work provided 
-    * (I know this is a slighting different domain to your classrooms, however; students still need to justify their choices and articulate their ideas - e.g. Computers and society, ethics, eSafty, security, impact of AI)
-* THIS IS RIDICULOUSLY HARD! Prepare to be overwhelmed by the complexity of the task I'm about to set.
-1. (20min) In teams of two or three - Attempt to construct "Marking criteria" for the piece - this will be used by you (teacher) and students to peer assess work
-    * Creating clear criteria is hard
-2. (10min) Give your "Marking Criteria" to another group - they will mark/grade a piece based on your criteria
-    * Using another persons criteria is hard
-3. (20min) In pairs - What written feedback would you give to one of these candidates? (you can do more than one, but one is going to be hard enough)
-    * Remember 'FeedForward'
-    * Creating meaningful, actionable feedback is hard
-
+[[assessment_feedback_task]]
 
 
 
@@ -462,9 +400,10 @@ Further Reading
     * > the greatest predictor of enhanced student marks (on the assessment task that was the subject of the experiment), was the development of their ability to judge standards of performance on student work created in response to a similar task. The intervention took just 50 minutes indicating a good educational return on the pedagogical investment.
     * > creating an emphasis on a meta-dialogue about assessment, its purposes and how it functions. A further implication is that gains typically attributable to formative feedback could be enhanced not by a more detailed explication of the feedback by lecturers but rather by deploying assessment literacy (judgement)-enhancing protocols at the formative feedback points during the semester.
     * > Although the gains in student marks were modest in this case, the intervention was extremely brief, just 50 minutes. It is the potential leverage of the development of the ability to judge standards that makes it worthwhile considering incorporating these kinds of assessment literacy-developing protocol into regular teaching practice. In this study the gain was a 10% increase in the marks (approximately 2 in 20) on the task to which the protocol applied.
-* [Black Box Thinking: The Surprising Truth About Success](https://www.matthewsyed.co.uk/resource/black-box-thinking-the-surprising-truth-about-success/)
+* [Black Box Thinking: The Surprising Truth About Success](https://www.matthewsyed.co.uk/resource/black-box-thinking-the-surprising-truth-about-success/) 2009 matthew Syed 
     * > we cannot grow unless we are prepared to learn from our mistakes.
     * advocates for changing attitudes towards failure
+    * (The eternal battle with the compiler - your friend - better it tell you rather than just breaking later, you code was not right)
 
 * [THE BISCUIT ASSESSMENT GAME](http://cielassociates.co.uk/wp-content/uploads/2018/06/The-Biscuit-Assessment-Game.pdf) Paul Kleiman
     * Define assessment criteria and give it to another group
@@ -1224,6 +1163,8 @@ ITT Core Framework
 [feed_forward]: feed_forward.md "feed_forward"
 [assessment_ks3]: assessment_ks3.md "Assessment - KS3"
 [all_student_response_systems]: all_student_response_systems.md "all_student_response_systems"
+[verbal_feedback]: verbal_feedback.md "verbal_feedback"
+[assessment_feedback_task]: assessment_feedback_task.md "assessment_feedback_task"
 [bebras]: bebras.md "bebras"
 [live_marking]: live_marking.md "Live Marking"
 [assessment_online]: assessment_online.md "Assessment Online"
