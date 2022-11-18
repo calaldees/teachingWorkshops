@@ -36,6 +36,7 @@ Overview
 * Reducing assessment workload
     * High impact high quality feedback
     * Whole class feedback - [[assessment_example]]
+        * side note - Dangers of competition? Hierarchy?
     * Live marking [[live_marking]]
 * [[bebras]]
     * Got to bebras.uk - what is it?
