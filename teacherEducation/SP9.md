@@ -20,6 +20,17 @@ Overview
     * You've had a reasonable amount of time in school and talked to your mentors. You know (something) about assessment
     * > Morpheus: Show me
 
+<details>
+
+* Goal: To make yourself obsolete
+    * Students should 
+        * know the goals
+        * know the components of how to get there
+        * judge their own progress (and progress of others) accurately
+    * Your role is to engineer/design/control the environment for maximum progress
+        * Not to lecture - not be sole/dependent the source of information - not to mark everything, all the time, on your own
+</details>
+
 * [[teacherEducation/assessment]]
     * EEF Guidelines
     * Video of Wiliam being a boss
