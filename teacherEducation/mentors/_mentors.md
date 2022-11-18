@@ -525,11 +525,11 @@ OneNote -> Class Notebook -> Manage -> Parent and Guardian Links -> Student Note
 * Professional Mentor
    * [Mentor Padlett](https://cccu.padlet.org/emilysmith35/t5bd4d9p3bxhqd57)
       * Weekley Bulletins
-   * [OneNote SD (ReadOnly)](https://cccu-my.sharepoint.com/:f:/g/personal/sm1161_canterbury_ac_uk/EowWKGJ9KCBMsBy58__0APABeRtBqOkWvu9Uh7t6_Qg4Uw)
+   * [OneNote SD (ReadOnly)](https://cccu-my.sharepoint.com/:o:/r/personal/sm1161_canterbury_ac_uk/_layouts/15/WopiFrame.aspx?sourcedoc=%7B6228168c-287d-4c20-b01c-b9f3fff400f0%7D&action=default)
    * [OneNote PGCE (ReadOnly)](https://cccu-my.sharepoint.com/:f:/g/personal/sm1161_canterbury_ac_uk/Eo40z-O4Xo1MlIMt9o_1z1ABzG8B_pKH8ULDobbS7PYVIQ)
    * Computing Curriculum Guidance 2022-23 [browser](https://cccu-my.sharepoint.com/:w:/g/personal/ac954_canterbury_ac_uk/EUT6YmOPKppLoqS227ycO_EB5U5CIOAVIGxmsGt5VK4qhw?e=mGtTbQ) [docx](http://ccccumentors.org.uk/files/secondary/Documentation/subject-documentation/computing/Computing%20Curriculum%20Guidance%202022-23.docx)
    * Available on [ccccumentors.org.uk](http://ccccumentors.org.uk) username: cccu-mentors password: CCCUmentors
-* Example of [RE Subject Padlet](https://cccu.padlet.org/katie_clemmey/xx1mh0ayj4pljj3l) for mentors
+
 
 * Discuss the first few weeks of the placement and discover how the student is settling into school life
    * What are your first impressions of xxx
@@ -555,9 +555,11 @@ OneNote -> Class Notebook -> Manage -> Parent and Guardian Links -> Student Note
 * [Gatsby Benchmarks](https://boostlifeskills.co.uk/gatsby-benchmarks/)
 
 * [Computing Educators Padlet](https://padlet.com/allancallaghan1/t90qrkylhnmtql99)
+   * Example of [RE Subject Padlet](https://cccu.padlet.org/katie_clemmey/xx1mh0ayj4pljj3l) for mentors
 
 * [tpea.ac.uk](https://tpea.ac.uk/membership/)
    * for journal access
+
 
 
 

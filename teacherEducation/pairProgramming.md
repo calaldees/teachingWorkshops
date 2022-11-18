@@ -1,18 +1,22 @@
 Pair Programming (1 Hour)
 -------------------------
 
-iCCF Learn How
-> Discussing and analysing with expert colleagues how to consider the factors that will support effective collaborative or paired work (e.g. familiarity with routines, whether pupils have the necessary prior knowledge and how pupils are grouped).
+* ITT CCF 4.9 #4-Classroom-Learn-that-9-group_pair_guidance
+    * Paired and group activities can increase pupil success, but to work together effectively pupils need guidance, support and practice
+* ITT CCF 4.10 #4-Classroom-Learn-that-10-group_pair_monitor
+    * How pupils are grouped is also important; care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation.
+* 4 Lear how .. #4-Classroom-Learn-how-12-group_pair_guidance #4-Classroom-Learn-how-13-increase_focus
+* Stimulate pupil thinking and check for understanding, by:
+    * Discussing and analysing with expert colleagues how to consider the factors that will support effective collaborative or paired work (e.g. familiarity with routines, whether pupils have the necessary prior knowledge and how pupils are grouped).
+    * Receiving clear, consistent and effective mentoring in how to provide scaffolds for pupil talk to increase the focus and rigour of dialogue.
+* ITT CCF 5.5
+    * Flexibly grouping pupils within a class to provide more tailored support can be effective, but care should be taken to monitor its impact on engagement and motivation, particularly for low attaining pupils
+* iCCF Learn How
+    * Discussing and analysing with expert colleagues how to consider the factors that will support effective collaborative or paired work (e.g. familiarity with routines, whether pupils have the necessary prior knowledge and how pupils are grouped).
+
 
 * [YouTube code.org - Pair Programming - example](https://www.youtube.com/watch?v=vgkahOzFH2Q) 3min
     * Do's and Don't list
-
-ITT CCF 4.9
-> Paired and group activities can increase pupil success, but to work together effectively pupils need guidance, support and practice
-ITT CCF 4.10
-> How pupils are grouped is also important; care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation.
-ITT CCF 5.5
-> Flexibly grouping pupils within a class to provide more tailored support can be effective, but care should be taken to monitor its impact on engagement and motivation, particularly for low attaining pupils
 
 * Overview
     * [Quick Read: Using pair programming to support learners](https://blog.teachcomputing.org/quick-read-pair-programming-supports-learners/) 2019 NCCE - 2 page A4
@@ -49,14 +53,15 @@ ITT CCF 5.5
     * Delicate and intricate social management (know your class before you do this)
         * Assign pairs beforehand
 
-### My experience of pair programming as a developer
+### My experience of pair programming as a professional developer
 
 * I cant express the joy and safety of coding shoulder to shoulder with my colleges
 * We were both constantly learning
 * We channelled each others ideas
-* Senior members of the team shared insights and reasons
+* Senior members of the team shared insights and reasons for decisions
+    * The presence of one senior made all other developers better (zone of proximal development)
 * Weaker members asked questions and grew
-* Is a juniors didn't understand the code then it had to be made simple enough and commented for them to understand
+    * If a juniors didn't understand the code then it had to be made simple enough and commented enough for them to understand
 * Code was overall of a higher quality
 * I felt like part of a team
     * I grew
@@ -96,13 +101,72 @@ ITT CCF 5.5
         * we should never ridicule each other for mistakes, even in a joking way
         * You will learn from mistakes if you find out how to do it without mistakes next time, and really understand this
 
+* [Tuple's Pair Programming Guide](https://tuple.app/pair-programming-guide/) - the case for professional pair programming and guide
+    * [Pair Programming Antipatterns](https://tuple.app/pair-programming-guide/antipatterns)
+        * For navigators:
+            * Leaping on errors too quickly
+                * Give your driver a chance to notice their own syntax errors and typos.
+                * Constantly pointing out small errors hurts flow. Yours and theirs. It may also make your pair self-conscious.
+                * Remember: your job is to consider the bigger picture, not to point out misspelled words as soon as you spot them.
+            * Giving low-level instructions
+                * If you have a suggestion for the driver, communicate it at the highest level of abstraction they’ll understand.
+                * If you find yourself dictating code (or worse, individual keystrokes), stop and see if you can communicate your idea at a higher level.
+                * If that fails, ask to drive for a bit to get your idea sketched out.
+            * Not bringing a keyboard
+                * Bring your own keyboard to every pairing session. Plug it in before you start.
+                * This makes swapping roles easier and allows you to show rather than tell when words fail.
+                * Having your own mouse is nice too, but not as essential. (It’s easy to ask someone to click on something, harder to get them to type many characters.)
+        * For drivers:
+            * Driving too fast
+                * If you’re highly proficient with your editor, it’s easy to move fast enough to lose even experienced navigators.
+                * Unless you’re sure your pair is keeping up, don’t manipulate code quite as fast as you’re able.
+                * It helps if you dictate what you’re doing.
+            * Allowing a checked-out navigator
+                * It’s easy to lose your navigator’s attention by moving too fast, or doing things they don’t quite understand.
+                * If you get the sense that your pair’s attention is drifting, stop and sync up.
+                * A bad question: “You understand this, right?”
+                * A good question: “Which part of this is hardest to follow?”
+                * !! Pairing should involve constant two-way communication. If you or your navigator has gone quiet, stop and check in. !!
+            * Unequal screen access
+                * Sit so that the monitor is between the two of you. Make sure both of you can see it equally well (consider bumping up font sizes).
+                * If one person is tucked off to the side, it will create a subconscious unequal hierarchy.
+                * A pair is a unit. Neither of you is more important.
+            * Not taking breaks
+                * Pairing is draining. Even more so than normal programming.
+                * A nice way to ensure you take adequate breaks is to employ the Pomodoro Technique. Consider agreeing on preferred work and break lengths with your pair before you start.
+            * Listening without hearing
+                * It’s hard to listen and type at the same time.
+                * If your navigator is making a suggestion, consider taking your hands off the keyboard. Even better: turn and make eye contact.
+        * For both:
+            * Allowing unproductive distractions
+                * Before you start pairing, disable all notifications (on your computer and phone).
+                * A pairing session should be interrupted by exactly zero Slack notifications or text messages. If one slips through, apologize and disable future ones.
+                * Don’t leave your email open on another monitor.
+                * (You should do the above even when you’re not pairing. The quickest way to improve programming productivity is to reduce interruptions.)
+            * Not swapping roles
+                * Driving and navigating are draining for different reasons.
+                * Swapping roles lets you rest the tired parts of your brain and activate the idle ones.
+                * Swapping drivers is a great way to energize a pairing session that’s losing steam. Consider setting a timer to indicate every time it’s time to switch.
+            * Forgetting it’s a skill
+                * Pair programming is a skill which must be learned.
+                * You will not be good at it at first, but consistent practice will yield improvements.
+                * Don’t give up after a difficult first experience. Don’t assume experienced developers are automatically good pairing partners. Don’t expect to be good without practice.
+                * Consider reflecting with your pair or asking for feedback after each session. What could have been better?
+
+* [Collaborative Behaviors Patterns of Students in Programming Instruction](https://journals.sagepub.com/doi/full/10.1177/07356331211062260) 2022, Hopcan, Polat
+    *  During the program development process, students hesitated to create an algorithm and to improve an existing one while proposing the next step.
+    *  In addition, they constantly waited for approval. 
+    *  Collaborative behaviors such as giving and receiving feedback and helping other partners were less observed in females.
+    *  Significant sequential driver and navigator behaviors were presented
+    *  (This reinforces that pair programming is a skill, it needs to be developed, it probably wont be effective first time)
+
+
 
 Extra: some of my thoughts
 --------------------------
 
-* 'Driver + Navigator' is not relevant and should be more fluid - equal party's - two inputs
+* 'Driver + Navigator' may be too ridged - maybe should be more fluid - equal party's - two inputs
 * Code is a team sport in industry - education should match
-* assessment of pair work is fraught with peril (more)
 * Pair programming takes longer - Quality of solutions is better
 * Students have to be explicitly taught how to communicate - words parses
     * Explicitly highlight the 3 types of communication - cumulative, disruptive, exploratory - get pairs to self identify these
@@ -110,26 +174,36 @@ Extra: some of my thoughts
     * What data are we storing/using/remembering?
     * Don't use "No" - (stretch vocabulary) use - unlikely, probably not, unsure, possibly
         * Psychology of "Yes and" in improvisation
+        * (Can't say "Yes" too much either - maybe add justification as to why 'yes')
     * You may not _like_ your partner. I don't _like_ all the other teachers, but I work with them. Develop professional working practices - you will have to work professionally with people you don't like in future.
     * Add your thoughts as comments
     * Advanced must explain - weaker must ask clarifications
     * Identify and praise/highlight/reaffirm good use of language
 * strategies
     * rotate partners - induct/explain to your new partner (peril - ownership of login)
-
+    * At the end of a pair session
+        * explicitly get students to highlight one good and one bad from the list from "Tuple's Pair Programming" list
+        * Have this captured somewhere!
+        * Refer to this before the next pair programming session
 
 Task
 ----
 
-* [repl.it](https://repl.it/) (login with github)
-    * Create a new repl
-    * Get share link and share with your partner
-        * you need to create an account for this feature
-        * only one of your pair needs to do this
-    * Have voice comms
+* Option 1 : One Machine + two keyboards (no login required)
+    * [tutorialspoint.com/codingground](https://www.tutorialspoint.com/codingground.htm)
+    * [OneCompiler](https://onecompiler.com/) pre-readline
+    * [mycompiler.io](https://www.mycompiler.io/) pre-readline
+    * [w3schools.com/tryit](https://www.w3schools.com/tryit/trycompiler.asp?filename=demo_python) no-readline
+* Option 2 : Live Share
+    * [repl.it](https://repl.it/) (login with github)
+        * Create a new repl
+        * Get share link and share with your partner
+            * you need to create an account for this feature
+            * only one of your pair needs to do this
+        * Have voice comms
 * Try to pick a language you have not used before
     * I have solutions/stubs for `java`, `csharp`, `python`, `javascript`
-* Requires you to
+* Requires understanding of:
     * Define variables (`bool`, `string`)
     * Get index from an array
     * `for` loop and `while` loop
@@ -138,7 +212,7 @@ Task
 * Cheat Sheets
     * https://computingteachers.uk/static/langauge_reference.html
     * [Code-cademy - All Cheatsheets](https://www.codecademy.com/resources/cheatsheets/all)
-* ADVANCED: If you are HARDCORE you could create a stub and solution for another language (`c`, `ruby`, `go`, `rust`, `php`) - I would love to see some of these! please make a GitHubPR!
+* ADVANCED: If you are HARDCORE you could create a stub and solution for another language (`c`, `ruby`, `golang`, `rust`, `php`) - I would love to see some of these! please make a GitHubPR!
 
 
 ### Complete working example (for a language not supported in repl)
@@ -274,13 +348,10 @@ console.log(data);
 ```
 
 
-Unsorted
-========
+Further discussion
+------------------
 
-* [Collaborative Behavior Patterns of Students in Programming Instruction](https://journals.sagepub.com/doi/full/10.1177/07356331211062260)
-    *  During the program development process, students hesitated to create an algorithm and to improve an existing one while proposing the next step. 
-    *  In addition, they constantly waited for approval. 
-    *  Collaborative behaviors such as giving and receiving feedback and helping other partners were less observed in females.
-
-* [Pair Programming Antipatterns](https://tuple.app/pair-programming-guide/antipatterns)
-    * Great list! Everyone should read it
+* Summative assessment of pair work?
+    * Is fraught with peril. Can it even be done?
+* Formative assessment of pair work?
+    * ?

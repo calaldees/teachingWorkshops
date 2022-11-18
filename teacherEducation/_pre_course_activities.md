@@ -55,6 +55,7 @@ General Information and Pre Reading
         * The voice of digital technology and computing in education
         * CPD, research, best practice
         * Technology, Pedagogy and Education Journal
+    * [Chartered College of Teaching - Student Membership - Free](https://chartered.college/join/student-membership/)
     * [British Computer Society](https://www.bcs.org/policy-and-influence/education/)
     * [CSTA](https://www.csteachers.org/) Computer Science Teachers Association (US)
     * [Education Endowment Foundation](https://educationendowmentfoundation.org.uk/)

@@ -127,3 +127,11 @@ Rachel Arthur @MsArthurCompSci rarthur@teachfirst.org.uk
     > Feel free to use these resources which I have created for my GCSE classes (Assessment tracker, PLC, Vocab sheet and Notetaking guide. You are able to download them from here https://drive.google.com/drive/folders/19RLPhltrd3jUEyzu3p1D9qbZoA0GoDRT?usp=sharing , I'll pin this Tweet so it'll be there to access for the foreseeable future!
 
 William Lau @MrLauLearning
+
+Computing teachers
+https://twitter.com/beccipeters28
+https://twitter.com/amylouwelsh
+https://twitter.com/CazMinty
+https://twitter.com/MsBClarke
+https://twitter.com/MWimpennyS
+https://twitter.com/TsuiAllen

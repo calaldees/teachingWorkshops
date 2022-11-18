@@ -22,8 +22,11 @@ Greg Wilson
 * > [Brow2017] also compared the mistakes novices actually make with what their teachers thought they made. They found that, “…educators formed only a weak consensus about which mistakes are most frequent, that their rankings bore only a moderate correspondence to the students in the…data, and that educators’ experience had no effect on this level of agreement.”
     * For example, mistaking = (assignment) and == (equality) wasn’t nearly as common as most teachers believed.
 
-### TASK: list misconceptions in computing
-* Think pair share
+### TASK: list misconceptions in computing (25min)
+* Look at the GCSE spec and the NC
+* Think (7min) - Generate your own list
+* Pair (7min) - Combine with pair
+* Share (12min) - Create omega list
 
 
 CAS Misconceptions List
@@ -53,11 +56,8 @@ Copy&Paste from article above - the list is amazing!
     * 5 = tries
 
 ### Logic
-
 * thinking the inverse of x < y is x > y.
 * Loops, functions, variables, classes don’t really exist. CPUs have no clue about any of these things, they exist only in the language translator and debuging.
-
-
 
 ### Sequence
 * ‘sequence’ in Maths meaning a pattern and ‘sequence’ in Computing meaning an order
@@ -86,13 +86,11 @@ Copy&Paste from article above - the list is amazing!
 * Lots of my students (despite careful teaching to the contrary…) confuse a function returning a value with a procedure that outputs (i.e. prints) a value.
 
 ### Data Representation
-
 * The length of a string is the number of chars in it, but string indexing is zero based. The length of CAT is 3, but the T is at index 2. (Some languages have settable origin 0 or 1)
 * Assuming that all two’s complement numbers are going to be negative.
 * assuming all hexadecimal numbers MUST have letters
 
 ### Technology
-
 * That the best way to type a capital letter is the Caps Lock key :/
 * Clock speed More cycles per second doesn’t automatically mean faster. Some CPUs do more in each clock cycle, or memory may not be able to keep up.
 * USB == Memory Stick
@@ -148,9 +146,7 @@ are the characters you type the same as copy and paste?
 
 * Wrong branch
     * Getting the `if (condition) {false bit} else {true bit}`
-execution function instead of defining it
-
-
+*execution function instead of defining it
 * mismatched brackets - Brackets MUST match
 * Wrong type of brackets
 * Cannot comprehend 'i'ndentation' of blocks ... just can't .. can't even follow instructions. Simply does not understand what is even being said, or why it is being said.
@@ -167,10 +163,9 @@ if score < 40:
 ```
 
 * Case of strings
-
-
 * > explicitly teach novices how to debug
-    * * > It is surprising how little page space is devoted to bugs and debugging in most introductory programming textbooks.
+    * > It is surprising how little page space is devoted to bugs and debugging in most introductory programming textbooks.
+    * Develop Mental model of the steps
 * BIGGEST PROBLEM!!!!!
 * Compiler error pointing to 'misdirecting line' (it's actually caused by a problem a few lines up)
 * Mass copy paste without understanding context (removing main method). Simply does not know enough about language to access the resources.
