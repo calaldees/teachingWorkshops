@@ -1,8 +1,9 @@
 iQTS
 ====
 
+
+
 * [International qualified teacher status Teachers’ Standards iQTS](https://www.gov.uk/government/publications/international-qualified-teacher-status-teachers-standards) [pdf 2022](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1081356/iQTS_Teachers__standards_June_2022_update.pdf)
-* [Initial teacher training core content framework for iQTS](https://www.gov.uk/government/publications/initial-teacher-training-core-content-framework-for-iqts) [pdf 2022](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1081450/iQTS_Core_Content_Framework_June_2022_update.pdf)
 
 
 
@@ -31,10 +32,25 @@ Observe a more experienced colleague delivering your subject – make notes on w
 Discuss the subject area with your mentor and plan for an observation in this subject area. (This can be co-planned and taught if you have not yet taken on classes). 
 
 
+* What is Computing? (30 min)
+    * 3 strands Computer Science, ICT, Digital Literacy
+    * (More What Is Computing + Curriculum -> next week in SP3)
+* Subject Knowledge Development
+* Pedagogical Content Knowledge (PCK)
+    * What is subject specific pedagogy and how is it defined in subject research?
+    * Differences between subject knowledge and subject pedagogy
+* How do you learn to teach
+    * Tacit knowledge - concepts in computing
+    * Block Model (Computing example)
+    * Meta-pedagogy (not _tips for teaching_)
+    * Training _you_ as teachers to _reinvent the profession_
+* Accessing and understanding research in Computing
+
+
  
 Subject 3
 ---------
-Tuesday 11th October
+Thursday 20th October - Delayed due to illness
 
 PRIMM
 Reflective models
@@ -45,6 +61,16 @@ iTS3
 TBC
 ### post-activity
 Reflect on your observation and feedback of teaching with your mentor.  
+
+
+* education_research
+* progression_model in computing
+* literacy in the computing curriculum
+* how_we_learn, cognitive_load, dual_coding
+* rosenshine & spaced repetition & retrieval_practice
+* liminal_space & mastery
+* embedding metaCognition throughout our computing lessons
+
 
  
 
@@ -61,6 +87,22 @@ TBC
 Reflect on your observation and feedback of teaching with your mentor. 
  
 
+* Explore a range of Computing specific pedagogies
+    * primm
+    * verb taxonomies
+* Lesson plan discussion
+    * Lesson plan consultation
+        * Literacy? Metacognition? Prior learning? spaced recall?
+    * Consider formal reflective models
+        * Brookfield, Kolb, Tripp
+* Application of learning theories
+    * knowledge_organisers
+    * parsons_problems
+    * instructional_continuum
+        * constructivisum
+
+
+
 Subject 5
 ----------
 Tuesday 15th November
@@ -70,6 +112,33 @@ iTS3
 ### post
 Reflect on your observation and feedback of teaching with your mentor. 
 
+
+* Formative Assessment and Feedback
+    * [[teacherEducation/assessment]]
+    * Verbal feedback? Record?
+        * Prototype [feedbackLogger](https://calaldees.dreamhosters.com/teaching/teacherTools/feedbackLogger.html)
+    * All class response systems
+        * iCCF Learn that
+            > Prompting pupils to elaborate when responding to questioning to check that a correct answer stems from secure understanding.
+            > Monitoring pupil work during lessons, including checking for misconceptions
+        * iCCF Learn How
+            * >  Drawing conclusions about what pupils have learned by looking at patterns of performance over a number of assessments with support and scaffolding from expert colleagues (e.g. appreciating that assessments draw inferences about learning from performance).
+    * FeedBack -> FeedForward
+    * Activate learners as participants
+        * > Discussing and analysing with expert colleagues how to ensure feedback is specific and helpful when using peer- or self assessment.
+    * Unless the: Do it, Say it, Write it - it never happened
+    * Unless feedback leads to learner/student action - it's useless
+        * [[assessment_example]]
+        * iCCF
+            * > Focusing on specific actions for pupils and providing time for pupils to respond to feedback
+            * > Discussing and analysing with expert colleagues how to identify efficient approaches to marking and alternative approaches to providing feedback (e.g. using whole class feedback or well supported peer- and self-assessment) and deconstructing this approach
+        * Possible strategy? - students MUST respond/action-plan/acknowledge feedback
+* Diagnostic questions
+    * iCCF Learn How
+        * >  Receiving clear, consistent and effective mentoring in how to structure tasks and questions to enable the identification of knowledge gaps and misconceptions (e.g. by using common misconceptions within multiple-choice questions).
+
+
+
 Subject 6
 ---------
 Monday 12th December - Conflict with PFL   Suggest move to Thursday 16th December
@@ -77,7 +146,15 @@ Monday 12th December - Conflict with PFL   Suggest move to Thursday 16th Decembe
 iTS3 
 ### post
 Reflect on your observation and feedback of teaching with your mentor. 
- 
+
+* [[pairProgramming]]
+    * How do you model this? how do you guide this?
+    * CCF
+        * > Modelling and requiring high-quality oral language, recognising that spoken language underpins the development of reading and writing (e.g. requiring pupils to respond to questions in full sentences, making use of relevant technical vocabulary).
+
+
+
+
 
 Subject 7 (Async)
 ---------
@@ -85,6 +162,7 @@ Wednesday 15th December ? Tuesday 14th December?
 
 ### post
 Reflect on your observation and feedback of teaching with your mentor. 
+
 
  
 
@@ -140,3 +218,9 @@ Subject 14 (Async)
 ----------
 Wednesday 14th June
 
+
+[//begin]: # "Autogenerated link references for markdown compatibility"
+[teacherEducation/assessment]: ../assessment.md "Formative Assessment"
+[assessment_example]: ../assessment_example.md "assessment_example"
+[pairProgramming]: ../pairProgramming.md "pairProgramming"
+[//end]: # "Autogenerated link references"
