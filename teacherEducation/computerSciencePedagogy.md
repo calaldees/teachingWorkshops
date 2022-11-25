@@ -480,14 +480,9 @@ Unsorted
 * Convert from block, text, flowchart, pseudo code and vice-versa
 * Scratch -> python
     * Scratch is very visual
-* Psudocode
-    * AQA
-        * https://filestore.aqa.org.uk/resources/computing/AQA-8520-TG-PC.PDF
-        * https://filestore.aqa.org.uk/resources/computing/AQA-8525-TG-PC.PDF
-    * OCR
-        * https://www.ocr.org.uk/images/202654-pseudocode-guide.pdf
+
 * Ease Charts
-    * [CodiMD Documentation](https://hackmd.io/c/codimd-documentation/%2F%40codimd%2Fextra-supported-syntax#Flow-Chart)
+    * [Expired Link :(](https://hackmd.io/c/codimd-documentation/%2F%40codimd%2Fextra-supported-syntax#Flow-Chart) extra-supported-syntax Flow-Chart
         * Gutiar tab
         * Maps
         * markmap

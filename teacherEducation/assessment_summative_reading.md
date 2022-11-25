@@ -1,6 +1,8 @@
 Assessment
 ==========
 
+OLD! ReWork!!
+
 Reading + Investigation (1 hour)
 
 Summative Assessment in Computer Science
@@ -14,6 +16,8 @@ It is worth becoming familiar with the assessment strategies used at different l
         * [Revised arrangements for GCSE computer science](https://www.gov.uk/government/news/revised-arrangements-for-gcse-computer-science)
         * [Decisions on future assessment arrangements for GCSE (9 to 1) computer science](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/779004/Decision_GCSE_computer_science_6464_1_ADD.pdf) November 2018 Ofqual
     * [OCR Assessment Story: exploring our question papers](https://www.ocr.org.uk/Images/562109-assessment-story-exploring-our-question-papers.pdf)
+
+    * WithCode.uk [Q1: Python exam practice questions for Edexcel GCSE Computer Science](https://blog.withcode.uk/2022/03/q1-python-exam-practice-questions-for-edexcel-gcse-computer-science/)
 * A-Level
     * [AQA A-level Computer Science (7516, 7517) Specification at a glance](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517/specification-at-a-glance)
         * 44% practical exam (based on pre-released code 5 months before exam - multiple languages supported)

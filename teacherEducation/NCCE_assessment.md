@@ -185,7 +185,6 @@ I = Ignore
 * Identify common patters
 
 
-
 ---
 
 Showcase Year 7, Year 10, Year 12, Degree, Professional
