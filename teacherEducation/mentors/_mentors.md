@@ -522,14 +522,7 @@ OneNote -> Class Notebook -> Manage -> Parent and Guardian Links -> Student Note
 
 ---
 
-* Professional Mentor
-   * [Mentor Padlett](https://cccu.padlet.org/emilysmith35/t5bd4d9p3bxhqd57)
-      * Weekley Bulletins
-   * [OneNote SD (ReadOnly)](https://cccu-my.sharepoint.com/:o:/r/personal/sm1161_canterbury_ac_uk/_layouts/15/WopiFrame.aspx?sourcedoc=%7B6228168c-287d-4c20-b01c-b9f3fff400f0%7D&action=default)
-   * [OneNote PGCE (ReadOnly)](https://cccu-my.sharepoint.com/:f:/g/personal/sm1161_canterbury_ac_uk/Eo40z-O4Xo1MlIMt9o_1z1ABzG8B_pKH8ULDobbS7PYVIQ)
-   * Computing Curriculum Guidance 2022-23 [browser](https://cccu-my.sharepoint.com/:w:/g/personal/ac954_canterbury_ac_uk/EUT6YmOPKppLoqS227ycO_EB5U5CIOAVIGxmsGt5VK4qhw?e=mGtTbQ) [docx](http://ccccumentors.org.uk/files/secondary/Documentation/subject-documentation/computing/Computing%20Curriculum%20Guidance%202022-23.docx)
-   * Available on [ccccumentors.org.uk](http://ccccumentors.org.uk) username: cccu-mentors password: CCCUmentors
-
+First Meeting - checkin
 
 * Discuss the first few weeks of the placement and discover how the student is settling into school life
    * What are your first impressions of xxx
@@ -545,22 +538,3 @@ OneNote -> Class Notebook -> Manage -> Parent and Guardian Links -> Student Note
       * Curriculum Guidance document
 
 
-
-* Computing Teacher Educators Network
-   * [Computing Teachers Educators Network - First meeting](https://www.eventbrite.co.uk/e/the-computing-teacher-educator-network-tickets-421247150567) Nov 10, 2022 04:00 PM Online
-   * [Signup Form](https://forms.office.com/pages/responsepage.aspx?id=ZyYeN4rMsEe13T5BpfTp_DHG91hvGkxPsNAus4-ppg5UQlJGTTJQQlhQSzUyTjlNS1hFV01ZNUtETy4u)
-
-
-* [Embedding the Good Career Guidance benchmarks in schools and colleges](https://www.gatsby.org.uk/education/programmes/embedding-the-benchmarks-in-school-and-college-practice)
-* [Gatsby Benchmarks](https://boostlifeskills.co.uk/gatsby-benchmarks/)
-
-* [Computing Educators Padlet](https://padlet.com/allancallaghan1/t90qrkylhnmtql99)
-   * Example of [RE Subject Padlet](https://cccu.padlet.org/katie_clemmey/xx1mh0ayj4pljj3l) for mentors
-
-* [tpea.ac.uk](https://tpea.ac.uk/membership/)
-   * for journal access
-
-
-
-
-* [Avoiding the Observation Trap: Interpreting generic mentoring approaches through a subject specific lens](https://uonhistoryteachertraining.school.blog/2022/05/26/avoiding-the-observation-trap-interpreting-generic-mentoring-approaches-through-a-subject-specific-lens/)
