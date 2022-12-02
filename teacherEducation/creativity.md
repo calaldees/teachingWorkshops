@@ -12,7 +12,7 @@ Creativity
         * TODO! Massive! Loads of references. Compares measures of creativity. This looks like gold!
 
 
-* [Do Schools Kill Creativity](https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity) TED 18min
+* [Do Schools Kill Creativity](https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity) TED 2006 Sir Ken Robinson 18min
     * 72 million views - ULTRA popular
     * Education takes them into a future you can't grasp
     * All kids have tremendous talents and we squander them

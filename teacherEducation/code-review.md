@@ -16,4 +16,4 @@ What rubric/guides/guidelines/criteria could you create to help young people mak
     * Can any parts of simplified or use less lines of code?
 </details>
 
-Commenting on 'Pull requests'. Use the real industry tools.
+Commenting on 'Pull requests'. Use the real industry tools?

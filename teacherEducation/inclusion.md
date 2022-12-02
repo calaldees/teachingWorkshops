@@ -33,7 +33,7 @@ TODO
     * > A seemingly popular take on ‘inclusion’ is that which allows someone who assaults or abuses a teacher to continue to be included.
 * [James Browne](https://twitter.com/James1979browne/status/1503809383783964672) @James1979browne
     * > HUGELY. I'm 20 years at it now. The attitude of the students has changed enormously. Very demanding and little gratitude. Basic manners seem to be a thing of the past. I love teaching but the notion of "well-being" is being taken too far.
-        
+v
 
 Who are we including? (10min)
 ---------------------
@@ -97,9 +97,9 @@ ITT CCF
     * Learn How to
         * Identifying pupils who need new content further broken down.
 * Professional Behaviours (Standard 8–‘Fulfil wider professional responsibilities’)
-    4. Building effective relationships with parents, carers and families can improve pupils’ motivation, behaviour and academic success
-    5. Teaching assistants (TAs) can support pupils more effectively when they are prepared for lessons by teachers, and when TAs supplement rather than replace support from teachers.
-    6. SENCOs, pastoral leaders, careers advisors and other specialist colleagues also have valuable expertise and can ensure that appropriate support is in place for pupils
+    1. Building effective relationships with parents, carers and families can improve pupils’ motivation, behaviour and academic success
+    2. Teaching assistants (TAs) can support pupils more effectively when they are prepared for lessons by teachers, and when TAs supplement rather than replace support from teachers.
+    3. SENCOs, pastoral leaders, careers advisors and other specialist colleagues also have valuable expertise and can ensure that appropriate support is in place for pupils
 
 
 SEND code of practice
@@ -300,6 +300,7 @@ TASK: (5min) Skim read
 
 <details>
 <summary>My notes</summary>
+
 * provide transcripts for audio and video
 * provide captions for video
 * keyboard users
@@ -489,10 +490,10 @@ NOTE: Starting with a 'task' is bad form. We will have a second opportunity to t
     * Run it yourself. What is it doing? How does it work?
 
 * Imagine you need to deliver this project as a directed task to a KS3 class
-* (pairs) How would you 'differentiate' this project for a mixed group? (20min)
-    * What support/scaffolds/resources/tasks would need to prepare for the weaker students?
-    * What support/scaffolds/resources/tasks would need to prepare for the advanced students?
-    * Would students work as individuals? Would you group students? How would they work in a group?
+    * (pairs) How would you 'differentiate' this project for a mixed group? (20min)
+        * What support/scaffolds/resources/tasks would need to prepare for the weaker students?
+        * What support/scaffolds/resources/tasks would need to prepare for the advanced students?
+        * Would students work as individuals? Would you group students? How would they work in a group?
 
 
 ### Interlude - Food for thought - Course construction and meeting the needs of learners (15min)

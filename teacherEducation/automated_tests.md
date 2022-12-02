@@ -3,15 +3,20 @@ Automated Tests (1 hour)
 
 * A super power for our subject disaplin with code.
 
+* `assert` statement
+    * A shortcut to say "I expect this to be true - or break/error/stop now with a text description"
+    * python `assert my_value == 3, f"I wanted my_value to be 3 but I got {my_value}"`
+    * csharp `Debug.Assert(val != 2, " Value should not be 2.");` [example assert-in-csharp](https://www.educba.com/assert-in-c-sharp/)
+
 * https://replit.com/@calaldees/DoctestMarkdownTest
     * An example of using different types of automated test in python.
+        * Tests via Main method and assertions
+            * (no real test framework)
         * Doctests
         * Doctest in separate MarkDown file
             * `python -m doctest --fail-fast -v main.md`
         * Doctests inline with code
             * `python -m doctest --fail-fast -v example_doctest_inline.py`
-        * Tests via Main method and assertions
-            * (no real test framework)
     * TASKS
         1. Complete the tests that fail when you hit the run button
         2. Add a repl.it unit test for subtract (the _tick_ icon on the left)
@@ -28,15 +33,14 @@ Automated Tests (1 hour)
 
 There are integrated all-in-one auto-mark solutions for Computer Science problems.
 
-* [mimirhq.com](https://www.mimirhq.com/classroom/demo_video) mimir classroom
+* [CodingRooms](https://www.codingrooms.com/)
+    * See video
+* [Isaac Computer science: GCSE Workbooks](https://isaaccomputerscience.org/pages/gcse_workbooks?examBoard=all&stage=all)
+    * Online workbooks and theory aligned to specifications with teacher progress
+    * Apparently has auto marking tests
+* [mimirhq.com](https://www.mimirhq.com/classroom/demo_video) mimir classroom (university)
     * Video
         * Coding assignment - see animation of how student solved problem
-* (Isac Computer science has one?)
-* [Moss](http://theory.stanford.edu/~aiken/moss/) - A System for Detecting Software Similarity
-    * Plagiarism detection of code
-* [gradescope.com](https://www.gradescope.com/) by turnitin
-    * Auto marking and plagiarism detection
-* [codequiry.com](https://codequiry.com/) - api for code similarity
 
 
 ### Pedagogy
@@ -53,7 +57,9 @@ There are integrated all-in-one auto-mark solutions for Computer Science problem
 
 * Students are bad at writing tests ... so they will be even worse at writing code ...
 * [The Peanut Butter and Jelly Sandwich Challenge as an Approach to Improve Students Abilities in Test Case Writing](https://dl.acm.org/doi/10.1145/3304221.3325582) 2019
-    * > Test cases are a set of test inputs, execution conditions, and expected results developed for a particular objective, such as to exercise a particular program path or to verify compliance with a specific requirement. Test cases that are written by students typically have recurring errors that make difficult to find hidden bugs or lack essential details about the data to be used and the instructions that must be followed. As an attempt to improve the quality of students test cases, we used a "Peanut butter and jelly sandwich challenge", typically used to teach algorithmic thinking, to show students the difficulties one may have repeating a simple set of instructions when they are not precisely described. That activity was adapted to cover contents focused on test case writing.
+    * > Test cases are a set of test inputs, execution conditions, and expected results developed for a particular objective, such as to exercise a particular program path or to verify compliance with a specific requirement. 
+    * > Test cases that are written by students typically have recurring errors that make difficult to find hidden bugs or lack essential details about the data to be used and the instructions that must be followed. 
+    * > As an attempt to improve the quality of students test cases, we used a "Peanut butter and jelly sandwich challenge", typically used to teach algorithmic thinking, to show students the difficulties one may have repeating a simple set of instructions when they are not precisely described. That activity was adapted to cover contents focused on test case writing.
 * Concept: Spend a lesson beforehand writing the tests!
 
 </details>

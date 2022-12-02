@@ -9,8 +9,8 @@ Keeps track of win, loose and draw
 Select hand with 'A Button'
 Send your hand with 'B Button'
 
-On recieve of hand number (0 to 2) - check if won - set local machine win state + send inverse of that state back remote
-On reieve of state (4 to 6) - display and update score
+On receive of hand number (0 to 2) - check if won - set local machine win state + send inverse of that state back remote
+On receive of state (4 to 6) - display and update score
 """
 
 # Main ------------------------------------------------------
