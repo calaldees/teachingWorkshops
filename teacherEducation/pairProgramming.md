@@ -355,3 +355,27 @@ Further discussion
     * Is fraught with peril. Can it even be done?
 * Formative assessment of pair work?
     * ?
+
+
+Unsorted
+========
+
+
+Pair Programming
+----------------
+
+* Pair programming IS slower - but the quality of the result is higher
+* Aim to
+    * Talk 50% of the time
+    * Type 50% of the time
+* Methods
+    1. Plug two keyboards into one machine
+    2. Take turns with keyboard (driver and navigator)
+    3. Live share
+* Don't use the word "No" - (stretch your vocabulary) use - unlikely, probably not, unsure, possibly
+    * Psychology of "Yes and" in improvisation
+* You may not _like_ your partner - you have to communicate professionally
+* Choice of partner
+    * This week: You choose your partner
+    * Next week: I will allocate you a partner
+* Focus talk on "the problem"

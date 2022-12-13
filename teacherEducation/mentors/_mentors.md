@@ -538,3 +538,9 @@ First Meeting - checkin
       * Curriculum Guidance document
 
 
+---
+
+
+Andragogy: Folder is their responsibility - should we be checking it
+Professional mentors informing the Subject Mentors
+
