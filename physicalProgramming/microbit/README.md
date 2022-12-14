@@ -1,6 +1,9 @@
 Microbit
 ========
 
+Physical computing is a way to manifest code in the 'real world' and can engage more learners.
+Microbits are a small physical programmable device with lots of built in sensors and a very capable web simulator that allows students to run/debug code without needed a without needing a whole physical set of devices for your class.
+
 * [microbit.org](https://microbit.org/)
     * Features
         * 2 Buttons
@@ -55,7 +58,9 @@ Investigate
     * Switch the view to javascript or python and look at the code
     * Make a program that when you tilt the device it sends a number via radio to another virtual microbit and displays that number
 * Consider possible activities/use in the classroom to be discussed with group
-
+* Start a new project, select `python` as a language nand copy/paste `rock_paper_scissors.py`. Switch to `blocks` and run the program
+    * This program demos the built in networking feature
+    * Reverse engineer how the game works
 
 Stuff
 -----

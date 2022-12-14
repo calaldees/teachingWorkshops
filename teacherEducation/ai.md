@@ -214,3 +214,6 @@ Finland - computing integrated in all subjects (history! RE!)
 * [Human-Centered Explainable AI (XAI): From Algorithms to User Experiences](https://arxiv.org/abs/2110.10790)
 
 
+
+* [Repel.it ChatGPT to make a Bitcoin price tracker](https://twitter.com/Replit/status/1602351385281978369)
+    * twitter guide

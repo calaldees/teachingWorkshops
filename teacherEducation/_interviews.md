@@ -12,7 +12,7 @@ Introduce background of interviewers
     * 5 min personal overview
     * 7 min lesson plan
     * 10 min subject knowledge
-        * Code comprehension 
+        * Code comprehension
         * Wider computing knowledge
     * 15 min teaching questions
         * half teaching computing focused - half general teaching focused
@@ -45,7 +45,7 @@ Lesson Plan (7 min)
 
 Tell me about your lesson. Why did you structure it this way?
 * Resource A or B (not both!)
-* Not subject focused
+* _Not_ subject focused
 
 
 Computing Knowledge (5 min)
@@ -96,10 +96,13 @@ Computing in Education (5 min)
 ----------------------
 
 * Tell me about the current Computing syllabus in schools
+    * Describe how you have recently developed your computing subject knowledge in relation to the UK computing curriculum
     * What books/articles/blogs/videos have you encountered about teaching Computing?
 * Can you envisage a problematic scenario in a computing classroom?
     * How might you deal with this?
 * What do you think young people will find the most challenging aspect of learning computing?
+* How would you encourage more girls to engage with Computing in schools?
+* What are the threats to young peoples online safety. How would you teach this?
 * Extra
     * How do you think computer science could/should be taught in the classroom?
     * How would teaching Computing differ from other subjects?
@@ -117,12 +120,12 @@ General Teaching (10 min)
 * You have prepared an amazing lesson with guidance from theory and the university. You present the lesson plan to your mentor who is no convinced and does not want you to run the lesson. How do you respond?
 * In a GCSE class, you have 2 very slow students with special needs. They are never interested or engaged with computing. You have 28 other students that need your attention. How do you split your time?
 * Extra
-    * What will make you a good teacher?
-    * What are the hallmarks of a good lesson?
-    * Why did you choose the PGCE over School Direct?
-    * Describe a time when you had to learn a new skill. Why did you learn it? How did you approach it?
+    * (TODO: reword: how will you respond to feedback from a mentor that is younger than you?)
+    * Why did you choose the PGCE over School Direct or Assessment-Only?
     * Provide examples of times when workload and numerous tasks have been managed concurrently?
     * Can you give an example of where you changed your opinion?
+    * What will make you a good teacher?
+    * What are the hallmarks of a good lesson?
 
 
 

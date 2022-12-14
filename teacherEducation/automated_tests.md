@@ -41,6 +41,7 @@ There are integrated all-in-one auto-mark solutions for Computer Science problem
 * [mimirhq.com](https://www.mimirhq.com/classroom/demo_video) mimir classroom (university)
     * Video
         * Coding assignment - see animation of how student solved problem
+    * Designed for significantly scaling courses
 
 
 ### Pedagogy
