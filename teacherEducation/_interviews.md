@@ -95,7 +95,7 @@ Look at this code and comment on anything that you can identify using technical 
 Computing in Education (5 min)
 ----------------------
 
-* Tell me about the current Computing syllabus in schools
+* Tell me about the Computing syllabus in UK schools
     * Describe how you have recently developed your computing subject knowledge in relation to the UK computing curriculum
     * What books/articles/blogs/videos have you encountered about teaching Computing?
 * Can you envisage a problematic scenario in a computing classroom?
