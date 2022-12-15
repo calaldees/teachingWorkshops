@@ -17,8 +17,21 @@ SP6
 * [[inclusion]]
     * [SEND code of practice: 0 to 25 years](https://www.gov.uk/government/publications/send-code-of-practice-0-to-25) ?? iQTS?
         * 4 Areas of need: Communication/Interaction, Cognition, Social/Emotional, Sensory/Physical
-    * Case study discussions? Your students?
-
+    * Focused discussion
+        * Identify 3 of your students that you feel have additional needs
+        * Categorise the areas of need
+        * Discuss possible Strategies? 
+        * Actions for planning/intervention/evaluation?
+* Journal Sources 
+    * (do you have `@canterbury.ac.uk` account yet?)
+    * Upcoming Async Task
+        * Find 2 recent papers about computing education that interest you
+        * to be discussed next live session
+        * Limitation? Idea? Actions?
+    * Conference [ITiCSE: Innovation and Technology in Computer Science Education](https://dl.acm.org/conference/iticse/proceedings)
+        * [ITiCSE '19](https://dl.acm.org/doi/proceedings/10.1145/3304221)
+        * [ITiCSE '22](https://dl.acm.org/doi/proceedings/10.1145/3502718)
+    * Conference [International Computing Education Research Workshop (ICER)](https://dl.acm.org/conference/icer/proceedings)
 
 
 ## iCCF

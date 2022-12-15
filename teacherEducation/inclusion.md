@@ -33,7 +33,7 @@ TODO
     * > A seemingly popular take on ‘inclusion’ is that which allows someone who assaults or abuses a teacher to continue to be included.
 * [James Browne](https://twitter.com/James1979browne/status/1503809383783964672) @James1979browne
     * > HUGELY. I'm 20 years at it now. The attitude of the students has changed enormously. Very demanding and little gratitude. Basic manners seem to be a thing of the past. I love teaching but the notion of "well-being" is being taken too far.
-v
+
 
 Who are we including? (10min)
 ---------------------
@@ -406,6 +406,10 @@ ITT CCF
         * as well as stepping back from the learning, teachers can step back from behaviour management too. Perhaps partly because of reduced anxiety about performing in the ‘top’ group or being stuck in the bottom group, pupils who initially misbehaved in group work stopped doing so. Having pupils determine learning rules and uphold them among each other also developed far better behaviour throughout the class. This, combined with the focus on meta-learning and encouraging respect for each other as learners, provides opportunities for pupils to take more responsibility for their own learning and make a real contribution to the group
 * [EEF Project: Best Practice in Mixed Attainment Grouping](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/best-practice-in-mixed-attainment-grouping/)
     * Mixed results from research
+
+* [Scaffolding Young Learners' Open-Ended Programming Projects with Planning Sheets](https://dl.acm.org/doi/10.1145/3502718.3524769) 2022 ITiCSE
+    * > we explore how to scaffold young programmers in planning their open-ended programs as part of an intermediate Scratch curriculum for middle grade students. We analyze 203 paper and virtual planning documents from 103 5th-8th grade students
+    * TODO
 
 ### Expertise Reversal Effect
 

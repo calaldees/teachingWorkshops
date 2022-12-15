@@ -10,12 +10,18 @@ Journals
 * [SAGE Education journals list](https://journals.sagepub.com/education)
 
 ### Computing
-* [International Computing Education Research Workshop (ICER)](https://dl.acm.org/conference/icer/proceedings)
+
+* Conference [ITiCSE: Innovation and Technology in Computer Science Education](https://dl.acm.org/conference/iticse/proceedings)
+    * [ITiCSE '19](https://dl.acm.org/doi/proceedings/10.1145/3304221)
+* Conference [International Computing Education Research Workshop (ICER)](https://dl.acm.org/conference/icer/proceedings)
     * 20 Years of computing education research conference.
     * The best place to look for Computing Pedagogy research
-* [AACE Association for the Advancement of Computing in Education](https://www.aace.org/pubs/)
-    * [ Journal of Interactive Learning Research ](http://www.learntechlib.org/c/JILR/)
+* [SIGCSE: Computer Science Education](https://dl.acm.org/conference/sigcse/proceedings)
+    * 50 years
+* [AUS-CE: Australian Computing Education](https://dl.acm.org/conference/aus-ce/proceedings)
     * 
+* [AACE Association for the Advancement of Computing in Education](https://www.aace.org/pubs/)
+    * [Journal of Interactive Learning Research](http://www.learntechlib.org/c/JILR/)
 * [OLYMPIADS IN INFORMATICS](https://ioinformatics.org/page/ioi-journal-index/)
     * No RSS! damnit!
 * [TPE: Technology, Pedagogy and Education](https://www.tandfonline.com/toc/rtpe20/current)

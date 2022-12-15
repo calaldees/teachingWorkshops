@@ -171,3 +171,5 @@ They appear correlated
 
 * [Creativity requires solitude](https://dkb.show/post/creativity-requires-solitude)
     * todo
+
+* [Paperclips, Circles, and Six-Legged Spiders: An exploration of self-perceived and measured creativity among CS students](https://dl.acm.org/doi/10.1145/3373165.3373167) 2020 
