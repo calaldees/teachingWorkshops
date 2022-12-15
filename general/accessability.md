@@ -1,6 +1,8 @@
 Accessibility
 =============
 
+TODO: Merge with `teacherEducation/accessibility.md`
+
 Semanic meaning
 Users about to select their own font/colors
 Printable version
@@ -27,7 +29,7 @@ Videos captioned by September 2020
 
 Audio and video content needs to be made accessible
 
-Appliyes to content created by external suppliers (your responsibilty)
+Applies to content created by external suppliers (your responsibility)
 
 
 Fonts
@@ -38,13 +40,20 @@ Fonts
 * [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
 
 
-Speak to Text
--------------
+Speech to Text
+--------------
+
+* [Mote: voice notes & feedback](https://www.mote.com/)
+    * Mote is the audio toolkit for educators and learners across the world - integrated into the products you know and love.
 
 ### Powerpoint Live Presentations
 * [Present with real-time, automatic captions or subtitles in PowerPoint](https://support.microsoft.com/en-us/office/present-with-real-time-automatic-captions-or-subtitles-in-powerpoint-68d20e49-aec3-456a-939d-34a79e8ddd5f)
     * Uses microsoft cloud service
     * Can only be applied to fullscreen presentations
+
+### OBS
+
+* [OBS-captions-plugin](https://github.com/ratwithacompiler/OBS-captions-plugin)
 
 ### Web API (Chrome Only)
 * [Voice Driven Web Apps: Introduction to the Web Speech API](https://developers.google.com/web/updates/2013/01/Voice-Driven-Web-Apps-Introduction-to-the-Web-Speech-API)
@@ -58,7 +67,8 @@ Speak to Text
 * https://dictation.io/
 * https://speechnotes.co/
 
-Text to Speach
+
+Text to Speech
 --------------
 
 * [voicera.co](https://www.voicera.co/)

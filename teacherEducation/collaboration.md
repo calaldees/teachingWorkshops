@@ -96,7 +96,7 @@ Further Computing Group-work insights
         * Natural selection: We each carry it out and then choose the best result, or we choose the best person and let them do it.
         * Collaboration: We interact closely during the task
     * > collaboration is important is that it avoids the third order of ignorance 
-    * > Members see how others think in addition to being exposed to a variety of possible conclusions. They learn how to make useful judgments more quickly than do people studying the same material individually, and the judgments of the group are usually better than those of the individua
+    * > Members see how others think in addition to being exposed to a variety of possible conclusions. They learn how to make useful judgments more quickly than do people studying the same material individually, and the judgments of the group are usually better than those of the individual
     * Overwhelming preference for working alone
         * Sole responsibility
         * Carry the weak
@@ -115,8 +115,8 @@ Further Computing Group-work insights
     * (best bit is the teachers highlighted comments)
 
 
-
----
+Unsorted
+========
 
 
 Objectives
@@ -200,6 +200,7 @@ Problems
 
 Teacher collaboration is an ongoing interest of mine. We don't have the tools or comunity locally. I want to investigate and change this.
 * [Leading teacher collaboration in subject-specific pedagogy](https://impact.chartered.college/article/leading-teacher-collaboration-subject-specific-pedagogy/) Sep 2020 Impact Chartered College of Teaching
+
 
 Student Collaboration (30 min)
 =====================
