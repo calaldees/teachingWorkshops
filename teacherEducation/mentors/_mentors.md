@@ -544,3 +544,72 @@ First Meeting - checkin
 Andragogy: Folder is their responsibility - should we be checking it
 Professional mentors informing the Subject Mentors
 
+
+---
+
+
+Hi ???,
+(cc'ing as part of process
+   ?? as Subject Mentor,
+   ?? as Professional Mentor,
+)
+
+Hope you had a good break over Christmas and New Year.
+
+I'm getting my records sorted and contacting trainee teachers contrasting placement mentors to offer my support and sharing ePortfolio links.
+
+Looking at your "contrasting placement" section of your ePortfolio, you have not included any mentor contacts names or placement dates.
+
+If you could add these details to your ePortfolio and let me know the names and email address's, I will get in touch with your new school.
+
+Good luck with your new placement.
+Keep in touch.
+
+---
+
+(cc'ing as part of process
+   as trainee teacher,
+   as subject mentor in base school,
+   as professional mentor in base school,
+   as professional mentor in contrasting school,
+)
+
+I am Allan Callaghan, ???'s university subject tutor for Computing at Canterbury Christ Church University.
+Thank you for hosting ??? for their contrasting School Direct placement.
+
+This is just an email to say 'Hi' to let you know I'm in the wings if needed and to give you links/information regarding ???'s ePortfolio and curriculum.
+
+?? is also on hand to support and should schedule a visit to support you at some-point.
+
+-- Links
+
+Below are links to important documents for School Direct mentors:
+
+1.) ???'s ReadOnly ePortfolio link
+
+??? will refer to this during your weekly mentor meetings as this aligns with the curriculum ??? is following.
+
+2.) ReadOnly Template AllDocuments
+https://cccu-my.sharepoint.com/:f:/g/personal/sm1161_canterbury_ac_uk/EkBfcWviqntOsaZqF612OqEBU-azYP__gZixz4a5W_W1CQ
+Templates + Guidance Documents for the School Direct course ??? is following
+
+3.) Computing School Direct Curriculum Guidance
+https://cccu-my.sharepoint.com/:w:/g/personal/ac954_canterbury_ac_uk/EUT6YmOPKppLoqS227ycO_EB5U5CIOAVIGxmsGt5VK4qhw?e=mGtTbQ
+(This is accessible via the AllDocuments link above, but is of particular importance to the upcoming Ofsted inspection due in February)
+
+I have a collection of additional mentor related links at
+https://github.com/calaldees/teachingWorkshops/blob/master/teacherEducation/mentors/_links.md
+
+
+-- Video Calls
+
+You can schedule a video call with me with the following booking system link.
+https://outlook.office365.com/owa/calendar/PGCESDComputing@cccu.onmicrosoft.com/bookings/
+We can have a 15min chat at reasonably short notice if needed.
+
+--
+
+Thank you for supporting with training new Computing teachers. It is such a vital part of our teaching ecosystem.
+
+Keep in touch.
+

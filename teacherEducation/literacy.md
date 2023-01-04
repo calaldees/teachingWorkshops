@@ -1,6 +1,8 @@
 Literacy
 ========
 
+* TODO [Five Ways To: Weave Reading into the Curriculum](https://teacherhead.com/2022/05/05/five-ways-to-weave-reading-into-the-curriculum/)
+
 (1hour30min - 3 group activities)
 
 

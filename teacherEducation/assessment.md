@@ -647,6 +647,9 @@ Whole journal and field of research dedicated to this branch of education.
 
 ----
 
+* [AI in Teaching & Assessment​](https://cccu.sharepoint.com/:p:/r/sites/FSESSAllFaculty/_layouts/15/Doc.aspx?sourcedoc=%7BCED47C96-0103-4440-AF6D-F640F4E51A96%7D&file=AI%20in%20assessment%20-%20Dec%202022.pptx&wdOrigin=TEAMS-ELECTRON.p2p.bim&action=edit&mobileredirect=true&cid=631542dc-07be-4517-97d7-d795bf507bcc) University of Bristol - 7 December 2022​ - bristol.ac.uk -
+    * steve.bullock@bristol.ac.uk​
+    * sebastian.east@bristol.ac.uk 
 
 Unsorted
 ========

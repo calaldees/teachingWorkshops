@@ -1,6 +1,8 @@
 Rubber Duck Debugging
 =====================
 
+* [Five Ways to: Scaffold Classroom Dialogue](https://teacherhead.com/2021/12/01/five-ways-to-scaffold-classroom-dialogue/) Tom Sherington 2021
+
 * Dylan Wiliam
     * Activating students as learning resources for one another
 * CCF 4 how 13?

@@ -9,6 +9,7 @@ Introduce background of interviewers
 ### Timeframe
 * 45 min
     * 3 min Introduction
+    * Check ID
     * 5 min personal overview
     * 7 min lesson plan
     * 10 min subject knowledge
@@ -95,15 +96,16 @@ Look at this code and comment on anything that you can identify using technical 
 Computing in Education (5 min)
 ----------------------
 
-* Tell me about the Computing syllabus in UK schools
+* Tell me about the Computing syllabus in UK schools (or overseas) what are the differences compared with the UK computing curriculum
     * Describe how you have recently developed your computing subject knowledge in relation to the UK computing curriculum
     * What books/articles/blogs/videos have you encountered about teaching Computing?
+* How would you encourage more girls to engage with Computing in schools?
+* What are the threats to young peoples online safety. How would you teach this?
 * Can you envisage a problematic scenario in a computing classroom?
     * How might you deal with this?
 * What do you think young people will find the most challenging aspect of learning computing?
-* How would you encourage more girls to engage with Computing in schools?
-* What are the threats to young peoples online safety. How would you teach this?
 * Extra
+    * (Overseas) How might teaching in the context of the UK be different to your past experiences?
     * How do you think computer science could/should be taught in the classroom?
     * How would teaching Computing differ from other subjects?
     * How do you see your skills and role changing/developing over the years? Where do you see yourself in 5 years?
@@ -120,8 +122,10 @@ General Teaching (10 min)
 * You have prepared an amazing lesson with guidance from theory and the university. You present the lesson plan to your mentor who is no convinced and does not want you to run the lesson. How do you respond?
 * In a GCSE class, you have 2 very slow students with special needs. They are never interested or engaged with computing. You have 28 other students that need your attention. How do you split your time?
 * Extra
-    * (TODO: reword: how will you respond to feedback from a mentor that is younger than you?)
+    * Your mentor (who is younger than you) - she gives you feedback to action that you don't agree with. What do you do?
+        * (TODO: reword: how will you respond to feedback from a mentor that is younger than you?)
     * Why did you choose the PGCE over School Direct or Assessment-Only?
+    * How would you deal with students not doing as you say?
     * Provide examples of times when workload and numerous tasks have been managed concurrently?
     * Can you give an example of where you changed your opinion?
     * What will make you a good teacher?

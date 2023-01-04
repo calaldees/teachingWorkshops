@@ -1,6 +1,8 @@
 Inclusion
 =========
 
+* [Combating Ableism in Schools](http://dx.doi.org/10.3200/PSFL.52.1.56-58)
+
 
 Computing Inclusion Further Reading
 -----------------------------------

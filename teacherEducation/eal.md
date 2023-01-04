@@ -132,4 +132,5 @@ Present on what they have done
 
 TODO
 * [Designing New ITE Curricula: EAL Content Recommendations](https://www.bell-foundation.org.uk/app/uploads/2020/09/The-Bell-Foundation-ITE-Curricula-Matrix.pdf) May 2020
-
+* ??? Possible use?[translatewith.wiki](https://translatewith.wiki/)
+    * > This website lets you translate complicated concepts between languages. It does this by finding corresponding Wikipedia articles for you and showing their translations. This often gives more accurate results than more general purpose techniques like Google Translate and DeepL.
