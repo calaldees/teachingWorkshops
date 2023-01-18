@@ -566,6 +566,8 @@ Good luck with your new placement.
 Keep in touch.
 
 ---
+School Direct Contrasting Placement - Tutor Contact
+
 
 (cc'ing as part of process
    as trainee teacher,
@@ -611,5 +613,6 @@ We can have a 15min chat at reasonably short notice if needed.
 
 Thank you for supporting with training new Computing teachers. It is such a vital part of our teaching ecosystem.
 
+Let me know if I can support in any way.
 Keep in touch.
 

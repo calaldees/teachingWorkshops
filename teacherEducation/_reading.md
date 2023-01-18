@@ -6,6 +6,9 @@ Reading
 Reading List
 ------------
 
+* https://www.straightintoteaching.co.uk/
+    * By Nkala (Science subject tutor)
+    * Concise basics of teaching theory
 
 General Teaching
 ----------------

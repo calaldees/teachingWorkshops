@@ -246,6 +246,7 @@ TASK: Do a question + Use Mark Scheme + Examiners report (25min)
         * Don't be afraid to use the same question you've used before
             * "we've done this" -> then get 100% in 2mins, off you go, don't use your notes
             * Hit them with exam questions until they bleed
+                * [ExamPro](https://www.exampro.co.uk/computer-science/) AQA's exam generator (GCSE + A-Level)
 
 Your lesson plan becomes 
 * `AQA 2016 AS Jun Paper2 Q6`

@@ -9,20 +9,23 @@ Introduce background of interviewers
 ### Timeframe
 * 45 min
     * 3 min Introduction
-    * Check ID
+        * Introduce interviewers and timetable (2 min)
+        * Check ID (1 min)
+        * Fundamental skills link
+            * https://forms.office.com/r/f18z47dtpN 
+            * https://bit.ly/FMESkillstest
     * 5 min personal overview
     * 7 min lesson plan
     * 10 min subject knowledge
-        * Code comprehension
-        * Wider computing knowledge
+        * Code comprehension (5 min)
+        * Wider computing knowledge (5 min)
     * 15 min teaching questions
         * half teaching computing focused - half general teaching focused
-    * 5 min QA / chat
+    * 5 min Questions
 
 We have a lot to fit in 45mins. 
 Apologies in advance; I may move our discussions onwards to keep to time.
 
-Fundamental skills Link - https://forms.office.com/r/f18z47dtpN
 
 ### Objectives
 * Ascertain
@@ -44,9 +47,10 @@ Tell me your story:
 Lesson Plan (7 min)
 -----------
 
-Tell me about your lesson. Why did you structure it this way?
-* Resource A or B (not both!)
-* _Not_ subject focused
+* Tell me about your lesson
+    * Resource A or B (not both!)
+    * _Not_ subject focused
+* Why did you structure it this way?
 
 
 Computing Knowledge (5 min)
@@ -90,13 +94,13 @@ Look at this code and comment on anything that you can identify using technical 
     image_des.show()
 ```
 
-(Looking if candidate can use technical language to describe programming constructs. Functions, Variables, Assignment operators, mathematical operations, scope. iteration)
+(Looking if candidate can use technical language to describe programming constructs. Functions, Variables, Assignment operators, mathematical operations, scope. iteration. Advanced candidates can describe the programmes purpose)
 
 
 Computing in Education (5 min)
 ----------------------
 
-* Tell me about the Computing syllabus in UK schools (or overseas) what are the differences compared with the UK computing curriculum
+* Tell me about the Computing syllabus in UK schools (or overseas) what are the differences compared with the UK computing curriculum?
     * Describe how you have recently developed your computing subject knowledge in relation to the UK computing curriculum
     * What books/articles/blogs/videos have you encountered about teaching Computing?
 * How would you encourage more girls to engage with Computing in schools?
