@@ -177,6 +177,8 @@ Radicalisation is a process
     * Withdrawing form friends/community
     * Loosing interest in personal aspirations
 
+* [Sandy Hook Promise: Gun violence warning signs](https://www.youtube.com/watch?v=9qyD7vjVfLI)
+    * The UK is not america - but the video shows an example of the warning signs of withdrawal
 
 ### Story: A-Level class teacher complaint
 Class write a letter

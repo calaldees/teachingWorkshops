@@ -75,7 +75,7 @@ Key Spotlight Questions
 10. What is my impact?
 
 
-KSQ 1: Who are we?
+SQ 1: Who are we?
 ------------------
 
 Orientation to programme requirements, materials, culture and expectations
@@ -96,7 +96,7 @@ Orientation to programme requirements, materials, culture and expectations
 
 
 
-KSQ 2: How do you learn to Teach?
+SQ 2: How do you learn to Teach?
 ---------------------------------
 
 Induction to programme resources, structure and professional engagement 
@@ -159,7 +159,7 @@ Friday 23rd September
     * NCCE [Quick Reads](https://blog.teachcomputing.org/tag/quickread/)
 
 
-KSQ 3: What is a teacher?
+SQ 3: What is a teacher?
 -------------------------
 
 Beginning to identify values and ideals, core knowledge and essential characteristics of successful teachers
@@ -393,7 +393,7 @@ Helpdesk - Support with assignment
 (PGCE SP1 Due) Monday 14th November - 14:00
 
 
-KSQ 6: How do you plan and assess for learning?
+SQ 6: How do you plan and assess for learning?
 -----------------------------------------------
 
 Structuring learning that is informed and supported by assessment
