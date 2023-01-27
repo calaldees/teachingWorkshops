@@ -475,7 +475,7 @@ Friday 2nd December 16:30
 
 
 
-KSQ 7: What does ‘inclusion’ really mean?
+SQ 7: What does ‘inclusion’ really mean?
 -----------------------------------------
 
 Understanding inclusion and the key strategies that create and hinder an inclusive classroom

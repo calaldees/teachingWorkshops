@@ -1,6 +1,12 @@
 Session
 =======
 
+uniformity - consitency
+examples
+Why pick those examples/topics/segments - why vita peices
+What flagship examples
+
+
 Sequence
 --------
 
@@ -59,6 +65,8 @@ What is Computing -> what do you deliver (planning) -> how do you deliver (compu
 * Start of session - describe Mentor lead foci and how it relates to this session
 * Targets each week related to curriculum foci
 
+Flip the script
+
 ### How does the structure of your subject curriculum prepare students for a career in teaching?​
 
 * It supports the foundations/mechanics and ends by emphasising exploration/experimentation/creativity/risks/breath
@@ -69,10 +77,17 @@ What is Computing -> what do you deliver (planning) -> how do you deliver (compu
 ### As a subject leader, how do you support your subject mentors?​
 
 * 2 face-to-face visits a year
+    * discuss targets
 * Subject specific face-to-face training (twice a year)
     * Target discussions
     * Wider Computing mentor groups
 * Online booking system for quick remote one-to-ones
+
+
+
+Bulletin (mentors and students) key readings
+
+
 
 ### How are you assessing your students?​
 

@@ -649,3 +649,24 @@ Early Career Teacher Year
 
 * > I am one of three ECTs within our department and we are all in agreement that the ECF hasn’t been beneficial. The online seminars are a repeat of our PGCE year, and our school provides us with amazing CPL that is specific to our setting, rather than the generic content from TF.
     * [tweet](https://twitter.com/LiamPhilip8/status/1503461941788004352) @LiamPhilip8
+
+
+
+---
+
+* [Seminal Education Writing](https://docs.google.com/spreadsheets/d/1-RnanRgf3S6W631vStJRX3ujHEvClgkXWVjKdzPic9s/edit#gid=281465080) 12+ seminal articles by teachers on staff culture	
+	Author	Title	One-sentence summary
+1	Jen Barker & Tom Rees	7 persistent problems of school leadership; codifying leadership knowledge	Seven problems for school leaders are school improvement, curriculum, staff culture, staff development, behaviour, administration and self-management.
+2	Jonny Utterly & John Tomsett	Putting staff first	We should make staff learning our number one priority.
+3	Kat Howard	Simply talking about wellbeing won't help. Workload perception matters. 	We need the right conversations about the right things: will it help learning, without burnout?
+4	Jo Facer	At what cost?	Let's keep opportunity cost in mind...
+5	Luke Sparkes	Organisational health	Create cohesion and clarity with overcommunication.
+6	Carl Hendrik	The McNamara Fallacy and the Problem with Numbers	What's measurable isn't always meaningful; what's meaningful isn't always measurable.
+7	Greg Ashman	How rubrics fail	Rubrics narrow the focus of a complex domain.
+8	Louis Everett	What makes a good head of department?	Provide time and space for your teachers to think deeply about their subject.
+9	Nick Hart	What school leaders need to know about cultural leadership	Combine psychological safety, vulnerability and purpose. 
+10	Harry Fletcher Wood	Teacher learning is just learning; content knowledge	Anticipate what students will struggle with.
+11	Claire Stoneman	School Visits - and how to make them better	Focus on deep structure and concrete examples.
+12	Matthew Evans 	Substance	What should school leaders know and focus on? What evidence do we have to support our claims?
+13	Sims & Fletcher Wood	CPD mechanisms	CPD should improve staff habits.
+14	Ben Riley	The Science of Teacher Expertise: Deliberate Practice	Effective practice combines goals, sequence, guidance, feedback, and mental models for decision-making.
