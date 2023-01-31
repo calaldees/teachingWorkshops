@@ -7,8 +7,21 @@ Why pick those examples/topics/segments - why vita peices
 What flagship examples
 
 
+
+
 Sequence
 --------
+
+10 Spotlight
+Collaborative Developing Independent
+    Mentor foci
+Barriers to Computing
+    can't use a keyboard
+    not going to be software engineers
+NCCE guest
+Subject Knowledge
+    GCSE
+
 
 ### How is the curriculum sequenced for my subject?
 
@@ -62,10 +75,12 @@ What is Computing -> what do you deliver (planning) -> how do you deliver (compu
 
 ### How is your subject curriculum integrated with placement?​ (How are Placement and CCCU sessions integrated in my subject?)
 
-* Start of session - describe Mentor lead foci and how it relates to this session
-* Targets each week related to curriculum foci
+* Start of session - describe Mentor lead foci and how it relates to this session (Curriculm guidnce document)
+* 1 target each week related to curriculum foci
+* Bulletin (has the foci) mentors and students
 
 Flip the script
+
 
 ### How does the structure of your subject curriculum prepare students for a career in teaching?​
 
@@ -76,14 +91,22 @@ Flip the script
 
 ### As a subject leader, how do you support your subject mentors?​
 
+Mentors change every year
 * 2 face-to-face visits a year
     * discuss targets
+    * Identify things and report that to SAL
+    * Observe (not required but), debreif, how they convey to students
+* Wider mentor training
+    * Online or face-to-face
 * Subject specific face-to-face training (twice a year)
     * Target discussions
     * Wider Computing mentor groups
 * Online booking system for quick remote one-to-ones
 
+* Subject mentors have been previous students
+* Build Personal Relationship
 
+Central visit spreadsheet
 
 Bulletin (mentors and students) key readings
 

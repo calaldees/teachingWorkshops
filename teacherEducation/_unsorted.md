@@ -676,3 +676,7 @@ stress
 
 
 TODO: OECD Leaning Compass 2030 -> 
+
+
+* [Indoor Air Quality and Learning: Evidence from A Large Field Study in Primary Schools](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4296077)
+    * CO2 Levels account for 1 standard deviation of performance in school

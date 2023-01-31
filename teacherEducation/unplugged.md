@@ -108,6 +108,8 @@ TASK:
     * ComputerScienceForAll - most topics have an unplugged component (loops, events, variables, conditions)
 * [Networks Unplugged Workshop Pack](https://www.digitalschoolhouse.org.uk/workshops/networks-unplugged) - Mark	Dorling	2019 #networks
 
+* [CS4FN - Computational Thinking Puzzles (from Computer Science For Fun)](https://www.tes.com/teaching-resource/-12791989)
+    * todo
 
 Lecture (30 min)
 ----------------

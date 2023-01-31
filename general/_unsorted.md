@@ -232,3 +232,9 @@
 * [Liberty Street Economics:  Computer Saturation and the Productivity Slowdown](https://libertystreeteconomics.newyorkfed.org/2022/10/computer-saturation-and-the-productivity-slowdown/)
 
 * [Fifty psychological and psychiatric terms to avoid: a list of inaccurate, misleading, misused, ambiguous, and logically confused words and phrases](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01100/full)
+
+* [Storytelling 101](https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit) Dan Harmon
+    * Storytelling. Tell the story of growth
+
+* [I Measured the Pollution From My Gas Stove. It Was Bad.](https://www.distilled.earth/p/i-measured-the-pollution-from-my) - Here's what I learned putting air quality monitors all over my house.
+    * NO2

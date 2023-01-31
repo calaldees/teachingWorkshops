@@ -115,3 +115,5 @@ Founder of Coding Black Females
         8. Monitor your interactions with different genders
         9. Regularly refer to a range of careers that use skills from your subject
     * [Inclusive learning checklist](https://www.iop.org/sites/default/files/2019-06/Improving-gender-balance-inclusive-checklist.pdf) pdf
+
+* CS4FN [Tag: Women in Computing](https://cs4fn.blog/tag/women-in-computing/)

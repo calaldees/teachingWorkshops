@@ -1,6 +1,24 @@
 ePortfolio
 ==========
 
+
+* Can't go back to missed week
+* Many eye's
+* Timetable time to do this
+    * TODO weekley Checklist
+* Targets
+    * Refinement activity
+* Mentors should be QAing ePortfolio
+    * Multiple sticks
+* Agree date for missing bits - then TSP
+* Part2 Professional Responsibility (paperwork is needed as part of your role - show engagement)
+    * e.g. compitency of any profetionals needs to be gradiated, verbal, targeted support, then concerns
+
+
+
+Old (do not use)
+---
+
 * Placement1 - (School Name)
     * Observations
         * Induction observations/shadowing/reflections

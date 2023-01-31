@@ -2,6 +2,15 @@ Literacy
 ========
 
 * TODO [Five Ways To: Weave Reading into the Curriculum](https://teacherhead.com/2022/05/05/five-ways-to-weave-reading-into-the-curriculum/)
+* HelloWorld Issue 20 [SCAFFOLDED READING IN COMPUTING](https://helloworld.raspberrypi.org/issues/20/pdf) pg70, Rachel Arthur
+    * Example with reading a news article about Phishing and getting students to disect it
+    * Scaffolded Reading
+        1. Pre-reading
+            * What technical terms do we know
+            * Focus of the reading
+            * Has anyone you know been victim to a phishing attack?
+        2. During reading
+        3. Post-reading 
 
 (1hour30min - 3 group activities)
 
