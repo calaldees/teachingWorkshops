@@ -11,6 +11,8 @@ Canterbury Christ Church University
 * [OneNote PGCE (ReadOnly)](https://cccu-my.sharepoint.com/:f:/g/personal/sm1161_canterbury_ac_uk/Eo40z-O4Xo1MlIMt9o_1z1ABzG8B_pKH8ULDobbS7PYVIQ)
 * Computing Curriculum Guidance 2022-23 [browser](https://cccu-my.sharepoint.com/:w:/g/personal/ac954_canterbury_ac_uk/EUT6YmOPKppLoqS227ycO_EB5U5CIOAVIGxmsGt5VK4qhw?e=mGtTbQ) [docx](http://ccccumentors.org.uk/files/secondary/Documentation/subject-documentation/computing/Computing%20Curriculum%20Guidance%202022-23.docx)
 * Available on [ccccumentors.org.uk](http://ccccumentors.org.uk) username: cccu-mentors password: CCCUmentors
+* [Arrangements for reviewing e-Portfolios](https://cccu-my.sharepoint.com/:w:/g/personal/lt229_canterbury_ac_uk/EYpC7JEw_GpEuMSuJHcKmDIB7ryEO6W2VJTvuA2pLIR6IQ?e=h6AZLN)
+    * Who, When, What
 
 Kent Computing Mentors - Collaboration
 --------------------------------------
