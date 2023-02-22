@@ -121,7 +121,10 @@ https://replit.com/curriculum/Intermediate-Python
         * [Culturally relevant and responsive computing in the classroom: A guide for curriculum design and teaching](https://static.raspberrypi.org/files/research/Guide+to+culturally+relevant+and+responsive+computing+in+the+classroom.pdf)
 
 
-Rachel Arthur @MsArthurCompSci rarthur@teachfirst.org.uk
+* Rachel Arthur TeachFirst ITT lead
+    * @MsArthurCompSci 
+    * rarthur@teachfirst.org.uk
+    * https://rachelarthurwrites.wordpress.com/blog/
 
 𝙼𝚛 𝙱𝚞𝚝𝚕𝚎𝚛 @TeachButler
     https://twitter.com/TeachButler/status/1584254888720371713

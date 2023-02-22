@@ -249,10 +249,6 @@ Remote/Covid: Sadly, this lesson looses all it's impact without being able to ph
     * [Stereo-Scopic](https://www.google.com/search?client=firefox-b-d&q=define%3A+stereo#dobs=stereoscopic)
         * `stereo` -> Greek: Solid
         * `-scopic` adjective of nouns ending in `scope` -> denoting an instrument for observing, viewing, or examining. -> from modern Latin `-scopium`, from Greek `skopein` ‘look at’
-* Science
-    * [Scientific Communication As Sequential Art](http://worrydream.com/ScientificCommunicationAsSequentialArt/)
-        * Graph they of people communication. Amazing!
-    * [If the moon were one pixel](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
 * Physics
     * Light filters
     * https://en.wikipedia.org/wiki/Anaglyph_3D
@@ -392,6 +388,10 @@ Timeboxed? One hour? I could go all day
         * world city size
 * Film (this is more _context_ than curriculum. Just here as a placeholder ...)
     * [Python For Feature Film](https://www.gfx.dev/python-for-feature-film)
+* Science
+    * [Scientific Communication As Sequential Art](http://worrydream.com/ScientificCommunicationAsSequentialArt/)
+        * Graph of people communication. Amazing!
+        * Networks?
 * Physics
     * Simulation
         * https://landgreen.github.io/physics/index.html
@@ -401,15 +401,17 @@ Timeboxed? One hour? I could go all day
             * Online simulations of maths and science principles - with teaching resources - AMAZING!
     * [River Editor: Water Simulation in Real-Time](https://80.lv/articles/river-editor-water-simulation-in-real-time/)
     * [Can We Terraform the Sahara to Stop Climate Change?](https://www.youtube.com/watch?v=lfo8XHGFAIQ)
-    * Sandbox solar system
+    * Space
+        * [If the moon were one pixel](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
+        * https://www.solarsystemscope.com/
+        * https://sky.rogue.space/ or https://ajmas.github.io/ThingsInSpace/
+            * show a visualisation of all items orbiting earth - its FULL!
+    * [css-orbit](https://css-orbit.kobeff.repl.co/) [article](https://repl.it/talk/share/CSS-Solar-System/119400)
     * [Antikythera Mechanism](https://en.wikipedia.org/wiki/Antikythera_mechanism)
         * Found in a wooden box from a shipwreck in 1901 - in 2008 x-ray tomography read the inscriptions
         * From 250BC - Technology was lost until 1400 europe
         * 37 gears
         * predicted solar positions, moon (irregular orbit), eclipses 2000+ years in advance
-    * https://www.solarsystemscope.com/
-    * http://stuffin.space/
-    * [css-orbit](https://css-orbit.kobeff.repl.co/) [article](https://repl.it/talk/share/CSS-Solar-System/119400)
     * [Alien Civilization Calculator](https://www.omnicalculator.com/physics/alien-civilization)
     * Atomic Imagery [Crystal close up First-ever atomic resolution video of salt crystals forming in real time ](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00161.html)
 * Maths
@@ -642,6 +644,8 @@ Timeboxed? One hour? I could go all day
     * Printing Services
         * [RebBubble](https://www.redbubble.com/)
         * [bagsoflove.co.uk](https://www.bagsoflove.co.uk/)
+    * [Learn the Basics of Coding with a Needle and Thread](https://www.ideo.com/blog/learn-the-basics-of-code-with-a-needle-and-thread)
+        * Not overly brilliant, but interesting idea to stitch abstract concepts
 * Drama (stage tech)
     * DMX Stage Lighting
         * [DMX Stage Lighting with Scenes](https://youtu.be/aS2rbXN4ML4) - _Scenes_ is not brilliant software, but the video describes DMX for beginners fairly well.

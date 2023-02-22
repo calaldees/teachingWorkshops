@@ -299,7 +299,7 @@ scaffold talk?
     1. Receiving clear, consistent and effective mentoring in how to engage in professional development with clear intentions for impact on pupil outcomes, sustained over time with built-in opportunities for practice
     2. Receiving clear, consistent and effective mentoring on the duties relating to Part 2 of the Teachers’ Standards. 
 2. And - following expert input - by taking opportunities to practise, receive feedback and improve at: 
-    1. Strengthening pedagogical and subject knowledge by participating in wider networks. 
+    1. Strengthening pedagogical and subject knowledge by participating in wider networks. #8-Wider-Learn-that-3-wider
     2. Learning to extend subject and pedagogic knowledge as part of the lesson preparation process. 
     3. Seeking challenge, feedback and critique from mentors and other colleagues in an open and trusting working environment.
     4. Reflecting on progress made, recognising strengths and weaknesses and identifying next steps for further improvement. 
@@ -373,7 +373,7 @@ Hashtags
 #7-Behaviour-Learn-how-16-intrinsic_motivation
 #8-Wider-Learn-that-1-sustained_cpd
 #8-Wider-Learn-that-2-reflect
-#8-Wider-Learn-that-3-wider
+
 #8-Wider-Learn-that-4-engage_parents
 #8-Wider-Learn-that-5-teaching_assistants
 #8-Wider-Learn-that-6-special_needs_wider

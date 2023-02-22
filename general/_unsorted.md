@@ -210,6 +210,9 @@
 * [Open Culture](https://www.openculture.com/freeonlinecourses) - The best free cultural and educational media on the web
     * 1,700 free online courses from top universities
 
+* [Do we live in a society without a counterculture?](https://www.xmodtwo.com/p/do-we-live-in-a-society-without-a)
+    * Sameness prevades in mainstream media
+
 * [Your compliance obligations under the UK’s Online Safety Bill; or, welcome to hell](https://webdevlaw.uk/2022/07/11/your-compliance-obligations-under-the-uks-online-safety-bill/#)
 * [The Design of Everyday Things — Book Summary & Notes](https://elvischidera.com/2022-06-24-design-everyday-things)
     * Formal terminology for Human-cantered design
@@ -238,3 +241,18 @@
 
 * [I Measured the Pollution From My Gas Stove. It Was Bad.](https://www.distilled.earth/p/i-measured-the-pollution-from-my) - Here's what I learned putting air quality monitors all over my house.
     * NO2
+
+* [Childhoods of exceptional people](https://www.lesswrong.com/posts/CYN7swrefEss4e3Qe/childhoods-of-exceptional-people)
+    * Hung with exceptional adults
+    * Taken seriously by adults
+    * Kept apart from other children (free from peer pressure)
+        * > spicy hypothesis raised by this is that socializing too much with children is simply not good for your intellectual development. (not going to test this)
+        * wild hallucination induced by overdosing on boredom
+        * Turing: while being an outcast at school and facing resistance from the teachers, who thought his interests were not ”well-rounded”.
+    * Left to roam - time alone - and self directed learning - found and reached out other exceptional adults
+    * parents considered raising his children to be of equal importance as intellectual work
+    * children had little access to entertainment, and so were often bored
+    * Had one to one support
+    * Cognitive apprenticeship
+        * would model patterns of reasoning by thinking aloud
+        * 

@@ -1,6 +1,9 @@
 Safeguarding and eSafety
 ------------------------
 
+* Kent Safeguarding Children multi-agency partenship [FactSheets](https://www.kscmp.org.uk/training/factsheets)
+    * 5 minute factsheets' to promote awareness of important safeguarding topics
+
 * [The Care Act 2014](https://www.legislation.gov.uk/ukpga/2014/23/contents/enacted/data.htm)
     * 8 different kinds of abuse
         * Domestic violence

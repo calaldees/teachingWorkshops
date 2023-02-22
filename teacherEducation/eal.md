@@ -134,3 +134,30 @@ TODO
 * [Designing New ITE Curricula: EAL Content Recommendations](https://www.bell-foundation.org.uk/app/uploads/2020/09/The-Bell-Foundation-ITE-Curricula-Matrix.pdf) May 2020
 * ??? Possible use?[translatewith.wiki](https://translatewith.wiki/)
     * > This website lets you translate complicated concepts between languages. It does this by finding corresponding Wikipedia articles for you and showing their translations. This often gives more accurate results than more general purpose techniques like Google Translate and DeepL.
+
+
+* [Long read: What’s the best way to support EAL students?](https://www.tes.com/magazine/archived/long-read-whats-best-way-support-eal-students) TES 2021
+    * It takes 3 to 9 years to develop academic proficiency in a language - schools do not have this kind of time.
+    1. proper process to assess the level of an EAL learner on arrival at school
+        * schools need to give teachers the tools to assess and measure this skill level so that they can gauge how to pitch their lesson content.
+        * the Bell Foundation called the EAL Assessment Framework
+        * In Planning
+            * ‘What are the language development needs of my students?’
+            * ‘What are the language demands of my lesson?’ , ‘What is they key vocabulary they will need in this lesson?’ and ‘How are students being asked to respond - is it written or spoken English?’
+            * How can I plan opportunities for speaking and listening in English and does my lesson content match the home and school experiences of my pupils?’”
+        * But what if your colleague down the corridor is doing very little EAL-specific work
+        * Build whole school terminology
+            * > word generation intervention
+                * five new words each week and making them something the whole school will focus on learning that week.
+            * (choose) academic vocabulary that will serve students well in all subjects, but that they may not encounter in everyday life.
+                * “Words like ‘evaluate’, ‘reason’, ‘evidence’ 
+            * > good EAL teaching is good teaching for all,
+            * teachers need to be given the skills to understand how they identity the key terms, words and phrases that make part of the assessment within their learning topic to ensure they are addressed
+            * buy-in from everyone to ensure it has a continual focus,
+        * allowing pupils to bring their home language into learning alongside English is increasingly recognised as working well for EAL learners
+            * (Combine with MFL?)
+            * giving students autonomy to use their own language as and when makes sense
+            * actively encouraging students to look up the topic in advance in their own language so that they come to the lesson with some vocab and understanding
+            * makes parents feel their language is valued within the child’s education
+            * home languages must not “take over” the school language.
+            * setting students a task of recording a debate or discussion that can be recorded and analysed afterwards
