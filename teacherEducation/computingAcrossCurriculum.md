@@ -9,8 +9,13 @@ TODO:
     * > Nowadays, the focus on the pedagogy of knowledge transmission indicates measurable progress in learning…a particular approach to pedagogy.
     * > The art of 'knowing why' ... the learning of the "what" will only go so far. 
 
-* [Chapter 9?](https://www.shuchigrover.com/atozk12cs/table-of-contents/)
+* [Shuchi Grover](https://www.shuchigrover.com/), Ph.D. 
+    * Home A Unique A-Z Handbook on Teaching Introductory Programming for Every K-12 CS Educator
+    * [Amazon: Computer Science in K-12: An A-To-Z Handbook on Teaching Programming Paperback – 15 Jun. 2020](https://www.amazon.co.uk/Computer-Science-K-12-Z-Programming/dp/1734662700/) (color - there is a cheaper black and white version)
+    * [Chapter 9?](https://www.shuchigrover.com/atozk12cs/table-of-contents/) Integrating Programming in Other Subjects
+    * [Integrating Computing in School Subjects: A Conceptual Framework for Design and Analysis](https://www.shuchigrover.com/integrating-computing-in-school-subjects-a-conceptual-framework-for-design-and-analysis/) 2020
 * [KS3 THE EPISTEMIC INSIGHT FRAMEWORK CCCU](http://www.epistemicinsight.com/wp-content/uploads/2017/06/epistemic-insight-for-KS3-July19.pdf)
+    * Scholarly words: ‘knowledge’, ‘methods’, ‘data’ or ‘evidence’, and words such as these appear across multiple subjects and indeed are  inherent to a range of disciplines.
 
 
 
@@ -220,7 +225,7 @@ Planning cross curricular
         * You invite other subject specialists to be involved in Computing planning
     * Other subject lessons reference Computing concepts
         * As a computing specialist you are involved/consulted in other subjects planning
-        * [English: making links with the Computing curriculum](https://www.somerset.org.uk/sites/edtech/Primary%20Computing/Computing%20across%20curriculum/English%20and%20computing.pdf)
+        * BROKEN 2023 [English: making links with the Computing curriculum](https://www.somerset.org.uk/sites/edtech/Primary%20Computing/Computing%20across%20curriculum/English%20and%20computing.pdf)
             * > Decomposition is used to analyse sentence construction including the recognition of a clause, conjunctions, adverbs and prepositions.
                 * See `grammar.py` example later
         * TODO: I want more examples - if you find any, let me know
@@ -249,8 +254,12 @@ Remote/Covid: Sadly, this lesson looses all it's impact without being able to ph
     * [Stereo-Scopic](https://www.google.com/search?client=firefox-b-d&q=define%3A+stereo#dobs=stereoscopic)
         * `stereo` -> Greek: Solid
         * `-scopic` adjective of nouns ending in `scope` -> denoting an instrument for observing, viewing, or examining. -> from modern Latin `-scopium`, from Greek `skopein` ‘look at’
+* History
+    * What technology has historicity been used to get a separate image to each eye. (see links in 3d_image)
+        * Side by side photos, Viewmaster, sterograms
 * Physics
-    * Light filters
+    * (alternatives: polarisation, active shutter)
+    * Light filters -> Analyph
     * https://en.wikipedia.org/wiki/Anaglyph_3D
     * [Buy Red/Cyan Glass's on Amazon](https://www.amazon.co.uk/s/ref=nb_sb_ss_i_1_8/258-4913575-7554117?url=search-alias%3Daps&field-keywords=red+cyan+3d+glasses&sprefix=red+cyan%2Caps%2C139&crid=3OX6AMXQBKHQW)
     * [Fliker: Anaglyphic 3D Group](https://www.flickr.com/groups/365182@N21/pool/)
