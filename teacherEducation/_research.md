@@ -8,6 +8,7 @@ Research
         * [Blog](https://educationendowmentfoundation.org.uk/news/blog/)
         * [Guidance Reports](https://educationendowmentfoundation.org.uk/tools/guidance-reports/)
 * Computing
+    * [computingeducationresearch.org](https://computingeducationresearch.org/)
     * [International Computing Education Research Workshop (ICER)](https://dl.acm.org/conference/icer/proceedings)
         * 20 Years of computing education research conference.
         * The best place to look for Computing Pedagogy research
