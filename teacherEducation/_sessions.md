@@ -594,7 +594,7 @@ Friday 10th Match - 16:30
 
 
 
-KSQ 8: What is a broad and balanced curriculum?
+SQ 8: What is a broad and balanced curriculum?
 -----------------------------------------------
 
 Developing the whole student, considering subject interconnections and cross curricular 
@@ -650,7 +650,7 @@ Friday 24th March
 
 
 
-KSQ 9: How do you lead learning?
+SQ 9: How do you lead learning?
 --------------------------------
 
 Developing classroom practice to become an autonomous practitioner who has an impact on learners, learning and progress

@@ -3,12 +3,18 @@ Mentor Meeting
 
 [28th February - Term 4](https://cccu-my.sharepoint.com/:w:/g/personal/lt229_canterbury_ac_uk/ERFli6VqyflDm8dAdi5DpZ8BSAiJltMPREL9NYuuDNv2pA?wdOrigin=TEAMS-ELECTRON.p2p.bim&wdExp=TEAMS-CONTROL&wdhostclicktime=1677506482551&web=1)
 
-
+* Assessment Alignment (explanation)
+    * ePortfolio "is not assessed"!? (kind of) - Mentors SPR judgement is the only real measure of student assessment/progress
+    * Ofsted will judge us as a provision on the ePortfolios (we are developing the ePortfolios because that is how we a judged)
 * SD Final Assessment - Mid June
+* Visit 2?
+    * How can I support?
 * ePortfolios
-    * SPRs 
+    * SPRs
     * Evidence Bundles (!! Focus)
     * E-portfolio checking & target setting
+    * Record of Training
+        * Rational for contrasting placement
 * Reviewing ePortfolios
     * Content
         * Targets, Reflections, Lesson Observations (Plan/Feedback/Evaluation)
@@ -16,16 +22,15 @@ Mentor Meeting
     * [Arrangements for reviewing e-Portfolios Jan 2023](https://cccu.sharepoint.com/sites/SecondaryEducation2223/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x012000A41170FDB08D0846B3B9BBF2110C2752&id=%2Fsites%2FSecondaryEducation2223%2FShared%20Documents%2Fe%2DPortfolio%2FArrangements%20for%20reviewing%20e%2DPortfolios%20%28Jan%202023%29%2Epdf&viewid=5e473793%2Da1e5%2D489e%2D8182%2Dd8411c93cd5f&parent=%2Fsites%2FSecondaryEducation2223%2FShared%20Documents%2Fe%2DPortfolio)
     * Contrasting Placement
         * For School Direct only - the Professional Mentor at the Base School should review the student teachers e-Portfolio at least once while they are on Contrasting Placement, to check the e-Portfolio is continuing to be engaged with by the student teacher/mentors at the Contrasting placement.
-* Record of Training
-    * Rational for contrasting placement
 * Weekley Mentor Meetings (Good)
-    * Use of Subject Specific Curriculum: Are your mentors using this to inform their mentor sessions?
+    * Use of 'Subject Specific' Curriculum: Are your mentors using this to inform their mentor sessions?
     * Are they able to set subject specific targets?
+        * Menu of targets (future?)
 * Subject Knowledge development (Good)
     * The Subject Knowledge Audit (SKA) is currently a list of the AQA GCSE spec. How do you think the SKA should be expanded.
     * Including 'domain specific knowledge' – what is meant by this?
 * Review remaining spotlight questions for the year in terms of subject specialism and mentor foci
-    * SQ 7: What does ‘inclusion’ really mean?
+    * SQ 7: What does ‘inclusion’ really mean? (finishing)
     * SQ 8: What is a broad and balanced curriculum?
     * SQ 9: How do you lead learning?
 * What are you mentors doing (computing wise) outside the classroom 
