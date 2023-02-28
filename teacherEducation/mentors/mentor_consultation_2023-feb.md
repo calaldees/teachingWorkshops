@@ -3,6 +3,7 @@ Mentor Meeting
 
 [28th February - Term 4](https://cccu-my.sharepoint.com/:w:/g/personal/lt229_canterbury_ac_uk/ERFli6VqyflDm8dAdi5DpZ8BSAiJltMPREL9NYuuDNv2pA?wdOrigin=TEAMS-ELECTRON.p2p.bim&wdExp=TEAMS-CONTROL&wdhostclicktime=1677506482551&web=1)
 
+* Mentoring (changing towards) Coaching?
 * Assessment Alignment (explanation)
     * ePortfolio "is not assessed"!? (kind of) - Mentors SPR judgement is the only real measure of student assessment/progress
     * Ofsted will judge us as a provision on the ePortfolios (we are developing the ePortfolios because that is how we a judged)
