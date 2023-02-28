@@ -1,10 +1,10 @@
 Session
 =======
 
-uniformity - consitency
-examples
-Why pick those examples/topics/segments - why vita peices
-What flagship examples
+* uniformity - consitency
+* examples
+* Why pick those examples/topics/segments - why vita peices
+* What flagship examples
 
 
 
@@ -12,15 +12,15 @@ What flagship examples
 Sequence
 --------
 
-10 Spotlight
-Collaborative Developing Independent
-    Mentor foci
-Barriers to Computing
-    can't use a keyboard
-    not going to be software engineers
-NCCE guest
-Subject Knowledge
-    GCSE
+* 10 Spotlight
+* Stages: Collaborative, Developing, Independent
+* Mentor foci
+* Barriers to Computing
+    * can't use a keyboard
+    * not going to be software engineers
+* NCCE guest (diversity)
+* Subject Knowledge
+    * Opportunity to take GCSE
 
 
 ### How is the curriculum sequenced for my subject?
@@ -61,11 +61,11 @@ Subject Knowledge
     * Ready to break the mechanical mold and explore new ideas
 * SP20 - (PGCE) Impact + Data
 
-### How are fundamental maths and English skills addressed in (subject)?​
+### How are fundamental maths and English skills addressed in Computing?​
 
-SP3 highlights technical language and how this is required for students to even think in their discipline. These key themes run through planning as technical language should be identified in all lessons.
-
-Constructing algorithms requires understanding of operations (mathematical). Computing is maths.
+* SP3 highlights technical language and how this is required for students to even think in their discipline. These key themes run through planning as technical language should be identified in all lessons.
+* Constructing algorithms requires understanding of operations (mathematical). Computing is maths.
+* Meta-cognition - discussed manifesting meaningful reflections
 
 ### Why is it sequenced in this way? 
 
@@ -75,11 +75,12 @@ What is Computing -> what do you deliver (planning) -> how do you deliver (compu
 
 ### How is your subject curriculum integrated with placement?​ (How are Placement and CCCU sessions integrated in my subject?)
 
-* Start of session - describe Mentor lead foci and how it relates to this session (Curriculm guidnce document)
+* Start of session - describe Mentor lead foci and how it relates to this session (Curriculum guidance document)
 * 1 target each week related to curriculum foci
 * Bulletin (has the foci) mentors and students
 
-Flip the script
+* two way
+    * Flip the script - Student tutorials for recognising meaningful targets
 
 
 ### How does the structure of your subject curriculum prepare students for a career in teaching?​
@@ -95,7 +96,7 @@ Mentors change every year
 * 2 face-to-face visits a year
     * discuss targets
     * Identify things and report that to SAL
-    * Observe (not required but), debreif, how they convey to students
+    * Observe (not required but), debrief, how they convey to students
 * Wider mentor training
     * Online or face-to-face
 * Subject specific face-to-face training (twice a year)
@@ -103,7 +104,7 @@ Mentors change every year
     * Wider Computing mentor groups
 * Online booking system for quick remote one-to-ones
 
-* Subject mentors have been previous students
+* Some Subject mentors have been previous students
 * Build Personal Relationship
 
 Central visit spreadsheet
@@ -134,7 +135,12 @@ Bulletin (mentors and students) key readings
     * Verbal presentation of algorithm (sorting)
     * Pair programming
     * Practical Network activities (some struggled to read a diff)
+* Individual folder tutorials
+    * PPD Day
+    * SPR reviews
 
 ### Extra: How do you go above and beyond in the delivery of your subject curriculum?​	
 
 * GCSE with Barton Court 
+* Outreach work with Department of Computing (practical activities), STEM Hub days - AI in curriculum
+* Upcoming ChatGTP to plan lessons and scrutinise them - how students can harness this technology
