@@ -9,6 +9,7 @@ Research
         * [Guidance Reports](https://educationendowmentfoundation.org.uk/tools/guidance-reports/)
 * Computing
     * [computingeducationresearch.org](https://computingeducationresearch.org/)
+        * raspberry pi computing education research centre - university of cambridge
     * [International Computing Education Research Workshop (ICER)](https://dl.acm.org/conference/icer/proceedings)
         * 20 Years of computing education research conference.
         * The best place to look for Computing Pedagogy research

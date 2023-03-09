@@ -192,17 +192,17 @@ scaffold talk?
     1. Discussing and analysing with expert colleagues how they decide whether intervening within lessons with individuals and small groups would be more efficient and effective than planning different lessons for different groups of pupils. #5-AdaptTeach-Learn-how-7-no_separate_tasks_ssdd
 6. And - following expert input - by taking opportunities to practise, receive feedback and improve at: 
     1. Making use of well-designed resources (e.g. textbooks). #5-AdaptTeach-Learn-how-8-use_shared_resources
-    2. Planning to connect new content with pupils' existing knowledge or providing additional pre-teaching if pupils lack critical knowledge #5-AdaptTeach-Learn-how-9-link_prior_knowledge
-    3. Building in additional practice or removing unnecessary expositions.
+    2. Planning to connect new content with pupils' existing knowledge or providing additional pre-teaching if pupils lack critical knowledge #5-AdaptTeach-Learn-how-9-plan_link_prior_knowledge
+    3. Building in additional practice or removing unnecessary expositions. #5-AdaptTeach-Learn-how-10-remove_unnecessary_waffle
     4. Reframing questions to provide greater scaffolding or greater stretch. #5-AdaptTeach-Learn-how-11-questioning_support_stretch
 7. Group pupils effectively, by:
     1. Discussing and analysing with expert colleagues how the placement school changes groups regularly, avoiding the perception that groups are fixed. #5-AdaptTeach-Learn-how-12-group_pair_guidance
-    2. Discussing and analysing with expert colleagues how the placement school ensures that any groups based on attainment are subject specific. 
+    2. Discussing and analysing with expert colleagues how the placement school ensures that any groups based on attainment are subject specific. #5-AdaptTeach-Learn-how-13-subject_specific_ability_groups
 8. And - following expert input - by taking opportunities to practise, receive feedback and improve at: 
     1. Applying high expectations to all groups, and ensuring all pupils have access to a rich curriculum. #5-AdaptTeach-Learn-how-14-group_pair_stretch
 
 
-#5-AdaptTeach-Learn-how-10-practice_to_master
+
 
 
 
@@ -282,7 +282,7 @@ scaffold talk?
     2. Discussing and analysing with expert colleagues how experienced colleagues provide opportunities for pupils to articulate their long-term goals and helping them to see how these are related to their success in school.
     3. Discussing and analysing with expert colleagues how to support pupils to journey from needing extrinsic motivation to being motivated to work intrinsically. 
 
-## Professional Behaviours (Standard 8 – ‘Fulfil wider professional responsibilities’
+## Professional Behaviours (Standard 8 – ‘Fulfil wider professional responsibilities’)
 
 ### Learn that
 1. Effective professional development is likely to be sustained over time, involve expert support or coaching and opportunities for collaboration.
@@ -349,6 +349,7 @@ Hashtags
 #6-Assessment-Learn-how-to-15-verbal_feedback
 #6-Assessment-Learn-how-to-16-feedback_abbreviations
 #6-Assessment-Learn-how-to-16-feedback_identify_misconceptions
+
 #7-Behaviour-Learn-that-1-routines
 #7-Behaviour-Learn-that-2-consistent_reward_sanction
 #7-Behaviour-Learn-that-3-regulate_emotions
@@ -371,9 +372,9 @@ Hashtags
 #7-Behaviour-Learn-how-14-learning_is_lasting
 #7-Behaviour-Learn-how-15-careers_long_term_pastoral
 #7-Behaviour-Learn-how-16-intrinsic_motivation
+
 #8-Wider-Learn-that-1-sustained_cpd
 #8-Wider-Learn-that-2-reflect
-
 #8-Wider-Learn-that-4-engage_parents
 #8-Wider-Learn-that-5-teaching_assistants
 #8-Wider-Learn-that-6-special_needs_wider

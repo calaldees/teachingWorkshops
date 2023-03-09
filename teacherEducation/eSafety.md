@@ -30,7 +30,53 @@ eSafety
                     * See flowchart page 11
                         * [ActionFraud.police.uk](https://www.actionfraud.police.uk/)
                 * National Cyber Security Centre - NCSC.GOV.UK
-More from Annex
+
+
+* [DfE Guidance: Teaching online safety in schools](https://www.gov.uk/government/publications/teaching-online-safety-in-schools/teaching-online-safety-in-schools) Updated 12 January 2023
+    * How to navigate the internet and manage information
+        * Age restrictions
+        * How content can be used and shared
+        * Disinformation, misinformation, malinformation and hoaxes
+        * Fake websites and scam emails
+        * Fraud (online)
+        * Password phishing
+        * Personal data
+        * Persuasive design
+        * Privacy settings
+        * Targeting of online content (including on social media and search engines)
+    * How to stay safe online
+        * Online radicalisation
+        * Challenges
+        * Content which incites
+        * Fake profiles
+        * Grooming
+        * Live streaming
+        * Pornography
+        * Unsafe communication
+    * Wellbeing
+        * Impact on confidence (including body confidence)
+
+* TASK 10min solo
+    * Look at "Teaching online safety in schools"
+    * How many of those concepts are covered by your school? How are they covered (in computing lessons? or elsewhere?)
+* TASk 10min discuss
+    * I'm sure there are a range of stratergies in your schools?
+* TASK: Action - write down a topic you think is missing within your school and talk about it with someone in your department (mentor meeting?)
+
+
+* [DfE Guidance: Education for a Connected World](https://www.gov.uk/government/publications/education-for-a-connected-world) - A framework to equip children and young people for digital life
+    * Statements for assessing age appropriate understanding of safety issues
+* TASK: 10min
+    * Review the statements in "Education for a Connected World"
+* TASK: 10min
+    * discuss - can you assess/track/monitor your students understanding of these concepts?
+
+
+
+
+## More from KCSIE Annex
+
+TODO:
 
 Online safety-advice 
 Childnet provide guidance for schools on cyberbullying
@@ -64,38 +110,28 @@ London Grid for Learning guidance, including platform specific advice
 National cyber security centre guidance on choosing, configuring and deploying video 
 conferencing 
 39
-UK Safer Internet Centre guidance on safe remote learning
-Online Safety- Support for children
-Childline for free and confidential advice
-UK Safer Internet Centre to report and remove harmful online content
-CEOP for advice on making a report about online abuse
-Online safety- Parental support
-Childnet offers a toolkit to support parents and carers of children of any age to start 
-discussions about their online life, and to find out where to get more help and support
-Commonsensemedia provide independent reviews, age ratings, & other information 
-about all types of media for children and their parents
-Government advice about protecting children from specific online harms such as child 
-sexual abuse, sexting, and cyberbullying
-Internet Matters provide age-specific online safety checklists, guides on how to set 
-parental controls, and practical tips to help children get the most out of their digital world
-How Can I Help My Child? Marie Collins Foundation – Sexual Abuse Online
-Let’s Talk About It provides advice for parents and carers to keep children safe from 
-online radicalisation 
-London Grid for Learning provides support for parents and carers to keep their children 
-safe online, including tips to keep primary aged children safe online
-Stopitnow resource from The Lucy Faithfull Foundation can be used by parents and 
-carers who are concerned about someone’s behaviour, including children who may be 
-displaying concerning sexual behaviour (not just about online)
-National Crime Agency/CEOP Thinkuknow provides support for parents and carers to 
-keep their children safe online
-Parentzone provides help for parents and carers on how to keep their children safe 
-online
-Talking to your child about online sexual harassment: A guide for parents – This is the 
-Children’s Commissioner’s parental guide on talking to their children about online sexual 
-harassment 
-#Ask the awkward – Child Exploitation and Online Protection Centre guidance to parents 
-to talk to their children about online relationships
+* UK Safer Internet Centre guidance on safe remote learning
+* Online Safety- Support for children
+* Childline for free and confidential advice
+* UK Safer Internet Centre to report and remove harmful online content
+* CEOP for advice on making a report about online abuse
+* Online safety- Parental support
+* Childnet offers a toolkit to support parents and carers of children of any age to start discussions about their online life, and to find out where to get more help and support
+* Commonsensemedia provide independent reviews, age ratings, & other information about all types of media for children and their parents
+* Government advice about protecting children from specific online harms such as child sexual abuse, sexting, and cyberbullying
+* Internet Matters provide age-specific online safety checklists, guides on how to set parental controls, and practical tips to help children get the most out of their digital world
+* How Can I Help My Child? Marie Collins Foundation – Sexual Abuse Online
+* Let’s Talk About It provides advice for parents and carers to keep children safe from online radicalisation 
+* London Grid for Learning provides support for parents and carers to keep their children safe online, including tips to keep primary aged children safe online
+* Stopitnow resource from The Lucy Faithfull Foundation can be used by parents and carers who are concerned about someone’s behaviour, including children who may be displaying concerning sexual behaviour (not just about online)
+* National Crime Agency/CEOP Thinkuknow provides support for parents and carers to keep their children safe online
+* Parentzone provides help for parents and carers on how to keep their children safe online
+* Talking to your child about online sexual harassment: A guide for parents – This is the Children’s Commissioner’s parental guide on talking to their children about online sexual harassment 
+* #Ask the awkward – Child Exploitation and Online Protection Centre guidance to parents to talk to their children about online relationships
 
+
+More
+----
 
 * [Safer Internet Day – 7th February 2023](https://saferinternet.org.uk/safer-internet-day/safer-internet-day-2023)
     * [Educational Resources](https://saferinternet.org.uk/safer-internet-day/safer-internet-day-2023/educational-resources)

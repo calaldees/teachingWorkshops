@@ -616,3 +616,44 @@ Thank you for supporting with training new Computing teachers. It is such a vita
 Let me know if I can support in any way.
 Keep in touch.
 
+
+
+Visit 2 - 2023-03-08
+-------
+
+
+Mentor Visit 2 - Computing
+
+Hi ???
+(cc'ing as part of process
+   as Student Teacher
+   as Professional Mentor
+   as Area Lead for School
+)
+
+As part of our commitment to support you with your mentoring of ???, I am organising my second visits to schools.
+It would be good to see how you and ??? are progressing. 
+I hope to be able to offer guidance to help prepare you for the upcoming Student Progress Reviews and the School Direct Final Assessment that in due in June.
+
+A quick way to book a "Mentor Visit" is to use my online booking system. This is linked to my calendar availability.
+https://outlook.office365.com/owa/calendar/PGCESDComputing@cccu.onmicrosoft.com/bookings/
+If there are no dates and times that match your availability, please contact me. I can cancel or move some established meeting to accommodate visits if needed.
+I would prefer to visit your school in person if possible, let me know if you would like this meeting to be conducted remotely.
+
+Although I am interested in ??? progress, the purpose of these visits is 'mentor facing' to primarily support you with your mentoring.
+For example:
+ - You could request that we jointly observe one of ??? lessons so that we can discuss possible targets and strategies.
+ - You could request that I join a normal weekly mentor meeting so I can assist with the meeting structure.
+ - You could request that I join as part of preparation for SPR3, where we are assessing ???s progress.
+Let me know in advance of my visit any aspects of mentoring you would like the most support with.
+
+Thank you for attending the face-to-face mentor training on Tuesday 28th February. You travelled a significant distance. I hope our discussions were valuable.
+OR
+I missed you at our last face-to-face mentor training on 28th February and our online training on Monday 6th March. I hope my visit can fill in some of the gaps left by these.
+
+I've had a quick meeting with ??? to catchup about their contrasting placement. It sounds like it was a tremendously valuable experience.
+
+You've contributed significant time to supporting ???.
+Thanks again for your time and expertise.
+Looking forward to seeing you again soon.
+

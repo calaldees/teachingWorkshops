@@ -7,6 +7,9 @@ Session
 * What flagship examples
 
 
+* Vocabulary
+    * Purposeful Integration
+    * Expert Colleagues
 
 
 Sequence
@@ -77,7 +80,8 @@ What is Computing -> what do you deliver (planning) -> how do you deliver (compu
 
 * Start of session - describe Mentor lead foci and how it relates to this session (Curriculum guidance document)
 * 1 target each week related to curriculum foci
-* Bulletin (has the foci) mentors and students
+* Weekley Bulletin (has the foci) mentors and students
+    * Drip feed - ongoing
 
 * two way
     * Flip the script - Student tutorials for recognising meaningful targets

@@ -38,7 +38,8 @@ Task (1 hour)
             * informal group learning. 
         * Structured team learning – or cooperative learning – has yielded strong results in trials when there are two conditions in place:
             1. Group goals
-                * The aim of the task must be to achieve success in something purposeful, possibly to gain a reward of some kind. It isn’t enough to work in a team without a clear goal.
+                * The aim of the task must be to achieve success in something purposeful, possibly to gain a reward of some kind. 
+                * It isn’t enough to work in a team without a clear goal.
             2. Individual accountability
                 * The success of each student in terms of their learning must contribute to the overall team success, otherwise some students dominate the task and others become passengers.
         * It is common for teachers to deploy informal group learning where these conditions do not apply. 
@@ -71,7 +72,7 @@ Prevents 'passive' learning
     * Arrange the seats into two circles (inner and outer circle) 
     * “Surveillance technology is a bad thing, discuss!” or “Why do we need technology to track the movements of individuals?”.
     *  asking the students in the outer circle to reveal their question or mission to the rest of the class and to respond with their answer or observation.
-    * See "Socratic questioning techniques" sacafold handout - types of questions to ask in debate
+    * See "Socratic questioning techniques" scaffold handout - types of questions to ask in debate
         * Clarification, Challenge, use of evidence, explore other viewpoints, considering consequences, Questioning the question
     * See "Debate cards" to give focus to watchers
 * [Engaging Students in Socratic Seminars](https://www.teachingchannel.com/blog/socratic-seminars) 2018 teachingchannel.com
@@ -289,7 +290,9 @@ Other unsorted notes about Collaboration
     * Although not directly related to teaching - the clarity of this article and the points made are universal
 
 
-* [The Advantages of Peer Learning](https://web.archive.org/web/20191115133445/https://blog.hyperlog.club/why-peer-learn/)
+* [The Advantages of Peer Learning](https://web.archive.org/web/20191115133445/https://blog.hyperlog.club/why-peer-learn/) 2019 
+    * peer learning in organisations
+    * devolves hierarchy
 
 * [COOL: Cooperative Open Learning for Beginning Programmers](https://dl.acm.org/doi/10.1145/3304221.3325569) 2019
     * > It includes several forms of cooperative learning like peer tutoring, pair programming, and talents exchange. 

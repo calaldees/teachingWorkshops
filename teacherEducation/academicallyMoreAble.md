@@ -4,15 +4,14 @@ Academically More Able
 
 * [13-Year-Old, Nicholas Sharkey, Creates a RISC-V Core](https://riscv.org/blog/2020/11/13-year-old-nicholas-sharkey-creates-a-risc-v-core/)
 * > ‘Too many bright children let down in the state system’ Ofsted 2013
-* > ‘The most able students report finds that too few schools set high enough expectations of what their brightest students can achieve’. Ofsted 2103
+* > ‘The most able students report finds that too few schools set high enough expectations of what their brightest students can achieve’. Ofsted 2013
 
-TASK: 10min
-* In shared doc
+TASK: 10min solo
 * List of characteristics which you consider to exemplify those pupils who are considered _able_ in Computing
 * Some ideas to kickstart your thinking
     * [Identifying more able learners: beyond the numbers](https://www.nace.co.uk/blogpost/1764163/327555/Identifying-more-able-learners-beyond-the-numbers) NACE 2019
     * [Traits of Giftedness](https://www.nagc.org/resources-publications/resources/my-child-gifted/common-characteristics-gifted-individuals/traits) Clark, B. (2008). Growing up gifted
-
+TASK: 10min discuss
 
 Criticality
 -----------
@@ -23,6 +22,9 @@ Criticality
     * > The spending on education in the United States is disproportionately directed towards struggling children.
     * > Equity over excellence
 * Goodhearts law - metrics will be gamed - if you truly want to reduce the attainment gap, just send the good students home 3 days a week
+* [School Integration Limits the Ability of Local Norms to Diversify Gifted Programs: A Mathematical Analysis with Implications Related to the Achievement Gap](https://journals.sagepub.com/doi/10.1177/1932202X211069078) 2022 Warne
+    * [twitter](https://twitter.com/Russwarne/status/1516412551021711377)
+        * > In this study, I show that selecting kids @ the building level for #gifted programs will only result in a diverse gifted program at the most segregated schools. At integrated schools, it results in a LESS diverse program. #education 
 
 
 ### Webinar Summary - How to Support the More Able
@@ -97,13 +99,18 @@ Criticality
 ### Expertise Reversal Effect
 
 * Too much support for weaker learners can harm the most able
-    * [Expertise Reversal Effect and its Instructional Implications](https://impact.chartered.college/article/expertise-reversal-effect-instructional-implications/)
+    * [Expertise Reversal Effect and its Instructional Implications](https://impact.chartered.college/article/expertise-reversal-effect-instructional-implications/) 2018
         * > ... a technique that reduces working memory load for low-knowledge learners (e.g. by providing strong instructional support) might lose its effectiveness and may even bring negative consequences for more knowledgeable learners; they may learn better in an environment with minimal guidance. This is known as the expertise reversal effect ...
         * > ... implication of the effect is the need to develop an adaptive learning environment in which learning materials are tailored in accordance with learners’ current levels of achievement ...
 
 
 Strategies in Computing
 -----------
+
+TASK: 10min
+* Round the room - can you describe one of your best students in lower secondary and upper secondary.
+* Are there any common themes?
+
 
 TASK: What strategies have you seen to support the more able?
 (who are these able students? how were they identified? what support/strategies were put in place (if any?))
@@ -129,10 +136,3 @@ Most importantly
 
 </details>
 
-
-Unsorted
-========
-
-* [School Integration Limits the Ability of Local Norms to Diversify Gifted Programs: A Mathematical Analysis with Implications Related to the Achievement Gap](https://journals.sagepub.com/doi/10.1177/1932202X211069078) 2022 Warne
-    * [twitter](https://twitter.com/Russwarne/status/1516412551021711377)
-        * > In this study, I show that selecting kids @ the building level for #gifted programs will only result in a diverse gifted program at the most segregated schools. At integrated schools, it results in a LESS diverse program. #education 

@@ -1,6 +1,13 @@
 Literacy
 ========
 
+TODO:
+The website we have been suggested to gauge the difficulty of a piece of text is: 
+https://charactercalculator.com/smog-readability/ 
+The SMOG calculator isn't perfect but can be a useful aid when planning and resourcing lessons. Just copy and paste a sample of your text into the space provided and press 'calculate'.
+Underneath it will give you the SMOG score which is essentially the reading age, which you can compare to the students' recorded scores. A more detailed overview of SMOG can be found here: https://www.twinkl.co.uk/teaching-wiki/smog-in-literacy  
+
+
 * TODO [Five Ways To: Weave Reading into the Curriculum](https://teacherhead.com/2022/05/05/five-ways-to-weave-reading-into-the-curriculum/)
 * HelloWorld Issue 20 [SCAFFOLDED READING IN COMPUTING](https://helloworld.raspberrypi.org/issues/20/pdf) pg70, Rachel Arthur
     * Example with reading a news article about Phishing and getting students to disect it
@@ -221,6 +228,8 @@ Think about:
 
 ### Further Reading (Async reading if time?)
 
+* EEF [Vocabulary in Action poster: A tool for teachers](https://educationendowmentfoundation.org.uk/news/vocabulary-in-action-poster-a-tool-for-teachers)
+    * Unless students start to use the new vocabulary regularly, it will be lost
 * [Why does writing matter in remote work?](http://www.timcasasola.com/blog/writing)
     * A clear articulation of written skills in the workplace
 * Vocabulary

@@ -1,6 +1,14 @@
 English as an Additional Language (EAL)
 =================================
 
+TODO:
+The website we have been suggested to gauge the difficulty of a piece of text is: 
+https://charactercalculator.com/smog-readability/ 
+The SMOG calculator isn't perfect but can be a useful aid when planning and resourcing lessons. Just copy and paste a sample of your text into the space provided and press 'calculate'.
+Underneath it will give you the SMOG score which is essentially the reading age, which you can compare to the students' recorded scores. A more detailed overview of SMOG can be found here: https://www.twinkl.co.uk/teaching-wiki/smog-in-literacy  
+ 
+
+
 [National Curriculum](https://www.gov.uk/government/publications/national-curriculum-in-england-framework-for-key-stages-1-to-4/the-national-curriculum-in-england-framework-for-key-stages-1-to-4)
 
 > 4.5. Teachers must also take account of the needs of pupils whose first language is not English. Monitoring of progress should take account of the pupil’s age, length of time in this country, previous educational experience and ability in other languages.
@@ -22,7 +30,7 @@ SECOND EDITION
 
 pg12
 
-* What is being talked or written about. Think of the differences between a conversation about teaching and 
+* What is being talked or written about. Think of the differences between a conversation about teaching and 
 another about gardening, or between a social studies text 
 and a biology text. 
 ¡ The relationship between the speakers. Imagine yourself 
@@ -54,13 +62,9 @@ Text 2. We found out the pins stuck on the magnet.
 Text 3. Our experiment showed that magnets attract some metals.
 Text 4. Magnetic attraction occurs only between ferrous metals.
 
-The four texts demonstrate that it is problematic to talk about 
-overall “profi ciency” in a language without taking into account the 
-context in which the language will be used.
+The four texts demonstrate that it is problematic to talk about overall “proficiency” in a language without taking into account the context in which the language will be used.
 
-—the registers associated with academic learning may take up to seven 
-years for the learner to develop at a level equivalent to a competent native 
-speaker of the same age.
+the registers associated with academic learning may take up to seven years for the learner to develop at a level equivalent to a competent native speaker of the same age.
 
 
 
@@ -101,7 +105,7 @@ speaker of the same age.
 Alison Session Overview
 -----------------------
 
-CCF + Standards + KSQ
+CCF + Standards + SQ
 
 www.standards.dcsf.gov.uk/National Strategies (2011) Supporting children learning EAL
 
@@ -161,3 +165,5 @@ TODO
             * makes parents feel their language is valued within the child’s education
             * home languages must not “take over” the school language.
             * setting students a task of recording a debate or discussion that can be recorded and analysed afterwards
+
+* [Translating for the Raspberry Pi Foundation](https://projects.raspberrypi.org/en/projects/translating-for-raspberry-pi)

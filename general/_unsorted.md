@@ -255,4 +255,6 @@
     * Had one to one support
     * Cognitive apprenticeship
         * would model patterns of reasoning by thinking aloud
-        * 
+
+
+* [Honestly, it's probably the phones ](https://noahpinion.substack.com/p/honestly-its-probably-the-phones) - The most plausible explanation for teenage unhappiness.
