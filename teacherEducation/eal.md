@@ -1,11 +1,13 @@
 English as an Additional Language (EAL)
 =================================
 
-TODO:
-The website we have been suggested to gauge the difficulty of a piece of text is: 
-https://charactercalculator.com/smog-readability/ 
-The SMOG calculator isn't perfect but can be a useful aid when planning and resourcing lessons. Just copy and paste a sample of your text into the space provided and press 'calculate'.
-Underneath it will give you the SMOG score which is essentially the reading age, which you can compare to the students' recorded scores. A more detailed overview of SMOG can be found here: https://www.twinkl.co.uk/teaching-wiki/smog-in-literacy  
+* https://charactercalculator.com/smog-readability/ 
+    * The website we have been suggested to gauge the difficulty of a piece of text is: 
+    * The SMOG calculator isn't perfect but can be a useful aid when planning and resourcing lessons. 
+    * Just copy and paste a sample of your text into the space provided and press 'calculate'.
+    * Underneath it will give you the SMOG score which is essentially the reading age, which you can compare to the students' recorded scores. 
+    * A more detailed overview of SMOG can be found here: 
+    [What is the SMOG Readability Score?](https://www.twinkl.co.uk/teaching-wiki/smog-in-literacy)
  
 
 
@@ -15,8 +17,9 @@ Underneath it will give you the SMOG score which is essentially the reading age,
 
 > 4.6. The ability of pupils for whom English is an additional language to take part in the national curriculum may be in advance of their communication skills in English. Teachers should plan teaching opportunities to help pupils develop their English and should aim to provide the support pupils need to take part in all subjects.
 
-TODO:
-You are mandated by law to provide this
+
+Gibbons Framework
+-----------------
 
 * [Scaffolding Language, Scaffolding Learning, Second Edition](https://www.heinemann.com/products/e05664.aspx) -  Teaching English Language Learners in the Mainstream Classroom - By Pauline Gibbons, University of Technology, Sydney, Australia
     *  978-0325056647
@@ -24,48 +27,30 @@ You are mandated by law to provide this
 PAULINE GIBBONS
 scaffolding language 
 scaffolding learning
-Teaching English Language Learners 
-in the Mainstream Classroom
+Teaching English Language Learners in the Mainstream Classroom
 SECOND EDITION
 
-pg12
 
-* What is being talked or written about. Think of the differences between a conversation about teaching and 
-another about gardening, or between a social studies text 
-and a biology text. 
-¡ The relationship between the speakers. Imagine yourself 
-chatting to a friend at a party and compare that with how 
-you might respond to questions at a job interview.
-¡ Whether the language is spoken or written. Imagine yourself watching 
-a cooking demonstration where the cook is describing what he or she 
-is doing. Then think about how the language would change if it were 
-written in a cookbook.
-Halliday and Hasan (1985) refer to these contextual features as fi eld, tenor, 
-and mode
-¡ Field refers to the topic of the text—what it is that is being talked or 
-written about.
-¡ Tenor refers to the relationship between speaker and listener (or 
-writer and reader), such as the level of formality required.
-¡ Mode refers to the channel of communication, for example, whether 
-it is spoken or written
-
-Together these three variables constitute what is referred to as the register 
-of a text. As children learn their fi rst language, they gradually learn not only 
-the syntax or grammar of the language, but also how to vary the language they 
-use according to the context they are in. In other words, they learn to vary the 
-register of the language so that it is appropriate for the context.
-
-
-Moving towards academic langauge pg14
-Text 1. Look, it’s making them move. Those didn’t stick.
-Text 2. We found out the pins stuck on the magnet.
-Text 3. Our experiment showed that magnets attract some metals.
-Text 4. Magnetic attraction occurs only between ferrous metals.
-
-The four texts demonstrate that it is problematic to talk about overall “proficiency” in a language without taking into account the context in which the language will be used.
-
-the registers associated with academic learning may take up to seven years for the learner to develop at a level equivalent to a competent native speaker of the same age.
-
+* pg12 - field, tenor, and mode - _register_ 
+    * What is being talked or written about. 
+        * Think of the differences between a conversation about teaching and another about gardening, or between a social studies text and a biology text. 
+    * The relationship between the speakers. 
+        * Imagine yourself chatting to a friend at a party and compare that with how you might respond to questions at a job interview.
+    * Whether the language is spoken or written. 
+        * Imagine yourself watching a cooking demonstration where the cook is describing what he or she is doing. Then think about how the language would change if it were written in a cookbook.
+    * Halliday and Hasan (1985) refer to these contextual features as field, tenor, and mode
+        * Field refers to the topic of the text—what it is that is being talked or written about.
+        * Tenor refers to the relationship between speaker and listener (or writer and reader), such as the level of formality required.
+        * Mode refers to the channel of communication, for example, whether it is spoken or written
+    * Together these three variables constitute what is referred to as the _register_ of a text. 
+    * As children learn their first language, they gradually learn not only the syntax or grammar of the language, but also how to vary the language they  use according to the context they are in. In other words, they learn to vary the register of the language so that it is appropriate for the context.
+* pg14 - Moving towards academic language
+    * The four texts demonstrate that it is problematic to talk about overall “proficiency” in a language without taking into account the context in which the language will be used.
+        * Text 1. Look, it’s making them move. Those didn’t stick.
+        * Text 2. We found out the pins stuck on the magnet.
+        * Text 3. Our experiment showed that magnets attract some metals.
+        * Text 4. Magnetic attraction occurs only between ferrous metals.
+    * the registers associated with academic learning may take up to seven years for the learner to develop at a level equivalent to a competent native speaker of the same age.
 
 
 * [Using Pauline Gibbons Planning Framework: Examples Of Practice](https://www.naldic.org.uk/Resources/NALDIC/Teaching%20and%20Learning/Documents/Using_Gibbons_Framework.pdf) NALDIC 2011
@@ -135,8 +120,8 @@ Planning for language development group work
 Present on what they have done
 
 TODO
-* [Designing New ITE Curricula: EAL Content Recommendations](https://www.bell-foundation.org.uk/app/uploads/2020/09/The-Bell-Foundation-ITE-Curricula-Matrix.pdf) May 2020
-* ??? Possible use?[translatewith.wiki](https://translatewith.wiki/)
+* [Designing New ITE Curricula: EAL Content Recommendations](https://www.bell-foundation.org.uk/app/uploads/2020/09/The-Bell-Foundation-ITE-Curricula-Matrix.pdf) May 2020 Bell Foundation
+* ??? Possible use? [translatewith.wiki](https://translatewith.wiki/)
     * > This website lets you translate complicated concepts between languages. It does this by finding corresponding Wikipedia articles for you and showing their translations. This often gives more accurate results than more general purpose techniques like Google Translate and DeepL.
 
 
@@ -165,5 +150,6 @@ TODO
             * makes parents feel their language is valued within the child’s education
             * home languages must not “take over” the school language.
             * setting students a task of recording a debate or discussion that can be recorded and analysed afterwards
+
 
 * [Translating for the Raspberry Pi Foundation](https://projects.raspberrypi.org/en/projects/translating-for-raspberry-pi)

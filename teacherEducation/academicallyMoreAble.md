@@ -119,7 +119,7 @@ TASK: What strategies have you seen to support the more able?
 * Share (5min)
 
 <details>
-<summary>some of my ideas</summary>
+<summary>some of my quick ideas?</summary>
 
 * Self paced task bank - stretch/extension (clearly graded)
 * Use another language

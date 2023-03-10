@@ -1,7 +1,7 @@
 eSafety
 =======
 
-* [Keeping children safe in education 2022 - Statutory guidance for schools and colleges](https://www.gov.uk/government/publications/keeping-children-safe-in-education--2)
+* [Keeping children safe in education 2022 - Statutory guidance for schools and colleges](https://www.gov.uk/government/publications/keeping-children-safe-in-education--2) - Keeping children safe in education 2022: for school and college staff (part 1) (the 43 page one - not the 179 page one)
     * 24.) 
         * > All staff should be aware that technology is a significant component in many safeguarding and wellbeing issues. 
         * > Children are at risk of abuse and other risks online as well as face to face. 
@@ -60,7 +60,7 @@ eSafety
     * Look at "Teaching online safety in schools"
     * How many of those concepts are covered by your school? How are they covered (in computing lessons? or elsewhere?)
 * TASk 10min discuss
-    * I'm sure there are a range of stratergies in your schools?
+    * I'm sure there are a range of strategies in your schools?
 * TASK: Action - write down a topic you think is missing within your school and talk about it with someone in your department (mentor meeting?)
 
 
