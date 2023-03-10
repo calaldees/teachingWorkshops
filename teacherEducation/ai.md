@@ -1,6 +1,9 @@
 AI in the classroom (30min)
 ===================
 
+TODO:
+* [AI Won't Replace Teachers, but it will replace teachers who don't use AI.](https://www.linkedin.com/pulse/ai-wont-replace-teachers-who-dont-use-dan-fitzpatrick)
+
 * Description
     * Introduction and ideas for AI in the classroom
     * I'm not an expert in AI or Pedagody
