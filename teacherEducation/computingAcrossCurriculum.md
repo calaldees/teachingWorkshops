@@ -112,8 +112,7 @@ Ofsted, Inspections and Computing
 </details>
 
 ### Computing Quality Framework (30min)
-* [Computing Quality Framework](https://computingqualityframework.org/)
-    * (uploaded to blackboard SP16)
+* [Computing Quality Framework](https://computingqualityframework.org/) [[computing_quality_framework]]
     * TASK: Let's read and grade our schools (consider evidence) (15min) (10min discussion)
 
 
@@ -144,7 +143,8 @@ Computing Across the Curriculum - Ideas
 Other Subjects (exploration) (30min)
 --------------
 
-* [National Curriculum in England: All subjects](https://www.gov.uk/search/guidance-and-regulation?parent=/education/gcse-subject-content-and-requirements&keywords=National%20curriculum%20in%20England&topic=e8f17408-2d81-468f-aad8-7486a05cd0bf&order=relevance)
+* Consider Other Subject Curricumms in your context
+* e.g. [National Curriculum in England: All subjects](https://www.gov.uk/search/guidance-and-regulation?parent=/education/gcse-subject-content-and-requirements&keywords=National%20curriculum%20in%20England&topic=e8f17408-2d81-468f-aad8-7486a05cd0bf&order=relevance)
     * Purpose of study
         * > A high-quality XXX education provides ...
 * What are some of the things the other subjects are aiming for?
@@ -160,6 +160,7 @@ TODO
     * vocabulary to do that
     * appreciation of achievement
 </details>
+
 
 Responsibility's of Computing Teachers (lecture 10min)
 --------------------------------------
@@ -213,6 +214,7 @@ Can you help other practitioners include these words explicitly in their lessons
     * [picasso abstract bull](https://www.google.com/search?q=picasso+abstract+bull&tbm=isch)
 * Evaluation
     * making judgement
+
 
 Planning cross curricular
 -------------------------
@@ -295,7 +297,7 @@ We sometimes steamroller this in striving for our examinable/measurable grades.
 
 * [[creativity]]
 
-
+TODO:
 [Blending Content Areas Through Problem-Based Learning](https://www.csforallteachers.org/index.php/blog/blending-content-areas-through-problem-based-learning)
 
 
@@ -310,7 +312,7 @@ Group Task: Design a Cross curricular Lesson (1 hour)
             * History (what has been done to this point?)
             * Science/World?
             * Creative/Artistic?
-            * Community/Society/Law/Citizenship/Environment/BAME?
+            * Community/Society/Law/Citizenship/Environment/MinorityGroups?
             * Computing reference?
         * Play Crossover subject/discipline bingo! How many genuine cross curricular links can you find?
         * Two possibilities
@@ -320,11 +322,12 @@ Group Task: Design a Cross curricular Lesson (1 hour)
     * Describe your ideas - suggest one improvement/addition to each other
 * As group (15min) present/describe your ideas
 
+* NOTE: Most trainee teacher struggle with this task. You are not an expert at your own domain of computing, let along all the other subjects.
+* TIP: Don't think of a cool computing activity you want to do and crowbar it into other subjects. Observe and digest what other subjects are doing and use your holistic knowledge of computing to link in computing themes.
 
 
 Computing Across The Curriculum (1 hour)
 -------------------------------
-
 
 
 TODO:
@@ -376,8 +379,8 @@ Timeboxed? One hour? I could go all day
             * Colorize Pictures
             * Automatic, no sign-up, and Free!
         * Restorations
-            * [[4k, 60 fps] A Trip Through New York City in 1911](https://www.youtube.com/watch?v=hZ1OgQL9_Cw)
-            * [[60 fps] Laborers in Victorian England, 1901](https://www.youtube.com/watch?v=5HbElEqm1TQ)
+            * [ [4k, 60 fps] A Trip Through New York City in 1911](https://www.youtube.com/watch?v=hZ1OgQL9_Cw)
+            * [ [60 fps] Labourers in Victorian England, 1901](https://www.youtube.com/watch?v=5HbElEqm1TQ)
     * Visualisations
         * (not really an activity, but cool!) [How bridges built in middle ages](https://twitter.com/KiwiEV/status/1316493212605911040)
     * Archival
@@ -696,7 +699,7 @@ Not directly related to an existing established school subject.
     * > teachers lack information about openly available data sets and their potential use in education. 
     * > Teachers with little expertise in data analytics require extra time and effort, e.g., to identify and visualize data sets as part of their subjects. Thus, strategies are needed to govern open data use in education by addressing these challenges
     * > The studies indicated that for facilitating open data use in schools, a platform is needed that allows teachers to access suitable open data sets for educational purposes.
-    * > students might be motivated personally at the prospect of learning more about their own neighborhoods
+    * > students might be motivated personally at the prospect of learning more about their own neighbourhoods
     * > They need hands-on experience with data collection to understand the data concept and how to use open data
 
 * Data Science
@@ -717,23 +720,28 @@ Not directly related to an existing established school subject.
         * > There are echoes of this in the questions that society aims to answer using data, with a well-known example concerning schools. We might be interested in whether our children are getting a good education, but it’s very hard to pin down exactly what we mean by “good.” Instead, we tend to ask a related and easier question: How well do students perform when examined on some corpus of fact? And so we get the much lamented “teach to the test” syndrome.
         * > For that matter, think about our use of G.D.P. to indicate a country’s economic well-being. By that metric, a schoolteacher could contribute more to a nation’s economic success by assaulting a student and being sent to a high-security prison than by educating the student, owing to all the labour that the teacher’s incarceration would create.
         * > To simplify the world enough that it can be captured with numbers means throwing away a lot of detail. The inevitable omissions can bias the data against certain groups.
-        * > Harford gives the example of two sheep in a field: “Except that one of the sheep isn’t a sheep, it’s a lamb. And the other sheep is heavily pregnant—in fact, she’s in labor, about to give birth at any moment. How many sheep again?”
+        * > Harford gives the example of two sheep in a field: “Except that one of the sheep isn’t a sheep, it’s a lamb. And the other sheep is heavily pregnant—in fact, she’s in labour, about to give birth at any moment. How many sheep again?”
         * Child development model (4 data points) - DOB, Mothers education, marital status, ethnicity - 20% accuracy
         * thirteen thousand data points on each child - sophisticated modules predicted at +-3% accuracy
         * > Numbers are a poor substitute for the richness and color of the real world.
         * [Hello World: Being Human in the Age of Algorithms](https://www.amazon.co.uk/Hello-World-Being-Human-Algorithms/dp/0393357368/) Hanna Fry Feb 2020
 * [[Data Visualisation]]
     * (Where does visualisation go? It's like 'where does Geology exist in STEM?')
-    * [dataVisulisation.md](https://github.com/ComputingTeachers/mapOfComputing/blob/main/computing/data-visualisation.md)
+    * [data-visulisation.md](https://github.com/ComputingTeachers/mapOfComputing/blob/main/computing/data-visualisation.md)
         * [Minard Russia Data visualisation](https://en.wikipedia.org/wiki/Charles_Joseph_Minard#The_map_of_Napoleon's_Russian_campaign)
-    * pre-attentive visual attributes
-        * Length, width, orientation, size, enclosure, color intensity, color hue, curvature, shape, spatial grouping, 2d position
+        * [idea.org.uk: Data Visualization Online lesson 10min](https://idea.org.uk/badge/data-visualisation)
+            * Napoleon map (Minard)
+            * pre-attentive visual attributes
+                * Length, width, orientation, size, enclosure, color intensity, color hue, curvature, shape, spatial grouping, 2d position
     * (they can visualise it with crayons if they want)
     * What can you say with data?
         * [informationisbeautiful.net/beautifulnews](https://informationisbeautiful.net/beautifulnews/)
         * Bruises you don't see
 * [[Simulation]] and Modeling
     * [simulation.md](https://github.com/ComputingTeachers/mapOfComputing/blob/main/computing/simulation.md)
+* Automation
+    * > When I leave home, automatically text my friend to say "I'm on my way"
+    * > When 'xxx' site updates with the text 'tickets' text me
 
 
 Read resources Async (15min)
@@ -748,6 +756,7 @@ Explore and find dataset(s) for teaching (Async 1 hour)
 ----------------------------------------
 
 * Using real data is inspiring
+* (refering to the paper "Open Data Interface (ODI) for secondary school education" above)
 * Using [datasets.md](https://github.com/ComputingTeachers/mapOfComputing/blob/main/computing/datasets.md) as a starting point
 * Find a dataset you think might be interesting for a school activity (think about big questions and community engagement)
 * (This will be an activity that you will be undertaking for the rest of your teaching career. This is just your first hour in pondering/exploring)
@@ -942,6 +951,7 @@ Human DNA 3 Billion pairs
 1. Find manually by looking at the data
     1. kneedle in a haystack
 2. Implement a `findindex` function ourselfs with a for loop
+    * See [Coding Challenge #156: Peeking inside Pi](https://www.youtube.com/watch?v=MEdpRYyjz_0) for some examples
     * ```python
         def find_index(data, target):
             """
@@ -1214,5 +1224,6 @@ Shared whiteboard for ideas followed by discussion.
 
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
+[computing_quality_framework]: national_documentation/computing_quality_framework.md "Computing Quality Framework"
 [creativity]: creativity.md "Creativity"
 [//end]: # "Autogenerated link references"

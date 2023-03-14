@@ -94,11 +94,13 @@ Academic continuation of GCSE.
 
 * Exam boards
     * [AQA Computer Science 7516-7517](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517)
-        * [spec-2015](http://filestore.aqa.org.uk/resources/computing/specifications/AQA-7516-7517-SP-2015.PDF)
+        * [spec-2015](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517/specification-at-a-glance) [pdf](https://filestore.aqa.org.uk/resources/computing/specifications/AQA-7516-7517-SP-2015.PDF) updated 2019
+            * 50% on-screen exam (paper 1 + paper 3)
     * [OCR h046-h446](https://www.ocr.org.uk/qualifications/as-and-a-level/computer-science-h046-h446-from-2015/)
         * AS[spec-2019](https://www.ocr.org.uk/Images/170845-specification-accredited-as-level-gce-computer-science-h046.pdf)
         * A2[spec-2019](https://www.ocr.org.uk/Images/170844-specification-accredited-a-level-gce-computer-science-h446.pdf)
-    * [cambridgeinternational - computer-science-9618](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-computer-science-9618/)
+    * [Cambridge International Education (CIE) - computer-science-9618](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-computer-science-9618/)
+        * A2 - Paper 4 - Practical exam (no pre-release)
     * [eduqas](https://www.eduqas.co.uk/qualifications/computer-science-as-a-level/#tab_overview)
     * More are possibly coming?
 
@@ -175,6 +177,9 @@ Example A-Level Course Layouts
     * OCR [planning-and-teaching](https://www.ocr.org.uk/qualifications/as-and-a-level/computer-science-h046-h446-from-2015/planning-and-teaching/)
         * [co-teaching](https://www.ocr.org.uk/Images/176356-co-teaching-guide.pdf)
         * [sample-curriculum](https://www.ocr.org.uk/Images/170246-sample-curriculum-planning-guide.pdf)
+        * [delivery-guide](https://www.ocr.org.uk/qualifications/as-a-level-gce-computer-science-h046-h446-from-2015/delivery-guide/) online activity builder
+        * Online [SOW builder](https://www.ocr.org.uk/qualifications/as-a-level-gce-computer-science-h046-h446-from-2015/scheme-of-work-builder/builder)
+            * Statements (from spec), Activities (bag of), Notes
 * For Experienced Teacher
     * Project Time
         * Give all practical activities at beginning of year (more below)

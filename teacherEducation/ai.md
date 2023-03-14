@@ -3,6 +3,17 @@ AI in the classroom (30min)
 
 TODO:
 * [AI Won't Replace Teachers, but it will replace teachers who don't use AI.](https://www.linkedin.com/pulse/ai-wont-replace-teachers-who-dont-use-dan-fitzpatrick)
+* [How to learn to code FAST using ChatGPT (it's a game changer seriously)](https://www.youtube.com/watch?v=VznoKyh6AXs) YouTube 21min Tina Huang
+    * Talking to a 'knowledgeable person' but it's not good at understanding intent
+    * Use ChatGTP to make a "Study Plan" for you
+    * 'Prompt engineering'
+        * > Give me a study plan to learn python for data science, with resources and a timeline
+        * Using General 5W framework (Who, What, Where, Why) [05:21](https://www.youtube.com/watch?v=VznoKyh6AXs&t=321s)
+        * > Act as a coding tutor that creates study plans to help people learn to code. You will be provided with the goal of the student, their time commitment, and resource preferences. You will create a study plan with timelines and links to resources. Only include relevant resources because time is limited.  My first request - "I want to become a data scientist but I do not know how to code. I can study 10 hours per week and only want video resources. I want to learn to code in python. Create a study plan for me.
+    * Approach 'Breath first' - apply the things that you lean in a project - people learn, but never actually use the things that they learn - iterate on projects
+    * Ask ChatGPT to generate project ideas
+        * > Create a data analysis project based on the Naruto Anime
+        * Cleaning data (collapse duplicate names/nicknames)
 
 * Description
     * Introduction and ideas for AI in the classroom
