@@ -57,11 +57,13 @@ ACTIVITY:
         * `0300 123 2040` to report breach of details
     * [who-called.co.uk](https://who-called.co.uk/)
 * Community Reporting
-    * Fly tipping
+    * [Fly Tipping](https://www.canterbury.gov.uk/flytipping)
     * abandoned trollys
-    * dead swans
+    * [Report a dead or injured animal](https://www.gov.uk/report-dead-animal)
+        * [Dead swans](http://news.bbc.co.uk/cbbcnews/hi/newsid_4730000/newsid_4732600/4732666.stm)
     * bust watermain
-    * Tree route breaking pavement - disability
+    * Tree root breaking pavement - disability
+    * (See citizenship)
 * Diagnosis
     * [ukpowernetworks.co.uk/power-cut/map](https://www.ukpowernetworks.co.uk/power-cut/map)
 * Electoral role (edited register)
@@ -86,7 +88,8 @@ ACTIVITY:
 * Styles: Slide masters, TOCs + headings, headers/footers (not doc1 doc2 doc27)
 * Consider information source/bias
     * [Dihydrogen Monoxide](http://www.dhmo.org/facts.html)
-    * martinlutherking.org
+        * [Wikipedia: Dihydrogen monoxide parody](https://en.wikipedia.org/wiki/Dihydrogen_monoxide_parody)
+    * martinlutherking.org (removed?)
 * Understand factors for google search page rank
     * Your personal view (influenced by your search history profile)
         * My Dad "I type masts into google and my company is number one in the world!"
@@ -161,7 +164,7 @@ ACTIVITY:
 
 ### Other Digital Literacy lists, definitions and justifications
 
-* [South West Grid For Learning - Digital Literacy](https://digital-literacy.org.uk/curriculum-overview.aspx/#yr7)
+* DEAD? [South West Grid For Learning - Digital Literacy](https://digital-literacy.org.uk/curriculum-overview.aspx/#yr7)
 * [Barefoot: Search Technologies](https://www.barefootcomputing.org/concepts-and-approaches/search-technologies)
 * [Evaluating Digital Sources](https://www.library.georgetown.edu/tutorials/research-guides/evaluating-internet-content)
 * [Digital Literacies and Learning: Designing a Path Forward](https://www.fi.ncsu.edu/wp-content/uploads/2013/05/digital-literacies-and-learning.pdf) 2012 North Carolina State University College of Education
@@ -186,6 +189,7 @@ Regardless of subject, the skill is how to locate and use information.
 > the main approach has been to provide students with checklists they can use to assess the credibility of individual websites. 
 > However, the checklist approach is outdated. 
 > It would be far better to teach young people to follow the lead of professional fact-checkers: When confronted by a new and unfamiliar website, they begin by looking elsewhere on the web, searching for any information that might shed light on who created the site in question and for what purpose.
+* [dhmo.org - Dihydrogen Monoxide](https://www.dhmo.org/) - Dihydrogen Monoxide Research Division
 
 * [Google, the Stupidity Amplifier](http://www.gregegan.net/ESSAYS/GOOGLE/Google.html): Greg Egan is an Australian science fiction writer
 * [Trust of sources of Corona information](https://www.bbc.co.uk/news/technology-53050959)

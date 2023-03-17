@@ -1,8 +1,9 @@
 Computing Across the Curriculum
 ===============================
 
+
 TODO:
-* [Why a decade of knowledge-rich curriculum has not served pupils as promised](https://www.tes.com/magazine/analysis/general/why-decade-knowledge-rich-curriculum-has-not-served-pupils-promised)
+* TES [Why a decade of knowledge-rich curriculum has not served pupils as promised](https://www.tes.com/magazine/analysis/general/why-decade-knowledge-rich-curriculum-has-not-served-pupils-promised) 2022 (paywall)
     * > Ofsted's deep-dive investigation into subjects is to determine the extent of subject knowledge and whether the knowledge they find is substantive, disciplinary or inter-disciplinary. 
     * > If a primary pupil, having spent all afternoon painting a picture of a Roman soldier, neither improved in painting nor knew more about Roman soldiers, was it time well spent?
     * > A secondary pupil measuring personal performance in PE might be making little progress in mathematics skills nor getting fitter. 
@@ -14,9 +15,16 @@ TODO:
     * [Amazon: Computer Science in K-12: An A-To-Z Handbook on Teaching Programming Paperback – 15 Jun. 2020](https://www.amazon.co.uk/Computer-Science-K-12-Z-Programming/dp/1734662700/) (color - there is a cheaper black and white version)
     * [Chapter 9?](https://www.shuchigrover.com/atozk12cs/table-of-contents/) Integrating Programming in Other Subjects
     * [Integrating Computing in School Subjects: A Conceptual Framework for Design and Analysis](https://www.shuchigrover.com/integrating-computing-in-school-subjects-a-conceptual-framework-for-design-and-analysis/) 2020
-* [KS3 THE EPISTEMIC INSIGHT FRAMEWORK CCCU](http://www.epistemicinsight.com/wp-content/uploads/2017/06/epistemic-insight-for-KS3-July19.pdf)
-    * Scholarly words: ‘knowledge’, ‘methods’, ‘data’ or ‘evidence’, and words such as these appear across multiple subjects and indeed are  inherent to a range of disciplines.
 
+
+Starter (10min)
+-------
+
+* Starter
+    * What do we mean by "Broad and Balanced Curriculum"?
+        * Broad?
+        * Balanced? 
+        * Curriculum?
 
 
 Objectives
@@ -35,22 +43,22 @@ Consider the semantic difference between "A Computing teacher" and "A teacher th
 * How do you lead learning?
 * (Echo back to) What is a Teacher?
 
+* Tom Sherrington [Every child should (have the opportunity to.. )](https://twitter.com/teacherhead/status/1527560224294547456) 2022
+    * Grow a bean
+    * Sing
+    * Poot insects in long grass
+    * Go to the Museum
+    * Track the moon 
+    * Make a motor
+    * Inflate a sheep's lung!
+    * Read novels (x 100!)
+    * Make a fire
+    * See mountains and the sea
+    * Recite a poem
+    * Give a speech to a real audience
+    * ...and ..
 * [Bigger…Broader…Wider…](https://smithsmm.wordpress.com/2016/12/28/bigger-broader-wider/)
     * have a water fight, climb a tree
-* Tom Sherrington [Every child should (have the opportunity to.. )](https://twitter.com/teacherhead/status/1527560224294547456)
-    * Grow a bean
-Sing
-Poot insects in long grass
-Go to the Museum
-Track the moon 
-Make a motor
-Inflate a sheep's lung!
-Read novels (x 100!)
-Make a fire
-See mountains and the sea
-Recite a poem
-Give a speech to a real audience
-...and ..
 
 
 ### ITT Core Framework
@@ -95,21 +103,41 @@ Ofsted, Inspections and Computing
 * [Ofsted Computing Inspection Criteria](https://onefourseven.org.uk/blog/ofsted-on-computing-update/) 2014
 * [Ofsted Assessing Computing](https://www.softegg.co.uk/blog/ofsted-inspecting-the-computing-curriculum) 2014
 
+### (Current?) Computing Inspection
+* [Ofsted: How to prepare for a computing Deep Dive](https://blog.teachcomputing.org/ofsted/) 2022 
+    * Marc White, HMI Inspector for Ofsted and subject lead for computing
+    * > The computing curriculum is really rich in knowledge and should not be so narrow that teachers only teach what’s to be assessed - it should be broader than that.
+    * > However, it should not be broadened to such an extent that it becomes a range of experiences and activities which detract from the learning outcomes as identified in the curriculum. What is important is that it is appropriate to the curriculum, is well-sequenced and that key content has been remembered.
+* [Computing curriculum | Webinar from the East of England region](https://www.youtube.com/watch?v=C7ZfA0FJCq8) YouTube 22min
+
+* from 'Computing Inspection Aide memoire' PDF
+    * opportunity (time) to implement solutions through practical programming
+    * Two programming languages(one textual)/data structures/function
+    * Is there an over-reliance on online courses to teach programming?
+    * Does the school over-use ‘unplugged’ activities which create unnecessary abstractions of subject content, increase cognitive load and take up curriculum time?
+
 ### Education inspection framework (30min)
-* [Education inspection framework](https://www.gov.uk/government/collections/education-inspection-framework?#guidance-for-education-providers)
+* [Education inspection framework (EIF)](https://www.gov.uk/government/collections/education-inspection-framework?#guidance-for-education-providers)
     * [school-inspection-handbook](https://www.gov.uk/government/publications/school-inspection-handbook-eif/school-inspection-handbook)
-        * TASK: Subjects are not (really) mentioned. What else is in here? "Broad and Balanced"? (15min)(10min discussion)
+        * TASK: using school-inspection-handbook investigate points
+            * 206 + 207 + 208 + 214 + 223
+        * Prepare a set of interesting quotes from the above points
+        * Questions:
+            * What does 'Inspection Framework' mean for your practice?
+            * Is computing mentioned in the EIF?
+            * Where is computing in the [EBacc](https://www.gov.uk/government/publications/english-baccalaureate-ebacc/english-baccalaureate-ebacc)
 
 <details>
 
-* > We will judge schools taking radically different approaches to the curriculum fairly. We recognise the importance of schools’ autonomy to choose their own curriculum approaches. 
+* > 206: In key stages 2 and 3, schools need to provide a broad, rich curriculum. Our research into the curriculum shows that these stages are particularly susceptible to a narrow curriculum, and that this has a disproportionately negative effect on the most disadvantaged pupils.
+* > 223: We will judge schools taking radically different approaches to the curriculum fairly. We recognise the importance of schools’ autonomy to choose their own curriculum approaches.
+* > 214 has rigour, where relevant, so that pupils learn the knowledge that they need to answer subject-specific questions and to gain disciplinary knowledge of how the subject works (this should not prevent a topic-based or thematic approach, however)
 * Curriculum narrowing
     * > Our research has shown that some schools narrow the curriculum available to pupils, particularly in key stages 2 and 3.
-
-* [Is this the best way to teach Stem?](https://www.tes.com/magazine/teaching-learning/secondary/best-way-teach-stem) - Linking Stem lessons to real-world activities has been transformational for this multi-academy trust, finds Dan Worth
-    * > "The combination of practical, hands-on and creative activities with meeting real-world scientists gave the students a taste of how exciting and fulfilling a life of science can be,"
-
 </details>
+
+* TES [Is this the best way to teach Stem?](https://www.tes.com/magazine/teaching-learning/secondary/best-way-teach-stem) 2022 - Linking Stem lessons to real-world activities has been transformational for this multi-academy trust, finds Dan Worth
+    * > "The combination of practical, hands-on and creative activities with meeting real-world scientists gave the students a taste of how exciting and fulfilling a life of science can be,"
 
 ### Computing Quality Framework (30min)
 * [Computing Quality Framework](https://computingqualityframework.org/) [[computing_quality_framework]]
@@ -143,16 +171,17 @@ Computing Across the Curriculum - Ideas
 Other Subjects (exploration) (30min)
 --------------
 
-* Consider Other Subject Curricumms in your context
+* Consider Other Subject Curriculums in your context
 * e.g. [National Curriculum in England: All subjects](https://www.gov.uk/search/guidance-and-regulation?parent=/education/gcse-subject-content-and-requirements&keywords=National%20curriculum%20in%20England&topic=e8f17408-2d81-468f-aad8-7486a05cd0bf&order=relevance)
     * Purpose of study
         * > A high-quality XXX education provides ...
 * What are some of the things the other subjects are aiming for?
-    * Read the opening paragraphs of a range of other subjects
-    * TASK1: Find a collection of quotes to share (15min)
+    * Read the KS3 curriculms for other subjects ('opening paragraphs' (purpose) and 'subject content' sections)
+    * TASK1: Divide and conquer - as a class - divide subjects between you - Write down some tasty quotes/points (15min)
     * TASK2: Relay to group (10min)
 
 <details>
+<summary>My notes: unfinished</summary>
 
 TODO
 * Art
@@ -216,33 +245,46 @@ Can you help other practitioners include these words explicitly in their lessons
     * making judgement
 
 
-Planning cross curricular
+Planning cross curricular? (15min)
 -------------------------
 
 (First ideas - taking subjects discreetly)
 
 * How can it be done? Possible options:
-    * Discreet Computing lessons reference other subsect areas
+    * Method 1: Discreet Computing lessons reference other subsect areas
         * You using your creativity
         * You invite other subject specialists to be involved in Computing planning
-    * Other subject lessons reference Computing concepts
+    * Method 2: Other subject lessons reference Computing concepts
         * As a computing specialist you are involved/consulted in other subjects planning
-        * BROKEN 2023 [English: making links with the Computing curriculum](https://www.somerset.org.uk/sites/edtech/Primary%20Computing/Computing%20across%20curriculum/English%20and%20computing.pdf)
-            * > Decomposition is used to analyse sentence construction including the recognition of a clause, conjunctions, adverbs and prepositions.
-                * See `grammar.py` example later
-        * TODO: I want more examples - if you find any, let me know
-    * Integrated curriculum - there are no subjects
+        * Example
+            * [English: making links with the Computing curriculum](https://nanopdf.com/download/english-and-computing-somerset-learning-platform_pdf)
+                * > Decomposition is used to analyse sentence construction including the recognition of a clause, conjunctions, adverbs and prepositions.
+                    * See `grammar.py` example later
+            * TODO: I want more examples - if you find any, let me know
+        * QUESTION: Is this practical? That all other teachers include Computing concepts in their curriculums?
+        * ACTION:
+            * Don't wait for leadership to tell you what to do - Get involved with other subjects teachers! - Meet them for coffee talk about their curriculums
+    * Method 3: Integrated curriculum - there are no subjects
+        * Every task is thematic and taught by multiple teachers (like primary school)
+        * [Blending Content Areas Through Problem-Based Learning](https://www.csforallteachers.org/index.php/blog/blending-content-areas-through-problem-based-learning) CSForAll 2021 Lisa Rode
+            * (3min tiny snappy article)
+            * > is problem-based learning (PBL). This allows not only for students to take more ownership of their learning, but to blend together multiple subject areas. 
+            * One strategy for teachers when planning for PBL the idea of backwards design.
+                * Stage 1: Identify Desired Results
+                    * What should students be able to do? What are the essential concepts that students should understand by the end of the unit? What are the “priority learnings?”
+                * Stage 2: Determine Acceptable Evidence
+                    * How do you know if students have achieved the learning goals? How will you assess student understanding?
+                * Stage 3: Plan Learning Experiences and Instruction
+                    * With the essential concepts and assessment in mind, what strategies or lessons will be used during instruction? What will the flow of lessons be? What resources will be used? “What will count as evidence on the field, not merely in drills, that they really get it and are ready to perform with understanding, knowledge, and skill on their own?”
 
-Don't wait for leadership to tell you what to do.
-Get involved with other subjects teachers!
+QUESTION: Are any of these methods satisfactory? (Discuss)
 
 
 Model: Example Cross Curricular Lesson (lecture 30min)
 -------------------------------
 
-I am going to describe a cross curricular lesson I have run in the past. 
-
-Remote/Covid: Sadly, this lesson looses all it's impact without being able to physically hand out anaglyph glass's. Please imagine what it might actually look like.
+I am going to describe a cross curricular lesson I have run in the past.
+Epistemic insight: Big Questions
 
 * [3d_image](../3d_image/README.md) workshop
     * [anaglyph](../3d_image/anaglyph.md)
@@ -258,7 +300,7 @@ Remote/Covid: Sadly, this lesson looses all it's impact without being able to ph
         * `-scopic` adjective of nouns ending in `scope` -> denoting an instrument for observing, viewing, or examining. -> from modern Latin `-scopium`, from Greek `skopein` ‘look at’
 * History
     * What technology has historicity been used to get a separate image to each eye. (see links in 3d_image)
-        * Side by side photos, Viewmaster, sterograms
+        * ![Side by side photos](https://content.instructables.com/FUI/9R5V/HFPTIJ7V/FUI9R5VHFPTIJ7V.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=7949d2537568864f3a193c031d292ded), [Viewmaster](https://www.google.com/search?q=vintage+viewmaster&tbm=isch), sterograms
 * Physics
     * (alternatives: polarisation, active shutter)
     * Light filters -> Analyph
@@ -267,22 +309,33 @@ Remote/Covid: Sadly, this lesson looses all it's impact without being able to ph
     * [Fliker: Anaglyphic 3D Group](https://www.flickr.com/groups/365182@N21/pool/)
         * [History post 2D->3D conversion example](https://www.flickr.com/photos/50183486@N04/7025156057/in/pool-365182@N21/)
     * [Fliker: Stereo](https://www.flickr.com/photos/15693951@N00/albums/72157602843553105) post3d historical photos
-* ICT - Image Manipulation
-    * Hands on with Dinosaur/tardis (i lost these legendary images)
+* ICT - Image Manipulation (hands on)
+    * Hands on with Dinosaur/tardis (I weep: I lost these legendary images)
+    * guide [anaglyph_gimp.md](../3d_image/anaglyph_gimp.md)
+        * Source [How to make 3D images with GIMP](http://strakul.blogspot.co.uk/2012/03/how-to-make-3d-images-with-gimp.html)
     * Extension: Take your own!!!!
-    * [How to make 3D images with GIMP](http://strakul.blogspot.co.uk/2012/03/how-to-make-3d-images-with-gimp.html)
 * Computing - Automation
-    * RGB Pixels
-    * Layer mode
-        * Algorithms (for each pixel)
-        * [Gimp Layer Modes](https://docs.gimp.org/en/gimp-concepts-layer-modes.html#layer-mode-multiply)
     * How long did it take you to do one image? what about ten? what about about 100? what about 10,000?
-        * ![homemade 3d camera](https://calaldees.uk/responsive_portfolio_assets/images/projects/3d_camera.jpg)
+    * ![homemade 3d camera](https://calaldees.uk/responsive_portfolio_assets/images/projects/3d_camera.jpg)
+    * RGB Pixels
+        * Layer mode
+            * Algorithms (for each pixel)
+            * [Gimp Layer Modes](https://docs.gimp.org/en/gimp-concepts-layer-modes.html#layer-mode-multiply)
     * [Python anaglyph + video](https://github.com/calaldees/TeachProgramming/tree/master/teachprogramming/static/projects/other/anaglyph)
+    * MDN [CanvasRenderingContext2D.globalCompositeOperation](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/globalCompositeOperation) HTML5/Canvas code?
+        * TODO: construct an example
 * Art
     * Create own abstract worlds (fractals animation)
     * [3D Fractal](https://www.youtube.com/watch?v=bklMh5NjewI)
-* Let's go into space
+* Let's go into space or skydive
+    * (see links in anaglyph.md)
+* How do we experience the world?
+
+
+### Summary: EPISTEMIC INSIGHT FRAMEWORK
+
+* [KS3 THE EPISTEMIC INSIGHT FRAMEWORK CCCU](http://www.epistemicinsight.com/wp-content/uploads/2017/06/epistemic-insight-for-KS3-July19.pdf) 2019
+    * > Scholarly words: ‘knowledge’, ‘methods’, ‘data’ or ‘evidence’, and words such as these appear across multiple subjects and indeed are  inherent to a range of disciplines.
 
 
 Sidenote: We should be fostering creativity
@@ -297,12 +350,12 @@ We sometimes steamroller this in striving for our examinable/measurable grades.
 
 * [[creativity]]
 
-TODO:
-[Blending Content Areas Through Problem-Based Learning](https://www.csforallteachers.org/index.php/blog/blending-content-areas-through-problem-based-learning)
 
 
 Group Task: Design a Cross curricular Lesson (1 hour)
 --------------------------------------------
+
+(OMEGA HARD TASK!!)
 
 * As an individual (30min)
     * Create a set of bullet points (like my example above) for a lesson/topic that can touch as many other subjects as possible.
@@ -315,6 +368,7 @@ Group Task: Design a Cross curricular Lesson (1 hour)
             * Community/Society/Law/Citizenship/Environment/MinorityGroups?
             * Computing reference?
         * Play Crossover subject/discipline bingo! How many genuine cross curricular links can you find?
+            * Refer to the curriculums of other subjects
         * Two possibilities
             * Breath? (create multiple small lessons that touch a few disciplines)
             * Depth? (create a single topic that touches as many disciplines as possible)
@@ -328,7 +382,6 @@ Group Task: Design a Cross curricular Lesson (1 hour)
 
 Computing Across The Curriculum (1 hour)
 -------------------------------
-
 
 TODO:
 * [CodeHSCoding Exploration SyllabusMini Course (40 Contact Hours)](https://codehs.com/course/5194/overview) [sylibus](https://codehs.com/uploads/0af7654eb54e711b44fb039503eecead)
@@ -540,6 +593,7 @@ Timeboxed? One hour? I could go all day
     * English Grammar
         * [grammar.py](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/data/grammar.py)
     * Language detection (by letter frequency)
+        * [langauge_frequeny.py](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/data/langauge_frequeny.py)
     * Insult generator
     * Phonetic Name Generator
         * [Generating Names Phonetically](https://www.flipcode.com/archives/Generating_Names_Phonetically.shtml)
@@ -552,6 +606,7 @@ Timeboxed? One hour? I could go all day
     * social patterns - statistics? datasets?
     * [XKCD Color Survey Results](https://blog.xkcd.com/2010/05/03/color-survey-results/)
         * 84mb SQL file for download
+        * (way cooler for students to collect that date themselves)
 * Psychology
     * [Human Computer Interaction Psychology](https://www.amazon.co.uk/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=Handbook+of+Human-computer+Interaction)
     * [Valve Jobs](https://www.valvesoftware.com/el/?job_cat=data-science)
@@ -579,9 +634,9 @@ Timeboxed? One hour? I could go all day
     * 3d modelling -> 3d printing
     * https://woodgears.ca/
     * Create [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics#Example) with code? Badge/Ticket example?
-        * Edit and SVG as a text file - Like mail-merge, but with SVG's + regex)
+        * Edit and SVG as a text file - Like mail-merge, but with SVG's + regex
             1. Load [Inkscape](https://inkscape.org/)
-            2. Draw a square and some text (with different colours)
+            2. Draw a square and add some text (with different colours)
             3. Save as SVG
             4. Load up SVG in a text editor
             5. Edit the SVG text + colours
@@ -733,23 +788,25 @@ Not directly related to an existing established school subject.
             * Napoleon map (Minard)
             * pre-attentive visual attributes
                 * Length, width, orientation, size, enclosure, color intensity, color hue, curvature, shape, spatial grouping, 2d position
-    * (they can visualise it with crayons if they want)
+    * (they can manifest visualiseations of data with crayons if they want - but we need data)
     * What can you say with data?
         * [informationisbeautiful.net/beautifulnews](https://informationisbeautiful.net/beautifulnews/)
         * Bruises you don't see
 * [[Simulation]] and Modeling
     * [simulation.md](https://github.com/ComputingTeachers/mapOfComputing/blob/main/computing/simulation.md)
 * Automation
-    * > When I leave home, automatically text my friend to say "I'm on my way"
-    * > When 'xxx' site updates with the text 'tickets' text me
+    * [iDEA Automation](https://idea.org.uk/badge/automation)
+        * > When I leave home, automatically text my friend to say "I'm on my way"
+        * > When 'xxx' site updates with the text 'tickets' text me
 
 
 Read resources Async (15min)
 --------------
 
 * Async Skim Read (15min)
+    * [The Ultimate Python Seaborn Tutorial: Gotta Catch ‘Em All](https://elitedatascience.com/python-seaborn-tutorial) 2022
+        * > In this step-by-step Python Seaborn tutorial, you’ll learn how to use one of Python’s most convenient libraries for data visualization.
     * [Girls-Who-Code-At-Home-Depicting-Data.pdf](https://girlswhocode.com/assets/downloads/craft-prod/downloads/Girls-Who-Code-At-Home-Depicting-Data.pdf)
-    * [The Ultimate Python Seaborn Tutorial: Gotta Catch ‘Em All](https://elitedatascience.com/python-seaborn-tutorial)
 
 
 Explore and find dataset(s) for teaching (Async 1 hour)
@@ -820,6 +877,7 @@ TODO: This needs to be moved
     * [repl.it/languages/python_turtle](https://repl.it/languages/python_turtle)
         * [example](https://repl.it/@arthyha/Python-Turtle-Example#main.py)
 
+<details>
 
 ```python
 import turtle  # https://docs.python.org/3.3/library/turtle.html
@@ -875,6 +933,7 @@ def circle_test():
 breakpoint()  # If using <python3.7: import pdb ; pdb.set_trace()
 
 ```
+</details>
 
 * Draw a 
     * Training

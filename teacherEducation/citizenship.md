@@ -2,7 +2,7 @@ Citizenship
 ===========
 
 TODO
-* DfE [Sustainability and climate change strategy](https://www.gov.uk/government/publications/sustainability-and-climate-change-strategy)
+* DfE [Sustainability and climate change strategy](https://www.gov.uk/government/publications/sustainability-and-climate-change-strategy) 2022
     * > The Department for Education’s strategy for sustainability and climate change for the education and children’s services systems.
 
 
@@ -90,7 +90,7 @@ TODO: 'TL;DR' - whats that? - out of touch in your ivory tower
 
 * Try to be aware of the language the youth in your school are using. It could be important for you spotting abuse or intimidation.
     * Most of the time the students LOVE talking about this to teachers. They love the reversal of knowing something more than the teacher. These are good lunchtime conversations.
-    * [Teacher keeps a list of ‘Generation Z’ slang words and honestly, we stan](https://metro.co.uk/2019/05/05/teacher-keeps-a-list-of-generation-z-slang-words-and-honestly-we-stan-9415694/)
+    * [Teacher keeps a list of ‘Generation Z’ slang words and honestly, we stan](https://metro.co.uk/2019/05/05/teacher-keeps-a-list-of-generation-z-slang-words-and-honestly-we-stan-9415694/) 2019
 * [Youthsplaining: What the Hell Is a Simp? Are You a Simp?](https://www.insidehook.com/article/internet/what-is-a-simp)
 * Woke
 * Beta
@@ -109,6 +109,9 @@ Unsorted
 
 * [William Lau](https://twitter.com/MrLauLearning/status/1476202784907309067)
     * > Media Studies Teachers: What better way to teach your students about IPSO and regulatory bodies than starting off the year by logging a complaint. It literally takes 3-5mins so can be done as a lesson starter or plenary. 
+    * See tweet for images of complaint raised
+    * [Independent Press Standards Organisation](https://www.ipso.co.uk/) - IPSO is the independent regulator of most of the UK’s newspapers and magazines.
+        * [Editors Code](https://www.ipso.co.uk/editors-code-of-practice/)
 
 ### Other
 
@@ -185,11 +188,13 @@ Class write a letter
 
 ### Civic responsibility to report
 * Harm to Animals
-    * [Report a dead or injured animal ](https://www.gov.uk/report-dead-animal)
+    * [Report a dead or injured animal](https://www.gov.uk/report-dead-animal)
     * [Dead swans](http://news.bbc.co.uk/cbbcnews/hi/newsid_4730000/newsid_4732600/4732666.stm)
 * Odd behaviour
+* Report to [Independent Press Standards Organisation](https://www.ipso.co.uk/) - hold the press to account. false claims, misleading and poorly presented publications. [Editors code](https://www.ipso.co.uk/editors-code-of-practice/)
 * [Fly Tipping](https://www.canterbury.gov.uk/flytipping)
-
+* [Tweet: Martin Ellis](https://twitter.com/egelmex/status/1634945343942189057)
+    * > Tried to report some two motorbikes I found to @kent_police, the system is pretty impossible to use on mobile phone, the map to select location isn't designed for phone. It also doesn't seem to have a workflow for "i found some stolen/damaged stuff you should probably know about"
 * Locating things with [What3Words](https://en.wikipedia.org/wiki/What3words)
     * Good: Used without internet, prevent transcription errors
     * Bad: No open source (patent), words are not neutral (numbers are)

@@ -61,8 +61,8 @@ Readings
 
 
 
-Key Spotlight Questions
------------------------
+Spotlight Questions
+-------------------
 1. Who are we?
 2. How do you learn how to teach?
 3. What is a teacher?

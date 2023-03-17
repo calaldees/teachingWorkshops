@@ -8,7 +8,7 @@ How to create red/cyan 3D images with GIMP
     * Window -> Single-Window Mode
     * File -> Open as Layers
 
-## Layers
+## Layers (Summary)
 * Right (Group) [Mode: Screen] {link}
     * Cyan [Mode: Multiply] {link}
     * Right.jpg {move to calibrate}

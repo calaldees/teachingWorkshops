@@ -1,6 +1,15 @@
 What is Computing
 =================
 
+* [Computing in English schools](http://milesberry.net/2017/01/computing-in-english-schools/) 2017 - Miles Berry
+    * A convincing argument for Computing
+        * Children’s inherent curiosity in the world around them
+        * Computer science as part of scientific understanding
+        * Economic benefits
+        * Preparation for an uncertain future
+        * As part of a rounded, liberal education.
+    * Program or be programmed
+
 * Reading time (30min)
     * Computing in the curriculum has been criticized for not being relevant for all students
     * We will draw upon these in our afternoon session (keep this room as a 'quiet reading space' over lunch)

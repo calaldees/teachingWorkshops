@@ -117,3 +117,6 @@ Founder of Coding Black Females
     * [Inclusive learning checklist](https://www.iop.org/sites/default/files/2019-06/Improving-gender-balance-inclusive-checklist.pdf) pdf
 
 * CS4FN [Tag: Women in Computing](https://cs4fn.blog/tag/women-in-computing/)
+
+* [Rebecca Heineman - Developer & Co-Founder of Interplay | Retro Tea Break ](https://www.youtube.com/watch?v=lPTLPXNtb2I) YouTube 2hour
+    * Mexican
