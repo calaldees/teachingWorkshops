@@ -1,8 +1,8 @@
 Pre-Course Activities
 =====================
 
-An introduction to the PGCE Secondary/7-14/School Direct 
- Programme in Computer Science 2022-23
+An introduction to the PGCE Secondary/School Direct 
+ Programme in Computer Science 2023-24
 
 Dear Colleague,
 
@@ -21,22 +21,37 @@ If you do engage with the activities, then you might want to collate some reflec
 but, again, this is not a requirement.
 It would however help you get into the habit of undertaking professional reflection which will be key to your success next year.
 
+The very warmest ‘welcome’ to your new profession!
+
+ 
+Allan Callaghan 
+(Subject Tutor for Secondary Computing at Canterbury Christ Church University)
+
+
 
 Visit a Secondary School
 ------------------------
 
 * This cannot be mandated, but it is _highly_ recommended that you shadow a Computing teacher in a secondary school for at least a day.
-* We can put you in touch with mentors from schools we work and assist you with setting up visits.
+* Arrange a school visit:
+    * Option 1: Get in touch with a local school directly
+    * Option 2: Use https://schoolexperience.education.gov.uk/
+    * Option 3: Speak to us and we can put you in touch with mentors from schools we work and assist you with setting up visits
 * Kent has a unique context because 50% of schools are grammar schools. It is advisable to visit both a grammar school and a non-selective school.
 
 
-Enrol on NCCE CS Accelerator
-------------
+Actions
+-------
 
-* Register for [NCCE courses](https://teachcomputing.org/courses)/CS-Accelerator-Programme 
-* accrue a [bursary](https://teachcomputing.org/bursary) (for all trainee teachers)
-* Build evidence for subject knowledge development for portfolio
-* Understand what is on the curriculum
+* https://teachcomputing.org/courses
+    * Register for 'National Centre for Computing Education' (NCCE) CS-Accelerator-Programme https://teachcomputing.org/courses
+        * Accrue professional certifications and a bursary for when you begin employment
+    * Build evidence for subject knowledge development for your ePortfolio (this will significantly help your evidence for your ePortfolio if you can start to undertake this now)
+    * Understand what is on the UK Computing curriculum
+* https://helloworld.raspberrypi.org/
+    * Subscribe to HelloWorld magazine (free)
+* Investigate and join a [Teachers' trade union](https://en.wikipedia.org/wiki/Teachers%27_trade_unions_in_the_United_Kingdom)
+    * This is generally free on your training year
 
 
 General Information and Pre Reading
@@ -51,6 +66,7 @@ General Information and Pre Reading
     * [Raspberry Pi Foundation](https://www.raspberrypi.org/)
         * [HelloWorld](https://helloworld.raspberrypi.org/) Computing Pedagogy Magazine (subscribe to physical magazine for free)
             * [online articles](https://helloworld.raspberrypi.org/articles)
+        * https://computingeducationresearch.org/
     * [Technology, Pedagogy & Education Association (TEPA)](https://tpea.ac.uk/)
         * The voice of digital technology and computing in education
         * CPD, research, best practice
@@ -69,7 +85,6 @@ General Information and Pre Reading
     * [National curriculum in England: computing programmes of study](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study)
     * [Ofsted annual report](https://www.gov.uk/government/collections/ofsted-annual-reports)
     * Ofsted [Research review series: computing](https://www.gov.uk/government/publications/research-review-series-computing/research-review-series-computing) May 2022
-    * [AQA GCSE Computing Specification](https://filestore.aqa.org.uk/resources/computing/specifications/AQA-8520-SP-2016.PDF)
     * [OCR: Computing Qualifications](https://www.ocr.org.uk/Images/268867-computing-qualifications-summary-brochure.pdf) Summary Brochure od types of qualifications
     * [Handbook for Education Professionals: Bristol Guide](http://bristol.ac.uk/education/expertiseandresources/bristolguide/) £9
         * Succinctly outlines education professionals’ duties, legal responsibilities, and rights.  This includes data protection, safeguarding and equality.
@@ -81,23 +96,25 @@ General Information and Pre Reading
             * [An Introduction to Learning Theories.: 15 of the most influential learning theories, simplified and explained](https://www.amazon.co.uk/gp/product/B084QDNWVJ/)
         * [lumenlearning.com/educationalpsychology](https://courses.lumenlearning.com/educationalpsychology/)
             * [Major theories and models of learning](https://courses.lumenlearning.com/educationalpsychology/chapter/major-theories-and-models-of-learning/)
-* eBooks
+* Computing eBooks (free)
     * [Teaching Tech Together: How to create and deliver lessons that work and build a teaching community around them](https://teachtogether.tech/) 2019 Greg Wilson
         * Outstanding Computing pedagogical advice
         * Free eBook or [paperback](https://www.routledge.com/Teaching-Tech-Together-How-to-Make-Your-Lessons-Work-and-Build-a-Teaching/Wilson/p/book/9780367352974)
-    * [Hello World — Issue 0](https://helloworld.raspberrypi.org/issues/0) - The Big Book of Computing Pedagogy 2021
+    * [How to teach Computer Science](https://httcs.online/)
+        * Short snappy book that describes the computing curriculum and relates it to PCK
+        * print copy available - July 2021 £12
+    * [Hello World — Issue 0](https://helloworld.raspberrypi.org/books) - The Big Book of Computing Pedagogy 2021
         * Subscribe to magazine delivery for free
-* Books
+* Computing Teaching Books
+    * [Computer Science Education: Perspectives on Teaching and Learning in School 2nd Edition](https://www.bloomsbury.com/uk/computer-science-education-9781350296909/) Sue Sentence 2023
+        * Researched backed targeted perspectives for teaching Computing
+    * [Mindstorms (Revised): Children, Computers, And Powerful Ideas](https://www.amazon.co.uk/Mindstorms-Revised-Children-Computers-Powerful/dp/1541675126/) Seymour Papert 1980, (2nd edition) 1993, Republished 2020
+        * Seminal text that formed the basis of much of the principles of modern Computing education
+    * [Computer Science K-12: Imagining the possibilities!: Bringing creative and innovative Computer Science to your school](https://www.amazon.co.uk/Computer-Science-K-12-possibilities-innovative/dp/1986171817/) Doug Bergman 2018
+        * Immensely creative ideas for Computing from the United States context
+* General Teaching Books
     * [What If Everything You Knew About Education Was Wrong?](https://www.amazon.co.uk/Everything-About-Education-Wrong-Paperback/dp/1785831577/) David Didau 2016
         * Excellent criticality. Demystifying our traditional approaches to teaching and learning and why they might be wrong
-    * [How to Teach Computer Science: Parable, practice and pedagogy](https://www.amazon.co.uk/How-Teach-Computer-Science-practice/dp/1913622576/) Alan Harrison July 2021 £12
-        * Short snappy book that describes the computing curriculum and relates it to PCK
-    * [Computer Science Education: Perspectives on Teaching and Learning in School](https://www.amazon.co.uk/Computer-Science-Education-Erik-Barendsen/dp/135005710X/) Sue Sentence 2018
-        * Targeted perspectives for teaching Computing
-    * [Mindstorms (Revised): Children, Computers, And Powerful Ideas](https://www.amazon.co.uk/Mindstorms-Revised-Children-Computers-Powerful/dp/1541675126/) Seymour Papert 1980, (2nd edition) 1993, Republished 2020
-        * A classic that formed the basis of much of the principles of Computing education
-    * [Computer Science K-12: Imagining the possibilities!: Bringing creative and innovative Computer Science to your school](https://www.amazon.co.uk/Computer-Science-K-12-possibilities-innovative/dp/1986171817/) Doug Bergman 2018
-        * Immensely creative ideas for Computing from the US
     * [Learning to Teach in the Secondary School: A Companion to School Experience](https://www.amazon.co.uk/Learning-Teach-Secondary-School-Experience/dp/1032062290/) 9th edition 2022
         * General secondary teaching book
 * Subject Knowledge Development
@@ -106,8 +123,8 @@ General Information and Pre Reading
 * Computing Teaching Resources
     * [AQA AS and A Level Computer Science](https://www.amazon.co.uk/AQA-AS-Level-Computer-Science/dp/1910523070/) PM Heathcoat
         * Good A-Level reference
-    * [Craig and Dave](https://craigndave.org/)
-    * [Microbit](https://microbit.org/)
+    * [Craig and Dave](https://craigndave.org/) - a well constructed online course used by schools
+    * [Microbit](https://microbit.org/) - Buy one and play with it
 * News Sources
     * [News and communications: Department for Education](https://www.gov.uk/search/news-and-communications?organisations%5B%5D=department-for-education)
     * [BBC News: Education](http://www.bbc.co.uk/news/education/)
@@ -123,7 +140,6 @@ General Information and Pre Reading
     * [UWE Bristol: Secondary PGCE pre-course information Computer Science](https://www2.uwe.ac.uk/services/Marketing/students/NewStudents%202017%20onwards/PGCE%20Computer%20Science.pdf)
 
 
-
 Your Computing Skills
 ---------------------
 
@@ -131,14 +147,17 @@ Your Computing Skills
     * Once the course starts your time will be significantly limited
 * You've all done a subject knowledge audit with your application. This document will be reworked before September. We will track your subject knowledge development.
 
-Suggested activities
+### Suggested Activities
 
 * Complete a GCSE Paper
-    * [AQA GCSE Computer Science](https://www.aqa.org.uk/subjects/computer-science-and-it/gcse/computer-science-8520)
-        * Do Paper 1 + Paper 2 (from a cold start)
+    * [AQA GCSE Computer Science](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517)
+        * Do Paper 1 (Part A + B) + Paper 2 (from a cold start)
         * Mark your answers with the mark scheme
-        * [Paper 1: Specimen question paper](https://filestore.aqa.org.uk/resources/computing/AQA-85201-SQP.PDF)
-        * [Paper 1: Specimen mark scheme](https://filestore.aqa.org.uk/resources/computing/AQA-85201-SMS.PDF)
+        * [Question paper (AS): Paper 1 - November 2020](https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-75161-QP-NOV20.PDF)
+        * [Mark scheme (AS): Paper 1 - November 2020](https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2020/november/AQA-75161-W-MS-NOV20.PDF)
+* Digital Literacy
+    * [iDEA](https://idea.org.uk/) - Online courses and badges for a wide range of Computing concepts
+        * Award winning site! Try the "Data Visualisation" badge to get a feel for the concept
 * Have access to multiple programming languages
     * Create _Hello World_ in a couple of languages
     * Heavily used
@@ -146,7 +165,7 @@ Suggested activities
         * [Scratch](https://scratch.mit.edu/)
     * Other suggestions
         * [Visual Studio Community: Visual Basic or C#](https://visualstudio.microsoft.com/vs/community/)
-        * [Java](https://adoptopenjdk.net/).
+        * [Java](https://adoptopenjdk.net/)
         * Other (I don't mind)
     * [replit](https://replit.com/)
         * Browser based instant collaborative development environment for a large variety of languages.

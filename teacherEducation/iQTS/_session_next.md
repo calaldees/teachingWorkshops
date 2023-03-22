@@ -20,3 +20,16 @@
         * Early targets are VERY different from solo teaching at the end of the course
 * John-Paul
     * Video pedagogy
+
+* How 
+
+* Update mentor weekley foci to match subject curriculum
+* Students use the readings!!! Make them subject specific - put them in weekley SP sessions (should have) - GIVE THEM A READING!!
+    * Essesntial reading + suggested reading
+
+* Give MENTORS something before a mentor session to facilitate discussion - 10min reading in the session (short ones? abstracts?)
+    * raise a red flag for mentors that are not interested in research
+
+Every lesson ending
+* Action points (in ePortfolio)
+* Spotlight questions Bingo!

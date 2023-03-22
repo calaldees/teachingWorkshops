@@ -2,9 +2,16 @@ Session
 =======
 
 * uniformity - consitency
-* examples
+* Examples!!!
 * Why pick those examples/topics/segments - why vita peices
 * What flagship examples
+
+
+* Ambitious ITE Curriculum
+* Purposeful integration ITE curriculum
+* High quality mentoring
+* Quality assurance and evaluation
+
 
 
 * Vocabulary
@@ -148,3 +155,27 @@ Bulletin (mentors and students) key readings
 * GCSE with Barton Court 
 * Outreach work with Department of Computing (practical activities), STEM Hub days - AI in curriculum
 * Upcoming ChatGTP to plan lessons and scrutinise them - how students can harness this technology
+
+
+How do you know your mentors are good
+* Trainee feedback SPEF
+* Visits + early imrpessions
+* SAL + PM
+* eportfolio
+* Deselect
+
+
+TODO:
+What CPD do I do as a subject specialist to know I am sufficient
+NCCE certificates
+Trained facilitator
+Conferences
+
+
+Ambisious Curricum
+* Involve mentors in planning from visit 2!!!!!
+* REE (cross curricular) + SP (literature and reflection - prep for HOD in 5 years - plant the seeds) above just being in classroom
+* What have our trainees gone on to do? be? contribute? ECT?
+* KS5? (umbrella of secondary) - SEND (SEN WEEK), key stages, settings, school context (coastal, inner ciy, rural) - holistic in nature - Contrasting placement in kent gives huge range - Teach in ANY school!!! 
+    * TODO: design with course/school parteners
+* PPD - days - gp day - 

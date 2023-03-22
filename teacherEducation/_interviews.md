@@ -62,6 +62,7 @@ Using your knowledge of ‘The entire discipline of Computing’; can you descri
 
 (Assess depth/breadth of computing knowledge. A good candidate will still be describing network routing infrastructure after 3 hours, let alone; font rasterization, language tokenization, compression. As an interviewer, you will know after 2 minutes)
 
+Extension?:
 > What is the difference between a ‘gif’ and ‘jpg’
 (Lossy, 256 color palette, animation)
 
@@ -94,7 +95,7 @@ Look at this code and comment on anything that you can identify using technical 
     image_des.show()
 ```
 
-(Looking if candidate can use technical language to describe programming constructs. Functions, Variables, Assignment operators, mathematical operations, scope. iteration. Advanced candidates can describe the programmes purpose)
+(Looking if candidate can use technical language to describe programming constructs. Functions, Variables (primitive types), Assignment operators, mathematical operations, scope. iteration. Advanced candidates can describe the programmes purpose)
 
 
 Computing in Education (5 min)
@@ -146,36 +147,76 @@ Questions (5 min)
 Interview Criteria
 ==================
 
-Rough grading
-1. Strong
-2. Good
-3. Some Potential
-4. Of Concern
+### Rubric 2022 - 2023 
 
-* Subject Knowledge
-    * Able to talk enthusiastically about an aspect of subject knowledge (from degree or other relevant subject qualification)
-    * Demonstrates a depth and breadth of subject knowledge suitable to embark on a PGCE
-    * Knows how to research new areas of subject knowledge and understands that this will be an important feature of their training programme
-* Awareness of curriculum and pedagogical issues
-    * Is able to articulate the importance of their subject for learners within the curriculum
-    * Demonstrates a reflective capacity when considering pedagogical issues in their subject
-* Reasons for teaching and choosing PGCE secondary or 7-14
-    * Understands the commitment the PGCE demands in terms of the balance of academic study and practical placement
-    * Is committed to developing as a teacher for the benefit of learners
-* Resilience
-    * Demonstrates an ability to manage and adapt to stressful situations (e.g. change)
-    * Can provide examples of times when workload and numerous tasks have been managed concurrently
-    * Listens to advice and takes responsibility for own actions
-* Safeguarding
-    * Is able to demonstrate a commitment to keeping children safe and the capacity to develop the skills and knowledge to do this
-    * Can demonstrate how to keep themselves safe
+* [browser docx](https://cccu.sharepoint.com/:w:/r/sites/FacultyofArtsHumanitiesandEducation/_layouts/15/Doc.aspx?sourcedoc=%7BE32AC9BB-1182-4A8E-87BA-7DC2FEEFBCB2%7D&file=PGCE%20recruitment%20rubric%202022-2023.docx&action=default&mobileredirect=true&cid=744df836-76b8-4047-9211-9404eeebf4a4)
 
-Tracking Spreadsheet has different criteria:
-* Subject Knowledge, Enthusiasm, Development
-* Child Centred Approach
-* Resilience, dedication, sense of purpose
-* Creative and critical thinking
-* Reflective in response to feedback
+* Subject Knowledge Enthusiasm/Development 
+    * 1
+        * Excellent breadth and (some) depth of many topics on Subject Knowledge Audit. 
+        * Participates in wider subject/field of education: work in schools, members of subject associations, etc. 
+    * 2
+        * Good general breadth or depth of key subject topics. Shares some current knowledge of new ideas/trends/authors in either the subject discipline and/or or education pedagogy more widely.  
+    * 3
+        * Completed Subject Knowledge Audit, shows some areas of knowledge in the subject discipline (usually what has been studied previously). 
+        * Aware of some strategies for to how they will develop own knowledge further  
+    * 4
+        * No subject audit completed 
+        * Little enthusiasm or strategies for developing own subject knowledge further 
+* Child Centred Approach 
+    * 1
+        * Demonstrates clear knowledge of how to keep both children and self safe in a school context 
+        * Is excited about the idea of working with children and young people  
+        * NB – Has had formal training 
+    * 2
+        * Is aware of the concept of child protection and can share some contextualised views/ideas /initial research on the subject 
+        * Is interested in how to bring the curriculum alive to engage pupils 
+    * 3
+        * Expresses the importance of the need to support young people and shares their own ideas on how this could be done
+        * Some reference to pupils and desire to be in the classroom, more than just imparting knowledge 
+    * 4
+        * Has difficulty in expressing concern for young people and/or identifying potential issues young people may face 
+        * Motivation to teach centres entirely on own desire to impart knowledge to pupils 
+* Resilience, Dedication and Sense of Purpose 
+    * 1
+        * Proven ability to manage and recover from stressful/adverse challenges or situations. 
+        * Aware course is challenging but has determined and realistic approach to training to teach and a sense of purpose. 
+    * 2
+        * Explains knowledge of how to work under pressure. 
+        * Shows an understanding of the demands of the year ahead and explains some strategies about how they will take responsibility and manage their time/wellbeing etc. 
+        * Has a sense of purpose. 
+    * 3
+        * Demonstrates some ability to adapt to potentially stressful situations and/or intense workload. Understands that own actions will have consequences. Developing a sense of purpose. 
+    * 4
+        * Has difficulty in explaining how they have: managed stressful situations, heavy workloads, come up with solutions to difficult problems and kept going. Has no or highly incoherent sense of purpose.   
+* Creative and Critical Thinking 
+    * 1
+        * Original/critical analysis of issues/experience 
+        * In Lesson Planning Task candidate may: think of an impressive original topic, come up with multiple strong ideas/strategies. In discussion, they may adapt someone else’s idea and add clear improvements, and challenge or take risks in order to improve the impact of the lesson plan. 
+    * 2
+        * Perceptive analysis of issues/experience 
+        * In Lesson Planning Task candidate may in discussion:  contribute a range of good ideas to the outcome of the task, ask or be able to answer curious questions and will easily be able to adapt to suggested changes. 
+    * 3
+        * Some relevant analysis of issues and experience 
+        * In Lesson Planning Task candidate may in discussion: contribute one or two ideas, challenge or add improvement suggestions, be able to talk about their plan with some enthusiasm. 
+    * 4
+        * Has difficulty in finding relevant points/makes inappropriate points 
+        * Has little/no suggestions for adaptation or improvement of the Lesson Planning Task. Lacks enthusiasm for what they have planned.  
+* Reflective (in Response to Feedback)
+    * 1
+        * Demonstrates ability to identify critical learning points from a task/experience on their own.
+        * In response to feedback can precisely explain how their actions/understanding can change as a result. 
+    * 2
+        * Demonstrates ability to identify some key points from a task/experience with some guidance. 
+        * In response to feedback, can explain one or two strategies they think will improve their actions/understanding. 
+    * 3
+        * Demonstrates ability to identify one or two key learning points after focused questioning/guidance. 
+        * In response to feedback, will positively agree to improve generally.   
+    * 4
+        * Demonstrates difficulty in identifying learning points despite focused questioning/guidance. 
+        * Alternatively may excessively question or disagree with feedback received and challenge the need to improve their actions/understanding 
+
+
 
 
 Other Institutions Interview Reference
@@ -269,47 +310,6 @@ some of these may have entirely satisfactory explanations; others may raise seri
 * How comfortable are you, in general, with dealing with differences of opinion and disagreement? Can you provide a work-related example that illustrates your comfort level? 
 
   
-### Rubric 2022 - 2023 
-
-* Subject Knowledge Enthusiasm/Development 
-    * Excellent breadth and (some) depth of many topics on Subject Knowledge Audit. 
-    * Participates in wider subject/field of education: work in schools, members of subject associations, etc. 
-    * Good general breadth or depth of key subject topics. Shares some current knowledge of new ideas/trends/authors in either the subject discipline and/or or education pedagogy more widely.  
-    * Completed Subject Knowledge Audit, shows some areas of knowledge in the subject discipline (usually what has been studied previously). 
-    * Aware of some strategies for to how they will develop own knowledge further  
-    * No subject audit completed 
-    * Little enthusiasm or strategies for developing own subject knowledge further 
-* Child Centred Approach 
-    * Demonstrates clear knowledge of how to keep both children and self safe in a school context 
-    * Is excited about the idea of working with children and young people  
-    * NB – Has had formal training 
-    * Is aware of the concept of child protection and can share some contextualised views/ideas /initial research on the subject 
-    * Is interested in how to bring the curriculum alive to engage pupils 
-    * Expresses the importance of the need to support young people and shares their own ideas on how this could be done
-    * Some reference to pupils and desire to be in the classroom, more than just imparting knowledge 
-    * Has difficulty in expressing concern for young people and/or identifying potential issues young people may face 
-    * Motivation to teach centres entirely on own desire to impart knowledge to pupils 
-* Resilience, Dedication and Sense of Purpose 
-    * Proven ability to manage and recover from stressful/adverse challenges or situations. 
-    * Aware course is challenging but has determined and realistic approach to training to teach and a sense of purpose. 
-    * Explains knowledge of how to work under pressure. 
-    * Shows an understanding of the demands of the year ahead and explains some strategies about how they will take responsibility and manage their time/wellbeing etc. Has a sense of purpose. 
-    * Demonstrates some ability to adapt to potentially stressful situations and/or intense workload. Understands that own actions will have consequences. Developing a sense of purpose. 
-    * Has difficulty in explaining how they have: managed stressful situations, heavy workloads, come up with solutions to difficult problems and kept going. Has no or highly incoherent sense of purpose.   
-* Creative and Critical Thinking 
-    * Original/critical analysis of issues/experience 
-    * In Lesson Planning Task candidate may: think of an impressive original topic, come up with multiple strong ideas/strategies. In discussion, they may adapt someone else’s idea and add clear improvements, and challenge or take risks in order to improve the impact of the lesson plan. 
-    * Perceptive analysis of issues/experience 
-    * In Lesson Planning Task candidate may in discussion:  contribute a range of good ideas to the outcome of the task, ask or be able to answer curious questions and will easily be able to adapt to suggested changes. 
-    * Some relevant analysis of issues and experience 
-    * In Lesson Planning Task candidate may in discussion: contribute one or two ideas, challenge or add improvement suggestions, be able to talk about their plan with some enthusiasm. 
-    * Has difficulty in finding relevant points/makes inappropriate points 
-    * Has little/no suggestions for adaptation or improvement of the Lesson Planning Task. Lacks enthusiasm for what they have planned.  
-* Reflective (in Response to Feedback) 
-    * Demonstrates ability to identify critical learning points from a task/experience on their own. In response to feedback can precisely explain how their actions/understanding can change as a result. 
-    * Demonstrates ability to identify some key points from a task/experience with some guidance. In response to feedback, can explain one or two strategies they think will improve their actions/understanding. 
-    * Demonstrates ability to identify one or two key learning points after focused questioning/guidance. In response to feedback, will positively agree to improve generally.   
-    * Demonstrates difficulty in identifying learning points despite focused questioning/guidance. Alternatively may excessively question or disagree with feedback received and challenge the need to improve their actions/understanding 
 
  
 

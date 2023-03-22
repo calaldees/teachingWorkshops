@@ -8,3 +8,7 @@ Student Progress Review
     * [On Track Statement Guide]: http://ccccumentors.org.uk/qts-assessment/docs/02-On-Track-Guide.pdf
 3. Assign SMART Targets 
     * for SPR2 (longer term than weekley mentor meeting)
+    * Weekley meeting should have SPR targets in mind
+        * (weekley)
+        * (3 month) SPR
+    * (It's called) Curriculum "Guidance" - the Mentor foci is not a cast iron rule - as long as target is related to SQ

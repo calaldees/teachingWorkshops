@@ -1,6 +1,11 @@
 Sessions
 ========
 
+TODO: echo these!
+* Criticality
+* Creativity
+* Subject pedagogy
+* Inclusivity
 
 Readings
 --------
@@ -195,6 +200,7 @@ Tuesday 27th September
 * Set SP assignment + deadlines
 * Set Microteach for SP4
 
+TODO: !! Eplicit - Aademic - helps with HOD in futures years - planting the seed
 
 SQ 4: What is education?
 ------------------------
