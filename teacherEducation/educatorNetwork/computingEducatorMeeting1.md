@@ -298,7 +298,7 @@ Hi Computing Mentors,
 
 I've recently got involved with a national group of Computing Mentors/Educators and attended their first remote meeting earlier in the year.
 This could be a great resource to network with other Computing mentors across the country.
-The next meeting will be on "Wednesday 19th April 16:00 - 17:30pm via Google meet" (see below for agenda and join link).
+The next meeting will be on "Wednesday 19th April 16:00 - 17:30pm via Google meet" (see below for agenda and join link). 
 
 The group is organised by Rachel Arthur. rarthur@teachfirst.org.uk https://twitter.com/MsArthurCompSci
 You can contact her to be added to her mailing list if you are interested.
@@ -307,3 +307,4 @@ This looks like a very topical and relevant new emerging group. The meetings are
 
 I will be in touch with you all soon to organise a second mentor visit.
 Keep in touch.
+
