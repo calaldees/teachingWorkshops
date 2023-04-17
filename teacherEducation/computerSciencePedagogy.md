@@ -14,6 +14,21 @@ TODO
 * [Teaching and Learning Computer Science](https://textbooks.cs.ksu.edu/tlcs/) - Kansas State University’s Teacher Training Program CC4.0
 
 
+* YouTube [Clubs Conference: Live from the main stage | 25 March 2023 ](https://www.youtube.com/live/9YLoS1NSC9A?feature=share&t=680) Jane Wait
+    * Activity: Label what the code is doing! (11:00)
+    * (13:00)
+        * 3xExplore
+            * cognitive load
+            * Scaffolding
+        * 2xDesign +  
+            * Worked examples
+            * Sub goals
+        * 1xInvent
+            * Culturally relevant
+            * Project based learning
+    * (15:40) As a teacher with others resources: "Transfer, Translate, Transform"
+        * Take it make it your own
+
 ---
 
 

@@ -1,4 +1,7 @@
 
+* Features of high quality teaching
+    * Not lecturing
+    * Joint plan - make it better - make it better
 * "The Curriculum" is the university AND the placement
 * School Curriculum vs Our Curriculum 
     * (not good) only work with one provider
@@ -33,3 +36,22 @@
 Every lesson ending
 * Action points (in ePortfolio)
 * Spotlight questions Bingo!
+
+Trip to Bett in Jan/Feb/Mar?
+
+Enrole on "Whole School" Profetional Development Leaders (PDL) training/course
+Talk to James Bennet for more info??
+https://www.stem.org.uk/cpd/522345/computing-cluster-advisor-specialist-and-support-module
+
+Model the technique - rehurse the technique in classroom - peer modeling
+
+Prompt and ques
+* spaced repetition - come prepared with "example of" xxx
+* Update previous lesson plan with input from this session
+
+
+Mentor meeting
+* Model a mentor meeting for the mentor
+
+
+"research informed" (not really the case) - It's "evidence based" (is more reallity)

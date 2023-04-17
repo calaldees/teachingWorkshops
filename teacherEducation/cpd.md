@@ -1,6 +1,8 @@
 CPD
 ===
 
+DfE: only 11% of CPD is effective (ciration? heard this on 30/03/2023 Chris Carr STEM PDL leaders conference)
+
 * Effective CPD (Continued Professional Development)
     * Measuring impact
     * Sharing good practice
@@ -670,3 +672,268 @@ Early Career Teacher Year
 12	Matthew Evans 	Substance	What should school leaders know and focus on? What evidence do we have to support our claims?
 13	Sims & Fletcher Wood	CPD mechanisms	CPD should improve staff habits.
 14	Ben Riley	The Science of Teacher Expertise: Deliberate Practice	Effective practice combines goals, sequence, guidance, feedback, and mental models for decision-making.
+
+
+
+
+Effective Professional Development Guidance Report: EEF
+-------------------------------------------------------
+
+Talk by Alex Quigley 30/03/2023
+
+* Structured facilitated activity
+* Sustained
+
+
+
+### Using Evidence
+
+Which program
+
+* Programme 1 - "Achievement for All"
+    * Content
+        * Coaching over 2 years focused on leadership, learning, parental engagement and wider outcomes
+        * Whole School
+        * Specific focus on target group (20% lowest attainers)
+            * Measurable
+    * Outcome
+        * All pupils -2 months
+        * Target pupils -2 months
+* Programme 2 - Dialogic Talk
+    * Content
+        * Subject specific classroom
+        * High quality lesson practice
+    * Outcome
+        * All pupils +2 months
+        * FSM +2 months
+
+Not every CPD choice is effective
+
+
+* What is the most effective CPD (trick question)
+    1. Instructional coaching
+    2. Professional leaning communities
+    3. Lesson Study
+* Mechanisums within these
+
+### What does the Guidance cover?
+
+* EEF Document: What are the Characteristics of Effective Teacher Professional Development? A systematic Review and Meta-analysis
+
+Time is the biggest barrier
+
+* Instructional (focused delivered sessions) are a good intro .. but it's about sustained and personal
+
+* Planning profetaionll development - "balanced design" worksheet - (see EEF docuemnt for tempalte)
+    * Build knowlege
+    * Motivate staff
+    * Develop teachering techniqes
+    * xxx ...
+* See "Likely outcome" columb
+    * Revert to old habits
+    * Knowing-doing gap
+    * No IMplmetatnion
+    * Misapplication
+    * xxx
+
+> Most CPD is 'Train and Pray'
+
+
+Dicigtal education in schools
+=============================
+Dave Gibb, Education Stratergy Lead
+PDL Conference 2023
+National STEM learning centre and network
+
+* Teachers "digital competency"
+    * All teachers can benefit from essential digital competences
+* Digital skills and Digital Strategy
+
+> Digital exposure is not the same as building digitial skills
+
+Alan Harrison
+> Digital Natives == Myth
+> Pupils arrive with misconceptions e.g. Wifi==internet
+Widely disproved
+
+Digital compitencies not part of National Curriculum
+
+
+* [EdTech Foundation](https://enhance.etfoundation.co.uk/)
+
+    * [EdTech: Assessing your digital skillset](https://enhance.etfoundation.co.uk/modules/2217/assessing-your-digital-skillset?source=popular_3)
+        * >  A teacher's professional digital skillset consists of two components; technical and vocational knowledge. This requires teachers to develop sound digital pedagogy – applying technologies to best effect in teaching and learning – and to keep up-to-date in the changing role, impact and development of the technologies that frame and shape their learners' working lives. 
+
+* Basline digital skills
+    * Collecting data
+    * Digital writing (video, images)
+    * Comm/unication (online calls)
+    * Techical operation skills
+        * Using Periferals, Managing content
+* Digital literacy
+    * Critial thingkin
+    * creativiy
+    * ethics
+    * Safty
+
+Teaching year 7s what a mouse is - they are not touch screens
+* Managing files on iPads is differnt to PC
+
+* Current computing qualifications do not convey boarder more applied interests (13% of cohort)
+* Many carrers need rich computing knowlege and skills, but do not need deep computer science, including cyber secutiry, IT and network management, digital project manment, data management, the games inductry, roboties, data science, applications and engineering. Many of these do not have a KS4 on-ramp (Simon Peyton Jones)
+
+* What are we doing
+    * (Computing+Maths) Data science CPD (KS3/4/5)
+    * Science
+        * Models/Simulations
+        * Big Data
+        * datalogging CPD
+    * STEM Clubs - digital activies (AI,CyberSecurity)
+    * Digital CPD including MyLearning, online (FutureLearn)
+Investigate "Alternative Academic Qualifications" new focalional that arnt T-Levels
+
+> Lived though multiple EdTech stratergies over the yes
+
+> "It should never be about the tech, it should really solve a problem that exists"
+
+* SAMR Model Dr. Ruben R Puentedura
+    * Subsitution
+        * Direct subsitute
+    * Augmentation
+        * Technology 
+    * Modification
+    * Refefenition
+
+* Crossing the Chasm: Marketing and  Selling Disrupticve
+    * Innovators (2.5%)
+    * Early adopter 13.5%
+    * Prgmatists 35%
+    * conservative 35%
+    * Skeptics 13.5%
+
+* Digital Compitence Framework for Educators (DigCompEdu)
+    * Profetional Engagement
+    * Digitial Resources
+    * Assessment
+    * Teaching and Learning
+    * Empowering Learners
+    * Facilitating Learners Digital Compitence
+
+
+Wales hasa a digitial compitence framework
+https://hwb.gov.wales/curriculum-for-wales/cross-curricular-skills-frameworks/digital-competence-framework
+* Citizenship
+* Interacting and collaborating
+* Producing
+* Data and computational thinking
+
+
+
+Tech Remote Enagemnet
+=====================
+
+Science.Alan
+
+Conceptual/Diagnostic question
+
+* the difference between, wifi, the-internet and the www
+* Chris (Sharples) Machine Learning for Kids
+    * how is Machine learning different from sequential programming (Year 9s this week)
+    * Link Scratch with IBM Whatson
+* What is 'selection' in programming?
+* What direction is the electron moving
+    * `+` `-` Great conceptual eercise
+
+
+Online
+* Order
+
+* What if they don;t respond online?
+    * Always have an 'I don't know'/'unsure' - 
+    * don't pause the session to call people out
+* It's a requirement you have a camera - build a community - changes withod of group
+* Give question and Point at corners of the screen
+    * hold fingers up
+* Visualisers!! 100% requirement for good teaching
+    * Incrementally reveal a solution as you build it with commentary
+    * Mark students work live on visualiser
+    * Record yourself doing an exam paper
+
+
+
+NCCE CPD
+========
+
+* Paul Thornton NCCE
+
+* Writing Effective CPD (STEM Learning)
+
+* CPD is evolving
+    * Online
+        * Move from FutureLearn to MyLearning
+        * Content review - closer alignment to school curriculum
+        * Blended CPD
+    * F2F / remote
+        * Isaac CS CPD integration / standards
+        * co-ordinated remote standards
+    * Future development
+        * Whole school on-site CPD
+        * Greater support for non-specalist teaching
+* Specialist Hubs across the country (each area of the country has a focus)
+    * Primary upper lower
+    * ECT
+    * Programming
+    * Alevel/GCSE
+    * KS3
+    * Digital/Cyber
+    * Gender/Inclusion
+    * Leadership
+* School Level Support
+    * FKA School Engagement Programme    
+    * 2 Elements
+        * Regional Delivery Hubs contract SME
+        * Computing Hubs are SMEs
+
+* Computing Cluster (new concept) - Dedicated Avisors
+    * Group of 3 or 4 schools together by need identified in CQF
+* Work Group Leaders (module to do to get this status)
+    * Influence organisation change
+        * Linked to CQF dimension
+    * 1 or 2 teachers form each cluster
+    * Several meetings a year
+    * Trail within school
+    * Compare
+    * Evaluate
+    * Disseminate the outputs
+        * Speaking at conferences
+* [Coach Mentor](https://www.stem.org.uk/cpd/ondemand/522170/coaching-mentoring-professional-development-leader-programme) (module to get this status)
+    * Dedicated advisor will put a coach in place
+    * Based on challenges subject leads may have
+    * Offer made to cluster
+        * and taken up privatly by 1 or 2 subject leads
+    * 30 hours per cluster - split into 5 segments/sessions
+* CPD implementation Support
+    * Facilitated drop in sessions
+    * 2 to 3 sessions per month
+    * Centrally scheduled and contracted
+    * Linked to CPD
+    * Prividing reenforcement of CPD Learning
+    * Support and help teachers build and maintain momentum
+    * Imprve effectiveness of CPD
+* Bespoke Intervention
+    * 9 days in total for each cluster with 3 output days
+    * Professional learning to support specific challenges identified.
+    * Examples
+        * Curriculum Design
+        * Embedding Pedagogy
+        * ... (missed the slide)
+* Gender Insights trainers
+    * Comming Sep 2023
+* Becoming a Lead or Senior PDL
+    * From associate
+
+* https://www.stem.org.uk/secondary/cpd/leading-professional-development
+    * https://www.stem.org.uk/cpd/ondemand/515395/professional-development-leader-programme-stage-2-module-one
+Hi Karen, please email pdl@stem.org.uk with this enquiry
+
+Update STEM Learning profile

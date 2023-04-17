@@ -152,9 +152,12 @@ Bulletin (mentors and students) key readings
 
 ### Extra: How do you go above and beyond in the delivery of your subject curriculum?​	
 
+! oh .. more ..
+
 * GCSE with Barton Court 
 * Outreach work with Department of Computing (practical activities), STEM Hub days - AI in curriculum
 * Upcoming ChatGTP to plan lessons and scrutinise them - how students can harness this technology
+
 
 
 How do you know your mentors are good
@@ -179,3 +182,6 @@ Ambisious Curricum
 * KS5? (umbrella of secondary) - SEND (SEN WEEK), key stages, settings, school context (coastal, inner ciy, rural) - holistic in nature - Contrasting placement in kent gives huge range - Teach in ANY school!!! 
     * TODO: design with course/school parteners
 * PPD - days - gp day - 
+
+
+Curriculum developed in collaboration

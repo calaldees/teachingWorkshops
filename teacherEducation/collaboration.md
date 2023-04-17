@@ -151,6 +151,10 @@ Demo of (20min)
 Teacher Collaboration (15 min)
 =====================
 
+* [Taming the email menace.](https://httcs.online/2023/03/25/email-menace/) Alan Harrison
+    * If you're asking for more details, maybe your process is not sufficent.
+    * > Microsoft 365 and Google Suite both provide productivity tools such as chat (instant messaging), internal websites, shared documents and the ability to collaborate on documents. All of these can be considered communication channels that have advantages over email. Train your staff to be confident with these tools and explain how they might be used to improve communications (and reduce email). 
+
 ### Plain office documents
 
 * Somewhat portable
