@@ -19,3 +19,5 @@ time_period	total_trainees	qts_awarded_percentage
 
 * [Number of graduates in teacher training in England at ‘catastrophic’ level](https://www.theguardian.com/education/2022/dec/01/number-graduates-teacher-training-england-catastrophic-level) Dec 2022
     In computing, 348 graduates entered training, 30% of the government’s target of 1,145.
+
+* CSTA [2022 State of Computer Science Education ](https://advocacy.code.org/stateofcs) US

@@ -1,3 +1,5 @@
+Political impartiality
+======================
 
 * [Political impartiality in schools](https://www.gov.uk/government/publications/political-impartiality-in-schools/political-impartiality-in-schools) 17th Feb 2022
     * These legal duties mean schools:

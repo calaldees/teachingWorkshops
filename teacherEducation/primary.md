@@ -504,3 +504,50 @@ TODO
 * [Code-it](https://code-it.co.uk/csplanning.html)
   * [Code-it 'Gold Planning'](https://code-it.co.uk/gold/) - KS2
     * Concepts could be used in secondary
+
+## Raspberry Pi Foundation Research Seminar: Dr Monica McGill, 18 April 2023 Confirmation
+
+* No National Curriculum in the US - At the district level - 19,000 school districts
+* 68% think CS is important - (further away from classroom, voted less)
+* Differnt stakeholders have differnt goals
+  * Students
+  * Administrator (institution)
+    * cirtifications
+    * state level support/accountability
+  * Teacher
+    * training/cpd'
+    * environment
+    * incentives
+  * Teaching (in general)
+    * Curriculum
+* Approaches
+  * Integrate CS with other subjects
+  * CS Unplugged
+  * Teacher Lead
+  * CS in maker-spaces
+* Barriers
+  * Funding
+  * Incentives
+  * Parent misunderstanding between CS and DigitalLiteracy
+  * Lack of institution buyin
+  * Too many other iniatives
+    * focus on maths/english
+  * lack of resouces
+  * lack of comunity support
+* Levers
+  * Standards
+  * Engage parents in advocay
+  * partener with external organistaions
+* Difficulty 
+  * defining CS
+  * integrating into lessons (true integration, school ecosystem)
+  * need to build computer skills beforehand separately before they can use them
+  * Lack of time (underestimation of time students need)
+  * Difficulty assessing
+* Results
+  * Consider cognitive load placed on teachers and students
+  * Adopt Universal design of leaning
+  * Simplify assessments
+  * Honour different approaches (let teachers develop their own understanding/style)
+* We cant commit to CS because we need literacy and maths
+* How do we define a well integrated CS lesson

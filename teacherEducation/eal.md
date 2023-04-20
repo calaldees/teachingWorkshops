@@ -1,6 +1,22 @@
 English as an Additional Language (EAL)
 =================================
 
+* [Sounds Right - by British Council](https://learnenglish.britishcouncil.org/apps/learnenglish-sounds-right)
+    * Online Phoneme Chart
+    * Interactive phonemic chart, primarily for ESOL/EAL learners and teachers.
+    * Pronunciation aid.
+        * A: free, simple to use, easy to integrate into lessons, beneficial additional tool, sts. can use independently outside of lesson
+        * D: Needs internet access & smartphone/tablet,
+    * Foundational knowledge of phonemes required 
+
+
+
+
+
+
+
+
+
 * https://charactercalculator.com/smog-readability/ 
     * The website we have been suggested to gauge the difficulty of a piece of text is: 
     * The SMOG calculator isn't perfect but can be a useful aid when planning and resourcing lessons. 

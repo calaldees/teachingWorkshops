@@ -1,4 +1,10 @@
 
+> Sequenced through 10 enquiry-based questions, which support the students through Collaborative, Developing and Independent phases of the course.
+
+
+
+
+
 * Features of high quality teaching
     * Not lecturing
     * Joint plan - make it better - make it better
@@ -52,6 +58,9 @@ Prompt and ques
 
 Mentor meeting
 * Model a mentor meeting for the mentor
+
+* Organise guest speakers
+    * Invite mentors to talk at subject session (date?)
 
 
 "research informed" (not really the case) - It's "evidence based" (is more reallity)

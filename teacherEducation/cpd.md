@@ -1,6 +1,8 @@
 CPD
 ===
 
+TODO: For computing, there is normally one super advocate in a school to bring everyone along on the journey. When that person leaves, the cards fall. Are you that person!
+
 DfE: only 11% of CPD is effective (ciration? heard this on 30/03/2023 Chris Carr STEM PDL leaders conference)
 
 * Effective CPD (Continued Professional Development)
@@ -147,6 +149,9 @@ Action in your _Early Career Teacher_ years  (15min)
 
 TASK: Put placeholders in your personal calendar for the above days next year academic year 
 (any placeholder date will do - this is just to put it on your radar - you will encounter the calendar events at somepoint to remind you or rebook)
+
+### Exam Board Training
+* Just enrole on this - every exam board runs these - you are an ECT and need this
 
 
 Ongoing Observation/Collaboration (10min)
@@ -679,7 +684,7 @@ Early Career Teacher Year
 Effective Professional Development Guidance Report: EEF
 -------------------------------------------------------
 
-Talk by Alex Quigley 30/03/2023
+Talk by Alex Quigley 30/03/2023 STEM PDL Conference
 
 * Structured facilitated activity
 * Sustained
@@ -688,7 +693,7 @@ Talk by Alex Quigley 30/03/2023
 
 ### Using Evidence
 
-Which program
+Which program (I fleshed out these notes and linked to video somewhere - search for Alex Quigley)
 
 * Programme 1 - "Achievement for All"
     * Content
@@ -756,8 +761,11 @@ Alan Harrison
 > Pupils arrive with misconceptions e.g. Wifi==internet
 Widely disproved
 
+
 Digital compitencies not part of National Curriculum
 
+* [‘Scanners are complicated’: why Gen Z faces workplace ‘tech shame’](https://www.theguardian.com/technology/2023/feb/27/gen-z-tech-shame-office-technology-printers) The Guardian 2023
+    * > ages of 18 and 26 to find that 56% of respondents said “they had very basic to no digital skills education.” A third of them said their education had not provided them “with the digital skill they need to propel their career”. What they know comes from the apps they use on their own time, not the tech supplies at Office Depot.
 
 * [EdTech Foundation](https://enhance.etfoundation.co.uk/)
 

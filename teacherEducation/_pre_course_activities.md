@@ -67,6 +67,7 @@ General Information and Pre Reading
         * [HelloWorld](https://helloworld.raspberrypi.org/) Computing Pedagogy Magazine (subscribe to physical magazine for free)
             * [online articles](https://helloworld.raspberrypi.org/articles)
         * https://computingeducationresearch.org/
+        * [magazines.stem.org.uk](https://magazines.stem.org.uk/)
     * [Technology, Pedagogy & Education Association (TEPA)](https://tpea.ac.uk/)
         * The voice of digital technology and computing in education
         * CPD, research, best practice

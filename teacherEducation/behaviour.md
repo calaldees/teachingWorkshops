@@ -4,6 +4,18 @@ Behaviour
 TODO:
 * [evidencebased.education](https://evidencebased.education/) (most resources behind paywall)
     * Evidence Based Education. (2022). Student behaviour: What is 'good' behaviour and how can teachers encourage it?. [pdf](https://f.hubspotusercontent30.net/hubfs/2366135/What%20is%20good%20behaviour%20and%20how%20can%20teachers%20encourage%20it%3F.pdf)
+* [How to tackle low-level disruption](https://www.tes.com/magazine/teaching-learning/general/how-tackle-low-level-disruption?utm_campaign=DS39530-magazine-low-level-disruption) TES - Paywall?
+* YouTube: [Slow Teaching Strategies With Jamie Thom, Mind the Gap, Ep. 51 (S3E7)](https://www.youtube.com/watch?v=RA2_5VD-jzs) Mind the Gape with Tom and Emma (1 hour video)
+    * Guest 'Jamie Thom'
+    * Joy of the job
+    * Slow down - every lesson a focus - look at the macro - do the important things
+    * Going fast - nothing sticks 
+    * Amazon: [Slow Teaching: On finding calm, clarity and impact in the classroom Paperback – 2 Mar. 2018](https://www.amazon.co.uk/Slow-Teaching-finding-clarity-classroom/dp/1911382608/)
+    * Author of 'Quiet Education'
+    * Be calm - be centred - be assertive but not flustered - teenagers need emotional stability of you - they can't rattle you
+        * Don't sanction young people left right and center - it's not working
+    * Love your subject
+
 
 Overview
 --------

@@ -3,6 +3,10 @@ Computing Across the Curriculum
 
 
 TODO:
+* Non specialists (and maybe new computing teachers) don't know the tools. They just need to be told/shown - they can't self discover and evaluate the effectivness
+* We should not encroach or derail other subjects with yor CS. We should use the tool to enhance the other subjects
+* Venn diram 'CS Heavy' -- 'Content Heavy' and the right zone in the middle
+    * However we need to keep the cognative load at 50% for each - we can't go full throttle with both (find the research)
 * TES [Why a decade of knowledge-rich curriculum has not served pupils as promised](https://www.tes.com/magazine/analysis/general/why-decade-knowledge-rich-curriculum-has-not-served-pupils-promised) 2022 (paywall)
     * > Ofsted's deep-dive investigation into subjects is to determine the extent of subject knowledge and whether the knowledge they find is substantive, disciplinary or inter-disciplinary. 
     * > If a primary pupil, having spent all afternoon painting a picture of a Roman soldier, neither improved in painting nor knew more about Roman soldiers, was it time well spent?
@@ -502,6 +506,7 @@ Timeboxed? One hour? I could go all day
 * Biology
     * [BirdNET](https://birdnet.cornell.edu/) - The easiest way to identify birds by sound.
         * Audio analysis for bird recognition
+        * See also [What it Sounds Like When Doves Cry](https://daily.jstor.org/what-it-sounds-like-when-doves-cry/) - human, animal, and robot communication
     * [BioNumbers](https://bionumbers.hms.harvard.edu/) - a database of useful biological numbers
     * Conways game of life? - Emergent behaviour from simple rules
         * [conway.md](https://github.com/ComputingTeachers/mapOfComputing/blob/main/computing/conway.md)

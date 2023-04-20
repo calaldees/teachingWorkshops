@@ -2,6 +2,8 @@ Computer Science Specific Pedagogy
 ==================================
 
 
+
+
 NCCE Funding Sue Sentence explains
 * [Moving to mainstream: developing computing for all](https://dl.acm.org/doi/epdf/10.1145/3361721.3362117) Sue Sentence 2019
 
@@ -13,6 +15,12 @@ TODO
 * [Computer Science Field Guide](https://www.csfieldguide.org.nz/en/) - An online interactive resource for high school students learning about computer science. 
 * [Teaching and Learning Computer Science](https://textbooks.cs.ksu.edu/tlcs/) - Kansas State University’s Teacher Training Program CC4.0
 
+![Declarative, procedural and conditional knowledge](https://pbs.twimg.com/media/FuBXLVoWwAIq2uU?format=jpg&name=medium) KA Lawless, AV Robins, Ofsted Research Review
+| Form of KNowlege | Computer Science | Information Technology | Digtital Literacy |
+|-|-|-|-|
+|Declarative (knowing what) | Vraiables are used to store data | Data on internet sent in packs | Features of unrelaible data |
+| Procedural (knowing how) | how to define a variable and implement it in a programming language e.g. scratch | Each packet carries the information that will help it get to tis destination - IP address and how many this particicular packet| how to perform an advanced web serach |
+| Conditional (knowing when and why) | I can use a variable to keep track of a score in a game | The internet is a global packet switched network. The packetrs enable data to be transmitted in differnt routes | When I need to report something on the internet. Why I need to get support |
 
 * YouTube [Clubs Conference: Live from the main stage | 25 March 2023 ](https://www.youtube.com/live/9YLoS1NSC9A?feature=share&t=680) Jane Wait
     * Activity: Label what the code is doing! (11:00)

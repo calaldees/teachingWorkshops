@@ -210,6 +210,12 @@ Teacher collaboration is an ongoing interest of mine. We don't have the tools or
 Student Collaboration (30 min)
 =====================
 
+TODO: https://www.co-make.eu/tp-32792-2/co-make
+CO-make.eu project
+> This project is about enhancing digital competence through inclusive, collaborative, computational thinking. The partners promote digital skills and competences among teachers, educators and students throughout Europe by sharing the best practices from all countries and by broadening the partners’ understanding of computational thinking. This website is an overview of all the information about the project.
+
+ 
+
 ### Online 
 
 * General Documents

@@ -4,6 +4,7 @@ Practical
 * blog.teachcomputing.org - [The importance of practical programming](https://blog.teachcomputing.org/the-importance-of-practical-programming/)
     * White Paper from NCCE working group [Practical programming in computing education](https://static.teachcomputing.org/Practical+Work+in+Computing+Apr+22.pdf) Feb 2022
         * Miles Berry, Paul Curzon, Quintin Cutts, Celia Hoyles, Simon Peyton Jones, and Shahneila Saeed, NCCE Academic Board
+    * Computing without programming sia hollow husk of a subject - you gotta build things, solve problems, use data
 
 * [Khawer Ishtiaq](https://twitter.com/kishtiaq/status/1488212414604709890) @kishtiaq
    * > First Build a Computer Club session today was actually take apart a computer session. 

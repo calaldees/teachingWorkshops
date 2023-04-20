@@ -16,6 +16,9 @@ TODO:
         * > Create a data analysis project based on the Naruto Anime
         * Cleaning data (collapse duplicate names/nicknames)
 
+* [Artificial Intelligence (AI) Use in Assessments: Protecting the Integrity of Qualifications](https://www.jcq.org.uk/exams-office/malpractice/artificial-intelligence/) 2023
+    * > The JCQ AI Use in Assessments: Protecting the Integrity of Qualifications guidance is intended to provide teachers/assessors involved in delivering JCQ qualifications with the information they need to manage use of AI in assessments.
+
 * Description
     * Introduction and ideas for AI in the classroom
     * I'm not an expert in AI or Pedagody

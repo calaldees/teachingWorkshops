@@ -1,6 +1,8 @@
 Digital Literacy
 ================
 
+TODO: [[digital-natives]]
+
 'Digital Literacy' is a term for the competence/skill we expect with everyday use of a computer.
 
 > Those capabilities that mean an individual is fit for living, learning and working in a digital society.

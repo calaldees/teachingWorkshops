@@ -1,9 +1,6 @@
 Keystage 5 - A-Level Computing
 ==============================
 
-TODO: T-Levels Digital
-
-
 * Objective
     * Understand the structure of the current KS5 syllabus
     * Have the toolkit to develop appropriate class activities that are targeted to the examboard specification.
@@ -16,7 +13,7 @@ How is KS5 different?
 
 * The good
     * You're not teaching class's of 30 - you're teaching class's of 12
-    * The students largely like and understand your subject
+    * The students largely 'like' and understand your subject
     * You have much more contact time with them
 * The bad
     * You really need good subject knowledge
@@ -45,7 +42,7 @@ Proposal for future years. This uni registering a center to enter candidates for
 Time
 ----
 
-* A-Levels take 360 guided learning hours per subject over the duration of the course (normally two years)
+* A single A-Level takes 360 guided learning hours per subject over the duration of the course (normally two years)
     * 180 guided learning hours a year
     * 4 to 5 hours a week contact? (over 36 weeks)
     * A single A-Level year-group is 25% of a teachers full-time timetable
@@ -73,11 +70,12 @@ Always be clear about the weight of each module. Check the spec.
 History of the A-Level
 ----------------------
 
-* Pre 2000 - Overlap between ICT and Computing as a single subject
+* Pre 2000
+    * ICT and Computing were a single subject
 * 2000-ish
     * A-Level ICT (aka Office Management Studies) was split into a separate subject
     * 50% AS - 50% A2
-    * AS used to be really easy (because could not rely on any previous learning in the curriculum)
+    * AS used to be really easy (No GCSE existed - could not rely on any previous learning in the curriculum)
     * A2 Practical project (30% of A2 -> 15% of A-Level) - was utterly ridiculous difficulty - the jump was too great
         * Beginning of AS - knowing nothing -> end of A2 program complete GUI system for user.
         * Most students failed this
@@ -122,8 +120,10 @@ Academic continuation of GCSE.
     * OCR Coursework mostly writeup, Spec theory is vague, little practical, difficult to engage students, resources locked behind login (inaccessible to students)
 
 
-Vocational Level 3 Courses (30 min)
+Vocational Level 3 Courses (1 Hour)
 --------------------------
+
+(Welcome to the entire world of FE! - TODO: Organise Guest Speaker)
 
 * Combinations of module configurations for different needs
 * Lots of specs that combine the modules in different ways
@@ -158,14 +158,44 @@ Task:
 
 * Colleges (offering BTEC Level 3)
     * [University College Birmingham](https://www.ucb.ac.uk/study/courses/college/computing-and-ict-level-3/)
+        * Q: What percentage of this course takes place in the workplace?
     * [The College of West Anglia: Computing and Game Design IT](https://cwa.ac.uk/courses/computing-games-design-and-it/computing-level-3-extended-diploma)
     * [Henley College: ICT and Computing (Extended Diploma) Extended Diploma (Level 3)](https://www.henleycol.ac.uk/courses/full-time-courses/vocational-courses-level-3/ict-and-computing-extended-diploma/)
     * [Cirencester College - Gloucestershire - Information Technology Level 3 Vocational](https://www.cirencester.ac.uk/cco/course_view.php?course=388)
     * Look how shiny and promising the pages are
     * The promise of _expertise_, being treated like an adult, work experience, actually building something and it's free for them (under 18)
         * Our ability to teach A-Level in school is dependent on numbers. This is some stiff competition.
-    * An A-Level is a very expensive course to offer
-        * Not all schools 
+    * An A-Level is a very expensive course for schools to offer (number of students vs teacher time)
+        * Not all schools can deliver A-Level
+
+### TLevels (2020)
+
+* National Center for Further Education (NCFE) - [NCFE T-Levels](https://www.ncfe.org.uk/technical-education/t-levels/)
+    * Overview
+        * Courses = two years
+        * one TLevel = three ALevels (UCAS Points)
+        * Created in collaboration with employers
+        * Include a substantial industry placement
+    * [Digital](https://www.ncfe.org.uk/technical-education/t-levels/digital/)
+        * Courses
+            * [Digital Support Services](https://www.ncfe.org.uk/qualification-search/qualification-detail/t-level-technical-qualification-in-digital-support-services-level-3-delivered-by-1711) [pdf spec](https://www.ncfe.org.uk/media/pw0ludag/603-6901-2-qualification-specification.pdf)
+                * Digital infrastructure
+                * Network cabling
+                * Digital support
+            * Digital Business Services
+                * Data technician
+        * Assessment
+            * Paper A written examination (34%)
+            * Paper B written examination (41%)
+            * Employer-set project (ESP) (25%)
+        * Summary
+            * (Like old ICT mushed with aspects of Computing)
+            * Install software (local or remotely), Setup policies, collect/process data, risk management, cable testing, accessibility for users
+        * Questions
+            * How many hours are students expected to commit to this course? THink about: How are those hours split? How many hours a week?
+            * What assignments are set during this course? How long as the assignments? How are these assignments different from other qualifications?
+            * What TLevels are available in other subjects?
+
 
 
 
@@ -177,6 +207,7 @@ Example A-Level Course Layouts
     * AQA [teaching-resources](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517/teaching-resources)
         * [scheme-of-work-week-by-week](https://www.aqa.org.uk/resources/computer-science-and-it/as-and-a-level/computer-science-7516-7517/teach/scheme-of-work-week-by-week)
         * [scheme-of-work-co-teaching](https://www.aqa.org.uk/resources/computer-science-and-it/as-and-a-level/computer-science-7516-7517/teach/scheme-of-work-co-teaching)
+            * > AS and A-level qualifications can be co-taught in the first year of an A-level course (assuming a 1 year AS)
     * OCR [planning-and-teaching](https://www.ocr.org.uk/qualifications/as-and-a-level/computer-science-h046-h446-from-2015/planning-and-teaching/)
         * [co-teaching](https://www.ocr.org.uk/Images/176356-co-teaching-guide.pdf)
         * [sample-curriculum](https://www.ocr.org.uk/Images/170246-sample-curriculum-planning-guide.pdf)
@@ -200,6 +231,7 @@ Practical Activities
 --------------------
 
 * Wherever possible use practical to teach theory
+    * > The use of practical exercises to explore topics is encouraged, both to deepen understanding of those topics and also incrementally to gain experience in designing, coding and testing  programs. <sub>AQA Co-Teaching (see above)</sub>
 * Have tasks setup at beginning of year and given to students - no surprises
 * These could just be a sentence for an entire project
 
@@ -222,7 +254,7 @@ Passed Papers (45min)
 Combine QP (question paper), MS (mark scheme) and WRE (Examiners report)
 * [OCR H046-H446](https://www.ocr.org.uk/qualifications/as-and-a-level/computer-science-h046-h446-from-2015/assessment/)
 * [AQA 7516-7517](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517/assessment-resources)
-    * [Spec-2015](http://filestore.aqa.org.uk/resources/computing/specifications/AQA-7516-7517-SP-2015.PDF)
+    * [Spec-2015+](https://filestore.aqa.org.uk/resources/computing/specifications/AQA-7516-7517-SP-2015.PDF) updated 2019
 * Old
     * AQA-5511-6511 [Spec-2008](https://www.scribd.com/document/94761/AQA-5511-6511-W-SP-08) 2003-2008?
     * AQA 2510 [Spec-2014](http://smartfile.s3.amazonaws.com/ac0a4ac2fc14b45086e9c5af7511da39/uploads/2017/06/AQA-2510-W-SP-14.pdf) 2003-2015?
@@ -242,6 +274,7 @@ TASK: Do a question + Use Mark Scheme + Examiners report (25min)
 
 * Suggested classroom use
     * Just say `AQA Nov 2020 A-Level Paper2 Q3.6`
+        * > Explain why the volatile environment (the contents of registers) must be saved before an interrupt is serviced
         * Students can find it themselves (teach them to setup bookmarks, download, should take them 60 seconds)
             * Don't rename the files (the exam board named them that way for a reason. Learn the naming convention)
     * Use them as starters (even to introduce topic)/plenary
@@ -256,10 +289,10 @@ TASK: Do a question + Use Mark Scheme + Examiners report (25min)
             * Hit them with exam questions until they bleed
                 * [ExamPro](https://www.exampro.co.uk/computer-science/) AQA's exam generator (GCSE + A-Level)
 
-Your lesson plan becomes 
-* `AQA 2016 AS Jun Paper2 Q6`
-* https://conwaylife.com/wiki/Run_Length_Encoded
-* `AQA 2017 A2 Paper 1 June Q7`
+* Your lesson plan now becomes:
+    * `AQA 2016 AS Jun Paper2 Q6`
+    * https://conwaylife.com/wiki/Run_Length_Encoded
+    * `AQA 2017 A2 Paper 1 June Q7`
 
 
 AS -> A2 Progression
@@ -293,11 +326,15 @@ AS practical exam questions (45 min)
 
 ### AS Practical Exam Question
 
-* [AQA 2016 7516 AS](https://pastpapers.papacambridge.com/papers/aqa/as-level-computer-science-7516-new) Q5.1 (8 marks)  [AQA-75161-QP-JUN16.PDF](https://pastpapers.papacambridge.com/viewer/aqa/as-level-computer-science-7516-new-june-2016-aqa-75161-qp-jun16-pdf) on page 8
-    * This question is 10 marks out of 75 mark total with an exam of 90min -> 8min 20seconds `10 * (75/90)`
+* from [AQA 2016 7516 AS](https://pastpapers.papacambridge.com/papers/aqa/as-level-computer-science-7516-new)
+    * [AQA-75161-QP-JUN16.PDF](https://pastpapers.papacambridge.com/viewer/aqa/as-level-computer-science-7516-new-june-2016-aqa-75161-qp-jun16-pdf) 
+    * Q5.1 (8 marks) on page 8
+        * This question is 10 marks out of 75 mark total with an exam of 90min -> 8min 20seconds `10 * (75/90)`
 
 
 <details>
+
+https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/other/exam/AQA-75161-QP-JUN16_Q5.py
 
 ```
 The algorithm, represented using pseudo-code in Figure 4, describes a method to 
@@ -368,6 +405,8 @@ Question paper (A-level): Paper 1 June 2017 [AQA-75171-QP-JUN17.PDF](https://fil
 2h30min = 100marks 150min  = 9min 20seconds `14 * (100/150)`
 
 <details>
+
+https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/other/exam/AQA-75171-QP-JUN17_Q7.py
 
 ```
 One method that can be used to compress text data is run length encoding 
@@ -500,13 +539,18 @@ Practical Techniques
 
 * Debugging (show them how to use a debugger)
     * Breakpoints - step line at a time - watch variables
+        * The principles/tools are consistant across all languages (imperative languages supported by the exam boards)
     * ```python
         # at point of debugging
         breakpoint()
       ```
+    * ```javascript
+        debugger;
+        ```
 * Automated tests - Write the tests first!
     * Python has [doctests](https://docs.python.org/3/library/doctest.html)
         * Great for marking - [separate test file](https://docs.python.org/3/library/doctest.html#simple-usage-checking-examples-in-a-text-file)
+        * See my doctest for exam questions above
         * ```python
             # At end of python file
             import doctest; doctest.testmod()
@@ -523,6 +567,17 @@ Practical Techniques
         * Enhancing Collaboration
         * You can always see their progress
             * You have an audit trail of work
+
+Statistics
+----------
+
+* https://analytics.ofqual.gov.uk/apps/Alevel/Outcomes/
+    * 300% growth in last 10 years
+    * 15k A-Level computing enrolments
+    * Look at the grade bump 2020
+* https://www.hesa.ac.uk/news/25-01-2022/sb262-higher-education-student-statistics/subjects
+    * 150k places in Computing (related)
+    * 60k Computer Science places (from ocr dude a few years ago) - most universitys start again from scratch because they can't rely on compsci education in schools
 
 
 A-Level Topic Notes
@@ -579,6 +634,8 @@ Summary
     * You must nurture a love for computing in KS3 and KS4 to get the joy of A-level
 * A-Level is feels like _real_ hardcore computer science
     * The majority of secondary school teaching jobs require/focus on KS3 and KS4 because there are _orders of magnitude_ more students
+* Are A-Levels the right thing to teach? 
+    * The reality is that the majority of business's don't need pure-blood Computer Science skills, they need to solve practical everyday business problems (see T-Levels)
 
 
 

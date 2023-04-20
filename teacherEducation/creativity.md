@@ -173,3 +173,7 @@ They appear correlated
     * todo
 
 * [Paperclips, Circles, and Six-Legged Spiders: An exploration of self-perceived and measured creativity among CS students](https://dl.acm.org/doi/10.1145/3373165.3373167) 2020 
+
+* [twitter - 3d platform game projection](https://twitter.com/johnblueriggs/status/1642552320549441538?t=-KUapS1or5dtdYQZiR5_PA&s=19)
+
+* Book [Computational Fairy Tales Paperback – 26 Jun. 2012](https://www.amazon.co.uk/dp/1477550291)

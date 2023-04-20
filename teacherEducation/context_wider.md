@@ -23,7 +23,7 @@ Can Science and Religion be taught together?
         * 02:30:00 Study of _religion as software_ - rules/structure that lead to better outcomes
         * The legal system is an interesting piece of software - it's based on exceptional handling
 * Fundamental British Values
-    * Requirement
+    * [[fundamental_british_values]] is a requirement
 
 * [CSForAll: CS Visions Toolkit](https://www.csforall.org/visions/)
     * > There is not one purpose for education, and there should not be one purpose for computer science education either. 

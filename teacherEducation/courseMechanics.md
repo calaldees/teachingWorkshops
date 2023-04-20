@@ -99,10 +99,11 @@ ITP = Independent Teaching Phase
 
 | Course | Term1 | Term2 | Xmas | Term3 | Term4 | Easter | Term5 | Term6 |
 |--------|-------|-------|------|-------|-------|--------|-------|-------|
-| SD     | P1    | P1    |      | P2    | P1    |        | P1    | P1    |
+| Phase | CTP   | CPT>DTP|| DTP| DTP>ITP  |  | ITP   | ITP  |
+| SD     | Base    | Base    |      | Contrast    | Base    |        | Base    | Base    |
 | PGCE   | P1    | P1    |      | P1    | P2    |        | P2    | P2    |
-| PGCE Coursework | SP1 | SP1 + SP2 | SP2 | REE  | REE | REE + PP | PP | PP |
-| Phase | CTP   | CPT + DTP|DTP| DTP   | ITP   |  ITP   | ITP   | ITP   |
+| PGCE Coursework | SP1 | SP2 |  | REE  | REE |  | PP | PP |
+
 
 PGCE: 20 Session (6 hours per session) = 120 hours
 SD: 14 Sessions = 84 hours
@@ -116,12 +117,12 @@ SD == 70% of Session time
 
 ### CTP, DTP, ITP
 
-1.) Collaborative Teaching Phase
-2.) Developing Teaching Phrase
-3.) Independent Teaching Phrase
+1. Collaborative Teaching Phase
+2. Developing Teaching Phrase
+3. Independent Teaching Phrase
 
 Placement 1: CTP + DTP
-Placement 2: ITP
+Placement 2: ITP (but need to get up to speed with new context)
 
 
 
