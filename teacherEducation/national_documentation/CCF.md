@@ -8,6 +8,11 @@ Core Content Framework
             * Providers should
             * Trainees should
 
+### Omissions
+The CCF is not the whole story. It misses out other statutory requirements like
+* EAL
+* FBV
+* (more...)
 
 ## High Expectations (Standard 1 – ‘Set high expectations’)
 
@@ -202,30 +207,46 @@ scaffold talk?
     1. Applying high expectations to all groups, and ensuring all pupils have access to a rich curriculum. #5-AdaptTeach-Learn-how-14-group_pair_stretch
 
 
-
-
-
-
 ## Assessment (Standard 6 – ‘Make accurate and productive use of assessment’)
 
 ### Learn that
-1. Effective assessment is critical to teaching because it provides teachers with information about pupils’ understanding and needs.
-2. Good assessment helps teachers avoid being over-influenced by potentially misleading factors, such as how busy pupils appear.
-3. Before using any assessment, teachers should be clear about the decision it will be used to support and be able to justify its use. 
-4. To be of value, teachers use information from assessments to inform the decisions they make; in turn, pupils must be able to act on feedback for it to have an effect.
-5. High-quality feedback can be written or verbal; it is likely to be accurate and clear, encourage further effort, and provide specific guidance on how to improve.
-6. Over time, feedback should support pupils to monitor and regulate their own learning.
-7. Working with colleagues to identify efficient approaches to assessment is important; assessment can become onerous and have a disproportionate impact on workload.
+1. Effective assessment is critical to teaching because it provides teachers with information about pupils’ understanding and needs. #6-Assessment-Learn-that-1-assess_needs
+2. Good assessment helps teachers avoid being over-influenced by potentially misleading factors, such as how busy pupils appear. #6-Assessment-Learn-that-2-quantify
+3. Before using any assessment, teachers should be clear about the decision it will be used to support and be able to justify its use. #6-Assessment-Learn-that-3-justify
+4. To be of value, teachers use information from assessments to inform the decisions they make; in turn, pupils must be able to act on feedback for it to have an effect. #6-Assessment-Learn-that-4-pupil_action
+5. High-quality feedback can be written or verbal; it is likely to be accurate and clear, encourage further effort, and provide specific guidance on how to improve. #6-Assessment-Learn-that-5-feedback_specific
+6. Over time, feedback should support pupils to monitor and regulate their own learning. #6-Assessment-Learn-that-6-pupils_action
+7. Working with colleagues to identify efficient approaches to assessment is important; assessment can become onerous and have a disproportionate impact on workload. #6-Assessment-Learn-that-7-proportionate-workload
 
 ### Learn how to
 
+(these hashtags are just wrong - I need to rework them)
+
+#6-Assessment-Learn-how-to-2-external_resources
+#6-Assessment-Learn-how-to-3-monitor_data
+#6-Assessment-Learn-how-to-4-identify_misconceptions
+#6-Assessment-Learn-how-to-5-questioning_stretch
+
+#6-Assessment-Learn-how-to-7-feedback_appropriate
+#6-Assessment-Learn-how-to-8-self_assessment
+#6-Assessment-Learn-how-to-9-self_assessment_feedback
+
+#6-Assessment-Learn-how-to-11-monitor_data_to_planning
+#6-Assessment-Learn-how-to-12-feedback_methods
+#6-Assessment-Learn-how-to-13-feedback_methods_alternate
+#6-Assessment-Learn-how-to-14-feedback_methods_alternate
+#6-Assessment-Learn-how-to-15-verbal_feedback
+#6-Assessment-Learn-how-to-16-feedback_abbreviations
+#6-Assessment-Learn-how-to-16-feedback_identify_misconceptions
+
+
 1. Avoid common assessment pitfalls, by:
-    1. Discussing and analysing with expert colleagues how to plan formative assessment tasks linked to lesson objectives and think ahead about what would indicate understanding (e.g. by using hinge questions to pinpoint knowledge gaps). 
+    1. Discussing and analysing with expert colleagues how to plan formative assessment tasks linked to lesson objectives and think ahead about what would indicate understanding (e.g. by using hinge questions to pinpoint knowledge gaps). #6-Assessment-Learn-how-to-1-hinge_question
     2. Discussing and analysing with expert colleagues how to choose, where possible, externally validated materials, used in controlled conditions when required to make summative assessments.
 2. And - following expert input - by taking opportunities to practise, receive feedback and improve at: 
     1. Drawing conclusions about what pupils have learned by looking at patterns of performance over a number of assessments with support and scaffolding from expert colleagues (e.g. appreciating that assessments draw inferences about learning from performance).
 3. Check prior knowledge and understanding during lessons, by:
-    1. Receiving clear, consistent and effective mentoring in how to structure tasks and questions to enable the identification of knowledge gaps and misconceptions (e.g. by using common misconceptions within multiple-choice questions).
+    1. Receiving clear, consistent and effective mentoring in how to structure tasks and questions to enable the identification of knowledge gaps and misconceptions (e.g. by using common misconceptions within multiple-choice questions). #6-Assessment-Learn-how-to-6-identify_misconceptions_in_lesson
 4. And - following expert input - by taking opportunities to practise, receive feedback and improve at: 
     1. Using assessments to check for prior knowledge and pre-existing misconceptions.
     2. Prompting pupils to elaborate when responding to questioning to check that a correct answer stems from secure understanding. 
@@ -235,10 +256,10 @@ scaffold talk?
     2. Receiving clear, consistent and effective mentoring in how to scaffold self-assessment by sharing model work with pupils, highlighting key details. 
     3. Discussing and analysing with expert colleagues how to ensure feedback is specific and helpful when using peer- or self-assessment. 
 6. And - following expert input - by taking opportunities to practise, receive feedback and improve at: 
-    1. Focusing on specific actions for pupils and providing time for pupils to respond to feedback.
+    1. Focusing on specific actions for pupils and providing time for pupils to respond to feedback. #6-Assessment-Learn-how-to-10-thinking_time
 7. Make marking manageable and effective, by:
     1. Receiving clear, consistent and effective mentoring in how to record data only when it is useful for improving pupil outcomes.
-    2. Discussing and analysing with expert colleagues to develop an understanding that written marking is only one form of feedback.
+    2. Discussing and analysing with expert colleagues to develop an understanding that written marking is only one form of feedback. 
     3. Discussing and analysing with expert colleagues how to identify efficient approaches to marking and alternative approaches to providing feedback (e.g. using whole class feedback or well supported peer- and self-assessment) and deconstructing this approach. 
 8. And - following expert input - by taking opportunities to practise, receive feedback and improve at: 
     1. Using verbal feedback during lessons in place of written feedback after lessons where possible.
@@ -248,52 +269,74 @@ scaffold talk?
 ## Managing Behaviour (Standard 7 – ‘Manage behaviour effectively’)
 
 ### Learn that
-1. Establishing and reinforcing routines, including through positive reinforcement, can help create an effective learning environment.
-2. A predictable and secure environment benefits all pupils, but is particularly valuable for pupils with special educational needs.
-3. The ability to self-regulate one’s emotions affects pupils’ ability to learn, success in school and future lives.
-4. Teachers can influence pupils’ resilience and beliefs about their ability to succeed, by ensuring all pupils have the opportunity to experience meaningful success.
-5. Building effective relationships is easier when pupils believe that their feelings will be considered and understood.
-6. Pupils are motivated by intrinsic factors (related to their identity and values) and extrinsic factors (related to reward).
-7. Pupils’ investment in learning is also driven by their prior experiences and perceptions of success and failure.
+1. Establishing and reinforcing routines, including through positive reinforcement, can help create an effective learning environment. #7-Behaviour-Learn-that-1-routines
+2. A predictable and secure environment benefits all pupils, but is particularly valuable for pupils with special educational needs. #7-Behaviour-Learn-that-2-consistent_reward_sanction
+3. The ability to self-regulate one’s emotions affects pupils’ ability to learn, success in school and future lives. #7-Behaviour-Learn-that-3-regulate_emotions
+4. Teachers can influence pupils’ resilience and beliefs about their ability to succeed, by ensuring all pupils have the opportunity to experience meaningful success. #7-Behaviour-Learn-that-4-resilience_meaningful_success
+5. Building effective relationships is easier when pupils believe that their feelings will be considered and understood. #7-Behaviour-Learn-that-5-value_pupil_feelings
+6. Pupils are motivated by intrinsic factors (related to their identity and values) and extrinsic factors (related to reward). #7-Behaviour-Learn-that-6-intrinsic_motivation
+7. Pupils’ investment in learning is also driven by their prior experiences and perceptions of success and failure. #7-Behaviour-Learn-that-7-invest_from_prior_success
 
 ### Learn how to
 
 1. Develop a positive, predictable and safe environment for pupils, by:
-    1. Receiving clear, consistent and effective mentoring in how to respond quickly to any behaviour or bullying that threatens emotional safety. 
+    1. Receiving clear, consistent and effective mentoring in how to respond quickly to any behaviour or bullying that threatens emotional safety.  #7-Behaviour-Learn-how-1-respond_emotional_safety
 2. And - following expert input - by taking opportunities to practise, receive feedback and improve at: 
-    1. Establishing a supportive and inclusive environment with a predictable system of reward and sanction in the classroom.
-    2. Working alongside colleagues as part of a wider system of behaviour management (e.g. recognising responsibilities and understanding the right to assistance and training from senior colleagues).
-    3. Giving manageable, specific and sequential instructions.
-    4. Checking pupils’ understanding of instructions before a task begins.
-    5. Using consistent language and non-verbal signals for common classroom directions.
-    6. Using early and least-intrusive interventions as an initial response to low level disruption.
+    1. Establishing a supportive and inclusive environment with a predictable system of reward and sanction in the classroom. #7-Behaviour-Learn-how-2-consistent_reward_sanction
+    2. Working alongside colleagues as part of a wider system of behaviour management (e.g. recognising responsibilities and understanding the right to assistance and training from senior colleagues). #7-Behaviour-Learn-how-3-wider
+    3. Giving manageable, specific and sequential instructions. #7-Behaviour-Learn-how-4-specific_instruction_consistent
+    4. Checking pupils’ understanding of instructions before a task begins. #7-Behaviour-Learn-how-5-check_understanding_instruction
+    5. Using consistent language and non-verbal signals for common classroom directions. #7-Behaviour-Learn-how-6-non_verbal
+    6. Using early and least-intrusive interventions as an initial response to low level disruption. #7-Behaviour-Learn-how-7-least_intrusive_intervention
 3. Establish effective routines and expectations, by:
-    1. Discussing and analysing with expert colleagues how routines are established at the beginning of the school year, both in classrooms and around the school
+    1. Discussing and analysing with expert colleagues how routines are established at the beginning of the school year, both in classrooms and around the school #7-Behaviour-Learn-how-8-routines-wider
 4. And - following expert input - by taking opportunities to practise, receive feedback and improve at: 
-    1. Creating and explicitly teaching routines in line with the school ethos that maximise time for learning (e.g. setting and reinforcing expectations about key transition points).
+    1. Creating and explicitly teaching routines in line with the school ethos that maximise time for learning (e.g. setting and reinforcing expectations about key transition points). #7-Behaviour-Learn-how-9-routines-transitions
     2. Reinforcing established school and classroom routines
 5. Build trusting relationships, by: 
-    1. Discussing and analysing with expert colleagues effective strategies for liaising with parents, carers and colleagues to better understand pupils’ individual circumstances and how they can be supported to meet high academic and behavioural expectations.
+    1. Discussing and analysing with expert colleagues effective strategies for liaising with parents, carers and colleagues to better understand pupils’ individual circumstances and how they can be supported to meet high academic and behavioural expectations. #7-Behaviour-Learn-how-11-engage_parents
 6. And - following expert input - by taking opportunities to practise, receive feedback and improve at: 
-    1. Responding consistently to pupil behaviour. 
-    2. Engaging parents, carers and colleagues with support (e.g. discussing a script) from expert colleagues and mentors both in formal and informal settings. 
+    1. Responding consistently to pupil behaviour.  #7-Behaviour-Learn-how-12-consistent_reward_sanction
+    2. Engaging parents, carers and colleagues with support (e.g. discussing a script) from expert colleagues and mentors both in formal and informal settings. #7-Behaviour-Learn-how-13-engage_parents
 7. Motivate pupils, by: 
-    1. Observing how expert colleagues support pupils to master challenging content, which builds towards long-term goals and deconstructing this approach. 
-    2. Discussing and analysing with expert colleagues how experienced colleagues provide opportunities for pupils to articulate their long-term goals and helping them to see how these are related to their success in school.
-    3. Discussing and analysing with expert colleagues how to support pupils to journey from needing extrinsic motivation to being motivated to work intrinsically. 
+    1. Observing how expert colleagues support pupils to master challenging content, which builds towards long-term goals and deconstructing this approach. #7-Behaviour-Learn-how-14-learning_is_lasting
+    2. Discussing and analysing with expert colleagues how experienced colleagues provide opportunities for pupils to articulate their long-term goals and helping them to see how these are related to their success in school. #7-Behaviour-Learn-how-15-careers_long_term_pastoral
+    3. Discussing and analysing with expert colleagues how to support pupils to journey from needing extrinsic motivation to being motivated to work intrinsically.  #7-Behaviour-Learn-how-16-intrinsic_motivation
+
 
 ## Professional Behaviours (Standard 8 – ‘Fulfil wider professional responsibilities’)
 
 ### Learn that
-1. Effective professional development is likely to be sustained over time, involve expert support or coaching and opportunities for collaboration.
-2. Reflective practice, supported by feedback from and observation of experienced colleagues, professional debate, and learning from educational research, is also likely to support improvement.
-3. Teachers can make valuable contributions to the wider life of the school in a broad range of ways, including by supporting and developing effective professional relationships with colleagues.
-4. Building effective relationships with parents, carers and families can improve pupils’ motivation, behaviour and academic success.
-5. Teaching assistants (TAs) can support pupils more effectively when they are prepared for lessons by teachers, and when TAs supplement rather than replace support from teachers
-6. SENCOs, pastoral leaders, careers advisors and other specialist colleagues also have valuable expertise and can ensure that appropriate support is in place for pupils.
-7. Engaging in high-quality professional development can help teachers improve.
+1. Effective professional development is likely to be sustained over time, involve expert support or coaching and opportunities for collaboration. #8-Wider-Learn-that-1-sustained_cpd
+2. Reflective practice, supported by feedback from and observation of experienced colleagues, professional debate, and learning from educational research, is also likely to support improvement. #8-Wider-Learn-that-2-reflect
+3. Teachers can make valuable contributions to the wider life of the school in a broad range of ways, including by supporting and developing effective professional relationships with colleagues. #8-Wider-Learn-that-4-engage_parents
+4. Building effective relationships with parents, carers and families can improve pupils’ motivation, behaviour and academic success. #8-Wider-Learn-that-5-teaching_assistants
+5. Teaching assistants (TAs) can support pupils more effectively when they are prepared for lessons by teachers, and when TAs supplement rather than replace support from teachers 
+6. SENCOs, pastoral leaders, careers advisors and other specialist colleagues also have valuable expertise and can ensure that appropriate support is in place for pupils. #8-Wider-Learn-that-6-special_needs_wider
+7. Engaging in high-quality professional development can help teachers improve. #8-Wider-Learn-that-7-quality_cpd
+
 
 ### Learn how to
+
+#8-Wider-Learn-how-1-cpd-specific-consistent
+#8-Wider-Learn-how-2-part2
+#8-Wider-Learn-how-3-cpd-subject-wider-external
+#8-Wider-Learn-how-4-extend_pedagogy
+#8-Wider-Learn-how-5-seek_critique
+#8-Wider-Learn-how-6-reflect_actions
+#8-Wider-Learn-how-7-research_critique
+#8-Wider-Learn-how-8-contribute_team
+#8-Wider-Learn-how-9-observe_engage_parents
+#8-Wider-Learn-how-10-special_needs_wider
+#8-Wider-Learn-how-11-teaching_assistants
+#8-Wider-Learn-how-12-careers_long_term_pastoral
+#8-Wider-Learn-how-13-safeguarding
+#8-Wider-Learn-how-14-teaching_assistants
+#8-Wider-Learn-how-15-manage_workload
+#8-Wider-Learn-how-16-supported_with_behaviour
+#8-Wider-Learn-how-17-wellbeing_and_support
+#8-Wider-Learn-how-18-use_shared_resources
+
 
 1. Develop as a professional, by: 
     1. Receiving clear, consistent and effective mentoring in how to engage in professional development with clear intentions for impact on pupil outcomes, sustained over time with built-in opportunities for practice
@@ -325,75 +368,5 @@ scaffold talk?
 Hashtags
 --------
 
-#6-Assessment-Learn-that-1-assess_needs
-#6-Assessment-Learn-that-2-quantify
-#6-Assessment-Learn-that-3-justify
-#6-Assessment-Learn-that-4-pupil_action
-#6-Assessment-Learn-that-5-feedback_specific
-#6-Assessment-Learn-that-6-pupils_action
-#6-Assessment-Learn-that-7-proportionate
-#6-Assessment-Learn-how-to-1-hinge_question
-#6-Assessment-Learn-how-to-2-external_resources
-#6-Assessment-Learn-how-to-3-monitor_data
-#6-Assessment-Learn-how-to-4-identify_misconceptions
-#6-Assessment-Learn-how-to-5-questioning_stretch
-#6-Assessment-Learn-how-to-6-identify_misconceptions_in_lesson
-#6-Assessment-Learn-how-to-7-feedback_appropriate
-#6-Assessment-Learn-how-to-8-self_assessment
-#6-Assessment-Learn-how-to-9-self_assessment_feedback
-#6-Assessment-Learn-how-to-10-thinking_time
-#6-Assessment-Learn-how-to-11-monitor_data_to_planning
-#6-Assessment-Learn-how-to-12-feedback_methods
-#6-Assessment-Learn-how-to-13-feedback_methods_alternate
-#6-Assessment-Learn-how-to-14-feedback_methods_alternate
-#6-Assessment-Learn-how-to-15-verbal_feedback
-#6-Assessment-Learn-how-to-16-feedback_abbreviations
-#6-Assessment-Learn-how-to-16-feedback_identify_misconceptions
 
-#7-Behaviour-Learn-that-1-routines
-#7-Behaviour-Learn-that-2-consistent_reward_sanction
-#7-Behaviour-Learn-that-3-regulate_emotions
-#7-Behaviour-Learn-that-4-resilience_meaningful_success
-#7-Behaviour-Learn-that-5-value_pupil_feelings
-#7-Behaviour-Learn-that-6-intrinsic_motivation
-#7-Behaviour-Learn-that-7-invest_from_prior_success
-#7-Behaviour-Learn-how-1-respond_emotional_safety
-#7-Behaviour-Learn-how-2-consistent_reward_sanction
-#7-Behaviour-Learn-how-3-wider
-#7-Behaviour-Learn-how-4-specific_instruction_consistent
-#7-Behaviour-Learn-how-5-check_understanding_instruction
-#7-Behaviour-Learn-how-6-non_verbal
-#7-Behaviour-Learn-how-7-least_intrusive_intervention
-#7-Behaviour-Learn-how-8-routines-wider
-#7-Behaviour-Learn-how-9-routines-wider-consistent
-#7-Behaviour-Learn-how-11-engage_parents
-#7-Behaviour-Learn-how-12-consistent_reward_sanction
-#7-Behaviour-Learn-how-13-engage_parents
-#7-Behaviour-Learn-how-14-learning_is_lasting
-#7-Behaviour-Learn-how-15-careers_long_term_pastoral
-#7-Behaviour-Learn-how-16-intrinsic_motivation
 
-#8-Wider-Learn-that-1-sustained_cpd
-#8-Wider-Learn-that-2-reflect
-#8-Wider-Learn-that-4-engage_parents
-#8-Wider-Learn-that-5-teaching_assistants
-#8-Wider-Learn-that-6-special_needs_wider
-#8-Wider-Learn-that-7-quality_cpd
-#8-Wider-Learn-how-1-cpd-specific-consistent
-#8-Wider-Learn-how-2-part2
-#8-Wider-Learn-how-3-cpd-subject-wider-external
-#8-Wider-Learn-how-4-extend_pedagogy
-#8-Wider-Learn-how-5-seek_critique
-#8-Wider-Learn-how-6-reflect_actions
-#8-Wider-Learn-how-7-research_critique
-#8-Wider-Learn-how-8-contribute_team
-#8-Wider-Learn-how-9-observe_engage_parents
-#8-Wider-Learn-how-10-special_needs_wider
-#8-Wider-Learn-how-11-teaching_assistants
-#8-Wider-Learn-how-12-careers_long_term_pastoral
-#8-Wider-Learn-how-13-safeguarding
-#8-Wider-Learn-how-14-teaching_assistants
-#8-Wider-Learn-how-15-manage_workload
-#8-Wider-Learn-how-16-supported_with_behaviour
-#8-Wider-Learn-how-17-wellbeing_and_support
-#8-Wider-Learn-how-18-use_shared_resources

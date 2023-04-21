@@ -30,7 +30,7 @@ Your Subject Knowledge
 * The students need to know you that you can read/learn/grow.
 * If you pretend to know it all, you will fall. Students will outpace you.
 
-Discussion:
+Teacher skill discussion:
 * Teachers are not expected/required to sit the GCSE's and A-Level exams each year along with their students.
 * Would this be important requirement? would this ongoing feedback be valuable?
 * Why is a teacher taking exams not common ongoing practice?
@@ -47,6 +47,7 @@ Time
     * 4 to 5 hours a week contact? (over 36 weeks)
     * A single A-Level year-group is 25% of a teachers full-time timetable
         * With both 12 and 13 that is 50% of a timetable
+        * (See co-teaching resources later for teaching AS and A2 together)
 
 
 AQA Module Weight
@@ -117,13 +118,13 @@ Academic continuation of GCSE.
 
 * [AQA/OCR Comparison](https://www.aqa.org.uk/resources/computer-science-and-it/as-and-a-level/computer-science-7516-7517/plan/aqa-or-ocr)
     * AQA is explicitly clear what is in the spec - practical exam is genuine application
-    * OCR Coursework mostly writeup, Spec theory is vague, little practical, difficult to engage students, resources locked behind login (inaccessible to students)
+    * OCR Coursework mostly writeup rather than code, Spec theory is vague, little practical, difficult to engage students, resources locked behind login (inaccessible to students)
 
 
 Vocational Level 3 Courses (1 Hour)
 --------------------------
 
-(Welcome to the entire world of FE! - TODO: Organise Guest Speaker)
+(Welcome to the entire world of FE!)
 
 * Combinations of module configurations for different needs
 * Lots of specs that combine the modules in different ways
@@ -131,7 +132,7 @@ Vocational Level 3 Courses (1 Hour)
 * Practical focus
 * Lots of time/expertise/resources required - only financially viable to colleges?
 
-Task: (5 min)
+Task: (10 min)
 * Look at the 
     * Range of modules available
     * Look at the number of qualification types
@@ -168,7 +169,7 @@ Task:
     * An A-Level is a very expensive course for schools to offer (number of students vs teacher time)
         * Not all schools can deliver A-Level
 
-### TLevels (2020)
+### T-Levels (2020)
 
 * National Center for Further Education (NCFE) - [NCFE T-Levels](https://www.ncfe.org.uk/technical-education/t-levels/)
     * Overview
@@ -188,15 +189,14 @@ Task:
             * Paper A written examination (34%)
             * Paper B written examination (41%)
             * Employer-set project (ESP) (25%)
+            * (hold up ... this was meant to be a practical on the job based qualification?! is 75% exam paper? how is this different to school?)
         * Summary
             * (Like old ICT mushed with aspects of Computing)
             * Install software (local or remotely), Setup policies, collect/process data, risk management, cable testing, accessibility for users
         * Questions
-            * How many hours are students expected to commit to this course? THink about: How are those hours split? How many hours a week?
+            * How many hours are students expected to commit to this course? Think about: How are those hours split? How many hours a week?
             * What assignments are set during this course? How long as the assignments? How are these assignments different from other qualifications?
             * What TLevels are available in other subjects?
-
-
 
 
 Example A-Level Course Layouts
@@ -214,6 +214,9 @@ Example A-Level Course Layouts
         * [delivery-guide](https://www.ocr.org.uk/qualifications/as-a-level-gce-computer-science-h046-h446-from-2015/delivery-guide/) online activity builder
         * Online [SOW builder](https://www.ocr.org.uk/qualifications/as-a-level-gce-computer-science-h046-h446-from-2015/scheme-of-work-builder/builder)
             * Statements (from spec), Activities (bag of), Notes
+    * Co-Teaching Year 12 and 13 together
+        * AQA and OCR have identified that A-Levels are expensive and aligned the AS and ALevel curriculums to enable SSDD (Same Surface, Different Depth)
+
 * For Experienced Teacher
     * Project Time
         * Give all practical activities at beginning of year (more below)
@@ -254,7 +257,7 @@ Passed Papers (45min)
 Combine QP (question paper), MS (mark scheme) and WRE (Examiners report)
 * [OCR H046-H446](https://www.ocr.org.uk/qualifications/as-and-a-level/computer-science-h046-h446-from-2015/assessment/)
 * [AQA 7516-7517](https://www.aqa.org.uk/subjects/computer-science-and-it/as-and-a-level/computer-science-7516-7517/assessment-resources)
-    * [Spec-2015+](https://filestore.aqa.org.uk/resources/computing/specifications/AQA-7516-7517-SP-2015.PDF) updated 2019
+    * Use the filters to the left
 * Old
     * AQA-5511-6511 [Spec-2008](https://www.scribd.com/document/94761/AQA-5511-6511-W-SP-08) 2003-2008?
     * AQA 2510 [Spec-2014](http://smartfile.s3.amazonaws.com/ac0a4ac2fc14b45086e9c5af7511da39/uploads/2017/06/AQA-2510-W-SP-14.pdf) 2003-2015?
@@ -271,9 +274,10 @@ Combine QP (question paper), MS (mark scheme) and WRE (Examiners report)
         * Currently active qualifications
 
 TASK: Do a question + Use Mark Scheme + Examiners report (25min)
+Find and read the QP+MS+ER for `AQA A-Level June 2019 Paper2 Q6.2`
 
 * Suggested classroom use
-    * Just say `AQA Nov 2020 A-Level Paper2 Q3.6`
+    * Just say `AQA A-Level Nov 2020 Paper2 Q3.2`
         * > Explain why the volatile environment (the contents of registers) must be saved before an interrupt is serviced
         * Students can find it themselves (teach them to setup bookmarks, download, should take them 60 seconds)
             * Don't rename the files (the exam board named them that way for a reason. Learn the naming convention)
@@ -287,27 +291,14 @@ TASK: Do a question + Use Mark Scheme + Examiners report (25min)
         * Don't be afraid to use the same question you've used before
             * "we've done this" -> then get 100% in 2mins, off you go, don't use your notes
             * Hit them with exam questions until they bleed
-                * [ExamPro](https://www.exampro.co.uk/computer-science/) AQA's exam generator (GCSE + A-Level)
+* Tools
+    * AQA [ExamPro](https://www.exampro.co.uk/computer-science/) AQA's exam generator (GCSE + A-Level)
+        * Paid for service - probably worth it for the search function
 
 * Your lesson plan now becomes:
     * `AQA 2016 AS Jun Paper2 Q6`
     * https://conwaylife.com/wiki/Run_Length_Encoded
     * `AQA 2017 A2 Paper 1 June Q7`
-
-
-AS -> A2 Progression
---------------------
-
-You *will* need to use multiple languages
-* ObjectOrientation (describes Java)
-* Functional programming (Haskell)
-
-* SQL
-* REST Server - API JSON/XML
-    * Example Task: Generate RSS-feed and json from twitter
-* Karnaugh maps - Full Adder D Type Flip Flops - [De-morgans](https://www.csus.edu/indiv/p/pangj/class/cpe64/ademo/l1_demo_demorgan.pdf)
-    * > "break the line, change the sign" (operation)
-* A* pathfinding
 
 
 AS practical exam questions (45 min)
@@ -437,6 +428,11 @@ Test the program works by entering the text A.
 </details>
 
 
+
+Further Reading
+===============
+
+
 AS Specimen Paper (1 hour)
 -----------------
 
@@ -480,7 +476,6 @@ My Notes:
 * Lamp
 * Obstacles
 * Save
-
 
 
 Beyond the Classroom
@@ -583,7 +578,23 @@ Statistics
 A-Level Topic Notes
 -------------------
 
-Summary of interesting bits
+
+### AS -> A2 Progression
+
+
+You *will* need to use multiple languages
+* ObjectOrientation (describes Java)
+* Functional programming (Haskell)
+
+* SQL
+* REST Server - API JSON/XML
+    * Example Task: Generate RSS-feed and json from twitter
+* Karnaugh maps - Full Adder D Type Flip Flops - [De-morgans](https://www.csus.edu/indiv/p/pangj/class/cpe64/ademo/l1_demo_demorgan.pdf)
+    * > "break the line, change the sign" (operation)
+* A* pathfinding
+
+
+### Summary of interesting bits
 
 * Abstraction
     * Stack with array and pointers
