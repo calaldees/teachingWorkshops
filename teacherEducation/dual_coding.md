@@ -14,3 +14,5 @@ Dual Coding
 He has illustrated many of the theories we are looking at today
 
 * [Google: computing+knowledge+organiser+ks3](https://www.google.com/search?q=computing+knowlege+organiser+ks3)
+
+avoid unneeded distractors in presentations (pictures of brains - they look cool, but they don't convey anything)

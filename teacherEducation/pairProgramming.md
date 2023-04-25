@@ -1,6 +1,16 @@
 Pair Programming (1 Hour)
 -------------------------
 
+TODO:
+* [Facilitating Group Learning Using an Apprenticeship Model: Which Master is More Effective in Programming Instruction?](https://journals.sagepub.com/doi/abs/10.1177/07356331231170382?ai=2b4&mi=ehikzz&af=R)
+* Following an apprenticeship model, each group has a designated master: 
+    * drivers in pair programming (PP)
+    * peer leaders in peer-led team learning (PLTL)
+    * practitioners in practitioner-assisted group learning (PAGL)
+    * the PP group received the lowest mean scores.
+    * Meanwhile, no significant difference was found between the PLTL and PAGL groups.
+    * Both PLTL and PAGL groups reported a significant increase in social factors after 14 weeks of intervention.
+
 * ITT CCF 4.9 #4-Classroom-Learn-that-9-group_pair_guidance
     * Paired and group activities can increase pupil success, but to work together effectively pupils need guidance, support and practice
 * ITT CCF 4.10 #4-Classroom-Learn-that-10-group_pair_monitor

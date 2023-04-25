@@ -2,6 +2,15 @@ AI in the classroom (30min)
 ===================
 
 TODO:
+* [AI Tools for Teachers](https://rachelarthurwrites.com/2023/04/24/ai-tools-for-teachers/) Rachel Arthur 2023
+    * Lesson Planning and slide decks
+    * Marking and Report writing
+    * Admin and Organisation
+    * Adaptive Tools
+    * Personalised Learning
+    * Chat Bots
+    * Creativity
+    * Research / Academic Writing
 * [AI Won't Replace Teachers, but it will replace teachers who don't use AI.](https://www.linkedin.com/pulse/ai-wont-replace-teachers-who-dont-use-dan-fitzpatrick)
 * [Chatting and cheating: Ensuring academic integrity in the era of ChatGPT](https://www.tandfonline.com/doi/full/10.1080/14703297.2023.2190148) 2023 Cotton
 * [How to learn to code FAST using ChatGPT (it's a game changer seriously)](https://www.youtube.com/watch?v=VznoKyh6AXs) YouTube 21min Tina Huang

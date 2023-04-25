@@ -57,6 +57,8 @@ Task (1 hour)
     * Top tip
         * Consider whether students might learn more doing a task by themselves or whether a group task would help to push all the students forward in their thinking, or support practice and formative assessment.
 
+Don't let one or two people do all the work - the AIM is that EVERY member of the group learns - the structures teachers use do not normally facilitate that. (One person doing the presentation)
+
 
 Socratic Circle/Debate
 ----------------------

@@ -13,21 +13,22 @@ Readings
 ### General
 1. Who are we?
 2. How do you learn how to teach?
+    * Journal of Teacher Education: [The Work of Teaching and the Challenge for Teacher Education](https://journals.sagepub.com/doi/abs/10.1177/0022487109348479) 2009
 3. What is a teacher?
 4. What is education
 5. How do children learn?
     * [Why Don’t Students Like School](https://udlhcpss.files.wordpress.com/2012/05/willingham_2009_thestudentmind.pdf) Wilingham 2009 - as featured in American Educator
     * [Get in front of their behaviour](https://www.olicav.com/s/2-Get-In-Front-Of-Their-Behaviour.pdf) Poster - Tom Bennet 20xx - Oliver Caviglioli (5min)
     * [Understanding How we Learn - A visual guide](https://www.learningscientists.org/book) 2018
-7. How do you plan and assess for learning?
-8. What does inclusion really mean?
+6. How do you plan and assess for learning?
+7. What does inclusion really mean?
     * [Identifying more able learners: beyond the numbers](https://www.nace.co.uk/blogpost/1764163/327555/Identifying-more-able-learners-beyond-the-numbers) NACE 2019
     * [Mixed-attainment teaching: Careful steps towards better outcomes](https://impact.chartered.college/article/ehrlich_mixed-attainment-teaching-outcomes/) May 2018 Impact- Chartered College of Teaching
-9. What is a broad and balanced curriculum?
+8. What is a broad and balanced curriculum?
     * [Program Comprehension with Physical Computing: A Structure, Function, and Behavior Analysis of Think-Alouds with High School Students](https://dl.acm.org/doi/10.1145/3430665.3456371) Jayathirtha & Kafia 2021
-10. How do you lead learning?
+9.  How do you lead learning?
     * 
-11. What is my impact?
+10. What is my impact?
 
 
 
@@ -553,6 +554,9 @@ Friday 13th January - 09:00
 SPR2 Out
 
 ### SP14 (PGCE Only)
+
+? BETT Show?
+
 Friday 22nd February - 09:00
 * Planning to aid learning in subject
     * short to medium term, catering for all needs
@@ -757,7 +761,7 @@ Friday 26th May - 17:30
 
 ---
 
-Profetional Presentation 26th May
+Professional Presentation 26th May
 
 Half Term
 

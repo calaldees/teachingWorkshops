@@ -1,13 +1,17 @@
-Creative Teaching
+Creative Teaching (1 hour)
 =================
 
 * Teach a prescribed curriculum - assessed centrally
     * Lack of risk taking
 * Where session slides are created centrally and teachers are expected to follow them, in the name of standardisation.
-    * The internet is now here .. trainees can just download resources rather than make them
-* OFSTED resorts and inspection guidance don't focus on creativity.
-    * Has a school ever failed an inspection by being not creative/reflective enough?
-* [ITT core content framework](https://www.gov.uk/government/publications/initial-teacher-training-itt-core-content-framework) (2019) - does not mention creativity
+    * The internet is now here ... trainees can just download resources rather than make them
+* Ofsted reports and inspection guidance don't focus on creativity.
+    * Has a school ever failed an inspection by being not creative enough?
+* [[CCF]] (2019) - does not mention creativity
+* [[ofstedComputing]] 2022 review says
+    * > creativity to understand and change the world
+    * > confident in using applications in creative projects
+    * not overlay much
 * 'good behaviour' is valued more than creativity....?
 * Trainees prefer didactic and transmissive teaching mechanisms
 
@@ -28,12 +32,12 @@ my notes
 * little c - 
 
 * "The Creativity Conundrum"
-    * base skills - louie armstrong cant be creative if he doesnt know what end of the trumpet to blow into
+    * base skills - Louie Armstrong cant be creative if he doesn't know what end of the trumpet to blow into
     * pallet of skills
 
-Nobody can become autonomous leaner without being creative
-Risks required for _outstanding_
-encourage trainees to be subversive!
+* Nobody can become autonomous leaner without being creative
+* Risks required for _outstanding_
+* encourage trainees to be subversive!
 
 
 Is we are creative, how does that help them?
@@ -56,11 +60,11 @@ Can't just go from 0 to creative
             * Explicitly using pedagogies and practices that cultivate creativity in young people
     * > Unless an aspect of creativity is specified by a particular syllabus it is unlikely to be developed in busy, results-concious schools. Many examinations at GCSE level and above invariably focus on knowledge recall and leave less scope for creative questioning and problem-solving, or the exercise of curiosity though deep enquiry
         * pg 55
-    * [10 Recommendations](https://www.artscouncil.org.uk/sites/default/files/download-file/Durham_Commission_on_Creativity_04112019_0.pdf)
+    * [10 Recommendations](https://www.artscouncil.org.uk/sites/default/files/download-file/Durham_Commission_on_Creativity_04112019_0.pdf) artscouncil.org.uk
         * should be recognised in the Ofsted inspection process
         * Higher education institutions ... to develop research informed practice to evaluate creativity, looking at how creativity and creative thinking can be identified across disciplines, and how its impact can be measured.
         * training for teachers in digital literacy and digital creativity, with time and resource committed to it.
-        *  diverse routes to take part in creative activities outside of school hours.
+        * diverse routes to take part in creative activities outside of school hours.
 
 
 * Collard and Looney (2014) argue that for learning to be creative, teachers need to see creativity as a process in which they 'build learners' own competence to assess the quality of their ideas.
@@ -79,21 +83,21 @@ graph TD:
 Flow Theory
 -----------
 
-[Flow in Education](https://www.sciencedirect.com/science/article/pii/B9780080448947006084) Schmidt 2010
-* Graph
-    * Challenge Low->High
-    * Skill Low->High
-    * (more challenge than skill == anxiety)
-    * (more skill than challenge == boredom)
-* Abstract
-    * Flow refers to a state of total absorption in the task at hand; a merging of action and experience where the individual loses track of both time and self. 
-    * Researchers have identified several conditions under which the flow experience tends to emerge. 
-    * Two of these conditions – high levels of challenge matched to an individual’s skills – are often present in educational environments, 
-    * but other important conditions are largely absent in classrooms, with the result that students do not experience flow in school as often as one might expect.
+* [Flow in Education](https://www.sciencedirect.com/science/article/pii/B9780080448947006084) Schmidt 2010
+    * Abstract
+        * Flow refers to a state of total absorption in the task at hand; a merging of action and experience where the individual loses track of both time and self. 
+        * Researchers have identified several conditions under which the flow experience tends to emerge.
+        * Two of these conditions – high levels of challenge matched to an individual’s skills – are often present in educational environments,
+        * but other important conditions are largely absent in classrooms, with the result that students do not experience flow in school as often as one might expect.
+    * Graph
+        * Challenge Low->High
+        * Skill Low->High
+        * (more challenge than skill == anxiety)
+        * (more skill than challenge == boredom)
 
 
 
-risk taking (40min)
+Risk Taking (40min)
 ------------------
 
 Support trainee teachers to take risks - mentor conversation?
@@ -118,6 +122,7 @@ Consider:
 * School Field (Networks)
 * Screwdriver + Computer + Put back together
 * Competition with another class (clear criteria?)
+* Present at another school?
 * Anonymous peer marking (test software?)
 * Ask for genuine feedback - students struggle with writing (literacy?) - allow verbal discussion with your outside (window wave 10-15min?) - class rep? (must relay all ideas even if they do not agree with them) - provide scaffold focus points. Simplify "I don't mind if you don't like me. I do mind if you do not feel that you've made progress". Formative for me/teacher. It's hard to look in the mirror.
 
@@ -125,14 +130,16 @@ Consider:
 
 * Organising game tournaments (over to them!)
 
-</details>
-
-<details>
-
 speed coding
-class teach another class
-debate - dramatise it up
+* class teach another class
+    * Year 10/11?
+* debate - dramatise it up
 
 measure class over 3 years - ethical?
 
 </details>
+
+[//begin]: # "Autogenerated link references for markdown compatibility"
+[CCF]: national_documentation/CCF.md "Core Content Framework"
+[ofstedComputing]: ofstedComputing.md "Ofsted Computing"
+[//end]: # "Autogenerated link references"

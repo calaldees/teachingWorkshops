@@ -1,6 +1,19 @@
 Questioning
 ===========
 
+* [Questioning for retrieval: five mistakes to avoid](https://improvingteaching.co.uk/2023/04/23/questioning-for-retrieval-five-mistakes-to-avoid/) Harry-Fletcher-Wood 2023
+    * Mistake 1: Asking for hands up
+    * Mistake 2: Mostly asking the boys
+    * Mistake 3: Bouncing the question to another student (too early)
+    * Mistake 4: Don’t round up a wrong answer to a right one
+        * Just going though your teacher script and protecting their ego
+        * Students learn that if you don't answer the question, the teacher will answer it anyway
+    * Mistake 5: Talking too much
+    * Conclusions
+        * mistakes’ are in fact fairly innate elements of human behaviour
+        * the instinct of most trainees, and maybe most teachers, is to avoid children feeling bad.
+        * the job of a teacher is to push students beyond what they think they can do
+
 * Dialogic Teaching
 * Diagnostic Questions
 * Hinge Questions

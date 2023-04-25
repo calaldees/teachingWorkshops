@@ -7,3 +7,7 @@ TODO: read
 * [](https://research.abo.fi/ws/files/26560210/The%20impact%20of%20digitalization%20on%20literacy.pdf)
 * [ Digital Natives or Digital Refugees? ](https://doi.org/10.29173/iasl7656)
 * 
+
+
+* [A Defense of Text-Speak](https://www.nateranda.com/blog/post/a-defense-of-text-speak/)
+    * Breakdown of features of text-speak and why it's creative and well constructed.

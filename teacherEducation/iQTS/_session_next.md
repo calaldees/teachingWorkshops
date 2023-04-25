@@ -64,3 +64,5 @@ Mentor meeting
 
 
 "research informed" (not really the case) - It's "evidence based" (is more reallity)
+
+SD don't get "inclusion" (i session) or "what is my impact"

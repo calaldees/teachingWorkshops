@@ -23,6 +23,8 @@ SP1
     * Ofsted [Research review series: computing](https://www.gov.uk/government/publications/research-review-series-computing/research-review-series-computing) May 2022
     * NCCE [Quick Reads](https://blog.teachcomputing.org/tag/quickread/) (1 hour)
         * Investigation + Discussion
+    * [Lighthouse Statement](https://forms.office.com/Pages/ResponsePage.aspx?id=2rIgA90iq02MIW5kS6FPE4bZosdBzY5AvRurHpjUivVUNDdFT1g3NjExRTg5V0dPWUxPOEVEVDBSSC4u)
+
 
 Introductions
 -------------

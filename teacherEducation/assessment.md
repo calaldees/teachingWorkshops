@@ -515,11 +515,11 @@ Formative assessment is more effective steaming/setting
     * How can you improve teachers if you cant measure them
     * Pareto 80:20 rule
         * Don't raise money for tax's until you can be sure you are doing the best you can with your current money
-        * If have to take away from one thing to add to another - thats a political decision
+        * If have to take away from one thing to add to another - that's a political decision
         * If you can add to something without taking away from another - that's a technical matter and you should do it straight away
         * Can we improve education without adding more money?
         * If anything that you add damages what you have - then you are pareto optimal and only more money will improve it
-    * Research will never tell you _what_ to do - it tells you what currenty is
+    * Research will never tell you _what_ to do - it tells you what currently is
         * don't work
             * Smarter teachers
             * paying teachers more
@@ -528,7 +528,7 @@ Formative assessment is more effective steaming/setting
         * Might work
             * differentiated instruction
             * grit (only for westpoint graduates)
-            * growth mindset (impact on student achievem ent is not significant - never been validated)
+            * growth mindset (impact on student achievement is not significant - never been validated)
             * social and emotional aspects of teaching
         * work a bit
             * firing bad teachers
@@ -576,7 +576,7 @@ Formative assessment is more effective steaming/setting
     * Hold hand up and wait for silence
     * ask everyone to vote with fingers 1,2,3,4,5
     * responsiveness
-    * Factors with most difference - 1. high socioeconic status 2. teacher responsive instruction (formative assessment)
+    * Factors with most difference - 1. high socioeconomic status 2. teacher responsive instruction (formative assessment)
     * Least difference - exploration learner (because teachers probably do it badly). absence.
     * 'Area of Tapesium' 43:00 - introduce one method + formula - then in groups find all other ways
         * https://youtu.be/aPTZpLaJvUA?t=2580
@@ -599,7 +599,12 @@ Formative assessment is more effective steaming/setting
 
 Using evidence of achievement to adapt what happens in classrooms to meet learner needs
 
+Students will resist formative assessment stratergies
+> Why am I doing your marking?
 
+Teachers time is 100% full. There is nothing that teachers do that is 'not useful'. To make progress we need to prove that doing X is more effective than doing Y. You need to replace something with something more effective. https://youtu.be/7ynsMwzsCsg?t=2840
+
+`+` `-` `=` for all students every two weeks to parents - why bother writing lengthy comments - if you want to talk, talk to us
 
 
 Computer-Based Assessment (CBA) - Computer Adaptive Testing (CAT)
