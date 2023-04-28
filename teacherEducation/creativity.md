@@ -136,7 +136,7 @@ They appear correlated
 * Proposal [Factor structure of intelligence and divergent thinking subtests: A registered report](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251268) 2021 Dr Russell T. Warne - Utah Valley University
 
 
-* [Towards a computational theory of epistemic creativity](https://www.researchgate.net/publication/283778374_Towards_a_computational_theory_of_epistemic_creativity) 2015 Wiedermann Kent * [pdf](http://www.cs.kent.ac.uk/events/2015/AISB2015/proceedings/computationalCreativity/CC2015_submission_3.pdf)
+* [Towards a computational theory of epistemic creativity](https://www.researchgate.net/publication/283778374_Towards_a_computational_theory_of_epistemic_creativity) 2015 Wiedermann University of Kent [pdf](http://www.cs.kent.ac.uk/events/2015/AISB2015/proceedings/computationalCreativity/CC2015_submission_3.pdf)
     * > The field of artificial (general) intelligence has made no progress because there is an unsolved philosophical problem at its heart: we do not understand how creativity works (David Deutsch)
     *  the definitions (of creativity) are very informal, given in a natural language, 
     *  the definitions (of creativity) hardly ever mention the term knowledge
@@ -154,7 +154,7 @@ They appear correlated
     * > A 'metaphor' is an expression of language that describes a subject by comparing it with another unrelated subject resembling the original subject only in some semantic aspects
         * e.g. > "time is money"
     * > Allegories are typically used as literary devices or rhetorical devices that convey hidden meanings through symbolic figures, actions, imagery, and/or events, which together create the moral, spiritual,or political meaning the author wishes to convey
-    * Syntactic knowledge mining (traditional AI - searching for patterns in known data/knowlege)
+    * Syntactic knowledge mining (traditional AI - searching for patterns in known data/knowledge)
     * Semantic knowledge mining
         * is the main engine of creativity.
         * is formed in a natural language ... This complicates the searches since the meaning of linguistic terms must be known. The meaning of each term is, in fact, a piece of knowledge
@@ -173,7 +173,8 @@ They appear correlated
 * [Creativity requires solitude](https://dkb.show/post/creativity-requires-solitude)
     * todo
 
-* [Paperclips, Circles, and Six-Legged Spiders: An exploration of self-perceived and measured creativity among CS students](https://dl.acm.org/doi/10.1145/3373165.3373167) 2020 
+* [Paperclips, Circles, and Six-Legged Spiders: An exploration of self-perceived and measured creativity among CS students](https://dl.acm.org/doi/10.1145/3373165.3373167) 2020
+    * todo
 
 * [twitter - 3d platform game projection](https://twitter.com/johnblueriggs/status/1642552320549441538?t=-KUapS1or5dtdYQZiR5_PA&s=19)
 

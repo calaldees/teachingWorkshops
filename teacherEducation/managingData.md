@@ -68,11 +68,11 @@ Ofsted now focuses of looking at the schools data and evidence of _real learning
 
 RAISEonline replaced by _Analyse School Performance_ in September 2017
 
-[What is RAISEonline data – and why should it be publicly available?](http://helpmeinvestigate.com/education/2011/12/what-is-raiseonline-data-and-why-should-it-be-publicly-available/)
-    There’s a vast store of information about our schools, but access is limited. 
+* [What is RAISEonline data – and why should it be publicly available?](http://helpmeinvestigate.com/education/2011/12/what-is-raiseonline-data-and-why-should-it-be-publicly-available/)
+    * There’s a vast store of information about our schools, but access is limited. 
 
-[Analysing school performance: NGA (National Govenance Association)](https://www.governor.support/wp-content/uploads/2018/08/ASP-guidance_final-2018.pdf)
-A guide for governing boards on the DfE data service for schools
+* [Analysing school performance: NGA (National Governance Association)](https://www.governor.support/wp-content/uploads/2018/08/ASP-guidance_final-2018.pdf) 2018
+    * A guide for governing boards on the DfE data service for schools
 
 ### Attainment8 and Progress8
 

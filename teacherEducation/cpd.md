@@ -1,19 +1,6 @@
 CPD
 ===
 
-TODO: For computing, there is normally one super advocate in a school to bring everyone along on the journey. When that person leaves, the cards fall. Are you that person!
-
-DfE: only 11% of CPD is effective (ciration? heard this on 30/03/2023 Chris Carr STEM PDL leaders conference)
-
-* Effective CPD (Continued Professional Development)
-    * Measuring impact
-    * Sharing good practice
-    * Networking with other Computing practitioners
-
-
-Overall: Improving as a teacher throughout your career
-Why: Because we don't know everything and the world changes
-
 ## ITT Core Framework
 > 8.1
 > Effective professional development is likely to be sustained over time, involve expert support or coaching and opportunities for collaboration.
@@ -23,6 +10,48 @@ Why: Because we don't know everything and the world changes
 
 > 8.7
 > Engaging in high-quality professional development can help teachers improve
+
+
+Leading Learning - EEF CPD Example (30min)
+----------------
+#8-Wider-Learn-that-7-quality_cpd
+* [Professional Development Leaders Conference 2023 - keynote Alex Quigley](https://stemlearning.wistia.com/medias/q399quqg66) 03:38 to 10:00 (5min)
+    * Why use evidence ...
+    * Read these two programs - which is more effective and why (03:38 to 04:20)
+    * Programme 1
+        * Whole-school improvement programme that aims to improve the academic and social outcomes of primary school pupils
+        * Trained coaches deliver a bespoke two-year programme though monthly coaching sessions, focusing on leadership, learning, parental engagement and wider outcomes
+        * There is also a specific focus on improving outcomes for a target group of children (which largely consist of the lowest 20% of attainers)
+    * Programme 2
+        * Aims to improve pupil engagement and attainment by improving the quality of classroom talk
+        * Teachers are trained in strategies that enable pupils to reason, discuss, argue and explain rather than merely respond, in order to develop high order thinking and articulacy
+        * The programme uses video review, print materials and in-school mentoring to support teachers' practice across English, maths and science lessons
+<details>
+<summary>The outcome of both programmes</summary>
+
+05:25 to 10:00
+CPD sustained over course of integration - at heart of each programme
+
+* Programme 1 - "Achievement for All"
+    * Whole-school improvement programme (monthy coaching sessions)
+    * Very pupular - now bust - very intensive
+    * Outcome (compared to control groups)
+        * All pupils -2 months
+        * Target pupils -2 months
+* Programme 2 - Dialogic Talk
+    * Teacher training to improve quality of classroom talk
+    * Outcome
+        * All pupils +2 months
+        * FSM +2 months
+
+Not every programme is successful, but CPD is vital.
+
+Presentations downloadable and available at
+[PDL Conference 2023 recordings and presentation files](https://community.stem.org.uk/viewdocument/pdl-conference-2023-recordings-and?CommunityKey=d8c98d08-fb5d-4a6e-bac9-d7177021a927)
+
+
+</details>
+
 
 
 _Early Career Teacher_ (ECT) Years
@@ -75,44 +104,41 @@ Personal Development / Actions for next year (30min async + 30min lecture)
         * Could you gather data during your year. How?
         * E.g. Why do students in your school choose Computing at GCSE? Why did students not choose computing at GCSE?
 3. Listen to the big influencers in teaching - Twitter
-    * Twitter is a problematic social platform - but as a professional tool it is very useful
+    * Twitter is a problematic social platform - but as a professional tool it is exceptionally useful
     * TASK: Identify and follow 3 influential teachers on Twitter
         * [The Periodic Table of Teachers to Follow on Twitter](https://ictevangelist.com/the-periodic-table-of-teachers-to-follow-on-twitter/)
             * [The Periodic Table of Educational Tweeters to follow](https://www.thinglink.com/scene/963119398753665025)
+        * [_people.md](./_people.md) (my scrappy notes)
+            * [Mrs Whittaker](https://twitter.com/Mrs_G33k) Kent Computing Twitter Hero!
         * [Google Search: Influential Teachers on Twitter](https://www.google.com/search?q=influential+teachers+on+twitter)
-        * [Mrs Whittaker](https://twitter.com/Mrs_G33k) Kent Computing Twitter Hero!
-        * [_people.md](./_people.md)
-            * Some of my notes
     * [The Ultimate Guide to Twitter for Teachers](https://searchality.com/discover/teaching/the-ultimate-guide-to-twitter-for-teachers/)
         * [#FFed](https://twitter.com/hashtag/FFed) – Friday Followback education: You @name a teacher you Follow in your tweet on Friday and they Follow you back.
     * [Computer Science Educators’ Use of Twitter for Conference Engagements: A Grounded Theory Analysis](https://openjournals.ljmu.ac.uk/index.php/JSML/article/view/496)
         * > Twitter as a conference backchannel. Using Constructivist Grounded Theory methodology, four themes and ten categories emerged. These themes are: Promote Scholarship; Connect, Promote and Extend the Research Community; Engage in Professional Learning; Humanise the Conference Space.
 4. Read a book about teaching (minimum of 1 book a year baseline)
     * TASK: Add one book to your _Amazon Wishlist_ or equivalent
-        * [Effective Teaching: Evidence and Practice](https://www.amazon.co.uk/Effective-Teaching-Evidence-Daniel-Muijs/dp/1473944430/)
-        * [Visible Learning and the Science of How We Learn](https://www.amazon.co.uk/Visible-Learning-Science-How-Learn/dp/0415704995/)
         * [What If Everything You Knew About Education Was Wrong?](https://www.amazon.co.uk/Everything-About-Education-Wrong-Paperback/dp/1785831577/)
-        * [Computer Science Education: Perspectives on Teaching and Learning](https://www.amazon.co.uk/Computer-Science-Education-Perspectives-Teaching-ebook/dp/B079M95MM9/)
         * [Teaching WalkThrus 2: Five-step guides to instructional coaching](https://www.amazon.co.uk/Teaching-WalkThrus-Five-step-instructional-coaching/dp/1913622479/)
+        * [Making Room for Impact: A De-implementation Guide for Educators](https://www.amazon.co.uk/gp/product/1071917072)
+        * [Mindstorms: Children, Computers, And Powerful Ideas](https://www.amazon.co.uk/gp/product/B084Z46SMB/) Seymour Papert 198x The godfather of CS education
         * [./reading.md](./_reading.md)
 5. Ongoing Networking (Research In-person TeachMeet)
     * TASK: Search for computing teacher meetup events in Kent
-        * Covid has terminated most of this activity nationally
         * Even before the pandemic, there was very little in Kent
         * CAS Hubs
-            * [CAS Community - Upcoming Events](https://community.computingatschool.org.uk/events)
 6. Ongoing Networking (Online groups/communities)
     * TASK: Identify one online event/seminar/webinar to join
         * [CAS Community - Upcoming Events](https://community.computingatschool.org.uk/events) many of these are online
+            * [Facebook: CAS Research Group](https://www.facebook.com/groups/2832494906787157)
         * [STEM Learning CPD - Computing](https://www.stem.org.uk/cpd/search?f[0]=field_subject:92)
         * [Events organised by the Chartered College](https://my.chartered.college/events/)
     * TASK: Offer contact details to keep in touch with previous colleagues
 7. Ongoing Networking (Join a subject association)
-    * [Technology, Pedagogy & Education Association (TEPA)](https://tpea.ac.uk/)
+    * [Technology, Pedagogy & Education Association (TEPA)](https://tpea.ac.uk/membership/)
     * [Computing at School - New Member Application](https://www.computingatschool.org.uk/account/new-member-application)
     * [@caschat_uk](https://twitter.com/caschat_uk) @caschat_uk
         * [#caschat](https://twitter.com/search?q=%23caschat)
-    * [CSTA](https://www.csteachers.org/) Computer Science Teachers Association
+    * [CSTA](https://www.csteachers.org/) Computer Science Teachers Association (USA)
 8. Investigate [TeacherTapp](https://teachertapp.co.uk/)
     * Becoming quite popular. In some schools it has been recommended for all staff.
     * A mobile app for; Ask questions, See results, Access ongoing CPD.
@@ -121,8 +147,7 @@ Personal Development / Actions for next year (30min async + 30min lecture)
     * [ComputingEducationRSS.opml.xml](./ComputingEducationRSS.opml.xml)
         * Some RSS Feeds of current Computing Education journals and blogs
 
-todo:
-[Facebook: CAS Research Group](https://www.facebook.com/groups/2832494906787157)
+
 
 Action in your _Early Career Teacher_ years  (15min)
 -----------------------
@@ -134,13 +159,14 @@ Action in your _Early Career Teacher_ years  (15min)
 ### 1 day plans
 
 * Organize 1 day in a feeder primary school
+    * Keep in touch! they would really value you to run a computing thing!
 * Run 1 workshop (30min) for staff in your school
     * TASK: think of a specialist area you might be able to present that would be useful to other teachers
 * Organize 1 external speaker for an exam class
     * TASK: Identify 2 possible people in your social network who could talk about their professional role
 * Run 1 after school thing for students
     * What cool topic in Computing does not really fit the curriculum, but would be worth showing/doing?
-    * TASK: 
+    * TASK: ?
 * Attend 1 teacher meet
     * CAS Hub meet?
     * Request exam board training - Network!
@@ -160,9 +186,10 @@ Ongoing Observation/Collaboration (10min)
 Actively seek out coaching relationships with other teachers
 
 * Instructional Coaching - [Top-down observation and feedback models are flawed. Time for change](https://teacherhead.com/2020/01/25/top-down-observation-and-feedback-models-are-flawed-time-for-change/) @teacherhead
-    * > I’m now working on the principle that observers can only form hunches, opinions and offer ideas… this info only turns into feedback of any value once it’s been filtered by the teacher and meshed into their existing plans of action and sense of the problems they face.
-    * > I’d willingly concede that most of the top-down fly-by feedback I’ve given over the years has been ignored or wrong with no impact on teaching quality. 
-    > Because I was giving it – not helping the teacher to generate it; imposing my agenda, not helping the teacher with theirs.
+    * > I’m now working on the principle that observers can only form hunches, opinions and offer ideas. 
+      > This info only turns into feedback of any value once it’s been filtered by the teacher and meshed into their existing plans of action and sense of the problems they face.
+    * > I’d willingly concede that most of the top-down fly-by feedback I’ve given over the years has been ignored or wrong with no impact on teaching quality.
+    * > Because I was giving it – not helping the teacher to generate it; imposing my agenda, not helping the teacher with theirs.
     * > In my experience, leaders under all the pressure the accountability system has sent their way, have developed an over-inflated sense of the value and impact of their lesson observations.
 * [Leverage observations](https://improvingteaching.co.uk/2014/12/15/archimedean-leadership-2-what-are-leverage-observations-or-how-would-yo-yo-ma-feed-back/) 2014 Harry Fletcher-Wood
     * Requirements
@@ -248,6 +275,20 @@ Sharing/PublishingResources Marketing/Branding Yourself - Ideas  (10min)
     * [github.com/ComputingTeachers](https://github.com/ComputingTeachers)
 
 
+Summary
+-------
+
+> DfE: Only 11% of CPD is effective (citation? heard this on 30/03/2023 Chris Carr STEM PDL leaders conference)
+
+> Most CPD is 'Train and Pray'
+
+TODO: For computing, there is normally one super advocate in a school to bring everyone along on the journey. When that person leaves, the cards fall. Are you that person!
+* Effective CPD (Continued Professional Development)
+    * Measuring impact
+    * Sharing good practice
+    * Networking with other Computing practitioners
+
+
 ---
 
 Continued Professional Development (CPD)  (30min collaboration + 30min lecture)
@@ -272,7 +313,7 @@ Some of my thoughts:
 </details>
 
 
-History of Computing CPD  (5min)
+History of Computing CPD (5min)
 ------------------------
 
 * 2013 - Computing National Curriculum nationwide introduced
@@ -460,11 +501,11 @@ Task (30min)
 Articles about CPD (1 hour: Async reading)
 ------------------
 
-* [ok plateau](https://www.theguardian.com/teacher-network/teacher-blog/2013/apr/11/expert-teachers-ok-plateau-professional-development) - Alex Quigley
+* [ok plateau](https://www.theguardian.com/teacher-network/teacher-blog/2013/apr/11/expert-teachers-ok-plateau-professional-development) 2013 Alex Quigley (As of 2023 research lead for EEF)
     * > common autopilot state when you have habitually mastered the basics of a task, but despite being skilled you stop really improving to reach expert status; you simply plateau in performance
     * > With the storm of demands created by workload, any improvement beyond this point seemed fanciful. 
       > I stopped reading about teaching and learning and I stopped being coached with genuine regularity.
-* TODO [Habit formation limits growth in teacher effectiveness: A review of converging evidence from neuroscience and social science](https://bera-journals.onlinelibrary.wiley.com/doi/epdf/10.1002/rev3.3226)
+* TODO [Habit formation limits growth in teacher effectiveness: A review of converging evidence from neuroscience and social science](https://bera-journals.onlinelibrary.wiley.com/doi/epdf/10.1002/rev3.3226) 2020
 * [The CPD puzzle: why don't teachers keep improving?](https://www.tes.com/news/teacher-cpd-professional-development-schools-reflection-rosenshine-puzzle-why-dont-teachers-keep-improving?amp)
     * 1 hour a fortnight reflection time with small group of other teachers
 * [Being the 1% – what does it take to make CPD effective?](https://improvingteaching.co.uk/2014/02/23/being-the-1-what-does-it-take-to-make-cpd-effective/) Harry Fletcher-Wood
@@ -483,7 +524,7 @@ Articles about CPD (1 hour: Async reading)
         > * that the right kinds of CPD can produce big benefits for learners,
         > * and that most of the CPD undertaken by teachers is not of this kind
         > (Joyce and Showers, 2002; Yoon et al 2007; . Wei et al, 2009; Cordingley and Bell, 2012).
-    * Mistaking School Improvement:  How to make it look as if your improvement project has worked 
+    * Mistaking School Improvement:  How to make it look as if your improvement project has worked
         1. Wait for a bad year or choose underperforming schools to start with. Most things self-correct or revert to expectations (you can claim the credit for this).
         2. Take on any initiative, and ask everyone who put effort into it whether they feel it worked. No-one wants to feel their effort was wasted.
         3. Define ‘improvement’ in terms of perceptions and ratings of teachers. DO NOT conduct any proper assessments – they may disappoint.
@@ -584,7 +625,7 @@ Activity: Code Jenga
     * Comments
         * Jay S
             * > I had the misfortune to have to sit through a 2 day lecture of his, insisted upon by my employer.
-            One thing I have learned during my 17 years in education is avoid Death by Power Point, and that is exactly what this guy did. I lost count of the amount of slides we went through. The college I work at sat 120 of us in front of him.  Never in my career have I seen someone actually nod off during a training lecture, but a guy at a table nearby did exactly that.
+            * > One thing I have learned during my 17 years in education is avoid Death by Power Point, and that is exactly what this guy did. I lost count of the amount of slides we went through. The college I work at sat 120 of us in front of him.  Never in my career have I seen someone actually nod off during a training lecture, but a guy at a table nearby did exactly that.
             * > He lost people's attention within 30 minutes.
             * > I've no doubt this man is highly intelligent and well respected but his presentation methods that day were awful. If I had done what he done in front of Estyn inspectors I'd have got my department sanctioned and I'd have been in front of HR.
 
@@ -659,28 +700,6 @@ Early Career Teacher Year
 
 
 
----
-
-* [Seminal Education Writing](https://docs.google.com/spreadsheets/d/1-RnanRgf3S6W631vStJRX3ujHEvClgkXWVjKdzPic9s/edit#gid=281465080) 12+ seminal articles by teachers on staff culture	
-	Author	Title	One-sentence summary
-1	Jen Barker & Tom Rees	7 persistent problems of school leadership; codifying leadership knowledge	Seven problems for school leaders are school improvement, curriculum, staff culture, staff development, behaviour, administration and self-management.
-2	Jonny Utterly & John Tomsett	Putting staff first	We should make staff learning our number one priority.
-3	Kat Howard	Simply talking about wellbeing won't help. Workload perception matters. 	We need the right conversations about the right things: will it help learning, without burnout?
-4	Jo Facer	At what cost?	Let's keep opportunity cost in mind...
-5	Luke Sparkes	Organisational health	Create cohesion and clarity with overcommunication.
-6	Carl Hendrik	The McNamara Fallacy and the Problem with Numbers	What's measurable isn't always meaningful; what's meaningful isn't always measurable.
-7	Greg Ashman	How rubrics fail	Rubrics narrow the focus of a complex domain.
-8	Louis Everett	What makes a good head of department?	Provide time and space for your teachers to think deeply about their subject.
-9	Nick Hart	What school leaders need to know about cultural leadership	Combine psychological safety, vulnerability and purpose. 
-10	Harry Fletcher Wood	Teacher learning is just learning; content knowledge	Anticipate what students will struggle with.
-11	Claire Stoneman	School Visits - and how to make them better	Focus on deep structure and concrete examples.
-12	Matthew Evans 	Substance	What should school leaders know and focus on? What evidence do we have to support our claims?
-13	Sims & Fletcher Wood	CPD mechanisms	CPD should improve staff habits.
-14	Ben Riley	The Science of Teacher Expertise: Deliberate Practice	Effective practice combines goals, sequence, guidance, feedback, and mental models for decision-making.
-
-
-
-
 Effective Professional Development Guidance Report: EEF
 -------------------------------------------------------
 
@@ -723,225 +742,26 @@ Not every CPD choice is effective
 
 ### What does the Guidance cover?
 
+* EEF [Effective Professional Development](https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/effective-professional-development)  Three recommendations for designing and selecting effective professional development 2022
+
 * EEF Document: What are the Characteristics of Effective Teacher Professional Development? A systematic Review and Meta-analysis
 
 Time is the biggest barrier
 
+[Poster Recommendations](https://d2tic4wvo1iusb.cloudfront.net/eef-guidance-reports/effective-professional-development/EEF-Effective-PD-Recommendations-Poster.pdf?v=1682618568)
+
 * Instructional (focused delivered sessions) are a good intro .. but it's about sustained and personal
 
-* Planning profetaionll development - "balanced design" worksheet - (see EEF docuemnt for tempalte)
-    * Build knowlege
-    * Motivate staff
-    * Develop teachering techniqes
-    * xxx ...
-* See "Likely outcome" columb
-    * Revert to old habits
-    * Knowing-doing gap
-    * No IMplmetatnion
-    * Misapplication
-    * xxx
-
-> Most CPD is 'Train and Pray'
-
-
-Dicigtal education in schools
-=============================
-Dave Gibb, Education Stratergy Lead
-PDL Conference 2023
-National STEM learning centre and network
-
-* Teachers "digital competency"
-    * All teachers can benefit from essential digital competences
-* Digital skills and Digital Strategy
-
-> Digital exposure is not the same as building digitial skills
-
-Alan Harrison
-> Digital Natives == Myth
-> Pupils arrive with misconceptions e.g. Wifi==internet
-Widely disproved
-
-
-Digital compitencies not part of National Curriculum
-
-* [‘Scanners are complicated’: why Gen Z faces workplace ‘tech shame’](https://www.theguardian.com/technology/2023/feb/27/gen-z-tech-shame-office-technology-printers) The Guardian 2023
-    * > ages of 18 and 26 to find that 56% of respondents said “they had very basic to no digital skills education.” A third of them said their education had not provided them “with the digital skill they need to propel their career”. What they know comes from the apps they use on their own time, not the tech supplies at Office Depot.
-
-* [EdTech Foundation](https://enhance.etfoundation.co.uk/)
-
-    * [EdTech: Assessing your digital skillset](https://enhance.etfoundation.co.uk/modules/2217/assessing-your-digital-skillset?source=popular_3)
-        * >  A teacher's professional digital skillset consists of two components; technical and vocational knowledge. This requires teachers to develop sound digital pedagogy – applying technologies to best effect in teaching and learning – and to keep up-to-date in the changing role, impact and development of the technologies that frame and shape their learners' working lives. 
-
-* Basline digital skills
-    * Collecting data
-    * Digital writing (video, images)
-    * Comm/unication (online calls)
-    * Techical operation skills
-        * Using Periferals, Managing content
-* Digital literacy
-    * Critial thingkin
-    * creativiy
-    * ethics
-    * Safty
-
-Teaching year 7s what a mouse is - they are not touch screens
-* Managing files on iPads is differnt to PC
-
-* Current computing qualifications do not convey boarder more applied interests (13% of cohort)
-* Many carrers need rich computing knowlege and skills, but do not need deep computer science, including cyber secutiry, IT and network management, digital project manment, data management, the games inductry, roboties, data science, applications and engineering. Many of these do not have a KS4 on-ramp (Simon Peyton Jones)
-
-* What are we doing
-    * (Computing+Maths) Data science CPD (KS3/4/5)
-    * Science
-        * Models/Simulations
-        * Big Data
-        * datalogging CPD
-    * STEM Clubs - digital activies (AI,CyberSecurity)
-    * Digital CPD including MyLearning, online (FutureLearn)
-Investigate "Alternative Academic Qualifications" new focalional that arnt T-Levels
-
-> Lived though multiple EdTech stratergies over the yes
-
-> "It should never be about the tech, it should really solve a problem that exists"
-
-* SAMR Model Dr. Ruben R Puentedura
-    * Subsitution
-        * Direct subsitute
-    * Augmentation
-        * Technology 
-    * Modification
-    * Refefenition
-
-* Crossing the Chasm: Marketing and  Selling Disrupticve
-    * Innovators (2.5%)
-    * Early adopter 13.5%
-    * Prgmatists 35%
-    * conservative 35%
-    * Skeptics 13.5%
-
-* Digital Compitence Framework for Educators (DigCompEdu)
-    * Profetional Engagement
-    * Digitial Resources
-    * Assessment
-    * Teaching and Learning
-    * Empowering Learners
-    * Facilitating Learners Digital Compitence
-
-
-Wales hasa a digitial compitence framework
-https://hwb.gov.wales/curriculum-for-wales/cross-curricular-skills-frameworks/digital-competence-framework
-* Citizenship
-* Interacting and collaborating
-* Producing
-* Data and computational thinking
-
-
-
-Tech Remote Enagemnet
-=====================
-
-Science.Alan
-
-Conceptual/Diagnostic question
-
-* the difference between, wifi, the-internet and the www
-* Chris (Sharples) Machine Learning for Kids
-    * how is Machine learning different from sequential programming (Year 9s this week)
-    * Link Scratch with IBM Whatson
-* What is 'selection' in programming?
-* What direction is the electron moving
-    * `+` `-` Great conceptual eercise
-
-
-Online
-* Order
-
-* What if they don;t respond online?
-    * Always have an 'I don't know'/'unsure' - 
-    * don't pause the session to call people out
-* It's a requirement you have a camera - build a community - changes withod of group
-* Give question and Point at corners of the screen
-    * hold fingers up
-* Visualisers!! 100% requirement for good teaching
-    * Incrementally reveal a solution as you build it with commentary
-    * Mark students work live on visualiser
-    * Record yourself doing an exam paper
-
-
-
-NCCE CPD
-========
-
-* Paul Thornton NCCE
-
-* Writing Effective CPD (STEM Learning)
-
-* CPD is evolving
-    * Online
-        * Move from FutureLearn to MyLearning
-        * Content review - closer alignment to school curriculum
-        * Blended CPD
-    * F2F / remote
-        * Isaac CS CPD integration / standards
-        * co-ordinated remote standards
-    * Future development
-        * Whole school on-site CPD
-        * Greater support for non-specalist teaching
-* Specialist Hubs across the country (each area of the country has a focus)
-    * Primary upper lower
-    * ECT
-    * Programming
-    * Alevel/GCSE
-    * KS3
-    * Digital/Cyber
-    * Gender/Inclusion
-    * Leadership
-* School Level Support
-    * FKA School Engagement Programme    
-    * 2 Elements
-        * Regional Delivery Hubs contract SME
-        * Computing Hubs are SMEs
-
-* Computing Cluster (new concept) - Dedicated Avisors
-    * Group of 3 or 4 schools together by need identified in CQF
-* Work Group Leaders (module to do to get this status)
-    * Influence organisation change
-        * Linked to CQF dimension
-    * 1 or 2 teachers form each cluster
-    * Several meetings a year
-    * Trail within school
-    * Compare
-    * Evaluate
-    * Disseminate the outputs
-        * Speaking at conferences
-* [Coach Mentor](https://www.stem.org.uk/cpd/ondemand/522170/coaching-mentoring-professional-development-leader-programme) (module to get this status)
-    * Dedicated advisor will put a coach in place
-    * Based on challenges subject leads may have
-    * Offer made to cluster
-        * and taken up privatly by 1 or 2 subject leads
-    * 30 hours per cluster - split into 5 segments/sessions
-* CPD implementation Support
-    * Facilitated drop in sessions
-    * 2 to 3 sessions per month
-    * Centrally scheduled and contracted
-    * Linked to CPD
-    * Prividing reenforcement of CPD Learning
-    * Support and help teachers build and maintain momentum
-    * Imprve effectiveness of CPD
-* Bespoke Intervention
-    * 9 days in total for each cluster with 3 output days
-    * Professional learning to support specific challenges identified.
-    * Examples
-        * Curriculum Design
-        * Embedding Pedagogy
-        * ... (missed the slide)
-* Gender Insights trainers
-    * Comming Sep 2023
-* Becoming a Lead or Senior PDL
-    * From associate
-
-* https://www.stem.org.uk/secondary/cpd/leading-professional-development
-    * https://www.stem.org.uk/cpd/ondemand/515395/professional-development-leader-programme-stage-2-module-one
-Hi Karen, please email pdl@stem.org.uk with this enquiry
-
-Update STEM Learning profile
+* [Considering a Balanced Design Worksheet](https://d2tic4wvo1iusb.cloudfront.net/eef-guidance-reports/effective-professional-development/Considering-a-balanced-design-worksheet.docx?v=1682618571)
+    * Planning professional development - "balanced design" worksheet - (see EEF document for template)
+        * Build knowledge
+        * Motivate staff
+        * Develop teaching techniques
+        * xxx ...
+* [EFFECTIVE PROFESSIONAL DEVELOPMENT: Ensuring a balanced PD design](https://d2tic4wvo1iusb.cloudfront.net/eef-guidance-reports/effective-professional-development/Ensuring-a-balanced-PD-design.pdf?v=1682618571)
+    * See "Likely outcome" columb
+        * Revert to old habits
+        * Knowing-doing gap
+        * No Implementation
+        * Misapplication
+        * xxx

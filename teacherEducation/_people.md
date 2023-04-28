@@ -77,8 +77,7 @@ https://replit.com/curriculum/Intermediate-Python
 
 * [@ChrisSheltonUK](https://twitter.com/chrissheltonuk)
     * [Dr Chris Shelton](https://www.chi.ac.uk/staff/dr-chris-shelton) University of Chichester
-    * Head of TPEC
-
+    * Head of TPEA
 
 * [Professor Christina Preston](https://www.dmu.ac.uk/about-dmu/academic-staff/health-and-life-sciences/christina-preston/christina-preston.aspx)
     * Started mirandanet.ac.uk
@@ -152,4 +151,3 @@ It was a privilege and a pleasure to spend a couple of hours today with the @Com
  @clairegowland
  @mcampbelliot
  @PeterMarshman
- & others! ❤️

@@ -244,3 +244,7 @@ Finland - computing integrated in all subjects (history! RE!)
 
 * [Repel.it ChatGPT to make a Bitcoin price tracker](https://twitter.com/Replit/status/1602351385281978369)
     * twitter guide
+
+TODO
+* QAA [ChatGPT: What should assessment look like now?](https://www.youtube.com/watch?v=leWtOVL1nt4) April 2023 (1hour)
+    * High education assessment
