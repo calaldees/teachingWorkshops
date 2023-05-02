@@ -175,8 +175,23 @@ They appear correlated
 
 * [Paperclips, Circles, and Six-Legged Spiders: An exploration of self-perceived and measured creativity among CS students](https://dl.acm.org/doi/10.1145/3373165.3373167) 2020
     * todo
+    * Measure creativity
+        * Tasks
+            * As many uses as possible for paperclip, bowl, brick
+            * What could "smooshed  spider" be relating to
+            * [Exercise: Adaptation of the 30 Circles Test](https://web.stanford.edu/group/sdgc/cgi-bin/ycisl/?p=1859)
+        * marked by
+            * Fluency (number/volume)
+            * Flexability (number of categories)
+            * Originality (statistical infrequency of responses)
+            * Elaboration (additional attention to detail added)
+        * > Doleck et al. [9] examined the relationship between creative thinking  and  academic  performance and  found  no  relationship between the two.
+          > However, in our work there  was  an  apparent correlation between participants’ overall alternative uses test CI scores  and  their  overall  grades  on  the  computer  graphics programming  course
+        * > self-reported levels of creativity did not at all correlate with their final grades. 
+          > On the other hand, the tests that did correlate  with  their  final grades did not correlate with their self-reports. This suggests that although we’re assessing one type of creativity or divergent thinking,  it  is  not  necessarily  the  same  thing  students conceptualize as “creativity” within the CS domain.
 
 * [twitter - 3d platform game projection](https://twitter.com/johnblueriggs/status/1642552320549441538?t=-KUapS1or5dtdYQZiR5_PA&s=19)
 
 * Book [Computational Fairy Tales Paperback – 26 Jun. 2012](https://www.amazon.co.uk/dp/1477550291)
     * Be cautions [Dylan Wiliam snippet](https://youtu.be/7ynsMwzsCsg?t=270) - we often remember the stories, but not the actual message
+
