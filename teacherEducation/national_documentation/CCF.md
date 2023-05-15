@@ -102,27 +102,27 @@ The CCF is not the whole story. It misses out other statutory requirements like
 2. And - following expert input - by taking opportunities to practise, receive feedback and improve at: 
     1. Providing opportunity for all pupils to learn and master essential concepts, knowledge, skills and principles of the subject. #3-SubjCur-Learn-how-3-practice_to_master
     2. Working with expert colleagues to accumulate and refine a collection of powerful analogies, illustrations, examples, explanations and demonstrations.  #3-SubjCur-Learn-how-4-develop_analogies_examples
-    3. Using resources and materials aligned with the school curriculum (e.g. textbooks or shared resources designed by expert colleagues that carefully sequence content). #3-SubjCur-Learn-how-5-use_shared_resources
-    4. Being aware of common misconceptions and discussing with expert colleagues how to help pupils master important concepts. #3-SubjCur-Learn-how-6-planning_for_misconceptions
+    3. f Using resources and materials aligned with the school curriculum (e.g. textbooks or shared resources designed by expert colleagues that carefully sequence content). #3-SubjCur-Learn-how-5-use_shared_resources
+    4. g Being aware of common misconceptions and discussing with expert colleagues how to help pupils master important concepts. #3-SubjCur-Learn-how-6-planning_for_misconceptions
 3. Support pupils to build increasingly complex mental models, by:
-    1. Discussing and analysing with expert colleagues how to revisit the big ideas of the subject over time and teach key concepts through a range of examples. #3-SubjCur-Learn-how-7-big_ideas_revisited
-    2. Discussing and analysing with expert colleagues how they balance exposition, repetition, practice of critical skills and knowledge.  #3-SubjCur-Learn-how-8-balance_exposition_repetition_practice_retrieval
+    1. h Discussing and analysing with expert colleagues how to revisit the big ideas of the subject over time and teach key concepts through a range of examples. #3-SubjCur-Learn-how-7-big_ideas_revisited
+    2. i Discussing and analysing with expert colleagues how they balance exposition, repetition, practice of critical skills and knowledge.  #3-SubjCur-Learn-how-8-balance_exposition_repetition_practice_retrieval
 4. And - following expert input - by taking opportunities to practise, receive feedback and improve at: 
-    1. Drawing explicit links between new content and the core concepts and principles in the subject. #3-SubjCur-Learn-how-9-link_prior_knowledge
+    1. j Drawing explicit links between new content and the core concepts and principles in the subject. #3-SubjCur-Learn-how-9-link_prior_knowledge
 5. Develop fluency, by:
-    1. Observing how expert colleagues use retrieval and spaced practice to build automatic recall of key knowledge and deconstructing this approach.  #3-SubjCur-Learn-how-10-observe_retrieval
+    1. k Observing how expert colleagues use retrieval and spaced practice to build automatic recall of key knowledge and deconstructing this approach.  #3-SubjCur-Learn-how-10-observe_retrieval
 6. And - following expert input - by taking opportunities to practise, receive feedback and improve at: 
-    1. Providing tasks that support pupils to learn key ideas securely (e.g. quizzing pupils so they develop fluency with times tables).  #3-SubjCur-Learn-how-11-embed_retrieval
+    1. l Providing tasks that support pupils to learn key ideas securely (e.g. quizzing pupils so they develop fluency with times tables).  #3-SubjCur-Learn-how-11-embed_retrieval
 7. Help pupils apply knowledge and skills to other contexts, by:
-    1. Observing how expert colleagues interleave concrete and abstract examples, slowly withdrawing concrete examples and drawing attention to the underlying structure of problems and deconstructing this approach.  #3-SubjCur-Learn-how-12-interleave_concrete_abstract
+    1. m Observing how expert colleagues interleave concrete and abstract examples, slowly withdrawing concrete examples and drawing attention to the underlying structure of problems and deconstructing this approach.  #3-SubjCur-Learn-how-12-interleave_concrete_abstract
 8. And - following expert input - by taking opportunities to practise, receive feedback and improve at: 
-    1. Ensuring pupils have relevant domain-specific knowledge, especially when being asked to think critically within a subject #3-SubjCur-Learn-how-13-domain_knowledge_criticality
-9. Develop pupils’ literacy, by:
-    1.  Observing how expert colleagues demonstrate a clear understanding of systematic synthetic phonics, particularly if teaching early reading and spelling, and deconstructing this approach. #3-SubjCur-Learn-how-14-observe_literacy
-    2.  Discussing and analysing with expert colleagues how to support younger pupils to become fluent readers and to write fluently and legibly. #3-SubjCur-Learn-how-14-build_written_fluency
-    3.  Receiving clear, consistent and effective mentoring in how to model reading comprehension by asking questions, making predictions, and summarising when reading.  #3-SubjCur-Learn-how-15-build_reading_fluency
-    4.  Receiving clear, consistent and effective mentoring in how to promote reading for pleasure (e.g. by using a range of whole class reading approaches and regularly reading high-quality texts to children). #3-SubjCur-Learn-how-15-build_reading_enjoyment
-    5.  Discussing and analysing with expert colleagues how to teach different forms of writing by modelling planning, drafting and editing. 
+    1. n Ensuring pupils have relevant domain-specific knowledge, especially when being asked to think critically within a subject #3-SubjCur-Learn-how-13-domain_knowledge_criticality
+9.  Develop pupils’ literacy, by:
+    1.  o Observing how expert colleagues demonstrate a clear understanding of systematic synthetic phonics, particularly if teaching early reading and spelling, and deconstructing this approach. #3-SubjCur-Learn-how-14-observe_literacy
+    2.  p Discussing and analysing with expert colleagues how to support younger pupils to become fluent readers and to write fluently and legibly. #3-SubjCur-Learn-how-14-build_written_fluency
+    3.  q Receiving clear, consistent and effective mentoring in how to model reading comprehension by asking questions, making predictions, and summarising when reading.  #3-SubjCur-Learn-how-15-build_reading_fluency
+    4.  r Receiving clear, consistent and effective mentoring in how to promote reading for pleasure (e.g. by using a range of whole class reading approaches and regularly reading high-quality texts to children). #3-SubjCur-Learn-how-15-build_reading_enjoyment
+    5.  s Discussing and analysing with expert colleagues how to teach different forms of writing by modelling planning, drafting and editing. 
 10. And - following expert input - by taking opportunities to practise, receive feedback and improve at: 
     1.  Teaching unfamiliar vocabulary explicitly and planning for pupils to be repeatedly exposed to high-utility and high-frequency vocabulary in what is taught. #3-SubjCur-Learn-how-17-build_verbal_fluency
     2.  Modelling and requiring high-quality oral language, recognising that spoken language underpins the development of reading and writing (e.g. requiring pupils to respond to questions in full sentences, making use of relevant technical vocabulary). #3-SubjCur-Learn-how-16-develop_terminology_vocabulary
@@ -147,29 +147,29 @@ scaffold talk?
 ### Learn how to
 
 1. Plan effective lessons, by:
-    1. Observing how expert colleagues break tasks down into constituent components when first setting up independent practice (e.g. using tasks that scaffold pupils through meta-cognitive and procedural processes) and deconstructing this approach.  #4-Classroom-Learn-how-1-observe_task_breakdown
+    1. a Observing how expert colleagues break tasks down into constituent components when first setting up independent practice (e.g. using tasks that scaffold pupils through meta-cognitive and procedural processes) and deconstructing this approach.  #4-Classroom-Learn-how-1-observe_task_breakdown
 2. And - following expert input - by taking opportunities to practise, receive feedback and improve at: 
-    1. Using modelling, explanations and scaffolds, acknowledging that novices need more structure early in a domain. #4-Classroom-Learn-how-2-scaffold_novices
-    2. Enabling critical thinking and problem solving by first teaching the necessary foundational content knowledge. #4-Classroom-Learn-how-3-criticality_requires_knowledge
-    3. Removing scaffolding only when pupils are achieving a high degree of success in applying previously taught material.  #4-Classroom-Learn-how-4-remove_scaffolds
-    4. Providing sufficient opportunity for pupils to consolidate and practise applying new knowledge and skills.  #4-Classroom-Learn-how-5-practice_to_master
+    1. b Using modelling, explanations and scaffolds, acknowledging that novices need more structure early in a domain. #4-Classroom-Learn-how-2-scaffold_novices
+    2. c Enabling critical thinking and problem solving by first teaching the necessary foundational content knowledge. #4-Classroom-Learn-how-3-criticality_requires_knowledge
+    3. d Removing scaffolding only when pupils are achieving a high degree of success in applying previously taught material.  #4-Classroom-Learn-how-4-remove_scaffolds
+    4. e Providing sufficient opportunity for pupils to consolidate and practise applying new knowledge and skills.  #4-Classroom-Learn-how-5-practice_to_master
 3. Make good use of expositions, by:
-    1. Discussing and analysing with expert colleagues how to use concrete representation of abstract ideas (e.g. making use of analogies, metaphors, examples and non-examples). #4-Classroom-Learn-how-6-model_concrete_abstract
+    1. f Discussing and analysing with expert colleagues how to use concrete representation of abstract ideas (e.g. making use of analogies, metaphors, examples and non-examples). #4-Classroom-Learn-how-6-model_concrete_abstract
 4. And - following expert input - by taking opportunities to practise, receive feedback and improve at: 
-    1. Starting expositions at the point of current pupil understanding. #4-Classroom-Learn-how-7-link_prior_knowledge
-    2. Combining a verbal explanation with a relevant graphical representation of the same concept or process, where appropriate.  #4-Classroom-Learn-how-8-verbal_with_visual
+    1. g Starting expositions at the point of current pupil understanding. #4-Classroom-Learn-how-7-link_prior_knowledge
+    2. h Combining a verbal explanation with a relevant graphical representation of the same concept or process, where appropriate.  #4-Classroom-Learn-how-8-verbal_with_visual
 5. Model effectively, by: 
-    1. Discussing and analysing with expert colleagues how to make the steps in a process memorable and ensuring pupils can recall them(e.g. naming them, developing mnemonics, or linking to memorable stories).  #4-Classroom-Learn-how-9-model_memorable_story_mnemonics
+    1. i Discussing and analysing with expert colleagues how to make the steps in a process memorable and ensuring pupils can recall them(e.g. naming them, developing mnemonics, or linking to memorable stories).  #4-Classroom-Learn-how-9-model_memorable_story_mnemonics
 6. And - following expert input - by taking opportunities to practise, receive feedback and improve at: 
-    1. Narrating thought processes when modelling to make explicit how experts think (e.g. asking questions aloud that pupils should consider when working independently and drawing pupils’ attention to links with prior knowledge). #4-Classroom-Learn-how-10-narrate_metacognitive
-    2. Exposing potential pitfalls and explaining how to avoid them. #4-Classroom-Learn-how-11-explicit_common_errors
+    1. j Narrating thought processes when modelling to make explicit how experts think (e.g. asking questions aloud that pupils should consider when working independently and drawing pupils’ attention to links with prior knowledge). #4-Classroom-Learn-how-10-narrate_metacognitive
+    2. k Exposing potential pitfalls and explaining how to avoid them. #4-Classroom-Learn-how-11-explicit_common_errors
 7. Stimulate pupil thinking and check for understanding, by:
-    1. Discussing and analysing with expert colleagues how to consider the factors that will support effective collaborative or paired work (e.g. familiarity with routines, whether pupils have the necessary prior knowledge and how pupils are grouped). #4-Classroom-Learn-how-12-group_pair_guidance
-    2. Receiving clear, consistent and effective mentoring in how to provide scaffolds for pupil talk to increase the focus and rigour of dialogue. #4-Classroom-Learn-how-13-increase_focus
+    1. l Discussing and analysing with expert colleagues how to consider the factors that will support effective collaborative or paired work (e.g. familiarity with routines, whether pupils have the necessary prior knowledge and how pupils are grouped). #4-Classroom-Learn-how-12-group_pair_guidance
+    2. m Receiving clear, consistent and effective mentoring in how to provide scaffolds for pupil talk to increase the focus and rigour of dialogue. #4-Classroom-Learn-how-13-increase_focus
 8. And - following expert input - by taking opportunities to practise, receive feedback and improve at: 
-    1. Planning activities around what you want pupils to think hard about. #4-Classroom-Learn-how-14-plan_focus
-    2. Including a range of types of questions in class discussions to extend and challenge pupils (e.g. by modelling new vocabulary or asking pupils to justify answers). #4-Classroom-Learn-how-15-questioning_feedback_vocabulary
-    3. Providing appropriate wait time between question and response where more developed responses are required. #4-Classroom-Learn-how-16-thinking_time
+    1. n Planning activities around what you want pupils to think hard about. #4-Classroom-Learn-how-14-plan_focus
+    2. o Including a range of types of questions in class discussions to extend and challenge pupils (e.g. by modelling new vocabulary or asking pupils to justify answers). #4-Classroom-Learn-how-15-questioning_feedback_vocabulary
+    3. p Providing appropriate wait time between question and response where more developed responses are required. #4-Classroom-Learn-how-16-thinking_time
 
 
 ## Adaptive Teaching (Standard 5 – ‘Adapt teaching’)
@@ -187,28 +187,28 @@ scaffold talk?
 ### Learn how to
 
 1. Develop an understanding of different pupil needs, by:
-    1. Receiving clear, consistent and effective mentoring in supporting pupils with a range of additional needs, including how to use the SEND Code of Practice, which provides additional guidance on supporting pupils with SEND effectively. #5-AdaptTeach-Learn-how-1-special_needs_wider
+    1. a Receiving clear, consistent and effective mentoring in supporting pupils with a range of additional needs, including how to use the SEND Code of Practice, which provides additional guidance on supporting pupils with SEND effectively. #5-AdaptTeach-Learn-how-1-special_needs_wider
 2. And - following expert input - by taking opportunities to practise, receive feedback and improve at: 
-    1. Identifying pupils who need new content further broken down.  #5-AdaptTeach-Learn-how-2-targeted_support
-    2. Making use of formative assessment. #5-AdaptTeach-Learn-how-3-formative_assessment
-    3. Working closely with the Special Educational Needs Co-ordinator (SENCO) and special education professionals and the Designated Safeguarding Lead (DSL) under supervision of expert colleagues.  
+    1. b Identifying pupils who need new content further broken down.  #5-AdaptTeach-Learn-how-2-targeted_support
+    2. c Making use of formative assessment. #5-AdaptTeach-Learn-how-3-formative_assessment
+    3. d Working closely with the Special Educational Needs Co-ordinator (SENCO) and special education professionals and the Designated Safeguarding Lead (DSL) under supervision of expert colleagues.  
 3. Provide opportunity for all pupils to experience success, by:
-    1. Observing how expert colleagues adapt lessons, whilst maintaining high expectations for all, so that all pupils have the opportunity to meet expectations and deconstructing this approach. #5-AdaptTeach-Learn-how-4-observe_targeted_support
-    2. Discussing and analysing with expert colleagues how to balance input of new content so that pupils master important concepts.  #5-AdaptTeach-Learn-how-5-discuss_targeted_support
+    1. e Observing how expert colleagues adapt lessons, whilst maintaining high expectations for all, so that all pupils have the opportunity to meet expectations and deconstructing this approach. #5-AdaptTeach-Learn-how-4-observe_targeted_support
+    2. f Discussing and analysing with expert colleagues how to balance input of new content so that pupils master important concepts.  #5-AdaptTeach-Learn-how-5-discuss_targeted_support
 4. And - following expert input - by taking opportunities to practise, receive feedback and improve at: 
-    1. Making effective use of teaching assistants and other adults in the classroom under supervision of expert colleagues. #5-AdaptTeach-Learn-how-6-teaching_assistants
+    1. g Making effective use of teaching assistants and other adults in the classroom under supervision of expert colleagues. #5-AdaptTeach-Learn-how-6-teaching_assistants
 5. Meet individual needs without creating unnecessary workload, by: 
-    1. Discussing and analysing with expert colleagues how they decide whether intervening within lessons with individuals and small groups would be more efficient and effective than planning different lessons for different groups of pupils. #5-AdaptTeach-Learn-how-7-no_separate_tasks_ssdd
+    1. h Discussing and analysing with expert colleagues how they decide whether intervening within lessons with individuals and small groups would be more efficient and effective than planning different lessons for different groups of pupils. #5-AdaptTeach-Learn-how-7-no_separate_tasks_ssdd
 6. And - following expert input - by taking opportunities to practise, receive feedback and improve at: 
-    1. Making use of well-designed resources (e.g. textbooks). #5-AdaptTeach-Learn-how-8-use_shared_resources
-    2. Planning to connect new content with pupils' existing knowledge or providing additional pre-teaching if pupils lack critical knowledge #5-AdaptTeach-Learn-how-9-plan_link_prior_knowledge
-    3. Building in additional practice or removing unnecessary expositions. #5-AdaptTeach-Learn-how-10-remove_unnecessary_waffle
-    4. Reframing questions to provide greater scaffolding or greater stretch. #5-AdaptTeach-Learn-how-11-questioning_support_stretch
+    1. i Making use of well-designed resources (e.g. textbooks). #5-AdaptTeach-Learn-how-8-use_shared_resources
+    2. j Planning to connect new content with pupils' existing knowledge or providing additional pre-teaching if pupils lack critical knowledge #5-AdaptTeach-Learn-how-9-plan_link_prior_knowledge
+    3. k Building in additional practice or removing unnecessary expositions. #5-AdaptTeach-Learn-how-10-remove_unnecessary_waffle
+    4. l Reframing questions to provide greater scaffolding or greater stretch. #5-AdaptTeach-Learn-how-11-questioning_support_stretch
 7. Group pupils effectively, by:
-    1. Discussing and analysing with expert colleagues how the placement school changes groups regularly, avoiding the perception that groups are fixed. #5-AdaptTeach-Learn-how-12-group_pair_guidance
-    2. Discussing and analysing with expert colleagues how the placement school ensures that any groups based on attainment are subject specific. #5-AdaptTeach-Learn-how-13-subject_specific_ability_groups
+    1. m Discussing and analysing with expert colleagues how the placement school changes groups regularly, avoiding the perception that groups are fixed. #5-AdaptTeach-Learn-how-12-group_pair_guidance
+    2. n Discussing and analysing with expert colleagues how the placement school ensures that any groups based on attainment are subject specific. #5-AdaptTeach-Learn-how-13-subject_specific_ability_groups
 8. And - following expert input - by taking opportunities to practise, receive feedback and improve at: 
-    1. Applying high expectations to all groups, and ensuring all pupils have access to a rich curriculum. #5-AdaptTeach-Learn-how-14-group_pair_stretch
+    1. o Applying high expectations to all groups, and ensuring all pupils have access to a rich curriculum. #5-AdaptTeach-Learn-how-14-group_pair_stretch
 
 
 ## Assessment (Standard 6 – ‘Make accurate and productive use of assessment’)
@@ -264,28 +264,28 @@ scaffold talk?
 ### Learn how to
 
 1. Develop a positive, predictable and safe environment for pupils, by:
-    1. Receiving clear, consistent and effective mentoring in how to respond quickly to any behaviour or bullying that threatens emotional safety.  #7-Behaviour-Learn-how-1-1-respond_emotional_safety
+    1. a Receiving clear, consistent and effective mentoring in how to respond quickly to any behaviour or bullying that threatens emotional safety.  #7-Behaviour-Learn-how-1-1-respond_emotional_safety
 2. And - following expert input - by taking opportunities to practise, receive feedback and improve at: 
-    1. Establishing a supportive and inclusive environment with a predictable system of reward and sanction in the classroom. #7-Behaviour-Learn-how-2-1-consistent_reward_sanction
-    2. Working alongside colleagues as part of a wider system of behaviour management (e.g. recognising responsibilities and understanding the right to assistance and training from senior colleagues). #7-Behaviour-Learn-how-2-2-wider_systems
-    3. Giving manageable, specific and sequential instructions. #7-Behaviour-Learn-how-2-3-specific_sequential_instruction
-    4. Checking pupils’ understanding of instructions before a task begins. #7-Behaviour-Learn-how-2-4-check_understanding_instruction
-    5. Using consistent language and non-verbal signals for common classroom directions. #7-Behaviour-Learn-how-2-5-non_verbal
-    6. Using early and least-intrusive interventions as an initial response to low level disruption. #7-Behaviour-Learn-how-2-6-least_intrusive_intervention
+    1. b Establishing a supportive and inclusive environment with a predictable system of reward and sanction in the classroom. #7-Behaviour-Learn-how-2-1-consistent_reward_sanction
+    2. c Working alongside colleagues as part of a wider system of behaviour management (e.g. recognising responsibilities and understanding the right to assistance and training from senior colleagues). #7-Behaviour-Learn-how-2-2-wider_systems
+    3. d Giving manageable, specific and sequential instructions. #7-Behaviour-Learn-how-2-3-specific_sequential_instruction
+    4. e Checking pupils’ understanding of instructions before a task begins. #7-Behaviour-Learn-how-2-4-check_understanding_instruction
+    5. f Using consistent language and non-verbal signals for common classroom directions. #7-Behaviour-Learn-how-2-5-non_verbal
+    6. g Using early and least-intrusive interventions as an initial response to low level disruption. #7-Behaviour-Learn-how-2-6-least_intrusive_intervention
 3. Establish effective routines and expectations, by:
-    1. Discussing and analysing with expert colleagues how routines are established at the beginning of the school year, both in classrooms and around the school #7-Behaviour-Learn-how-3-1-routines_wider
+    1. h Discussing and analysing with expert colleagues how routines are established at the beginning of the school year, both in classrooms and around the school #7-Behaviour-Learn-how-3-1-routines_wider
 4. And - following expert input - by taking opportunities to practise, receive feedback and improve at: 
-    1. Creating and explicitly teaching routines in line with the school ethos that maximise time for learning (e.g. setting and reinforcing expectations about key transition points). #7-Behaviour-Learn-how-3-1-routines_transitions
-    2. Reinforcing established school and classroom routines #7-Behaviour-Learn-how-3-1-routines_wider (duplicate)
+    1. i Creating and explicitly teaching routines in line with the school ethos that maximise time for learning (e.g. setting and reinforcing expectations about key transition points). #7-Behaviour-Learn-how-3-1-routines_transitions
+    2. j Reinforcing established school and classroom routines #7-Behaviour-Learn-how-3-1-routines_wider (duplicate)
 5. Build trusting relationships, by: 
-    1. Discussing and analysing with expert colleagues effective strategies for liaising with parents, carers and colleagues to better understand pupils’ individual circumstances and how they can be supported to meet high academic and behavioural expectations. #7-Behaviour-Learn-how-5-1-engage_parents
+    1. k Discussing and analysing with expert colleagues effective strategies for liaising with parents, carers and colleagues to better understand pupils’ individual circumstances and how they can be supported to meet high academic and behavioural expectations. #7-Behaviour-Learn-how-5-1-engage_parents
 6. And - following expert input - by taking opportunities to practise, receive feedback and improve at: 
-    1. Responding consistently to pupil behaviour.  #7-Behaviour-Learn-how-6-1-consistent_reward_sanction
-    2. Engaging parents, carers and colleagues with support (e.g. discussing a script) from expert colleagues and mentors both in formal and informal settings. #7-Behaviour-Learn-how-6-2-engage_parents
+    1. l Responding consistently to pupil behaviour.  #7-Behaviour-Learn-how-6-1-consistent_reward_sanction
+    2. m Engaging parents, carers and colleagues with support (e.g. discussing a script) from expert colleagues and mentors both in formal and informal settings. #7-Behaviour-Learn-how-6-2-engage_parents
 7. Motivate pupils, by: 
-    1. Observing how expert colleagues support pupils to master challenging content, which builds towards long-term goals and deconstructing this approach. #7-Behaviour-Learn-how-7-1-learning_is_lasting
-    2. Discussing and analysing with expert colleagues how experienced colleagues provide opportunities for pupils to articulate their long-term goals and helping them to see how these are related to their success in school. #7-Behaviour-Learn-how-7-2-careers_long_term_pastoral
-    3. Discussing and analysing with expert colleagues how to support pupils to journey from needing extrinsic motivation to being motivated to work intrinsically.  #7-Behaviour-Learn-how-7-3-intrinsic_motivation
+    1. n Observing how expert colleagues support pupils to master challenging content, which builds towards long-term goals and deconstructing this approach. #7-Behaviour-Learn-how-7-1-learning_is_lasting
+    2. o Discussing and analysing with expert colleagues how experienced colleagues provide opportunities for pupils to articulate their long-term goals and helping them to see how these are related to their success in school. #7-Behaviour-Learn-how-7-2-careers_long_term_pastoral
+    3. p Discussing and analysing with expert colleagues how to support pupils to journey from needing extrinsic motivation to being motivated to work intrinsically.  #7-Behaviour-Learn-how-7-3-intrinsic_motivation
 
 
 ## Professional Behaviours (Standard 8 – ‘Fulfil wider professional responsibilities’)

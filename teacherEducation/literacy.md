@@ -2,6 +2,7 @@ Literacy
 ========
 
 TODO:
+* [How to Teach Phonics in Secondary Schools](https://lexonik.co.uk/insights/how-to-teach-phonics-in-secondary-schools)
 The website we have been suggested to gauge the difficulty of a piece of text is: 
 https://charactercalculator.com/smog-readability/ 
 The SMOG calculator isn't perfect but can be a useful aid when planning and resourcing lessons. Just copy and paste a sample of your text into the space provided and press 'calculate'.

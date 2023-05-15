@@ -136,6 +136,8 @@ General Teaching (10 min)
     * What will make you a good teacher?
     * What are the hallmarks of a good lesson?
 
+TODO:
+* What is it that you will bring to your department
 
 
 Questions (5 min)

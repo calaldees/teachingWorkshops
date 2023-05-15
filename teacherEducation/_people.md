@@ -154,3 +154,7 @@ It was a privilege and a pleasure to spend a couple of hours today with the @Com
  @clairegowland
  @mcampbelliot
  @PeterMarshman
+
+
+Alan Harrison - How to Teach/Learn Computer Science
+[I Love Computing 2023](https://httcs.online/2023/02/19/lovecomp23/)

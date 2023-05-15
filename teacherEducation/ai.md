@@ -2,6 +2,8 @@ AI in the classroom (30min)
 ===================
 
 TODO:
+* [experience-ai.org](https://experience-ai.org/)
+    * Raspberry pi lessons
 * [AI Tools for Teachers](https://rachelarthurwrites.com/2023/04/24/ai-tools-for-teachers/) Rachel Arthur 2023
     * Lesson Planning and slide decks
     * Marking and Report writing

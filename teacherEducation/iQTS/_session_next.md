@@ -66,3 +66,14 @@ Mentor meeting
 "research informed" (not really the case) - It's "evidence based" (is more reallity)
 
 SD don't get "inclusion" (i session) or "what is my impact"
+
+
+2021
+----
+
+Subject Pedagogy
+ Depth - more practical
+ dates - 
+ SEN - linked to practical
+ Questions on parsons problems
+ SP2 - Actual school
