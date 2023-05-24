@@ -51,6 +51,7 @@ Lesson Plan (7 min)
     * Resource A or B (not both!)
     * _Not_ subject focused
 * Why did you structure it this way?
+* What improvements could be made? (Creative and Critical Thinking) (Reflective (in Response to Feedback)
 
 
 Computing Knowledge (5 min)
@@ -60,7 +61,7 @@ Computing Knowledge (5 min)
 
 Using your knowledge of ‘The entire discipline of Computing’; can you describe in as much detail as possible what/how has happened? You have as long as you like to answer the question.
 
-(Assess depth/breadth of computing knowledge. A good candidate will still be describing network routing infrastructure after 3 hours, let alone; font rasterization, language tokenization, compression. As an interviewer, you will know after 2 minutes)
+(Assess depth/breadth of computing knowledge. Are they enthusiastic and glowing with knowledge about how a computer works. A good candidate will still be describing network routing infrastructure and protocols after 3 hours, let alone; font rasterization, language tokenization, compression. As an interviewer, you will know after 2 minutes)
 
 Extension?:
 > What is the difference between a ‘gif’ and ‘jpg’
@@ -106,8 +107,7 @@ Computing in Education (5 min)
     * What books/articles/blogs/videos have you encountered about teaching Computing?
 * How would you encourage more girls to engage with Computing in schools?
 * What are the threats to young peoples online safety. How would you teach this?
-* Can you envisage a problematic scenario in a computing classroom?
-    * How might you deal with this?
+* Can you envisage a problematic scenario in a computing classroom? How might you deal with this?
 * What do you think young people will find the most challenging aspect of learning computing?
 * Extra
     * (Overseas) How might teaching in the context of the UK be different to your past experiences?
@@ -121,11 +121,16 @@ Computing in Education (5 min)
 General Teaching (10 min)
 ----------------
 
-* Picture yourself 6 months into the course; I come into your classroom to check on your progress. What will I see?
-* What would you do if you were concerned about a colleague's behaviour towards children?
-    * e.g. overhearing language used when dismissing a class
-* You have prepared an amazing lesson with guidance from theory and the university. You present the lesson plan to your mentor who is no convinced and does not want you to run the lesson. How do you respond?
-* In a GCSE class, you have 2 very slow students with special needs. They are never interested or engaged with computing. You have 28 other students that need your attention. How do you split your time?
+* Resilience, Dedication and Sense of Purpose
+    * Picture yourself 6 months into the course; I come into your classroom to check on your progress. What will I see?
+    * Can you give an example of when you encountered stressful/adverse challenges/situations and how did you overcome these?
+    * What do you think will be the most difficult part of your Initial Teacher Training year? How do you think you will overcome this?
+* Child Centred Approach
+    * What would you do if you were concerned about a colleague's behaviour towards children?
+        * e.g. overhearing language used when dismissing a class
+* (Teaching)
+    * You have prepared an amazing lesson with guidance from theory and the university. You present the lesson plan to your mentor who is no convinced and does not want you to run the lesson. How do you respond?
+    * In a GCSE class, you have 2 very slow students with special needs. They are never interested or engaged with computing. You have 28 other students that need your attention. How do you split your time?
 * Extra
     * Your mentor (who is younger than you) - she gives you feedback to action that you don't agree with. What do you do?
         * (TODO: reword: how will you respond to feedback from a mentor that is younger than you?)

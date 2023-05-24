@@ -546,6 +546,7 @@ Timeboxed? One hour? I could go all day
     * [profitful](https://profitful.online/) - Online tutorials for aspiring wealth creators
         * Start building yourself a brighter future by investing in greater financial knowledge. Learn how to create and manage wealth from those who do. 
 * Art
+    * [Early Computer Art in the 50’s & 60’s](https://www.amygoodchild.com/blog/computer-art-50s-and-60s) - Creativity
     * [10 innovative creative coding examples that are redefining programming](https://www.editorx.com/shaping-design/article/creative-coding)
         * Live performances and art exabits
     * Animation
@@ -662,6 +663,7 @@ Timeboxed? One hour? I could go all day
             * zoom in Audacity
     * Ableton
         * [Learning Music](https://learningmusic.ableton.com/)
+            * Separate drums, bass , melody loops (Could be good for precursor for mods?)
         * [Learning Synths](https://learningsynths.ableton.com/)
     * [The Design of the Roland Juno oscillators](https://blog.thea.codes/the-design-of-the-juno-dco/)
         * Physics/Electronics analog synths - sawtooth waves

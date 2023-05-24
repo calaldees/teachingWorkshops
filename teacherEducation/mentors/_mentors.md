@@ -545,7 +545,8 @@ Andragogy: Folder is their responsibility - should we be checking it
 Professional mentors informing the Subject Mentors
 
 
----
+SD Contrasting Placement
+-------------------------
 
 
 Hi ???,
@@ -657,3 +658,34 @@ You've contributed significant time to supporting ???.
 Thanks again for your time and expertise.
 Looking forward to seeing you again soon.
 
+
+Pre visit
+---------
+
+Hi xxx,
+(cc'ing as part of process:
+  xxx as Student Teacher,
+  xxx as Professional Mentor,
+  xxx as Area Lead,
+)
+
+I am due to visit XXX tomorrow (DATE) between 09:00 and 11:00.
+I hope to report to reception at just before 9am.
+
+My initial thoughts for the timing of this visit could be:
+- 45min XXX and Allan - Mentor catchup
+- 45min XXX, XXX and Allan - A normal mentoring activity with tutor participating.
+- 15min XXX and Allan
+- 15min XXX, (PM?) and Allan - overall progress
+I'm happy for these timing and order to be flexible.
+
+
+Some thoughts about my areas of focus:
+- Looking at xxx's ePortfolio, there are 
+
+
+I can also talk though the process for Final Assessment. It may be worth us booking a date for this in advance.
+
+PM: If you are available, it might be worth catching up quickly about general aspects for the upcoming Ofsted of the training partnership.
+
+I'm looking forward to visiting you all tomorrow.

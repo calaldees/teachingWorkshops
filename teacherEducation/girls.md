@@ -120,3 +120,6 @@ Founder of Coding Black Females
 
 * [Rebecca Heineman - Developer & Co-Founder of Interplay | Retro Tea Break ](https://www.youtube.com/watch?v=lPTLPXNtb2I) YouTube 2hour
     * Mexican
+
+* [Training and Resources for Gender Inclusive Teamwork](https://doi.org/10.15394/2018.1791)
+    * TODO

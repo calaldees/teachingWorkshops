@@ -125,3 +125,6 @@ Social Media
     7. By default, don’t choose an online activity when an offline one will do
     8. By default, avoid taking on hobbies that require regular internet use
     9. When you notice you’re ignoring these rules, close the laptop and put the phone away, and choose an offline activity to do for a while*
+
+* [Social Media Can Be a ‘Profound Risk’ to Youth, Surgeon General Warns](https://www.nytimes.com/2023/05/23/well/family/social-media-mental-health-surgeon-general.html)
+    * > Dr. Vivek H. Murthy urged immediate action from policymakers, tech companies and parents to safeguard against potential harms.

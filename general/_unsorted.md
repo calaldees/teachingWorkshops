@@ -258,3 +258,5 @@
 
 
 * [Honestly, it's probably the phones ](https://noahpinion.substack.com/p/honestly-its-probably-the-phones) - The most plausible explanation for teenage unhappiness.
+
+* [Moving from Blame to Accountability](https://thesystemsthinker.com/moving-from-blame-to-accountability/)
