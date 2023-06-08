@@ -37,9 +37,13 @@ Academic Writing
 * "That's restrictive. I just want to think"
 * `<BUZZER>`
 * "Why do you keep using the buzzer?"
-* `<BUZZER>`Because I am the voice of truth and reason
-* "Citation needed"
-* `<BUZZER>` **** you!
+* `<BUZZER>` Because I am the voice of truth and reason
+* "Truth and Reason"!? I think "Citation needed"
+* `<BUZZER>` I do not appreciate your satire and imitation.
+
+
+> Many students find XXX difficult
+Citation needed
 
 
 

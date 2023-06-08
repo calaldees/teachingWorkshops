@@ -689,3 +689,47 @@ I can also talk though the process for Final Assessment. It may be worth us book
 PM: If you are available, it might be worth catching up quickly about general aspects for the upcoming Ofsted of the training partnership.
 
 I'm looking forward to visiting you all tomorrow.
+
+
+Email Template - SD Final Assessment (May)
+---------------------------------
+School Direct Final Assessment - xxx
+
+
+Hi xxx
+(cc'ing as part of process:
+  xxx as Student Teacher,
+  xxx as Professional Mentor,
+  xxx as Area Lead,
+)
+
+We are now reaching the end of School Direct course and xxx needs to have a formal Final Assessment (FA) meeting.
+The purpose of Final Assessment to to ensure we have collated enough evidence to put recommend xxx forward for QTS.
+This is not as scary as it sounds. Any significant problems would have been raised earlier in the year. Final Assessment is formal but celebratory in nature.
+
+
+--- FA meetings
+* Can be organised from Monday 12th June 2023 onwards
+* Typically are face-to-face meetings in school
+* Typically last a total of 2 hours
+* (More details of the FA process is included as an attached PDF)
+
+I will perform a quick folder review 1 week before our FA meeting and will give feedback on any sections that will need to be addressed.
+
+The outcome of FA may be that we differ a 'pass' while we wait for missing/additional evidence to be present in the ePortfolio.
+
+--- SPR4
+Student Progress Review 4 (SPR4) should be completed before our FA meeting.
+Please take time to consider targets that will be useful for assisting xxx in their next setting. (Think about how the targets are going to be interpreted by their ECT mentor).
+Let me know if you need any assistance with SPR4.
+
+--- Arranging FA
+The swiftest way to book a FA meeting is to use my online booking system which is linked to my availability
+https://outlook.office365.com/owa/calendar/PGCESDComputing@cccu.onmicrosoft.com/bookings/
+If a timeslot you need is not available, please email me. It may be possible to rearrange some of my other meetings to accommodate you.
+
+--
+
+Final Assessment is a celebration of the amazing development trainees have made in the staggeringly short 9 months they have been teaching. xxx has developed immensely this year.
+
+I look forward to seeing you all in the next few weeks.

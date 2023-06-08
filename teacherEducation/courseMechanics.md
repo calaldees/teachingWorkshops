@@ -106,7 +106,7 @@ ITP = Independent Teaching Phase
 
 
 PGCE: 20 Session (6 hours per session) = 120 hours
-SD: 14 Sessions = 84 hours
+SD: 14 Sessions = 84 hours (-14hours admin and surveys and folders) = 70hours
 
 SD == 70% of Session time
 
