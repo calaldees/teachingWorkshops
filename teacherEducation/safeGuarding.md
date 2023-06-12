@@ -31,6 +31,7 @@ https://www.thinkuknow.co.uk/
     * [Let's Fight It Together](https://www.youtube.com/watch?v=dubA2vhIlrg) - Childnet international - Joe's story
     * [Sali Hughes: I met the woman who trolled me online](https://www.bbc.co.uk/news/uk-54421632) An adults story. This is a wider societal issue.
         * Impassioned 9min instagram post about the trolls and their effects
+    * [People with a greater tendency for victimhood are more likely to engage in cyberbullying, according to new research](https://www.psypost.org/2023/05/people-who-feel-like-victims-are-more-likely-to-engage-in-cyberbullying-according-to-new-research-163703)
 
 * Digital Dirt
     * [Orange Digital Dirt](https://www.youtube.com/watch?v=JJfw3xt4emY)

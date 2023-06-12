@@ -20,7 +20,7 @@ What is Education
         > Conversely, a system that implies that teaching is predominantly improvisational, impossible to specify, and developed idiosyncratically through individual experience is no system at all and not at all professional.
     * [[CCF]]
 
-* [Teacher quality: What it is, why it matters, and how to get more of it](https://my.chartered.college/impact_article/teacher-quality-what-it-is-why-it-matters-and-how-to-get-more-of-it/) Chartered College, Dylan Wilam 2023
+* [Teacher quality: What it is, why it matters, and how to get more of it](https://my.chartered.college/impact_article/teacher-quality-what-it-is-why-it-matters-and-how-to-get-more-of-it/) Chartered College, Dylan Wilam 2023 [pdf dropbox](https://www.dropbox.com/s/8b2zdxp0up4wki5/Teacher%20quality%20-%20What%20it%20is,%20why%20it%20matters,%20and%20how%20to%20get%20more%20of%20it%20(Impact%202023).pdf?dl=0)
     * We can’t identify good teachers by observing them
         * seems nonsensical, but there is now a large body of evidence
         * judges are no better than flipping a coin

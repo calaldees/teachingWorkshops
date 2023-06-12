@@ -23,3 +23,18 @@ Mentor Meeting 4
     * Podcast idea?
     * Half term meet? Informal Unconference?
         * Hard to get term time
+
+
+SKA
+    Digitial informatinon technology
+    Word process - Heading styles, TOC, head footer
+    CAS - 
+    KS5 - high end
+Mentor foci
+    Change order (literacy and parents)
+    Gaps (to revisit spiral)
+    SEND SP14 - carrers - late ghastby
+    Cultural capital - macs?
+    Woement in industry - role model
+    Acessible SEND14
+    KS5 earlyer

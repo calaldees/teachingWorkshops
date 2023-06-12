@@ -260,3 +260,5 @@
 * [Honestly, it's probably the phones ](https://noahpinion.substack.com/p/honestly-its-probably-the-phones) - The most plausible explanation for teenage unhappiness.
 
 * [Moving from Blame to Accountability](https://thesystemsthinker.com/moving-from-blame-to-accountability/)
+
+* [People with a greater tendency for victimhood are more likely to engage in cyberbullying, according to new research](https://www.psypost.org/2023/05/people-who-feel-like-victims-are-more-likely-to-engage-in-cyberbullying-according-to-new-research-163703)

@@ -8,3 +8,6 @@ Impact
 * Edge Hill University [National Teaching Repository (NTR)](https://figshare.edgehill.ac.uk/articles/presentation/NTR_-_Welcome_pdf/12673016)
     * Gain national recognition.
     * Protect your academic and intellectual property
+
+* [Impact Evaluations of Teacher Preparation Practices: Challenges and Opportunities for More Rigorous Research](https://journals.sagepub.com/doi/10.3102/00346543231174413)
+    * > Many teacher education researchers have expressed concerns about the lack of rigorous impact evaluations of teacher preparation practices. 
