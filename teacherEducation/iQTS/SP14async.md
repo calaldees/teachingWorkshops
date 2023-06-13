@@ -69,3 +69,18 @@ Remember the audit is for Computing teachers (not students). This is for teacher
         * https://computingteachers.uk/subjectKnowledge/subject-knowledge-2022.html
             * https://github.com/ComputingTeachers/subjectKnowledge/blob/main/subject-knowledge-2023.json
 2. Make a 'pull request' to add items to 2023. (You can use version control because you are a computing teacher)
+
+
+Subject knowledge target(s) (30min)
+------------------------
+
+To make meaningful progress next year, it is important to strategically put things in place to develop in the right directions. If you are just left to "do your teaching" you may find yourself working hard but with little meaningful development. It is important to have longer terms targets/goals in order to carve out and plan a way to get to your goal.
+
+It would be wise to ensure that you have one very well worded SMART target that focuses on your subject knowledge. 
+This could be 
+* time for a project (to develop skills in a particular area)
+* an experimental after school club you want to run
+* A training course you want to enrole on
+
+Construct a SMART target and put this forward to your mentor for next year.
+
