@@ -282,6 +282,17 @@ https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/stati
 Demoscene
 
 
+SSDD
+----
+
+Same Surface different depth (SSDD)
+Maths example https://ssddproblems.com/
+
+Imagine creating resource for topics in computing that have resources/plan for KS2 though to KS5.
+The Scratch, Turtle, Canvas example was one
+Boolean Logic -> single 'if' though to 'and/or' though to simplifying logic (demorgans)
+
+
 
 Textbooks for teaching Computing? (45min)
 --------------------------------
