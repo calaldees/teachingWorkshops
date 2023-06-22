@@ -1,6 +1,10 @@
 Girls in Computing
 ==================
 
+https://techshecan.org/
+
+* [England's computing curriculum could be 'missing the mark' to engage girls](https://www.kcl.ac.uk/news/englands-computing-curriculum-missing-mark)
+    * > Dr Kemp and his co-investigators suggest that broadening the GCSE and the curriculum to include more creative computing education, such as digital art (practices that use digital technology as part of the creative process), would appeal to more students who want to develop digital skills for their future careers but do not see the relevance of the current curriculum and GCSE Computer Science.
 * [Gender Balance in Computing](https://teachcomputing.org/gender-balance) - Help us find the best ways to encourage young women to study Computer Science
     * > The Gender Balance in Computing (GBIC) research programme is an amazing opportunity to find out what works to encourage girls to develop an interest during their primary and secondary school years, and increase the number of young women who choose to study Computer Science at GCSE and A level.
     * Six different research interventions ,Run across four years, In over 1000 state schools in England

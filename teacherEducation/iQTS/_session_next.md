@@ -77,3 +77,25 @@ Subject Pedagogy
  SEN - linked to practical
  Questions on parsons problems
  SP2 - Actual school
+
+Music Reading schedule
+https://cccu.padlet.org/emily_sayers1/reading-discussion-board-forum-958yfmwuj5f0klhc
+
+Chapter 1 of sue sentance book - what is Computing
+https://twitter.com/NALooker/status/1670679576408735745
+
+From mentor 4 
+SKA
+    Digitial informatinon technology
+    Word process - Heading styles, TOC, head footer
+    CAS - 
+    KS5 - high end
+
+Mentor foci
+    Change order (literacy and parents)
+    Gaps (to revisit spiral)
+    SEND SP14 - carrers - late ghastby
+    Cultural capital - macs?
+    Woement in industry - role model
+    Acessible SEND14
+    KS5 earlyer

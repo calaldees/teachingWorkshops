@@ -262,3 +262,6 @@
 * [Moving from Blame to Accountability](https://thesystemsthinker.com/moving-from-blame-to-accountability/)
 
 * [People with a greater tendency for victimhood are more likely to engage in cyberbullying, according to new research](https://www.psypost.org/2023/05/people-who-feel-like-victims-are-more-likely-to-engage-in-cyberbullying-according-to-new-research-163703)
+
+* [Pricing Money: A Beginner’s Guide to Money. Bonds, Futures and Swaps](http://www.jdawiseman.com/books/pricing-money/Pricing_Money_JDAWiseman.html)
+    * Fee eBook

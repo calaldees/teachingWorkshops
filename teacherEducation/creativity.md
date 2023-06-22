@@ -195,3 +195,6 @@ They appear correlated
 * Book [Computational Fairy Tales Paperback – 26 Jun. 2012](https://www.amazon.co.uk/dp/1477550291)
     * Be cautions [Dylan Wiliam snippet](https://youtu.be/7ynsMwzsCsg?t=270) - we often remember the stories, but not the actual message
 
+* [twitter](https://twitter.com/80sNostalgia/status/1671232216368594951?t=C8o1MHpaiz3XySC8fo5QaA&s=19)
+    * > This is incredibly cool! A teacher is teaching his class of 10 year olds how to program on a Spectrum, and they have made all their new games available to download. Some look outstanding! I wish my school in the 80s had been this ace!
+    * https://dougie9mcg.itch.io/zx-spectrum-games-by-bearsden-primary-2023

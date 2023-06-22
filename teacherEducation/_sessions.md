@@ -7,6 +7,25 @@ TODO: echo these!
 * Subject pedagogy
 * Inclusivity
 
+1. Who are we?
+2. How do you learn how to teach?
+3. What is a teacher?
+4. What is education?
+5. How do children learn?
+6. How do you plan and assess for learning?
+7. What does inclusion really mean?
+8. What is a broad and balanced curriculum?
+9. How do you lead learning?
+10. What is my impact?
+
+behaviour management
+pedagogy
+subject/curriculum knowledge
+assessment
+professional behaviours
+
+
+
 Readings
 --------
 
