@@ -1,6 +1,13 @@
 AI in the classroom (30min)
 ===================
 
+is like a spell checker now
+https://twitter.com/HeyAbhishekk/status/1672952633588592641
+
+https://github.com/openai/openai-cookbook
+https://twitter.com/beyang/status/1673001283563962368
+https://sourcegraph.com/
+
 TODO:
 * [experience-ai.org](https://experience-ai.org/)
     * Raspberry pi lessons

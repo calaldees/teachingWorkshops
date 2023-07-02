@@ -3,6 +3,10 @@ Girls in Computing
 
 https://techshecan.org/
 
+
+* [EGOI 2021 1st European Girls' Olympiad in Informatics](https://egoi.ch/en/)
+    * Do we need a separate female category?
+
 * [England's computing curriculum could be 'missing the mark' to engage girls](https://www.kcl.ac.uk/news/englands-computing-curriculum-missing-mark)
     * > Dr Kemp and his co-investigators suggest that broadening the GCSE and the curriculum to include more creative computing education, such as digital art (practices that use digital technology as part of the creative process), would appeal to more students who want to develop digital skills for their future careers but do not see the relevance of the current curriculum and GCSE Computer Science.
 * [Gender Balance in Computing](https://teachcomputing.org/gender-balance) - Help us find the best ways to encourage young women to study Computer Science
@@ -68,6 +72,11 @@ Family planing and support
 * [Technology and sexuality – what's the connection? Addressing youth sexualities in efforts to increase girls' participation in computing](https://www.tandfonline.com/doi/abs/10.1080/17439884.2014.933847)
     * > Concerns about this under representation have sparked a wealth of educational efforts to promote girls’ participation in computing, but these programs have demonstrated limited impact on reversing current trends. This paper argues that this is, in part, because these programs tend to take a narrow view of their purpose, ignoring important factors that shape girls’ identities and education/career choices – not least broader narratives around gender, race, and sexuality.
     * TODO read
+
+
+* [Boys more enthused than girls by school for first time](https://www.tes.com/magazine/news/general/boys-more-enthusiastic-girls-like-school-first-time-scotland)
+    * Girls hate school from 2020
+
 
 
 ---
