@@ -154,6 +154,7 @@ A Mental Model of the Learner - Daniel Willingham
 * It is _totally normal_ to forget things
 * [Why do we forget? New theory proposes ‘forgetting’ is actually a form of learning](https://www.tcd.ie/news_events/articles/why-do-we-forget-new-theory-proposes-forgetting-is-actually-a-form-of-learning/) 2022
     * Dr Tomás Ryan, Associate Professor in the School of Biochemistry and Immunology and the Trinity College Institute of Neuroscience at Trinity College Dublin, and Dr Paul Frankland, Professor in the Department of Psychology at the University of Toronto and the Hospital for Sick Children in Toronto.
+* TODO: Ebbinghaus: "Forgetting Curve"
 
 TASK: What does this mean for your planning?
 

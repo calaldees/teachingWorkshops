@@ -1,6 +1,9 @@
 eSafety
 =======
 
+* [@josemonkey](https://twitter.com/josemonkey) - I find people who ask to be found. #OSINT #GEOINT #geolocation
+    * [Mother in carpark](https://twitter.com/mouthofmorrison/status/1675548124293603329?t=2786wvDhOu84klxvOC737Q&s=19)
+
 TODO: Get students to do this!
 * [UKCIS Online Safety Audit Tool](https://www.gov.uk/government/publications/ukcis-online-safety-audit-tool)
     * > The UK Council for Internet Safety (UKCIS) Online Safety Audit Tool helps mentors of trainee teachers and early career teachers induct mentees and provide ongoing support, development and monitoring.

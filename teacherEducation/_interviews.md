@@ -123,8 +123,12 @@ General Teaching (10 min)
 
 * Resilience, Dedication and Sense of Purpose
     * Picture yourself 6 months into the course; I come into your classroom to check on your progress. What will I see?
-    * Can you give an example of when you encountered stressful/adverse challenges/situations and how did you overcome these?
     * What do you think will be the most difficult part of your Initial Teacher Training year? How do you think you will overcome this?
+    - Can you give an example of when you have been overwhelmed by work
+        - How did you resolve this situation?
+    - What do you suspect your upcoming school experience will look like?
+        - What possible issues can you foresee with teaching in your new context
+        - how could you resolve this situation?
 * Child Centred Approach
     * What would you do if you were concerned about a colleague's behaviour towards children?
         * e.g. overhearing language used when dismissing a class

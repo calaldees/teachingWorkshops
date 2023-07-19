@@ -1,6 +1,23 @@
 AI in the classroom (30min)
 ===================
 
+* Guidance
+    * [Russell Group: New principles on use of AI in education](https://russellgroup.ac.uk/news/new-principles-on-use-of-ai-in-education/) July 2023
+        * Universities will support students and staff to become AI-literate.
+        * Staff should be equipped to support students to use generative AI tools effectively and appropriately in their learning experience.
+        * Universities will adapt teaching and assessment to incorporate the ethical use of generative AI and support equal access.
+        * Universities will ensure academic rigour and integrity is upheld.
+        * Universities will work collaboratively to share best practice as the technology and its application in education evolves.
+    * [UNESCO: AI and education: guidance for policy-makers](https://unesdoc.unesco.org/ark:/48223/pf0000376709) 2021
+
+* Dimensions
+    * Student Assessment
+        * Plagerisum
+        * Assessment reform
+    * Teachers creating assessments
+    * Teachers creating content
+    * Teachers feedback
+
 is like a spell checker now
 https://twitter.com/HeyAbhishekk/status/1672952633588592641
 

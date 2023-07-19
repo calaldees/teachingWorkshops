@@ -142,12 +142,12 @@ Subject Session
 
 ### Absence From Subject Sessions
 * 5 days == Letter
-* 120 days in school
+* 120 days required in school
 * missed session 500 words
     * reflective piece on key question
     * NOT a punishment
     * NOT an alternative to attending sessions
-* missed session == not meet teaching standards
+* missed session == not meet teaching standards (part2 professionalism)
 
 
 ### Action: Learning Support Plan (LSP) (if needed)

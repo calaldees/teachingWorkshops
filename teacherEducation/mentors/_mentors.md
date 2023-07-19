@@ -3,6 +3,21 @@ Mentors
 
 TODO: Take EmilyWS mentoring word doc in Dropbox and turn it into plain text
 
+* 2024 
+   * 20 Hours Training
+   * Professional recondition? (how)
+* Training Curriculm for mentors
+   * How I am I going to convey "I'm approachable"
+      * to stressed to be bothered
+   * Support to be independent - support will be withdrawn
+   * Explain "why we are doing what we're doing"
+   * Clearer quality standards (formalised)
+      * Lead mentors must have secure understanding of CCF (how measured)
+      * Formal selection and deselection in schools (a sensitive topic)
+      * Non attendance of training == deselected (plan b if can't attend)
+   * Flipped learning - give information to mentors - then QA with them
+   
+
 * [Computing Teacher Educators Network](https://forms.office.com/pages/responsepage.aspx?id=ZyYeN4rMsEe13T5BpfTp_DHG91hvGkxPsNAus4-ppg5UQlJGTTJQQlhQSzUyTjlNS1hFV01ZNUtETy4u)
    * Upcoming events
 
