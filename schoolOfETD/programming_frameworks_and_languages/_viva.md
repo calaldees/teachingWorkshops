@@ -25,6 +25,12 @@ Allan Callaghan (Module Lead)
 Viva Questions
 --------------
 
+* Can you describe the problem that you are trying to solve
+  * What are the components of the assignment?
+    * Server API (implementing `openapi.yaml` spec)
+    * Client (that uses the server)
+    * Client Layout (styled and responsive)
+
 ### Server
 
 * Can you run your sever and show us that it works (not with client)
