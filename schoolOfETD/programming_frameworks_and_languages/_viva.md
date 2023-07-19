@@ -25,6 +25,8 @@ Allan Callaghan (Module Lead)
 Viva Questions
 --------------
 
+### Server
+
 * Can you run your sever and show us that it works (not with client)
 * Can you run the server tests
 * How did you store your data
@@ -45,10 +47,19 @@ Viva Questions
   Where did you set the content type for `/`
   When you were developing your solution, can you describe an error you found, how did you resolve this?
 
-  Can you run the client tests
-  Where would you look for failed test information?
-  Can you show where you setup `main` as an ID - Why did you create this?
-  Show where you attached an action to a button. What was the action? what code was executed? Talk us through the information flow.
+### Client
+* Can you run the client tests
+* Where would you look for failed test information?
+  * Do they know where the output videos are?
+* Show where you attached an action to a button. What was the action? what code was executed? Talk us through the information flow.
+* How did you get the server host address from the query string `?api=`
+* How do you render html with templated variables - show me the features of the framework that allowed you to do this
+* How did you make your html elements discoverable to the automated tests?
+
+### Client Layout
+* Can you show my how you styled your buttons and inputs
+* Can you resize your client display width
+  * Can you talk about how you achieved this
 
 Solutions
 ---------
