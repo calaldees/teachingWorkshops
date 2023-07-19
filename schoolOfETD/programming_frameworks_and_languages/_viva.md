@@ -29,7 +29,7 @@ Viva Questions
 * Can you run the server tests
 * How did you store your data
 * How did you generate a new ItemID
-* Tell me about the field 'date_from'. What is iso?
+* Tell me about the field 'date_from'. What is an ISO date?
 * What is a 405, show me it's implementation, describe what this is doing
 * Explain what a cors header is and show me how you tested this
 * What was different about the response to `/`
@@ -49,3 +49,15 @@ Viva Questions
   Where would you look for failed test information?
   Can you show where you setup `main` as an ID - Why did you create this?
   Show where you attached an action to a button. What was the action? what code was executed? Talk us through the information flow.
+
+Solutions
+---------
+
+* Server (python/falcon)
+  * https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/web/rest_api/falcon_api.py
+* Client (vue.js)
+  * https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/web/frameworks/vue.html
+* Exemplars
+  * https://github.com/calaldees/RESTApiTask
+    * https://github.com/calaldees/RESTApiTask/blob/main/app/server.js
+    * https://github.com/calaldees/RESTApiTask/blob/main/app/client.html
