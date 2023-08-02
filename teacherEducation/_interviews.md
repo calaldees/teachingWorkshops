@@ -1,31 +1,105 @@
+Pre Interview Communication
+=============
+
+Congratulations on having been offered an interview for a place on the PCGE course for September 2023. As you will have read from the pre-interview information online, the interview process provides an insight into the course and an opportunity for you to ask questions. The interview will comprise of several different activities that enable you to demonstrate a variety of attributes and skills that successful teachers draw upon to enable learning to happen in the classroom and therefore is fair and rigorous.
+ 
+This document provides an overview of the subject element of the interview and should be read in conjunction with the main webpage. There are two key processes that make up the subject element of the selection process
+The Subject Interview
+In the specialist subject interview, you will explore a range of topics; these are likely to include:
+* Your view of how computing could/should be taught in the classroom
+* Your proficiency in at least one programming language
+* Your previous experience of working with young people in educational settings
+Initial Subject Knowledge Audit in Computer Science
+Below you will find a copy of the Initial Subject Knowledge Audit in computer science. I would be grateful if you would return your completed version of this document to me via email at least two days prior to the interview day. Should this not be possible, I would ask you to contact me in advance. My email address is allan.callaghan@canterbury.ac.uk 
+
+We look forward to meeting you. 
+  
+Best wishes, 
+
+Initial Subject Knowledge Audit
+This audit aims to help you:
+* Understand what “subject knowledge” means for your subject
+* Perform a gap analysis of your own skills 
+* Guide you with building subject knowledge before you start the course
+No teacher knows everything about their subject. 
+There are no defined list of topics or other information that must be known by subject practitioners. 
+But it is important that you have the fundamental concepts.
+What the PGCE “is” and “isn’t”
+* The one-year PGCE course will be focused on developing your “Subject Pedagogy” e.g. How do you effectively teach computing concepts like a 'bubble sort'.
+* The course will not be focused on developing “Subject Knowledge” e.g. Your skills or knowledge about algorithms, or software packages.
+You will be taking responsibility for learning new material and raising your level of subject knowledge. This is an aspect of the course in which you need to develop independent strategies for learning.
+
+What do your levels of competence look like in different topic areas?
+
+For each area listed below indicate where you assess your level of competence to be currently. Please use the descriptions provided and be frank and honest in your self-assessment.
+
+Important note:
+The level descriptions should be used as a guide rather than a check list, to aid you. We are not expecting you to be able to demonstrate many areas at level 3 or 4 at this stage, therefore do not worry about ticking any of the boxes as this audit is used as a tool to help support and develop your subject knowledge rather than a judgement tool.
+ 
+1. None
+    * No idea or unsure, insecure knowledge. 
+2. Some: 
+    * Need to look it up or refresh knowledge Know the rules but need to refresh knowledge/skills
+3. I know and can do: 
+    * Quickly recall, answer exam style questions without a prompt. 
+    * Know the key information, meanings and have the knowledge
+4. I understand and can explain: 
+    * Focus on teaching: Can explain how and why to someone else. 
+    * Can use analogies, models or similar. 
+    * Can link prior knowledge and next development stages. 
+    * Understands the progression in a topic
+5. I can help others to learn: 
+    * Focus on individual learning and understanding: Can interconnect and link to other topics. 
+    * Use relevance and everyday applications to motivate. 
+    * Anticipate problems and difficulties through use of common misconceptions and other strategies. 
+    * Understand conceptual structure. 
+    * Deconstruct learning into manageable chunks. 
+    * Enable meta-cognition 
+
+Additional Subject Skills
+Describe any additional experience/understanding you have related to the discipline of computing:
+
+
 Computing Candidate Interview Questions
 =======================================
 
 Introduction
 ------------
 
-Introduce background of interviewers
+### Introduction (5 min)
+* Introduce background of interviewers
+* "How was the group interview?"
+    * RED FLAG:
+        * Inaccurate perception of how they came across in the group interview
+        * overly critical of other candidates or the tasks they were expected to complete
+        * a lack of awareness of the lesson planning task
+* Check ID (1 min)
+* Fundamental skills link
+    * https://forms.office.com/r/f18z47dtpN 
+    * https://bit.ly/FMESkillstest
+* Objective of interview + criteria
+    * Subject Knowledge Enthusiasm/Development 
+    * Child Centred Approach
+    * Resilience, Dedication and Sense of Purpose
+    * Creative and Critical Thinking
+    * Reflective (in Response to Feedback)
+* TimeFrame
+    * We have a lot to fit in 45mins. 
+    * Apologies in advance; I may move our discussions onwards to keep to time.
+* Do you have any questions about the interview?
 
-### Timeframe
+#### TimeFrame
 * 45 min
     * 3 min Introduction
-        * Introduce interviewers and timetable (2 min)
-        * Check ID (1 min)
-        * Fundamental skills link
-            * https://forms.office.com/r/f18z47dtpN 
-            * https://bit.ly/FMESkillstest
     * 5 min personal overview
     * 7 min lesson plan
     * 10 min subject knowledge
+        * Subject Knowledge audit (TODO)
         * Code comprehension (5 min)
         * Wider computing knowledge (5 min)
     * 15 min teaching questions
         * half teaching computing focused - half general teaching focused
     * 5 min Questions
-
-We have a lot to fit in 45mins. 
-Apologies in advance; I may move our discussions onwards to keep to time.
-
 
 ### Objectives
 * Ascertain
@@ -36,13 +110,14 @@ Apologies in advance; I may move our discussions onwards to keep to time.
     * Safeguarding (Professionalism)
 
 
-Personal Overview (5 min)
+Personal Overview (4 min)
 -----------------
 
-Tell me your story:
-* How did you get here?
-* Why do you want to become a teacher?
-
+* Tell me your story (2min):
+    * How did you get here?
+    * Why do you want to become a teacher?
+* Questions from personal statement
+    * Tell me more about xxx
 
 Lesson Plan (7 min)
 -----------
@@ -51,11 +126,25 @@ Lesson Plan (7 min)
     * Resource A or B (not both!)
     * _Not_ subject focused
 * Why did you structure it this way?
-* What improvements could be made? (Creative and Critical Thinking) (Reflective (in Response to Feedback)
+* What improvements could be made? (Creative and Critical Thinking) (Reflective in Response to Feedback)
+
+Subject Knowledge Audit (In progress)
+----------------------
+
+* What do you feel are your strongest areas of subject knowledge, 
+    * how did you develop this knowledge/skill/deep understanding?
+    * RED FLAGS:
+        * If they have rated themselves at the top level but they can’t give examples of having taught them. 
+        * If they have rated themselves highly for an attribute but reveal misconceptions in conversation e.g. saying they are great at identifying algorithm complexity, but can't write a bubble sort.
+* What are your weakest areas of subject knowledge at this time?
+    * reassure candidate that all trainees are required to develop subject knowledge during the programme and what we are looking for at interview is an accurate self assessment of competence, rather than a full depth and breadth of computing knowledge, skills and understanding.
+* If you had time to develop this knowledge/skill/understanding before joining the course, how would you go about organising this independently?
 
 
 Computing Knowledge (5 min)
 -------------------
+
+Show-off your knowledge of how a computer works.
 
 > You type `google.com` into a ‘url bar’ and 1 second later you see the Google logo and search box.
 
@@ -103,18 +192,23 @@ Computing in Education (5 min)
 ----------------------
 
 * Tell me about the Computing syllabus in UK schools (or overseas) what are the differences compared with the UK computing curriculum?
-    * Describe how you have recently developed your computing subject knowledge in relation to the UK computing curriculum
-    * What books/articles/blogs/videos have you encountered about teaching Computing?
-* How would you encourage more girls to engage with Computing in schools?
+    * e.g. the National Curriculum for Computing, GCSE/BTEC/A Level/online syllabi, Ofsted Computing Research Review etc. would be helpful to demonstrate wider understanding of the context of computing in schools.
+    * Understand of distinction between: Computer Science, ICT and Digital Literacy and how these are conveyed in schools
+    * RED FLAGS: Not understanding the breath of requirements a computing teacher may need to involved in. Thinking it's "only programming" or "only ict"
 * What are the threats to young peoples online safety. How would you teach this?
+* What do you think are are some of the challenges with 'teaching' Computing
+    * How would you encourage more girls to engage with Computing in schools?
+* What do you think young people will find the most challenging aspect of 'learning' computing?
 * Can you envisage a problematic scenario in a computing classroom? How might you deal with this?
-* What do you think young people will find the most challenging aspect of learning computing?
+* Should everyone learn how to code? Why/WhyNot?
+    * RED FLAGS: Lack of awareness of the range of possible learners and motivations. Computing is hard and abstract and can be difficult for some students to contextually engage with. Thinking that code is the only aspect of teaching computing.
 * Extra
     * (Overseas) How might teaching in the context of the UK be different to your past experiences?
     * How do you think computer science could/should be taught in the classroom?
     * How would teaching Computing differ from other subjects?
-    * How do you see your skills and role changing/developing over the years? Where do you see yourself in 5 years?
     * What problems are there with young people using technology?
+    * Would you use computer games in your classroom?
+        * RED FLAGS: not identifying that games can engage some learners and significantly disengage others
 
 
 
@@ -132,13 +226,21 @@ General Teaching (10 min)
 * Child Centred Approach
     * What would you do if you were concerned about a colleague's behaviour towards children?
         * e.g. overhearing language used when dismissing a class
+* Safeguarding:
+    * RED FLAGS: Any responses which indicate a lack of concern for young people’s welfare or their own safety.
+    * Scenario question: you’re taking the register one morning. A pupil runs in late and tells you that they need to talk to you urgently. They look shaken. What do you do?
+        * (training year alternate: "and your mentor is also in the classroom")
+    * Scenario question: You’re walking home from school and see a large group in the park smoking cannabis, vaping and drinking cans. The group includes some pupils from your Key Stage 3 classes. You’re going to have to walk past them to get home. What do you do?
+
 * (Teaching)
     * You have prepared an amazing lesson with guidance from theory and the university. You present the lesson plan to your mentor who is no convinced and does not want you to run the lesson. How do you respond?
     * In a GCSE class, you have 2 very slow students with special needs. They are never interested or engaged with computing. You have 28 other students that need your attention. How do you split your time?
+        * RED FLAGS: Lack of positivity and high aspirations for the musical learning of pupils with SEN(D) or younger pupils.
 * Extra
     * Your mentor (who is younger than you) - she gives you feedback to action that you don't agree with. What do you do?
         * (TODO: reword: how will you respond to feedback from a mentor that is younger than you?)
-    * Why did you choose the PGCE over School Direct or Assessment-Only?
+    * Why did you choose the PGCE over other potential routes into teaching e.g. School Direct or Assessment-Only?
+        * RED FLAGS: Are they aware of different routes. Do they know what the PGCE is.
     * How would you deal with students not doing as you say?
     * Provide examples of times when workload and numerous tasks have been managed concurrently?
     * Can you give an example of where you changed your opinion?
@@ -147,6 +249,8 @@ General Teaching (10 min)
 
 TODO:
 * What is it that you will bring to your department
+        Please tell me about a time when you have worked effectively as part of a team.
+        Can you discuss a situation when you have worked under pressure? (what strategies did you use to cope?)
 
 
 Questions (5 min)
@@ -174,7 +278,7 @@ Interview Criteria
     * 4
         * No subject audit completed 
         * Little enthusiasm or strategies for developing own subject knowledge further 
-* Child Centred Approach 
+* Child Centred Approach
     * 1
         * Demonstrates clear knowledge of how to keep both children and self safe in a school context 
         * Is excited about the idea of working with children and young people  
@@ -188,7 +292,7 @@ Interview Criteria
     * 4
         * Has difficulty in expressing concern for young people and/or identifying potential issues young people may face 
         * Motivation to teach centres entirely on own desire to impart knowledge to pupils 
-* Resilience, Dedication and Sense of Purpose 
+* Resilience, Dedication and Sense of Purpose
     * 1
         * Proven ability to manage and recover from stressful/adverse challenges or situations. 
         * Aware course is challenging but has determined and realistic approach to training to teach and a sense of purpose. 
@@ -200,7 +304,7 @@ Interview Criteria
         * Demonstrates some ability to adapt to potentially stressful situations and/or intense workload. Understands that own actions will have consequences. Developing a sense of purpose. 
     * 4
         * Has difficulty in explaining how they have: managed stressful situations, heavy workloads, come up with solutions to difficult problems and kept going. Has no or highly incoherent sense of purpose.   
-* Creative and Critical Thinking 
+* Creative and Critical Thinking
     * 1
         * Original/critical analysis of issues/experience 
         * In Lesson Planning Task candidate may: think of an impressive original topic, come up with multiple strong ideas/strategies. In discussion, they may adapt someone else’s idea and add clear improvements, and challenge or take risks in order to improve the impact of the lesson plan. 
