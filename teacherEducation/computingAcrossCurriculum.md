@@ -712,6 +712,7 @@ Timeboxed? One hour? I could go all day
     * [English++](https://englishplusplus.jcj.uj.edu.pl/index.html)
         * Teaching Computer Science with english as a second language.
         * Open polish book from 3rd year comp sci grads
+    * TODO: LEARNING LANGUAGES WITH SCRATCH https://helloworld.raspberrypi.org/issues/12 Page 45
 * Textiles
     * [Knitters and Coders: separated at birth?](https://cs4fn.blog/2021/06/11/knitters-and-coders-separated-at-birth/)
     * Embroidery (cad/cam printers)
@@ -766,6 +767,7 @@ Not directly related to an existing established school subject.
     * > They need hands-on experience with data collection to understand the data concept and how to use open data
 
 * Data Science
+    * https://helloworld.raspberrypi.org/articles/how-do-we-engage-learners-in-data-science
     * [datacamp.com](https://www.datacamp.com/) - Build data skills online
         * Online lessons, processing tools, data, interactive assessments
         * [DataCamp For The Classroom](https://www.datacamp.com/groups/education) - Democratizing data science education - DataCamp is 100% free for educators
@@ -870,6 +872,12 @@ Further Concepts (lecture 15min)
 Programming Projects
 --------------------
 
+TODO: 
+https://helloworld.raspberrypi.org/issues/14
+Page 19 RECONNECTING WITH NATURE IN YOUR CLASSROOM
+Wildlife camera trap 
+
+
 * [calaldees/TeachPrograming/projects/data](https://github.com/calaldees/TeachProgramming/tree/master/teachprogramming/static/projects/data)
     * conway
     * cypher
@@ -962,6 +970,7 @@ Vector graphics formats
 
 ### Generate graphs of equations
 
+https://helloworld.raspberrypi.org/articles/hw16-more-than-the-mean
 
 Give a framework to put pixels on screen [graph-line.html](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/data/graph-line.html)
 Draw x and y axis

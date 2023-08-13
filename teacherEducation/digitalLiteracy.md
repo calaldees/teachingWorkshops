@@ -88,6 +88,8 @@ ACTIVITY:
     * [DownDetector.co.uk](https://downdetector.co.uk/)
     * [istheservicedown.co.uk/](https://istheservicedown.co.uk/)
     * FaslyCDN
+* Expand a shortened url
+    * was it obfuscating a malicious site?
 * Distinguish between a Web or Native mobile app
 * Https + certificates + RSA Key Pairs
 * Use Hotkeys

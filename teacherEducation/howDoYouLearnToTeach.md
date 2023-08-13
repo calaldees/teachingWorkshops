@@ -136,6 +136,7 @@ plan your (I)nvestigate questions
 
 * [Block Model: an educational model of program comprehension as a tool for a scholarly approach to teaching](https://doi.org/10.1145/1404520.1404535) Schulte 2008
     * [The I in PRIMM](https://helloworld.raspberrypi.org/articles/hw14-the-i-in-primm) Sue Sentence 2020
+        * https://helloworld.raspberrypi.org/issues/14 Page 50
 
 | | (T) Text Surface | (P) Program execution | (F) Function (relevance/intention) |
 |-|-|-|-|

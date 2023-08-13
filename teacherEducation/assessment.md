@@ -1,7 +1,9 @@
 Formative Assessment
 ====================
 
-
+TODO:
+* [Hello World Issue 12](https://helloworld.raspberrypi.org/issues/12) Page 88
+* ASSESSMENT IN SECONDARY COMPUTING - Alan O’Donohoe and John Woollard offer practical, common-sense advice on how to assess Computing for ages 11 to 16
 
 
 Objectives

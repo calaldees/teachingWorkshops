@@ -265,3 +265,6 @@
 
 * [Pricing Money: A Beginner’s Guide to Money. Bonds, Futures and Swaps](http://www.jdawiseman.com/books/pricing-money/Pricing_Money_JDAWiseman.html)
     * Fee eBook
+
+* [Hypersonic Missiles are Just Misunderstood](https://medium.com/@ToryBrunoULA/hypersonic-missiles-are-just-misunderstood-1a35c8ae3dd0)
+    * 

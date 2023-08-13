@@ -1,6 +1,8 @@
 Cultural Relevant Computing
 ===========================
 
+https://helloworld.raspberrypi.org/articles/hw17-inspiring-young-people-with-contexts-they-care-about
+https://helloworld.raspberrypi.org/articles/hw17-computing-for-all-designing-a-culturally-relevant-curriculum
 
 * Guidelines
     * People that look like them

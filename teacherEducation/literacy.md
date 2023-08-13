@@ -2,6 +2,9 @@ Literacy
 ========
 
 TODO:
+* [](https://helloworld.raspberrypi.org/issues/12) Page 68 Practice with Poetry comuting vocabulary
+* 
+  
 * [How to Teach Phonics in Secondary Schools](https://lexonik.co.uk/insights/how-to-teach-phonics-in-secondary-schools)
 The website we have been suggested to gauge the difficulty of a piece of text is: 
 https://charactercalculator.com/smog-readability/ 
@@ -10,7 +13,7 @@ Underneath it will give you the SMOG score which is essentially the reading age,
 
 
 * TODO [Five Ways To: Weave Reading into the Curriculum](https://teacherhead.com/2022/05/05/five-ways-to-weave-reading-into-the-curriculum/)
-* HelloWorld Issue 20 [SCAFFOLDED READING IN COMPUTING](https://helloworld.raspberrypi.org/issues/20/pdf) pg70, Rachel Arthur
+* [SCAFFOLDED READING IN COMPUTING](https://helloworld.raspberrypi.org/articles/hw20-scaffolded-reading-in-computing) HelloWorld Issue 20  [pdf](https://helloworld.raspberrypi.org/issues/20/pdf) pg70, Rachel Arthur
     * Example with reading a news article about Phishing and getting students to disect it
     * Scaffolded Reading
         1. Pre-reading

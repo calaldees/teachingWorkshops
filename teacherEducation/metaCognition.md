@@ -192,8 +192,8 @@ Ask them "why did you get it wrong"?
 Meta-Cognition
 --------------
 
-* EEF [Metacognition and Self-regulated Learning](https://educationendowmentfoundation.org.uk/tools/guidance-reports/metacognition-and-self-regulated-learning/)
-    * [METACOGNITION AND SELF-REGULATED LEARNING - Summary of recommendations](https://educationendowmentfoundation.org.uk/public/files/Publications/Metacognition/Summary_of_recommendations_poster.pdf)
+* EEF [Metacognition and Self-regulated Learning](https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition)
+    * [METACOGNITION AND SELF-REGULATED LEARNING - Summary of recommendations]()
         * [more of my notes](./metaCognition.md)
 
 TODO? Study - wider

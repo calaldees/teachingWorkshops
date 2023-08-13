@@ -1,6 +1,17 @@
 Misconceptions
 ==============
 
+https://helloworld.raspberrypi.org/articles/hw17-managing-misconceptions
+Vernacular misconceptions
+Accidental misconceptions
+Deliberate misconceptions
+Thinking about the tools
+Addressing misconceptions
+Learn as much as you can about the topic you’re teaching
+Plan specific questions to expose and challenge misconceptions
+Explore a range of pedagogies that focus on understanding as well as skills 
+Use diagnostic questions, such as multiple-choice questions, and deliberately introduce the misconception as a possible answer
+
 * TS 3.1 
     * > have a secure knowledge of the relevant subject(s) and curriculum areas, foster and maintain pupils’ interest in the subject, and address misunderstandings
 * ITT CCF 3.3

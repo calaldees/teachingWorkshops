@@ -1,6 +1,11 @@
 Curriculum
 ==========
 
+TODO:
+https://helloworld.raspberrypi.org/issues/12 https://helloworld.raspberrypi.org/issues/12/pdf page 62 Learning Graphs
+NCCE have this in Schemes of work
+https://helloworld.raspberrypi.org/issues/14 Page 46 WRITING A COMPLETE COMPUTING CURRICULUM: LESSONS LEARNT - Sway Grantham and her colleagues began writing the Teach Computing Curriculum 18 months ago. She shares some insights into what they learnt along the way
+
 * What is a curriculum. What is a subject curriculum?
 * NC and recent policy
 * What is Computing?

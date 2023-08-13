@@ -8,6 +8,9 @@ CS Unplugged
     * 5.) Adapt teaching
         * A variety of different ways
 
+https://helloworld.raspberrypi.org/issues/14
+page 22 ORGANISING AN OUTDOOR CODERDOJO EVENT
+page 36 VIDEOS TO INSPIRE - A new video series from the CAS team shows us how young people can learn computing skills from everyday activities — without the need for a computer
 
 Summary
 -------
@@ -107,6 +110,9 @@ TASK:
 * [mycs-teacher](https://sites.google.com/a/sfusd.edu/mycs-teacher/unit-2/2-1)
     * ComputerScienceForAll - most topics have an unplugged component (loops, events, variables, conditions)
 * [Networks Unplugged Workshop Pack](https://www.digitalschoolhouse.org.uk/workshops/networks-unplugged) - Mark	Dorling	2019 #networks
+* https://helloworld.raspberrypi.org/articles/hw20-unpacking-networks
+* [Nonograms](https://helloworld.raspberrypi.org/articles/hw18-kyokushin-puzzling-the-truth)
+    * japanise logical reasoning puzzles (like sudoku)
 
 * [CS4FN - Computational Thinking Puzzles (from Computer Science For Fun)](https://www.tes.com/teaching-resource/-12791989)
     * todo

@@ -2,6 +2,7 @@ CPD
 ===
 
 TODO: [National Institute to Teaching](https://niot.org.uk/)
+https://helloworld.raspberrypi.org/articles/what-makes-an-effective-computing-pd-experience
 
 ## ITT Core Framework
 > 8.1

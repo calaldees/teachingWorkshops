@@ -1,7 +1,9 @@
 Automated Tests (1 hour)
 ---------------
 
-* A super power for our subject disaplin with code.
+https://helloworld.raspberrypi.org/articles/hw19-self-marking-python-resources
+
+* A super power for our subject discipline with code.
 
 * `assert` statement
     * A shortcut to say "I expect this to be true - or break/error/stop now with a text description"

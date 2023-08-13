@@ -1,6 +1,8 @@
 Inspection
 ==========
 
+* [](https://helloworld.raspberrypi.org/issues/12) Page 36 COMPUTING AND THE REVISED OFSTED INSPECTION FRAMEWORK - Ofsted’s new inspection framework emphasises ‘quality of education’. Neil Rickus examine what this means for teachers, subject leaders, and pupils
+
 School inspection criteria for Computing (10min)
 -----------------------------------------
 

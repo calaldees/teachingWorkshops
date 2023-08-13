@@ -22,7 +22,8 @@ Computing Inclusion Further Reading
 TODO
 
 * [Sign language for computing terms](https://helloworld.raspberrypi.org/articles/hw19-sign-language-for-computing-terms)
-
+* [AV1 - Education technology for inclusion](https://www.noisolation.com/av1) – manage persistent school absence with the telepresence robot, AV1.
+    * Effective?
 * [The Inclusive Classroom](https://www.bloomsbury.com/uk/inclusive-classroom-9781472977892/)
     * A new approach to differentiation
 * [Supporting Trans Children in Schools: Findings and Recommendations](https://growinguptransgender.com/2020/08/21/supporting-trans-children-in-schools-findings-and-recommendations/)

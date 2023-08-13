@@ -44,8 +44,10 @@ Practical
             * key and critical way to develop large programs
 
 
-
-
+* networks with practical
+    * [Weaving the real-world internet](https://helloworld.raspberrypi.org/articles/hw20-weaving-the-real-world-internet)
+        * todo: more ...
+    * [Safe networking](https://helloworld.raspberrypi.org/articles/hw20-safe-networking)
 
 * [Khawer Ishtiaq](https://twitter.com/kishtiaq/status/1488212414604709890) @kishtiaq
    * > First Build a Computer Club session today was actually take apart a computer session. 
