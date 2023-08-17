@@ -273,3 +273,6 @@
 
 * [Maybe the problem is that Harvard exists](https://dynomight.net/harvard/)
     * Gated elite school self perpetuate
+
+* [Replace Peer Review with “Peer Replication”](https://blog.everydayscientist.com/replace-peer-review-with-peer-replication/)
+    * Why is this so uncommon?
