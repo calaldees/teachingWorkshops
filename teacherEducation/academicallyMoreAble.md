@@ -1,6 +1,8 @@
 Academically More Able
 ======================
 
+* Jamie Clarke (Graphic Artist) [Teaching Some vs Teaching All](https://www.jamieleeclark.com/graphics) poster
+* 
 
 * [13-Year-Old, Nicholas Sharkey, Creates a RISC-V Core](https://riscv.org/blog/2020/11/13-year-old-nicholas-sharkey-creates-a-risc-v-core/)
 * > ‘Too many bright children let down in the state system’ Ofsted 2013

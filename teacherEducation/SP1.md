@@ -1,6 +1,9 @@
 SP1
 ===
 
+TODO:
+* pkitsofranic mad subject - hardcore compsci assessment, esaftey and social impact (unassessed?)
+
 * Introductions
     * [Course overview and expectations](./courseMechanics.md) (1 hour)
     * Reflection, tooling and ways of working this year

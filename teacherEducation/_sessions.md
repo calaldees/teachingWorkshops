@@ -61,6 +61,7 @@ Readings
     * [Teaching and Learning Computer Science](https://textbooks.cs.ksu.edu/tlcs/) - Kansas State University’s Teacher Training Program CC4.0
     * [Pedagogy by proxy: developing computing PCK through shared lesson resources](https://sure.sunderland.ac.uk/id/eprint/13728/) Hidson, Elizabeth (2021)
 3. What is a teacher?
+    * (non-cs) Journal of Teacher Education: [The Work of Teaching and the Challenge for Teacher Education](https://journals.sagepub.com/doi/abs/10.1177/0022487109348479) 2009 - Teaching as _Unnatural_ Work - learning to do things that are not common in daily life
 4. What is education
     * [Rotten STEM: How Technology Corrupts Education](https://americanaffairsjournal.org/2019/08/rotten-stem-how-technology-corrupts-education/) 2019 Jared Woodard
     * [National Curriculum: computing programmes of study](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study) 2013
@@ -171,31 +172,38 @@ Thursday 21st September
 ### SP1
 Friday 22nd September
 
-* Introductions What is subject?
-* What are the expectations/misconceptions teaching subject?
-* Aims and purposes of our teaching and learning.
-* Accessing and understanding research in subject
+* Generic
+    * Introductions What is subject?
+    * What are the expectations/misconceptions teaching subject?
+    * Aims and purposes of our teaching and learning.
+    * Accessing and understanding research in subject
+* Computing
+    * (G) Aims and purposes of our teaching and learning
+        * Course overview and expectations
+        * Reflection, tooling and ways of working this year
+        * Meta-pedagogy (not _tips for teaching_)
+        * Training _you_ as teachers to _reinvent the profession_
+        * Teacher Standards (not a formative assessment tool but a final goal for all lessons)
+        * Weekley Targets and SPR - SMART Targets
+    * (G) What is Computing?
+        * 3 strands Computer Science, ICT, Digital Literacy
+        * National Curriculum (where is the AI?)
+        * (G) What are the expectations/misconceptions teaching Computing?
+            * Preparing students for a future we are unsure of
+            * not just programming - but programming
+    * (G2) Pedagogical Content Knowledge (PCK) Introduction to Shulman’s SK and PCK theory
+        * What is subject specific pedagogy and how is it defined in subject research?
+        * Differences between subject knowledge and subject pedagogy
+        * SKA and development
+    * (G) Accessing and understanding research in Computing
+        * Library Search
+        * Ofsted [Research review series: computing](https://www.gov.uk/government/publications/research-review-series-computing/research-review-series-computing) May 2022
+        * NCCE [Quick Reads](https://blog.teachcomputing.org/tag/quickread/)
+        * [[education_research]]
+            * EEF Teacher Toolkit
 
-
-* Introductions
-    * Course overview and expectations
-    * Reflection, tooling and ways of working this year
-    * Meta-pedagogy (not _tips for teaching_)
-    * Training _you_ as teachers to _reinvent the profession_
-* What is Computing?
-    * 3 strands Computer Science, ICT, Digital Literacy
-* Introduction to Shulman’s SK and PCK theory
-    * What is subject specific pedagogy and how is it defined in subject research?
-    * Differences between subject knowledge and subject pedagogy
-* SKA and development
-* What are the expectations/misconceptions teaching Computing?
-    * Preparing students for a future we are unsure of
-* Aims and purposes of our teaching and learning
-* Accessing and understanding research in Computing
-    * Library Search
-    * Ofsted [Research review series: computing](https://www.gov.uk/government/publications/research-review-series-computing/research-review-series-computing) May 2022
-    * NCCE [Quick Reads](https://blog.teachcomputing.org/tag/quickread/)
-
+* Mentor Foci
+    * none
 
 ### InC (SD Only)
 14th September
@@ -207,6 +215,7 @@ Monday 26th September
 * How do life experiences shape engagement with teaching and with being a learner in a professional context? (Epistemology and Ontology, conscious and unconscious bias)
 * What is criticality, educational ‘wisdom’ and the different types of teacher knowledge?
 * Resilience, mental health and wellbeing
+
 
 SQ 3: What is a teacher?
 -------------------------
@@ -226,18 +235,19 @@ Johnston, S., et al. (2016) [Adolescents’ Character Role Models: Exploring Who
 ### SP2 (PGCE only)
 Tuesday 26th September
 
-Generic
-* What is a subject teacher?
-* What is subject specific pedagogy and how is it defined in subject research? 
-* Differences between subject knowledge and subject pedagogy
-* SKA and development
-
-Subject
-* What is a Computing teacher?
-    * Visit School
-* Academic ethos, academic writing and academic research
-* Set SP assignment + deadlines
-* Set Microteach for SP4
+* Generic
+    * What is a subject teacher?
+    * What is subject specific pedagogy and how is it defined in subject research? 
+    * Differences between subject knowledge and subject pedagogy
+    * SKA and development
+* Computing
+    * What is a Computing teacher?
+        * Visit School
+    * Academic ethos, academic writing and academic research
+    * Set SP assignment + deadlines
+    * Set Microteach for SP4
+* Mentor
+    * None
 
 TODO: !! Eplicit - Aademic - helps with HOD in futures years - planting the seed
 
@@ -255,7 +265,7 @@ Beginning to understand the curriculum, educational diversity and the factors th
 
 ### Readings
 * GP1: Biesta, G. (2012) [The future of teacher education: Evidence, competence or wisdom?](https://www.researchgate.net/publication/277243237_The_future_of_teacher_education_Evidence_competence_or_wisdom)
-* Willingham, D. T. (2009) [Why don’t students like school?]()
+* [Why Don’t Students Like School](https://udlhcpss.files.wordpress.com/2012/05/willingham_2009_thestudentmind.pdf) Wilingham 2009 - as featured in American Educator
 
 ### GP1
 Friday 29th September - 09:00
@@ -264,27 +274,33 @@ Friday 29th September - 09:00
 ### SP3
 Friday 29th September - 11:00
 
-Generic
-* Learning to date re what is a teacher What is a curriculum/ subject curriculum? 
-* What is subject education? Introduction to Shulman’s SK and PCK theory – an example of theory used in educational research and practice
-* Identifying conceptions of SK and PCK and own development
-* NC and recent policy
-* Key influential subject documents, reports and research; current and over time.
-* How has subject changed and been influenced over recent times?
-
-
-Subject
-* What is a curriculum/ subject curriculum?
-* NC and recent policy
-* Key influential subject documents, reports and research; current and over time
+* Generic
+    * Learning to date re what is a teacher What is a curriculum/ subject curriculum? 
+    * What is subject education? Introduction to Shulman’s SK and PCK theory – an example of theory used in educational research and practice
+    * Identifying conceptions of SK and PCK and own development
+    * NC and recent policy
+    * Key influential subject documents, reports and research; current and over time.
     * How has subject changed and been influenced over recent times?
-* Digital-literacy
-* Literacy and numeracy in Computing
-* Literacy in Computing and technical language
-    * vocabulary to facilitate thinking about Computing
-* Planning a lesson
-    * #1-HighExp-Learn-how-1-set_stretch
-    * #1-HighExp-Learn-how-3-positive_mistakes_effort_daily
+* Computing
+    * Course Mechanics - Collaborative Teaching Phase
+        * How to observe a lesson (not just a list of descriptions)
+        * Which students did/didn't achieve/understand
+    * (G) What is a [curriculum](https://en.wikipedia.org/wiki/Curriculum) / subject curriculum?
+        * > planned sequence of instruction, or to a view of the student's experiences in terms of the educator's or school's instructional goals
+    * (G) [National Curriculum](./curriculum.md) and recent policy
+        * (G) Key influential subject documents, reports and research; current and over time
+            * (G) How has subject changed and been influenced over recent times?
+    * [Literacy](./literacy.md) and numeracy in Computing
+    * [Literacy](./literacy.md) in Computing and technical language
+        * vocabulary to facilitate thinking about Computing
+    * Planning a lesson
+        * talk less teaching (talk for less than 15min)
+        * scaffold scaffold scaffold
+        * Not 'Teaching to the middle'
+        * #1-HighExp-Learn-how-1-set_stretch
+        * #1-HighExp-Learn-how-3-positive_mistakes_effort_daily
+* Mentor
+    * None
 
 SSL (Staff Student Liaison) Student rep elected
 
@@ -301,24 +317,25 @@ Friday 29th September - 16:30
 
 ### SP4 (PGCE)
 Thursday 5th October
-Generic
-* What, and how, has teaching and learning of subject been affected in this area/my placement school? 
-* What are current subject practices?
 
-
-Subject
-* Microteach
-* What are the skills of reasoning and problem solving in Computer Science and how are computing departments addressing these? (KS3/KS4/KS5)
-* Planning for progression - Schemes of Work - Building schemata
-    * Pupils learn new ideas by linking those ideas to existing knowledge, organising this knowledge into increasingly complex mental models
-* Exploring strategies that aid teaching and learning including contextualised, independent, discovery
-
-* [Subject Pedagogy Research Proposal: Microsoft Form](https://forms.office.com/Pages/ResponsePage.aspx?id=2rIgA90iq02MIW5kS6FPE4bZosdBzY5AvRurHpjUivVUQ0JRMFNOREUwNlBTVkxLREQ5UDFQVDVaRC4u)
-
-Mentor
-Review the tasks in the CTP booklet and work collaboratively with the student teacher to discuss activities. Discuss the Early Impressions document.
-How do we design our subject curriculum at KS3? How did we decide which exam board to use at KS4/5? Why is the curriculum designed and sequenced as it is for this school/department? How does it meet the needs of the pupils at this school?
-Discuss needs around subject knowledge development (and audit), specifically in relation to the department curriculum.
+* Generic
+    * What, and how, has teaching and learning of subject been affected in this area/my placement school? 
+    * What are current subject practices?
+* Computing
+    * Microteach
+    * What are the skills of reasoning and problem solving in Computer Science and how are computing departments addressing these? (KS3/KS4/KS5)
+    * Planning for progression - Schemes of Work - Building schemata
+        * Pupils learn new ideas by linking those ideas to existing knowledge, organising this knowledge into increasingly complex mental models
+    * Exploring strategies that aid teaching and learning including contextualised, independent, discovery
+    * [Subject Pedagogy Research Proposal: Microsoft Form](https://forms.office.com/Pages/ResponsePage.aspx?id=2rIgA90iq02MIW5kS6FPE4bZosdBzY5AvRurHpjUivVUQ0JRMFNOREUwNlBTVkxLREQ5UDFQVDVaRC4u)
+* Mentor
+    * Review the tasks in the CTP booklet and work collaboratively with the student teacher to discuss activities. 
+    * Discuss the Early Impressions document.
+    * How do we design our subject curriculum at KS3? 
+    * How did we decide which exam board to use at KS4/5? 
+    * Why is the curriculum designed and sequenced as it is for this school/department?
+    * How does it meet the needs of the pupils at this school?
+    * Discuss needs around subject knowledge development (and audit), specifically in relation to the department curriculum.
 
 
 SQ 5: How do children learn?
@@ -346,30 +363,38 @@ Friday 6th October - 09:00
 ### SP5
 Friday 6th October - 11:00
 
-* Planning to aid learning in subject; making effective use of a lesson plan
+* Generic
+    * Planning to aid learning in subject; making effective use of a lesson plan
+* Computing
+    * [[progression_model]] KS3->KS5
+    * [[digitalLiteracy]]
+    * General education theories
+    * Prior knowledge, memory and recall; scaffolding learning
+    * scaffolding learning for prior knowledge, working memory and long-term memory
+        * retrieve information from memory, and spacing practice
+        * Interleaving
+            * concrete and abstract examples
+    * [[threshold_concepts]]  Threshold (foundational) concepts in Computing
+        * [[liminal_space]]
+    * Novice v experts (schemata)
+        * explicit, direct instruction with guided practice and relevant feedback
+        * Problems are: good for experts, hard for novices. Worked Examples: Degrade performance of experts, help notices
+    * [[metaCognition]]
+    * [[cognitive_load]]
+        * [[parsons_problems]]
+    * Concept maps
+    * #notional-machine
+    * Planning task
+* Mentor
+    * What is progress in learning and what does it look like in this subject area?
+        * Look at departments individual-lessons, term-sow, year, keystage. 
+            * How are these linked?
+            * Can students identify teaching concepts in department planning: 
+                * prior-learning, space-repetition, meta-cognition, scaffolding for cognitive load, threshold-concepts etc
+                * ares of computing (ICT, DigitalLiteracy, ComputerScience).
 
-* General education theories
-* Prior knowledge, memory and recall; scaffolding learning
-* scaffolding learning for prior knowledge, working memory and long-term memory
-    * retrieve information from memory, and spacing practice
-    * Interleaving
-        * concrete and abstract examples
-* [[threshold_concepts]]  Threshold (foundational) concepts in Computing
-    * [[liminal_space]]
-* Novice v experts (schemata)
-    * explicit, direct instruction with guided practice and relevant feedback
-* Meta-cognition
-* Cognitive load
-    * Parsons problems
-* Concept maps
-* #notional-machine
-
-
-Mentor
-* How are our choices influenced by National policy and debate?
-* Sharing of research underpinning the departmental philosophy.
-* What is progress in learning and what does it look like in this subject area?
-* How can I develop my own pedagogical practice?
+    * Sharing of research underpinning the departmental philosophy.
+    * How can I develop my own pedagogical practice?
 
 
 ### EP2
@@ -383,18 +408,21 @@ Friday 6th October - 16:30
 ### SP6
 Friday 13th October
 
-Generic
-* Effective pedagogical and theoretical approaches to subject learning and teaching - a variety of approaches, benefits and limitations
-
-Subject
-* Effective pedagogical and theoretical approaches to subject learning and teaching - a variety of approaches, benefits and limitations
-* PRIMM pedagogy
-* Fuller Model and Taxonomies for Computing
-* Further reaching into Computing pedagogies
-
-Mentor
-* What are the key barriers to learning in this curriculum area and how are those barriers addressed and overcome?
-* What key strategies are used in department and school? What relevant policies in school and department?
+* Generic
+    * Effective pedagogical and theoretical approaches to subject learning and teaching - a variety of approaches, benefits and limitations
+* Computing
+    * (G) Effective pedagogical and theoretical approaches to subject learning and teaching - a variety of approaches, benefits and limitations
+    * PRIMM pedagogy
+    * Fuller Model and Taxonomies for Computing
+    * Further reaching into Computing pedagogies
+* Mentor
+    * What are the key barriers to learning in this curriculum area and how are those barriers addressed and overcome?
+    * What key strategies are used in department and school? 
+    * Task: Identify practice/choices that are influenced by:
+        * Policy (national/regional)
+        * Policies in school
+        * Polices in department?
+        * By individual teacher
 
 
 
@@ -412,37 +440,40 @@ Friday 20th October - 09:00
 ### SP7
 Friday 20th October - 11:00
 
-Generic
-How can we aid B4L through our planning and teaching in
-subject?
-Barriers to learning and key research and practice in subject
-Making subject connections – unfamiliar and familiar	
+* Generic
+    * How can we aid B4L through our planning and teaching in subject?
+    * Barriers to learning and key research and practice in subject
+    * Making subject connections – unfamiliar and familiar (NOTE: Sematic Waves)
+* Computing
+    * (G) How can we aid B4L through our planning and teaching in Computing?
+    * (G) Barriers to learning and key research and practice in subject
+        * Technical (reliable?, responsive?)
+        * Mental/Emotional (99% of the time software is broken) - Anxiety
+    * The physical space of a Computer room
+    * Classroom management software
+    * Verbal and non-verbal communication for behaviour
+    * Teacher as a role model
+        * self-regulate one’s emotions affects pupils’ ability to learn, success in school and future lives
+        * Model mistakes deliberately - live coding/debugging
+    * Pupils worldview and motivation
+        * Intrinsic factors (related to their identity and values)
+        * Considering 'Meaningful success' from pupils perspective
+        * pupils believe that their feelings will be considered and understood
+    * Predictable and secure environment
+        * reinforcing routines, including through positive reinforcement
+* Mentor
+    * How do teachers relate to pupils to support _positive_ behaviour for learning?
+    * How is the department’s behaviour for learning policy implemented to aid learning?
+        * Task: What effective strategies have been observed? (Observation of other teachers? perhaps contrasting strategies from other subjects? consider _why_ these are effective)
+        * Task: Explicitly identify what a teacher has done to cultivate 'BehaviourForLearning' and what actions are taken as 'BehaviourManagement'
+    * How do teachers plan and teach their lessons managing the classroom environment to support positive behaviour for learning?
+    
 
-Subject
-* How can we aid B4L through our planning and teaching in Computing?
-* Barriers to learning and key research and practice in subject
-    * Technical (reliable?, responsive?)
-    * Mental/Emotional (99% of the time software is broken) - Anxiety
-* Verbal and non-verbal communication for behaviour
-* The physical space of a Computer room
-* Teacher as a role model
-    * self-regulate one’s emotions affects pupils’ ability to learn, success in school and future lives
-    * Computing is 98% failure
-* Pupils worldview and motivation
-    * Intrinsic factors (related to their identity and values)
-    * Considering 'Meaningful success' from pupils perspective
-    * pupils believe that their feelings will be considered and understood
-* Predictable and secure environment
-    * reinforcing routines, including through positive reinforcement
 
 Differed:
 * Making Computing connections – unfamiliar and familiar
 
 
-Mentor
-How do teachers relate to pupils to support positive behaviour for learning?
-How is the department’s behaviour for learning policy implemented to aid learning? What effective strategies have been observed?
-How do teachers plan and teach their lessons managing the classroom environment to support positive behaviour for learning?
 
 
 
@@ -469,25 +500,19 @@ A submersive experience week where you have a university day on Monday to prepar
 ### SP8 (PGCE)
 Friday 3rd November (After Inclusion Week)
 
-Generic
-Asking not telling – an introduction to effective exposition and questioning
-Prior knowledge, memory and recall; scaffolding learning 
-Metacognition and cognitive load
-Critical evaluation of learning theories
-
-Subject
-* Asking not telling – an introduction to effective exposition and questioning
-* Prior knowledge, memory and recall; scaffolding learning
-* Metacognition and cognitive load
-* Critical evaluation of learning theories
-
-* Diagnostic questions
-
-Mentor
-* How is the school’s conceptualisation of how children learn best evidenced in our subject level planning?
-* Revisit CTP activities to discuss key learning and progress, and subject knowledge audit specifically in relation to the department curriculum and approaches to effective subject pedagogy
-
-
+* Generic
+    * Asking not telling – an introduction to effective exposition and questioning
+    * Prior knowledge, memory and recall; scaffolding learning 
+    * Meta-cognition and cognitive load
+    * Critical evaluation of learning theories
+* Computing
+    * (G) Asking not telling – an introduction to effective exposition and questioning
+    * (G) Critical evaluation of learning theories
+    * Diagnostic questions
+* Mentor
+    * How is the school’s conceptualisation of how children learn best evidenced in our subject level planning?
+    * Revisit CTP activities to discuss key learning and progress, and subject knowledge audit specifically in relation to the department curriculum and approaches to effective subject pedagogy
+    * Task: Find examples of how questions and questioning can been used: identifying prior knowledge, drilling down into misconception, extending/stretching understanding.
 
 
 ### EP5
@@ -523,23 +548,26 @@ Friday 17th November - 09:00
 * Data and evaluation of learning; Being busy v learning 
 ### SP9
 Friday 17th November - 11:00
-* AfL strategies and feedback to inform subject practice 
-* Learning v progress; what does subject learning look like?	
-
-Subject
-* AfL strategies and feedback to inform Computing practice
-    * feedback supporting pupils to monitor and regulate their own learning
-* Learning v progress; what does Computing learning look like?
-
-* Reducing assessment workload
-    * High impact high quality feedback
-* Automated tests and fast feedback cycle
-* Bebras problems
-
-Mentor
-Exploration of formal assessment processes and exam board specifications - What is an effective assessment?
-How is assessment integrated into the department? How do we use the data gathered?
-How should data be used in the pupil progress evidence bundles?
+* Generic
+    * AfL strategies and feedback to inform subject practice 
+    * Learning v progress; what does subject learning look like?	
+* Computing
+    * (G) AfL strategies and feedback to inform Computing practice
+        * feedback supporting pupils to monitor and regulate their own learning
+    * (G) Learning v progress; what does Computing learning look like?
+        * Understanding GCSE assessment
+    * Reducing assessment workload
+        * High impact high quality feedback
+    * Exam board [[assessment_markscheme]]
+    * [[all_student_response_systems]]
+    * [[diagnostic_questions]]
+    * [[verbal_feedback]]
+    * [[automated_tests]] and fast feedback cycle
+    * [[bebras]] problems
+* Mentor
+    * Exploration of formal assessment processes and exam board specifications - What is an effective assessment?
+    * How is assessment integrated into the department? How do we use the data gathered?
+    * How should data be used in the pupil progress evidence bundles?
 
 
 
@@ -556,18 +584,20 @@ Friday 17th November - 16:30
 
 ### SP10
 Friday 24th November
-Generic
-* Formative assessment to inform planning and teaching in subject
-* Sequencing and structuring learning in subject
+* Generic
+    * Formative assessment to inform planning and teaching in subject
+    * Sequencing and structuring learning in subject
+* Computing
+    * [[teacherEducation/assessment]]
+        * activating learners as instructional resources for one another
+    * [[pairProgramming]], [[code-review]], [[version_control]]
+* Mentor
+    * How does the department use AfL to inform practice and curriculum development, how is it evident in planning? What is good practice?
+    * How does AfL inform the structure of learning in lessons?
+    * How does the department use feedback and self and peer assessment?
+        * Task: find an example of how this has been scaffolded
+    * How is homework used to inform AfL?
 
-Mentor
-* How does the department use AfL to inform practice and curriculum development, how is it evident in planning? What is good practice?
-* How does AfL inform the structure of learning in lessons?
-* How does the department use feedback and self and peer assessment?
-* How is homework used to inform AfL?
-
-
-(Organising Guest Speaker: Diversity)
 SPR1 Open Monday 27th November
 
 ### EP8
@@ -579,23 +609,23 @@ Friday 25th November - 16:30
 ### SP11
 Friday 1st December
 
-Generic
-* Subject misconceptions: a tool to aid learning. Links to prior knowledge, working and long-term memory and cognitive load.
-Subject
-* Cooperative and collaborative Computing learning
-* Pair programming, code review, version-control
-* Creativity
-    * mitigating the attainment hierarchy
-* eLearning environments and tools
-* Technologies for teaching Computing
-    * Microbits, Arduino, Raspberry Pi, Linux and Machine Virtualisation
-
-Mentor
-* Where do many of the subject misconceptions originate?
-* How can you anticipate them?
-* How are misconceptions used positively in learning in subject department?
-* What effective strategies are being used?
-
+* Generic
+    * Subject misconceptions: a tool to aid learning. Links to prior knowledge, working and long-term memory and cognitive load.
+* Computing
+    * Cooperative and collaborative Computing learning
+    
+    * Creativity
+        * mitigating the attainment hierarchy
+    * eLearning environments and tools
+    * Technologies for teaching Computing
+        * Microbits, Arduino, Raspberry Pi, Linux and Machine Virtualisation
+* Mentor
+    * Task: Identify a range of misconception that have been encountered for each year group taught.
+        * Where do many of the subject misconceptions originate?
+        * Can these misconceptions be anticipated?
+        * How are other computing teachers using 'misconceptions' positively in learning?
+        * What effective strategies are being used?
+        * Show evidence of including evidence of misconceptions in planning and reflect on their use.
 
 ### EP9
 Friday 1st December 16:30
@@ -985,6 +1015,22 @@ Misplaced?
 
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
+[education_research]: education_research.md "Education Research"
+[progression_model]: progression_model.md "progression_model"
+[digitalLiteracy]: digitalLiteracy.md "Digital Literacy"
 [threshold_concepts]: threshold_concepts.md "Threshold Concepts"
 [liminal_space]: liminal_space.md "liminal_space"
+[metaCognition]: metaCognition.md "Meta-cognition"
+[cognitive_load]: cognitive_load.md "cognitive_load"
+[parsons_problems]: parsons_problems.md "parsons_problems"
+[assessment_markscheme]: assessment_markscheme.md "assessment_markscheme"
+[all_student_response_systems]: all_student_response_systems.md "all_student_response_systems"
+[diagnostic_questions]: diagnostic_questions.md "diagnostic_questions"
+[verbal_feedback]: verbal_feedback.md "verbal_feedback"
+[automated_tests]: automated_tests.md "automated_tests"
+[bebras]: bebras.md "bebras"
+[teacherEducation/assessment]: assessment.md "Formative Assessment"
+[pairProgramming]: pairProgramming.md "Unsorted"
+[code-review]: code-review.md "code-review"
+[version_control]: version_control.md "Version Control"
 [//end]: # "Autogenerated link references"

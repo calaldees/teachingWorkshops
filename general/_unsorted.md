@@ -268,3 +268,8 @@
 
 * [Hypersonic Missiles are Just Misunderstood](https://medium.com/@ToryBrunoULA/hypersonic-missiles-are-just-misunderstood-1a35c8ae3dd0)
     * 
+* [What’s Causing the Rise of Hoarding Disorder?](https://daily.jstor.org/whats-causing-the-rise-of-hoarding-disorder/)
+    * Now that the DSM lists severe hoarding as a disorder apart from OCD, psychologists are asking what explains its prevalence.
+
+* [Maybe the problem is that Harvard exists](https://dynomight.net/harvard/)
+    * Gated elite school self perpetuate

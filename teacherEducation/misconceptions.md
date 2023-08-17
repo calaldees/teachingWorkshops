@@ -12,6 +12,11 @@ Plan specific questions to expose and challenge misconceptions
 Explore a range of pedagogies that focus on understanding as well as skills 
 Use diagnostic questions, such as multiple-choice questions, and deliberately introduce the misconception as a possible answer
 
+* The biggest Misconception
+    * Using Google and as "Answer engine" not a "Search engine"
+        * They are not the answers
+
+
 * TS 3.1 
     * > have a secure knowledge of the relevant subject(s) and curriculum areas, foster and maintain pupils’ interest in the subject, and address misunderstandings
 * ITT CCF 3.3
@@ -32,6 +37,7 @@ Greg Wilson
         * These errors are often deeply connected to the learner’s social identity, so they resist evidence and rationalize contradictions.
         * Using Google and as "Answer engine" not a "Search engine"
             * They are not the answers
+        * There is only one network. It's called the internet.
 * > [Brow2017] also compared the mistakes novices actually make with what their teachers thought they made. They found that, “…educators formed only a weak consensus about which mistakes are most frequent, that their rankings bore only a moderate correspondence to the students in the…data, and that educators’ experience had no effect on this level of agreement.”
     * For example, mistaking = (assignment) and == (equality) wasn’t nearly as common as most teachers believed.
 
@@ -161,7 +167,7 @@ are the characters you type the same as copy and paste?
     * Getting the `if (condition) {false bit} else {true bit}`
 *execution function instead of defining it
 * mismatched brackets - Brackets MUST match
-* Wrong type of brackets
+* Wrong type of brackets (there are 4 different types of brackets - it's hard to even know where they are on the keyboard)
 * Cannot comprehend 'i'ndentation' of blocks ... just can't .. can't even follow instructions. Simply does not understand what is even being said, or why it is being said.
 
 ```python

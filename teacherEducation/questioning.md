@@ -13,6 +13,9 @@ Questioning
         * mistakes’ are in fact fairly innate elements of human behaviour
         * the instinct of most trainees, and maybe most teachers, is to avoid children feeling bad.
         * the job of a teacher is to push students beyond what they think they can do
+    * Jamie Clarke (Graphic Artist) [Questioning: five mistakes to avoid](https://www.jamieleeclark.com/graphics) poster
+
+* Jamie Clarke (Graphic Artist) [Powerful Questioning: Michael Chiles](https://www.jamieleeclark.com/graphics) poster
 
 * Dialogic Teaching
 * Diagnostic Questions

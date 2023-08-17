@@ -2,6 +2,9 @@ How Students Learn
 ==================
 
 https://edcentral.uk/edblog/beginner-guides/a-beginners-guide-to-professor-doug-lemov-1
+* Jamie Clarke (Graphic Artist) [Explicit Instruction](https://www.jamieleeclark.com/graphics) poster
+* Jamie Clarke (Graphic Artist) [Making Every Lesson Count](https://www.jamieleeclark.com/graphics) poster
+* Jamie Clarke (Graphic Artist) [Meaningful Learning](https://www.jamieleeclark.com/graphics) poster
 
 ![Leaning Theories Graph](https://helpfulprofessor.com/wp-content/uploads/2019/11/31-learning-theories.jpg)
 Who's theories are in which domain
@@ -77,6 +80,7 @@ Required-Reading
 
 * Article [Why Don’t Students Like School](https://www.aft.org/sites/default/files/periodicals/WILLINGHAM%282%29.pdf) Wilingham 2009- as featured in American Educator
     * Full Book [Why Don′t Students Like School?: A Cognitive Scientist Answers Questions About How the Mind Works and What It Means for the Classroom](https://www.amazon.co.uk/Why-Don′t-Students-Like-School/dp/1119715660/) 2nd Edition June 2021 - 1st Edition Feb 2010
+    * Jamie Clarke (Graphic Artist) [Why Don't students like school](https://www.jamieleeclark.com/graphics) poster
     * Critical Breakdown [The genius of DT Willingham and WDSLS](https://teacherhead.com/2021/06/22/the-genius-of-dt-willingham-and-wdsls/) - Tom Sherrington 2021
     * My Notes
         * Teachers are _success's_ of the education _system/process_ and enjoy learning

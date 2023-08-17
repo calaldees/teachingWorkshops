@@ -2,6 +2,7 @@ Collaboration
 =============
 
 https://helloworld.raspberrypi.org/articles/hw17-discord-the-hub-of-community-building
+* Jamie Clarke (Graphic Artist) [Instructional Coaching: Steplab](https://www.jamieleeclark.com/graphics) poster
 
 * ITT CCF 4.9
     * > Paired and group activities can increase pupil success, but to work together effectively pupils need guidance, support and practice

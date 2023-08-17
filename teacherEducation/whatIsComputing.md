@@ -1,6 +1,10 @@
 What is Computing
 =================
 
+* [Statutory guidance: National curriculum in England: computing programmes of study 2013](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study)
+    * Where is the AI?
+
+
 * [Computing in English schools](http://milesberry.net/2017/01/computing-in-english-schools/) 2017 - Miles Berry
     * A convincing argument for Computing
         * Children’s inherent curiosity in the world around them

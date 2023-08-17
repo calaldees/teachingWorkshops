@@ -3,7 +3,7 @@ Formative Assessment
 
 TODO:
 * [Hello World Issue 12](https://helloworld.raspberrypi.org/issues/12) Page 88
-* ASSESSMENT IN SECONDARY COMPUTING - Alan O’Donohoe and John Woollard offer practical, common-sense advice on how to assess Computing for ages 11 to 16
+    * ASSESSMENT IN SECONDARY COMPUTING - Alan O’Donohoe and John Woollard offer practical, common-sense advice on how to assess Computing for ages 11 to 16
 
 
 Objectives
@@ -68,7 +68,7 @@ Introduction - Core Formative assessment principles
         3. providing feedback that moves learning forward
         4. activating learners as instructional resources for one another
         5. activating learners as owners of their own learning
-    6. CONSISTENT: Design a school feedback policy that prioritises and exemplifies the principles of effective feedback
+    1. CONSISTENT: Design a school feedback policy that prioritises and exemplifies the principles of effective feedback
 
 
 
@@ -149,6 +149,8 @@ Other
 
 
 [[feed_forward]]
+
+* Jamie Clarke (Graphic Artist) [Defining Excellence: Whole class feedback](https://www.jamieleeclark.com/graphics) poster Andrew Atherton
 
 
 EEF Trial (30min)
