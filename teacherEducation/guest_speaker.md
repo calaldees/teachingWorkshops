@@ -1,4 +1,0 @@
-Guest Speaker
-=============
-
-* Prep beforehand

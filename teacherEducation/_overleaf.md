@@ -1,6 +1,0 @@
-Overleaf
-========
-
-CTAN
-
-TikZ
