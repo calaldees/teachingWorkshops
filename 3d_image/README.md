@@ -26,6 +26,7 @@ http://www.magiceye.com/
 https://en.wikipedia.org/wiki/Chromostereopsis
 https://news.ycombinator.com/item?id=31102152
 
+* [The Man Who Invented VR Goggles 50 Years Too Soon Hugo Gernsback believed millions yearned for his 3D TV eyeglasses](https://spectrum.ieee.org/the-man-who-invented-vr-goggles-50-years-too-soon) 1963 - Teleglass's
 
 ### Video Implementation Types
 https://www.dpreview.com/articles/3797744816/3d-video-primer-part-1

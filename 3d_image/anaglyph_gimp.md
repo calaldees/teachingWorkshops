@@ -3,7 +3,6 @@ How to create red/cyan 3D images with GIMP
 
 ## Setup
 * Download example ‘left’ and ‘right’ images to your computer's ‘Documents’ folder
-    * http://calaldees.dreamhosters.com/pictures/lasar/
 * Open GIMP
     * Window -> Single-Window Mode
     * File -> Open as Layers
@@ -31,8 +30,8 @@ How to create red/cyan 3D images with GIMP
 * Calibrate your central point (where the red/cyan meet)
     * Cyan == invisible to right eye
     * Red == invisible to left eye
-    * Cyan to the right of red == towards the screen
-    * Red to the right of cyan == into the screen
+    * Cyan left, red right == into the screen (depth)
+    * Red left, cyan right == out of the screen
 * Move tool - move active layer (hold shift)
     * (ensure move tool is is `layer` rather than `selection`)
 
